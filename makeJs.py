@@ -2,6 +2,7 @@
 
 import json
 import sys
+import os
 
 
 __author__ = 'Sebastian'
@@ -48,16 +49,11 @@ def removeEmptyKeys(descr):
         if not len(descr[key]):
             del descr[key]
 
-def alterDocument(doc):
-    newDoc = {"uri": doc["uri"]}
-    descr = doc["description"]
-    newDescr = {}
 
+def alterInline(doc, newDoc, descr, newDescr):
     for key in descr.keys():
         if key not in ["fct-module", "fct-package", "fct-signature", "title", "fct-type", "fct-descr", "fct-source"]:
             raise Exception("unexpected " + key + " in " + doc["uri"])
-
-    removeEmptyKeys(descr)
 
     printIfMissing(descr, "fct-module", doc)
     checkCopy(descr, "fct-module", newDescr, "module")
@@ -82,21 +78,111 @@ def alterDocument(doc):
             raise Exception("unexpected " + newDescr["type"] + " in " + doc["uri"])
         del newDescr["signature"]
 
+
     newDoc["index"] = dict(newDescr)
 
     checkCopy(descr, "fct-source", newDescr, "source")
 
+
+def alterPackage(doc, newDoc, descr, newDescr):
+    for key in descr.keys():
+        if key not in ["pkg-author", "pkg-category", "pkg-description", "pkg-name", "pkg-synopsis", "pkg-dependencies", "pkg-maintainer", "title", "pkg-version", "pkg-homepage"]:
+            raise Exception("unexpected " + key + " in " + doc["uri"])
+
+    newDescr["type"] = "package"
+
+    #printIfMissing(descr, "pkg-author", doc)
+    checkCopy(descr, "pkg-author", newDescr, "author")
+
+    printIfMissing(descr, "pkg-category", doc)
+    checkCopy(descr, "pkg-category", newDescr, "category")
+
+    printIfMissing(descr, "pkg-description", doc)
+    checkCopy(descr, "pkg-description", newDescr, "description")
+
+    printIfMissing(descr, "pkg-name", doc)
+    checkCopy(descr, "pkg-name", newDescr, "name")
+
+    printIfMissing(descr, "pkg-synopsis", doc)
+    checkCopy(descr, "pkg-synopsis", newDescr, "synopsis")
+
+    newDoc["index"] = dict(newDescr)
+
+    printIfMissing(descr, "pkg-dependencies", doc)
+    checkCopy(descr, "pkg-dependencies", newDescr, "dependencies")
+
+    printIfMissing(descr, "pkg-maintainer", doc)
+    checkCopy(descr, "pkg-maintainer", newDescr, "maintainer")
+
+    #printIfMissing(descr, "pkg-version", doc)
+    checkCopy(descr, "pkg-version", newDescr, "version")
+
+    # printIfMissing(descr, "pkg-homepage", doc)
+    checkCopy(descr, "pkg-homepage", newDescr, "homepage")
+
+
+def alterDocument(doc):
+    newDoc = {"uri": doc["uri"]}
+    descr = doc["description"]
+    newDescr = {}
+
+    removeEmptyKeys(descr)
+
+    keyPrefixes = set(map(lambda x: x[0:3], descr.keys()))
+    if not keyPrefixes:
+        print("nothing to index for " + doc["uri"], file=sys.stderr)
+        newDoc["index"] = {}
+    elif "fct" in keyPrefixes:
+        alterInline(doc, newDoc, descr, newDescr)
+    elif "pkg" in keyPrefixes:
+        alterPackage(doc, newDoc, descr, newDescr)
+    else:
+        raise Exception("unknown key prefixes: " + str(keyPrefixes))
+
     newDoc["description"] = newDescr
+
     return newDoc
+
+
+def createContexts(fName):
+    c = [context("description", weight=0.3),
+         context("type", weight=0.0, default=False),
+         context("module", weight=0.5, regexp=".*"),
+         context("package"),
+         context("signature", weight=0.2, regexp=".*"),
+         context("source", weight=0.1, default=False, regexp=".*"),
+         context("name", weight=3.0),
+         context("author", regexp="[^,]*"),
+         context("category", default=False),
+         context("synopsis", weight=0.8),
+         context("dependencies", default=False),
+         context("maintainer", default=False),
+         context("version", default=False),
+         context("homepage", default=False, regexp=".*")
+         ]
+    #noinspection PyArgumentList
+    data = bytes(json.dumps(list(c), indent=4), encoding='UTF-8')
+    with open(fName, 'wb') as f:
+        f.write(data)
 
 
 def main():
     inF = sys.argv[1]
     outF = sys.argv[2]
+    if inF == "--contexts":
+        createContexts(outF)
+        exit(0)
+
+    if "00-ranking" in sys.argv[1]:
+        with open(outF, 'wb') as f:
+            f.write(bytes())
+            exit(0)
 
     with (open(inF, 'r')) as f:
         newJson = map(lambda x: insertCommand(alterDocument(stripCommand(x))), json.load(f))
+    #noinspection PyArgumentList
     newContent = bytes(json.dumps(list(newJson), indent=4), encoding='UTF-8')
+    os.makedirs(os.path.dirname(outF), exist_ok=True)
     with open(outF, 'wb') as f:
         f.write(newContent)
 
