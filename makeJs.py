@@ -24,14 +24,17 @@ def context(name, weight=1.0, default=True, normalizers=None, regexp="\\w*", typ
 
 
 def insertCommand(d):
+    """
+    @type d: tuple
+    """
     return {
-        "cmd": "insert",
-        "document": d
+        "cmd": d[1],
+        "document": d[0]
     }
 
 
 def stripCommand(c):
-    return c["document"]
+    return c if "uri" in c else c["document"]
 
 
 def checkCopy(old, oldKey, new, newKey):
@@ -41,7 +44,7 @@ def checkCopy(old, oldKey, new, newKey):
 
 def printIfMissing(old, oldKey, doc):
     if oldKey not in old:
-        print("missing " + oldKey +" in " + doc["uri"], file=sys.stderr)
+        print("missing %s in %s" % (oldKey, doc["uri"]), file=sys.stderr)
 
 
 def removeEmptyKeys(descr):
@@ -53,7 +56,7 @@ def removeEmptyKeys(descr):
 def alterInline(doc, newDoc, descr, newDescr):
     for key in descr.keys():
         if key not in ["fct-module", "fct-package", "fct-signature", "title", "fct-type", "fct-descr", "fct-source"]:
-            raise Exception("unexpected " + key + " in " + doc["uri"])
+            raise Exception("unexpected %s in %s" % (key, doc["uri"]))
 
     printIfMissing(descr, "fct-module", doc)
     checkCopy(descr, "fct-module", newDescr, "module")
@@ -82,6 +85,7 @@ def alterInline(doc, newDoc, descr, newDescr):
     newDoc["index"] = dict(newDescr)
 
     checkCopy(descr, "fct-source", newDescr, "source")
+    return "insert"
 
 
 def alterPackage(doc, newDoc, descr, newDescr):
@@ -119,6 +123,14 @@ def alterPackage(doc, newDoc, descr, newDescr):
 
     # printIfMissing(descr, "pkg-homepage", doc)
     checkCopy(descr, "pkg-homepage", newDescr, "homepage")
+    return "insert"
+
+
+def alterRank(doc, newDoc, descr, newDescr):
+    if list(descr.keys()) != ["pkg-rank"]:
+        raise Exception("unexpected %s " % descr.keys())
+    checkCopy(descr, "pkg-rank", newDescr, "rank")
+    return "update"
 
 
 def alterDocument(doc):
@@ -129,19 +141,22 @@ def alterDocument(doc):
     removeEmptyKeys(descr)
 
     keyPrefixes = set(map(lambda x: x[0:3], descr.keys()))
+    cmd = "insert"
     if not keyPrefixes:
         print("nothing to index for " + doc["uri"], file=sys.stderr)
         newDoc["index"] = {}
+    elif "pkg-rank" in descr.keys():
+        cmd = alterRank(doc, newDoc, descr, newDescr)
     elif "fct" in keyPrefixes:
-        alterInline(doc, newDoc, descr, newDescr)
+        cmd = alterInline(doc, newDoc, descr, newDescr)
     elif "pkg" in keyPrefixes:
-        alterPackage(doc, newDoc, descr, newDescr)
+        cmd = alterPackage(doc, newDoc, descr, newDescr)
     else:
         raise Exception("unknown key prefixes: " + str(keyPrefixes))
 
     newDoc["description"] = newDescr
 
-    return newDoc
+    return newDoc, cmd
 
 
 def createContexts(fName):
@@ -172,11 +187,6 @@ def main():
     if inF == "--contexts":
         createContexts(outF)
         exit(0)
-
-    if "00-ranking" in sys.argv[1]:
-        with open(outF, 'wb') as f:
-            f.write(bytes())
-            exit(0)
 
     with (open(inF, 'r')) as f:
         newJson = map(lambda x: insertCommand(alterDocument(stripCommand(x))), json.load(f))
