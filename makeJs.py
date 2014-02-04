@@ -166,7 +166,7 @@ def createContexts(fName):
          context("package"),
          context("signature", weight=0.2, regexp=".*"),
          context("source", weight=0.1, default=False, regexp=".*"),
-         context("name", weight=3.0),
+         context("name", weight=3.0, regexp="[^ ]*"),
          context("author", regexp="[^,]*"),
          context("category", default=False),
          context("synopsis", weight=0.8),
