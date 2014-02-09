@@ -13,10 +13,10 @@ clean:
 	- rm -f hayooContexts.js
 	- rm -rf $(NEWJSONDIR)/
 
-hayooContexts.js:
+hayooContexts.js: makeJs.py
 	./makeJs.py --contexts hayooContexts.js
 
-$(NEWJSONDIR)/%.js: $(JSONDIR)/%.js
+$(NEWJSONDIR)/%.js: makeJs.py $(JSONDIR)/%.js
 	./makeJs.py $(JSONDIR)/$*.js $@
 
 insert: hayooContexts.js $(NEWJSONFILES)

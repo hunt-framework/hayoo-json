@@ -3,9 +3,21 @@
 import json
 import sys
 import os
+from functools import reduce
+import uuid
 
 
 __author__ = 'Sebastian'
+
+def toMultiDict(items):
+    """
+    should be part of the standard library ...
+    """
+    def insertMulti(d, kv):
+        k, v = kv
+        d.setdefault(k, []).append(v)
+        return d
+    return reduce(insertMulti, [{}] + items)
 
 
 def context(name, weight=1.0, default=True, normalizers=None, regexp="\\w*", type="text"):
@@ -134,7 +146,7 @@ def alterRank(doc, newDoc, descr, newDescr):
 
 
 def alterDocument(doc):
-    newDoc = {"uri": doc["uri"]}
+    newDoc = {"uri": str(uuid.uuid4())}
     descr = doc["description"]
     newDescr = {}
 
@@ -153,7 +165,7 @@ def alterDocument(doc):
         cmd = alterPackage(doc, newDoc, descr, newDescr)
     else:
         raise Exception("unknown key prefixes: " + str(keyPrefixes))
-
+    newDescr["uri"] = doc["uri"]
     newDoc["description"] = newDescr
 
     return newDoc, cmd
@@ -181,15 +193,63 @@ def createContexts(fName):
         f.write(data)
 
 
+def mergeDublicateFunctions(newDocs):
+    def generateKey(doc):
+        try:
+            desc = doc["description"]
+            if desc["type"] != "function":
+                return None
+            k = "".join([desc["package"], desc["name"], desc["signature"], desc["description"], desc["name"]])
+            return k
+        except KeyError:
+            return None
+
+    def mergeFunctions(item):
+        k, docs = item
+        if k is None:
+            return docs
+        doc = docs[0]
+        doc["description"]["module"] = ",".join(set(map(lambda d: d["description"]["module"], docs)))
+        doc["index"]["module"] = doc["description"]["module"]
+
+        newUris = dict(map(lambda d: (d["description"]["module"], d["description"]["uri"]), docs))
+        doc["description"]["uri"] = json.dumps(newUris)
+
+        return doc
+
+    colltectedDocs = toMultiDict(list(map(lambda d: (generateKey(d), d), newDocs)))
+    unchanged = colltectedDocs[None]
+    del colltectedDocs[None]
+
+    return unchanged + list(map(mergeFunctions, colltectedDocs.items()))
+
+
+def concatFiles(outName, inFileNames):
+    def listGenerator():
+        for inName in inFileNames:
+            with open(inName, 'r') as f:
+                for item in json.load(f):
+                    yield item
+
+    with open(outName, 'w') as f:
+        json.dump(listGenerator(), f)
+
+
 def main():
     inF = sys.argv[1]
     outF = sys.argv[2]
     if inF == "--contexts":
         createContexts(outF)
         exit(0)
+    if sys.argv[1] == "--concat":
+        concatFiles(sys.argv[2], sys.argv[3:])
+        exit(0)
 
     with (open(inF, 'r')) as f:
-        newJson = map(lambda x: insertCommand(alterDocument(stripCommand(x))), json.load(f))
+        newDocs, inserCommands = zip(*map(lambda x: alterDocument(stripCommand(x)), json.load(f)))
+        mergedDocs = mergeDublicateFunctions(newDocs)
+
+        newJson = map(lambda x: insertCommand(x), zip(mergedDocs, inserCommands))
     #noinspection PyArgumentList
     newContent = bytes(json.dumps(list(newJson), indent=4), encoding='UTF-8')
     os.makedirs(os.path.dirname(outF), exist_ok=True)
