@@ -4,7 +4,6 @@ import json
 import sys
 import os
 from functools import reduce
-import uuid
 
 
 __author__ = 'Sebastian'
@@ -146,7 +145,7 @@ def alterRank(doc, newDoc, descr, newDescr):
 
 
 def alterDocument(doc):
-    newDoc = {"uri": str(uuid.uuid4())}
+    newDoc = {"uri": doc["uri"]}
     descr = doc["description"]
     newDescr = {}
 
@@ -175,16 +174,16 @@ def createContexts(fName):
     c = [context("description", weight=0.3),
          context("type", weight=0.0, default=False),
          context("module", weight=0.5, regexp=".*"),
-         context("package"),
+         context("package", regexp=".*"),
          context("signature", weight=0.2, regexp=".*"),
          context("source", weight=0.1, default=False, regexp=".*"),
          context("name", weight=3.0, regexp="[^ ]*"),
          context("author", regexp="[^,]*"),
          context("category", default=False),
          context("synopsis", weight=0.8),
-         context("dependencies", default=False),
+         context("dependencies", default=False, regexp="[^ ]*"),
          context("maintainer", default=False),
-         context("version", default=False),
+         context("version", default=False, regexp=".*"),
          context("homepage", default=False, regexp=".*")
          ]
     #noinspection PyArgumentList
@@ -215,6 +214,8 @@ def mergeDublicateFunctions(newDocs):
         newUris = dict(map(lambda d: (d["description"]["module"], d["description"]["uri"]), docs))
         doc["description"]["uri"] = json.dumps(newUris)
 
+        doc["uri"] = sorted(newUris.values(), key=len)[0]
+
         return doc
 
     colltectedDocs = toMultiDict(list(map(lambda d: (generateKey(d), d), newDocs)))
@@ -224,15 +225,43 @@ def mergeDublicateFunctions(newDocs):
     return unchanged + list(map(mergeFunctions, colltectedDocs.items()))
 
 
-def concatFiles(outName, inFileNames):
+def concatFiles(filesize, outPath, inFileNames):
     def listGenerator():
         for inName in inFileNames:
             with open(inName, 'r') as f:
                 for item in json.load(f):
                     yield item
 
-    with open(outName, 'w') as f:
-        json.dump(listGenerator(), f)
+#    with open(outName, 'w') as f:
+#        json.dump(listGenerator(), f)
+    def newFile(i):
+        filePath = os.path.join(outPath, str(i) + ".js")
+        print(filePath)
+        currentFile = open(filePath, 'w')
+        currentFile.write("[")
+        return currentFile
+
+    currentPack = 0
+    currentSize = 0
+    os.makedirs(outPath, exist_ok=True)
+
+    f = newFile(currentPack)
+    for item in listGenerator():
+        if currentSize:
+            f.write(",\n")
+        serialized = json.dumps(item, f)
+        currentSize += len(serialized)
+        f.write(serialized)
+        if currentSize > filesize * 1024 * 1024:
+            f.write("]")
+            f.close()
+            currentPack += 1
+            currentSize = 0
+            f = newFile(currentPack)
+
+    f.write("]")
+    f.close()
+
 
 
 def main():
@@ -242,7 +271,7 @@ def main():
         createContexts(outF)
         exit(0)
     if sys.argv[1] == "--concat":
-        concatFiles(sys.argv[2], sys.argv[3:])
+        concatFiles(int(sys.argv[2]), sys.argv[3], sys.argv[4:])
         exit(0)
 
     with (open(inF, 'r')) as f:

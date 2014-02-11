@@ -19,7 +19,7 @@ hayooContexts.js: makeJs.py
 $(NEWJSONDIR)/%.js: makeJs.py $(JSONDIR)/%.js
 	./makeJs.py $(JSONDIR)/$*.js $@
 
-insert: hayooContexts.js $(NEWJSONFILES)
+insert-package: hayooContexts.js $(NEWJSONFILES)
 	curl -X POST -d @hayooContexts.js $(SERVER)/eval; \
 	echo ""; \
 	i=1; \
@@ -29,14 +29,21 @@ insert: hayooContexts.js $(NEWJSONFILES)
 		i=$$(($$i+1)); \
 	done
 
-insert-batch: hayooContexts.js batch.js
-	curl -X POST -d @hayooContexts.js $(SERVER)/eval
-	curl -X POST -d @batch.js $(SERVER)/eval
+packed: hayooContexts.js
+	./makeJs.py --concat 10 packedFiles $(NEWJSONFILES)
 
-batch.js: $(NEWJSONFILES)
-	(( echo "["; \
-	for file in $(NEWJSONFILES); do \
-		cat "$$file" | tail -n +2 | head -n -1; \
-		echo ","; \
-	done; \
-	) | head -n -1; echo "]" ) > batch.js
+clean-packed:
+	rm -rf packedFiles
+
+insert-packed: hayooContexts.js
+	curl -X POST -d @hayooContexts.js $(SERVER)/eval; \
+	echo ""; \
+	i=1; \
+	for file in packedFiles/*.js; do \
+		echo -n "\n$$i - $$file"; \
+		curl -X POST -d @"$$file" $(SERVER)/eval; \
+		i=$$(($$i+1)); \
+	done
+
+
+
