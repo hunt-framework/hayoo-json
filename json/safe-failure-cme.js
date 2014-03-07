@@ -1,26 +1,39 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/safe-failure-cme/docs/Safe-Failure-Instances.html#",
-      "description": {
-        "fct-module": "Safe.Failure.Instances",
-        "fct-package": "safe-failure-cme",
-        "fct-signature": "module",
-        "fct-source": "src/Safe-Failure-Instances.html",
-        "fct-type": "module",
-        "title": "Instances"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "safe-failure-cme"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Safe Failure Instances",
-        "module": "Safe.Failure.Instances",
-        "name": "Instances",
-        "normalized": "",
-        "package": "safe-failure-cme",
-        "partial": "Instances",
-        "signature": ""
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Safe.Failure.Instances",
+          "name": "Instances",
+          "package": "safe-failure-cme",
+          "source": "src/Safe-Failure-Instances.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Safe Failure Instances",
+          "module": "Safe.Failure.Instances",
+          "name": "Instances",
+          "package": "safe-failure-cme",
+          "partial": "Instances",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/safe-failure-cme/docs/Safe-Failure-Instances.html#"
       }
     }
-  }
+  ]
 ]

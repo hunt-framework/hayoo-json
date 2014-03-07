@@ -1,13186 +1,11165 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#",
-      "description": {
-        "fct-module": "Analysis.Timing.Library",
-        "fct-package": "Wired",
-        "fct-signature": "module",
-        "fct-source": "src/Analysis-Timing-Library.html",
-        "fct-type": "module",
-        "title": "Library"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing Library",
-        "module": "Analysis.Timing.Library",
-        "name": "Library",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Library",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#t:LayerProps",
-      "description": {
-        "fct-module": "Analysis.Timing.Library",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Analysis-Timing-Library.html#LayerProps",
-        "fct-type": "data",
-        "title": "LayerProps"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing Library",
-        "module": "Analysis.Timing.Library",
-        "name": "LayerProps",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Layer Props",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#t:Slope",
-      "description": {
-        "fct-module": "Analysis.Timing.Library",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Analysis-Timing-Library.html#Slope",
-        "fct-type": "data",
-        "title": "Slope"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing Library",
-        "module": "Analysis.Timing.Library",
-        "name": "Slope",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Slope",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#t:Timing",
-      "description": {
-        "fct-module": "Analysis.Timing.Library",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Analysis-Timing-Library.html#Timing",
-        "fct-type": "data",
-        "title": "Timing"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing Library",
-        "module": "Analysis.Timing.Library",
-        "name": "Timing",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Timing",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#t:TimingLibrary",
-      "description": {
-        "fct-module": "Analysis.Timing.Library",
-        "fct-package": "Wired",
-        "fct-signature": "class",
-        "fct-source": "src/Analysis-Timing-Library.html#TimingLibrary",
-        "fct-type": "class",
-        "title": "TimingLibrary"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing Library",
-        "module": "Analysis.Timing.Library",
-        "name": "TimingLibrary",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Timing Library",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#t:WireTimingLibrary",
-      "description": {
-        "fct-module": "Analysis.Timing.Library",
-        "fct-package": "Wired",
-        "fct-signature": "class",
-        "fct-source": "src/Analysis-Timing-Library.html#WireTimingLibrary",
-        "fct-type": "class",
-        "title": "WireTimingLibrary"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing Library",
-        "module": "Analysis.Timing.Library",
-        "name": "WireTimingLibrary",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Wire Timing Library",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:Falling",
-      "description": {
-        "fct-module": "Analysis.Timing.Library",
-        "fct-package": "Wired",
-        "fct-signature": "Falling",
-        "fct-source": "src/Analysis-Timing-Library.html#Slope",
-        "fct-type": "function",
-        "title": "Falling"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing Library",
-        "module": "Analysis.Timing.Library",
-        "name": "Falling",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Falling",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:LayerProps",
-      "description": {
-        "fct-module": "Analysis.Timing.Library",
-        "fct-package": "Wired",
-        "fct-signature": "LayerProps",
-        "fct-source": "src/Analysis-Timing-Library.html#LayerProps",
-        "fct-type": "function",
-        "title": "LayerProps"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing Library",
-        "module": "Analysis.Timing.Library",
-        "name": "LayerProps",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Layer Props",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:Rising",
-      "description": {
-        "fct-module": "Analysis.Timing.Library",
-        "fct-package": "Wired",
-        "fct-signature": "Rising",
-        "fct-source": "src/Analysis-Timing-Library.html#Slope",
-        "fct-type": "function",
-        "title": "Rising"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing Library",
-        "module": "Analysis.Timing.Library",
-        "name": "Rising",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Rising",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:Timing",
-      "description": {
-        "fct-module": "Analysis.Timing.Library",
-        "fct-package": "Wired",
-        "fct-signature": "Timing",
-        "fct-source": "src/Analysis-Timing-Library.html#Timing",
-        "fct-type": "function",
-        "title": "Timing"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing Library",
-        "module": "Analysis.Timing.Library",
-        "name": "Timing",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Timing",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:arrivalTime",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Analysis.Timing.Library",
-        "fct-package": "Wired",
-        "fct-signature": "Time",
-        "fct-source": "src/Analysis-Timing-Library.html#Timing",
-        "fct-type": "function",
-        "title": "arrivalTime"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing Library",
-        "module": "Analysis.Timing.Library",
-        "name": "arrivalTime",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Time",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:capPerArea",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Analysis.Timing.Library",
-        "fct-package": "Wired",
-        "fct-signature": "Double",
-        "fct-source": "src/Analysis-Timing-Library.html#LayerProps",
-        "fct-type": "function",
-        "title": "capPerArea"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing Library",
-        "module": "Analysis.Timing.Library",
-        "name": "capPerArea",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Per Area",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:delay",
-      "description": {
-        "fct-module": "Analysis.Timing.Library",
-        "fct-package": "Wired",
-        "fct-signature": "lib -\u003e InPin -\u003e OutPin -\u003e Slope -\u003e Capacitance -\u003e Timing -\u003e Timing",
-        "fct-source": "src/Analysis-Timing-Library.html#delay",
-        "fct-type": "method",
-        "title": "delay"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing Library",
-        "module": "Analysis.Timing.Library",
-        "name": "delay",
-        "normalized": "a-\u003eInPin-\u003eOutPin-\u003eSlope-\u003eCapacitance-\u003eTiming-\u003eTiming",
-        "package": "Wired",
-        "partial": "",
-        "signature": "lib-\u003eInPin-\u003eOutPin-\u003eSlope-\u003eCapacitance-\u003eTiming-\u003eTiming"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:edgeCap",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Analysis.Timing.Library",
-        "fct-package": "Wired",
-        "fct-signature": "Double",
-        "fct-source": "src/Analysis-Timing-Library.html#LayerProps",
-        "fct-type": "function",
-        "title": "edgeCap"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing Library",
-        "module": "Analysis.Timing.Library",
-        "name": "edgeCap",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Cap",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:layerProps",
-      "description": {
-        "fct-module": "Analysis.Timing.Library",
-        "fct-package": "Wired",
-        "fct-signature": "Layer_ -\u003e Res lib LayerProps",
-        "fct-source": "src/Analysis-Timing-Library.html#layerProps",
-        "fct-type": "method",
-        "title": "layerProps"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing Library",
-        "module": "Analysis.Timing.Library",
-        "name": "layerProps",
-        "normalized": "Layer_-\u003eRes a LayerProps",
-        "package": "Wired",
-        "partial": "Props",
-        "signature": "Layer_-\u003eRes lib LayerProps"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:layerWidth",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Analysis.Timing.Library",
-        "fct-package": "Wired",
-        "fct-signature": "Width",
-        "fct-source": "src/Analysis-Timing-Library.html#LayerProps",
-        "fct-type": "function",
-        "title": "layerWidth"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing Library",
-        "module": "Analysis.Timing.Library",
-        "name": "layerWidth",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Width",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:linearDelay",
-      "description": {
-        "fct-module": "Analysis.Timing.Library",
-        "fct-package": "Wired",
-        "fct-signature": "Delay -\u003e Double -\u003e Double -\u003e Resistance -\u003e Resistance -\u003e Capacitance -\u003e Timing -\u003e Timing",
-        "fct-source": "src/Analysis-Timing-Library.html#linearDelay",
-        "fct-type": "function",
-        "title": "linearDelay"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing Library",
-        "module": "Analysis.Timing.Library",
-        "name": "linearDelay",
-        "normalized": "Delay-\u003eDouble-\u003eDouble-\u003eResistance-\u003eResistance-\u003eCapacitance-\u003eTiming-\u003eTiming",
-        "package": "Wired",
-        "partial": "Delay",
-        "signature": "Delay-\u003eDouble-\u003eDouble-\u003eResistance-\u003eResistance-\u003eCapacitance-\u003eTiming-\u003eTiming"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:loadCaps",
-      "description": {
-        "fct-module": "Analysis.Timing.Library",
-        "fct-package": "Wired",
-        "fct-signature": "lib -\u003e [Capacitance]",
-        "fct-source": "src/Analysis-Timing-Library.html#loadCaps",
-        "fct-type": "method",
-        "title": "loadCaps"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing Library",
-        "module": "Analysis.Timing.Library",
-        "name": "loadCaps",
-        "normalized": "a-\u003e[Capacitance]",
-        "package": "Wired",
-        "partial": "Caps",
-        "signature": "lib-\u003e[Capacitance]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:maximumByArrival",
-      "description": {
-        "fct-module": "Analysis.Timing.Library",
-        "fct-package": "Wired",
-        "fct-signature": "[Timing] -\u003e Timing",
-        "fct-source": "src/Analysis-Timing-Library.html#maximumByArrival",
-        "fct-type": "function",
-        "title": "maximumByArrival"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing Library",
-        "module": "Analysis.Timing.Library",
-        "name": "maximumByArrival",
-        "normalized": "[Timing]-\u003eTiming",
-        "package": "Wired",
-        "partial": "By Arrival",
-        "signature": "[Timing]-\u003eTiming"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:mkTimingTable",
-      "description": {
-        "fct-module": "Analysis.Timing.Library",
-        "fct-package": "Wired",
-        "fct-signature": "CInt -\u003e CInt -\u003e (CInt -\u003e CDouble) -\u003e (CInt -\u003e CDouble) -\u003e (CInt -\u003e CInt -\u003e CDouble) -\u003e Table2D CInt x y q",
-        "fct-source": "src/Analysis-Timing-Library.html#mkTimingTable",
-        "fct-type": "function",
-        "title": "mkTimingTable"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing Library",
-        "module": "Analysis.Timing.Library",
-        "name": "mkTimingTable",
-        "normalized": "CInt-\u003eCInt-\u003e(CInt-\u003eCDouble)-\u003e(CInt-\u003eCDouble)-\u003e(CInt-\u003eCInt-\u003eCDouble)-\u003eTable D CInt a b c",
-        "package": "Wired",
-        "partial": "Timing Table",
-        "signature": "CInt-\u003eCInt-\u003e(CInt-\u003eCDouble)-\u003e(CInt-\u003eCDouble)-\u003e(CInt-\u003eCInt-\u003eCDouble)-\u003eTable D CInt x y q"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:tableDelay",
-      "description": {
-        "fct-module": "Analysis.Timing.Library",
-        "fct-package": "Wired",
-        "fct-signature": "Table2D CInt TransitionTime Capacitance Time -\u003e Table2D CInt TransitionTime Capacitance TransitionTime -\u003e Capacitance -\u003e Timing -\u003e Timing",
-        "fct-source": "src/Analysis-Timing-Library.html#tableDelay",
-        "fct-type": "function",
-        "title": "tableDelay"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing Library",
-        "module": "Analysis.Timing.Library",
-        "name": "tableDelay",
-        "normalized": "Table D CInt TransitionTime Capacitance Time-\u003eTable D CInt TransitionTime Capacitance TransitionTime-\u003eCapacitance-\u003eTiming-\u003eTiming",
-        "package": "Wired",
-        "partial": "Delay",
-        "signature": "Table D CInt TransitionTime Capacitance Time-\u003eTable D CInt TransitionTime Capacitance TransitionTime-\u003eCapacitance-\u003eTiming-\u003eTiming"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:transitionTime",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Analysis.Timing.Library",
-        "fct-package": "Wired",
-        "fct-signature": "TransitionTime",
-        "fct-source": "src/Analysis-Timing-Library.html#Timing",
-        "fct-type": "function",
-        "title": "transitionTime"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing Library",
-        "module": "Analysis.Timing.Library",
-        "name": "transitionTime",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Time",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:wireCap",
-      "description": {
-        "fct-module": "Analysis.Timing.Library",
-        "fct-package": "Wired",
-        "fct-signature": "Layer_ -\u003e Length -\u003e Res lib Capacitance",
-        "fct-source": "src/Analysis-Timing-Library.html#wireCap",
-        "fct-type": "function",
-        "title": "wireCap"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing Library",
-        "module": "Analysis.Timing.Library",
-        "name": "wireCap",
-        "normalized": "Layer_-\u003eLength-\u003eRes a Capacitance",
-        "package": "Wired",
-        "partial": "Cap",
-        "signature": "Layer_-\u003eLength-\u003eRes lib Capacitance"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing.html#",
-      "description": {
-        "fct-module": "Analysis.Timing",
-        "fct-package": "Wired",
-        "fct-signature": "module",
-        "fct-source": "src/Analysis-Timing.html",
-        "fct-type": "module",
-        "title": "Timing"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing",
-        "module": "Analysis.Timing",
-        "name": "Timing",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Timing",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing.html#t:Timing",
-      "description": {
-        "fct-module": "Analysis.Timing",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Analysis-Timing-Library.html#Timing",
-        "fct-type": "data",
-        "title": "Timing"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing",
-        "module": "Analysis.Timing",
-        "name": "Timing",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Timing",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing.html#t:TimingLibrary",
-      "description": {
-        "fct-module": "Analysis.Timing",
-        "fct-package": "Wired",
-        "fct-signature": "class",
-        "fct-source": "src/Analysis-Timing-Library.html#TimingLibrary",
-        "fct-type": "class",
-        "title": "TimingLibrary"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing",
-        "module": "Analysis.Timing",
-        "name": "TimingLibrary",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Timing Library",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing.html#t:TransitionTime",
-      "description": {
-        "fct-module": "Analysis.Timing",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Hardware-Internal.html#TransitionTime",
-        "fct-type": "data",
-        "title": "TransitionTime"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing",
-        "module": "Analysis.Timing",
-        "name": "TransitionTime",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Transition Time",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing.html#v:Timing",
-      "description": {
-        "fct-module": "Analysis.Timing",
-        "fct-package": "Wired",
-        "fct-signature": "Timing",
-        "fct-source": "src/Analysis-Timing-Library.html#Timing",
-        "fct-type": "function",
-        "title": "Timing"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing",
-        "module": "Analysis.Timing",
-        "name": "Timing",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Timing",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing.html#v:analyzeTiming",
-      "description": {
-        "fct-module": "Analysis.Timing",
-        "fct-package": "Wired",
-        "fct-signature": "m ps -\u003e (pd, InterpDesignDB lib (Timing, Capacitance))",
-        "fct-source": "src/Analysis-Timing.html#analyzeTiming",
-        "fct-type": "function",
-        "title": "analyzeTiming"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing",
-        "module": "Analysis.Timing",
-        "name": "analyzeTiming",
-        "normalized": "a b-\u003e(c,InterpDesignDB d(Timing,Capacitance))",
-        "package": "Wired",
-        "partial": "Timing",
-        "signature": "m ps-\u003e(pd,InterpDesignDB lib(Timing,Capacitance))"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing.html#v:analyzeTimingW",
-      "description": {
-        "fct-module": "Analysis.Timing",
-        "fct-package": "Wired",
-        "fct-signature": "Wired lib ps -\u003e (pd, InterpDesignDB lib (Timing, Capacitance))",
-        "fct-source": "src/Analysis-Timing.html#analyzeTimingW",
-        "fct-type": "function",
-        "title": "analyzeTimingW"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing",
-        "module": "Analysis.Timing",
-        "name": "analyzeTimingW",
-        "normalized": "Wired a b-\u003e(c,InterpDesignDB a(Timing,Capacitance))",
-        "package": "Wired",
-        "partial": "Timing",
-        "signature": "Wired lib ps-\u003e(pd,InterpDesignDB lib(Timing,Capacitance))"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing.html#v:arrivalTime",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Analysis.Timing",
-        "fct-package": "Wired",
-        "fct-signature": "Time",
-        "fct-source": "src/Analysis-Timing-Library.html#Timing",
-        "fct-type": "function",
-        "title": "arrivalTime"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing",
-        "module": "Analysis.Timing",
-        "name": "arrivalTime",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Time",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing.html#v:transitionTime",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Analysis.Timing",
-        "fct-package": "Wired",
-        "fct-signature": "TransitionTime",
-        "fct-source": "src/Analysis-Timing-Library.html#Timing",
-        "fct-type": "function",
-        "title": "transitionTime"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Analysis Timing",
-        "module": "Analysis.Timing",
-        "name": "transitionTime",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Time",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eThis module defines types of a general nature that are used by the \u003ca\u003eLava\u003c/a\u003e,\n \u003ca\u003eLayout\u003c/a\u003e and \u003ca\u003eWired\u003c/a\u003e libraries. It also defines operations on those types.\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "module",
-        "fct-source": "src/Data-Hardware-Internal.html",
-        "fct-type": "module",
-        "title": "Internal"
-      },
-      "index": {
-        "description": "This module defines types of general nature that are used by the Lava Layout and Wired libraries It also defines operations on those types",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Internal",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Internal",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Angle",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Hardware-Internal.html#Angle",
-        "fct-type": "data",
-        "title": "Angle"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Angle",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Angle",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Capacitance",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "newtype",
-        "fct-source": "src/Data-Hardware-Internal.html#Capacitance",
-        "fct-type": "newtype",
-        "title": "Capacitance"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Capacitance",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Capacitance",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:CellId",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "newtype",
-        "fct-source": "src/Data-Hardware-Internal.html#CellId",
-        "fct-type": "newtype",
-        "title": "CellId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "CellId",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Cell Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Delay",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "type",
-        "fct-source": "src/Data-Hardware-Internal.html#Delay",
-        "fct-type": "type",
-        "title": "Delay"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Delay",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Delay",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Direction",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Hardware-Internal.html#Direction",
-        "fct-type": "data",
-        "title": "Direction"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Direction",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Direction",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:DoubleCast",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "class",
-        "fct-source": "src/Data-Hardware-Internal.html#DoubleCast",
-        "fct-type": "class",
-        "title": "DoubleCast"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "DoubleCast",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Double Cast",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Height",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "type",
-        "fct-source": "src/Data-Hardware-Internal.html#Height",
-        "fct-type": "type",
-        "title": "Height"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Height",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Height",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:InPin",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "newtype",
-        "fct-source": "src/Data-Hardware-Internal.html#InPin",
-        "fct-type": "newtype",
-        "title": "InPin"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "InPin",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "In Pin",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:IntCast",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "class",
-        "fct-source": "src/Data-Hardware-Internal.html#IntCast",
-        "fct-type": "class",
-        "title": "IntCast"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "IntCast",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Int Cast",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:IsTime",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "class",
-        "fct-source": "src/Data-Hardware-Internal.html#IsTime",
-        "fct-type": "class",
-        "title": "IsTime"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "IsTime",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Is Time",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Layer",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "type",
-        "fct-source": "src/Data-Hardware-Internal.html#Layer",
-        "fct-type": "type",
-        "title": "Layer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Layer",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Layer",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Layer_",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "newtype",
-        "fct-source": "src/Data-Hardware-Internal.html#Layer_",
-        "fct-type": "newtype",
-        "title": "Layer_"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Layer_",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Layer",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Length",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "newtype",
-        "fct-source": "src/Data-Hardware-Internal.html#Length",
-        "fct-type": "newtype",
-        "title": "Length"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Length",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Length",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Multiply",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "class",
-        "fct-source": "src/Data-Hardware-Internal.html#Multiply",
-        "fct-type": "class",
-        "title": "Multiply"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Multiply",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Multiply",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Name",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "type",
-        "fct-source": "src/Data-Hardware-Internal.html#Name",
-        "fct-type": "type",
-        "title": "Name"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Name",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Orientation",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "type",
-        "fct-source": "src/Data-Hardware-Internal.html#Orientation",
-        "fct-type": "type",
-        "title": "Orientation"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Orientation",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Orientation",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:OutPin",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "newtype",
-        "fct-source": "src/Data-Hardware-Internal.html#OutPin",
-        "fct-type": "newtype",
-        "title": "OutPin"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "OutPin",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Out Pin",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Position",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "type",
-        "fct-source": "src/Data-Hardware-Internal.html#Position",
-        "fct-type": "type",
-        "title": "Position"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Position",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Position",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:PrimInpId",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "newtype",
-        "fct-source": "src/Data-Hardware-Internal.html#PrimInpId",
-        "fct-type": "newtype",
-        "title": "PrimInpId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "PrimInpId",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Prim Inp Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Res",
-      "description": {
-        "fct-descr": "\u003cp\u003eThe phantom parameter \u003ccode\u003et\u003c/code\u003e can be used to pass a type constraint to an\n overloaded function.\n\u003c/p\u003e",
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Hardware-Internal.html#Res",
-        "fct-type": "data",
-        "title": "Res"
-      },
-      "index": {
-        "description": "The phantom parameter can be used to pass type constraint to an overloaded function",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Res",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Res",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Resistance",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "newtype",
-        "fct-source": "src/Data-Hardware-Internal.html#Resistance",
-        "fct-type": "newtype",
-        "title": "Resistance"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Resistance",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Resistance",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Size",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "type",
-        "fct-source": "src/Data-Hardware-Internal.html#Size",
-        "fct-type": "type",
-        "title": "Size"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Size",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Size",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Table2D",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Hardware-Internal.html#Table2D",
-        "fct-type": "data",
-        "title": "Table2D"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Table2D",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Table",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Tag",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "type",
-        "fct-source": "src/Data-Hardware-Internal.html#Tag",
-        "fct-type": "type",
-        "title": "Tag"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Tag",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Tag",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Time",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "newtype",
-        "fct-source": "src/Data-Hardware-Internal.html#Time",
-        "fct-type": "newtype",
-        "title": "Time"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Time",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Time",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:TransitionTime",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "newtype",
-        "fct-source": "src/Data-Hardware-Internal.html#TransitionTime",
-        "fct-type": "newtype",
-        "title": "TransitionTime"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "TransitionTime",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Transition Time",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Value",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "class",
-        "fct-source": "src/Data-Hardware-Internal.html#Value",
-        "fct-type": "class",
-        "title": "Value"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Value",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Value",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Width",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "type",
-        "fct-source": "src/Data-Hardware-Internal.html#Width",
-        "fct-type": "type",
-        "title": "Width"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Width",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Width",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:XPos",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "type",
-        "fct-source": "src/Data-Hardware-Internal.html#XPos",
-        "fct-type": "type",
-        "title": "XPos"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "XPos",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "XPos",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:YPos",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "type",
-        "fct-source": "src/Data-Hardware-Internal.html#YPos",
-        "fct-type": "type",
-        "title": "YPos"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "YPos",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "YPos",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:-62--60-",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "n1 -\u003e n2 -\u003e n3",
-        "fct-source": "src/Data-Hardware-Internal.html#%3E%3C",
-        "fct-type": "method",
-        "title": "(\u003e\u003c)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "(\u003e\u003c) \u003e\u003c",
-        "normalized": "a-\u003ea-\u003ea",
-        "package": "Wired",
-        "partial": "",
-        "signature": "n-\u003en-\u003en"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:.-43-",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "ShowS -\u003e ShowS -\u003e ShowS",
-        "fct-source": "src/Data-Hardware-Internal.html#.%2B",
-        "fct-type": "function",
-        "title": "(.+)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "(.+) .+",
-        "normalized": "ShowS-\u003eShowS-\u003eShowS",
-        "package": "Wired",
-        "partial": "",
-        "signature": "ShowS-\u003eShowS-\u003eShowS"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:Cap",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Cap Double",
-        "fct-source": "src/Data-Hardware-Internal.html#Capacitance",
-        "fct-type": "function",
-        "title": "Cap"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Cap",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Cap",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:CellId",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "CellId Int",
-        "fct-source": "src/Data-Hardware-Internal.html#CellId",
-        "fct-type": "function",
-        "title": "CellId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "CellId",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Cell Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:Downwards",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Downwards",
-        "fct-source": "src/Data-Hardware-Internal.html#Direction",
-        "fct-type": "function",
-        "title": "Downwards"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Downwards",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Downwards",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:Horizontal",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Horizontal",
-        "fct-source": "src/Data-Hardware-Internal.html#Angle",
-        "fct-type": "function",
-        "title": "Horizontal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Horizontal",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Horizontal",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:InPin",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "InPin Int",
-        "fct-source": "src/Data-Hardware-Internal.html#InPin",
-        "fct-type": "function",
-        "title": "InPin"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "InPin",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "In Pin",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:Layer",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Layer Int",
-        "fct-source": "src/Data-Hardware-Internal.html#Layer_",
-        "fct-type": "function",
-        "title": "Layer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Layer",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Layer",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:Leftwards",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Leftwards",
-        "fct-source": "src/Data-Hardware-Internal.html#Direction",
-        "fct-type": "function",
-        "title": "Leftwards"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Leftwards",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Leftwards",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:Length",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Length",
-        "fct-source": "src/Data-Hardware-Internal.html#Length",
-        "fct-type": "function",
-        "title": "Length"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Length",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Length",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:OutPin",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "OutPin Int",
-        "fct-source": "src/Data-Hardware-Internal.html#OutPin",
-        "fct-type": "function",
-        "title": "OutPin"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "OutPin",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Out Pin",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:PrimInpId",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "PrimInpId Int",
-        "fct-source": "src/Data-Hardware-Internal.html#PrimInpId",
-        "fct-type": "function",
-        "title": "PrimInpId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "PrimInpId",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Prim Inp Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:R",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "R",
-        "fct-source": "src/Data-Hardware-Internal.html#Res",
-        "fct-type": "function",
-        "title": "R"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "R",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:Res",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Res Double",
-        "fct-source": "src/Data-Hardware-Internal.html#Resistance",
-        "fct-type": "function",
-        "title": "Res"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Res",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Res",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:Rightwards",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Rightwards",
-        "fct-source": "src/Data-Hardware-Internal.html#Direction",
-        "fct-type": "function",
-        "title": "Rightwards"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Rightwards",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Rightwards",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:Table2D",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Table2D",
-        "fct-source": "src/Data-Hardware-Internal.html#Table2D",
-        "fct-type": "function",
-        "title": "Table2D"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Table2D",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Table",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:Time",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Time Double",
-        "fct-source": "src/Data-Hardware-Internal.html#Time",
-        "fct-type": "function",
-        "title": "Time"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Time",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Time",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:TransitionTime",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "TransitionTime Double",
-        "fct-source": "src/Data-Hardware-Internal.html#TransitionTime",
-        "fct-type": "function",
-        "title": "TransitionTime"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "TransitionTime",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Transition Time",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:Upwards",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Upwards",
-        "fct-source": "src/Data-Hardware-Internal.html#Direction",
-        "fct-type": "function",
-        "title": "Upwards"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Upwards",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Upwards",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:Vertical",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Vertical",
-        "fct-source": "src/Data-Hardware-Internal.html#Angle",
-        "fct-type": "function",
-        "title": "Vertical"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "Vertical",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Vertical",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:addLen",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Length -\u003e Length -\u003e Length",
-        "fct-source": "src/Data-Hardware-Internal.html#addLen",
-        "fct-type": "function",
-        "title": "addLen"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "addLen",
-        "normalized": "Length-\u003eLength-\u003eLength",
-        "package": "Wired",
-        "partial": "Len",
-        "signature": "Length-\u003eLength-\u003eLength"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:bilinInterpolate",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Table2D i x y q -\u003e x -\u003e y -\u003e q",
-        "fct-source": "src/Data-Hardware-Internal.html#bilinInterpolate",
-        "fct-type": "function",
-        "title": "bilinInterpolate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "bilinInterpolate",
-        "normalized": "Table D a b c d-\u003eb-\u003ec-\u003ed",
-        "package": "Wired",
-        "partial": "Interpolate",
-        "signature": "Table D i x y q-\u003ex-\u003ey-\u003eq"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:bilinInterpolate1",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "(x, y) -\u003e (x, y) -\u003e (q, q, q, q) -\u003e x -\u003e y -\u003e q",
-        "fct-source": "src/Data-Hardware-Internal.html#bilinInterpolate1",
-        "fct-type": "function",
-        "title": "bilinInterpolate1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "bilinInterpolate1",
-        "normalized": "(a,b)-\u003e(a,b)-\u003e(c,c,c,c)-\u003ea-\u003eb-\u003ec",
-        "package": "Wired",
-        "partial": "Interpolate",
-        "signature": "(x,y)-\u003e(x,y)-\u003e(q,q,q,q)-\u003ex-\u003ey-\u003eq"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:dcast",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "m -\u003e n",
-        "fct-source": "src/Data-Hardware-Internal.html#dcast",
-        "fct-type": "function",
-        "title": "dcast"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "dcast",
-        "normalized": "a-\u003eb",
-        "package": "Wired",
-        "partial": "",
-        "signature": "m-\u003en"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:directionAngle",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Direction -\u003e Angle",
-        "fct-source": "src/Data-Hardware-Internal.html#directionAngle",
-        "fct-type": "function",
-        "title": "directionAngle"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "directionAngle",
-        "normalized": "Direction-\u003eAngle",
-        "package": "Wired",
-        "partial": "Angle",
-        "signature": "Direction-\u003eAngle"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:divLen",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Length -\u003e n -\u003e Length",
-        "fct-source": "src/Data-Hardware-Internal.html#divLen",
-        "fct-type": "function",
-        "title": "divLen"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "divLen",
-        "normalized": "Length-\u003ea-\u003eLength",
-        "package": "Wired",
-        "partial": "Len",
-        "signature": "Length-\u003en-\u003eLength"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:euclidDistance",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "(Position, Position) -\u003e Double",
-        "fct-source": "src/Data-Hardware-Internal.html#euclidDistance",
-        "fct-type": "function",
-        "title": "euclidDistance"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "euclidDistance",
-        "normalized": "(Position,Position)-\u003eDouble",
-        "package": "Wired",
-        "partial": "Distance",
-        "signature": "(Position,Position)-\u003eDouble"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:euclidSpanning",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "[Position] -\u003e [(Position, Position)]",
-        "fct-source": "src/Data-Hardware-Internal.html#euclidSpanning",
-        "fct-type": "function",
-        "title": "euclidSpanning"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "euclidSpanning",
-        "normalized": "[Position]-\u003e[(Position,Position)]",
-        "package": "Wired",
-        "partial": "Spanning",
-        "signature": "[Position]-\u003e[(Position,Position)]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:findPoints",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Table2D i x y q -\u003e x -\u003e y -\u003e ((x, y), (x, y), (q, q, q, q))",
-        "fct-source": "src/Data-Hardware-Internal.html#findPoints",
-        "fct-type": "function",
-        "title": "findPoints"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "findPoints",
-        "normalized": "Table D a b c d-\u003eb-\u003ec-\u003e((b,c),(b,c),(d,d,d,d))",
-        "package": "Wired",
-        "partial": "Points",
-        "signature": "Table D i x y q-\u003ex-\u003ey-\u003e((x,y),(x,y),(q,q,q,q))"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:fromDouble",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Double -\u003e n",
-        "fct-source": "src/Data-Hardware-Internal.html#fromDouble",
-        "fct-type": "method",
-        "title": "fromDouble"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "fromDouble",
-        "normalized": "Double-\u003ea",
-        "package": "Wired",
-        "partial": "Double",
-        "signature": "Double-\u003en"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:fromInt",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Int -\u003e n",
-        "fct-source": "src/Data-Hardware-Internal.html#fromInt",
-        "fct-type": "method",
-        "title": "fromInt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "fromInt",
-        "normalized": "Int-\u003ea",
-        "package": "Wired",
-        "partial": "Int",
-        "signature": "Int-\u003en"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:icast",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "m -\u003e n",
-        "fct-source": "src/Data-Hardware-Internal.html#icast",
-        "fct-type": "function",
-        "title": "icast"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "icast",
-        "normalized": "a-\u003eb",
-        "package": "Wired",
-        "partial": "",
-        "signature": "m-\u003en"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:mulLen",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Length -\u003e n -\u003e Length",
-        "fct-source": "src/Data-Hardware-Internal.html#mulLen",
-        "fct-type": "function",
-        "title": "mulLen"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "mulLen",
-        "normalized": "Length-\u003ea-\u003eLength",
-        "package": "Wired",
-        "partial": "Len",
-        "signature": "Length-\u003en-\u003eLength"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:mulLen2",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Length -\u003e Length -\u003e Integer",
-        "fct-source": "src/Data-Hardware-Internal.html#mulLen2",
-        "fct-type": "function",
-        "title": "mulLen2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "mulLen2",
-        "normalized": "Length-\u003eLength-\u003eInteger",
-        "package": "Wired",
-        "partial": "Len",
-        "signature": "Length-\u003eLength-\u003eInteger"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:nearestPoints",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "i -\u003e (i -\u003e a) -\u003e a -\u003e ((i, a), (i, a))",
-        "fct-source": "src/Data-Hardware-Internal.html#nearestPoints",
-        "fct-type": "function",
-        "title": "nearestPoints"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "nearestPoints",
-        "normalized": "a-\u003e(a-\u003eb)-\u003eb-\u003e((a,b),(a,b))",
-        "package": "Wired",
-        "partial": "Points",
-        "signature": "i-\u003e(i-\u003ea)-\u003ea-\u003e((i,a),(i,a))"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:north",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Orientation",
-        "fct-source": "src/Data-Hardware-Internal.html#north",
-        "fct-type": "function",
-        "title": "north"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "north",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:rectiDistance",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "(Position, Position) -\u003e Double",
-        "fct-source": "src/Data-Hardware-Internal.html#rectiDistance",
-        "fct-type": "function",
-        "title": "rectiDistance"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "rectiDistance",
-        "normalized": "(Position,Position)-\u003eDouble",
-        "package": "Wired",
-        "partial": "Distance",
-        "signature": "(Position,Position)-\u003eDouble"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:rectiSpanning",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "[Position] -\u003e [(Position, Position)]",
-        "fct-source": "src/Data-Hardware-Internal.html#rectiSpanning",
-        "fct-type": "function",
-        "title": "rectiSpanning"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "rectiSpanning",
-        "normalized": "[Position]-\u003e[(Position,Position)]",
-        "package": "Wired",
-        "partial": "Spanning",
-        "signature": "[Position]-\u003e[(Position,Position)]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:result",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "!a",
-        "fct-source": "src/Data-Hardware-Internal.html#Res",
-        "fct-type": "function",
-        "title": "result"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "result",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:spanning",
-      "description": {
-        "fct-descr": "\u003cp\u003eComputes the minimal spanning tree based on the given distance function.\n\u003c/p\u003e",
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "((Position, Position) -\u003e Double) -\u003e [Position] -\u003e [(Position, Position)]",
-        "fct-source": "src/Data-Hardware-Internal.html#spanning",
-        "fct-type": "function",
-        "title": "spanning"
-      },
-      "index": {
-        "description": "Computes the minimal spanning tree based on the given distance function",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "spanning",
-        "normalized": "((Position,Position)-\u003eDouble)-\u003e[Position]-\u003e[(Position,Position)]",
-        "package": "Wired",
-        "partial": "",
-        "signature": "((Position,Position)-\u003eDouble)-\u003e[Position]-\u003e[(Position,Position)]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:subLen",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Length -\u003e Length -\u003e Length",
-        "fct-source": "src/Data-Hardware-Internal.html#subLen",
-        "fct-type": "function",
-        "title": "subLen"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "subLen",
-        "normalized": "Length-\u003eLength-\u003eLength",
-        "package": "Wired",
-        "partial": "Len",
-        "signature": "Length-\u003eLength-\u003eLength"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:tableAxisX",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "i -\u003e x",
-        "fct-source": "src/Data-Hardware-Internal.html#Table2D",
-        "fct-type": "function",
-        "title": "tableAxisX"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "tableAxisX",
-        "normalized": "a-\u003eb",
-        "package": "Wired",
-        "partial": "Axis",
-        "signature": "i-\u003ex"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:tableAxisY",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "i -\u003e y",
-        "fct-source": "src/Data-Hardware-Internal.html#Table2D",
-        "fct-type": "function",
-        "title": "tableAxisY"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "tableAxisY",
-        "normalized": "a-\u003eb",
-        "package": "Wired",
-        "partial": "Axis",
-        "signature": "i-\u003ey"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:tableLengthX",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "i",
-        "fct-source": "src/Data-Hardware-Internal.html#Table2D",
-        "fct-type": "function",
-        "title": "tableLengthX"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "tableLengthX",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Length",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:tableLengthY",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "i",
-        "fct-source": "src/Data-Hardware-Internal.html#Table2D",
-        "fct-type": "function",
-        "title": "tableLengthY"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "tableLengthY",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Length",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:tableValues",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "i -\u003e i -\u003e q",
-        "fct-source": "src/Data-Hardware-Internal.html#Table2D",
-        "fct-type": "function",
-        "title": "tableValues"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "tableValues",
-        "normalized": "a-\u003ea-\u003eb",
-        "package": "Wired",
-        "partial": "Values",
-        "signature": "i-\u003ei-\u003eq"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:timeCast",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "t1 -\u003e t2",
-        "fct-source": "src/Data-Hardware-Internal.html#timeCast",
-        "fct-type": "function",
-        "title": "timeCast"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "timeCast",
-        "normalized": "a-\u003ea",
-        "package": "Wired",
-        "partial": "Cast",
-        "signature": "t-\u003et"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:toDouble",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "n -\u003e Double",
-        "fct-source": "src/Data-Hardware-Internal.html#toDouble",
-        "fct-type": "method",
-        "title": "toDouble"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "toDouble",
-        "normalized": "a-\u003eDouble",
-        "package": "Wired",
-        "partial": "Double",
-        "signature": "n-\u003eDouble"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:toInt",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "n -\u003e Int",
-        "fct-source": "src/Data-Hardware-Internal.html#toInt",
-        "fct-type": "method",
-        "title": "toInt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "toInt",
-        "normalized": "a-\u003eInt",
-        "package": "Wired",
-        "partial": "Int",
-        "signature": "n-\u003eInt"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:totalLookup",
-      "description": {
-        "fct-descr": "\u003cp\u003eA lookup function that is defined for all keys.\n\u003c/p\u003e",
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "k -\u003e Map k [a] -\u003e [a]",
-        "fct-source": "src/Data-Hardware-Internal.html#totalLookup",
-        "fct-type": "function",
-        "title": "totalLookup"
-      },
-      "index": {
-        "description": "lookup function that is defined for all keys",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "totalLookup",
-        "normalized": "a-\u003eMap a[b]-\u003e[b]",
-        "package": "Wired",
-        "partial": "Lookup",
-        "signature": "k-\u003eMap k[a]-\u003e[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:unLength",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Integer",
-        "fct-source": "src/Data-Hardware-Internal.html#Length",
-        "fct-type": "function",
-        "title": "unLength"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "unLength",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Length",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:unlineS",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "[ShowS] -\u003e ShowS",
-        "fct-source": "src/Data-Hardware-Internal.html#unlineS",
-        "fct-type": "function",
-        "title": "unlineS"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "unlineS",
-        "normalized": "[ShowS]-\u003eShowS",
-        "package": "Wired",
-        "partial": "",
-        "signature": "[ShowS]-\u003eShowS"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:unwordS",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "[ShowS] -\u003e ShowS",
-        "fct-source": "src/Data-Hardware-Internal.html#unwordS",
-        "fct-type": "function",
-        "title": "unwordS"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "unwordS",
-        "normalized": "[ShowS]-\u003eShowS",
-        "package": "Wired",
-        "partial": "",
-        "signature": "[ShowS]-\u003eShowS"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:value",
-      "description": {
-        "fct-module": "Data.Hardware.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "v -\u003e Rational",
-        "fct-source": "src/Data-Hardware-Internal.html#value",
-        "fct-type": "method",
-        "title": "value"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware Internal",
-        "module": "Data.Hardware.Internal",
-        "name": "value",
-        "normalized": "a-\u003eRational",
-        "package": "Wired",
-        "partial": "",
-        "signature": "v-\u003eRational"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eThis module exports the types that users of \u003ca\u003eLava\u003c/a\u003e, \u003ca\u003eLayout\u003c/a\u003e and \u003ca\u003eWired\u003c/a\u003e\n (not the internal modules) will need.\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Data.Hardware",
-        "fct-package": "Wired",
-        "fct-signature": "module",
-        "fct-source": "src/Data-Hardware.html",
-        "fct-type": "module",
-        "title": "Hardware"
-      },
-      "index": {
-        "description": "This module exports the types that users of Lava Layout and Wired not the internal modules will need",
-        "hierarchy": "Data Hardware",
-        "module": "Data.Hardware",
-        "name": "Hardware",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Hardware",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#t:Delay",
-      "description": {
-        "fct-module": "Data.Hardware",
-        "fct-package": "Wired",
-        "fct-signature": "type",
-        "fct-source": "src/Data-Hardware-Internal.html#Delay",
-        "fct-type": "type",
-        "title": "Delay"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware",
-        "module": "Data.Hardware",
-        "name": "Delay",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Delay",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#t:Height",
-      "description": {
-        "fct-module": "Data.Hardware",
-        "fct-package": "Wired",
-        "fct-signature": "type",
-        "fct-source": "src/Data-Hardware-Internal.html#Height",
-        "fct-type": "type",
-        "title": "Height"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware",
-        "module": "Data.Hardware",
-        "name": "Height",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Height",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#t:Layer",
-      "description": {
-        "fct-module": "Data.Hardware",
-        "fct-package": "Wired",
-        "fct-signature": "type",
-        "fct-source": "src/Data-Hardware-Internal.html#Layer",
-        "fct-type": "type",
-        "title": "Layer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware",
-        "module": "Data.Hardware",
-        "name": "Layer",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Layer",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#t:Length",
-      "description": {
-        "fct-module": "Data.Hardware",
-        "fct-package": "Wired",
-        "fct-signature": "newtype",
-        "fct-source": "src/Data-Hardware-Internal.html#Length",
-        "fct-type": "newtype",
-        "title": "Length"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware",
-        "module": "Data.Hardware",
-        "name": "Length",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Length",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#t:Name",
-      "description": {
-        "fct-module": "Data.Hardware",
-        "fct-package": "Wired",
-        "fct-signature": "type",
-        "fct-source": "src/Data-Hardware-Internal.html#Name",
-        "fct-type": "type",
-        "title": "Name"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware",
-        "module": "Data.Hardware",
-        "name": "Name",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#t:Res",
-      "description": {
-        "fct-descr": "\u003cp\u003eThe phantom parameter \u003ccode\u003et\u003c/code\u003e can be used to pass a type constraint to an\n overloaded function.\n\u003c/p\u003e",
-        "fct-module": "Data.Hardware",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Hardware-Internal.html#Res",
-        "fct-type": "data",
-        "title": "Res"
-      },
-      "index": {
-        "description": "The phantom parameter can be used to pass type constraint to an overloaded function",
-        "hierarchy": "Data Hardware",
-        "module": "Data.Hardware",
-        "name": "Res",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Res",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#t:Tag",
-      "description": {
-        "fct-module": "Data.Hardware",
-        "fct-package": "Wired",
-        "fct-signature": "type",
-        "fct-source": "src/Data-Hardware-Internal.html#Tag",
-        "fct-type": "type",
-        "title": "Tag"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware",
-        "module": "Data.Hardware",
-        "name": "Tag",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Tag",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#t:Time",
-      "description": {
-        "fct-module": "Data.Hardware",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Hardware-Internal.html#Time",
-        "fct-type": "data",
-        "title": "Time"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware",
-        "module": "Data.Hardware",
-        "name": "Time",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Time",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#t:Width",
-      "description": {
-        "fct-module": "Data.Hardware",
-        "fct-package": "Wired",
-        "fct-signature": "type",
-        "fct-source": "src/Data-Hardware-Internal.html#Width",
-        "fct-type": "type",
-        "title": "Width"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware",
-        "module": "Data.Hardware",
-        "name": "Width",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Width",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#t:XPos",
-      "description": {
-        "fct-module": "Data.Hardware",
-        "fct-package": "Wired",
-        "fct-signature": "type",
-        "fct-source": "src/Data-Hardware-Internal.html#XPos",
-        "fct-type": "type",
-        "title": "XPos"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware",
-        "module": "Data.Hardware",
-        "name": "XPos",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "XPos",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#t:YPos",
-      "description": {
-        "fct-module": "Data.Hardware",
-        "fct-package": "Wired",
-        "fct-signature": "type",
-        "fct-source": "src/Data-Hardware-Internal.html#YPos",
-        "fct-type": "type",
-        "title": "YPos"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware",
-        "module": "Data.Hardware",
-        "name": "YPos",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "YPos",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#v:Length",
-      "description": {
-        "fct-module": "Data.Hardware",
-        "fct-package": "Wired",
-        "fct-signature": "Length",
-        "fct-source": "src/Data-Hardware-Internal.html#Length",
-        "fct-type": "function",
-        "title": "Length"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware",
-        "module": "Data.Hardware",
-        "name": "Length",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Length",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#v:R",
-      "description": {
-        "fct-module": "Data.Hardware",
-        "fct-package": "Wired",
-        "fct-signature": "R",
-        "fct-source": "src/Data-Hardware-Internal.html#Res",
-        "fct-type": "function",
-        "title": "R"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware",
-        "module": "Data.Hardware",
-        "name": "R",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#v:addLen",
-      "description": {
-        "fct-module": "Data.Hardware",
-        "fct-package": "Wired",
-        "fct-signature": "Length -\u003e Length -\u003e Length",
-        "fct-source": "src/Data-Hardware-Internal.html#addLen",
-        "fct-type": "function",
-        "title": "addLen"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware",
-        "module": "Data.Hardware",
-        "name": "addLen",
-        "normalized": "Length-\u003eLength-\u003eLength",
-        "package": "Wired",
-        "partial": "Len",
-        "signature": "Length-\u003eLength-\u003eLength"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#v:divLen",
-      "description": {
-        "fct-module": "Data.Hardware",
-        "fct-package": "Wired",
-        "fct-signature": "Length -\u003e n -\u003e Length",
-        "fct-source": "src/Data-Hardware-Internal.html#divLen",
-        "fct-type": "function",
-        "title": "divLen"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware",
-        "module": "Data.Hardware",
-        "name": "divLen",
-        "normalized": "Length-\u003ea-\u003eLength",
-        "package": "Wired",
-        "partial": "Len",
-        "signature": "Length-\u003en-\u003eLength"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#v:mulLen",
-      "description": {
-        "fct-module": "Data.Hardware",
-        "fct-package": "Wired",
-        "fct-signature": "Length -\u003e n -\u003e Length",
-        "fct-source": "src/Data-Hardware-Internal.html#mulLen",
-        "fct-type": "function",
-        "title": "mulLen"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware",
-        "module": "Data.Hardware",
-        "name": "mulLen",
-        "normalized": "Length-\u003ea-\u003eLength",
-        "package": "Wired",
-        "partial": "Len",
-        "signature": "Length-\u003en-\u003eLength"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#v:mulLen2",
-      "description": {
-        "fct-module": "Data.Hardware",
-        "fct-package": "Wired",
-        "fct-signature": "Length -\u003e Length -\u003e Integer",
-        "fct-source": "src/Data-Hardware-Internal.html#mulLen2",
-        "fct-type": "function",
-        "title": "mulLen2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware",
-        "module": "Data.Hardware",
-        "name": "mulLen2",
-        "normalized": "Length-\u003eLength-\u003eInteger",
-        "package": "Wired",
-        "partial": "Len",
-        "signature": "Length-\u003eLength-\u003eInteger"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#v:result",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Hardware",
-        "fct-package": "Wired",
-        "fct-signature": "!a",
-        "fct-source": "src/Data-Hardware-Internal.html#Res",
-        "fct-type": "function",
-        "title": "result"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware",
-        "module": "Data.Hardware",
-        "name": "result",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#v:subLen",
-      "description": {
-        "fct-module": "Data.Hardware",
-        "fct-package": "Wired",
-        "fct-signature": "Length -\u003e Length -\u003e Length",
-        "fct-source": "src/Data-Hardware-Internal.html#subLen",
-        "fct-type": "function",
-        "title": "subLen"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware",
-        "module": "Data.Hardware",
-        "name": "subLen",
-        "normalized": "Length-\u003eLength-\u003eLength",
-        "package": "Wired",
-        "partial": "Len",
-        "signature": "Length-\u003eLength-\u003eLength"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#v:unLength",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Hardware",
-        "fct-package": "Wired",
-        "fct-signature": "Integer",
-        "fct-source": "src/Data-Hardware-Internal.html#Length",
-        "fct-type": "function",
-        "title": "unLength"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Hardware",
-        "module": "Data.Hardware",
-        "name": "unLength",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Length",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Knot.html#",
-      "description": {
-        "fct-module": "Data.Logical.Knot",
-        "fct-package": "Wired",
-        "fct-signature": "module",
-        "fct-source": "src/Data-Logical-Knot.html",
-        "fct-type": "module",
-        "title": "Knot"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Logical Knot",
-        "module": "Data.Logical.Knot",
-        "name": "Knot",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Knot",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Knot.html#t:Knot",
-      "description": {
-        "fct-module": "Data.Logical.Knot",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Logical-Knot.html#Knot",
-        "fct-type": "data",
-        "title": "Knot"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Logical Knot",
-        "module": "Data.Logical.Knot",
-        "name": "Knot",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Knot",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Knot.html#t:KnotT",
-      "description": {
-        "fct-module": "Data.Logical.Knot",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Logical-Knot.html#KnotT",
-        "fct-type": "data",
-        "title": "KnotT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Logical Knot",
-        "module": "Data.Logical.Knot",
-        "name": "KnotT",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Knot",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Knot.html#t:MonadKnot",
-      "description": {
-        "fct-module": "Data.Logical.Knot",
-        "fct-package": "Wired",
-        "fct-signature": "class",
-        "fct-source": "src/Data-Logical-Knot.html#MonadKnot",
-        "fct-type": "class",
-        "title": "MonadKnot"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Logical Knot",
-        "module": "Data.Logical.Knot",
-        "name": "MonadKnot",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Monad Knot",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Knot.html#v:-42--61-",
-      "description": {
-        "fct-module": "Data.Logical.Knot",
-        "fct-package": "Wired",
-        "fct-signature": "i -\u003e x -\u003e m ()",
-        "fct-source": "src/Data-Logical-Knot.html#%2A%3D",
-        "fct-type": "method",
-        "title": "(*=)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Logical Knot",
-        "module": "Data.Logical.Knot",
-        "name": "(*=) *=",
-        "normalized": "a-\u003eb-\u003ec()",
-        "package": "Wired",
-        "partial": "",
-        "signature": "i-\u003ex-\u003em()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Knot.html#v:accKnot",
-      "description": {
-        "fct-module": "Data.Logical.Knot",
-        "fct-package": "Wired",
-        "fct-signature": "(x -\u003e x -\u003e x) -\u003e Knot i x a -\u003e (a, Map i x)",
-        "fct-source": "src/Data-Logical-Knot.html#accKnot",
-        "fct-type": "function",
-        "title": "accKnot"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Logical Knot",
-        "module": "Data.Logical.Knot",
-        "name": "accKnot",
-        "normalized": "(a-\u003ea-\u003ea)-\u003eKnot b a c-\u003e(c,Map b a)",
-        "package": "Wired",
-        "partial": "Knot",
-        "signature": "(x-\u003ex-\u003ex)-\u003eKnot i x a-\u003e(a,Map i x)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Knot.html#v:accKnotT",
-      "description": {
-        "fct-module": "Data.Logical.Knot",
-        "fct-package": "Wired",
-        "fct-signature": "(x -\u003e x -\u003e x) -\u003e KnotT i x m a -\u003e m (a, Map i x)",
-        "fct-source": "src/Data-Logical-Knot.html#accKnotT",
-        "fct-type": "function",
-        "title": "accKnotT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Logical Knot",
-        "module": "Data.Logical.Knot",
-        "name": "accKnotT",
-        "normalized": "(a-\u003ea-\u003ea)-\u003eKnotT b a c d-\u003ec(d,Map b a)",
-        "package": "Wired",
-        "partial": "Knot",
-        "signature": "(x-\u003ex-\u003ex)-\u003eKnotT i x m a-\u003em(a,Map i x)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Knot.html#v:askKnot",
-      "description": {
-        "fct-module": "Data.Logical.Knot",
-        "fct-package": "Wired",
-        "fct-signature": "i -\u003e m x",
-        "fct-source": "src/Data-Logical-Knot.html#askKnot",
-        "fct-type": "method",
-        "title": "askKnot"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Logical Knot",
-        "module": "Data.Logical.Knot",
-        "name": "askKnot",
-        "normalized": "a-\u003eb c",
-        "package": "Wired",
-        "partial": "Knot",
-        "signature": "i-\u003em x"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Knot.html#v:askKnotDef",
-      "description": {
-        "fct-module": "Data.Logical.Knot",
-        "fct-package": "Wired",
-        "fct-signature": "x -\u003e i -\u003e m x",
-        "fct-source": "src/Data-Logical-Knot.html#askKnotDef",
-        "fct-type": "method",
-        "title": "askKnotDef"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Logical Knot",
-        "module": "Data.Logical.Knot",
-        "name": "askKnotDef",
-        "normalized": "a-\u003eb-\u003ec a",
-        "package": "Wired",
-        "partial": "Knot Def",
-        "signature": "x-\u003ei-\u003em x"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Knot.html#v:tieKnot",
-      "description": {
-        "fct-module": "Data.Logical.Knot",
-        "fct-package": "Wired",
-        "fct-signature": "Knot i x a -\u003e (a, Map i x)",
-        "fct-source": "src/Data-Logical-Knot.html#tieKnot",
-        "fct-type": "function",
-        "title": "tieKnot"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Logical Knot",
-        "module": "Data.Logical.Knot",
-        "name": "tieKnot",
-        "normalized": "Knot a b c-\u003e(c,Map a b)",
-        "package": "Wired",
-        "partial": "Knot",
-        "signature": "Knot i x a-\u003e(a,Map i x)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Knot.html#v:tieKnotT",
-      "description": {
-        "fct-module": "Data.Logical.Knot",
-        "fct-package": "Wired",
-        "fct-signature": "KnotT i x m a -\u003e m (a, Map i x)",
-        "fct-source": "src/Data-Logical-Knot.html#tieKnotT",
-        "fct-type": "function",
-        "title": "tieKnotT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Logical Knot",
-        "module": "Data.Logical.Knot",
-        "name": "tieKnotT",
-        "normalized": "KnotT a b c d-\u003ec(d,Map a b)",
-        "package": "Wired",
-        "partial": "Knot",
-        "signature": "KnotT i x m a-\u003em(a,Map i x)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Let.html#",
-      "description": {
-        "fct-module": "Data.Logical.Let",
-        "fct-package": "Wired",
-        "fct-signature": "module",
-        "fct-source": "src/Data-Logical-Let.html",
-        "fct-type": "module",
-        "title": "Let"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Logical Let",
-        "module": "Data.Logical.Let",
-        "name": "Let",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Let",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Let.html#t:Let",
-      "description": {
-        "fct-module": "Data.Logical.Let",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Logical-Let.html#Let",
-        "fct-type": "data",
-        "title": "Let"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Logical Let",
-        "module": "Data.Logical.Let",
-        "name": "Let",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Let",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Let.html#t:LetT",
-      "description": {
-        "fct-module": "Data.Logical.Let",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Logical-Let.html#LetT",
-        "fct-type": "data",
-        "title": "LetT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Logical Let",
-        "module": "Data.Logical.Let",
-        "name": "LetT",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Let",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Let.html#t:MonadLet",
-      "description": {
-        "fct-module": "Data.Logical.Let",
-        "fct-package": "Wired",
-        "fct-signature": "class",
-        "fct-source": "src/Data-Logical-Let.html#MonadLet",
-        "fct-type": "class",
-        "title": "MonadLet"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Logical Let",
-        "module": "Data.Logical.Let",
-        "name": "MonadLet",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Monad Let",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Let.html#t:Var",
-      "description": {
-        "fct-module": "Data.Logical.Let",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Logical-Let.html#Var",
-        "fct-type": "data",
-        "title": "Var"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Logical Let",
-        "module": "Data.Logical.Let",
-        "name": "Var",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Var",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Let.html#v:-61--61--61-",
-      "description": {
-        "fct-module": "Data.Logical.Let",
-        "fct-package": "Wired",
-        "fct-signature": "Var x -\u003e x -\u003e m ()",
-        "fct-source": "src/Data-Logical-Let.html#%3D%3D%3D",
-        "fct-type": "function",
-        "title": "(===)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Logical Let",
-        "module": "Data.Logical.Let",
-        "name": "(===) ===",
-        "normalized": "Var a-\u003ea-\u003eb()",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Var x-\u003ex-\u003em()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Let.html#v:free",
-      "description": {
-        "fct-module": "Data.Logical.Let",
-        "fct-package": "Wired",
-        "fct-signature": "m (Var x)",
-        "fct-source": "src/Data-Logical-Let.html#free",
-        "fct-type": "method",
-        "title": "free"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Logical Let",
-        "module": "Data.Logical.Let",
-        "name": "free",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Let.html#v:runLet",
-      "description": {
-        "fct-module": "Data.Logical.Let",
-        "fct-package": "Wired",
-        "fct-signature": "Let x a -\u003e a",
-        "fct-source": "src/Data-Logical-Let.html#runLet",
-        "fct-type": "function",
-        "title": "runLet"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Logical Let",
-        "module": "Data.Logical.Let",
-        "name": "runLet",
-        "normalized": "Let a b-\u003eb",
-        "package": "Wired",
-        "partial": "Let",
-        "signature": "Let x a-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Let.html#v:runLetT",
-      "description": {
-        "fct-module": "Data.Logical.Let",
-        "fct-package": "Wired",
-        "fct-signature": "LetT x m a -\u003e m a",
-        "fct-source": "src/Data-Logical-Let.html#runLetT",
-        "fct-type": "function",
-        "title": "runLetT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Logical Let",
-        "module": "Data.Logical.Let",
-        "name": "runLetT",
-        "normalized": "LetT a b c-\u003eb c",
-        "package": "Wired",
-        "partial": "Let",
-        "signature": "LetT x m a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Let.html#v:val",
-      "description": {
-        "fct-module": "Data.Logical.Let",
-        "fct-package": "Wired",
-        "fct-signature": "Var x -\u003e x",
-        "fct-source": "src/Data-Logical-Let.html#val",
-        "fct-type": "function",
-        "title": "val"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Logical Let",
-        "module": "Data.Logical.Let",
-        "name": "val",
-        "normalized": "Var a-\u003ea",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Var x-\u003ex"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Export-DEF.html#",
-      "description": {
-        "fct-module": "Export.DEF",
-        "fct-package": "Wired",
-        "fct-signature": "module",
-        "fct-source": "src/Export-DEF.html",
-        "fct-type": "module",
-        "title": "DEF"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Export DEF",
-        "module": "Export.DEF",
-        "name": "DEF",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "DEF",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Export-DEF.html#v:exportDEF",
-      "description": {
-        "fct-module": "Export.DEF",
-        "fct-package": "Wired",
-        "fct-signature": "Name -\u003e Wired lib p -\u003e IO ()",
-        "fct-source": "src/Export-DEF.html#exportDEF",
-        "fct-type": "function",
-        "title": "exportDEF"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Export DEF",
-        "module": "Export.DEF",
-        "name": "exportDEF",
-        "normalized": "Name-\u003eWired a b-\u003eIO()",
-        "package": "Wired",
-        "partial": "DEF",
-        "signature": "Name-\u003eWired lib p-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "module",
-        "fct-source": "src/Lava-Internal.html",
-        "fct-type": "module",
-        "title": "Internal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "Internal",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Internal",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#t:CellLibrary",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "class",
-        "fct-source": "src/Lava-Model.html#CellLibrary",
-        "fct-type": "class",
-        "title": "CellLibrary"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "CellLibrary",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Cell Library",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#t:Declaration",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Lava-Model.html#Declaration",
-        "fct-type": "data",
-        "title": "Declaration"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "Declaration",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Declaration",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#t:DesignDB",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Lava-Model.html#DesignDB",
-        "fct-type": "data",
-        "title": "DesignDB"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "DesignDB",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Design DB",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#t:InterpDesignDB",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "type",
-        "fct-source": "src/Lava-Model.html#InterpDesignDB",
-        "fct-type": "type",
-        "title": "InterpDesignDB"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "InterpDesignDB",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Interp Design DB",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#t:Interpretation",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Lava-Model.html#Interpretation",
-        "fct-type": "data",
-        "title": "Interpretation"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "Interpretation",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Interpretation",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#t:Lava",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "newtype",
-        "fct-source": "src/Lava-Model.html#Lava",
-        "fct-type": "newtype",
-        "title": "Lava"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "Lava",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Lava",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#t:MonadLava",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "class",
-        "fct-source": "src/Lava-Model.html#MonadLava",
-        "fct-type": "class",
-        "title": "MonadLava"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "MonadLava",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Monad Lava",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#t:Port",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "class",
-        "fct-source": "src/Lava-Port.html#Port",
-        "fct-type": "class",
-        "title": "Port"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "Port",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Port",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#t:PortFixed",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "class",
-        "fct-source": "src/Lava-Port.html#PortFixed",
-        "fct-type": "class",
-        "title": "PortFixed"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "PortFixed",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Port Fixed",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#t:PortStruct",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "class",
-        "fct-source": "src/Lava-Port.html#PortStruct",
-        "fct-type": "class",
-        "title": "PortStruct"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "PortStruct",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Port Struct",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#t:PortTree",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Lava-Port.html#PortTree",
-        "fct-type": "data",
-        "title": "PortTree"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "PortTree",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Port Tree",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#t:Signal",
-      "description": {
-        "fct-descr": "\u003cp\u003eIdentifies a driver in the circuit. A driver is either a primary input or\n an output pin of a cell.\n\u003c/p\u003e",
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Lava-Model.html#Signal",
-        "fct-type": "data",
-        "title": "Signal"
-      },
-      "index": {
-        "description": "Identifies driver in the circuit driver is either primary input or an output pin of cell",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "Signal",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Signal",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:Cell",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Cell CellId lib [Signal]",
-        "fct-source": "src/Lava-Model.html#Declaration",
-        "fct-type": "function",
-        "title": "Cell"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "Cell",
-        "normalized": "Cell CellId a[Signal]",
-        "package": "Wired",
-        "partial": "Cell",
-        "signature": "Cell CellId lib[Signal]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:CellSig",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "CellSig CellId OutPin",
-        "fct-source": "src/Lava-Model.html#Signal",
-        "fct-type": "function",
-        "title": "CellSig"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "CellSig",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Cell Sig",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:DesignDB",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "DesignDB",
-        "fct-source": "src/Lava-Model.html#DesignDB",
-        "fct-type": "function",
-        "title": "DesignDB"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "DesignDB",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Design DB",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:Interp",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Interp",
-        "fct-source": "src/Lava-Model.html#Interpretation",
-        "fct-type": "function",
-        "title": "Interp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "Interp",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Interp",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:Label",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Label Tag Signal",
-        "fct-source": "src/Lava-Model.html#Declaration",
-        "fct-type": "function",
-        "title": "Label"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "Label",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Label",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:Lava",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Lava",
-        "fct-source": "src/Lava-Model.html#Lava",
-        "fct-type": "function",
-        "title": "Lava"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "Lava",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Lava",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:List",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "List [PortTree s]",
-        "fct-source": "src/Lava-Port.html#PortTree",
-        "fct-type": "function",
-        "title": "List"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "List",
-        "normalized": "List[PortTree a]",
-        "package": "Wired",
-        "partial": "List",
-        "signature": "List[PortTree s]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:One",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "One",
-        "fct-source": "src/Lava-Port.html#PortTree",
-        "fct-type": "function",
-        "title": "One"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "One",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "One",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:PrimInpSig",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "PrimInpSig PrimInpId",
-        "fct-source": "src/Lava-Model.html#Signal",
-        "fct-type": "function",
-        "title": "PrimInpSig"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "PrimInpSig",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Prim Inp Sig",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:PrimInput",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "PrimInput PrimInpId",
-        "fct-source": "src/Lava-Model.html#Declaration",
-        "fct-type": "function",
-        "title": "PrimInput"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "PrimInput",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Prim Input",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:accumulator",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "x -\u003e x -\u003e x",
-        "fct-source": "src/Lava-Model.html#Interpretation",
-        "fct-type": "function",
-        "title": "accumulator"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "accumulator",
-        "normalized": "a-\u003ea-\u003ea",
-        "package": "Wired",
-        "partial": "",
-        "signature": "x-\u003ex-\u003ex"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:askSig",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Interpretation lib x -\u003e Signal -\u003e Knot Signal x x",
-        "fct-source": "src/Lava-Interpret.html#askSig",
-        "fct-type": "function",
-        "title": "askSig"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "askSig",
-        "normalized": "Interpretation a b-\u003eSignal-\u003eKnot Signal b b",
-        "package": "Wired",
-        "partial": "Sig",
-        "signature": "Interpretation lib x-\u003eSignal-\u003eKnot Signal x x"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:cell",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "lib -\u003e pi -\u003e m po",
-        "fct-source": "src/Lava-Misc.html#cell",
-        "fct-type": "function",
-        "title": "cell"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "cell",
-        "normalized": "a-\u003eb-\u003ec d",
-        "package": "Wired",
-        "partial": "",
-        "signature": "lib-\u003epi-\u003em po"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:cellDB",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Map CellId (lib, [Signal])",
-        "fct-source": "src/Lava-Model.html#DesignDB",
-        "fct-type": "function",
-        "title": "cellDB"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "cellDB",
-        "normalized": "Map CellId(a,[Signal])",
-        "package": "Wired",
-        "partial": "DB",
-        "signature": "Map CellId(lib,[Signal])"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:cellInputs",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "CellId -\u003e lib -\u003e [(CellId, InPin)]",
-        "fct-source": "src/Lava-Model.html#cellInputs",
-        "fct-type": "function",
-        "title": "cellInputs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "cellInputs",
-        "normalized": "CellId-\u003ea-\u003e[(CellId,InPin)]",
-        "package": "Wired",
-        "partial": "Inputs",
-        "signature": "CellId-\u003elib-\u003e[(CellId,InPin)]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:cellList",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "lib -\u003e [Signal] -\u003e m [Signal]",
-        "fct-source": "src/Lava-Model.html#cellList",
-        "fct-type": "function",
-        "title": "cellList"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "cellList",
-        "normalized": "a-\u003e[Signal]-\u003eb[Signal]",
-        "package": "Wired",
-        "partial": "List",
-        "signature": "lib-\u003e[Signal]-\u003em[Signal]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:cellOutputs",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "CellId -\u003e lib -\u003e [Signal]",
-        "fct-source": "src/Lava-Model.html#cellOutputs",
-        "fct-type": "function",
-        "title": "cellOutputs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "cellOutputs",
-        "normalized": "CellId-\u003ea-\u003e[Signal]",
-        "package": "Wired",
-        "partial": "Outputs",
-        "signature": "CellId-\u003elib-\u003e[Signal]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:declare",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Declaration lib -\u003e m ()",
-        "fct-source": "src/Lava-Model.html#declare",
-        "fct-type": "method",
-        "title": "declare"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "declare",
-        "normalized": "Declaration a-\u003eb()",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Declaration lib-\u003em()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:decodeBin",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "[Int] -\u003e Int",
-        "fct-source": "src/Lava-Misc.html#decodeBin",
-        "fct-type": "function",
-        "title": "decodeBin"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "decodeBin",
-        "normalized": "[Int]-\u003eInt",
-        "package": "Wired",
-        "partial": "Bin",
-        "signature": "[Int]-\u003eInt"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:defaultVal",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "x",
-        "fct-source": "src/Lava-Model.html#Interpretation",
-        "fct-type": "function",
-        "title": "defaultVal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "defaultVal",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Val",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:depth",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "m ps -\u003e (pd, InterpDesignDB lib Int)",
-        "fct-source": "src/Lava-Misc.html#depth",
-        "fct-type": "function",
-        "title": "depth"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "depth",
-        "normalized": "a b-\u003e(c,InterpDesignDB d Int)",
-        "package": "Wired",
-        "partial": "",
-        "signature": "m ps-\u003e(pd,InterpDesignDB lib Int)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:depthInterp",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Interpretation lib Int",
-        "fct-source": "src/Lava-Model.html#depthInterp",
-        "fct-type": "function",
-        "title": "depthInterp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "depthInterp",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Interp",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:encodeBin",
-      "description": {
-        "fct-descr": "\u003cpre\u003eencodeBin n x\u003c/pre\u003e\u003cp\u003eEncodes the number \u003ccode\u003ex\u003c/code\u003e as a binary number of length \u003ccode\u003en\u003c/code\u003e. The resulting list\n contains only zeroes and ones.\n\u003c/p\u003e",
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Int -\u003e Int -\u003e [Int]",
-        "fct-source": "src/Lava-Misc.html#encodeBin",
-        "fct-type": "function",
-        "title": "encodeBin"
-      },
-      "index": {
-        "description": "encodeBin Encodes the number as binary number of length The resulting list contains only zeroes and ones",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "encodeBin",
-        "normalized": "Int-\u003eInt-\u003e[Int]",
-        "package": "Wired",
-        "partial": "Bin",
-        "signature": "Int-\u003eInt-\u003e[Int]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:fanout",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "m a -\u003e InterpDesignDB lib Int",
-        "fct-source": "src/Lava-Misc.html#fanout",
-        "fct-type": "function",
-        "title": "fanout"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "fanout",
-        "normalized": "a b-\u003eInterpDesignDB c Int",
-        "package": "Wired",
-        "partial": "",
-        "signature": "m a-\u003eInterpDesignDB lib Int"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:fanoutDB",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Map Signal [(CellId, InPin)]",
-        "fct-source": "src/Lava-Model.html#DesignDB",
-        "fct-type": "function",
-        "title": "fanoutDB"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "fanoutDB",
-        "normalized": "Map Signal[(CellId,InPin)]",
-        "package": "Wired",
-        "partial": "DB",
-        "signature": "Map Signal[(CellId,InPin)]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:fromListFP",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "[s] -\u003e p",
-        "fct-source": "src/Lava-Port.html#fromListFP",
-        "fct-type": "method",
-        "title": "fromListFP"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "fromListFP",
-        "normalized": "[a]-\u003eb",
-        "package": "Wired",
-        "partial": "List FP",
-        "signature": "[s]-\u003ep"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:hasCombLoop",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "m a -\u003e Bool",
-        "fct-source": "src/Lava-Loop.html#hasCombLoop",
-        "fct-type": "function",
-        "title": "hasCombLoop"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "hasCombLoop",
-        "normalized": "a b-\u003eBool",
-        "package": "Wired",
-        "partial": "Comb Loop",
-        "signature": "m a-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:hasLoop",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "m a -\u003e Bool",
-        "fct-source": "src/Lava-Loop.html#hasLoop",
-        "fct-type": "function",
-        "title": "hasLoop"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "hasLoop",
-        "normalized": "a b-\u003eBool",
-        "package": "Wired",
-        "partial": "Loop",
-        "signature": "m a-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:hasLoopDB",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Bool -\u003e DesignDB lib -\u003e Bool",
-        "fct-source": "src/Lava-Loop.html#hasLoopDB",
-        "fct-type": "function",
-        "title": "hasLoopDB"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "hasLoopDB",
-        "normalized": "Bool-\u003eDesignDB a-\u003eBool",
-        "package": "Wired",
-        "partial": "Loop DB",
-        "signature": "Bool-\u003eDesignDB lib-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:inPinId",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "lib -\u003e Name -\u003e InPin",
-        "fct-source": "src/Lava-Model.html#inPinId",
-        "fct-type": "method",
-        "title": "inPinId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "inPinId",
-        "normalized": "a-\u003eName-\u003eInPin",
-        "package": "Wired",
-        "partial": "Pin Id",
-        "signature": "lib-\u003eName-\u003eInPin"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:inPinName",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "lib -\u003e InPin -\u003e Name",
-        "fct-source": "src/Lava-Model.html#inPinName",
-        "fct-type": "method",
-        "title": "inPinName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "inPinName",
-        "normalized": "a-\u003eInPin-\u003eName",
-        "package": "Wired",
-        "partial": "Pin Name",
-        "signature": "lib-\u003eInPin-\u003eName"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:input",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "m p",
-        "fct-source": "src/Lava-Misc.html#input",
-        "fct-type": "function",
-        "title": "input"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "input",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:inputList",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Int -\u003e m [p]",
-        "fct-source": "src/Lava-Misc.html#inputList",
-        "fct-type": "function",
-        "title": "inputList"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "inputList",
-        "normalized": "Int-\u003ea[b]",
-        "package": "Wired",
-        "partial": "List",
-        "signature": "Int-\u003em[p]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:inputSig",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "m Signal",
-        "fct-source": "src/Lava-Model.html#inputSig",
-        "fct-type": "function",
-        "title": "inputSig"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "inputSig",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Sig",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:inputToSig",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "PortTree x -\u003e PortTree Signal",
-        "fct-source": "src/Lava-Interpret.html#inputToSig",
-        "fct-type": "function",
-        "title": "inputToSig"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "inputToSig",
-        "normalized": "PortTree a-\u003ePortTree Signal",
-        "package": "Wired",
-        "partial": "To Sig",
-        "signature": "PortTree x-\u003ePortTree Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:interpret",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Interpretation lib x -\u003e Lava lib ps -\u003e (px, InterpDesignDB lib x)",
-        "fct-source": "src/Lava-Interpret.html#interpret",
-        "fct-type": "function",
-        "title": "interpret"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "interpret",
-        "normalized": "Interpretation a b-\u003eLava a c-\u003e(d,InterpDesignDB a b)",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Interpretation lib x-\u003eLava lib ps-\u003e(px,InterpDesignDB lib x)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:interpretCells",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Interpretation lib x -\u003e [(Signal, x)] -\u003e [(CellId, (lib, [Signal]))] -\u003e Map Signal x",
-        "fct-source": "src/Lava-Interpret.html#interpretCells",
-        "fct-type": "function",
-        "title": "interpretCells"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "interpretCells",
-        "normalized": "Interpretation a b-\u003e[(Signal,b)]-\u003e[(CellId,(a,[Signal]))]-\u003eMap Signal b",
-        "package": "Wired",
-        "partial": "Cells",
-        "signature": "Interpretation lib x-\u003e[(Signal,x)]-\u003e[(CellId,(lib,[Signal]))]-\u003eMap Signal x"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:interpretFunc",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Interpretation lib x -\u003e (psi -\u003e Lava lib pso) -\u003e pxi -\u003e (pxo, InterpDesignDB lib x)",
-        "fct-source": "src/Lava-Interpret.html#interpretFunc",
-        "fct-type": "function",
-        "title": "interpretFunc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "interpretFunc",
-        "normalized": "Interpretation a b-\u003e(c-\u003eLava a d)-\u003ee-\u003e(f,InterpDesignDB a b)",
-        "package": "Wired",
-        "partial": "Func",
-        "signature": "Interpretation lib x-\u003e(psi-\u003eLava lib pso)-\u003epxi-\u003e(pxo,InterpDesignDB lib x)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:interpretFuncP",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Interpretation lib x -\u003e (PortTree Signal -\u003e Lava lib (PortTree Signal)) -\u003e PortTree x -\u003e (PortTree x, InterpDesignDB lib x)",
-        "fct-source": "src/Lava-Interpret.html#interpretFuncP",
-        "fct-type": "function",
-        "title": "interpretFuncP"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "interpretFuncP",
-        "normalized": "Interpretation a b-\u003e(PortTree Signal-\u003eLava a(PortTree Signal))-\u003ePortTree b-\u003e(PortTree b,InterpDesignDB a b)",
-        "package": "Wired",
-        "partial": "Func",
-        "signature": "Interpretation lib x-\u003e(PortTree Signal-\u003eLava lib(PortTree Signal))-\u003ePortTree x-\u003e(PortTree x,InterpDesignDB lib x)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:interpret_",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Interpretation lib x -\u003e [(Signal, x)] -\u003e Lava lib (PortTree Signal) -\u003e (PortTree x, InterpDesignDB lib x)",
-        "fct-source": "src/Lava-Interpret.html#interpret_",
-        "fct-type": "function",
-        "title": "interpret_"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "interpret_",
-        "normalized": "Interpretation a b-\u003e[(Signal,b)]-\u003eLava a(PortTree Signal)-\u003e(PortTree b,InterpDesignDB a b)",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Interpretation lib x-\u003e[(Signal,x)]-\u003eLava lib(PortTree Signal)-\u003e(PortTree x,InterpDesignDB lib x)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:interpret__",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Interpretation lib x -\u003e [(Signal, x)] -\u003e (PortTree Signal, DesignDB lib) -\u003e (PortTree x, InterpDesignDB lib x)",
-        "fct-source": "src/Lava-Interpret.html#interpret__",
-        "fct-type": "function",
-        "title": "interpret__"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "interpret__",
-        "normalized": "Interpretation a b-\u003e[(Signal,b)]-\u003e(PortTree Signal,DesignDB a)-\u003e(PortTree b,InterpDesignDB a b)",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Interpretation lib x-\u003e[(Signal,x)]-\u003e(PortTree Signal,DesignDB lib)-\u003e(PortTree x,InterpDesignDB lib x)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:isFlop",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "lib -\u003e Bool",
-        "fct-source": "src/Lava-Model.html#isFlop",
-        "fct-type": "method",
-        "title": "isFlop"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "isFlop",
-        "normalized": "a-\u003eBool",
-        "package": "Wired",
-        "partial": "Flop",
-        "signature": "lib-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:label",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Tag -\u003e p -\u003e m p",
-        "fct-source": "src/Lava-Misc.html#label",
-        "fct-type": "function",
-        "title": "label"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "label",
-        "normalized": "Tag-\u003ea-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Tag-\u003ep-\u003em p"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:labelSig",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Tag -\u003e Signal -\u003e m Signal",
-        "fct-source": "src/Lava-Model.html#labelSig",
-        "fct-type": "function",
-        "title": "labelSig"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "labelSig",
-        "normalized": "Tag-\u003eSignal-\u003ea Signal",
-        "package": "Wired",
-        "partial": "Sig",
-        "signature": "Tag-\u003eSignal-\u003em Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:lava2000Interp",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Interpretation lib (Signal Bool)",
-        "fct-source": "src/Lava-Model.html#lava2000Interp",
-        "fct-type": "method",
-        "title": "lava2000Interp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "lava2000Interp",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Interp",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:lengthFP",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Res p Int",
-        "fct-source": "src/Lava-Port.html#lengthFP",
-        "fct-type": "method",
-        "title": "lengthFP"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "lengthFP",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "FP",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:listenDecls",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "m a -\u003e m (a, [Declaration lib])",
-        "fct-source": "src/Lava-Model.html#listenDecls",
-        "fct-type": "method",
-        "title": "listenDecls"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "listenDecls",
-        "normalized": "a b-\u003ea(b,[Declaration c])",
-        "package": "Wired",
-        "partial": "Decls",
-        "signature": "m a-\u003em(a,[Declaration lib])"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:lookupTag",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Tag -\u003e InterpDesignDB lib x -\u003e [x]",
-        "fct-source": "src/Lava-Model.html#lookupTag",
-        "fct-type": "function",
-        "title": "lookupTag"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "lookupTag",
-        "normalized": "Tag-\u003eInterpDesignDB a b-\u003e[b]",
-        "package": "Wired",
-        "partial": "Tag",
-        "signature": "Tag-\u003eInterpDesignDB lib x-\u003e[x]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:mapPort",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "(sa -\u003e sb) -\u003e pa -\u003e pb",
-        "fct-source": "src/Lava-Port.html#mapPort",
-        "fct-type": "function",
-        "title": "mapPort"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "mapPort",
-        "normalized": "(a-\u003eb)-\u003ec-\u003ed",
-        "package": "Wired",
-        "partial": "Port",
-        "signature": "(sa-\u003esb)-\u003epa-\u003epb"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:mapPortM",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "(sa -\u003e m sb) -\u003e pa -\u003e m pb",
-        "fct-source": "src/Lava-Port.html#mapPortM",
-        "fct-type": "function",
-        "title": "mapPortM"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "mapPortM",
-        "normalized": "(a-\u003eb c)-\u003ed-\u003eb e",
-        "package": "Wired",
-        "partial": "Port",
-        "signature": "(sa-\u003em sb)-\u003epa-\u003em pb"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:newCellId",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "m CellId",
-        "fct-source": "src/Lava-Model.html#newCellId",
-        "fct-type": "method",
-        "title": "newCellId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "newCellId",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Cell Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:newPrimInpId",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "m PrimInpId",
-        "fct-source": "src/Lava-Model.html#newPrimInpId",
-        "fct-type": "method",
-        "title": "newPrimInpId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "newPrimInpId",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Prim Inp Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:numIns",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "lib -\u003e InPin",
-        "fct-source": "src/Lava-Model.html#numIns",
-        "fct-type": "method",
-        "title": "numIns"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "numIns",
-        "normalized": "a-\u003eInPin",
-        "package": "Wired",
-        "partial": "Ins",
-        "signature": "lib-\u003eInPin"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:numOuts",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "lib -\u003e OutPin",
-        "fct-source": "src/Lava-Model.html#numOuts",
-        "fct-type": "method",
-        "title": "numOuts"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "numOuts",
-        "normalized": "a-\u003eOutPin",
-        "package": "Wired",
-        "partial": "Outs",
-        "signature": "lib-\u003eOutPin"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:outPinId",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "lib -\u003e Name -\u003e OutPin",
-        "fct-source": "src/Lava-Model.html#outPinId",
-        "fct-type": "method",
-        "title": "outPinId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "outPinId",
-        "normalized": "a-\u003eName-\u003eOutPin",
-        "package": "Wired",
-        "partial": "Pin Id",
-        "signature": "lib-\u003eName-\u003eOutPin"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:outPinName",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "lib -\u003e OutPin -\u003e Name",
-        "fct-source": "src/Lava-Model.html#outPinName",
-        "fct-type": "method",
-        "title": "outPinName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "outPinName",
-        "normalized": "a-\u003eOutPin-\u003eName",
-        "package": "Wired",
-        "partial": "Pin Name",
-        "signature": "lib-\u003eOutPin-\u003eName"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:physCell",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "lib -\u003e a -\u003e m a",
-        "fct-source": "src/Lava-Misc.html#physCell",
-        "fct-type": "function",
-        "title": "physCell"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "physCell",
-        "normalized": "a-\u003eb-\u003ec b",
-        "package": "Wired",
-        "partial": "Cell",
-        "signature": "lib-\u003ea-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:port",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "p -\u003e PortTree s",
-        "fct-source": "src/Lava-Port.html#port",
-        "fct-type": "method",
-        "title": "port"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "port",
-        "normalized": "a-\u003ePortTree b",
-        "package": "Wired",
-        "partial": "",
-        "signature": "p-\u003ePortTree s"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:primIns",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "[Signal]",
-        "fct-source": "src/Lava-Model.html#DesignDB",
-        "fct-type": "function",
-        "title": "primIns"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "primIns",
-        "normalized": "[Signal]",
-        "package": "Wired",
-        "partial": "Ins",
-        "signature": "[Signal]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:prop_validDecls",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "[Declaration lib] -\u003e Bool",
-        "fct-source": "src/Lava-Model.html#prop_validDecls",
-        "fct-type": "function",
-        "title": "prop_validDecls"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "prop_validDecls",
-        "normalized": "[Declaration a]-\u003eBool",
-        "package": "Wired",
-        "partial": "Decls",
-        "signature": "[Declaration lib]-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:prop_validSignals",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "[Declaration lib] -\u003e Bool",
-        "fct-source": "src/Lava-Model.html#prop_validSignals",
-        "fct-type": "function",
-        "title": "prop_validSignals"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "prop_validSignals",
-        "normalized": "[Declaration a]-\u003eBool",
-        "package": "Wired",
-        "partial": "Signals",
-        "signature": "[Declaration lib]-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:propagator",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "lib -\u003e [x] -\u003e [Maybe x]",
-        "fct-source": "src/Lava-Model.html#Interpretation",
-        "fct-type": "function",
-        "title": "propagator"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "propagator",
-        "normalized": "a-\u003e[b]-\u003e[Maybe b]",
-        "package": "Wired",
-        "partial": "",
-        "signature": "lib-\u003e[x]-\u003e[Maybe x]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:runLava",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Lava lib a -\u003e (a, DesignDB lib)",
-        "fct-source": "src/Lava-Model.html#runLava",
-        "fct-type": "function",
-        "title": "runLava"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "runLava",
-        "normalized": "Lava a b-\u003e(b,DesignDB a)",
-        "package": "Wired",
-        "partial": "Lava",
-        "signature": "Lava lib a-\u003e(a,DesignDB lib)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:sigTagDB",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Map Signal [Tag]",
-        "fct-source": "src/Lava-Model.html#DesignDB",
-        "fct-type": "function",
-        "title": "sigTagDB"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "sigTagDB",
-        "normalized": "Map Signal[Tag]",
-        "package": "Wired",
-        "partial": "Tag DB",
-        "signature": "Map Signal[Tag]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:simulate",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "(psi -\u003e m pso) -\u003e pni -\u003e pno",
-        "fct-source": "src/Lava-Misc.html#simulate",
-        "fct-type": "function",
-        "title": "simulate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "simulate",
-        "normalized": "(a-\u003eb c)-\u003ed-\u003ee",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(psi-\u003em pso)-\u003epni-\u003epno"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:simulateSeq",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "(psi -\u003e m pso) -\u003e [pni] -\u003e [pno]",
-        "fct-source": "src/Lava-Misc.html#simulateSeq",
-        "fct-type": "function",
-        "title": "simulateSeq"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "simulateSeq",
-        "normalized": "(a-\u003eb c)-\u003e[d]-\u003e[e]",
-        "package": "Wired",
-        "partial": "Seq",
-        "signature": "(psi-\u003em pso)-\u003e[pni]-\u003e[pno]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:sinkCell",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "lib -\u003e p -\u003e m ()",
-        "fct-source": "src/Lava-Misc.html#sinkCell",
-        "fct-type": "function",
-        "title": "sinkCell"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "sinkCell",
-        "normalized": "a-\u003eb-\u003ec()",
-        "package": "Wired",
-        "partial": "Cell",
-        "signature": "lib-\u003ep-\u003em()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:size",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "m p -\u003e Int",
-        "fct-source": "src/Lava-Misc.html#size",
-        "fct-type": "function",
-        "title": "size"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "size",
-        "normalized": "a b-\u003eInt",
-        "package": "Wired",
-        "partial": "",
-        "signature": "m p-\u003eInt"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:sourceCell",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "lib -\u003e m p",
-        "fct-source": "src/Lava-Misc.html#sourceCell",
-        "fct-type": "function",
-        "title": "sourceCell"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "sourceCell",
-        "normalized": "a-\u003eb c",
-        "package": "Wired",
-        "partial": "Cell",
-        "signature": "lib-\u003em p"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:tagSigDB",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Map Tag [Signal]",
-        "fct-source": "src/Lava-Model.html#DesignDB",
-        "fct-type": "function",
-        "title": "tagSigDB"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "tagSigDB",
-        "normalized": "Map Tag[Signal]",
-        "package": "Wired",
-        "partial": "Sig DB",
-        "signature": "Map Tag[Signal]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:tellSigs",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Interpretation lib x -\u003e [Signal] -\u003e [Maybe x] -\u003e Knot Signal x ()",
-        "fct-source": "src/Lava-Interpret.html#tellSigs",
-        "fct-type": "function",
-        "title": "tellSigs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "tellSigs",
-        "normalized": "Interpretation a b-\u003e[Signal]-\u003e[Maybe b]-\u003eKnot Signal b()",
-        "package": "Wired",
-        "partial": "Sigs",
-        "signature": "Interpretation lib x-\u003e[Signal]-\u003e[Maybe x]-\u003eKnot Signal x()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:toLava",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "m a -\u003e Lava lib a",
-        "fct-source": "src/Lava-Model.html#toLava",
-        "fct-type": "method",
-        "title": "toLava"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "toLava",
-        "normalized": "a b-\u003eLava c b",
-        "package": "Wired",
-        "partial": "Lava",
-        "signature": "m a-\u003eLava lib a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:toLava2000",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "(psi -\u003e m pso) -\u003e pli -\u003e plo",
-        "fct-source": "src/Lava-Misc.html#toLava2000",
-        "fct-type": "function",
-        "title": "toLava2000"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "toLava2000",
-        "normalized": "(a-\u003eb c)-\u003ed-\u003ee",
-        "package": "Wired",
-        "partial": "Lava",
-        "signature": "(psi-\u003em pso)-\u003epli-\u003eplo"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:unLava",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "WriterT [Declaration lib] (State (PrimInpId, CellId)) a",
-        "fct-source": "src/Lava-Model.html#Lava",
-        "fct-type": "function",
-        "title": "unLava"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "unLava",
-        "normalized": "WriterT[Declaration a](State(PrimInpId,CellId))b",
-        "package": "Wired",
-        "partial": "Lava",
-        "signature": "WriterT[Declaration lib](State(PrimInpId,CellId))a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:unOne",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "s",
-        "fct-source": "src/Lava-Port.html#PortTree",
-        "fct-type": "function",
-        "title": "unOne"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "unOne",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "One",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:unport",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "PortTree s -\u003e p",
-        "fct-source": "src/Lava-Port.html#unport",
-        "fct-type": "method",
-        "title": "unport"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "unport",
-        "normalized": "PortTree a-\u003eb",
-        "package": "Wired",
-        "partial": "",
-        "signature": "PortTree s-\u003ep"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:verify",
-      "description": {
-        "fct-module": "Lava.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "(ps -\u003e m Signal) -\u003e IO ()",
-        "fct-source": "src/Lava-Misc.html#verify",
-        "fct-type": "function",
-        "title": "verify"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Internal",
-        "module": "Lava.Internal",
-        "name": "verify",
-        "normalized": "(a-\u003eb Signal)-\u003eIO()",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(ps-\u003em Signal)-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "module",
-        "fct-source": "src/Lava-Patterns.html",
-        "fct-type": "module",
-        "title": "Patterns"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "Patterns",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Patterns",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:-45--124--45-",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "(a -\u003e m b) -\u003e (c -\u003e m d) -\u003e (a, c) -\u003e m (b, d)",
-        "fct-source": "src/Lava-Patterns.html#-%7C-",
-        "fct-type": "function",
-        "title": "(-|-)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "(-|-) -|-",
-        "normalized": "(a-\u003eb c)-\u003e(d-\u003eb e)-\u003e(a,d)-\u003eb(c,e)",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(a-\u003em b)-\u003e(c-\u003em d)-\u003e(a,c)-\u003em(b,d)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:-45--60--45-",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "(b -\u003e m c) -\u003e (a -\u003e m b) -\u003e a -\u003e m c",
-        "fct-source": "src/Lava-Patterns.html#-%3C-",
-        "fct-type": "function",
-        "title": "(-\u003c-)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "(-\u003c-) -\u003c-",
-        "normalized": "(a-\u003eb c)-\u003e(d-\u003eb a)-\u003ed-\u003eb c",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(b-\u003em c)-\u003e(a-\u003em b)-\u003ea-\u003em c"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:-45--62--45-",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "(a -\u003e m b) -\u003e (b -\u003e m c) -\u003e a -\u003e m c",
-        "fct-source": "src/Lava-Patterns.html#-%3E-",
-        "fct-type": "function",
-        "title": "(-\u003e-)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "(-\u003e-) -\u003e-",
-        "normalized": "(a-\u003eb c)-\u003e(c-\u003eb d)-\u003ea-\u003eb d",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(a-\u003em b)-\u003e(b-\u003em c)-\u003ea-\u003em c"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:.-60-.",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "(b -\u003e c) -\u003e (a -\u003e b) -\u003e a -\u003e c",
-        "fct-source": "src/Lava-Patterns.html#.%3C.",
-        "fct-type": "function",
-        "title": "(.\u003c.)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "(.\u003c.) .\u003c.",
-        "normalized": "(a-\u003eb)-\u003e(c-\u003ea)-\u003ec-\u003eb",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(b-\u003ec)-\u003e(a-\u003eb)-\u003ea-\u003ec"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:.-62-.",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "(a -\u003e b) -\u003e (b -\u003e c) -\u003e a -\u003e c",
-        "fct-source": "src/Lava-Patterns.html#.%3E.",
-        "fct-type": "function",
-        "title": "(.\u003e.)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "(.\u003e.) .\u003e.",
-        "normalized": "(a-\u003eb)-\u003e(b-\u003ec)-\u003ea-\u003ec",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(a-\u003eb)-\u003e(b-\u003ec)-\u003ea-\u003ec"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:append",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "([a], [a]) -\u003e [a]",
-        "fct-source": "src/Lava-Patterns.html#append",
-        "fct-type": "function",
-        "title": "append"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "append",
-        "normalized": "([a],[a])-\u003e[a]",
-        "package": "Wired",
-        "partial": "",
-        "signature": "([a],[a])-\u003e[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:bfly",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "Int -\u003e ([a] -\u003e m [a]) -\u003e [a] -\u003e m [a]",
-        "fct-source": "src/Lava-Patterns.html#bfly",
-        "fct-type": "function",
-        "title": "bfly"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "bfly",
-        "normalized": "Int-\u003e([a]-\u003eb[a])-\u003e[a]-\u003eb[a]",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Int-\u003e([a]-\u003em[a])-\u003e[a]-\u003em[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:column",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "((a, b) -\u003e m (b, c)) -\u003e ([a], b) -\u003e m (b, [c])",
-        "fct-source": "src/Lava-Patterns.html#column",
-        "fct-type": "function",
-        "title": "column"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "column",
-        "normalized": "((a,b)-\u003ec(b,d))-\u003e([a],b)-\u003ec(b,[d])",
-        "package": "Wired",
-        "partial": "",
-        "signature": "((a,b)-\u003em(b,c))-\u003e([a],b)-\u003em(b,[c])"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:compose",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "[a -\u003e m a] -\u003e a -\u003e m a",
-        "fct-source": "src/Lava-Patterns.html#compose",
-        "fct-type": "function",
-        "title": "compose"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "compose",
-        "normalized": "[a-\u003eb a]-\u003ea-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "[a-\u003em a]-\u003ea-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:composeN",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "Int -\u003e (a -\u003e m a) -\u003e a -\u003e m a",
-        "fct-source": "src/Lava-Patterns.html#composeN",
-        "fct-type": "function",
-        "title": "composeN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "composeN",
-        "normalized": "Int-\u003e(a-\u003eb a)-\u003ea-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Int-\u003e(a-\u003em a)-\u003ea-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:copy",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "a -\u003e (a, a)",
-        "fct-source": "src/Lava-Patterns.html#copy",
-        "fct-type": "function",
-        "title": "copy"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "copy",
-        "normalized": "a-\u003e(a,a)",
-        "package": "Wired",
-        "partial": "",
-        "signature": "a-\u003e(a,a)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:grid",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "((a, b) -\u003e m (b, a)) -\u003e ([a], [b]) -\u003e m ([b], [a])",
-        "fct-source": "src/Lava-Patterns.html#grid",
-        "fct-type": "function",
-        "title": "grid"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "grid",
-        "normalized": "((a,b)-\u003ec(b,a))-\u003e([a],[b])-\u003ec([b],[a])",
-        "package": "Wired",
-        "partial": "",
-        "signature": "((a,b)-\u003em(b,a))-\u003e([a],[b])-\u003em([b],[a])"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:halveList",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "[a] -\u003e ([a], [a])",
-        "fct-source": "src/Lava-Patterns.html#halveList",
-        "fct-type": "function",
-        "title": "halveList"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "halveList",
-        "normalized": "[a]-\u003e([a],[a])",
-        "package": "Wired",
-        "partial": "List",
-        "signature": "[a]-\u003e([a],[a])"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:ilv",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "([a] -\u003e m [b]) -\u003e [a] -\u003e m [b]",
-        "fct-source": "src/Lava-Patterns.html#ilv",
-        "fct-type": "function",
-        "title": "ilv"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "ilv",
-        "normalized": "([a]-\u003eb[c])-\u003e[a]-\u003eb[c]",
-        "package": "Wired",
-        "partial": "",
-        "signature": "([a]-\u003em[b])-\u003e[a]-\u003em[b]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:ilvN",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "Int -\u003e ([a] -\u003e m [b]) -\u003e [a] -\u003e m [b]",
-        "fct-source": "src/Lava-Patterns.html#ilvN",
-        "fct-type": "function",
-        "title": "ilvN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "ilvN",
-        "normalized": "Int-\u003e([a]-\u003eb[c])-\u003e[a]-\u003eb[c]",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Int-\u003e([a]-\u003em[b])-\u003e[a]-\u003em[b]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:iter",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "Int -\u003e ((a -\u003e m b) -\u003e a -\u003e m b) -\u003e (a -\u003e m b) -\u003e a -\u003e m b",
-        "fct-source": "src/Lava-Patterns.html#iter",
-        "fct-type": "function",
-        "title": "iter"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "iter",
-        "normalized": "Int-\u003e((a-\u003eb c)-\u003ea-\u003eb c)-\u003e(a-\u003eb c)-\u003ea-\u003eb c",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Int-\u003e((a-\u003em b)-\u003ea-\u003em b)-\u003e(a-\u003em b)-\u003ea-\u003em b"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:mirror",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "((a, b) -\u003e m (c, d)) -\u003e (b, a) -\u003e m (d, c)",
-        "fct-source": "src/Lava-Patterns.html#mirror",
-        "fct-type": "function",
-        "title": "mirror"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "mirror",
-        "normalized": "((a,b)-\u003ec(d,e))-\u003e(b,a)-\u003ec(e,d)",
-        "package": "Wired",
-        "partial": "",
-        "signature": "((a,b)-\u003em(c,d))-\u003e(b,a)-\u003em(d,c)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:mon",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "(a -\u003e b) -\u003e a -\u003e m b",
-        "fct-source": "src/Lava-Patterns.html#mon",
-        "fct-type": "function",
-        "title": "mon"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "mon",
-        "normalized": "(a-\u003eb)-\u003ea-\u003ec b",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(a-\u003eb)-\u003ea-\u003em b"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:pair",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "[a] -\u003e [(a, a)]",
-        "fct-source": "src/Lava-Patterns.html#pair",
-        "fct-type": "function",
-        "title": "pair"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "pair",
-        "normalized": "[a]-\u003e[(a,a)]",
-        "package": "Wired",
-        "partial": "",
-        "signature": "[a]-\u003e[(a,a)]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:par",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "(a -\u003e m b) -\u003e (c -\u003e m d) -\u003e (a, c) -\u003e m (b, d)",
-        "fct-source": "src/Lava-Patterns.html#par",
-        "fct-type": "function",
-        "title": "par"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "par",
-        "normalized": "(a-\u003eb c)-\u003e(d-\u003eb e)-\u003e(a,d)-\u003eb(c,e)",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(a-\u003em b)-\u003e(c-\u003em d)-\u003e(a,c)-\u003em(b,d)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:parl",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "([a] -\u003e m [b]) -\u003e ([a] -\u003e m [b]) -\u003e [a] -\u003e m [b]",
-        "fct-source": "src/Lava-Patterns.html#parl",
-        "fct-type": "function",
-        "title": "parl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "parl",
-        "normalized": "([a]-\u003eb[c])-\u003e([a]-\u003eb[c])-\u003e[a]-\u003eb[c]",
-        "package": "Wired",
-        "partial": "",
-        "signature": "([a]-\u003em[b])-\u003e([a]-\u003em[b])-\u003e[a]-\u003em[b]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:pmap",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "((a, a) -\u003e m (b, b)) -\u003e [a] -\u003e m [b]",
-        "fct-source": "src/Lava-Patterns.html#pmap",
-        "fct-type": "function",
-        "title": "pmap"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "pmap",
-        "normalized": "((a,a)-\u003eb(c,c))-\u003e[a]-\u003eb[c]",
-        "package": "Wired",
-        "partial": "",
-        "signature": "((a,a)-\u003em(b,b))-\u003e[a]-\u003em[b]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:riffle",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "[a] -\u003e [a]",
-        "fct-source": "src/Lava-Patterns.html#riffle",
-        "fct-type": "function",
-        "title": "riffle"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "riffle",
-        "normalized": "[a]-\u003e[a]",
-        "package": "Wired",
-        "partial": "",
-        "signature": "[a]-\u003e[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:row",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "((a, b) -\u003e m (c, a)) -\u003e (a, [b]) -\u003e m ([c], a)",
-        "fct-source": "src/Lava-Patterns.html#row",
-        "fct-type": "function",
-        "title": "row"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "row",
-        "normalized": "((a,b)-\u003ec(d,a))-\u003e(a,[b])-\u003ec([d],a)",
-        "package": "Wired",
-        "partial": "",
-        "signature": "((a,b)-\u003em(c,a))-\u003e(a,[b])-\u003em([c],a)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:serial",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "(a -\u003e m b) -\u003e (b -\u003e m c) -\u003e a -\u003e m c",
-        "fct-source": "src/Lava-Patterns.html#serial",
-        "fct-type": "function",
-        "title": "serial"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "serial",
-        "normalized": "(a-\u003eb c)-\u003e(c-\u003eb d)-\u003ea-\u003eb d",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(a-\u003em b)-\u003e(b-\u003em c)-\u003ea-\u003em c"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:swap",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "(a, b) -\u003e (b, a)",
-        "fct-source": "src/Lava-Patterns.html#swap",
-        "fct-type": "function",
-        "title": "swap"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "swap",
-        "normalized": "(a,b)-\u003e(b,a)",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(a,b)-\u003e(b,a)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:swapl",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "[a] -\u003e [a]",
-        "fct-source": "src/Lava-Patterns.html#swapl",
-        "fct-type": "function",
-        "title": "swapl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "swapl",
-        "normalized": "[a]-\u003e[a]",
-        "package": "Wired",
-        "partial": "",
-        "signature": "[a]-\u003e[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:tri",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "(a -\u003e m a) -\u003e [a] -\u003e m [a]",
-        "fct-source": "src/Lava-Patterns.html#tri",
-        "fct-type": "function",
-        "title": "tri"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "tri",
-        "normalized": "(a-\u003eb a)-\u003e[a]-\u003eb[a]",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(a-\u003em a)-\u003e[a]-\u003em[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:two",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "([a] -\u003e m [b]) -\u003e [a] -\u003e m [b]",
-        "fct-source": "src/Lava-Patterns.html#two",
-        "fct-type": "function",
-        "title": "two"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "two",
-        "normalized": "([a]-\u003eb[c])-\u003e[a]-\u003eb[c]",
-        "package": "Wired",
-        "partial": "",
-        "signature": "([a]-\u003em[b])-\u003e[a]-\u003em[b]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:twoN",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "Int -\u003e ([a] -\u003e m [b]) -\u003e [a] -\u003e m [b]",
-        "fct-source": "src/Lava-Patterns.html#twoN",
-        "fct-type": "function",
-        "title": "twoN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "twoN",
-        "normalized": "Int-\u003e([a]-\u003eb[c])-\u003e[a]-\u003eb[c]",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Int-\u003e([a]-\u003em[b])-\u003e[a]-\u003em[b]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:unpair",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "[(a, a)] -\u003e [a]",
-        "fct-source": "src/Lava-Patterns.html#unpair",
-        "fct-type": "function",
-        "title": "unpair"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "unpair",
-        "normalized": "[(a,a)]-\u003e[a]",
-        "package": "Wired",
-        "partial": "",
-        "signature": "[(a,a)]-\u003e[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:unriffle",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "[a] -\u003e [a]",
-        "fct-source": "src/Lava-Patterns.html#unriffle",
-        "fct-type": "function",
-        "title": "unriffle"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "unriffle",
-        "normalized": "[a]-\u003e[a]",
-        "package": "Wired",
-        "partial": "",
-        "signature": "[a]-\u003e[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:unzipp",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "[(a, b)] -\u003e ([a], [b])",
-        "fct-source": "src/Lava-Patterns.html#unzipp",
-        "fct-type": "function",
-        "title": "unzipp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "unzipp",
-        "normalized": "[(a,b)]-\u003e([a],[b])",
-        "package": "Wired",
-        "partial": "",
-        "signature": "[(a,b)]-\u003e([a],[b])"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:zipp",
-      "description": {
-        "fct-module": "Lava.Patterns",
-        "fct-package": "Wired",
-        "fct-signature": "([a], [b]) -\u003e [(a, b)]",
-        "fct-source": "src/Lava-Patterns.html#zipp",
-        "fct-type": "function",
-        "title": "zipp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava Patterns",
-        "module": "Lava.Patterns",
-        "name": "zipp",
-        "normalized": "([a],[b])-\u003e[(a,b)]",
-        "package": "Wired",
-        "partial": "",
-        "signature": "([a],[b])-\u003e[(a,b)]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#",
-      "description": {
-        "fct-module": "Lava",
-        "fct-package": "Wired",
-        "fct-signature": "module",
-        "fct-source": "src/Lava.html",
-        "fct-type": "module",
-        "title": "Lava"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava",
-        "module": "Lava",
-        "name": "Lava",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Lava",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#t:CellLibrary",
-      "description": {
-        "fct-module": "Lava",
-        "fct-package": "Wired",
-        "fct-signature": "class",
-        "fct-source": "src/Lava-Model.html#CellLibrary",
-        "fct-type": "class",
-        "title": "CellLibrary"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava",
-        "module": "Lava",
-        "name": "CellLibrary",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Cell Library",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#t:InterpDesignDB",
-      "description": {
-        "fct-module": "Lava",
-        "fct-package": "Wired",
-        "fct-signature": "type",
-        "fct-source": "src/Lava-Model.html#InterpDesignDB",
-        "fct-type": "type",
-        "title": "InterpDesignDB"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava",
-        "module": "Lava",
-        "name": "InterpDesignDB",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Interp Design DB",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#t:Lava",
-      "description": {
-        "fct-module": "Lava",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Lava-Model.html#Lava",
-        "fct-type": "data",
-        "title": "Lava"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava",
-        "module": "Lava",
-        "name": "Lava",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Lava",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#t:MonadLava",
-      "description": {
-        "fct-module": "Lava",
-        "fct-package": "Wired",
-        "fct-signature": "class",
-        "fct-source": "src/Lava-Model.html#MonadLava",
-        "fct-type": "class",
-        "title": "MonadLava"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava",
-        "module": "Lava",
-        "name": "MonadLava",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Monad Lava",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#t:Port",
-      "description": {
-        "fct-module": "Lava",
-        "fct-package": "Wired",
-        "fct-signature": "class",
-        "fct-source": "src/Lava-Port.html#Port",
-        "fct-type": "class",
-        "title": "Port"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava",
-        "module": "Lava",
-        "name": "Port",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Port",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#t:PortFixed",
-      "description": {
-        "fct-module": "Lava",
-        "fct-package": "Wired",
-        "fct-signature": "class",
-        "fct-source": "src/Lava-Port.html#PortFixed",
-        "fct-type": "class",
-        "title": "PortFixed"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava",
-        "module": "Lava",
-        "name": "PortFixed",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Port Fixed",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#t:PortStruct",
-      "description": {
-        "fct-module": "Lava",
-        "fct-package": "Wired",
-        "fct-signature": "class",
-        "fct-source": "src/Lava-Port.html#PortStruct",
-        "fct-type": "class",
-        "title": "PortStruct"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava",
-        "module": "Lava",
-        "name": "PortStruct",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Port Struct",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#t:Signal",
-      "description": {
-        "fct-descr": "\u003cp\u003eIdentifies a driver in the circuit. A driver is either a primary input or\n an output pin of a cell.\n\u003c/p\u003e",
-        "fct-module": "Lava",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Lava-Model.html#Signal",
-        "fct-type": "data",
-        "title": "Signal"
-      },
-      "index": {
-        "description": "Identifies driver in the circuit driver is either primary input or an output pin of cell",
-        "hierarchy": "Lava",
-        "module": "Lava",
-        "name": "Signal",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Signal",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#v:decodeBin",
-      "description": {
-        "fct-module": "Lava",
-        "fct-package": "Wired",
-        "fct-signature": "[Int] -\u003e Int",
-        "fct-source": "src/Lava-Misc.html#decodeBin",
-        "fct-type": "function",
-        "title": "decodeBin"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava",
-        "module": "Lava",
-        "name": "decodeBin",
-        "normalized": "[Int]-\u003eInt",
-        "package": "Wired",
-        "partial": "Bin",
-        "signature": "[Int]-\u003eInt"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#v:depth",
-      "description": {
-        "fct-module": "Lava",
-        "fct-package": "Wired",
-        "fct-signature": "m ps -\u003e (pd, InterpDesignDB lib Int)",
-        "fct-source": "src/Lava-Misc.html#depth",
-        "fct-type": "function",
-        "title": "depth"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava",
-        "module": "Lava",
-        "name": "depth",
-        "normalized": "a b-\u003e(c,InterpDesignDB d Int)",
-        "package": "Wired",
-        "partial": "",
-        "signature": "m ps-\u003e(pd,InterpDesignDB lib Int)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#v:encodeBin",
-      "description": {
-        "fct-descr": "\u003cpre\u003eencodeBin n x\u003c/pre\u003e\u003cp\u003eEncodes the number \u003ccode\u003ex\u003c/code\u003e as a binary number of length \u003ccode\u003en\u003c/code\u003e. The resulting list\n contains only zeroes and ones.\n\u003c/p\u003e",
-        "fct-module": "Lava",
-        "fct-package": "Wired",
-        "fct-signature": "Int -\u003e Int -\u003e [Int]",
-        "fct-source": "src/Lava-Misc.html#encodeBin",
-        "fct-type": "function",
-        "title": "encodeBin"
-      },
-      "index": {
-        "description": "encodeBin Encodes the number as binary number of length The resulting list contains only zeroes and ones",
-        "hierarchy": "Lava",
-        "module": "Lava",
-        "name": "encodeBin",
-        "normalized": "Int-\u003eInt-\u003e[Int]",
-        "package": "Wired",
-        "partial": "Bin",
-        "signature": "Int-\u003eInt-\u003e[Int]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#v:fanout",
-      "description": {
-        "fct-module": "Lava",
-        "fct-package": "Wired",
-        "fct-signature": "m a -\u003e InterpDesignDB lib Int",
-        "fct-source": "src/Lava-Misc.html#fanout",
-        "fct-type": "function",
-        "title": "fanout"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava",
-        "module": "Lava",
-        "name": "fanout",
-        "normalized": "a b-\u003eInterpDesignDB c Int",
-        "package": "Wired",
-        "partial": "",
-        "signature": "m a-\u003eInterpDesignDB lib Int"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#v:hasCombLoop",
-      "description": {
-        "fct-module": "Lava",
-        "fct-package": "Wired",
-        "fct-signature": "m a -\u003e Bool",
-        "fct-source": "src/Lava-Loop.html#hasCombLoop",
-        "fct-type": "function",
-        "title": "hasCombLoop"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava",
-        "module": "Lava",
-        "name": "hasCombLoop",
-        "normalized": "a b-\u003eBool",
-        "package": "Wired",
-        "partial": "Comb Loop",
-        "signature": "m a-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#v:hasLoop",
-      "description": {
-        "fct-module": "Lava",
-        "fct-package": "Wired",
-        "fct-signature": "m a -\u003e Bool",
-        "fct-source": "src/Lava-Loop.html#hasLoop",
-        "fct-type": "function",
-        "title": "hasLoop"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava",
-        "module": "Lava",
-        "name": "hasLoop",
-        "normalized": "a b-\u003eBool",
-        "package": "Wired",
-        "partial": "Loop",
-        "signature": "m a-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#v:input",
-      "description": {
-        "fct-module": "Lava",
-        "fct-package": "Wired",
-        "fct-signature": "m p",
-        "fct-source": "src/Lava-Misc.html#input",
-        "fct-type": "function",
-        "title": "input"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava",
-        "module": "Lava",
-        "name": "input",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#v:inputList",
-      "description": {
-        "fct-module": "Lava",
-        "fct-package": "Wired",
-        "fct-signature": "Int -\u003e m [p]",
-        "fct-source": "src/Lava-Misc.html#inputList",
-        "fct-type": "function",
-        "title": "inputList"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava",
-        "module": "Lava",
-        "name": "inputList",
-        "normalized": "Int-\u003ea[b]",
-        "package": "Wired",
-        "partial": "List",
-        "signature": "Int-\u003em[p]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#v:label",
-      "description": {
-        "fct-module": "Lava",
-        "fct-package": "Wired",
-        "fct-signature": "Tag -\u003e p -\u003e m p",
-        "fct-source": "src/Lava-Misc.html#label",
-        "fct-type": "function",
-        "title": "label"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava",
-        "module": "Lava",
-        "name": "label",
-        "normalized": "Tag-\u003ea-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Tag-\u003ep-\u003em p"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#v:lookupTag",
-      "description": {
-        "fct-module": "Lava",
-        "fct-package": "Wired",
-        "fct-signature": "Tag -\u003e InterpDesignDB lib x -\u003e [x]",
-        "fct-source": "src/Lava-Model.html#lookupTag",
-        "fct-type": "function",
-        "title": "lookupTag"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava",
-        "module": "Lava",
-        "name": "lookupTag",
-        "normalized": "Tag-\u003eInterpDesignDB a b-\u003e[b]",
-        "package": "Wired",
-        "partial": "Tag",
-        "signature": "Tag-\u003eInterpDesignDB lib x-\u003e[x]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#v:simulate",
-      "description": {
-        "fct-module": "Lava",
-        "fct-package": "Wired",
-        "fct-signature": "(psi -\u003e m pso) -\u003e pni -\u003e pno",
-        "fct-source": "src/Lava-Misc.html#simulate",
-        "fct-type": "function",
-        "title": "simulate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava",
-        "module": "Lava",
-        "name": "simulate",
-        "normalized": "(a-\u003eb c)-\u003ed-\u003ee",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(psi-\u003em pso)-\u003epni-\u003epno"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#v:simulateSeq",
-      "description": {
-        "fct-module": "Lava",
-        "fct-package": "Wired",
-        "fct-signature": "(psi -\u003e m pso) -\u003e [pni] -\u003e [pno]",
-        "fct-source": "src/Lava-Misc.html#simulateSeq",
-        "fct-type": "function",
-        "title": "simulateSeq"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava",
-        "module": "Lava",
-        "name": "simulateSeq",
-        "normalized": "(a-\u003eb c)-\u003e[d]-\u003e[e]",
-        "package": "Wired",
-        "partial": "Seq",
-        "signature": "(psi-\u003em pso)-\u003e[pni]-\u003e[pno]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#v:size",
-      "description": {
-        "fct-module": "Lava",
-        "fct-package": "Wired",
-        "fct-signature": "m p -\u003e Int",
-        "fct-source": "src/Lava-Misc.html#size",
-        "fct-type": "function",
-        "title": "size"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava",
-        "module": "Lava",
-        "name": "size",
-        "normalized": "a b-\u003eInt",
-        "package": "Wired",
-        "partial": "",
-        "signature": "m p-\u003eInt"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#v:toLava",
-      "description": {
-        "fct-module": "Lava",
-        "fct-package": "Wired",
-        "fct-signature": "m a -\u003e Lava lib a",
-        "fct-source": "src/Lava-Model.html#toLava",
-        "fct-type": "method",
-        "title": "toLava"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava",
-        "module": "Lava",
-        "name": "toLava",
-        "normalized": "a b-\u003eLava c b",
-        "package": "Wired",
-        "partial": "Lava",
-        "signature": "m a-\u003eLava lib a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#v:toLava2000",
-      "description": {
-        "fct-module": "Lava",
-        "fct-package": "Wired",
-        "fct-signature": "(psi -\u003e m pso) -\u003e pli -\u003e plo",
-        "fct-source": "src/Lava-Misc.html#toLava2000",
-        "fct-type": "function",
-        "title": "toLava2000"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava",
-        "module": "Lava",
-        "name": "toLava2000",
-        "normalized": "(a-\u003eb c)-\u003ed-\u003ee",
-        "package": "Wired",
-        "partial": "Lava",
-        "signature": "(psi-\u003em pso)-\u003epli-\u003eplo"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#v:verify",
-      "description": {
-        "fct-module": "Lava",
-        "fct-package": "Wired",
-        "fct-signature": "(ps -\u003e m Signal) -\u003e IO ()",
-        "fct-source": "src/Lava-Misc.html#verify",
-        "fct-type": "function",
-        "title": "verify"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Lava",
-        "module": "Lava",
-        "name": "verify",
-        "normalized": "(a-\u003eb Signal)-\u003eIO()",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(ps-\u003em Signal)-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "module",
-        "fct-source": "src/Layout-Internal.html",
-        "fct-type": "module",
-        "title": "Internal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "Internal",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Internal",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:AbsBlock",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "type",
-        "fct-source": "src/Layout-Floorplan.html#AbsBlock",
-        "fct-type": "type",
-        "title": "AbsBlock"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "AbsBlock",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Abs Block",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:AbsFloorplan",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "type",
-        "fct-source": "src/Layout-Floorplan.html#AbsFloorplan",
-        "fct-type": "type",
-        "title": "AbsFloorplan"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "AbsFloorplan",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Abs Floorplan",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:Alignment",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Layout-Floorplan.html#Alignment",
-        "fct-type": "data",
-        "title": "Alignment"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "Alignment",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Alignment",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:Block",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Layout-Floorplan.html#Block",
-        "fct-type": "data",
-        "title": "Block"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "Block",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Block",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:Color",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "type",
-        "fct-source": "src/Layout-Postscript.html#Color",
-        "fct-type": "type",
-        "title": "Color"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "Color",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Color",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:Distance",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Layout-Floorplan.html#Distance",
-        "fct-type": "data",
-        "title": "Distance"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "Distance",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Distance",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:Elasticity",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "newtype",
-        "fct-source": "src/Layout-Floorplan.html#Elasticity",
-        "fct-type": "newtype",
-        "title": "Elasticity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "Elasticity",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Elasticity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:Floorplan",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Layout-Floorplan.html#Floorplan",
-        "fct-type": "data",
-        "title": "Floorplan"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "Floorplan",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Floorplan",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:Layout",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "newtype",
-        "fct-source": "src/Layout-Internal.html#Layout",
-        "fct-type": "newtype",
-        "title": "Layout"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "Layout",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Layout",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:LayoutT",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "newtype",
-        "fct-source": "src/Layout-Internal.html#LayoutT",
-        "fct-type": "newtype",
-        "title": "LayoutT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "LayoutT",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Layout",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:MonadLayout",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "class",
-        "fct-source": "src/Layout-Internal.html#MonadLayout",
-        "fct-type": "class",
-        "title": "MonadLayout"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "MonadLayout",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Monad Layout",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:PSShow",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "class",
-        "fct-source": "src/Layout-Postscript.html#PSShow",
-        "fct-type": "class",
-        "title": "PSShow"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "PSShow",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "PSShow",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:Placement",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Layout-Floorplan.html#Placement",
-        "fct-type": "data",
-        "title": "Placement"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "Placement",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Placement",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:Postscript",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "type",
-        "fct-source": "src/Layout-Postscript.html#Postscript",
-        "fct-type": "type",
-        "title": "Postscript"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "Postscript",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Postscript",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:RelBlock",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "type",
-        "fct-source": "src/Layout-Floorplan.html#RelBlock",
-        "fct-type": "type",
-        "title": "RelBlock"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "RelBlock",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Rel Block",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:Transformable",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "class",
-        "fct-source": "src/Layout-Floorplan.html#Transformable",
-        "fct-type": "class",
-        "title": "Transformable"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "Transformable",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Transformable",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:Block",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Block (RelBlock s b)",
-        "fct-source": "src/Layout-Floorplan.html#Floorplan",
-        "fct-type": "function",
-        "title": "Block"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "Block",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Block",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:BottomLeft",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "BottomLeft",
-        "fct-source": "src/Layout-Floorplan.html#Alignment",
-        "fct-type": "function",
-        "title": "BottomLeft"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "BottomLeft",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Bottom Left",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:Box",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Box Size Orientation Name b",
-        "fct-source": "src/Layout-Floorplan.html#Block",
-        "fct-type": "function",
-        "title": "Box"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "Box",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Box",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:Comb",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Comb Placement [Floorplan s b]",
-        "fct-source": "src/Layout-Floorplan.html#Floorplan",
-        "fct-type": "function",
-        "title": "Comb"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "Comb",
-        "normalized": "Comb Placement[Floorplan a b]",
-        "package": "Wired",
-        "partial": "Comb",
-        "signature": "Comb Placement[Floorplan s b]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:Dist",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Dist Length",
-        "fct-source": "src/Layout-Floorplan.html#Distance",
-        "fct-type": "function",
-        "title": "Dist"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "Dist",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Dist",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:Elasticity",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Elasticity Int",
-        "fct-source": "src/Layout-Floorplan.html#Elasticity",
-        "fct-type": "function",
-        "title": "Elasticity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "Elasticity",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Elasticity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:Layout",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Layout (ReaderT Placement (Writer [Floorplan s b]) a)",
-        "fct-source": "src/Layout-Internal.html#Layout",
-        "fct-type": "function",
-        "title": "Layout"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "Layout",
-        "normalized": "Layout(ReaderT Placement(Writer[Floorplan a b])c)",
-        "package": "Wired",
-        "partial": "Layout",
-        "signature": "Layout(ReaderT Placement(Writer[Floorplan s b])a)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:LayoutT",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "LayoutT (ReaderT Placement (WriterT [Floorplan s b] m) a)",
-        "fct-source": "src/Layout-Internal.html#LayoutT",
-        "fct-type": "function",
-        "title": "LayoutT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "LayoutT",
-        "normalized": "LayoutT(ReaderT Placement(WriterT[Floorplan a b]c)d)",
-        "package": "Wired",
-        "partial": "Layout",
-        "signature": "LayoutT(ReaderT Placement(WriterT[Floorplan s b]m)a)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:Row",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Row Direction Alignment",
-        "fct-source": "src/Layout-Floorplan.html#Placement",
-        "fct-type": "function",
-        "title": "Row"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "Row",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Row",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:Space",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Space spaceSize (Maybe s)",
-        "fct-source": "src/Layout-Floorplan.html#Block",
-        "fct-type": "function",
-        "title": "Space"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "Space",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Space",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:Stack",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Stack Alignment Alignment",
-        "fct-source": "src/Layout-Floorplan.html#Placement",
-        "fct-type": "function",
-        "title": "Stack"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "Stack",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Stack",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:TopRight",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "TopRight",
-        "fct-source": "src/Layout-Floorplan.html#Alignment",
-        "fct-type": "function",
-        "title": "TopRight"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "TopRight",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Top Right",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:Unspecified",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Unspecified",
-        "fct-source": "src/Layout-Floorplan.html#Placement",
-        "fct-type": "function",
-        "title": "Unspecified"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "Unspecified",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Unspecified",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:absToPS",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "AbsFloorplan s b -\u003e Postscript",
-        "fct-source": "src/Layout-Postscript.html#absToPS",
-        "fct-type": "function",
-        "title": "absToPS"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "absToPS",
-        "normalized": "AbsFloorplan a b-\u003ePostscript",
-        "package": "Wired",
-        "partial": "To PS",
-        "signature": "AbsFloorplan s b-\u003ePostscript"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:absolutize",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Floorplan s b -\u003e (AbsFloorplan s b, Size)",
-        "fct-source": "src/Layout-Floorplan.html#absolutize",
-        "fct-type": "function",
-        "title": "absolutize"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "absolutize",
-        "normalized": "Floorplan a b-\u003e(AbsFloorplan a b,Size)",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Floorplan s b-\u003e(AbsFloorplan s b,Size)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:absolutizeBlock",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Placement -\u003e RelBlock s b -\u003e (AbsBlock s b, Size)",
-        "fct-source": "src/Layout-Floorplan.html#absolutizeBlock",
-        "fct-type": "function",
-        "title": "absolutizeBlock"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "absolutizeBlock",
-        "normalized": "Placement-\u003eRelBlock a b-\u003e(AbsBlock a b,Size)",
-        "package": "Wired",
-        "partial": "Block",
-        "signature": "Placement-\u003eRelBlock s b-\u003e(AbsBlock s b,Size)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:absolutize_",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Placement -\u003e Position -\u003e Floorplan s b -\u003e Writer (AbsFloorplan s b) Size",
-        "fct-source": "src/Layout-Floorplan.html#absolutize_",
-        "fct-type": "function",
-        "title": "absolutize_"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "absolutize_",
-        "normalized": "Placement-\u003ePosition-\u003eFloorplan a b-\u003eWriter(AbsFloorplan a b)Size",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Placement-\u003ePosition-\u003eFloorplan s b-\u003eWriter(AbsFloorplan s b)Size"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:align",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Alignment -\u003e Length -\u003e Length -\u003e Length",
-        "fct-source": "src/Layout-Floorplan.html#align",
-        "fct-type": "function",
-        "title": "align"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "align",
-        "normalized": "Alignment-\u003eLength-\u003eLength-\u003eLength",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Alignment-\u003eLength-\u003eLength-\u003eLength"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:black",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Color",
-        "fct-source": "src/Layout-Postscript.html#black",
-        "fct-type": "function",
-        "title": "black"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "black",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:block",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Width -\u003e Height -\u003e Name -\u003e b -\u003e a -\u003e m a",
-        "fct-source": "src/Layout-Internal.html#block",
-        "fct-type": "function",
-        "title": "block"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "block",
-        "normalized": "Width-\u003eHeight-\u003eName-\u003ea-\u003eb-\u003ec b",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Width-\u003eHeight-\u003eName-\u003eb-\u003ea-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:blockCenter",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "(Position, AbsBlock s b) -\u003e Position",
-        "fct-source": "src/Layout-Floorplan.html#blockCenter",
-        "fct-type": "function",
-        "title": "blockCenter"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "blockCenter",
-        "normalized": "(Position,AbsBlock a b)-\u003ePosition",
-        "package": "Wired",
-        "partial": "Center",
-        "signature": "(Position,AbsBlock s b)-\u003ePosition"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:block_",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Width -\u003e Height -\u003e Name -\u003e b -\u003e m ()",
-        "fct-source": "src/Layout-Internal.html#block_",
-        "fct-type": "method",
-        "title": "block_"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "block_",
-        "normalized": "Width-\u003eHeight-\u003eName-\u003ea-\u003eb()",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Width-\u003eHeight-\u003eName-\u003eb-\u003em()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:blue",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Color",
-        "fct-source": "src/Layout-Postscript.html#blue",
-        "fct-type": "function",
-        "title": "blue"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "blue",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:currentPlacement",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "m Placement",
-        "fct-source": "src/Layout-Internal.html#currentPlacement",
-        "fct-type": "method",
-        "title": "currentPlacement"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "currentPlacement",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Placement",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:downwards",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "m a -\u003e m a",
-        "fct-source": "src/Layout-Internal.html#downwards",
-        "fct-type": "function",
-        "title": "downwards"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "downwards",
-        "normalized": "a b-\u003ea b",
-        "package": "Wired",
-        "partial": "",
-        "signature": "m a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:downwards-39-",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "m a -\u003e m a",
-        "fct-source": "src/Layout-Internal.html#downwards%27",
-        "fct-type": "function",
-        "title": "downwards'"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "downwards'",
-        "normalized": "a b-\u003ea b",
-        "package": "Wired",
-        "partial": "",
-        "signature": "m a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:flipX",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "a -\u003e a",
-        "fct-source": "src/Layout-Floorplan.html#flipX",
-        "fct-type": "method",
-        "title": "flipX"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "flipX",
-        "normalized": "a-\u003ea",
-        "package": "Wired",
-        "partial": "",
-        "signature": "a-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:flipY",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "a -\u003e a",
-        "fct-source": "src/Layout-Floorplan.html#flipY",
-        "fct-type": "method",
-        "title": "flipY"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "flipY",
-        "normalized": "a-\u003ea",
-        "package": "Wired",
-        "partial": "",
-        "signature": "a-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:floorplanToPS",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Floorplan s b -\u003e (Postscript, Size)",
-        "fct-source": "src/Layout-Postscript.html#floorplanToPS",
-        "fct-type": "function",
-        "title": "floorplanToPS"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "floorplanToPS",
-        "normalized": "Floorplan a b-\u003e(Postscript,Size)",
-        "package": "Wired",
-        "partial": "To PS",
-        "signature": "Floorplan s b-\u003e(Postscript,Size)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:green",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Color",
-        "fct-source": "src/Layout-Postscript.html#green",
-        "fct-type": "function",
-        "title": "green"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "green",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:grey",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Color",
-        "fct-source": "src/Layout-Postscript.html#grey",
-        "fct-type": "function",
-        "title": "grey"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "grey",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:leftwards",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "m a -\u003e m a",
-        "fct-source": "src/Layout-Internal.html#leftwards",
-        "fct-type": "function",
-        "title": "leftwards"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "leftwards",
-        "normalized": "a b-\u003ea b",
-        "package": "Wired",
-        "partial": "",
-        "signature": "m a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:leftwards-39-",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "m a -\u003e m a",
-        "fct-source": "src/Layout-Internal.html#leftwards%27",
-        "fct-type": "function",
-        "title": "leftwards'"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "leftwards'",
-        "normalized": "a b-\u003ea b",
-        "package": "Wired",
-        "partial": "",
-        "signature": "m a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:linesToPS",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "[([(Position, Position)], Color)] -\u003e Postscript",
-        "fct-source": "src/Layout-Postscript.html#linesToPS",
-        "fct-type": "function",
-        "title": "linesToPS"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "linesToPS",
-        "normalized": "[([(Position,Position)],Color)]-\u003ePostscript",
-        "package": "Wired",
-        "partial": "To PS",
-        "signature": "[([(Position,Position)],Color)]-\u003ePostscript"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:ps1",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Postscript",
-        "fct-source": "src/Layout-Postscript.html#ps1",
-        "fct-type": "function",
-        "title": "ps1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "ps1",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:ps2",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Postscript",
-        "fct-source": "src/Layout-Postscript.html#ps2",
-        "fct-type": "function",
-        "title": "ps2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "ps2",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:ps3",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Postscript",
-        "fct-source": "src/Layout-Postscript.html#ps3",
-        "fct-type": "function",
-        "title": "ps3"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "ps3",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:psShow",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "a -\u003e Postscript",
-        "fct-source": "src/Layout-Postscript.html#psShow",
-        "fct-type": "method",
-        "title": "psShow"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "psShow",
-        "normalized": "a-\u003ePostscript",
-        "package": "Wired",
-        "partial": "Show",
-        "signature": "a-\u003ePostscript"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:red",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Color",
-        "fct-source": "src/Layout-Postscript.html#red",
-        "fct-type": "function",
-        "title": "red"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "red",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:renderFloorplan",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Name -\u003e Floorplan s b -\u003e IO ()",
-        "fct-source": "src/Layout-Postscript.html#renderFloorplan",
-        "fct-type": "function",
-        "title": "renderFloorplan"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "renderFloorplan",
-        "normalized": "Name-\u003eFloorplan a b-\u003eIO()",
-        "package": "Wired",
-        "partial": "Floorplan",
-        "signature": "Name-\u003eFloorplan s b-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:renderFloorplan_",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Length -\u003e Name -\u003e Floorplan s b -\u003e [([(Position, Position)], Color)] -\u003e IO ()",
-        "fct-source": "src/Layout-Postscript.html#renderFloorplan_",
-        "fct-type": "function",
-        "title": "renderFloorplan_"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "renderFloorplan_",
-        "normalized": "Length-\u003eName-\u003eFloorplan a b-\u003e[([(Position,Position)],Color)]-\u003eIO()",
-        "package": "Wired",
-        "partial": "Floorplan",
-        "signature": "Length-\u003eName-\u003eFloorplan s b-\u003e[([(Position,Position)],Color)]-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:renderLayout",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Name -\u003e Layout s b a -\u003e IO ()",
-        "fct-source": "src/Layout-Internal.html#renderLayout",
-        "fct-type": "function",
-        "title": "renderLayout"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "renderLayout",
-        "normalized": "Name-\u003eLayout a b c-\u003eIO()",
-        "package": "Wired",
-        "partial": "Layout",
-        "signature": "Name-\u003eLayout s b a-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:renderLayoutT",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "(forall a.  m a -\u003e a) -\u003e Name -\u003e LayoutT s b m a -\u003e IO ()",
-        "fct-source": "src/Layout-Internal.html#renderLayoutT",
-        "fct-type": "function",
-        "title": "renderLayoutT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "renderLayoutT",
-        "normalized": "(a b c d-\u003ed)-\u003eName-\u003eLayoutT e f c d-\u003eIO()",
-        "package": "Wired",
-        "partial": "Layout",
-        "signature": "(forall a. m a-\u003ea)-\u003eName-\u003eLayoutT s b m a-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:rightwards",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "m a -\u003e m a",
-        "fct-source": "src/Layout-Internal.html#rightwards",
-        "fct-type": "function",
-        "title": "rightwards"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "rightwards",
-        "normalized": "a b-\u003ea b",
-        "package": "Wired",
-        "partial": "",
-        "signature": "m a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:rightwards-39-",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "m a -\u003e m a",
-        "fct-source": "src/Layout-Internal.html#rightwards%27",
-        "fct-type": "function",
-        "title": "rightwards'"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "rightwards'",
-        "normalized": "a b-\u003ea b",
-        "package": "Wired",
-        "partial": "",
-        "signature": "m a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:rotate",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Int -\u003e a -\u003e a",
-        "fct-source": "src/Layout-Floorplan.html#rotate",
-        "fct-type": "function",
-        "title": "rotate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "rotate",
-        "normalized": "Int-\u003ea-\u003ea",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Int-\u003ea-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:rotate_",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Int -\u003e a -\u003e a",
-        "fct-source": "src/Layout-Floorplan.html#rotate_",
-        "fct-type": "method",
-        "title": "rotate_"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "rotate_",
-        "normalized": "Int-\u003ea-\u003ea",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Int-\u003ea-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:runLayout",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Layout s b a -\u003e (a, Floorplan s b)",
-        "fct-source": "src/Layout-Internal.html#runLayout",
-        "fct-type": "function",
-        "title": "runLayout"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "runLayout",
-        "normalized": "Layout a b c-\u003e(c,Floorplan a b)",
-        "package": "Wired",
-        "partial": "Layout",
-        "signature": "Layout s b a-\u003e(a,Floorplan s b)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:runLayoutT",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "LayoutT s b m a -\u003e m (a, Floorplan s b)",
-        "fct-source": "src/Layout-Internal.html#runLayoutT",
-        "fct-type": "function",
-        "title": "runLayoutT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "runLayoutT",
-        "normalized": "LayoutT a b c d-\u003ec(d,Floorplan a b)",
-        "package": "Wired",
-        "partial": "Layout",
-        "signature": "LayoutT s b m a-\u003em(a,Floorplan s b)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:space",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Length -\u003e a -\u003e m a",
-        "fct-source": "src/Layout-Internal.html#space",
-        "fct-type": "function",
-        "title": "space"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "space",
-        "normalized": "Length-\u003ea-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Length-\u003ea-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:space_",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Length -\u003e Maybe s -\u003e m ()",
-        "fct-source": "src/Layout-Internal.html#space_",
-        "fct-type": "method",
-        "title": "space_"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "space_",
-        "normalized": "Length-\u003eMaybe a-\u003eb()",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Length-\u003eMaybe s-\u003em()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:stacked",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "m a -\u003e m a",
-        "fct-source": "src/Layout-Internal.html#stacked",
-        "fct-type": "function",
-        "title": "stacked"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "stacked",
-        "normalized": "a b-\u003ea b",
-        "package": "Wired",
-        "partial": "",
-        "signature": "m a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:subLayout",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Placement -\u003e m a -\u003e m a",
-        "fct-source": "src/Layout-Internal.html#subLayout",
-        "fct-type": "method",
-        "title": "subLayout"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "subLayout",
-        "normalized": "Placement-\u003ea b-\u003ea b",
-        "package": "Wired",
-        "partial": "Layout",
-        "signature": "Placement-\u003em a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:transformFloorplan",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "(Floorplan s b -\u003e Floorplan s b) -\u003e m a -\u003e m a",
-        "fct-source": "src/Layout-Internal.html#transformFloorplan",
-        "fct-type": "method",
-        "title": "transformFloorplan"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "transformFloorplan",
-        "normalized": "(Floorplan a b-\u003eFloorplan a b)-\u003ec d-\u003ec d",
-        "package": "Wired",
-        "partial": "Floorplan",
-        "signature": "(Floorplan s b-\u003eFloorplan s b)-\u003em a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:translate",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "XPos -\u003e YPos -\u003e m a -\u003e m a",
-        "fct-source": "src/Layout-Internal.html#translate",
-        "fct-type": "function",
-        "title": "translate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "translate",
-        "normalized": "XPos-\u003eYPos-\u003ea b-\u003ea b",
-        "package": "Wired",
-        "partial": "",
-        "signature": "XPos-\u003eYPos-\u003em a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:translateBlocks",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Position -\u003e AbsFloorplan s b -\u003e AbsFloorplan s b",
-        "fct-source": "src/Layout-Floorplan.html#translateBlocks",
-        "fct-type": "function",
-        "title": "translateBlocks"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "translateBlocks",
-        "normalized": "Position-\u003eAbsFloorplan a b-\u003eAbsFloorplan a b",
-        "package": "Wired",
-        "partial": "Blocks",
-        "signature": "Position-\u003eAbsFloorplan s b-\u003eAbsFloorplan s b"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:unplaced",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "m a -\u003e m a",
-        "fct-source": "src/Layout-Internal.html#unplaced",
-        "fct-type": "function",
-        "title": "unplaced"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "unplaced",
-        "normalized": "a b-\u003ea b",
-        "package": "Wired",
-        "partial": "",
-        "signature": "m a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:upwards",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "m a -\u003e m a",
-        "fct-source": "src/Layout-Internal.html#upwards",
-        "fct-type": "function",
-        "title": "upwards"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "upwards",
-        "normalized": "a b-\u003ea b",
-        "package": "Wired",
-        "partial": "",
-        "signature": "m a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:upwards-39-",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "m a -\u003e m a",
-        "fct-source": "src/Layout-Internal.html#upwards%27",
-        "fct-type": "function",
-        "title": "upwards'"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "upwards'",
-        "normalized": "a b-\u003ea b",
-        "package": "Wired",
-        "partial": "",
-        "signature": "m a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:white",
-      "description": {
-        "fct-module": "Layout.Internal",
-        "fct-package": "Wired",
-        "fct-signature": "Color",
-        "fct-source": "src/Layout-Postscript.html#white",
-        "fct-type": "function",
-        "title": "white"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout Internal",
-        "module": "Layout.Internal",
-        "name": "white",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#",
-      "description": {
-        "fct-module": "Layout",
-        "fct-package": "Wired",
-        "fct-signature": "module",
-        "fct-source": "src/Layout.html",
-        "fct-type": "module",
-        "title": "Layout"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout",
-        "module": "Layout",
-        "name": "Layout",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Layout",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#t:Layout",
-      "description": {
-        "fct-module": "Layout",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Layout-Internal.html#Layout",
-        "fct-type": "data",
-        "title": "Layout"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout",
-        "module": "Layout",
-        "name": "Layout",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Layout",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#t:LayoutT",
-      "description": {
-        "fct-module": "Layout",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Layout-Internal.html#LayoutT",
-        "fct-type": "data",
-        "title": "LayoutT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout",
-        "module": "Layout",
-        "name": "LayoutT",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Layout",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#t:MonadLayout",
-      "description": {
-        "fct-module": "Layout",
-        "fct-package": "Wired",
-        "fct-signature": "class",
-        "fct-source": "src/Layout-Internal.html#MonadLayout",
-        "fct-type": "class",
-        "title": "MonadLayout"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout",
-        "module": "Layout",
-        "name": "MonadLayout",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Monad Layout",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#t:Transformable",
-      "description": {
-        "fct-module": "Layout",
-        "fct-package": "Wired",
-        "fct-signature": "class",
-        "fct-source": "src/Layout-Floorplan.html#Transformable",
-        "fct-type": "class",
-        "title": "Transformable"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout",
-        "module": "Layout",
-        "name": "Transformable",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Transformable",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#v:black",
-      "description": {
-        "fct-module": "Layout",
-        "fct-package": "Wired",
-        "fct-signature": "Color",
-        "fct-source": "src/Layout-Postscript.html#black",
-        "fct-type": "function",
-        "title": "black"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout",
-        "module": "Layout",
-        "name": "black",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#v:blue",
-      "description": {
-        "fct-module": "Layout",
-        "fct-package": "Wired",
-        "fct-signature": "Color",
-        "fct-source": "src/Layout-Postscript.html#blue",
-        "fct-type": "function",
-        "title": "blue"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout",
-        "module": "Layout",
-        "name": "blue",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#v:downwards",
-      "description": {
-        "fct-module": "Layout",
-        "fct-package": "Wired",
-        "fct-signature": "m a -\u003e m a",
-        "fct-source": "src/Layout-Internal.html#downwards",
-        "fct-type": "function",
-        "title": "downwards"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout",
-        "module": "Layout",
-        "name": "downwards",
-        "normalized": "a b-\u003ea b",
-        "package": "Wired",
-        "partial": "",
-        "signature": "m a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#v:downwards-39-",
-      "description": {
-        "fct-module": "Layout",
-        "fct-package": "Wired",
-        "fct-signature": "m a -\u003e m a",
-        "fct-source": "src/Layout-Internal.html#downwards%27",
-        "fct-type": "function",
-        "title": "downwards'"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout",
-        "module": "Layout",
-        "name": "downwards'",
-        "normalized": "a b-\u003ea b",
-        "package": "Wired",
-        "partial": "",
-        "signature": "m a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#v:flipX",
-      "description": {
-        "fct-module": "Layout",
-        "fct-package": "Wired",
-        "fct-signature": "a -\u003e a",
-        "fct-source": "src/Layout-Floorplan.html#flipX",
-        "fct-type": "method",
-        "title": "flipX"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout",
-        "module": "Layout",
-        "name": "flipX",
-        "normalized": "a-\u003ea",
-        "package": "Wired",
-        "partial": "",
-        "signature": "a-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#v:flipY",
-      "description": {
-        "fct-module": "Layout",
-        "fct-package": "Wired",
-        "fct-signature": "a -\u003e a",
-        "fct-source": "src/Layout-Floorplan.html#flipY",
-        "fct-type": "method",
-        "title": "flipY"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout",
-        "module": "Layout",
-        "name": "flipY",
-        "normalized": "a-\u003ea",
-        "package": "Wired",
-        "partial": "",
-        "signature": "a-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#v:green",
-      "description": {
-        "fct-module": "Layout",
-        "fct-package": "Wired",
-        "fct-signature": "Color",
-        "fct-source": "src/Layout-Postscript.html#green",
-        "fct-type": "function",
-        "title": "green"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout",
-        "module": "Layout",
-        "name": "green",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#v:grey",
-      "description": {
-        "fct-module": "Layout",
-        "fct-package": "Wired",
-        "fct-signature": "Color",
-        "fct-source": "src/Layout-Postscript.html#grey",
-        "fct-type": "function",
-        "title": "grey"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout",
-        "module": "Layout",
-        "name": "grey",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#v:leftwards",
-      "description": {
-        "fct-module": "Layout",
-        "fct-package": "Wired",
-        "fct-signature": "m a -\u003e m a",
-        "fct-source": "src/Layout-Internal.html#leftwards",
-        "fct-type": "function",
-        "title": "leftwards"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout",
-        "module": "Layout",
-        "name": "leftwards",
-        "normalized": "a b-\u003ea b",
-        "package": "Wired",
-        "partial": "",
-        "signature": "m a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#v:leftwards-39-",
-      "description": {
-        "fct-module": "Layout",
-        "fct-package": "Wired",
-        "fct-signature": "m a -\u003e m a",
-        "fct-source": "src/Layout-Internal.html#leftwards%27",
-        "fct-type": "function",
-        "title": "leftwards'"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout",
-        "module": "Layout",
-        "name": "leftwards'",
-        "normalized": "a b-\u003ea b",
-        "package": "Wired",
-        "partial": "",
-        "signature": "m a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#v:red",
-      "description": {
-        "fct-module": "Layout",
-        "fct-package": "Wired",
-        "fct-signature": "Color",
-        "fct-source": "src/Layout-Postscript.html#red",
-        "fct-type": "function",
-        "title": "red"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout",
-        "module": "Layout",
-        "name": "red",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#v:renderLayout",
-      "description": {
-        "fct-module": "Layout",
-        "fct-package": "Wired",
-        "fct-signature": "Name -\u003e Layout s b a -\u003e IO ()",
-        "fct-source": "src/Layout-Internal.html#renderLayout",
-        "fct-type": "function",
-        "title": "renderLayout"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout",
-        "module": "Layout",
-        "name": "renderLayout",
-        "normalized": "Name-\u003eLayout a b c-\u003eIO()",
-        "package": "Wired",
-        "partial": "Layout",
-        "signature": "Name-\u003eLayout s b a-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#v:renderLayoutT",
-      "description": {
-        "fct-module": "Layout",
-        "fct-package": "Wired",
-        "fct-signature": "(forall a.  m a -\u003e a) -\u003e Name -\u003e LayoutT s b m a -\u003e IO ()",
-        "fct-source": "src/Layout-Internal.html#renderLayoutT",
-        "fct-type": "function",
-        "title": "renderLayoutT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout",
-        "module": "Layout",
-        "name": "renderLayoutT",
-        "normalized": "(a b c d-\u003ed)-\u003eName-\u003eLayoutT e f c d-\u003eIO()",
-        "package": "Wired",
-        "partial": "Layout",
-        "signature": "(forall a. m a-\u003ea)-\u003eName-\u003eLayoutT s b m a-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#v:rightwards",
-      "description": {
-        "fct-module": "Layout",
-        "fct-package": "Wired",
-        "fct-signature": "m a -\u003e m a",
-        "fct-source": "src/Layout-Internal.html#rightwards",
-        "fct-type": "function",
-        "title": "rightwards"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout",
-        "module": "Layout",
-        "name": "rightwards",
-        "normalized": "a b-\u003ea b",
-        "package": "Wired",
-        "partial": "",
-        "signature": "m a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#v:rightwards-39-",
-      "description": {
-        "fct-module": "Layout",
-        "fct-package": "Wired",
-        "fct-signature": "m a -\u003e m a",
-        "fct-source": "src/Layout-Internal.html#rightwards%27",
-        "fct-type": "function",
-        "title": "rightwards'"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout",
-        "module": "Layout",
-        "name": "rightwards'",
-        "normalized": "a b-\u003ea b",
-        "package": "Wired",
-        "partial": "",
-        "signature": "m a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#v:rotate",
-      "description": {
-        "fct-module": "Layout",
-        "fct-package": "Wired",
-        "fct-signature": "Int -\u003e a -\u003e a",
-        "fct-source": "src/Layout-Floorplan.html#rotate",
-        "fct-type": "function",
-        "title": "rotate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout",
-        "module": "Layout",
-        "name": "rotate",
-        "normalized": "Int-\u003ea-\u003ea",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Int-\u003ea-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#v:rotate_",
-      "description": {
-        "fct-module": "Layout",
-        "fct-package": "Wired",
-        "fct-signature": "Int -\u003e a -\u003e a",
-        "fct-source": "src/Layout-Floorplan.html#rotate_",
-        "fct-type": "method",
-        "title": "rotate_"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout",
-        "module": "Layout",
-        "name": "rotate_",
-        "normalized": "Int-\u003ea-\u003ea",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Int-\u003ea-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#v:space",
-      "description": {
-        "fct-module": "Layout",
-        "fct-package": "Wired",
-        "fct-signature": "Length -\u003e a -\u003e m a",
-        "fct-source": "src/Layout-Internal.html#space",
-        "fct-type": "function",
-        "title": "space"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout",
-        "module": "Layout",
-        "name": "space",
-        "normalized": "Length-\u003ea-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Length-\u003ea-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#v:stacked",
-      "description": {
-        "fct-module": "Layout",
-        "fct-package": "Wired",
-        "fct-signature": "m a -\u003e m a",
-        "fct-source": "src/Layout-Internal.html#stacked",
-        "fct-type": "function",
-        "title": "stacked"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout",
-        "module": "Layout",
-        "name": "stacked",
-        "normalized": "a b-\u003ea b",
-        "package": "Wired",
-        "partial": "",
-        "signature": "m a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#v:translate",
-      "description": {
-        "fct-module": "Layout",
-        "fct-package": "Wired",
-        "fct-signature": "XPos -\u003e YPos -\u003e m a -\u003e m a",
-        "fct-source": "src/Layout-Internal.html#translate",
-        "fct-type": "function",
-        "title": "translate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout",
-        "module": "Layout",
-        "name": "translate",
-        "normalized": "XPos-\u003eYPos-\u003ea b-\u003ea b",
-        "package": "Wired",
-        "partial": "",
-        "signature": "XPos-\u003eYPos-\u003em a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#v:unplaced",
-      "description": {
-        "fct-module": "Layout",
-        "fct-package": "Wired",
-        "fct-signature": "m a -\u003e m a",
-        "fct-source": "src/Layout-Internal.html#unplaced",
-        "fct-type": "function",
-        "title": "unplaced"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout",
-        "module": "Layout",
-        "name": "unplaced",
-        "normalized": "a b-\u003ea b",
-        "package": "Wired",
-        "partial": "",
-        "signature": "m a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#v:upwards",
-      "description": {
-        "fct-module": "Layout",
-        "fct-package": "Wired",
-        "fct-signature": "m a -\u003e m a",
-        "fct-source": "src/Layout-Internal.html#upwards",
-        "fct-type": "function",
-        "title": "upwards"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout",
-        "module": "Layout",
-        "name": "upwards",
-        "normalized": "a b-\u003ea b",
-        "package": "Wired",
-        "partial": "",
-        "signature": "m a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#v:upwards-39-",
-      "description": {
-        "fct-module": "Layout",
-        "fct-package": "Wired",
-        "fct-signature": "m a -\u003e m a",
-        "fct-source": "src/Layout-Internal.html#upwards%27",
-        "fct-type": "function",
-        "title": "upwards'"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout",
-        "module": "Layout",
-        "name": "upwards'",
-        "normalized": "a b-\u003ea b",
-        "package": "Wired",
-        "partial": "",
-        "signature": "m a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#v:white",
-      "description": {
-        "fct-module": "Layout",
-        "fct-package": "Wired",
-        "fct-signature": "Color",
-        "fct-source": "src/Layout-Postscript.html#white",
-        "fct-type": "function",
-        "title": "white"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Layout",
-        "module": "Layout",
-        "name": "white",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-LICENSE.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cpre\u003e The Open Cell Library is intended for use by universities, other research\n activities, educational programs and Si2.org members.\n However allowed, the Open Cell Library is not intended for commercial use.\n If you use the Open Cell Library for demonstration of commercial EDA tools\n it is required to mention, indicate that the library was developped by\n Nangate.\n\n If you have questions or concerns then please contact us at\n openlibrary@nangate.com\n\n The Open Cell Library is provided by Nangate under the following License:\n\n Nangate Open Cell Library License, Version 1.0. February 20, 2008\n\n Permission is hereby granted, free of charge, to any person or organization\n obtaining a copy of the Open Cell Library and accompanying documentation\n (the \"Library\") covered by this license to use, reproduce, display,\n distribute, execute, and transmit the Library, and to prepare derivative\n works of the Library, and to permit third-parties to whom the Library is\n furnished to do so, all subject to the following:\n\n The copyright notices in the Library and this entire statement, including\n the above license grant, this restriction and the following disclaimer,\n must be included in all copies of the Library, in whole or in part, and all\n derivative works of the Library, unless such copies or derivative works are\n solely in the form of machine-executable object code generated by a source\n language processor. The library has been generated using a non-optimized\n open PDK and is not suited for any commercial purpose. Measuring or\n benchmarking the Library against any other library or standard cell set is\n prohibited. Any meaningful library benchmarking must be done in\n collaboration with Nangate or other providers of optimized and\n production-ready PDKs.\n\n THE LIBRARY IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\n IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\n FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT\n SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE LIBRARY BE LIABLE\n FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE,\n ARISING FROM, OUT OF OR IN CONNECTION WITH THE LIBRARY OR THE USE OR OTHER\n DEALINGS IN THE LIBRARY.\n\u003c/pre\u003e\u003c/div\u003e",
-        "fct-module": "Libs.Nangate45.LICENSE",
-        "fct-package": "Wired",
-        "fct-signature": "module",
-        "fct-source": "src/Libs-Nangate45-LICENSE.html",
-        "fct-type": "module",
-        "title": "LICENSE"
-      },
-      "index": {
-        "description": "The Open Cell Library is intended for use by universities other research activities educational programs and Si2.org members However allowed the Open Cell Library is not intended for commercial use If you use the Open Cell Library for demonstration of commercial EDA tools it is required to mention indicate that the library was developped by Nangate If you have questions or concerns then please contact us at openlibrary@nangate.com The Open Cell Library is provided by Nangate under the following License Nangate Open Cell Library License Version February Permission is hereby granted free of charge to any person or organization obtaining copy of the Open Cell Library and accompanying documentation the Library covered by this license to use reproduce display distribute execute and transmit the Library and to prepare derivative works of the Library and to permit third-parties to whom the Library is furnished to do so all subject to the following The copyright notices in the Library and this entire statement including the above license grant this restriction and the following disclaimer must be included in all copies of the Library in whole or in part and all derivative works of the Library unless such copies or derivative works are solely in the form of machine-executable object code generated by source language processor The library has been generated using non-optimized open PDK and is not suited for any commercial purpose Measuring or benchmarking the Library against any other library or standard cell set is prohibited Any meaningful library benchmarking must be done in collaboration with Nangate or other providers of optimized and production-ready PDKs THE LIBRARY IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND EXPRESS OR IMPLIED INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY FITNESS FOR PARTICULAR PURPOSE TITLE AND NON-INFRINGEMENT IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE LIBRARY BE LIABLE FOR ANY DAMAGES OR OTHER LIABILITY WHETHER IN CONTRACT TORT OR OTHERWISE ARISING FROM OUT OF OR IN CONNECTION WITH THE LIBRARY OR THE USE OR OTHER DEALINGS IN THE LIBRARY",
-        "hierarchy": "Libs Nangate45 LICENSE",
-        "module": "Libs.Nangate45.LICENSE",
-        "name": "LICENSE",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "LICENSE",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eLava interface to the Nangate45 library.\n\u003c/p\u003e\u003cp\u003eThe data in this file is derived from Nangate's Open Cell Library,\n and is subject to the license restrictions stated in\n \u003ca\u003eLibs.Nangate45.LICENSE\u003c/a\u003e.\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "module",
-        "fct-source": "src/Libs-Nangate45-Lava.html",
-        "fct-type": "module",
-        "title": "Lava"
-      },
-      "index": {
-        "description": "Lava interface to the Nangate45 library The data in this file is derived from Nangate Open Cell Library and is subject to the license restrictions stated in Libs.Nangate45.LICENSE",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "Lava",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Lava",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#t:Nangate45",
-      "description": {
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Libs-Nangate45-Lava.html#Nangate45",
-        "fct-type": "data",
-        "title": "Nangate45"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "Nangate45",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Nangate",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:and2_x1",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = and [A1, A2]\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e m Signal",
-        "fct-source": "src/Libs-Nangate45-Lava.html#and2_x1",
-        "fct-type": "function",
-        "title": "and2_x1"
-      },
-      "index": {
-        "description": "Interface A1 A2 ZN Function ZN and A1 A2",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "and2_x1",
-        "normalized": "(Signal,Signal)-\u003ea Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003em Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:and2_x2",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = and [A1, A2]\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e m Signal",
-        "fct-source": "src/Libs-Nangate45-Lava.html#and2_x2",
-        "fct-type": "function",
-        "title": "and2_x2"
-      },
-      "index": {
-        "description": "Interface A1 A2 ZN Function ZN and A1 A2",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "and2_x2",
-        "normalized": "(Signal,Signal)-\u003ea Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003em Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:and2_x4",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = and [A1, A2]\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e m Signal",
-        "fct-source": "src/Libs-Nangate45-Lava.html#and2_x4",
-        "fct-type": "function",
-        "title": "and2_x4"
-      },
-      "index": {
-        "description": "Interface A1 A2 ZN Function ZN and A1 A2",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "and2_x4",
-        "normalized": "(Signal,Signal)-\u003ea Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003em Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:buf_x1",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = A\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "Signal -\u003e m Signal",
-        "fct-source": "src/Libs-Nangate45-Lava.html#buf_x1",
-        "fct-type": "function",
-        "title": "buf_x1"
-      },
-      "index": {
-        "description": "Interface Function",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "buf_x1",
-        "normalized": "Signal-\u003ea Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Signal-\u003em Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:buf_x16",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = A\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "Signal -\u003e m Signal",
-        "fct-source": "src/Libs-Nangate45-Lava.html#buf_x16",
-        "fct-type": "function",
-        "title": "buf_x16"
-      },
-      "index": {
-        "description": "Interface Function",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "buf_x16",
-        "normalized": "Signal-\u003ea Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Signal-\u003em Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:buf_x2",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = A\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "Signal -\u003e m Signal",
-        "fct-source": "src/Libs-Nangate45-Lava.html#buf_x2",
-        "fct-type": "function",
-        "title": "buf_x2"
-      },
-      "index": {
-        "description": "Interface Function",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "buf_x2",
-        "normalized": "Signal-\u003ea Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Signal-\u003em Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:buf_x32",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = A\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "Signal -\u003e m Signal",
-        "fct-source": "src/Libs-Nangate45-Lava.html#buf_x32",
-        "fct-type": "function",
-        "title": "buf_x32"
-      },
-      "index": {
-        "description": "Interface Function",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "buf_x32",
-        "normalized": "Signal-\u003ea Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Signal-\u003em Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:buf_x4",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = A\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "Signal -\u003e m Signal",
-        "fct-source": "src/Libs-Nangate45-Lava.html#buf_x4",
-        "fct-type": "function",
-        "title": "buf_x4"
-      },
-      "index": {
-        "description": "Interface Function",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "buf_x4",
-        "normalized": "Signal-\u003ea Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Signal-\u003em Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:buf_x8",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = A\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "Signal -\u003e m Signal",
-        "fct-source": "src/Libs-Nangate45-Lava.html#buf_x8",
-        "fct-type": "function",
-        "title": "buf_x8"
-      },
-      "index": {
-        "description": "Interface Function",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "buf_x8",
-        "normalized": "Signal-\u003ea Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Signal-\u003em Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:fa_x1",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (CI, (A, B)) -\u003e (S, CO)\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    S = or [and [or [and [A, B'], and [A', B]], CI'], and [(or [and [A, B'], and [A', B]])', CI]]\n    CO = or [and [A, B], and [A, CI], and [B, CI]]\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, (Signal, Signal)) -\u003e m (Signal, Signal)",
-        "fct-source": "src/Libs-Nangate45-Lava.html#fa_x1",
-        "fct-type": "function",
-        "title": "fa_x1"
-      },
-      "index": {
-        "description": "Interface CI CO Function or and or and and CI and or and and CI CO or and and CI and CI",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "fa_x1",
-        "normalized": "(Signal,(Signal,Signal))-\u003ea(Signal,Signal)",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,(Signal,Signal))-\u003em(Signal,Signal)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:fillcell_x1",
-      "description": {
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "a -\u003e m a",
-        "fct-source": "src/Libs-Nangate45-Lava.html#fillcell_x1",
-        "fct-type": "function",
-        "title": "fillcell_x1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "fillcell_x1",
-        "normalized": "a-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:fillcell_x16",
-      "description": {
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "a -\u003e m a",
-        "fct-source": "src/Libs-Nangate45-Lava.html#fillcell_x16",
-        "fct-type": "function",
-        "title": "fillcell_x16"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "fillcell_x16",
-        "normalized": "a-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:fillcell_x2",
-      "description": {
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "a -\u003e m a",
-        "fct-source": "src/Libs-Nangate45-Lava.html#fillcell_x2",
-        "fct-type": "function",
-        "title": "fillcell_x2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "fillcell_x2",
-        "normalized": "a-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:fillcell_x32",
-      "description": {
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "a -\u003e m a",
-        "fct-source": "src/Libs-Nangate45-Lava.html#fillcell_x32",
-        "fct-type": "function",
-        "title": "fillcell_x32"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "fillcell_x32",
-        "normalized": "a-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:fillcell_x4",
-      "description": {
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "a -\u003e m a",
-        "fct-source": "src/Libs-Nangate45-Lava.html#fillcell_x4",
-        "fct-type": "function",
-        "title": "fillcell_x4"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "fillcell_x4",
-        "normalized": "a-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:fillcell_x8",
-      "description": {
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "a -\u003e m a",
-        "fct-source": "src/Libs-Nangate45-Lava.html#fillcell_x8",
-        "fct-type": "function",
-        "title": "fillcell_x8"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "fillcell_x8",
-        "normalized": "a-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:ha_x1",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A, B) -\u003e (S, CO)\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    S = or [and [A, B'], and [A', B]]\n    CO = and [A, B]\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e m (Signal, Signal)",
-        "fct-source": "src/Libs-Nangate45-Lava.html#ha_x1",
-        "fct-type": "function",
-        "title": "ha_x1"
-      },
-      "index": {
-        "description": "Interface CO Function or and and CO and",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "ha_x1",
-        "normalized": "(Signal,Signal)-\u003ea(Signal,Signal)",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003em(Signal,Signal)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:inv_x1",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = A'\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "Signal -\u003e m Signal",
-        "fct-source": "src/Libs-Nangate45-Lava.html#inv_x1",
-        "fct-type": "function",
-        "title": "inv_x1"
-      },
-      "index": {
-        "description": "Interface ZN Function ZN",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "inv_x1",
-        "normalized": "Signal-\u003ea Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Signal-\u003em Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:inv_x16",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = A'\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "Signal -\u003e m Signal",
-        "fct-source": "src/Libs-Nangate45-Lava.html#inv_x16",
-        "fct-type": "function",
-        "title": "inv_x16"
-      },
-      "index": {
-        "description": "Interface ZN Function ZN",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "inv_x16",
-        "normalized": "Signal-\u003ea Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Signal-\u003em Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:inv_x2",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = A'\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "Signal -\u003e m Signal",
-        "fct-source": "src/Libs-Nangate45-Lava.html#inv_x2",
-        "fct-type": "function",
-        "title": "inv_x2"
-      },
-      "index": {
-        "description": "Interface ZN Function ZN",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "inv_x2",
-        "normalized": "Signal-\u003ea Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Signal-\u003em Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:inv_x32",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = A'\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "Signal -\u003e m Signal",
-        "fct-source": "src/Libs-Nangate45-Lava.html#inv_x32",
-        "fct-type": "function",
-        "title": "inv_x32"
-      },
-      "index": {
-        "description": "Interface ZN Function ZN",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "inv_x32",
-        "normalized": "Signal-\u003ea Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Signal-\u003em Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:inv_x4",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = A'\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "Signal -\u003e m Signal",
-        "fct-source": "src/Libs-Nangate45-Lava.html#inv_x4",
-        "fct-type": "function",
-        "title": "inv_x4"
-      },
-      "index": {
-        "description": "Interface ZN Function ZN",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "inv_x4",
-        "normalized": "Signal-\u003ea Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Signal-\u003em Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:inv_x8",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = A'\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "Signal -\u003e m Signal",
-        "fct-source": "src/Libs-Nangate45-Lava.html#inv_x8",
-        "fct-type": "function",
-        "title": "inv_x8"
-      },
-      "index": {
-        "description": "Interface ZN Function ZN",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "inv_x8",
-        "normalized": "Signal-\u003ea Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Signal-\u003em Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:logic0_x1",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = 0\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "m Signal",
-        "fct-source": "src/Libs-Nangate45-Lava.html#logic0_x1",
-        "fct-type": "function",
-        "title": "logic0_x1"
-      },
-      "index": {
-        "description": "Interface Function",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "logic0_x1",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:logic1_x1",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = 1\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "m Signal",
-        "fct-source": "src/Libs-Nangate45-Lava.html#logic1_x1",
-        "fct-type": "function",
-        "title": "logic1_x1"
-      },
-      "index": {
-        "description": "Interface Function",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "logic1_x1",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:nand2_x1",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (and [A1, A2])'\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e m Signal",
-        "fct-source": "src/Libs-Nangate45-Lava.html#nand2_x1",
-        "fct-type": "function",
-        "title": "nand2_x1"
-      },
-      "index": {
-        "description": "Interface A1 A2 ZN Function ZN and A1 A2",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "nand2_x1",
-        "normalized": "(Signal,Signal)-\u003ea Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003em Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:nand2_x2",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (and [A1, A2])'\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e m Signal",
-        "fct-source": "src/Libs-Nangate45-Lava.html#nand2_x2",
-        "fct-type": "function",
-        "title": "nand2_x2"
-      },
-      "index": {
-        "description": "Interface A1 A2 ZN Function ZN and A1 A2",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "nand2_x2",
-        "normalized": "(Signal,Signal)-\u003ea Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003em Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:nand2_x4",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (and [A1, A2])'\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e m Signal",
-        "fct-source": "src/Libs-Nangate45-Lava.html#nand2_x4",
-        "fct-type": "function",
-        "title": "nand2_x4"
-      },
-      "index": {
-        "description": "Interface A1 A2 ZN Function ZN and A1 A2",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "nand2_x4",
-        "normalized": "(Signal,Signal)-\u003ea Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003em Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:nor2_x1",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (or [A1, A2])'\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e m Signal",
-        "fct-source": "src/Libs-Nangate45-Lava.html#nor2_x1",
-        "fct-type": "function",
-        "title": "nor2_x1"
-      },
-      "index": {
-        "description": "Interface A1 A2 ZN Function ZN or A1 A2",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "nor2_x1",
-        "normalized": "(Signal,Signal)-\u003ea Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003em Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:nor2_x2",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (or [A1, A2])'\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e m Signal",
-        "fct-source": "src/Libs-Nangate45-Lava.html#nor2_x2",
-        "fct-type": "function",
-        "title": "nor2_x2"
-      },
-      "index": {
-        "description": "Interface A1 A2 ZN Function ZN or A1 A2",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "nor2_x2",
-        "normalized": "(Signal,Signal)-\u003ea Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003em Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:nor2_x4",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (or [A1, A2])'\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e m Signal",
-        "fct-source": "src/Libs-Nangate45-Lava.html#nor2_x4",
-        "fct-type": "function",
-        "title": "nor2_x4"
-      },
-      "index": {
-        "description": "Interface A1 A2 ZN Function ZN or A1 A2",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "nor2_x4",
-        "normalized": "(Signal,Signal)-\u003ea Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003em Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:or2_x1",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = or [A1, A2]\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e m Signal",
-        "fct-source": "src/Libs-Nangate45-Lava.html#or2_x1",
-        "fct-type": "function",
-        "title": "or2_x1"
-      },
-      "index": {
-        "description": "Interface A1 A2 ZN Function ZN or A1 A2",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "or2_x1",
-        "normalized": "(Signal,Signal)-\u003ea Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003em Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:or2_x2",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = or [A1, A2]\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e m Signal",
-        "fct-source": "src/Libs-Nangate45-Lava.html#or2_x2",
-        "fct-type": "function",
-        "title": "or2_x2"
-      },
-      "index": {
-        "description": "Interface A1 A2 ZN Function ZN or A1 A2",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "or2_x2",
-        "normalized": "(Signal,Signal)-\u003ea Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003em Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:or2_x4",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = or [A1, A2]\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e m Signal",
-        "fct-source": "src/Libs-Nangate45-Lava.html#or2_x4",
-        "fct-type": "function",
-        "title": "or2_x4"
-      },
-      "index": {
-        "description": "Interface A1 A2 ZN Function ZN or A1 A2",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "or2_x4",
-        "normalized": "(Signal,Signal)-\u003ea Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003em Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:xnor2_x1",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A, B) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (or [and [A, B'], and [A', B]])'\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e m Signal",
-        "fct-source": "src/Libs-Nangate45-Lava.html#xnor2_x1",
-        "fct-type": "function",
-        "title": "xnor2_x1"
-      },
-      "index": {
-        "description": "Interface ZN Function ZN or and and",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "xnor2_x1",
-        "normalized": "(Signal,Signal)-\u003ea Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003em Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:xnor2_x2",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A, B) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (or [and [A, B'], and [A', B]])'\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e m Signal",
-        "fct-source": "src/Libs-Nangate45-Lava.html#xnor2_x2",
-        "fct-type": "function",
-        "title": "xnor2_x2"
-      },
-      "index": {
-        "description": "Interface ZN Function ZN or and and",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "xnor2_x2",
-        "normalized": "(Signal,Signal)-\u003ea Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003em Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:xor2_x1",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A, B) -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = or [and [A, B'], and [A', B]]\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e m Signal",
-        "fct-source": "src/Libs-Nangate45-Lava.html#xor2_x1",
-        "fct-type": "function",
-        "title": "xor2_x1"
-      },
-      "index": {
-        "description": "Interface Function or and and",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "xor2_x1",
-        "normalized": "(Signal,Signal)-\u003ea Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003em Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:xor2_x2",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A, B) -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = or [and [A, B'], and [A', B]]\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Lava",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e m Signal",
-        "fct-source": "src/Libs-Nangate45-Lava.html#xor2_x2",
-        "fct-type": "function",
-        "title": "xor2_x2"
-      },
-      "index": {
-        "description": "Interface Function or and and",
-        "hierarchy": "Libs Nangate45 Lava",
-        "module": "Libs.Nangate45.Lava",
-        "name": "xor2_x2",
-        "normalized": "(Signal,Signal)-\u003ea Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003em Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eWired interface to the Nangate45 library.\n\u003c/p\u003e\u003cp\u003eThe data in this file is derived from Nangate's Open Cell Library,\n and is subject to the license restrictions stated in\n \u003ca\u003eLibs.Nangate45.LICENSE\u003c/a\u003e.\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "module",
-        "fct-source": "src/Libs-Nangate45-Wired.html",
-        "fct-type": "module",
-        "title": "Wired"
-      },
-      "index": {
-        "description": "Wired interface to the Nangate45 library The data in this file is derived from Nangate Open Cell Library and is subject to the license restrictions stated in Libs.Nangate45.LICENSE",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "Wired",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Wired",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#t:Nangate45",
-      "description": {
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "data",
-        "fct-source": "src/Libs-Nangate45-Lava.html#Nangate45",
-        "fct-type": "data",
-        "title": "Nangate45"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "Nangate45",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Nangate",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:and2_x1",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = and [A1, A2]\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
-        "fct-source": "src/Libs-Nangate45-Wired.html#and2_x1",
-        "fct-type": "function",
-        "title": "and2_x1"
-      },
-      "index": {
-        "description": "Interface A1 A2 ZN Function ZN and A1 A2",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "and2_x1",
-        "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003eWired Nangate Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:and2_x2",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = and [A1, A2]\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
-        "fct-source": "src/Libs-Nangate45-Wired.html#and2_x2",
-        "fct-type": "function",
-        "title": "and2_x2"
-      },
-      "index": {
-        "description": "Interface A1 A2 ZN Function ZN and A1 A2",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "and2_x2",
-        "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003eWired Nangate Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:and2_x4",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = and [A1, A2]\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
-        "fct-source": "src/Libs-Nangate45-Wired.html#and2_x4",
-        "fct-type": "function",
-        "title": "and2_x4"
-      },
-      "index": {
-        "description": "Interface A1 A2 ZN Function ZN and A1 A2",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "and2_x4",
-        "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003eWired Nangate Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:buf_x1",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = A\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "Signal -\u003e Wired Nangate45 Signal",
-        "fct-source": "src/Libs-Nangate45-Wired.html#buf_x1",
-        "fct-type": "function",
-        "title": "buf_x1"
-      },
-      "index": {
-        "description": "Interface Function",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "buf_x1",
-        "normalized": "Signal-\u003eWired Nangate Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Signal-\u003eWired Nangate Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:buf_x16",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = A\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "Signal -\u003e Wired Nangate45 Signal",
-        "fct-source": "src/Libs-Nangate45-Wired.html#buf_x16",
-        "fct-type": "function",
-        "title": "buf_x16"
-      },
-      "index": {
-        "description": "Interface Function",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "buf_x16",
-        "normalized": "Signal-\u003eWired Nangate Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Signal-\u003eWired Nangate Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:buf_x2",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = A\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "Signal -\u003e Wired Nangate45 Signal",
-        "fct-source": "src/Libs-Nangate45-Wired.html#buf_x2",
-        "fct-type": "function",
-        "title": "buf_x2"
-      },
-      "index": {
-        "description": "Interface Function",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "buf_x2",
-        "normalized": "Signal-\u003eWired Nangate Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Signal-\u003eWired Nangate Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:buf_x32",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = A\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "Signal -\u003e Wired Nangate45 Signal",
-        "fct-source": "src/Libs-Nangate45-Wired.html#buf_x32",
-        "fct-type": "function",
-        "title": "buf_x32"
-      },
-      "index": {
-        "description": "Interface Function",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "buf_x32",
-        "normalized": "Signal-\u003eWired Nangate Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Signal-\u003eWired Nangate Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:buf_x4",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = A\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "Signal -\u003e Wired Nangate45 Signal",
-        "fct-source": "src/Libs-Nangate45-Wired.html#buf_x4",
-        "fct-type": "function",
-        "title": "buf_x4"
-      },
-      "index": {
-        "description": "Interface Function",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "buf_x4",
-        "normalized": "Signal-\u003eWired Nangate Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Signal-\u003eWired Nangate Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:buf_x8",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = A\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "Signal -\u003e Wired Nangate45 Signal",
-        "fct-source": "src/Libs-Nangate45-Wired.html#buf_x8",
-        "fct-type": "function",
-        "title": "buf_x8"
-      },
-      "index": {
-        "description": "Interface Function",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "buf_x8",
-        "normalized": "Signal-\u003eWired Nangate Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Signal-\u003eWired Nangate Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:fa_x1",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (CI, (A, B)) -\u003e (S, CO)\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    S = or [and [or [and [A, B'], and [A', B]], CI'], and [(or [and [A, B'], and [A', B]])', CI]]\n    CO = or [and [A, B], and [A, CI], and [B, CI]]\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, (Signal, Signal)) -\u003e Wired Nangate45 (Signal, Signal)",
-        "fct-source": "src/Libs-Nangate45-Wired.html#fa_x1",
-        "fct-type": "function",
-        "title": "fa_x1"
-      },
-      "index": {
-        "description": "Interface CI CO Function or and or and and CI and or and and CI CO or and and CI and CI",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "fa_x1",
-        "normalized": "(Signal,(Signal,Signal))-\u003eWired Nangate(Signal,Signal)",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,(Signal,Signal))-\u003eWired Nangate(Signal,Signal)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:fillcell_x1",
-      "description": {
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "a -\u003e Wired Nangate45 a",
-        "fct-source": "src/Libs-Nangate45-Wired.html#fillcell_x1",
-        "fct-type": "function",
-        "title": "fillcell_x1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "fillcell_x1",
-        "normalized": "a-\u003eWired Nangate a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "a-\u003eWired Nangate a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:fillcell_x16",
-      "description": {
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "a -\u003e Wired Nangate45 a",
-        "fct-source": "src/Libs-Nangate45-Wired.html#fillcell_x16",
-        "fct-type": "function",
-        "title": "fillcell_x16"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "fillcell_x16",
-        "normalized": "a-\u003eWired Nangate a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "a-\u003eWired Nangate a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:fillcell_x2",
-      "description": {
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "a -\u003e Wired Nangate45 a",
-        "fct-source": "src/Libs-Nangate45-Wired.html#fillcell_x2",
-        "fct-type": "function",
-        "title": "fillcell_x2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "fillcell_x2",
-        "normalized": "a-\u003eWired Nangate a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "a-\u003eWired Nangate a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:fillcell_x32",
-      "description": {
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "a -\u003e Wired Nangate45 a",
-        "fct-source": "src/Libs-Nangate45-Wired.html#fillcell_x32",
-        "fct-type": "function",
-        "title": "fillcell_x32"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "fillcell_x32",
-        "normalized": "a-\u003eWired Nangate a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "a-\u003eWired Nangate a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:fillcell_x4",
-      "description": {
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "a -\u003e Wired Nangate45 a",
-        "fct-source": "src/Libs-Nangate45-Wired.html#fillcell_x4",
-        "fct-type": "function",
-        "title": "fillcell_x4"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "fillcell_x4",
-        "normalized": "a-\u003eWired Nangate a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "a-\u003eWired Nangate a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:fillcell_x8",
-      "description": {
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "a -\u003e Wired Nangate45 a",
-        "fct-source": "src/Libs-Nangate45-Wired.html#fillcell_x8",
-        "fct-type": "function",
-        "title": "fillcell_x8"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "fillcell_x8",
-        "normalized": "a-\u003eWired Nangate a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "a-\u003eWired Nangate a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:ha_x1",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A, B) -\u003e (S, CO)\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    S = or [and [A, B'], and [A', B]]\n    CO = and [A, B]\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e Wired Nangate45 (Signal, Signal)",
-        "fct-source": "src/Libs-Nangate45-Wired.html#ha_x1",
-        "fct-type": "function",
-        "title": "ha_x1"
-      },
-      "index": {
-        "description": "Interface CO Function or and and CO and",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "ha_x1",
-        "normalized": "(Signal,Signal)-\u003eWired Nangate(Signal,Signal)",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003eWired Nangate(Signal,Signal)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:inv_x1",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = A'\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "Signal -\u003e Wired Nangate45 Signal",
-        "fct-source": "src/Libs-Nangate45-Wired.html#inv_x1",
-        "fct-type": "function",
-        "title": "inv_x1"
-      },
-      "index": {
-        "description": "Interface ZN Function ZN",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "inv_x1",
-        "normalized": "Signal-\u003eWired Nangate Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Signal-\u003eWired Nangate Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:inv_x16",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = A'\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "Signal -\u003e Wired Nangate45 Signal",
-        "fct-source": "src/Libs-Nangate45-Wired.html#inv_x16",
-        "fct-type": "function",
-        "title": "inv_x16"
-      },
-      "index": {
-        "description": "Interface ZN Function ZN",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "inv_x16",
-        "normalized": "Signal-\u003eWired Nangate Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Signal-\u003eWired Nangate Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:inv_x2",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = A'\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "Signal -\u003e Wired Nangate45 Signal",
-        "fct-source": "src/Libs-Nangate45-Wired.html#inv_x2",
-        "fct-type": "function",
-        "title": "inv_x2"
-      },
-      "index": {
-        "description": "Interface ZN Function ZN",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "inv_x2",
-        "normalized": "Signal-\u003eWired Nangate Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Signal-\u003eWired Nangate Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:inv_x32",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = A'\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "Signal -\u003e Wired Nangate45 Signal",
-        "fct-source": "src/Libs-Nangate45-Wired.html#inv_x32",
-        "fct-type": "function",
-        "title": "inv_x32"
-      },
-      "index": {
-        "description": "Interface ZN Function ZN",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "inv_x32",
-        "normalized": "Signal-\u003eWired Nangate Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Signal-\u003eWired Nangate Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:inv_x4",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = A'\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "Signal -\u003e Wired Nangate45 Signal",
-        "fct-source": "src/Libs-Nangate45-Wired.html#inv_x4",
-        "fct-type": "function",
-        "title": "inv_x4"
-      },
-      "index": {
-        "description": "Interface ZN Function ZN",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "inv_x4",
-        "normalized": "Signal-\u003eWired Nangate Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Signal-\u003eWired Nangate Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:inv_x8",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = A'\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "Signal -\u003e Wired Nangate45 Signal",
-        "fct-source": "src/Libs-Nangate45-Wired.html#inv_x8",
-        "fct-type": "function",
-        "title": "inv_x8"
-      },
-      "index": {
-        "description": "Interface ZN Function ZN",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "inv_x8",
-        "normalized": "Signal-\u003eWired Nangate Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Signal-\u003eWired Nangate Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:logic0_x1",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = 0\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "Wired Nangate45 Signal",
-        "fct-source": "src/Libs-Nangate45-Wired.html#logic0_x1",
-        "fct-type": "function",
-        "title": "logic0_x1"
-      },
-      "index": {
-        "description": "Interface Function",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "logic0_x1",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:logic1_x1",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = 1\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "Wired Nangate45 Signal",
-        "fct-source": "src/Libs-Nangate45-Wired.html#logic1_x1",
-        "fct-type": "function",
-        "title": "logic1_x1"
-      },
-      "index": {
-        "description": "Interface Function",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "logic1_x1",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:nand2_x1",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (and [A1, A2])'\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
-        "fct-source": "src/Libs-Nangate45-Wired.html#nand2_x1",
-        "fct-type": "function",
-        "title": "nand2_x1"
-      },
-      "index": {
-        "description": "Interface A1 A2 ZN Function ZN and A1 A2",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "nand2_x1",
-        "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003eWired Nangate Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:nand2_x2",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (and [A1, A2])'\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
-        "fct-source": "src/Libs-Nangate45-Wired.html#nand2_x2",
-        "fct-type": "function",
-        "title": "nand2_x2"
-      },
-      "index": {
-        "description": "Interface A1 A2 ZN Function ZN and A1 A2",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "nand2_x2",
-        "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003eWired Nangate Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:nand2_x4",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (and [A1, A2])'\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
-        "fct-source": "src/Libs-Nangate45-Wired.html#nand2_x4",
-        "fct-type": "function",
-        "title": "nand2_x4"
-      },
-      "index": {
-        "description": "Interface A1 A2 ZN Function ZN and A1 A2",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "nand2_x4",
-        "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003eWired Nangate Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:nor2_x1",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (or [A1, A2])'\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
-        "fct-source": "src/Libs-Nangate45-Wired.html#nor2_x1",
-        "fct-type": "function",
-        "title": "nor2_x1"
-      },
-      "index": {
-        "description": "Interface A1 A2 ZN Function ZN or A1 A2",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "nor2_x1",
-        "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003eWired Nangate Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:nor2_x2",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (or [A1, A2])'\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
-        "fct-source": "src/Libs-Nangate45-Wired.html#nor2_x2",
-        "fct-type": "function",
-        "title": "nor2_x2"
-      },
-      "index": {
-        "description": "Interface A1 A2 ZN Function ZN or A1 A2",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "nor2_x2",
-        "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003eWired Nangate Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:nor2_x4",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (or [A1, A2])'\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
-        "fct-source": "src/Libs-Nangate45-Wired.html#nor2_x4",
-        "fct-type": "function",
-        "title": "nor2_x4"
-      },
-      "index": {
-        "description": "Interface A1 A2 ZN Function ZN or A1 A2",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "nor2_x4",
-        "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003eWired Nangate Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:or2_x1",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = or [A1, A2]\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
-        "fct-source": "src/Libs-Nangate45-Wired.html#or2_x1",
-        "fct-type": "function",
-        "title": "or2_x1"
-      },
-      "index": {
-        "description": "Interface A1 A2 ZN Function ZN or A1 A2",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "or2_x1",
-        "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003eWired Nangate Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:or2_x2",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = or [A1, A2]\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
-        "fct-source": "src/Libs-Nangate45-Wired.html#or2_x2",
-        "fct-type": "function",
-        "title": "or2_x2"
-      },
-      "index": {
-        "description": "Interface A1 A2 ZN Function ZN or A1 A2",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "or2_x2",
-        "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003eWired Nangate Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:or2_x4",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = or [A1, A2]\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
-        "fct-source": "src/Libs-Nangate45-Wired.html#or2_x4",
-        "fct-type": "function",
-        "title": "or2_x4"
-      },
-      "index": {
-        "description": "Interface A1 A2 ZN Function ZN or A1 A2",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "or2_x4",
-        "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003eWired Nangate Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:xnor2_x1",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A, B) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (or [and [A, B'], and [A', B]])'\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
-        "fct-source": "src/Libs-Nangate45-Wired.html#xnor2_x1",
-        "fct-type": "function",
-        "title": "xnor2_x1"
-      },
-      "index": {
-        "description": "Interface ZN Function ZN or and and",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "xnor2_x1",
-        "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003eWired Nangate Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:xnor2_x2",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A, B) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (or [and [A, B'], and [A', B]])'\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
-        "fct-source": "src/Libs-Nangate45-Wired.html#xnor2_x2",
-        "fct-type": "function",
-        "title": "xnor2_x2"
-      },
-      "index": {
-        "description": "Interface ZN Function ZN or and and",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "xnor2_x2",
-        "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003eWired Nangate Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:xor2_x1",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A, B) -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = or [and [A, B'], and [A', B]]\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
-        "fct-source": "src/Libs-Nangate45-Wired.html#xor2_x1",
-        "fct-type": "function",
-        "title": "xor2_x1"
-      },
-      "index": {
-        "description": "Interface Function or and and",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "xor2_x1",
-        "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003eWired Nangate Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:xor2_x2",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A, B) -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = or [and [A, B'], and [A', B]]\n\u003c/pre\u003e",
-        "fct-module": "Libs.Nangate45.Wired",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
-        "fct-source": "src/Libs-Nangate45-Wired.html#xor2_x2",
-        "fct-type": "function",
-        "title": "xor2_x2"
-      },
-      "index": {
-        "description": "Interface Function or and and",
-        "hierarchy": "Libs Nangate45 Wired",
-        "module": "Libs.Nangate45.Wired",
-        "name": "xor2_x2",
-        "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
-        "package": "Wired",
-        "partial": "",
-        "signature": "(Signal,Signal)-\u003eWired Nangate Signal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#",
-      "description": {
-        "fct-module": "Wired.Model",
-        "fct-package": "Wired",
-        "fct-signature": "module",
-        "fct-source": "src/Wired-Model.html",
-        "fct-type": "module",
-        "title": "Model"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired Model",
-        "module": "Wired.Model",
-        "name": "Model",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Model",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#t:Guide",
-      "description": {
-        "fct-module": "Wired.Model",
-        "fct-package": "Wired",
-        "fct-signature": "type",
-        "fct-source": "src/Wired-Model.html#Guide",
-        "fct-type": "type",
-        "title": "Guide"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired Model",
-        "module": "Wired.Model",
-        "name": "Guide",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Guide",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#t:MonadWired",
-      "description": {
-        "fct-module": "Wired.Model",
-        "fct-package": "Wired",
-        "fct-signature": "class",
-        "fct-source": "src/Wired-Model.html#MonadWired",
-        "fct-type": "class",
-        "title": "MonadWired"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired Model",
-        "module": "Wired.Model",
-        "name": "MonadWired",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Monad Wired",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#t:Wired",
-      "description": {
-        "fct-module": "Wired.Model",
-        "fct-package": "Wired",
-        "fct-signature": "type",
-        "fct-source": "src/Wired-Model.html#Wired",
-        "fct-type": "type",
-        "title": "Wired"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired Model",
-        "module": "Wired.Model",
-        "name": "Wired",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Wired",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#t:WiredLibrary",
-      "description": {
-        "fct-module": "Wired.Model",
-        "fct-package": "Wired",
-        "fct-signature": "class",
-        "fct-source": "src/Wired-Model.html#WiredLibrary",
-        "fct-type": "class",
-        "title": "WiredLibrary"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired Model",
-        "module": "Wired.Model",
-        "name": "WiredLibrary",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Wired Library",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:convertGuide",
-      "description": {
-        "fct-module": "Wired.Model",
-        "fct-package": "Wired",
-        "fct-signature": "(Position, AbsBlock Guide CellId) -\u003e (Signal, (Layer_, Position, Position))",
-        "fct-source": "src/Wired-Model.html#convertGuide",
-        "fct-type": "function",
-        "title": "convertGuide"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired Model",
-        "module": "Wired.Model",
-        "name": "convertGuide",
-        "normalized": "(Position,AbsBlock Guide CellId)-\u003e(Signal,(Layer_,Position,Position))",
-        "package": "Wired",
-        "partial": "Guide",
-        "signature": "(Position,AbsBlock Guide CellId)-\u003e(Signal,(Layer_,Position,Position))"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:featureSize",
-      "description": {
-        "fct-module": "Wired.Model",
-        "fct-package": "Wired",
-        "fct-signature": "Res lib Length",
-        "fct-source": "src/Wired-Model.html#featureSize",
-        "fct-type": "method",
-        "title": "featureSize"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired Model",
-        "module": "Wired.Model",
-        "name": "featureSize",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Size",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:fpToLines",
-      "description": {
-        "fct-module": "Wired.Model",
-        "fct-package": "Wired",
-        "fct-signature": "(Signal -\u003e Maybe Color) -\u003e Floorplan Guide CellId -\u003e [([(Position, Position)], Color)]",
-        "fct-source": "src/Wired-Model.html#fpToLines",
-        "fct-type": "function",
-        "title": "fpToLines"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired Model",
-        "module": "Wired.Model",
-        "name": "fpToLines",
-        "normalized": "(Signal-\u003eMaybe Color)-\u003eFloorplan Guide CellId-\u003e[([(Position,Position)],Color)]",
-        "package": "Wired",
-        "partial": "To Lines",
-        "signature": "(Signal-\u003eMaybe Color)-\u003eFloorplan Guide CellId-\u003e[([(Position,Position)],Color)]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:guide",
-      "description": {
-        "fct-module": "Wired.Model",
-        "fct-package": "Wired",
-        "fct-signature": "Layer -\u003e Width -\u003e p -\u003e m p",
-        "fct-source": "src/Wired-Model.html#guide",
-        "fct-type": "function",
-        "title": "guide"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired Model",
-        "module": "Wired.Model",
-        "name": "guide",
-        "normalized": "Layer-\u003eWidth-\u003ea-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Layer-\u003eWidth-\u003ep-\u003em p"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:guideE",
-      "description": {
-        "fct-module": "Wired.Model",
-        "fct-package": "Wired",
-        "fct-signature": "Layer -\u003e Width -\u003e p -\u003e m p",
-        "fct-source": "src/Wired-Model.html#guideE",
-        "fct-type": "function",
-        "title": "guideE"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired Model",
-        "module": "Wired.Model",
-        "name": "guideE",
-        "normalized": "Layer-\u003eWidth-\u003ea-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Layer-\u003eWidth-\u003ep-\u003em p"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:guideLength",
-      "description": {
-        "fct-module": "Wired.Model",
-        "fct-package": "Wired",
-        "fct-signature": "Layer -\u003e Res lib Length",
-        "fct-source": "src/Wired-Model.html#guideLength",
-        "fct-type": "method",
-        "title": "guideLength"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired Model",
-        "module": "Wired.Model",
-        "name": "guideLength",
-        "normalized": "Layer-\u003eRes a Length",
-        "package": "Wired",
-        "partial": "Length",
-        "signature": "Layer-\u003eRes lib Length"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:guideN",
-      "description": {
-        "fct-module": "Wired.Model",
-        "fct-package": "Wired",
-        "fct-signature": "Layer -\u003e Width -\u003e p -\u003e m p",
-        "fct-source": "src/Wired-Model.html#guideN",
-        "fct-type": "function",
-        "title": "guideN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired Model",
-        "module": "Wired.Model",
-        "name": "guideN",
-        "normalized": "Layer-\u003eWidth-\u003ea-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Layer-\u003eWidth-\u003ep-\u003em p"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:guideS",
-      "description": {
-        "fct-module": "Wired.Model",
-        "fct-package": "Wired",
-        "fct-signature": "Layer -\u003e Width -\u003e p -\u003e m p",
-        "fct-source": "src/Wired-Model.html#guideS",
-        "fct-type": "function",
-        "title": "guideS"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired Model",
-        "module": "Wired.Model",
-        "name": "guideS",
-        "normalized": "Layer-\u003eWidth-\u003ea-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Layer-\u003eWidth-\u003ep-\u003em p"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:guideW",
-      "description": {
-        "fct-module": "Wired.Model",
-        "fct-package": "Wired",
-        "fct-signature": "Layer -\u003e Width -\u003e p -\u003e m p",
-        "fct-source": "src/Wired-Model.html#guideW",
-        "fct-type": "function",
-        "title": "guideW"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired Model",
-        "module": "Wired.Model",
-        "name": "guideW",
-        "normalized": "Layer-\u003eWidth-\u003ea-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Layer-\u003eWidth-\u003ep-\u003em p"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:guide_",
-      "description": {
-        "fct-module": "Wired.Model",
-        "fct-package": "Wired",
-        "fct-signature": "Direction -\u003e Layer -\u003e Width -\u003e p -\u003e m p",
-        "fct-source": "src/Wired-Model.html#guide_",
-        "fct-type": "function",
-        "title": "guide_"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired Model",
-        "module": "Wired.Model",
-        "name": "guide_",
-        "normalized": "Direction-\u003eLayer-\u003eWidth-\u003ea-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Direction-\u003eLayer-\u003eWidth-\u003ep-\u003em p"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:guide__",
-      "description": {
-        "fct-module": "Wired.Model",
-        "fct-package": "Wired",
-        "fct-signature": "Direction -\u003e Layer_ -\u003e Width -\u003e p -\u003e m p",
-        "fct-source": "src/Wired-Model.html#guide__",
-        "fct-type": "function",
-        "title": "guide__"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired Model",
-        "module": "Wired.Model",
-        "name": "guide__",
-        "normalized": "Direction-\u003eLayer_-\u003eWidth-\u003ea-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Direction-\u003eLayer_-\u003eWidth-\u003ep-\u003em p"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:mkCell",
-      "description": {
-        "fct-descr": "\u003cp\u003eTo be used when direction doesn't matter (e.g. when \u003ccode\u003eguideLength = 0\u003c/code\u003e).\n\u003c/p\u003e",
-        "fct-module": "Wired.Model",
-        "fct-package": "Wired",
-        "fct-signature": "Name -\u003e Width -\u003e Height -\u003e m a -\u003e m a",
-        "fct-source": "src/Wired-Model.html#mkCell",
-        "fct-type": "function",
-        "title": "mkCell"
-      },
-      "index": {
-        "description": "To be used when direction doesn matter e.g when guideLength",
-        "hierarchy": "Wired Model",
-        "module": "Wired.Model",
-        "name": "mkCell",
-        "normalized": "Name-\u003eWidth-\u003eHeight-\u003ea b-\u003ea b",
-        "package": "Wired",
-        "partial": "Cell",
-        "signature": "Name-\u003eWidth-\u003eHeight-\u003em a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:mkGuideDB",
-      "description": {
-        "fct-module": "Wired.Model",
-        "fct-package": "Wired",
-        "fct-signature": "Floorplan Guide CellId -\u003e Map Signal [(Layer_, Position, Position)]",
-        "fct-source": "src/Wired-Model.html#mkGuideDB",
-        "fct-type": "function",
-        "title": "mkGuideDB"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired Model",
-        "module": "Wired.Model",
-        "name": "mkGuideDB",
-        "normalized": "Floorplan Guide CellId-\u003eMap Signal[(Layer_,Position,Position)]",
-        "package": "Wired",
-        "partial": "Guide DB",
-        "signature": "Floorplan Guide CellId-\u003eMap Signal[(Layer_,Position,Position)]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:renderWired",
-      "description": {
-        "fct-module": "Wired.Model",
-        "fct-package": "Wired",
-        "fct-signature": "Name -\u003e Wired lib a -\u003e IO ()",
-        "fct-source": "src/Wired-Model.html#renderWired",
-        "fct-type": "function",
-        "title": "renderWired"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired Model",
-        "module": "Wired.Model",
-        "name": "renderWired",
-        "normalized": "Name-\u003eWired a b-\u003eIO()",
-        "package": "Wired",
-        "partial": "Wired",
-        "signature": "Name-\u003eWired lib a-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:renderWiredWithNets",
-      "description": {
-        "fct-module": "Wired.Model",
-        "fct-package": "Wired",
-        "fct-signature": "Name -\u003e Wired lib a -\u003e IO ()",
-        "fct-source": "src/Wired-Model.html#renderWiredWithNets",
-        "fct-type": "function",
-        "title": "renderWiredWithNets"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired Model",
-        "module": "Wired.Model",
-        "name": "renderWiredWithNets",
-        "normalized": "Name-\u003eWired a b-\u003eIO()",
-        "package": "Wired",
-        "partial": "Wired With Nets",
-        "signature": "Name-\u003eWired lib a-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:renderWiredWithNetsCol",
-      "description": {
-        "fct-module": "Wired.Model",
-        "fct-package": "Wired",
-        "fct-signature": "Maybe Color -\u003e (Tag -\u003e Maybe Color) -\u003e Name -\u003e Wired lib a -\u003e IO ()",
-        "fct-source": "src/Wired-Model.html#renderWiredWithNetsCol",
-        "fct-type": "function",
-        "title": "renderWiredWithNetsCol"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired Model",
-        "module": "Wired.Model",
-        "name": "renderWiredWithNetsCol",
-        "normalized": "Maybe Color-\u003e(Tag-\u003eMaybe Color)-\u003eName-\u003eWired a b-\u003eIO()",
-        "package": "Wired",
-        "partial": "Wired With Nets Col",
-        "signature": "Maybe Color-\u003e(Tag-\u003eMaybe Color)-\u003eName-\u003eWired lib a-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:rowHeight",
-      "description": {
-        "fct-module": "Wired.Model",
-        "fct-package": "Wired",
-        "fct-signature": "Res lib Height",
-        "fct-source": "src/Wired-Model.html#rowHeight",
-        "fct-type": "method",
-        "title": "rowHeight"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired Model",
-        "module": "Wired.Model",
-        "name": "rowHeight",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Height",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:runWired",
-      "description": {
-        "fct-module": "Wired.Model",
-        "fct-package": "Wired",
-        "fct-signature": "Wired lib a -\u003e (a, (DesignDB lib, Floorplan Guide CellId))",
-        "fct-source": "src/Wired-Model.html#runWired",
-        "fct-type": "function",
-        "title": "runWired"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired Model",
-        "module": "Wired.Model",
-        "name": "runWired",
-        "normalized": "Wired a b-\u003e(b,(DesignDB a,Floorplan Guide CellId))",
-        "package": "Wired",
-        "partial": "Wired",
-        "signature": "Wired lib a-\u003e(a,(DesignDB lib,Floorplan Guide CellId))"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:wireE",
-      "description": {
-        "fct-module": "Wired.Model",
-        "fct-package": "Wired",
-        "fct-signature": "Length -\u003e Layer -\u003e Width -\u003e p -\u003e m p",
-        "fct-source": "src/Wired-Model.html#wireE",
-        "fct-type": "function",
-        "title": "wireE"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired Model",
-        "module": "Wired.Model",
-        "name": "wireE",
-        "normalized": "Length-\u003eLayer-\u003eWidth-\u003ea-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Length-\u003eLayer-\u003eWidth-\u003ep-\u003em p"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:wireN",
-      "description": {
-        "fct-module": "Wired.Model",
-        "fct-package": "Wired",
-        "fct-signature": "Length -\u003e Layer -\u003e Width -\u003e p -\u003e m p",
-        "fct-source": "src/Wired-Model.html#wireN",
-        "fct-type": "function",
-        "title": "wireN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired Model",
-        "module": "Wired.Model",
-        "name": "wireN",
-        "normalized": "Length-\u003eLayer-\u003eWidth-\u003ea-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Length-\u003eLayer-\u003eWidth-\u003ep-\u003em p"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:wireS",
-      "description": {
-        "fct-module": "Wired.Model",
-        "fct-package": "Wired",
-        "fct-signature": "Length -\u003e Layer -\u003e Width -\u003e p -\u003e m p",
-        "fct-source": "src/Wired-Model.html#wireS",
-        "fct-type": "function",
-        "title": "wireS"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired Model",
-        "module": "Wired.Model",
-        "name": "wireS",
-        "normalized": "Length-\u003eLayer-\u003eWidth-\u003ea-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Length-\u003eLayer-\u003eWidth-\u003ep-\u003em p"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:wireW",
-      "description": {
-        "fct-module": "Wired.Model",
-        "fct-package": "Wired",
-        "fct-signature": "Length -\u003e Layer -\u003e Width -\u003e p -\u003e m p",
-        "fct-source": "src/Wired-Model.html#wireW",
-        "fct-type": "function",
-        "title": "wireW"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired Model",
-        "module": "Wired.Model",
-        "name": "wireW",
-        "normalized": "Length-\u003eLayer-\u003eWidth-\u003ea-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Length-\u003eLayer-\u003eWidth-\u003ep-\u003em p"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:wire_",
-      "description": {
-        "fct-module": "Wired.Model",
-        "fct-package": "Wired",
-        "fct-signature": "Direction -\u003e Length -\u003e Layer -\u003e Width -\u003e p -\u003e m p",
-        "fct-source": "src/Wired-Model.html#wire_",
-        "fct-type": "function",
-        "title": "wire_"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired Model",
-        "module": "Wired.Model",
-        "name": "wire_",
-        "normalized": "Direction-\u003eLength-\u003eLayer-\u003eWidth-\u003ea-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Direction-\u003eLength-\u003eLayer-\u003eWidth-\u003ep-\u003em p"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:wire__",
-      "description": {
-        "fct-module": "Wired.Model",
-        "fct-package": "Wired",
-        "fct-signature": "Direction -\u003e Length -\u003e Layer_ -\u003e Width -\u003e p -\u003e m p",
-        "fct-source": "src/Wired-Model.html#wire__",
-        "fct-type": "function",
-        "title": "wire__"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired Model",
-        "module": "Wired.Model",
-        "name": "wire__",
-        "normalized": "Direction-\u003eLength-\u003eLayer_-\u003eWidth-\u003ea-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Direction-\u003eLength-\u003eLayer_-\u003eWidth-\u003ep-\u003em p"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired.html#",
-      "description": {
-        "fct-module": "Wired",
-        "fct-package": "Wired",
-        "fct-signature": "module",
-        "fct-source": "src/Wired.html",
-        "fct-type": "module",
-        "title": "Wired"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired",
-        "module": "Wired",
-        "name": "Wired",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Wired",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired.html#t:Wired",
-      "description": {
-        "fct-module": "Wired",
-        "fct-package": "Wired",
-        "fct-signature": "type",
-        "fct-source": "src/Wired-Model.html#Wired",
-        "fct-type": "type",
-        "title": "Wired"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired",
-        "module": "Wired",
-        "name": "Wired",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Wired",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired.html#t:WiredLibrary",
-      "description": {
-        "fct-module": "Wired",
-        "fct-package": "Wired",
-        "fct-signature": "class",
-        "fct-source": "src/Wired-Model.html#WiredLibrary",
-        "fct-type": "class",
-        "title": "WiredLibrary"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired",
-        "module": "Wired",
-        "name": "WiredLibrary",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Wired Library",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired.html#v:featureSize",
-      "description": {
-        "fct-module": "Wired",
-        "fct-package": "Wired",
-        "fct-signature": "Res lib Length",
-        "fct-source": "src/Wired-Model.html#featureSize",
-        "fct-type": "method",
-        "title": "featureSize"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired",
-        "module": "Wired",
-        "name": "featureSize",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Size",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired.html#v:guide",
-      "description": {
-        "fct-module": "Wired",
-        "fct-package": "Wired",
-        "fct-signature": "Layer -\u003e Width -\u003e p -\u003e m p",
-        "fct-source": "src/Wired-Model.html#guide",
-        "fct-type": "function",
-        "title": "guide"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired",
-        "module": "Wired",
-        "name": "guide",
-        "normalized": "Layer-\u003eWidth-\u003ea-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Layer-\u003eWidth-\u003ep-\u003em p"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired.html#v:guideE",
-      "description": {
-        "fct-module": "Wired",
-        "fct-package": "Wired",
-        "fct-signature": "Layer -\u003e Width -\u003e p -\u003e m p",
-        "fct-source": "src/Wired-Model.html#guideE",
-        "fct-type": "function",
-        "title": "guideE"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired",
-        "module": "Wired",
-        "name": "guideE",
-        "normalized": "Layer-\u003eWidth-\u003ea-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Layer-\u003eWidth-\u003ep-\u003em p"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired.html#v:guideLength",
-      "description": {
-        "fct-module": "Wired",
-        "fct-package": "Wired",
-        "fct-signature": "Layer -\u003e Res lib Length",
-        "fct-source": "src/Wired-Model.html#guideLength",
-        "fct-type": "method",
-        "title": "guideLength"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired",
-        "module": "Wired",
-        "name": "guideLength",
-        "normalized": "Layer-\u003eRes a Length",
-        "package": "Wired",
-        "partial": "Length",
-        "signature": "Layer-\u003eRes lib Length"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired.html#v:guideN",
-      "description": {
-        "fct-module": "Wired",
-        "fct-package": "Wired",
-        "fct-signature": "Layer -\u003e Width -\u003e p -\u003e m p",
-        "fct-source": "src/Wired-Model.html#guideN",
-        "fct-type": "function",
-        "title": "guideN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired",
-        "module": "Wired",
-        "name": "guideN",
-        "normalized": "Layer-\u003eWidth-\u003ea-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Layer-\u003eWidth-\u003ep-\u003em p"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired.html#v:guideS",
-      "description": {
-        "fct-module": "Wired",
-        "fct-package": "Wired",
-        "fct-signature": "Layer -\u003e Width -\u003e p -\u003e m p",
-        "fct-source": "src/Wired-Model.html#guideS",
-        "fct-type": "function",
-        "title": "guideS"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired",
-        "module": "Wired",
-        "name": "guideS",
-        "normalized": "Layer-\u003eWidth-\u003ea-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Layer-\u003eWidth-\u003ep-\u003em p"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired.html#v:guideW",
-      "description": {
-        "fct-module": "Wired",
-        "fct-package": "Wired",
-        "fct-signature": "Layer -\u003e Width -\u003e p -\u003e m p",
-        "fct-source": "src/Wired-Model.html#guideW",
-        "fct-type": "function",
-        "title": "guideW"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired",
-        "module": "Wired",
-        "name": "guideW",
-        "normalized": "Layer-\u003eWidth-\u003ea-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Layer-\u003eWidth-\u003ep-\u003em p"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired.html#v:renderWired",
-      "description": {
-        "fct-module": "Wired",
-        "fct-package": "Wired",
-        "fct-signature": "Name -\u003e Wired lib a -\u003e IO ()",
-        "fct-source": "src/Wired-Model.html#renderWired",
-        "fct-type": "function",
-        "title": "renderWired"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired",
-        "module": "Wired",
-        "name": "renderWired",
-        "normalized": "Name-\u003eWired a b-\u003eIO()",
-        "package": "Wired",
-        "partial": "Wired",
-        "signature": "Name-\u003eWired lib a-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired.html#v:renderWiredWithNets",
-      "description": {
-        "fct-module": "Wired",
-        "fct-package": "Wired",
-        "fct-signature": "Name -\u003e Wired lib a -\u003e IO ()",
-        "fct-source": "src/Wired-Model.html#renderWiredWithNets",
-        "fct-type": "function",
-        "title": "renderWiredWithNets"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired",
-        "module": "Wired",
-        "name": "renderWiredWithNets",
-        "normalized": "Name-\u003eWired a b-\u003eIO()",
-        "package": "Wired",
-        "partial": "Wired With Nets",
-        "signature": "Name-\u003eWired lib a-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired.html#v:renderWiredWithNetsCol",
-      "description": {
-        "fct-module": "Wired",
-        "fct-package": "Wired",
-        "fct-signature": "Maybe Color -\u003e (Tag -\u003e Maybe Color) -\u003e Name -\u003e Wired lib a -\u003e IO ()",
-        "fct-source": "src/Wired-Model.html#renderWiredWithNetsCol",
-        "fct-type": "function",
-        "title": "renderWiredWithNetsCol"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired",
-        "module": "Wired",
-        "name": "renderWiredWithNetsCol",
-        "normalized": "Maybe Color-\u003e(Tag-\u003eMaybe Color)-\u003eName-\u003eWired a b-\u003eIO()",
-        "package": "Wired",
-        "partial": "Wired With Nets Col",
-        "signature": "Maybe Color-\u003e(Tag-\u003eMaybe Color)-\u003eName-\u003eWired lib a-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired.html#v:rowHeight",
-      "description": {
-        "fct-module": "Wired",
-        "fct-package": "Wired",
-        "fct-signature": "Res lib Height",
-        "fct-source": "src/Wired-Model.html#rowHeight",
-        "fct-type": "method",
-        "title": "rowHeight"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired",
-        "module": "Wired",
-        "name": "rowHeight",
-        "normalized": "",
-        "package": "Wired",
-        "partial": "Height",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired.html#v:wireE",
-      "description": {
-        "fct-module": "Wired",
-        "fct-package": "Wired",
-        "fct-signature": "Length -\u003e Layer -\u003e Width -\u003e p -\u003e m p",
-        "fct-source": "src/Wired-Model.html#wireE",
-        "fct-type": "function",
-        "title": "wireE"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired",
-        "module": "Wired",
-        "name": "wireE",
-        "normalized": "Length-\u003eLayer-\u003eWidth-\u003ea-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Length-\u003eLayer-\u003eWidth-\u003ep-\u003em p"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired.html#v:wireN",
-      "description": {
-        "fct-module": "Wired",
-        "fct-package": "Wired",
-        "fct-signature": "Length -\u003e Layer -\u003e Width -\u003e p -\u003e m p",
-        "fct-source": "src/Wired-Model.html#wireN",
-        "fct-type": "function",
-        "title": "wireN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired",
-        "module": "Wired",
-        "name": "wireN",
-        "normalized": "Length-\u003eLayer-\u003eWidth-\u003ea-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Length-\u003eLayer-\u003eWidth-\u003ep-\u003em p"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired.html#v:wireS",
-      "description": {
-        "fct-module": "Wired",
-        "fct-package": "Wired",
-        "fct-signature": "Length -\u003e Layer -\u003e Width -\u003e p -\u003e m p",
-        "fct-source": "src/Wired-Model.html#wireS",
-        "fct-type": "function",
-        "title": "wireS"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired",
-        "module": "Wired",
-        "name": "wireS",
-        "normalized": "Length-\u003eLayer-\u003eWidth-\u003ea-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Length-\u003eLayer-\u003eWidth-\u003ep-\u003em p"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Wired/docs/Wired.html#v:wireW",
-      "description": {
-        "fct-module": "Wired",
-        "fct-package": "Wired",
-        "fct-signature": "Length -\u003e Layer -\u003e Width -\u003e p -\u003e m p",
-        "fct-source": "src/Wired-Model.html#wireW",
-        "fct-type": "function",
-        "title": "wireW"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Wired",
-        "module": "Wired",
-        "name": "wireW",
-        "normalized": "Length-\u003eLayer-\u003eWidth-\u003ea-\u003eb a",
-        "package": "Wired",
-        "partial": "",
-        "signature": "Length-\u003eLayer-\u003eWidth-\u003ep-\u003em p"
-      }
-    }
-  }
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "Wired"
+      },
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Analysis.Timing.Library",
+          "name": "Library",
+          "package": "Wired",
+          "source": "src/Analysis-Timing-Library.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Analysis Timing Library",
+          "module": "Analysis.Timing.Library",
+          "name": "Library",
+          "package": "Wired",
+          "partial": "Library",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Analysis.Timing.Library",
+          "name": "LayerProps",
+          "package": "Wired",
+          "source": "src/Analysis-Timing-Library.html#LayerProps",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Analysis Timing Library",
+          "module": "Analysis.Timing.Library",
+          "name": "LayerProps",
+          "package": "Wired",
+          "partial": "Layer Props",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#t:LayerProps"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Analysis.Timing.Library",
+          "name": "Slope",
+          "package": "Wired",
+          "source": "src/Analysis-Timing-Library.html#Slope",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Analysis Timing Library",
+          "module": "Analysis.Timing.Library",
+          "name": "Slope",
+          "package": "Wired",
+          "partial": "Slope",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#t:Slope"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Analysis.Timing.Library",
+          "name": "Timing",
+          "package": "Wired",
+          "source": "src/Analysis-Timing-Library.html#Timing",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Analysis Timing Library",
+          "module": "Analysis.Timing.Library",
+          "name": "Timing",
+          "package": "Wired",
+          "partial": "Timing",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#t:Timing"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Analysis.Timing.Library",
+          "name": "TimingLibrary",
+          "package": "Wired",
+          "source": "src/Analysis-Timing-Library.html#TimingLibrary",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Analysis Timing Library",
+          "module": "Analysis.Timing.Library",
+          "name": "TimingLibrary",
+          "package": "Wired",
+          "partial": "Timing Library",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#t:TimingLibrary"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Analysis.Timing.Library",
+          "name": "WireTimingLibrary",
+          "package": "Wired",
+          "source": "src/Analysis-Timing-Library.html#WireTimingLibrary",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Analysis Timing Library",
+          "module": "Analysis.Timing.Library",
+          "name": "WireTimingLibrary",
+          "package": "Wired",
+          "partial": "Wire Timing Library",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#t:WireTimingLibrary"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Analysis.Timing.Library",
+          "name": "Falling",
+          "package": "Wired",
+          "signature": "Falling",
+          "source": "src/Analysis-Timing-Library.html#Slope",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Analysis Timing Library",
+          "module": "Analysis.Timing.Library",
+          "name": "Falling",
+          "package": "Wired",
+          "partial": "Falling",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:Falling"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Analysis.Timing.Library",
+          "name": "LayerProps",
+          "package": "Wired",
+          "signature": "LayerProps",
+          "source": "src/Analysis-Timing-Library.html#LayerProps",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Analysis Timing Library",
+          "module": "Analysis.Timing.Library",
+          "name": "LayerProps",
+          "package": "Wired",
+          "partial": "Layer Props",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:LayerProps"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Analysis.Timing.Library",
+          "name": "Rising",
+          "package": "Wired",
+          "signature": "Rising",
+          "source": "src/Analysis-Timing-Library.html#Slope",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Analysis Timing Library",
+          "module": "Analysis.Timing.Library",
+          "name": "Rising",
+          "package": "Wired",
+          "partial": "Rising",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:Rising"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Analysis.Timing.Library\",\"Analysis.Timing\"]",
+          "name": "Timing",
+          "package": "Wired",
+          "signature": "Timing",
+          "source": "src/Analysis-Timing-Library.html#Timing",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:Timing\",\"http://hackage.haskell.org/package/Wired/docs/Analysis-Timing.html#v:Timing\"]"
+        },
+        "index": {
+          "hierarchy": "Analysis Timing Library",
+          "module": "Analysis.Timing.Library",
+          "name": "Timing",
+          "package": "Wired",
+          "partial": "Timing",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:Timing"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Analysis.Timing.Library\",\"Analysis.Timing\"]",
+          "name": "arrivalTime",
+          "package": "Wired",
+          "signature": "Time",
+          "source": "src/Analysis-Timing-Library.html#Timing",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:arrivalTime\",\"http://hackage.haskell.org/package/Wired/docs/Analysis-Timing.html#v:arrivalTime\"]"
+        },
+        "index": {
+          "hierarchy": "Analysis Timing Library",
+          "module": "Analysis.Timing.Library",
+          "name": "arrivalTime",
+          "package": "Wired",
+          "partial": "Time",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:arrivalTime"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Analysis.Timing.Library",
+          "name": "capPerArea",
+          "package": "Wired",
+          "signature": "Double",
+          "source": "src/Analysis-Timing-Library.html#LayerProps",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Analysis Timing Library",
+          "module": "Analysis.Timing.Library",
+          "name": "capPerArea",
+          "package": "Wired",
+          "partial": "Per Area",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:capPerArea"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Analysis.Timing.Library",
+          "name": "delay",
+          "package": "Wired",
+          "signature": "lib -\u003e InPin -\u003e OutPin -\u003e Slope -\u003e Capacitance -\u003e Timing -\u003e Timing",
+          "source": "src/Analysis-Timing-Library.html#delay",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Analysis Timing Library",
+          "module": "Analysis.Timing.Library",
+          "name": "delay",
+          "normalized": "a-\u003eInPin-\u003eOutPin-\u003eSlope-\u003eCapacitance-\u003eTiming-\u003eTiming",
+          "package": "Wired",
+          "signature": "lib-\u003eInPin-\u003eOutPin-\u003eSlope-\u003eCapacitance-\u003eTiming-\u003eTiming",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:delay"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Analysis.Timing.Library",
+          "name": "edgeCap",
+          "package": "Wired",
+          "signature": "Double",
+          "source": "src/Analysis-Timing-Library.html#LayerProps",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Analysis Timing Library",
+          "module": "Analysis.Timing.Library",
+          "name": "edgeCap",
+          "package": "Wired",
+          "partial": "Cap",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:edgeCap"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Analysis.Timing.Library",
+          "name": "layerProps",
+          "package": "Wired",
+          "signature": "Layer_ -\u003e Res lib LayerProps",
+          "source": "src/Analysis-Timing-Library.html#layerProps",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Analysis Timing Library",
+          "module": "Analysis.Timing.Library",
+          "name": "layerProps",
+          "normalized": "Layer_-\u003eRes a LayerProps",
+          "package": "Wired",
+          "partial": "Props",
+          "signature": "Layer_-\u003eRes lib LayerProps",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:layerProps"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Analysis.Timing.Library",
+          "name": "layerWidth",
+          "package": "Wired",
+          "signature": "Width",
+          "source": "src/Analysis-Timing-Library.html#LayerProps",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Analysis Timing Library",
+          "module": "Analysis.Timing.Library",
+          "name": "layerWidth",
+          "package": "Wired",
+          "partial": "Width",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:layerWidth"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Analysis.Timing.Library",
+          "name": "linearDelay",
+          "package": "Wired",
+          "signature": "Delay -\u003e Double -\u003e Double -\u003e Resistance -\u003e Resistance -\u003e Capacitance -\u003e Timing -\u003e Timing",
+          "source": "src/Analysis-Timing-Library.html#linearDelay",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Analysis Timing Library",
+          "module": "Analysis.Timing.Library",
+          "name": "linearDelay",
+          "normalized": "Delay-\u003eDouble-\u003eDouble-\u003eResistance-\u003eResistance-\u003eCapacitance-\u003eTiming-\u003eTiming",
+          "package": "Wired",
+          "partial": "Delay",
+          "signature": "Delay-\u003eDouble-\u003eDouble-\u003eResistance-\u003eResistance-\u003eCapacitance-\u003eTiming-\u003eTiming",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:linearDelay"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Analysis.Timing.Library",
+          "name": "loadCaps",
+          "package": "Wired",
+          "signature": "lib -\u003e [Capacitance]",
+          "source": "src/Analysis-Timing-Library.html#loadCaps",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Analysis Timing Library",
+          "module": "Analysis.Timing.Library",
+          "name": "loadCaps",
+          "normalized": "a-\u003e[Capacitance]",
+          "package": "Wired",
+          "partial": "Caps",
+          "signature": "lib-\u003e[Capacitance]",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:loadCaps"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Analysis.Timing.Library",
+          "name": "maximumByArrival",
+          "package": "Wired",
+          "signature": "[Timing] -\u003e Timing",
+          "source": "src/Analysis-Timing-Library.html#maximumByArrival",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Analysis Timing Library",
+          "module": "Analysis.Timing.Library",
+          "name": "maximumByArrival",
+          "normalized": "[Timing]-\u003eTiming",
+          "package": "Wired",
+          "partial": "By Arrival",
+          "signature": "[Timing]-\u003eTiming",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:maximumByArrival"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Analysis.Timing.Library",
+          "name": "mkTimingTable",
+          "package": "Wired",
+          "signature": "CInt -\u003e CInt -\u003e (CInt -\u003e CDouble) -\u003e (CInt -\u003e CDouble) -\u003e (CInt -\u003e CInt -\u003e CDouble) -\u003e Table2D CInt x y q",
+          "source": "src/Analysis-Timing-Library.html#mkTimingTable",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Analysis Timing Library",
+          "module": "Analysis.Timing.Library",
+          "name": "mkTimingTable",
+          "normalized": "CInt-\u003eCInt-\u003e(CInt-\u003eCDouble)-\u003e(CInt-\u003eCDouble)-\u003e(CInt-\u003eCInt-\u003eCDouble)-\u003eTable D CInt a b c",
+          "package": "Wired",
+          "partial": "Timing Table",
+          "signature": "CInt-\u003eCInt-\u003e(CInt-\u003eCDouble)-\u003e(CInt-\u003eCDouble)-\u003e(CInt-\u003eCInt-\u003eCDouble)-\u003eTable D CInt x y q",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:mkTimingTable"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Analysis.Timing.Library",
+          "name": "tableDelay",
+          "package": "Wired",
+          "signature": "Table2D CInt TransitionTime Capacitance Time -\u003e Table2D CInt TransitionTime Capacitance TransitionTime -\u003e Capacitance -\u003e Timing -\u003e Timing",
+          "source": "src/Analysis-Timing-Library.html#tableDelay",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Analysis Timing Library",
+          "module": "Analysis.Timing.Library",
+          "name": "tableDelay",
+          "normalized": "Table D CInt TransitionTime Capacitance Time-\u003eTable D CInt TransitionTime Capacitance TransitionTime-\u003eCapacitance-\u003eTiming-\u003eTiming",
+          "package": "Wired",
+          "partial": "Delay",
+          "signature": "Table D CInt TransitionTime Capacitance Time-\u003eTable D CInt TransitionTime Capacitance TransitionTime-\u003eCapacitance-\u003eTiming-\u003eTiming",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:tableDelay"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Analysis.Timing.Library\",\"Analysis.Timing\"]",
+          "name": "transitionTime",
+          "package": "Wired",
+          "signature": "TransitionTime",
+          "source": "src/Analysis-Timing-Library.html#Timing",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:transitionTime\",\"http://hackage.haskell.org/package/Wired/docs/Analysis-Timing.html#v:transitionTime\"]"
+        },
+        "index": {
+          "hierarchy": "Analysis Timing Library",
+          "module": "Analysis.Timing.Library",
+          "name": "transitionTime",
+          "package": "Wired",
+          "partial": "Time",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:transitionTime"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Analysis.Timing.Library",
+          "name": "wireCap",
+          "package": "Wired",
+          "signature": "Layer_ -\u003e Length -\u003e Res lib Capacitance",
+          "source": "src/Analysis-Timing-Library.html#wireCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Analysis Timing Library",
+          "module": "Analysis.Timing.Library",
+          "name": "wireCap",
+          "normalized": "Layer_-\u003eLength-\u003eRes a Capacitance",
+          "package": "Wired",
+          "partial": "Cap",
+          "signature": "Layer_-\u003eLength-\u003eRes lib Capacitance",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing-Library.html#v:wireCap"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Analysis.Timing",
+          "name": "Timing",
+          "package": "Wired",
+          "source": "src/Analysis-Timing.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Analysis Timing",
+          "module": "Analysis.Timing",
+          "name": "Timing",
+          "package": "Wired",
+          "partial": "Timing",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Analysis.Timing",
+          "name": "Timing",
+          "package": "Wired",
+          "source": "src/Analysis-Timing-Library.html#Timing",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Analysis Timing",
+          "module": "Analysis.Timing",
+          "name": "Timing",
+          "package": "Wired",
+          "partial": "Timing",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing.html#t:Timing"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Analysis.Timing",
+          "name": "TimingLibrary",
+          "package": "Wired",
+          "source": "src/Analysis-Timing-Library.html#TimingLibrary",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Analysis Timing",
+          "module": "Analysis.Timing",
+          "name": "TimingLibrary",
+          "package": "Wired",
+          "partial": "Timing Library",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing.html#t:TimingLibrary"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Analysis.Timing",
+          "name": "TransitionTime",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#TransitionTime",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Analysis Timing",
+          "module": "Analysis.Timing",
+          "name": "TransitionTime",
+          "package": "Wired",
+          "partial": "Transition Time",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing.html#t:TransitionTime"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Analysis.Timing",
+          "name": "analyzeTiming",
+          "package": "Wired",
+          "signature": "m ps -\u003e (pd, InterpDesignDB lib (Timing, Capacitance))",
+          "source": "src/Analysis-Timing.html#analyzeTiming",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Analysis Timing",
+          "module": "Analysis.Timing",
+          "name": "analyzeTiming",
+          "normalized": "a b-\u003e(c,InterpDesignDB d(Timing,Capacitance))",
+          "package": "Wired",
+          "partial": "Timing",
+          "signature": "m ps-\u003e(pd,InterpDesignDB lib(Timing,Capacitance))",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing.html#v:analyzeTiming"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Analysis.Timing",
+          "name": "analyzeTimingW",
+          "package": "Wired",
+          "signature": "Wired lib ps -\u003e (pd, InterpDesignDB lib (Timing, Capacitance))",
+          "source": "src/Analysis-Timing.html#analyzeTimingW",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Analysis Timing",
+          "module": "Analysis.Timing",
+          "name": "analyzeTimingW",
+          "normalized": "Wired a b-\u003e(c,InterpDesignDB a(Timing,Capacitance))",
+          "package": "Wired",
+          "partial": "Timing",
+          "signature": "Wired lib ps-\u003e(pd,InterpDesignDB lib(Timing,Capacitance))",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Analysis-Timing.html#v:analyzeTimingW"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eThis module defines types of a general nature that are used by the \u003ca\u003eLava\u003c/a\u003e,\n \u003ca\u003eLayout\u003c/a\u003e and \u003ca\u003eWired\u003c/a\u003e libraries. It also defines operations on those types.\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Data.Hardware.Internal",
+          "name": "Internal",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "This module defines types of general nature that are used by the Lava Layout and Wired libraries It also defines operations on those types",
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Internal",
+          "package": "Wired",
+          "partial": "Internal",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "Angle",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#Angle",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Angle",
+          "package": "Wired",
+          "partial": "Angle",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Angle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "Capacitance",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#Capacitance",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Capacitance",
+          "package": "Wired",
+          "partial": "Capacitance",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Capacitance"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "CellId",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#CellId",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "CellId",
+          "package": "Wired",
+          "partial": "Cell Id",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:CellId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "Delay",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#Delay",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Delay",
+          "package": "Wired",
+          "partial": "Delay",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Delay"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "Direction",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#Direction",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Direction",
+          "package": "Wired",
+          "partial": "Direction",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Direction"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "DoubleCast",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#DoubleCast",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "DoubleCast",
+          "package": "Wired",
+          "partial": "Double Cast",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:DoubleCast"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "Height",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#Height",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Height",
+          "package": "Wired",
+          "partial": "Height",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Height"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "InPin",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#InPin",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "InPin",
+          "package": "Wired",
+          "partial": "In Pin",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:InPin"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "IntCast",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#IntCast",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "IntCast",
+          "package": "Wired",
+          "partial": "Int Cast",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:IntCast"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "IsTime",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#IsTime",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "IsTime",
+          "package": "Wired",
+          "partial": "Is Time",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:IsTime"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "Layer",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#Layer",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Layer",
+          "package": "Wired",
+          "partial": "Layer",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Layer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "Layer_",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#Layer_",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Layer_",
+          "package": "Wired",
+          "partial": "Layer",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Layer_"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "Length",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#Length",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Length",
+          "package": "Wired",
+          "partial": "Length",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Length"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "Multiply",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#Multiply",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Multiply",
+          "package": "Wired",
+          "partial": "Multiply",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Multiply"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "Name",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#Name",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Name",
+          "package": "Wired",
+          "partial": "Name",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Name"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "Orientation",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#Orientation",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Orientation",
+          "package": "Wired",
+          "partial": "Orientation",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Orientation"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "OutPin",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#OutPin",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "OutPin",
+          "package": "Wired",
+          "partial": "Out Pin",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:OutPin"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "Position",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#Position",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Position",
+          "package": "Wired",
+          "partial": "Position",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Position"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "PrimInpId",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#PrimInpId",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "PrimInpId",
+          "package": "Wired",
+          "partial": "Prim Inp Id",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:PrimInpId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eThe phantom parameter \u003ccode\u003et\u003c/code\u003e can be used to pass a type constraint to an\n overloaded function.\n\u003c/p\u003e",
+          "module": "Data.Hardware.Internal",
+          "name": "Res",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#Res",
+          "type": "data"
+        },
+        "index": {
+          "description": "The phantom parameter can be used to pass type constraint to an overloaded function",
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Res",
+          "package": "Wired",
+          "partial": "Res",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Res"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "Resistance",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#Resistance",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Resistance",
+          "package": "Wired",
+          "partial": "Resistance",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Resistance"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "Size",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#Size",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Size",
+          "package": "Wired",
+          "partial": "Size",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Size"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "Table2D",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#Table2D",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Table2D",
+          "package": "Wired",
+          "partial": "Table",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Table2D"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "Tag",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#Tag",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Tag",
+          "package": "Wired",
+          "partial": "Tag",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Tag"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "Time",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#Time",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Time",
+          "package": "Wired",
+          "partial": "Time",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Time"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "TransitionTime",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#TransitionTime",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "TransitionTime",
+          "package": "Wired",
+          "partial": "Transition Time",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:TransitionTime"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "Value",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#Value",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Value",
+          "package": "Wired",
+          "partial": "Value",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Value"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "Width",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#Width",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Width",
+          "package": "Wired",
+          "partial": "Width",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:Width"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "XPos",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#XPos",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "XPos",
+          "package": "Wired",
+          "partial": "XPos",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:XPos"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "YPos",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#YPos",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "YPos",
+          "package": "Wired",
+          "partial": "YPos",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#t:YPos"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "(\u003e\u003c)",
+          "package": "Wired",
+          "signature": "n1 -\u003e n2 -\u003e n3",
+          "source": "src/Data-Hardware-Internal.html#%3E%3C",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "(\u003e\u003c) \u003e\u003c",
+          "normalized": "a-\u003ea-\u003ea",
+          "package": "Wired",
+          "signature": "n-\u003en-\u003en",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:-62--60-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "(.+)",
+          "package": "Wired",
+          "signature": "ShowS -\u003e ShowS -\u003e ShowS",
+          "source": "src/Data-Hardware-Internal.html#.%2B",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "(.+) .+",
+          "normalized": "ShowS-\u003eShowS-\u003eShowS",
+          "package": "Wired",
+          "signature": "ShowS-\u003eShowS-\u003eShowS",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:.-43-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "Cap",
+          "package": "Wired",
+          "signature": "Cap Double",
+          "source": "src/Data-Hardware-Internal.html#Capacitance",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Cap",
+          "package": "Wired",
+          "partial": "Cap",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:Cap"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "CellId",
+          "package": "Wired",
+          "signature": "CellId Int",
+          "source": "src/Data-Hardware-Internal.html#CellId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "CellId",
+          "package": "Wired",
+          "partial": "Cell Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:CellId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "Downwards",
+          "package": "Wired",
+          "signature": "Downwards",
+          "source": "src/Data-Hardware-Internal.html#Direction",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Downwards",
+          "package": "Wired",
+          "partial": "Downwards",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:Downwards"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "Horizontal",
+          "package": "Wired",
+          "signature": "Horizontal",
+          "source": "src/Data-Hardware-Internal.html#Angle",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Horizontal",
+          "package": "Wired",
+          "partial": "Horizontal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:Horizontal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "InPin",
+          "package": "Wired",
+          "signature": "InPin Int",
+          "source": "src/Data-Hardware-Internal.html#InPin",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "InPin",
+          "package": "Wired",
+          "partial": "In Pin",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:InPin"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "Layer",
+          "package": "Wired",
+          "signature": "Layer Int",
+          "source": "src/Data-Hardware-Internal.html#Layer_",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Layer",
+          "package": "Wired",
+          "partial": "Layer",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:Layer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "Leftwards",
+          "package": "Wired",
+          "signature": "Leftwards",
+          "source": "src/Data-Hardware-Internal.html#Direction",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Leftwards",
+          "package": "Wired",
+          "partial": "Leftwards",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:Leftwards"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Data.Hardware.Internal\",\"Data.Hardware\"]",
+          "name": "Length",
+          "package": "Wired",
+          "signature": "Length",
+          "source": "src/Data-Hardware-Internal.html#Length",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:Length\",\"http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#v:Length\"]"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Length",
+          "package": "Wired",
+          "partial": "Length",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:Length"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "OutPin",
+          "package": "Wired",
+          "signature": "OutPin Int",
+          "source": "src/Data-Hardware-Internal.html#OutPin",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "OutPin",
+          "package": "Wired",
+          "partial": "Out Pin",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:OutPin"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "PrimInpId",
+          "package": "Wired",
+          "signature": "PrimInpId Int",
+          "source": "src/Data-Hardware-Internal.html#PrimInpId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "PrimInpId",
+          "package": "Wired",
+          "partial": "Prim Inp Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:PrimInpId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Data.Hardware.Internal\",\"Data.Hardware\"]",
+          "name": "R",
+          "package": "Wired",
+          "signature": "R",
+          "source": "src/Data-Hardware-Internal.html#Res",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:R\",\"http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#v:R\"]"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "R",
+          "package": "Wired",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:R"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "Res",
+          "package": "Wired",
+          "signature": "Res Double",
+          "source": "src/Data-Hardware-Internal.html#Resistance",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Res",
+          "package": "Wired",
+          "partial": "Res",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:Res"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "Rightwards",
+          "package": "Wired",
+          "signature": "Rightwards",
+          "source": "src/Data-Hardware-Internal.html#Direction",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Rightwards",
+          "package": "Wired",
+          "partial": "Rightwards",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:Rightwards"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "Table2D",
+          "package": "Wired",
+          "signature": "Table2D",
+          "source": "src/Data-Hardware-Internal.html#Table2D",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Table2D",
+          "package": "Wired",
+          "partial": "Table",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:Table2D"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "Time",
+          "package": "Wired",
+          "signature": "Time Double",
+          "source": "src/Data-Hardware-Internal.html#Time",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Time",
+          "package": "Wired",
+          "partial": "Time",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:Time"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "TransitionTime",
+          "package": "Wired",
+          "signature": "TransitionTime Double",
+          "source": "src/Data-Hardware-Internal.html#TransitionTime",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "TransitionTime",
+          "package": "Wired",
+          "partial": "Transition Time",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:TransitionTime"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "Upwards",
+          "package": "Wired",
+          "signature": "Upwards",
+          "source": "src/Data-Hardware-Internal.html#Direction",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Upwards",
+          "package": "Wired",
+          "partial": "Upwards",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:Upwards"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "Vertical",
+          "package": "Wired",
+          "signature": "Vertical",
+          "source": "src/Data-Hardware-Internal.html#Angle",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "Vertical",
+          "package": "Wired",
+          "partial": "Vertical",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:Vertical"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Data.Hardware.Internal\",\"Data.Hardware\"]",
+          "name": "addLen",
+          "package": "Wired",
+          "signature": "Length -\u003e Length -\u003e Length",
+          "source": "src/Data-Hardware-Internal.html#addLen",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:addLen\",\"http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#v:addLen\"]"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "addLen",
+          "normalized": "Length-\u003eLength-\u003eLength",
+          "package": "Wired",
+          "partial": "Len",
+          "signature": "Length-\u003eLength-\u003eLength",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:addLen"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "bilinInterpolate",
+          "package": "Wired",
+          "signature": "Table2D i x y q -\u003e x -\u003e y -\u003e q",
+          "source": "src/Data-Hardware-Internal.html#bilinInterpolate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "bilinInterpolate",
+          "normalized": "Table D a b c d-\u003eb-\u003ec-\u003ed",
+          "package": "Wired",
+          "partial": "Interpolate",
+          "signature": "Table D i x y q-\u003ex-\u003ey-\u003eq",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:bilinInterpolate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "bilinInterpolate1",
+          "package": "Wired",
+          "signature": "(x, y) -\u003e (x, y) -\u003e (q, q, q, q) -\u003e x -\u003e y -\u003e q",
+          "source": "src/Data-Hardware-Internal.html#bilinInterpolate1",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "bilinInterpolate1",
+          "normalized": "(a,b)-\u003e(a,b)-\u003e(c,c,c,c)-\u003ea-\u003eb-\u003ec",
+          "package": "Wired",
+          "partial": "Interpolate",
+          "signature": "(x,y)-\u003e(x,y)-\u003e(q,q,q,q)-\u003ex-\u003ey-\u003eq",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:bilinInterpolate1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "dcast",
+          "package": "Wired",
+          "signature": "m -\u003e n",
+          "source": "src/Data-Hardware-Internal.html#dcast",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "dcast",
+          "normalized": "a-\u003eb",
+          "package": "Wired",
+          "signature": "m-\u003en",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:dcast"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "directionAngle",
+          "package": "Wired",
+          "signature": "Direction -\u003e Angle",
+          "source": "src/Data-Hardware-Internal.html#directionAngle",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "directionAngle",
+          "normalized": "Direction-\u003eAngle",
+          "package": "Wired",
+          "partial": "Angle",
+          "signature": "Direction-\u003eAngle",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:directionAngle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Data.Hardware.Internal\",\"Data.Hardware\"]",
+          "name": "divLen",
+          "package": "Wired",
+          "signature": "Length -\u003e n -\u003e Length",
+          "source": "src/Data-Hardware-Internal.html#divLen",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:divLen\",\"http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#v:divLen\"]"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "divLen",
+          "normalized": "Length-\u003ea-\u003eLength",
+          "package": "Wired",
+          "partial": "Len",
+          "signature": "Length-\u003en-\u003eLength",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:divLen"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "euclidDistance",
+          "package": "Wired",
+          "signature": "(Position, Position) -\u003e Double",
+          "source": "src/Data-Hardware-Internal.html#euclidDistance",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "euclidDistance",
+          "normalized": "(Position,Position)-\u003eDouble",
+          "package": "Wired",
+          "partial": "Distance",
+          "signature": "(Position,Position)-\u003eDouble",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:euclidDistance"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "euclidSpanning",
+          "package": "Wired",
+          "signature": "[Position] -\u003e [(Position, Position)]",
+          "source": "src/Data-Hardware-Internal.html#euclidSpanning",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "euclidSpanning",
+          "normalized": "[Position]-\u003e[(Position,Position)]",
+          "package": "Wired",
+          "partial": "Spanning",
+          "signature": "[Position]-\u003e[(Position,Position)]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:euclidSpanning"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "findPoints",
+          "package": "Wired",
+          "signature": "Table2D i x y q -\u003e x -\u003e y -\u003e ((x, y), (x, y), (q, q, q, q))",
+          "source": "src/Data-Hardware-Internal.html#findPoints",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "findPoints",
+          "normalized": "Table D a b c d-\u003eb-\u003ec-\u003e((b,c),(b,c),(d,d,d,d))",
+          "package": "Wired",
+          "partial": "Points",
+          "signature": "Table D i x y q-\u003ex-\u003ey-\u003e((x,y),(x,y),(q,q,q,q))",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:findPoints"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "fromDouble",
+          "package": "Wired",
+          "signature": "Double -\u003e n",
+          "source": "src/Data-Hardware-Internal.html#fromDouble",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "fromDouble",
+          "normalized": "Double-\u003ea",
+          "package": "Wired",
+          "partial": "Double",
+          "signature": "Double-\u003en",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:fromDouble"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "fromInt",
+          "package": "Wired",
+          "signature": "Int -\u003e n",
+          "source": "src/Data-Hardware-Internal.html#fromInt",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "fromInt",
+          "normalized": "Int-\u003ea",
+          "package": "Wired",
+          "partial": "Int",
+          "signature": "Int-\u003en",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:fromInt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "icast",
+          "package": "Wired",
+          "signature": "m -\u003e n",
+          "source": "src/Data-Hardware-Internal.html#icast",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "icast",
+          "normalized": "a-\u003eb",
+          "package": "Wired",
+          "signature": "m-\u003en",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:icast"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Data.Hardware.Internal\",\"Data.Hardware\"]",
+          "name": "mulLen",
+          "package": "Wired",
+          "signature": "Length -\u003e n -\u003e Length",
+          "source": "src/Data-Hardware-Internal.html#mulLen",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:mulLen\",\"http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#v:mulLen\"]"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "mulLen",
+          "normalized": "Length-\u003ea-\u003eLength",
+          "package": "Wired",
+          "partial": "Len",
+          "signature": "Length-\u003en-\u003eLength",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:mulLen"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Data.Hardware.Internal\",\"Data.Hardware\"]",
+          "name": "mulLen2",
+          "package": "Wired",
+          "signature": "Length -\u003e Length -\u003e Integer",
+          "source": "src/Data-Hardware-Internal.html#mulLen2",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:mulLen2\",\"http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#v:mulLen2\"]"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "mulLen2",
+          "normalized": "Length-\u003eLength-\u003eInteger",
+          "package": "Wired",
+          "partial": "Len",
+          "signature": "Length-\u003eLength-\u003eInteger",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:mulLen2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "nearestPoints",
+          "package": "Wired",
+          "signature": "i -\u003e (i -\u003e a) -\u003e a -\u003e ((i, a), (i, a))",
+          "source": "src/Data-Hardware-Internal.html#nearestPoints",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "nearestPoints",
+          "normalized": "a-\u003e(a-\u003eb)-\u003eb-\u003e((a,b),(a,b))",
+          "package": "Wired",
+          "partial": "Points",
+          "signature": "i-\u003e(i-\u003ea)-\u003ea-\u003e((i,a),(i,a))",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:nearestPoints"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "north",
+          "package": "Wired",
+          "signature": "Orientation",
+          "source": "src/Data-Hardware-Internal.html#north",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "north",
+          "package": "Wired",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:north"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "rectiDistance",
+          "package": "Wired",
+          "signature": "(Position, Position) -\u003e Double",
+          "source": "src/Data-Hardware-Internal.html#rectiDistance",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "rectiDistance",
+          "normalized": "(Position,Position)-\u003eDouble",
+          "package": "Wired",
+          "partial": "Distance",
+          "signature": "(Position,Position)-\u003eDouble",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:rectiDistance"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "rectiSpanning",
+          "package": "Wired",
+          "signature": "[Position] -\u003e [(Position, Position)]",
+          "source": "src/Data-Hardware-Internal.html#rectiSpanning",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "rectiSpanning",
+          "normalized": "[Position]-\u003e[(Position,Position)]",
+          "package": "Wired",
+          "partial": "Spanning",
+          "signature": "[Position]-\u003e[(Position,Position)]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:rectiSpanning"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Data.Hardware.Internal\",\"Data.Hardware\"]",
+          "name": "result",
+          "package": "Wired",
+          "signature": "a",
+          "source": "src/Data-Hardware-Internal.html#Res",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:result\",\"http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#v:result\"]"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "result",
+          "package": "Wired",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:result"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eComputes the minimal spanning tree based on the given distance function.\n\u003c/p\u003e",
+          "module": "Data.Hardware.Internal",
+          "name": "spanning",
+          "package": "Wired",
+          "signature": "((Position, Position) -\u003e Double) -\u003e [Position] -\u003e [(Position, Position)]",
+          "source": "src/Data-Hardware-Internal.html#spanning",
+          "type": "function"
+        },
+        "index": {
+          "description": "Computes the minimal spanning tree based on the given distance function",
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "spanning",
+          "normalized": "((Position,Position)-\u003eDouble)-\u003e[Position]-\u003e[(Position,Position)]",
+          "package": "Wired",
+          "signature": "((Position,Position)-\u003eDouble)-\u003e[Position]-\u003e[(Position,Position)]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:spanning"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Data.Hardware.Internal\",\"Data.Hardware\"]",
+          "name": "subLen",
+          "package": "Wired",
+          "signature": "Length -\u003e Length -\u003e Length",
+          "source": "src/Data-Hardware-Internal.html#subLen",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:subLen\",\"http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#v:subLen\"]"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "subLen",
+          "normalized": "Length-\u003eLength-\u003eLength",
+          "package": "Wired",
+          "partial": "Len",
+          "signature": "Length-\u003eLength-\u003eLength",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:subLen"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "tableAxisX",
+          "package": "Wired",
+          "signature": "i -\u003e x",
+          "source": "src/Data-Hardware-Internal.html#Table2D",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "tableAxisX",
+          "normalized": "a-\u003eb",
+          "package": "Wired",
+          "partial": "Axis",
+          "signature": "i-\u003ex",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:tableAxisX"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "tableAxisY",
+          "package": "Wired",
+          "signature": "i -\u003e y",
+          "source": "src/Data-Hardware-Internal.html#Table2D",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "tableAxisY",
+          "normalized": "a-\u003eb",
+          "package": "Wired",
+          "partial": "Axis",
+          "signature": "i-\u003ey",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:tableAxisY"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "tableLengthX",
+          "package": "Wired",
+          "signature": "i",
+          "source": "src/Data-Hardware-Internal.html#Table2D",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "tableLengthX",
+          "package": "Wired",
+          "partial": "Length",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:tableLengthX"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "tableLengthY",
+          "package": "Wired",
+          "signature": "i",
+          "source": "src/Data-Hardware-Internal.html#Table2D",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "tableLengthY",
+          "package": "Wired",
+          "partial": "Length",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:tableLengthY"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "tableValues",
+          "package": "Wired",
+          "signature": "i -\u003e i -\u003e q",
+          "source": "src/Data-Hardware-Internal.html#Table2D",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "tableValues",
+          "normalized": "a-\u003ea-\u003eb",
+          "package": "Wired",
+          "partial": "Values",
+          "signature": "i-\u003ei-\u003eq",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:tableValues"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "timeCast",
+          "package": "Wired",
+          "signature": "t1 -\u003e t2",
+          "source": "src/Data-Hardware-Internal.html#timeCast",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "timeCast",
+          "normalized": "a-\u003ea",
+          "package": "Wired",
+          "partial": "Cast",
+          "signature": "t-\u003et",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:timeCast"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "toDouble",
+          "package": "Wired",
+          "signature": "n -\u003e Double",
+          "source": "src/Data-Hardware-Internal.html#toDouble",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "toDouble",
+          "normalized": "a-\u003eDouble",
+          "package": "Wired",
+          "partial": "Double",
+          "signature": "n-\u003eDouble",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:toDouble"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "toInt",
+          "package": "Wired",
+          "signature": "n -\u003e Int",
+          "source": "src/Data-Hardware-Internal.html#toInt",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "toInt",
+          "normalized": "a-\u003eInt",
+          "package": "Wired",
+          "partial": "Int",
+          "signature": "n-\u003eInt",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:toInt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eA lookup function that is defined for all keys.\n\u003c/p\u003e",
+          "module": "Data.Hardware.Internal",
+          "name": "totalLookup",
+          "package": "Wired",
+          "signature": "k -\u003e Map k [a] -\u003e [a]",
+          "source": "src/Data-Hardware-Internal.html#totalLookup",
+          "type": "function"
+        },
+        "index": {
+          "description": "lookup function that is defined for all keys",
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "totalLookup",
+          "normalized": "a-\u003eMap a[b]-\u003e[b]",
+          "package": "Wired",
+          "partial": "Lookup",
+          "signature": "k-\u003eMap k[a]-\u003e[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:totalLookup"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Data.Hardware.Internal\",\"Data.Hardware\"]",
+          "name": "unLength",
+          "package": "Wired",
+          "signature": "Integer",
+          "source": "src/Data-Hardware-Internal.html#Length",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:unLength\",\"http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#v:unLength\"]"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "unLength",
+          "package": "Wired",
+          "partial": "Length",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:unLength"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "unlineS",
+          "package": "Wired",
+          "signature": "[ShowS] -\u003e ShowS",
+          "source": "src/Data-Hardware-Internal.html#unlineS",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "unlineS",
+          "normalized": "[ShowS]-\u003eShowS",
+          "package": "Wired",
+          "signature": "[ShowS]-\u003eShowS",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:unlineS"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "unwordS",
+          "package": "Wired",
+          "signature": "[ShowS] -\u003e ShowS",
+          "source": "src/Data-Hardware-Internal.html#unwordS",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "unwordS",
+          "normalized": "[ShowS]-\u003eShowS",
+          "package": "Wired",
+          "signature": "[ShowS]-\u003eShowS",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:unwordS"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware.Internal",
+          "name": "value",
+          "package": "Wired",
+          "signature": "v -\u003e Rational",
+          "source": "src/Data-Hardware-Internal.html#value",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Data Hardware Internal",
+          "module": "Data.Hardware.Internal",
+          "name": "value",
+          "normalized": "a-\u003eRational",
+          "package": "Wired",
+          "signature": "v-\u003eRational",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware-Internal.html#v:value"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eThis module exports the types that users of \u003ca\u003eLava\u003c/a\u003e, \u003ca\u003eLayout\u003c/a\u003e and \u003ca\u003eWired\u003c/a\u003e\n (not the internal modules) will need.\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Data.Hardware",
+          "name": "Hardware",
+          "package": "Wired",
+          "source": "src/Data-Hardware.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "This module exports the types that users of Lava Layout and Wired not the internal modules will need",
+          "hierarchy": "Data Hardware",
+          "module": "Data.Hardware",
+          "name": "Hardware",
+          "package": "Wired",
+          "partial": "Hardware",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware",
+          "name": "Delay",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#Delay",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data Hardware",
+          "module": "Data.Hardware",
+          "name": "Delay",
+          "package": "Wired",
+          "partial": "Delay",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#t:Delay"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware",
+          "name": "Height",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#Height",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data Hardware",
+          "module": "Data.Hardware",
+          "name": "Height",
+          "package": "Wired",
+          "partial": "Height",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#t:Height"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware",
+          "name": "Layer",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#Layer",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data Hardware",
+          "module": "Data.Hardware",
+          "name": "Layer",
+          "package": "Wired",
+          "partial": "Layer",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#t:Layer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware",
+          "name": "Length",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#Length",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Data Hardware",
+          "module": "Data.Hardware",
+          "name": "Length",
+          "package": "Wired",
+          "partial": "Length",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#t:Length"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware",
+          "name": "Name",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#Name",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data Hardware",
+          "module": "Data.Hardware",
+          "name": "Name",
+          "package": "Wired",
+          "partial": "Name",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#t:Name"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eThe phantom parameter \u003ccode\u003et\u003c/code\u003e can be used to pass a type constraint to an\n overloaded function.\n\u003c/p\u003e",
+          "module": "Data.Hardware",
+          "name": "Res",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#Res",
+          "type": "data"
+        },
+        "index": {
+          "description": "The phantom parameter can be used to pass type constraint to an overloaded function",
+          "hierarchy": "Data Hardware",
+          "module": "Data.Hardware",
+          "name": "Res",
+          "package": "Wired",
+          "partial": "Res",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#t:Res"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware",
+          "name": "Tag",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#Tag",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data Hardware",
+          "module": "Data.Hardware",
+          "name": "Tag",
+          "package": "Wired",
+          "partial": "Tag",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#t:Tag"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware",
+          "name": "Time",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#Time",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Hardware",
+          "module": "Data.Hardware",
+          "name": "Time",
+          "package": "Wired",
+          "partial": "Time",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#t:Time"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware",
+          "name": "Width",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#Width",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data Hardware",
+          "module": "Data.Hardware",
+          "name": "Width",
+          "package": "Wired",
+          "partial": "Width",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#t:Width"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware",
+          "name": "XPos",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#XPos",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data Hardware",
+          "module": "Data.Hardware",
+          "name": "XPos",
+          "package": "Wired",
+          "partial": "XPos",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#t:XPos"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Hardware",
+          "name": "YPos",
+          "package": "Wired",
+          "source": "src/Data-Hardware-Internal.html#YPos",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data Hardware",
+          "module": "Data.Hardware",
+          "name": "YPos",
+          "package": "Wired",
+          "partial": "YPos",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Hardware.html#t:YPos"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Logical.Knot",
+          "name": "Knot",
+          "package": "Wired",
+          "source": "src/Data-Logical-Knot.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data Logical Knot",
+          "module": "Data.Logical.Knot",
+          "name": "Knot",
+          "package": "Wired",
+          "partial": "Knot",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Knot.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Logical.Knot",
+          "name": "Knot",
+          "package": "Wired",
+          "source": "src/Data-Logical-Knot.html#Knot",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Logical Knot",
+          "module": "Data.Logical.Knot",
+          "name": "Knot",
+          "package": "Wired",
+          "partial": "Knot",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Knot.html#t:Knot"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Logical.Knot",
+          "name": "KnotT",
+          "package": "Wired",
+          "source": "src/Data-Logical-Knot.html#KnotT",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Logical Knot",
+          "module": "Data.Logical.Knot",
+          "name": "KnotT",
+          "package": "Wired",
+          "partial": "Knot",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Knot.html#t:KnotT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Logical.Knot",
+          "name": "MonadKnot",
+          "package": "Wired",
+          "source": "src/Data-Logical-Knot.html#MonadKnot",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Data Logical Knot",
+          "module": "Data.Logical.Knot",
+          "name": "MonadKnot",
+          "package": "Wired",
+          "partial": "Monad Knot",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Knot.html#t:MonadKnot"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Logical.Knot",
+          "name": "(*=)",
+          "package": "Wired",
+          "signature": "i -\u003e x -\u003e m ()",
+          "source": "src/Data-Logical-Knot.html#%2A%3D",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Data Logical Knot",
+          "module": "Data.Logical.Knot",
+          "name": "(*=) *=",
+          "normalized": "a-\u003eb-\u003ec()",
+          "package": "Wired",
+          "signature": "i-\u003ex-\u003em()",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Knot.html#v:-42--61-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Logical.Knot",
+          "name": "accKnot",
+          "package": "Wired",
+          "signature": "(x -\u003e x -\u003e x) -\u003e Knot i x a -\u003e (a, Map i x)",
+          "source": "src/Data-Logical-Knot.html#accKnot",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Logical Knot",
+          "module": "Data.Logical.Knot",
+          "name": "accKnot",
+          "normalized": "(a-\u003ea-\u003ea)-\u003eKnot b a c-\u003e(c,Map b a)",
+          "package": "Wired",
+          "partial": "Knot",
+          "signature": "(x-\u003ex-\u003ex)-\u003eKnot i x a-\u003e(a,Map i x)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Knot.html#v:accKnot"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Logical.Knot",
+          "name": "accKnotT",
+          "package": "Wired",
+          "signature": "(x -\u003e x -\u003e x) -\u003e KnotT i x m a -\u003e m (a, Map i x)",
+          "source": "src/Data-Logical-Knot.html#accKnotT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Logical Knot",
+          "module": "Data.Logical.Knot",
+          "name": "accKnotT",
+          "normalized": "(a-\u003ea-\u003ea)-\u003eKnotT b a c d-\u003ec(d,Map b a)",
+          "package": "Wired",
+          "partial": "Knot",
+          "signature": "(x-\u003ex-\u003ex)-\u003eKnotT i x m a-\u003em(a,Map i x)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Knot.html#v:accKnotT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Logical.Knot",
+          "name": "askKnot",
+          "package": "Wired",
+          "signature": "i -\u003e m x",
+          "source": "src/Data-Logical-Knot.html#askKnot",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Data Logical Knot",
+          "module": "Data.Logical.Knot",
+          "name": "askKnot",
+          "normalized": "a-\u003eb c",
+          "package": "Wired",
+          "partial": "Knot",
+          "signature": "i-\u003em x",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Knot.html#v:askKnot"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Logical.Knot",
+          "name": "askKnotDef",
+          "package": "Wired",
+          "signature": "x -\u003e i -\u003e m x",
+          "source": "src/Data-Logical-Knot.html#askKnotDef",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Data Logical Knot",
+          "module": "Data.Logical.Knot",
+          "name": "askKnotDef",
+          "normalized": "a-\u003eb-\u003ec a",
+          "package": "Wired",
+          "partial": "Knot Def",
+          "signature": "x-\u003ei-\u003em x",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Knot.html#v:askKnotDef"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Logical.Knot",
+          "name": "tieKnot",
+          "package": "Wired",
+          "signature": "Knot i x a -\u003e (a, Map i x)",
+          "source": "src/Data-Logical-Knot.html#tieKnot",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Logical Knot",
+          "module": "Data.Logical.Knot",
+          "name": "tieKnot",
+          "normalized": "Knot a b c-\u003e(c,Map a b)",
+          "package": "Wired",
+          "partial": "Knot",
+          "signature": "Knot i x a-\u003e(a,Map i x)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Knot.html#v:tieKnot"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Logical.Knot",
+          "name": "tieKnotT",
+          "package": "Wired",
+          "signature": "KnotT i x m a -\u003e m (a, Map i x)",
+          "source": "src/Data-Logical-Knot.html#tieKnotT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Logical Knot",
+          "module": "Data.Logical.Knot",
+          "name": "tieKnotT",
+          "normalized": "KnotT a b c d-\u003ec(d,Map a b)",
+          "package": "Wired",
+          "partial": "Knot",
+          "signature": "KnotT i x m a-\u003em(a,Map i x)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Knot.html#v:tieKnotT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Logical.Let",
+          "name": "Let",
+          "package": "Wired",
+          "source": "src/Data-Logical-Let.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data Logical Let",
+          "module": "Data.Logical.Let",
+          "name": "Let",
+          "package": "Wired",
+          "partial": "Let",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Let.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Logical.Let",
+          "name": "Let",
+          "package": "Wired",
+          "source": "src/Data-Logical-Let.html#Let",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Logical Let",
+          "module": "Data.Logical.Let",
+          "name": "Let",
+          "package": "Wired",
+          "partial": "Let",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Let.html#t:Let"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Logical.Let",
+          "name": "LetT",
+          "package": "Wired",
+          "source": "src/Data-Logical-Let.html#LetT",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Logical Let",
+          "module": "Data.Logical.Let",
+          "name": "LetT",
+          "package": "Wired",
+          "partial": "Let",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Let.html#t:LetT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Logical.Let",
+          "name": "MonadLet",
+          "package": "Wired",
+          "source": "src/Data-Logical-Let.html#MonadLet",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Data Logical Let",
+          "module": "Data.Logical.Let",
+          "name": "MonadLet",
+          "package": "Wired",
+          "partial": "Monad Let",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Let.html#t:MonadLet"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Logical.Let",
+          "name": "Var",
+          "package": "Wired",
+          "source": "src/Data-Logical-Let.html#Var",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Logical Let",
+          "module": "Data.Logical.Let",
+          "name": "Var",
+          "package": "Wired",
+          "partial": "Var",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Let.html#t:Var"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Logical.Let",
+          "name": "(===)",
+          "package": "Wired",
+          "signature": "Var x -\u003e x -\u003e m ()",
+          "source": "src/Data-Logical-Let.html#%3D%3D%3D",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Logical Let",
+          "module": "Data.Logical.Let",
+          "name": "(===) ===",
+          "normalized": "Var a-\u003ea-\u003eb()",
+          "package": "Wired",
+          "signature": "Var x-\u003ex-\u003em()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Let.html#v:-61--61--61-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Logical.Let",
+          "name": "free",
+          "package": "Wired",
+          "signature": "m (Var x)",
+          "source": "src/Data-Logical-Let.html#free",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Data Logical Let",
+          "module": "Data.Logical.Let",
+          "name": "free",
+          "package": "Wired",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Let.html#v:free"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Logical.Let",
+          "name": "runLet",
+          "package": "Wired",
+          "signature": "Let x a -\u003e a",
+          "source": "src/Data-Logical-Let.html#runLet",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Logical Let",
+          "module": "Data.Logical.Let",
+          "name": "runLet",
+          "normalized": "Let a b-\u003eb",
+          "package": "Wired",
+          "partial": "Let",
+          "signature": "Let x a-\u003ea",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Let.html#v:runLet"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Logical.Let",
+          "name": "runLetT",
+          "package": "Wired",
+          "signature": "LetT x m a -\u003e m a",
+          "source": "src/Data-Logical-Let.html#runLetT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Logical Let",
+          "module": "Data.Logical.Let",
+          "name": "runLetT",
+          "normalized": "LetT a b c-\u003eb c",
+          "package": "Wired",
+          "partial": "Let",
+          "signature": "LetT x m a-\u003em a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Let.html#v:runLetT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Logical.Let",
+          "name": "val",
+          "package": "Wired",
+          "signature": "Var x -\u003e x",
+          "source": "src/Data-Logical-Let.html#val",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Logical Let",
+          "module": "Data.Logical.Let",
+          "name": "val",
+          "normalized": "Var a-\u003ea",
+          "package": "Wired",
+          "signature": "Var x-\u003ex",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Data-Logical-Let.html#v:val"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Export.DEF",
+          "name": "DEF",
+          "package": "Wired",
+          "source": "src/Export-DEF.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Export DEF",
+          "module": "Export.DEF",
+          "name": "DEF",
+          "package": "Wired",
+          "partial": "DEF",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Export-DEF.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Export.DEF",
+          "name": "exportDEF",
+          "package": "Wired",
+          "signature": "Name -\u003e Wired lib p -\u003e IO ()",
+          "source": "src/Export-DEF.html#exportDEF",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Export DEF",
+          "module": "Export.DEF",
+          "name": "exportDEF",
+          "normalized": "Name-\u003eWired a b-\u003eIO()",
+          "package": "Wired",
+          "partial": "DEF",
+          "signature": "Name-\u003eWired lib p-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Export-DEF.html#v:exportDEF"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "Internal",
+          "package": "Wired",
+          "source": "src/Lava-Internal.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "Internal",
+          "package": "Wired",
+          "partial": "Internal",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "CellLibrary",
+          "package": "Wired",
+          "source": "src/Lava-Model.html#CellLibrary",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "CellLibrary",
+          "package": "Wired",
+          "partial": "Cell Library",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#t:CellLibrary"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "Declaration",
+          "package": "Wired",
+          "source": "src/Lava-Model.html#Declaration",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "Declaration",
+          "package": "Wired",
+          "partial": "Declaration",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#t:Declaration"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "DesignDB",
+          "package": "Wired",
+          "source": "src/Lava-Model.html#DesignDB",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "DesignDB",
+          "package": "Wired",
+          "partial": "Design DB",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#t:DesignDB"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "InterpDesignDB",
+          "package": "Wired",
+          "source": "src/Lava-Model.html#InterpDesignDB",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "InterpDesignDB",
+          "package": "Wired",
+          "partial": "Interp Design DB",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#t:InterpDesignDB"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "Interpretation",
+          "package": "Wired",
+          "source": "src/Lava-Model.html#Interpretation",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "Interpretation",
+          "package": "Wired",
+          "partial": "Interpretation",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#t:Interpretation"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "Lava",
+          "package": "Wired",
+          "source": "src/Lava-Model.html#Lava",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "Lava",
+          "package": "Wired",
+          "partial": "Lava",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#t:Lava"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "MonadLava",
+          "package": "Wired",
+          "source": "src/Lava-Model.html#MonadLava",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "MonadLava",
+          "package": "Wired",
+          "partial": "Monad Lava",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#t:MonadLava"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "Port",
+          "package": "Wired",
+          "source": "src/Lava-Port.html#Port",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "Port",
+          "package": "Wired",
+          "partial": "Port",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#t:Port"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "PortFixed",
+          "package": "Wired",
+          "source": "src/Lava-Port.html#PortFixed",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "PortFixed",
+          "package": "Wired",
+          "partial": "Port Fixed",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#t:PortFixed"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "PortStruct",
+          "package": "Wired",
+          "source": "src/Lava-Port.html#PortStruct",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "PortStruct",
+          "package": "Wired",
+          "partial": "Port Struct",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#t:PortStruct"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "PortTree",
+          "package": "Wired",
+          "source": "src/Lava-Port.html#PortTree",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "PortTree",
+          "package": "Wired",
+          "partial": "Port Tree",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#t:PortTree"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eIdentifies a driver in the circuit. A driver is either a primary input or\n an output pin of a cell.\n\u003c/p\u003e",
+          "module": "Lava.Internal",
+          "name": "Signal",
+          "package": "Wired",
+          "source": "src/Lava-Model.html#Signal",
+          "type": "data"
+        },
+        "index": {
+          "description": "Identifies driver in the circuit driver is either primary input or an output pin of cell",
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "Signal",
+          "package": "Wired",
+          "partial": "Signal",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#t:Signal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "Cell",
+          "package": "Wired",
+          "signature": "Cell CellId lib [Signal]",
+          "source": "src/Lava-Model.html#Declaration",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "Cell",
+          "normalized": "Cell CellId a[Signal]",
+          "package": "Wired",
+          "partial": "Cell",
+          "signature": "Cell CellId lib[Signal]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:Cell"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "CellSig",
+          "package": "Wired",
+          "signature": "CellSig CellId OutPin",
+          "source": "src/Lava-Model.html#Signal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "CellSig",
+          "package": "Wired",
+          "partial": "Cell Sig",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:CellSig"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "DesignDB",
+          "package": "Wired",
+          "signature": "DesignDB",
+          "source": "src/Lava-Model.html#DesignDB",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "DesignDB",
+          "package": "Wired",
+          "partial": "Design DB",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:DesignDB"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "Interp",
+          "package": "Wired",
+          "signature": "Interp",
+          "source": "src/Lava-Model.html#Interpretation",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "Interp",
+          "package": "Wired",
+          "partial": "Interp",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:Interp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "Label",
+          "package": "Wired",
+          "signature": "Label Tag Signal",
+          "source": "src/Lava-Model.html#Declaration",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "Label",
+          "package": "Wired",
+          "partial": "Label",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:Label"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "Lava",
+          "package": "Wired",
+          "signature": "Lava",
+          "source": "src/Lava-Model.html#Lava",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "Lava",
+          "package": "Wired",
+          "partial": "Lava",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:Lava"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "List",
+          "package": "Wired",
+          "signature": "List [PortTree s]",
+          "source": "src/Lava-Port.html#PortTree",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "List",
+          "normalized": "List[PortTree a]",
+          "package": "Wired",
+          "partial": "List",
+          "signature": "List[PortTree s]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:List"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "One",
+          "package": "Wired",
+          "signature": "One",
+          "source": "src/Lava-Port.html#PortTree",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "One",
+          "package": "Wired",
+          "partial": "One",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:One"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "PrimInpSig",
+          "package": "Wired",
+          "signature": "PrimInpSig PrimInpId",
+          "source": "src/Lava-Model.html#Signal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "PrimInpSig",
+          "package": "Wired",
+          "partial": "Prim Inp Sig",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:PrimInpSig"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "PrimInput",
+          "package": "Wired",
+          "signature": "PrimInput PrimInpId",
+          "source": "src/Lava-Model.html#Declaration",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "PrimInput",
+          "package": "Wired",
+          "partial": "Prim Input",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:PrimInput"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "accumulator",
+          "package": "Wired",
+          "signature": "x -\u003e x -\u003e x",
+          "source": "src/Lava-Model.html#Interpretation",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "accumulator",
+          "normalized": "a-\u003ea-\u003ea",
+          "package": "Wired",
+          "signature": "x-\u003ex-\u003ex",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:accumulator"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "askSig",
+          "package": "Wired",
+          "signature": "Interpretation lib x -\u003e Signal -\u003e Knot Signal x x",
+          "source": "src/Lava-Interpret.html#askSig",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "askSig",
+          "normalized": "Interpretation a b-\u003eSignal-\u003eKnot Signal b b",
+          "package": "Wired",
+          "partial": "Sig",
+          "signature": "Interpretation lib x-\u003eSignal-\u003eKnot Signal x x",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:askSig"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "cell",
+          "package": "Wired",
+          "signature": "lib -\u003e pi -\u003e m po",
+          "source": "src/Lava-Misc.html#cell",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "cell",
+          "normalized": "a-\u003eb-\u003ec d",
+          "package": "Wired",
+          "signature": "lib-\u003epi-\u003em po",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:cell"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "cellDB",
+          "package": "Wired",
+          "signature": "Map CellId (lib, [Signal])",
+          "source": "src/Lava-Model.html#DesignDB",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "cellDB",
+          "normalized": "Map CellId(a,[Signal])",
+          "package": "Wired",
+          "partial": "DB",
+          "signature": "Map CellId(lib,[Signal])",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:cellDB"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "cellInputs",
+          "package": "Wired",
+          "signature": "CellId -\u003e lib -\u003e [(CellId, InPin)]",
+          "source": "src/Lava-Model.html#cellInputs",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "cellInputs",
+          "normalized": "CellId-\u003ea-\u003e[(CellId,InPin)]",
+          "package": "Wired",
+          "partial": "Inputs",
+          "signature": "CellId-\u003elib-\u003e[(CellId,InPin)]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:cellInputs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "cellList",
+          "package": "Wired",
+          "signature": "lib -\u003e [Signal] -\u003e m [Signal]",
+          "source": "src/Lava-Model.html#cellList",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "cellList",
+          "normalized": "a-\u003e[Signal]-\u003eb[Signal]",
+          "package": "Wired",
+          "partial": "List",
+          "signature": "lib-\u003e[Signal]-\u003em[Signal]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:cellList"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "cellOutputs",
+          "package": "Wired",
+          "signature": "CellId -\u003e lib -\u003e [Signal]",
+          "source": "src/Lava-Model.html#cellOutputs",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "cellOutputs",
+          "normalized": "CellId-\u003ea-\u003e[Signal]",
+          "package": "Wired",
+          "partial": "Outputs",
+          "signature": "CellId-\u003elib-\u003e[Signal]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:cellOutputs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "declare",
+          "package": "Wired",
+          "signature": "Declaration lib -\u003e m ()",
+          "source": "src/Lava-Model.html#declare",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "declare",
+          "normalized": "Declaration a-\u003eb()",
+          "package": "Wired",
+          "signature": "Declaration lib-\u003em()",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:declare"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Lava.Internal\",\"Lava\"]",
+          "name": "decodeBin",
+          "package": "Wired",
+          "signature": "[Int] -\u003e Int",
+          "source": "src/Lava-Misc.html#decodeBin",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:decodeBin\",\"http://hackage.haskell.org/package/Wired/docs/Lava.html#v:decodeBin\"]"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "decodeBin",
+          "normalized": "[Int]-\u003eInt",
+          "package": "Wired",
+          "partial": "Bin",
+          "signature": "[Int]-\u003eInt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:decodeBin"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "defaultVal",
+          "package": "Wired",
+          "signature": "x",
+          "source": "src/Lava-Model.html#Interpretation",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "defaultVal",
+          "package": "Wired",
+          "partial": "Val",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:defaultVal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Lava.Internal\",\"Lava\"]",
+          "name": "depth",
+          "package": "Wired",
+          "signature": "m ps -\u003e (pd, InterpDesignDB lib Int)",
+          "source": "src/Lava-Misc.html#depth",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:depth\",\"http://hackage.haskell.org/package/Wired/docs/Lava.html#v:depth\"]"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "depth",
+          "normalized": "a b-\u003e(c,InterpDesignDB d Int)",
+          "package": "Wired",
+          "signature": "m ps-\u003e(pd,InterpDesignDB lib Int)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:depth"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "depthInterp",
+          "package": "Wired",
+          "signature": "Interpretation lib Int",
+          "source": "src/Lava-Model.html#depthInterp",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "depthInterp",
+          "package": "Wired",
+          "partial": "Interp",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:depthInterp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cpre\u003eencodeBin n x\u003c/pre\u003e\u003cp\u003eEncodes the number \u003ccode\u003ex\u003c/code\u003e as a binary number of length \u003ccode\u003en\u003c/code\u003e. The resulting list\n contains only zeroes and ones.\n\u003c/p\u003e",
+          "module": "[\"Lava.Internal\",\"Lava\"]",
+          "name": "encodeBin",
+          "package": "Wired",
+          "signature": "Int -\u003e Int -\u003e [Int]",
+          "source": "src/Lava-Misc.html#encodeBin",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:encodeBin\",\"http://hackage.haskell.org/package/Wired/docs/Lava.html#v:encodeBin\"]"
+        },
+        "index": {
+          "description": "encodeBin Encodes the number as binary number of length The resulting list contains only zeroes and ones",
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "encodeBin",
+          "normalized": "Int-\u003eInt-\u003e[Int]",
+          "package": "Wired",
+          "partial": "Bin",
+          "signature": "Int-\u003eInt-\u003e[Int]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:encodeBin"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Lava.Internal\",\"Lava\"]",
+          "name": "fanout",
+          "package": "Wired",
+          "signature": "m a -\u003e InterpDesignDB lib Int",
+          "source": "src/Lava-Misc.html#fanout",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:fanout\",\"http://hackage.haskell.org/package/Wired/docs/Lava.html#v:fanout\"]"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "fanout",
+          "normalized": "a b-\u003eInterpDesignDB c Int",
+          "package": "Wired",
+          "signature": "m a-\u003eInterpDesignDB lib Int",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:fanout"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "fanoutDB",
+          "package": "Wired",
+          "signature": "Map Signal [(CellId, InPin)]",
+          "source": "src/Lava-Model.html#DesignDB",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "fanoutDB",
+          "normalized": "Map Signal[(CellId,InPin)]",
+          "package": "Wired",
+          "partial": "DB",
+          "signature": "Map Signal[(CellId,InPin)]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:fanoutDB"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "fromListFP",
+          "package": "Wired",
+          "signature": "[s] -\u003e p",
+          "source": "src/Lava-Port.html#fromListFP",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "fromListFP",
+          "normalized": "[a]-\u003eb",
+          "package": "Wired",
+          "partial": "List FP",
+          "signature": "[s]-\u003ep",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:fromListFP"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Lava.Internal\",\"Lava\"]",
+          "name": "hasCombLoop",
+          "package": "Wired",
+          "signature": "m a -\u003e Bool",
+          "source": "src/Lava-Loop.html#hasCombLoop",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:hasCombLoop\",\"http://hackage.haskell.org/package/Wired/docs/Lava.html#v:hasCombLoop\"]"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "hasCombLoop",
+          "normalized": "a b-\u003eBool",
+          "package": "Wired",
+          "partial": "Comb Loop",
+          "signature": "m a-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:hasCombLoop"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Lava.Internal\",\"Lava\"]",
+          "name": "hasLoop",
+          "package": "Wired",
+          "signature": "m a -\u003e Bool",
+          "source": "src/Lava-Loop.html#hasLoop",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:hasLoop\",\"http://hackage.haskell.org/package/Wired/docs/Lava.html#v:hasLoop\"]"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "hasLoop",
+          "normalized": "a b-\u003eBool",
+          "package": "Wired",
+          "partial": "Loop",
+          "signature": "m a-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:hasLoop"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "hasLoopDB",
+          "package": "Wired",
+          "signature": "Bool -\u003e DesignDB lib -\u003e Bool",
+          "source": "src/Lava-Loop.html#hasLoopDB",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "hasLoopDB",
+          "normalized": "Bool-\u003eDesignDB a-\u003eBool",
+          "package": "Wired",
+          "partial": "Loop DB",
+          "signature": "Bool-\u003eDesignDB lib-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:hasLoopDB"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "inPinId",
+          "package": "Wired",
+          "signature": "lib -\u003e Name -\u003e InPin",
+          "source": "src/Lava-Model.html#inPinId",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "inPinId",
+          "normalized": "a-\u003eName-\u003eInPin",
+          "package": "Wired",
+          "partial": "Pin Id",
+          "signature": "lib-\u003eName-\u003eInPin",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:inPinId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "inPinName",
+          "package": "Wired",
+          "signature": "lib -\u003e InPin -\u003e Name",
+          "source": "src/Lava-Model.html#inPinName",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "inPinName",
+          "normalized": "a-\u003eInPin-\u003eName",
+          "package": "Wired",
+          "partial": "Pin Name",
+          "signature": "lib-\u003eInPin-\u003eName",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:inPinName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Lava.Internal\",\"Lava\"]",
+          "name": "input",
+          "package": "Wired",
+          "signature": "m p",
+          "source": "src/Lava-Misc.html#input",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:input\",\"http://hackage.haskell.org/package/Wired/docs/Lava.html#v:input\"]"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "input",
+          "package": "Wired",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:input"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Lava.Internal\",\"Lava\"]",
+          "name": "inputList",
+          "package": "Wired",
+          "signature": "Int -\u003e m [p]",
+          "source": "src/Lava-Misc.html#inputList",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:inputList\",\"http://hackage.haskell.org/package/Wired/docs/Lava.html#v:inputList\"]"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "inputList",
+          "normalized": "Int-\u003ea[b]",
+          "package": "Wired",
+          "partial": "List",
+          "signature": "Int-\u003em[p]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:inputList"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "inputSig",
+          "package": "Wired",
+          "signature": "m Signal",
+          "source": "src/Lava-Model.html#inputSig",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "inputSig",
+          "package": "Wired",
+          "partial": "Sig",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:inputSig"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "inputToSig",
+          "package": "Wired",
+          "signature": "PortTree x -\u003e PortTree Signal",
+          "source": "src/Lava-Interpret.html#inputToSig",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "inputToSig",
+          "normalized": "PortTree a-\u003ePortTree Signal",
+          "package": "Wired",
+          "partial": "To Sig",
+          "signature": "PortTree x-\u003ePortTree Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:inputToSig"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "interpret",
+          "package": "Wired",
+          "signature": "Interpretation lib x -\u003e Lava lib ps -\u003e (px, InterpDesignDB lib x)",
+          "source": "src/Lava-Interpret.html#interpret",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "interpret",
+          "normalized": "Interpretation a b-\u003eLava a c-\u003e(d,InterpDesignDB a b)",
+          "package": "Wired",
+          "signature": "Interpretation lib x-\u003eLava lib ps-\u003e(px,InterpDesignDB lib x)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:interpret"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "interpretCells",
+          "package": "Wired",
+          "signature": "Interpretation lib x -\u003e [(Signal, x)] -\u003e [(CellId, (lib, [Signal]))] -\u003e Map Signal x",
+          "source": "src/Lava-Interpret.html#interpretCells",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "interpretCells",
+          "normalized": "Interpretation a b-\u003e[(Signal,b)]-\u003e[(CellId,(a,[Signal]))]-\u003eMap Signal b",
+          "package": "Wired",
+          "partial": "Cells",
+          "signature": "Interpretation lib x-\u003e[(Signal,x)]-\u003e[(CellId,(lib,[Signal]))]-\u003eMap Signal x",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:interpretCells"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "interpretFunc",
+          "package": "Wired",
+          "signature": "Interpretation lib x -\u003e (psi -\u003e Lava lib pso) -\u003e pxi -\u003e (pxo, InterpDesignDB lib x)",
+          "source": "src/Lava-Interpret.html#interpretFunc",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "interpretFunc",
+          "normalized": "Interpretation a b-\u003e(c-\u003eLava a d)-\u003ee-\u003e(f,InterpDesignDB a b)",
+          "package": "Wired",
+          "partial": "Func",
+          "signature": "Interpretation lib x-\u003e(psi-\u003eLava lib pso)-\u003epxi-\u003e(pxo,InterpDesignDB lib x)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:interpretFunc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "interpretFuncP",
+          "package": "Wired",
+          "signature": "Interpretation lib x -\u003e (PortTree Signal -\u003e Lava lib (PortTree Signal)) -\u003e PortTree x -\u003e (PortTree x, InterpDesignDB lib x)",
+          "source": "src/Lava-Interpret.html#interpretFuncP",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "interpretFuncP",
+          "normalized": "Interpretation a b-\u003e(PortTree Signal-\u003eLava a(PortTree Signal))-\u003ePortTree b-\u003e(PortTree b,InterpDesignDB a b)",
+          "package": "Wired",
+          "partial": "Func",
+          "signature": "Interpretation lib x-\u003e(PortTree Signal-\u003eLava lib(PortTree Signal))-\u003ePortTree x-\u003e(PortTree x,InterpDesignDB lib x)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:interpretFuncP"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "interpret_",
+          "package": "Wired",
+          "signature": "Interpretation lib x -\u003e [(Signal, x)] -\u003e Lava lib (PortTree Signal) -\u003e (PortTree x, InterpDesignDB lib x)",
+          "source": "src/Lava-Interpret.html#interpret_",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "interpret_",
+          "normalized": "Interpretation a b-\u003e[(Signal,b)]-\u003eLava a(PortTree Signal)-\u003e(PortTree b,InterpDesignDB a b)",
+          "package": "Wired",
+          "signature": "Interpretation lib x-\u003e[(Signal,x)]-\u003eLava lib(PortTree Signal)-\u003e(PortTree x,InterpDesignDB lib x)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:interpret_"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "interpret__",
+          "package": "Wired",
+          "signature": "Interpretation lib x -\u003e [(Signal, x)] -\u003e (PortTree Signal, DesignDB lib) -\u003e (PortTree x, InterpDesignDB lib x)",
+          "source": "src/Lava-Interpret.html#interpret__",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "interpret__",
+          "normalized": "Interpretation a b-\u003e[(Signal,b)]-\u003e(PortTree Signal,DesignDB a)-\u003e(PortTree b,InterpDesignDB a b)",
+          "package": "Wired",
+          "signature": "Interpretation lib x-\u003e[(Signal,x)]-\u003e(PortTree Signal,DesignDB lib)-\u003e(PortTree x,InterpDesignDB lib x)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:interpret__"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "isFlop",
+          "package": "Wired",
+          "signature": "lib -\u003e Bool",
+          "source": "src/Lava-Model.html#isFlop",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "isFlop",
+          "normalized": "a-\u003eBool",
+          "package": "Wired",
+          "partial": "Flop",
+          "signature": "lib-\u003eBool",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:isFlop"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Lava.Internal\",\"Lava\"]",
+          "name": "label",
+          "package": "Wired",
+          "signature": "Tag -\u003e p -\u003e m p",
+          "source": "src/Lava-Misc.html#label",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:label\",\"http://hackage.haskell.org/package/Wired/docs/Lava.html#v:label\"]"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "label",
+          "normalized": "Tag-\u003ea-\u003eb a",
+          "package": "Wired",
+          "signature": "Tag-\u003ep-\u003em p",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:label"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "labelSig",
+          "package": "Wired",
+          "signature": "Tag -\u003e Signal -\u003e m Signal",
+          "source": "src/Lava-Model.html#labelSig",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "labelSig",
+          "normalized": "Tag-\u003eSignal-\u003ea Signal",
+          "package": "Wired",
+          "partial": "Sig",
+          "signature": "Tag-\u003eSignal-\u003em Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:labelSig"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "lava2000Interp",
+          "package": "Wired",
+          "signature": "Interpretation lib (Signal Bool)",
+          "source": "src/Lava-Model.html#lava2000Interp",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "lava2000Interp",
+          "package": "Wired",
+          "partial": "Interp",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:lava2000Interp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "lengthFP",
+          "package": "Wired",
+          "signature": "Res p Int",
+          "source": "src/Lava-Port.html#lengthFP",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "lengthFP",
+          "package": "Wired",
+          "partial": "FP",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:lengthFP"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "listenDecls",
+          "package": "Wired",
+          "signature": "m a -\u003e m (a, [Declaration lib])",
+          "source": "src/Lava-Model.html#listenDecls",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "listenDecls",
+          "normalized": "a b-\u003ea(b,[Declaration c])",
+          "package": "Wired",
+          "partial": "Decls",
+          "signature": "m a-\u003em(a,[Declaration lib])",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:listenDecls"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Lava.Internal\",\"Lava\"]",
+          "name": "lookupTag",
+          "package": "Wired",
+          "signature": "Tag -\u003e InterpDesignDB lib x -\u003e [x]",
+          "source": "src/Lava-Model.html#lookupTag",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:lookupTag\",\"http://hackage.haskell.org/package/Wired/docs/Lava.html#v:lookupTag\"]"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "lookupTag",
+          "normalized": "Tag-\u003eInterpDesignDB a b-\u003e[b]",
+          "package": "Wired",
+          "partial": "Tag",
+          "signature": "Tag-\u003eInterpDesignDB lib x-\u003e[x]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:lookupTag"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "mapPort",
+          "package": "Wired",
+          "signature": "(sa -\u003e sb) -\u003e pa -\u003e pb",
+          "source": "src/Lava-Port.html#mapPort",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "mapPort",
+          "normalized": "(a-\u003eb)-\u003ec-\u003ed",
+          "package": "Wired",
+          "partial": "Port",
+          "signature": "(sa-\u003esb)-\u003epa-\u003epb",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:mapPort"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "mapPortM",
+          "package": "Wired",
+          "signature": "(sa -\u003e m sb) -\u003e pa -\u003e m pb",
+          "source": "src/Lava-Port.html#mapPortM",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "mapPortM",
+          "normalized": "(a-\u003eb c)-\u003ed-\u003eb e",
+          "package": "Wired",
+          "partial": "Port",
+          "signature": "(sa-\u003em sb)-\u003epa-\u003em pb",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:mapPortM"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "newCellId",
+          "package": "Wired",
+          "signature": "m CellId",
+          "source": "src/Lava-Model.html#newCellId",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "newCellId",
+          "package": "Wired",
+          "partial": "Cell Id",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:newCellId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "newPrimInpId",
+          "package": "Wired",
+          "signature": "m PrimInpId",
+          "source": "src/Lava-Model.html#newPrimInpId",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "newPrimInpId",
+          "package": "Wired",
+          "partial": "Prim Inp Id",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:newPrimInpId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "numIns",
+          "package": "Wired",
+          "signature": "lib -\u003e InPin",
+          "source": "src/Lava-Model.html#numIns",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "numIns",
+          "normalized": "a-\u003eInPin",
+          "package": "Wired",
+          "partial": "Ins",
+          "signature": "lib-\u003eInPin",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:numIns"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "numOuts",
+          "package": "Wired",
+          "signature": "lib -\u003e OutPin",
+          "source": "src/Lava-Model.html#numOuts",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "numOuts",
+          "normalized": "a-\u003eOutPin",
+          "package": "Wired",
+          "partial": "Outs",
+          "signature": "lib-\u003eOutPin",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:numOuts"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "outPinId",
+          "package": "Wired",
+          "signature": "lib -\u003e Name -\u003e OutPin",
+          "source": "src/Lava-Model.html#outPinId",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "outPinId",
+          "normalized": "a-\u003eName-\u003eOutPin",
+          "package": "Wired",
+          "partial": "Pin Id",
+          "signature": "lib-\u003eName-\u003eOutPin",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:outPinId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "outPinName",
+          "package": "Wired",
+          "signature": "lib -\u003e OutPin -\u003e Name",
+          "source": "src/Lava-Model.html#outPinName",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "outPinName",
+          "normalized": "a-\u003eOutPin-\u003eName",
+          "package": "Wired",
+          "partial": "Pin Name",
+          "signature": "lib-\u003eOutPin-\u003eName",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:outPinName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "physCell",
+          "package": "Wired",
+          "signature": "lib -\u003e a -\u003e m a",
+          "source": "src/Lava-Misc.html#physCell",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "physCell",
+          "normalized": "a-\u003eb-\u003ec b",
+          "package": "Wired",
+          "partial": "Cell",
+          "signature": "lib-\u003ea-\u003em a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:physCell"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "port",
+          "package": "Wired",
+          "signature": "p -\u003e PortTree s",
+          "source": "src/Lava-Port.html#port",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "port",
+          "normalized": "a-\u003ePortTree b",
+          "package": "Wired",
+          "signature": "p-\u003ePortTree s",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:port"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "primIns",
+          "package": "Wired",
+          "signature": "[Signal]",
+          "source": "src/Lava-Model.html#DesignDB",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "primIns",
+          "normalized": "[Signal]",
+          "package": "Wired",
+          "partial": "Ins",
+          "signature": "[Signal]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:primIns"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "prop_validDecls",
+          "package": "Wired",
+          "signature": "[Declaration lib] -\u003e Bool",
+          "source": "src/Lava-Model.html#prop_validDecls",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "prop_validDecls",
+          "normalized": "[Declaration a]-\u003eBool",
+          "package": "Wired",
+          "partial": "Decls",
+          "signature": "[Declaration lib]-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:prop_validDecls"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "prop_validSignals",
+          "package": "Wired",
+          "signature": "[Declaration lib] -\u003e Bool",
+          "source": "src/Lava-Model.html#prop_validSignals",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "prop_validSignals",
+          "normalized": "[Declaration a]-\u003eBool",
+          "package": "Wired",
+          "partial": "Signals",
+          "signature": "[Declaration lib]-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:prop_validSignals"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "propagator",
+          "package": "Wired",
+          "signature": "lib -\u003e [x] -\u003e [Maybe x]",
+          "source": "src/Lava-Model.html#Interpretation",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "propagator",
+          "normalized": "a-\u003e[b]-\u003e[Maybe b]",
+          "package": "Wired",
+          "signature": "lib-\u003e[x]-\u003e[Maybe x]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:propagator"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "runLava",
+          "package": "Wired",
+          "signature": "Lava lib a -\u003e (a, DesignDB lib)",
+          "source": "src/Lava-Model.html#runLava",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "runLava",
+          "normalized": "Lava a b-\u003e(b,DesignDB a)",
+          "package": "Wired",
+          "partial": "Lava",
+          "signature": "Lava lib a-\u003e(a,DesignDB lib)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:runLava"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "sigTagDB",
+          "package": "Wired",
+          "signature": "Map Signal [Tag]",
+          "source": "src/Lava-Model.html#DesignDB",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "sigTagDB",
+          "normalized": "Map Signal[Tag]",
+          "package": "Wired",
+          "partial": "Tag DB",
+          "signature": "Map Signal[Tag]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:sigTagDB"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Lava.Internal\",\"Lava\"]",
+          "name": "simulate",
+          "package": "Wired",
+          "signature": "(psi -\u003e m pso) -\u003e pni -\u003e pno",
+          "source": "src/Lava-Misc.html#simulate",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:simulate\",\"http://hackage.haskell.org/package/Wired/docs/Lava.html#v:simulate\"]"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "simulate",
+          "normalized": "(a-\u003eb c)-\u003ed-\u003ee",
+          "package": "Wired",
+          "signature": "(psi-\u003em pso)-\u003epni-\u003epno",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:simulate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Lava.Internal\",\"Lava\"]",
+          "name": "simulateSeq",
+          "package": "Wired",
+          "signature": "(psi -\u003e m pso) -\u003e [pni] -\u003e [pno]",
+          "source": "src/Lava-Misc.html#simulateSeq",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:simulateSeq\",\"http://hackage.haskell.org/package/Wired/docs/Lava.html#v:simulateSeq\"]"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "simulateSeq",
+          "normalized": "(a-\u003eb c)-\u003e[d]-\u003e[e]",
+          "package": "Wired",
+          "partial": "Seq",
+          "signature": "(psi-\u003em pso)-\u003e[pni]-\u003e[pno]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:simulateSeq"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "sinkCell",
+          "package": "Wired",
+          "signature": "lib -\u003e p -\u003e m ()",
+          "source": "src/Lava-Misc.html#sinkCell",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "sinkCell",
+          "normalized": "a-\u003eb-\u003ec()",
+          "package": "Wired",
+          "partial": "Cell",
+          "signature": "lib-\u003ep-\u003em()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:sinkCell"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Lava.Internal\",\"Lava\"]",
+          "name": "size",
+          "package": "Wired",
+          "signature": "m p -\u003e Int",
+          "source": "src/Lava-Misc.html#size",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:size\",\"http://hackage.haskell.org/package/Wired/docs/Lava.html#v:size\"]"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "size",
+          "normalized": "a b-\u003eInt",
+          "package": "Wired",
+          "signature": "m p-\u003eInt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:size"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "sourceCell",
+          "package": "Wired",
+          "signature": "lib -\u003e m p",
+          "source": "src/Lava-Misc.html#sourceCell",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "sourceCell",
+          "normalized": "a-\u003eb c",
+          "package": "Wired",
+          "partial": "Cell",
+          "signature": "lib-\u003em p",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:sourceCell"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "tagSigDB",
+          "package": "Wired",
+          "signature": "Map Tag [Signal]",
+          "source": "src/Lava-Model.html#DesignDB",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "tagSigDB",
+          "normalized": "Map Tag[Signal]",
+          "package": "Wired",
+          "partial": "Sig DB",
+          "signature": "Map Tag[Signal]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:tagSigDB"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "tellSigs",
+          "package": "Wired",
+          "signature": "Interpretation lib x -\u003e [Signal] -\u003e [Maybe x] -\u003e Knot Signal x ()",
+          "source": "src/Lava-Interpret.html#tellSigs",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "tellSigs",
+          "normalized": "Interpretation a b-\u003e[Signal]-\u003e[Maybe b]-\u003eKnot Signal b()",
+          "package": "Wired",
+          "partial": "Sigs",
+          "signature": "Interpretation lib x-\u003e[Signal]-\u003e[Maybe x]-\u003eKnot Signal x()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:tellSigs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "toLava",
+          "package": "Wired",
+          "signature": "m a -\u003e Lava lib a",
+          "source": "src/Lava-Model.html#toLava",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "toLava",
+          "normalized": "a b-\u003eLava c b",
+          "package": "Wired",
+          "partial": "Lava",
+          "signature": "m a-\u003eLava lib a",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:toLava"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Lava.Internal\",\"Lava\"]",
+          "name": "toLava2000",
+          "package": "Wired",
+          "signature": "(psi -\u003e m pso) -\u003e pli -\u003e plo",
+          "source": "src/Lava-Misc.html#toLava2000",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:toLava2000\",\"http://hackage.haskell.org/package/Wired/docs/Lava.html#v:toLava2000\"]"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "toLava2000",
+          "normalized": "(a-\u003eb c)-\u003ed-\u003ee",
+          "package": "Wired",
+          "partial": "Lava",
+          "signature": "(psi-\u003em pso)-\u003epli-\u003eplo",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:toLava2000"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "unLava",
+          "package": "Wired",
+          "signature": "WriterT [Declaration lib] (State (PrimInpId, CellId)) a",
+          "source": "src/Lava-Model.html#Lava",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "unLava",
+          "normalized": "WriterT[Declaration a](State(PrimInpId,CellId))b",
+          "package": "Wired",
+          "partial": "Lava",
+          "signature": "WriterT[Declaration lib](State(PrimInpId,CellId))a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:unLava"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "unOne",
+          "package": "Wired",
+          "signature": "s",
+          "source": "src/Lava-Port.html#PortTree",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "unOne",
+          "package": "Wired",
+          "partial": "One",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:unOne"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Internal",
+          "name": "unport",
+          "package": "Wired",
+          "signature": "PortTree s -\u003e p",
+          "source": "src/Lava-Port.html#unport",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "unport",
+          "normalized": "PortTree a-\u003eb",
+          "package": "Wired",
+          "signature": "PortTree s-\u003ep",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:unport"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Lava.Internal\",\"Lava\"]",
+          "name": "verify",
+          "package": "Wired",
+          "signature": "(ps -\u003e m Signal) -\u003e IO ()",
+          "source": "src/Lava-Misc.html#verify",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:verify\",\"http://hackage.haskell.org/package/Wired/docs/Lava.html#v:verify\"]"
+        },
+        "index": {
+          "hierarchy": "Lava Internal",
+          "module": "Lava.Internal",
+          "name": "verify",
+          "normalized": "(a-\u003eb Signal)-\u003eIO()",
+          "package": "Wired",
+          "signature": "(ps-\u003em Signal)-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Internal.html#v:verify"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "Patterns",
+          "package": "Wired",
+          "source": "src/Lava-Patterns.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "Patterns",
+          "package": "Wired",
+          "partial": "Patterns",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "(-|-)",
+          "package": "Wired",
+          "signature": "(a -\u003e m b) -\u003e (c -\u003e m d) -\u003e (a, c) -\u003e m (b, d)",
+          "source": "src/Lava-Patterns.html#-%7C-",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "(-|-) -|-",
+          "normalized": "(a-\u003eb c)-\u003e(d-\u003eb e)-\u003e(a,d)-\u003eb(c,e)",
+          "package": "Wired",
+          "signature": "(a-\u003em b)-\u003e(c-\u003em d)-\u003e(a,c)-\u003em(b,d)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:-45--124--45-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "(-\u003c-)",
+          "package": "Wired",
+          "signature": "(b -\u003e m c) -\u003e (a -\u003e m b) -\u003e a -\u003e m c",
+          "source": "src/Lava-Patterns.html#-%3C-",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "(-\u003c-) -\u003c-",
+          "normalized": "(a-\u003eb c)-\u003e(d-\u003eb a)-\u003ed-\u003eb c",
+          "package": "Wired",
+          "signature": "(b-\u003em c)-\u003e(a-\u003em b)-\u003ea-\u003em c",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:-45--60--45-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "(-\u003e-)",
+          "package": "Wired",
+          "signature": "(a -\u003e m b) -\u003e (b -\u003e m c) -\u003e a -\u003e m c",
+          "source": "src/Lava-Patterns.html#-%3E-",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "(-\u003e-) -\u003e-",
+          "normalized": "(a-\u003eb c)-\u003e(c-\u003eb d)-\u003ea-\u003eb d",
+          "package": "Wired",
+          "signature": "(a-\u003em b)-\u003e(b-\u003em c)-\u003ea-\u003em c",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:-45--62--45-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "(.\u003c.)",
+          "package": "Wired",
+          "signature": "(b -\u003e c) -\u003e (a -\u003e b) -\u003e a -\u003e c",
+          "source": "src/Lava-Patterns.html#.%3C.",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "(.\u003c.) .\u003c.",
+          "normalized": "(a-\u003eb)-\u003e(c-\u003ea)-\u003ec-\u003eb",
+          "package": "Wired",
+          "signature": "(b-\u003ec)-\u003e(a-\u003eb)-\u003ea-\u003ec",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:.-60-."
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "(.\u003e.)",
+          "package": "Wired",
+          "signature": "(a -\u003e b) -\u003e (b -\u003e c) -\u003e a -\u003e c",
+          "source": "src/Lava-Patterns.html#.%3E.",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "(.\u003e.) .\u003e.",
+          "normalized": "(a-\u003eb)-\u003e(b-\u003ec)-\u003ea-\u003ec",
+          "package": "Wired",
+          "signature": "(a-\u003eb)-\u003e(b-\u003ec)-\u003ea-\u003ec",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:.-62-."
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "append",
+          "package": "Wired",
+          "signature": "([a], [a]) -\u003e [a]",
+          "source": "src/Lava-Patterns.html#append",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "append",
+          "normalized": "([a],[a])-\u003e[a]",
+          "package": "Wired",
+          "signature": "([a],[a])-\u003e[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:append"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "bfly",
+          "package": "Wired",
+          "signature": "Int -\u003e ([a] -\u003e m [a]) -\u003e [a] -\u003e m [a]",
+          "source": "src/Lava-Patterns.html#bfly",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "bfly",
+          "normalized": "Int-\u003e([a]-\u003eb[a])-\u003e[a]-\u003eb[a]",
+          "package": "Wired",
+          "signature": "Int-\u003e([a]-\u003em[a])-\u003e[a]-\u003em[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:bfly"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "column",
+          "package": "Wired",
+          "signature": "((a, b) -\u003e m (b, c)) -\u003e ([a], b) -\u003e m (b, [c])",
+          "source": "src/Lava-Patterns.html#column",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "column",
+          "normalized": "((a,b)-\u003ec(b,d))-\u003e([a],b)-\u003ec(b,[d])",
+          "package": "Wired",
+          "signature": "((a,b)-\u003em(b,c))-\u003e([a],b)-\u003em(b,[c])",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:column"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "compose",
+          "package": "Wired",
+          "signature": "[a -\u003e m a] -\u003e a -\u003e m a",
+          "source": "src/Lava-Patterns.html#compose",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "compose",
+          "normalized": "[a-\u003eb a]-\u003ea-\u003eb a",
+          "package": "Wired",
+          "signature": "[a-\u003em a]-\u003ea-\u003em a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:compose"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "composeN",
+          "package": "Wired",
+          "signature": "Int -\u003e (a -\u003e m a) -\u003e a -\u003e m a",
+          "source": "src/Lava-Patterns.html#composeN",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "composeN",
+          "normalized": "Int-\u003e(a-\u003eb a)-\u003ea-\u003eb a",
+          "package": "Wired",
+          "signature": "Int-\u003e(a-\u003em a)-\u003ea-\u003em a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:composeN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "copy",
+          "package": "Wired",
+          "signature": "a -\u003e (a, a)",
+          "source": "src/Lava-Patterns.html#copy",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "copy",
+          "normalized": "a-\u003e(a,a)",
+          "package": "Wired",
+          "signature": "a-\u003e(a,a)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:copy"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "grid",
+          "package": "Wired",
+          "signature": "((a, b) -\u003e m (b, a)) -\u003e ([a], [b]) -\u003e m ([b], [a])",
+          "source": "src/Lava-Patterns.html#grid",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "grid",
+          "normalized": "((a,b)-\u003ec(b,a))-\u003e([a],[b])-\u003ec([b],[a])",
+          "package": "Wired",
+          "signature": "((a,b)-\u003em(b,a))-\u003e([a],[b])-\u003em([b],[a])",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:grid"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "halveList",
+          "package": "Wired",
+          "signature": "[a] -\u003e ([a], [a])",
+          "source": "src/Lava-Patterns.html#halveList",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "halveList",
+          "normalized": "[a]-\u003e([a],[a])",
+          "package": "Wired",
+          "partial": "List",
+          "signature": "[a]-\u003e([a],[a])",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:halveList"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "ilv",
+          "package": "Wired",
+          "signature": "([a] -\u003e m [b]) -\u003e [a] -\u003e m [b]",
+          "source": "src/Lava-Patterns.html#ilv",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "ilv",
+          "normalized": "([a]-\u003eb[c])-\u003e[a]-\u003eb[c]",
+          "package": "Wired",
+          "signature": "([a]-\u003em[b])-\u003e[a]-\u003em[b]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:ilv"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "ilvN",
+          "package": "Wired",
+          "signature": "Int -\u003e ([a] -\u003e m [b]) -\u003e [a] -\u003e m [b]",
+          "source": "src/Lava-Patterns.html#ilvN",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "ilvN",
+          "normalized": "Int-\u003e([a]-\u003eb[c])-\u003e[a]-\u003eb[c]",
+          "package": "Wired",
+          "signature": "Int-\u003e([a]-\u003em[b])-\u003e[a]-\u003em[b]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:ilvN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "iter",
+          "package": "Wired",
+          "signature": "Int -\u003e ((a -\u003e m b) -\u003e a -\u003e m b) -\u003e (a -\u003e m b) -\u003e a -\u003e m b",
+          "source": "src/Lava-Patterns.html#iter",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "iter",
+          "normalized": "Int-\u003e((a-\u003eb c)-\u003ea-\u003eb c)-\u003e(a-\u003eb c)-\u003ea-\u003eb c",
+          "package": "Wired",
+          "signature": "Int-\u003e((a-\u003em b)-\u003ea-\u003em b)-\u003e(a-\u003em b)-\u003ea-\u003em b",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:iter"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "mirror",
+          "package": "Wired",
+          "signature": "((a, b) -\u003e m (c, d)) -\u003e (b, a) -\u003e m (d, c)",
+          "source": "src/Lava-Patterns.html#mirror",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "mirror",
+          "normalized": "((a,b)-\u003ec(d,e))-\u003e(b,a)-\u003ec(e,d)",
+          "package": "Wired",
+          "signature": "((a,b)-\u003em(c,d))-\u003e(b,a)-\u003em(d,c)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:mirror"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "mon",
+          "package": "Wired",
+          "signature": "(a -\u003e b) -\u003e a -\u003e m b",
+          "source": "src/Lava-Patterns.html#mon",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "mon",
+          "normalized": "(a-\u003eb)-\u003ea-\u003ec b",
+          "package": "Wired",
+          "signature": "(a-\u003eb)-\u003ea-\u003em b",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:mon"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "pair",
+          "package": "Wired",
+          "signature": "[a] -\u003e [(a, a)]",
+          "source": "src/Lava-Patterns.html#pair",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "pair",
+          "normalized": "[a]-\u003e[(a,a)]",
+          "package": "Wired",
+          "signature": "[a]-\u003e[(a,a)]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:pair"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "par",
+          "package": "Wired",
+          "signature": "(a -\u003e m b) -\u003e (c -\u003e m d) -\u003e (a, c) -\u003e m (b, d)",
+          "source": "src/Lava-Patterns.html#par",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "par",
+          "normalized": "(a-\u003eb c)-\u003e(d-\u003eb e)-\u003e(a,d)-\u003eb(c,e)",
+          "package": "Wired",
+          "signature": "(a-\u003em b)-\u003e(c-\u003em d)-\u003e(a,c)-\u003em(b,d)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:par"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "parl",
+          "package": "Wired",
+          "signature": "([a] -\u003e m [b]) -\u003e ([a] -\u003e m [b]) -\u003e [a] -\u003e m [b]",
+          "source": "src/Lava-Patterns.html#parl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "parl",
+          "normalized": "([a]-\u003eb[c])-\u003e([a]-\u003eb[c])-\u003e[a]-\u003eb[c]",
+          "package": "Wired",
+          "signature": "([a]-\u003em[b])-\u003e([a]-\u003em[b])-\u003e[a]-\u003em[b]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:parl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "pmap",
+          "package": "Wired",
+          "signature": "((a, a) -\u003e m (b, b)) -\u003e [a] -\u003e m [b]",
+          "source": "src/Lava-Patterns.html#pmap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "pmap",
+          "normalized": "((a,a)-\u003eb(c,c))-\u003e[a]-\u003eb[c]",
+          "package": "Wired",
+          "signature": "((a,a)-\u003em(b,b))-\u003e[a]-\u003em[b]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:pmap"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "riffle",
+          "package": "Wired",
+          "signature": "[a] -\u003e [a]",
+          "source": "src/Lava-Patterns.html#riffle",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "riffle",
+          "normalized": "[a]-\u003e[a]",
+          "package": "Wired",
+          "signature": "[a]-\u003e[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:riffle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "row",
+          "package": "Wired",
+          "signature": "((a, b) -\u003e m (c, a)) -\u003e (a, [b]) -\u003e m ([c], a)",
+          "source": "src/Lava-Patterns.html#row",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "row",
+          "normalized": "((a,b)-\u003ec(d,a))-\u003e(a,[b])-\u003ec([d],a)",
+          "package": "Wired",
+          "signature": "((a,b)-\u003em(c,a))-\u003e(a,[b])-\u003em([c],a)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:row"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "serial",
+          "package": "Wired",
+          "signature": "(a -\u003e m b) -\u003e (b -\u003e m c) -\u003e a -\u003e m c",
+          "source": "src/Lava-Patterns.html#serial",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "serial",
+          "normalized": "(a-\u003eb c)-\u003e(c-\u003eb d)-\u003ea-\u003eb d",
+          "package": "Wired",
+          "signature": "(a-\u003em b)-\u003e(b-\u003em c)-\u003ea-\u003em c",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:serial"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "swap",
+          "package": "Wired",
+          "signature": "(a, b) -\u003e (b, a)",
+          "source": "src/Lava-Patterns.html#swap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "swap",
+          "normalized": "(a,b)-\u003e(b,a)",
+          "package": "Wired",
+          "signature": "(a,b)-\u003e(b,a)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:swap"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "swapl",
+          "package": "Wired",
+          "signature": "[a] -\u003e [a]",
+          "source": "src/Lava-Patterns.html#swapl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "swapl",
+          "normalized": "[a]-\u003e[a]",
+          "package": "Wired",
+          "signature": "[a]-\u003e[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:swapl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "tri",
+          "package": "Wired",
+          "signature": "(a -\u003e m a) -\u003e [a] -\u003e m [a]",
+          "source": "src/Lava-Patterns.html#tri",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "tri",
+          "normalized": "(a-\u003eb a)-\u003e[a]-\u003eb[a]",
+          "package": "Wired",
+          "signature": "(a-\u003em a)-\u003e[a]-\u003em[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:tri"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "two",
+          "package": "Wired",
+          "signature": "([a] -\u003e m [b]) -\u003e [a] -\u003e m [b]",
+          "source": "src/Lava-Patterns.html#two",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "two",
+          "normalized": "([a]-\u003eb[c])-\u003e[a]-\u003eb[c]",
+          "package": "Wired",
+          "signature": "([a]-\u003em[b])-\u003e[a]-\u003em[b]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:two"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "twoN",
+          "package": "Wired",
+          "signature": "Int -\u003e ([a] -\u003e m [b]) -\u003e [a] -\u003e m [b]",
+          "source": "src/Lava-Patterns.html#twoN",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "twoN",
+          "normalized": "Int-\u003e([a]-\u003eb[c])-\u003e[a]-\u003eb[c]",
+          "package": "Wired",
+          "signature": "Int-\u003e([a]-\u003em[b])-\u003e[a]-\u003em[b]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:twoN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "unpair",
+          "package": "Wired",
+          "signature": "[(a, a)] -\u003e [a]",
+          "source": "src/Lava-Patterns.html#unpair",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "unpair",
+          "normalized": "[(a,a)]-\u003e[a]",
+          "package": "Wired",
+          "signature": "[(a,a)]-\u003e[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:unpair"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "unriffle",
+          "package": "Wired",
+          "signature": "[a] -\u003e [a]",
+          "source": "src/Lava-Patterns.html#unriffle",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "unriffle",
+          "normalized": "[a]-\u003e[a]",
+          "package": "Wired",
+          "signature": "[a]-\u003e[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:unriffle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "unzipp",
+          "package": "Wired",
+          "signature": "[(a, b)] -\u003e ([a], [b])",
+          "source": "src/Lava-Patterns.html#unzipp",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "unzipp",
+          "normalized": "[(a,b)]-\u003e([a],[b])",
+          "package": "Wired",
+          "signature": "[(a,b)]-\u003e([a],[b])",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:unzipp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava.Patterns",
+          "name": "zipp",
+          "package": "Wired",
+          "signature": "([a], [b]) -\u003e [(a, b)]",
+          "source": "src/Lava-Patterns.html#zipp",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Lava Patterns",
+          "module": "Lava.Patterns",
+          "name": "zipp",
+          "normalized": "([a],[b])-\u003e[(a,b)]",
+          "package": "Wired",
+          "signature": "([a],[b])-\u003e[(a,b)]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava-Patterns.html#v:zipp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava",
+          "name": "Lava",
+          "package": "Wired",
+          "source": "src/Lava.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Lava",
+          "module": "Lava",
+          "name": "Lava",
+          "package": "Wired",
+          "partial": "Lava",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava",
+          "name": "CellLibrary",
+          "package": "Wired",
+          "source": "src/Lava-Model.html#CellLibrary",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Lava",
+          "module": "Lava",
+          "name": "CellLibrary",
+          "package": "Wired",
+          "partial": "Cell Library",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#t:CellLibrary"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava",
+          "name": "InterpDesignDB",
+          "package": "Wired",
+          "source": "src/Lava-Model.html#InterpDesignDB",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Lava",
+          "module": "Lava",
+          "name": "InterpDesignDB",
+          "package": "Wired",
+          "partial": "Interp Design DB",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#t:InterpDesignDB"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava",
+          "name": "Lava",
+          "package": "Wired",
+          "source": "src/Lava-Model.html#Lava",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Lava",
+          "module": "Lava",
+          "name": "Lava",
+          "package": "Wired",
+          "partial": "Lava",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#t:Lava"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava",
+          "name": "MonadLava",
+          "package": "Wired",
+          "source": "src/Lava-Model.html#MonadLava",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Lava",
+          "module": "Lava",
+          "name": "MonadLava",
+          "package": "Wired",
+          "partial": "Monad Lava",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#t:MonadLava"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava",
+          "name": "Port",
+          "package": "Wired",
+          "source": "src/Lava-Port.html#Port",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Lava",
+          "module": "Lava",
+          "name": "Port",
+          "package": "Wired",
+          "partial": "Port",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#t:Port"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava",
+          "name": "PortFixed",
+          "package": "Wired",
+          "source": "src/Lava-Port.html#PortFixed",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Lava",
+          "module": "Lava",
+          "name": "PortFixed",
+          "package": "Wired",
+          "partial": "Port Fixed",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#t:PortFixed"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava",
+          "name": "PortStruct",
+          "package": "Wired",
+          "source": "src/Lava-Port.html#PortStruct",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Lava",
+          "module": "Lava",
+          "name": "PortStruct",
+          "package": "Wired",
+          "partial": "Port Struct",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#t:PortStruct"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eIdentifies a driver in the circuit. A driver is either a primary input or\n an output pin of a cell.\n\u003c/p\u003e",
+          "module": "Lava",
+          "name": "Signal",
+          "package": "Wired",
+          "source": "src/Lava-Model.html#Signal",
+          "type": "data"
+        },
+        "index": {
+          "description": "Identifies driver in the circuit driver is either primary input or an output pin of cell",
+          "hierarchy": "Lava",
+          "module": "Lava",
+          "name": "Signal",
+          "package": "Wired",
+          "partial": "Signal",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#t:Signal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Lava",
+          "name": "toLava",
+          "package": "Wired",
+          "signature": "m a -\u003e Lava lib a",
+          "source": "src/Lava-Model.html#toLava",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Lava",
+          "module": "Lava",
+          "name": "toLava",
+          "normalized": "a b-\u003eLava c b",
+          "package": "Wired",
+          "partial": "Lava",
+          "signature": "m a-\u003eLava lib a",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Lava.html#v:toLava"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "Internal",
+          "package": "Wired",
+          "source": "src/Layout-Internal.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "Internal",
+          "package": "Wired",
+          "partial": "Internal",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "AbsBlock",
+          "package": "Wired",
+          "source": "src/Layout-Floorplan.html#AbsBlock",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "AbsBlock",
+          "package": "Wired",
+          "partial": "Abs Block",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:AbsBlock"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "AbsFloorplan",
+          "package": "Wired",
+          "source": "src/Layout-Floorplan.html#AbsFloorplan",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "AbsFloorplan",
+          "package": "Wired",
+          "partial": "Abs Floorplan",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:AbsFloorplan"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "Alignment",
+          "package": "Wired",
+          "source": "src/Layout-Floorplan.html#Alignment",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "Alignment",
+          "package": "Wired",
+          "partial": "Alignment",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:Alignment"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "Block",
+          "package": "Wired",
+          "source": "src/Layout-Floorplan.html#Block",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "Block",
+          "package": "Wired",
+          "partial": "Block",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:Block"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "Color",
+          "package": "Wired",
+          "source": "src/Layout-Postscript.html#Color",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "Color",
+          "package": "Wired",
+          "partial": "Color",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:Color"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "Distance",
+          "package": "Wired",
+          "source": "src/Layout-Floorplan.html#Distance",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "Distance",
+          "package": "Wired",
+          "partial": "Distance",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:Distance"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "Elasticity",
+          "package": "Wired",
+          "source": "src/Layout-Floorplan.html#Elasticity",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "Elasticity",
+          "package": "Wired",
+          "partial": "Elasticity",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:Elasticity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "Floorplan",
+          "package": "Wired",
+          "source": "src/Layout-Floorplan.html#Floorplan",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "Floorplan",
+          "package": "Wired",
+          "partial": "Floorplan",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:Floorplan"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "Layout",
+          "package": "Wired",
+          "source": "src/Layout-Internal.html#Layout",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "Layout",
+          "package": "Wired",
+          "partial": "Layout",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:Layout"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "LayoutT",
+          "package": "Wired",
+          "source": "src/Layout-Internal.html#LayoutT",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "LayoutT",
+          "package": "Wired",
+          "partial": "Layout",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:LayoutT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "MonadLayout",
+          "package": "Wired",
+          "source": "src/Layout-Internal.html#MonadLayout",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "MonadLayout",
+          "package": "Wired",
+          "partial": "Monad Layout",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:MonadLayout"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "PSShow",
+          "package": "Wired",
+          "source": "src/Layout-Postscript.html#PSShow",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "PSShow",
+          "package": "Wired",
+          "partial": "PSShow",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:PSShow"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "Placement",
+          "package": "Wired",
+          "source": "src/Layout-Floorplan.html#Placement",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "Placement",
+          "package": "Wired",
+          "partial": "Placement",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:Placement"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "Postscript",
+          "package": "Wired",
+          "source": "src/Layout-Postscript.html#Postscript",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "Postscript",
+          "package": "Wired",
+          "partial": "Postscript",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:Postscript"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "RelBlock",
+          "package": "Wired",
+          "source": "src/Layout-Floorplan.html#RelBlock",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "RelBlock",
+          "package": "Wired",
+          "partial": "Rel Block",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:RelBlock"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "Transformable",
+          "package": "Wired",
+          "source": "src/Layout-Floorplan.html#Transformable",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "Transformable",
+          "package": "Wired",
+          "partial": "Transformable",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#t:Transformable"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "Block",
+          "package": "Wired",
+          "signature": "Block (RelBlock s b)",
+          "source": "src/Layout-Floorplan.html#Floorplan",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "Block",
+          "package": "Wired",
+          "partial": "Block",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:Block"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "BottomLeft",
+          "package": "Wired",
+          "signature": "BottomLeft",
+          "source": "src/Layout-Floorplan.html#Alignment",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "BottomLeft",
+          "package": "Wired",
+          "partial": "Bottom Left",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:BottomLeft"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "Box",
+          "package": "Wired",
+          "signature": "Box Size Orientation Name b",
+          "source": "src/Layout-Floorplan.html#Block",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "Box",
+          "package": "Wired",
+          "partial": "Box",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:Box"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "Comb",
+          "package": "Wired",
+          "signature": "Comb Placement [Floorplan s b]",
+          "source": "src/Layout-Floorplan.html#Floorplan",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "Comb",
+          "normalized": "Comb Placement[Floorplan a b]",
+          "package": "Wired",
+          "partial": "Comb",
+          "signature": "Comb Placement[Floorplan s b]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:Comb"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "Dist",
+          "package": "Wired",
+          "signature": "Dist Length",
+          "source": "src/Layout-Floorplan.html#Distance",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "Dist",
+          "package": "Wired",
+          "partial": "Dist",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:Dist"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "Elasticity",
+          "package": "Wired",
+          "signature": "Elasticity Int",
+          "source": "src/Layout-Floorplan.html#Elasticity",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "Elasticity",
+          "package": "Wired",
+          "partial": "Elasticity",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:Elasticity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "Layout",
+          "package": "Wired",
+          "signature": "Layout (ReaderT Placement (Writer [Floorplan s b]) a)",
+          "source": "src/Layout-Internal.html#Layout",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "Layout",
+          "normalized": "Layout(ReaderT Placement(Writer[Floorplan a b])c)",
+          "package": "Wired",
+          "partial": "Layout",
+          "signature": "Layout(ReaderT Placement(Writer[Floorplan s b])a)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:Layout"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "LayoutT",
+          "package": "Wired",
+          "signature": "LayoutT (ReaderT Placement (WriterT [Floorplan s b] m) a)",
+          "source": "src/Layout-Internal.html#LayoutT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "LayoutT",
+          "normalized": "LayoutT(ReaderT Placement(WriterT[Floorplan a b]c)d)",
+          "package": "Wired",
+          "partial": "Layout",
+          "signature": "LayoutT(ReaderT Placement(WriterT[Floorplan s b]m)a)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:LayoutT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "Row",
+          "package": "Wired",
+          "signature": "Row Direction Alignment",
+          "source": "src/Layout-Floorplan.html#Placement",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "Row",
+          "package": "Wired",
+          "partial": "Row",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:Row"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "Space",
+          "package": "Wired",
+          "signature": "Space spaceSize (Maybe s)",
+          "source": "src/Layout-Floorplan.html#Block",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "Space",
+          "package": "Wired",
+          "partial": "Space",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:Space"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "Stack",
+          "package": "Wired",
+          "signature": "Stack Alignment Alignment",
+          "source": "src/Layout-Floorplan.html#Placement",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "Stack",
+          "package": "Wired",
+          "partial": "Stack",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:Stack"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "TopRight",
+          "package": "Wired",
+          "signature": "TopRight",
+          "source": "src/Layout-Floorplan.html#Alignment",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "TopRight",
+          "package": "Wired",
+          "partial": "Top Right",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:TopRight"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "Unspecified",
+          "package": "Wired",
+          "signature": "Unspecified",
+          "source": "src/Layout-Floorplan.html#Placement",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "Unspecified",
+          "package": "Wired",
+          "partial": "Unspecified",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:Unspecified"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "absToPS",
+          "package": "Wired",
+          "signature": "AbsFloorplan s b -\u003e Postscript",
+          "source": "src/Layout-Postscript.html#absToPS",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "absToPS",
+          "normalized": "AbsFloorplan a b-\u003ePostscript",
+          "package": "Wired",
+          "partial": "To PS",
+          "signature": "AbsFloorplan s b-\u003ePostscript",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:absToPS"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "absolutize",
+          "package": "Wired",
+          "signature": "Floorplan s b -\u003e (AbsFloorplan s b, Size)",
+          "source": "src/Layout-Floorplan.html#absolutize",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "absolutize",
+          "normalized": "Floorplan a b-\u003e(AbsFloorplan a b,Size)",
+          "package": "Wired",
+          "signature": "Floorplan s b-\u003e(AbsFloorplan s b,Size)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:absolutize"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "absolutizeBlock",
+          "package": "Wired",
+          "signature": "Placement -\u003e RelBlock s b -\u003e (AbsBlock s b, Size)",
+          "source": "src/Layout-Floorplan.html#absolutizeBlock",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "absolutizeBlock",
+          "normalized": "Placement-\u003eRelBlock a b-\u003e(AbsBlock a b,Size)",
+          "package": "Wired",
+          "partial": "Block",
+          "signature": "Placement-\u003eRelBlock s b-\u003e(AbsBlock s b,Size)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:absolutizeBlock"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "absolutize_",
+          "package": "Wired",
+          "signature": "Placement -\u003e Position -\u003e Floorplan s b -\u003e Writer (AbsFloorplan s b) Size",
+          "source": "src/Layout-Floorplan.html#absolutize_",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "absolutize_",
+          "normalized": "Placement-\u003ePosition-\u003eFloorplan a b-\u003eWriter(AbsFloorplan a b)Size",
+          "package": "Wired",
+          "signature": "Placement-\u003ePosition-\u003eFloorplan s b-\u003eWriter(AbsFloorplan s b)Size",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:absolutize_"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "align",
+          "package": "Wired",
+          "signature": "Alignment -\u003e Length -\u003e Length -\u003e Length",
+          "source": "src/Layout-Floorplan.html#align",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "align",
+          "normalized": "Alignment-\u003eLength-\u003eLength-\u003eLength",
+          "package": "Wired",
+          "signature": "Alignment-\u003eLength-\u003eLength-\u003eLength",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:align"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Layout.Internal\",\"Layout\"]",
+          "name": "black",
+          "package": "Wired",
+          "signature": "Color",
+          "source": "src/Layout-Postscript.html#black",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:black\",\"http://hackage.haskell.org/package/Wired/docs/Layout.html#v:black\"]"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "black",
+          "package": "Wired",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:black"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "block",
+          "package": "Wired",
+          "signature": "Width -\u003e Height -\u003e Name -\u003e b -\u003e a -\u003e m a",
+          "source": "src/Layout-Internal.html#block",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "block",
+          "normalized": "Width-\u003eHeight-\u003eName-\u003ea-\u003eb-\u003ec b",
+          "package": "Wired",
+          "signature": "Width-\u003eHeight-\u003eName-\u003eb-\u003ea-\u003em a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:block"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "blockCenter",
+          "package": "Wired",
+          "signature": "(Position, AbsBlock s b) -\u003e Position",
+          "source": "src/Layout-Floorplan.html#blockCenter",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "blockCenter",
+          "normalized": "(Position,AbsBlock a b)-\u003ePosition",
+          "package": "Wired",
+          "partial": "Center",
+          "signature": "(Position,AbsBlock s b)-\u003ePosition",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:blockCenter"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "block_",
+          "package": "Wired",
+          "signature": "Width -\u003e Height -\u003e Name -\u003e b -\u003e m ()",
+          "source": "src/Layout-Internal.html#block_",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "block_",
+          "normalized": "Width-\u003eHeight-\u003eName-\u003ea-\u003eb()",
+          "package": "Wired",
+          "signature": "Width-\u003eHeight-\u003eName-\u003eb-\u003em()",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:block_"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Layout.Internal\",\"Layout\"]",
+          "name": "blue",
+          "package": "Wired",
+          "signature": "Color",
+          "source": "src/Layout-Postscript.html#blue",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:blue\",\"http://hackage.haskell.org/package/Wired/docs/Layout.html#v:blue\"]"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "blue",
+          "package": "Wired",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:blue"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "currentPlacement",
+          "package": "Wired",
+          "signature": "m Placement",
+          "source": "src/Layout-Internal.html#currentPlacement",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "currentPlacement",
+          "package": "Wired",
+          "partial": "Placement",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:currentPlacement"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Layout.Internal\",\"Layout\"]",
+          "name": "downwards",
+          "package": "Wired",
+          "signature": "m a -\u003e m a",
+          "source": "src/Layout-Internal.html#downwards",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:downwards\",\"http://hackage.haskell.org/package/Wired/docs/Layout.html#v:downwards\"]"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "downwards",
+          "normalized": "a b-\u003ea b",
+          "package": "Wired",
+          "signature": "m a-\u003em a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:downwards"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Layout.Internal\",\"Layout\"]",
+          "name": "downwards'",
+          "package": "Wired",
+          "signature": "m a -\u003e m a",
+          "source": "src/Layout-Internal.html#downwards%27",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:downwards-39-\",\"http://hackage.haskell.org/package/Wired/docs/Layout.html#v:downwards-39-\"]"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "downwards'",
+          "normalized": "a b-\u003ea b",
+          "package": "Wired",
+          "signature": "m a-\u003em a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:downwards-39-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "flipX",
+          "package": "Wired",
+          "signature": "a -\u003e a",
+          "source": "src/Layout-Floorplan.html#flipX",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "flipX",
+          "normalized": "a-\u003ea",
+          "package": "Wired",
+          "signature": "a-\u003ea",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:flipX"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "flipY",
+          "package": "Wired",
+          "signature": "a -\u003e a",
+          "source": "src/Layout-Floorplan.html#flipY",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "flipY",
+          "normalized": "a-\u003ea",
+          "package": "Wired",
+          "signature": "a-\u003ea",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:flipY"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "floorplanToPS",
+          "package": "Wired",
+          "signature": "Floorplan s b -\u003e (Postscript, Size)",
+          "source": "src/Layout-Postscript.html#floorplanToPS",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "floorplanToPS",
+          "normalized": "Floorplan a b-\u003e(Postscript,Size)",
+          "package": "Wired",
+          "partial": "To PS",
+          "signature": "Floorplan s b-\u003e(Postscript,Size)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:floorplanToPS"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Layout.Internal\",\"Layout\"]",
+          "name": "green",
+          "package": "Wired",
+          "signature": "Color",
+          "source": "src/Layout-Postscript.html#green",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:green\",\"http://hackage.haskell.org/package/Wired/docs/Layout.html#v:green\"]"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "green",
+          "package": "Wired",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:green"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Layout.Internal\",\"Layout\"]",
+          "name": "grey",
+          "package": "Wired",
+          "signature": "Color",
+          "source": "src/Layout-Postscript.html#grey",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:grey\",\"http://hackage.haskell.org/package/Wired/docs/Layout.html#v:grey\"]"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "grey",
+          "package": "Wired",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:grey"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Layout.Internal\",\"Layout\"]",
+          "name": "leftwards",
+          "package": "Wired",
+          "signature": "m a -\u003e m a",
+          "source": "src/Layout-Internal.html#leftwards",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:leftwards\",\"http://hackage.haskell.org/package/Wired/docs/Layout.html#v:leftwards\"]"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "leftwards",
+          "normalized": "a b-\u003ea b",
+          "package": "Wired",
+          "signature": "m a-\u003em a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:leftwards"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Layout.Internal\",\"Layout\"]",
+          "name": "leftwards'",
+          "package": "Wired",
+          "signature": "m a -\u003e m a",
+          "source": "src/Layout-Internal.html#leftwards%27",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:leftwards-39-\",\"http://hackage.haskell.org/package/Wired/docs/Layout.html#v:leftwards-39-\"]"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "leftwards'",
+          "normalized": "a b-\u003ea b",
+          "package": "Wired",
+          "signature": "m a-\u003em a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:leftwards-39-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "linesToPS",
+          "package": "Wired",
+          "signature": "[([(Position, Position)], Color)] -\u003e Postscript",
+          "source": "src/Layout-Postscript.html#linesToPS",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "linesToPS",
+          "normalized": "[([(Position,Position)],Color)]-\u003ePostscript",
+          "package": "Wired",
+          "partial": "To PS",
+          "signature": "[([(Position,Position)],Color)]-\u003ePostscript",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:linesToPS"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "ps1",
+          "package": "Wired",
+          "signature": "Postscript",
+          "source": "src/Layout-Postscript.html#ps1",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "ps1",
+          "package": "Wired",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:ps1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "ps2",
+          "package": "Wired",
+          "signature": "Postscript",
+          "source": "src/Layout-Postscript.html#ps2",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "ps2",
+          "package": "Wired",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:ps2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "ps3",
+          "package": "Wired",
+          "signature": "Postscript",
+          "source": "src/Layout-Postscript.html#ps3",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "ps3",
+          "package": "Wired",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:ps3"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "psShow",
+          "package": "Wired",
+          "signature": "a -\u003e Postscript",
+          "source": "src/Layout-Postscript.html#psShow",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "psShow",
+          "normalized": "a-\u003ePostscript",
+          "package": "Wired",
+          "partial": "Show",
+          "signature": "a-\u003ePostscript",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:psShow"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Layout.Internal\",\"Layout\"]",
+          "name": "red",
+          "package": "Wired",
+          "signature": "Color",
+          "source": "src/Layout-Postscript.html#red",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:red\",\"http://hackage.haskell.org/package/Wired/docs/Layout.html#v:red\"]"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "red",
+          "package": "Wired",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:red"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "renderFloorplan",
+          "package": "Wired",
+          "signature": "Name -\u003e Floorplan s b -\u003e IO ()",
+          "source": "src/Layout-Postscript.html#renderFloorplan",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "renderFloorplan",
+          "normalized": "Name-\u003eFloorplan a b-\u003eIO()",
+          "package": "Wired",
+          "partial": "Floorplan",
+          "signature": "Name-\u003eFloorplan s b-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:renderFloorplan"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "renderFloorplan_",
+          "package": "Wired",
+          "signature": "Length -\u003e Name -\u003e Floorplan s b -\u003e [([(Position, Position)], Color)] -\u003e IO ()",
+          "source": "src/Layout-Postscript.html#renderFloorplan_",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "renderFloorplan_",
+          "normalized": "Length-\u003eName-\u003eFloorplan a b-\u003e[([(Position,Position)],Color)]-\u003eIO()",
+          "package": "Wired",
+          "partial": "Floorplan",
+          "signature": "Length-\u003eName-\u003eFloorplan s b-\u003e[([(Position,Position)],Color)]-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:renderFloorplan_"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Layout.Internal\",\"Layout\"]",
+          "name": "renderLayout",
+          "package": "Wired",
+          "signature": "Name -\u003e Layout s b a -\u003e IO ()",
+          "source": "src/Layout-Internal.html#renderLayout",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:renderLayout\",\"http://hackage.haskell.org/package/Wired/docs/Layout.html#v:renderLayout\"]"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "renderLayout",
+          "normalized": "Name-\u003eLayout a b c-\u003eIO()",
+          "package": "Wired",
+          "partial": "Layout",
+          "signature": "Name-\u003eLayout s b a-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:renderLayout"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Layout.Internal\",\"Layout\"]",
+          "name": "renderLayoutT",
+          "package": "Wired",
+          "signature": "(forall a.  m a -\u003e a) -\u003e Name -\u003e LayoutT s b m a -\u003e IO ()",
+          "source": "src/Layout-Internal.html#renderLayoutT",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:renderLayoutT\",\"http://hackage.haskell.org/package/Wired/docs/Layout.html#v:renderLayoutT\"]"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "renderLayoutT",
+          "normalized": "(a b c d-\u003ed)-\u003eName-\u003eLayoutT e f c d-\u003eIO()",
+          "package": "Wired",
+          "partial": "Layout",
+          "signature": "(forall a. m a-\u003ea)-\u003eName-\u003eLayoutT s b m a-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:renderLayoutT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Layout.Internal\",\"Layout\"]",
+          "name": "rightwards",
+          "package": "Wired",
+          "signature": "m a -\u003e m a",
+          "source": "src/Layout-Internal.html#rightwards",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:rightwards\",\"http://hackage.haskell.org/package/Wired/docs/Layout.html#v:rightwards\"]"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "rightwards",
+          "normalized": "a b-\u003ea b",
+          "package": "Wired",
+          "signature": "m a-\u003em a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:rightwards"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Layout.Internal\",\"Layout\"]",
+          "name": "rightwards'",
+          "package": "Wired",
+          "signature": "m a -\u003e m a",
+          "source": "src/Layout-Internal.html#rightwards%27",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:rightwards-39-\",\"http://hackage.haskell.org/package/Wired/docs/Layout.html#v:rightwards-39-\"]"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "rightwards'",
+          "normalized": "a b-\u003ea b",
+          "package": "Wired",
+          "signature": "m a-\u003em a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:rightwards-39-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Layout.Internal\",\"Layout\"]",
+          "name": "rotate",
+          "package": "Wired",
+          "signature": "Int -\u003e a -\u003e a",
+          "source": "src/Layout-Floorplan.html#rotate",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:rotate\",\"http://hackage.haskell.org/package/Wired/docs/Layout.html#v:rotate\"]"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "rotate",
+          "normalized": "Int-\u003ea-\u003ea",
+          "package": "Wired",
+          "signature": "Int-\u003ea-\u003ea",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:rotate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "rotate_",
+          "package": "Wired",
+          "signature": "Int -\u003e a -\u003e a",
+          "source": "src/Layout-Floorplan.html#rotate_",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "rotate_",
+          "normalized": "Int-\u003ea-\u003ea",
+          "package": "Wired",
+          "signature": "Int-\u003ea-\u003ea",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:rotate_"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "runLayout",
+          "package": "Wired",
+          "signature": "Layout s b a -\u003e (a, Floorplan s b)",
+          "source": "src/Layout-Internal.html#runLayout",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "runLayout",
+          "normalized": "Layout a b c-\u003e(c,Floorplan a b)",
+          "package": "Wired",
+          "partial": "Layout",
+          "signature": "Layout s b a-\u003e(a,Floorplan s b)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:runLayout"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "runLayoutT",
+          "package": "Wired",
+          "signature": "LayoutT s b m a -\u003e m (a, Floorplan s b)",
+          "source": "src/Layout-Internal.html#runLayoutT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "runLayoutT",
+          "normalized": "LayoutT a b c d-\u003ec(d,Floorplan a b)",
+          "package": "Wired",
+          "partial": "Layout",
+          "signature": "LayoutT s b m a-\u003em(a,Floorplan s b)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:runLayoutT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Layout.Internal\",\"Layout\"]",
+          "name": "space",
+          "package": "Wired",
+          "signature": "Length -\u003e a -\u003e m a",
+          "source": "src/Layout-Internal.html#space",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:space\",\"http://hackage.haskell.org/package/Wired/docs/Layout.html#v:space\"]"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "space",
+          "normalized": "Length-\u003ea-\u003eb a",
+          "package": "Wired",
+          "signature": "Length-\u003ea-\u003em a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:space"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "space_",
+          "package": "Wired",
+          "signature": "Length -\u003e Maybe s -\u003e m ()",
+          "source": "src/Layout-Internal.html#space_",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "space_",
+          "normalized": "Length-\u003eMaybe a-\u003eb()",
+          "package": "Wired",
+          "signature": "Length-\u003eMaybe s-\u003em()",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:space_"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Layout.Internal\",\"Layout\"]",
+          "name": "stacked",
+          "package": "Wired",
+          "signature": "m a -\u003e m a",
+          "source": "src/Layout-Internal.html#stacked",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:stacked\",\"http://hackage.haskell.org/package/Wired/docs/Layout.html#v:stacked\"]"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "stacked",
+          "normalized": "a b-\u003ea b",
+          "package": "Wired",
+          "signature": "m a-\u003em a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:stacked"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "subLayout",
+          "package": "Wired",
+          "signature": "Placement -\u003e m a -\u003e m a",
+          "source": "src/Layout-Internal.html#subLayout",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "subLayout",
+          "normalized": "Placement-\u003ea b-\u003ea b",
+          "package": "Wired",
+          "partial": "Layout",
+          "signature": "Placement-\u003em a-\u003em a",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:subLayout"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "transformFloorplan",
+          "package": "Wired",
+          "signature": "(Floorplan s b -\u003e Floorplan s b) -\u003e m a -\u003e m a",
+          "source": "src/Layout-Internal.html#transformFloorplan",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "transformFloorplan",
+          "normalized": "(Floorplan a b-\u003eFloorplan a b)-\u003ec d-\u003ec d",
+          "package": "Wired",
+          "partial": "Floorplan",
+          "signature": "(Floorplan s b-\u003eFloorplan s b)-\u003em a-\u003em a",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:transformFloorplan"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Layout.Internal\",\"Layout\"]",
+          "name": "translate",
+          "package": "Wired",
+          "signature": "XPos -\u003e YPos -\u003e m a -\u003e m a",
+          "source": "src/Layout-Internal.html#translate",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:translate\",\"http://hackage.haskell.org/package/Wired/docs/Layout.html#v:translate\"]"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "translate",
+          "normalized": "XPos-\u003eYPos-\u003ea b-\u003ea b",
+          "package": "Wired",
+          "signature": "XPos-\u003eYPos-\u003em a-\u003em a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:translate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout.Internal",
+          "name": "translateBlocks",
+          "package": "Wired",
+          "signature": "Position -\u003e AbsFloorplan s b -\u003e AbsFloorplan s b",
+          "source": "src/Layout-Floorplan.html#translateBlocks",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "translateBlocks",
+          "normalized": "Position-\u003eAbsFloorplan a b-\u003eAbsFloorplan a b",
+          "package": "Wired",
+          "partial": "Blocks",
+          "signature": "Position-\u003eAbsFloorplan s b-\u003eAbsFloorplan s b",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:translateBlocks"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Layout.Internal\",\"Layout\"]",
+          "name": "unplaced",
+          "package": "Wired",
+          "signature": "m a -\u003e m a",
+          "source": "src/Layout-Internal.html#unplaced",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:unplaced\",\"http://hackage.haskell.org/package/Wired/docs/Layout.html#v:unplaced\"]"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "unplaced",
+          "normalized": "a b-\u003ea b",
+          "package": "Wired",
+          "signature": "m a-\u003em a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:unplaced"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Layout.Internal\",\"Layout\"]",
+          "name": "upwards",
+          "package": "Wired",
+          "signature": "m a -\u003e m a",
+          "source": "src/Layout-Internal.html#upwards",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:upwards\",\"http://hackage.haskell.org/package/Wired/docs/Layout.html#v:upwards\"]"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "upwards",
+          "normalized": "a b-\u003ea b",
+          "package": "Wired",
+          "signature": "m a-\u003em a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:upwards"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Layout.Internal\",\"Layout\"]",
+          "name": "upwards'",
+          "package": "Wired",
+          "signature": "m a -\u003e m a",
+          "source": "src/Layout-Internal.html#upwards%27",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:upwards-39-\",\"http://hackage.haskell.org/package/Wired/docs/Layout.html#v:upwards-39-\"]"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "upwards'",
+          "normalized": "a b-\u003ea b",
+          "package": "Wired",
+          "signature": "m a-\u003em a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:upwards-39-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Layout.Internal\",\"Layout\"]",
+          "name": "white",
+          "package": "Wired",
+          "signature": "Color",
+          "source": "src/Layout-Postscript.html#white",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:white\",\"http://hackage.haskell.org/package/Wired/docs/Layout.html#v:white\"]"
+        },
+        "index": {
+          "hierarchy": "Layout Internal",
+          "module": "Layout.Internal",
+          "name": "white",
+          "package": "Wired",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout-Internal.html#v:white"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout",
+          "name": "Layout",
+          "package": "Wired",
+          "source": "src/Layout.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Layout",
+          "module": "Layout",
+          "name": "Layout",
+          "package": "Wired",
+          "partial": "Layout",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout",
+          "name": "Layout",
+          "package": "Wired",
+          "source": "src/Layout-Internal.html#Layout",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Layout",
+          "module": "Layout",
+          "name": "Layout",
+          "package": "Wired",
+          "partial": "Layout",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#t:Layout"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout",
+          "name": "LayoutT",
+          "package": "Wired",
+          "source": "src/Layout-Internal.html#LayoutT",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Layout",
+          "module": "Layout",
+          "name": "LayoutT",
+          "package": "Wired",
+          "partial": "Layout",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#t:LayoutT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout",
+          "name": "MonadLayout",
+          "package": "Wired",
+          "source": "src/Layout-Internal.html#MonadLayout",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Layout",
+          "module": "Layout",
+          "name": "MonadLayout",
+          "package": "Wired",
+          "partial": "Monad Layout",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#t:MonadLayout"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout",
+          "name": "Transformable",
+          "package": "Wired",
+          "source": "src/Layout-Floorplan.html#Transformable",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Layout",
+          "module": "Layout",
+          "name": "Transformable",
+          "package": "Wired",
+          "partial": "Transformable",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#t:Transformable"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout",
+          "name": "flipX",
+          "package": "Wired",
+          "signature": "a -\u003e a",
+          "source": "src/Layout-Floorplan.html#flipX",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Layout",
+          "module": "Layout",
+          "name": "flipX",
+          "normalized": "a-\u003ea",
+          "package": "Wired",
+          "signature": "a-\u003ea",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#v:flipX"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout",
+          "name": "flipY",
+          "package": "Wired",
+          "signature": "a -\u003e a",
+          "source": "src/Layout-Floorplan.html#flipY",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Layout",
+          "module": "Layout",
+          "name": "flipY",
+          "normalized": "a-\u003ea",
+          "package": "Wired",
+          "signature": "a-\u003ea",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#v:flipY"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Layout",
+          "name": "rotate_",
+          "package": "Wired",
+          "signature": "Int -\u003e a -\u003e a",
+          "source": "src/Layout-Floorplan.html#rotate_",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Layout",
+          "module": "Layout",
+          "name": "rotate_",
+          "normalized": "Int-\u003ea-\u003ea",
+          "package": "Wired",
+          "signature": "Int-\u003ea-\u003ea",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Layout.html#v:rotate_"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cpre\u003e The Open Cell Library is intended for use by universities, other research\n activities, educational programs and Si2.org members.\n However allowed, the Open Cell Library is not intended for commercial use.\n If you use the Open Cell Library for demonstration of commercial EDA tools\n it is required to mention, indicate that the library was developped by\n Nangate.\n\n If you have questions or concerns then please contact us at\n openlibrary@nangate.com\n\n The Open Cell Library is provided by Nangate under the following License:\n\n Nangate Open Cell Library License, Version 1.0. February 20, 2008\n\n Permission is hereby granted, free of charge, to any person or organization\n obtaining a copy of the Open Cell Library and accompanying documentation\n (the \"Library\") covered by this license to use, reproduce, display,\n distribute, execute, and transmit the Library, and to prepare derivative\n works of the Library, and to permit third-parties to whom the Library is\n furnished to do so, all subject to the following:\n\n The copyright notices in the Library and this entire statement, including\n the above license grant, this restriction and the following disclaimer,\n must be included in all copies of the Library, in whole or in part, and all\n derivative works of the Library, unless such copies or derivative works are\n solely in the form of machine-executable object code generated by a source\n language processor. The library has been generated using a non-optimized\n open PDK and is not suited for any commercial purpose. Measuring or\n benchmarking the Library against any other library or standard cell set is\n prohibited. Any meaningful library benchmarking must be done in\n collaboration with Nangate or other providers of optimized and\n production-ready PDKs.\n\n THE LIBRARY IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\n IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\n FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT\n SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE LIBRARY BE LIABLE\n FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE,\n ARISING FROM, OUT OF OR IN CONNECTION WITH THE LIBRARY OR THE USE OR OTHER\n DEALINGS IN THE LIBRARY.\n\u003c/pre\u003e\u003c/div\u003e",
+          "module": "Libs.Nangate45.LICENSE",
+          "name": "LICENSE",
+          "package": "Wired",
+          "source": "src/Libs-Nangate45-LICENSE.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "The Open Cell Library is intended for use by universities other research activities educational programs and Si2.org members However allowed the Open Cell Library is not intended for commercial use If you use the Open Cell Library for demonstration of commercial EDA tools it is required to mention indicate that the library was developped by Nangate If you have questions or concerns then please contact us at openlibrary@nangate.com The Open Cell Library is provided by Nangate under the following License Nangate Open Cell Library License Version February Permission is hereby granted free of charge to any person or organization obtaining copy of the Open Cell Library and accompanying documentation the Library covered by this license to use reproduce display distribute execute and transmit the Library and to prepare derivative works of the Library and to permit third-parties to whom the Library is furnished to do so all subject to the following The copyright notices in the Library and this entire statement including the above license grant this restriction and the following disclaimer must be included in all copies of the Library in whole or in part and all derivative works of the Library unless such copies or derivative works are solely in the form of machine-executable object code generated by source language processor The library has been generated using non-optimized open PDK and is not suited for any commercial purpose Measuring or benchmarking the Library against any other library or standard cell set is prohibited Any meaningful library benchmarking must be done in collaboration with Nangate or other providers of optimized and production-ready PDKs THE LIBRARY IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND EXPRESS OR IMPLIED INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY FITNESS FOR PARTICULAR PURPOSE TITLE AND NON-INFRINGEMENT IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE LIBRARY BE LIABLE FOR ANY DAMAGES OR OTHER LIABILITY WHETHER IN CONTRACT TORT OR OTHERWISE ARISING FROM OUT OF OR IN CONNECTION WITH THE LIBRARY OR THE USE OR OTHER DEALINGS IN THE LIBRARY",
+          "hierarchy": "Libs Nangate45 LICENSE",
+          "module": "Libs.Nangate45.LICENSE",
+          "name": "LICENSE",
+          "package": "Wired",
+          "partial": "LICENSE",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-LICENSE.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eLava interface to the Nangate45 library.\n\u003c/p\u003e\u003cp\u003eThe data in this file is derived from Nangate's Open Cell Library,\n and is subject to the license restrictions stated in\n \u003ca\u003eLibs.Nangate45.LICENSE\u003c/a\u003e.\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "Lava",
+          "package": "Wired",
+          "source": "src/Libs-Nangate45-Lava.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "Lava interface to the Nangate45 library The data in this file is derived from Nangate Open Cell Library and is subject to the license restrictions stated in Libs.Nangate45.LICENSE",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "Lava",
+          "package": "Wired",
+          "partial": "Lava",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Libs.Nangate45.Lava",
+          "name": "Nangate45",
+          "package": "Wired",
+          "source": "src/Libs-Nangate45-Lava.html#Nangate45",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "Nangate45",
+          "package": "Wired",
+          "partial": "Nangate",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#t:Nangate45"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = and [A1, A2]\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "and2_x1",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e m Signal",
+          "source": "src/Libs-Nangate45-Lava.html#and2_x1",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface A1 A2 ZN Function ZN and A1 A2",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "and2_x1",
+          "normalized": "(Signal,Signal)-\u003ea Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003em Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:and2_x1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = and [A1, A2]\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "and2_x2",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e m Signal",
+          "source": "src/Libs-Nangate45-Lava.html#and2_x2",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface A1 A2 ZN Function ZN and A1 A2",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "and2_x2",
+          "normalized": "(Signal,Signal)-\u003ea Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003em Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:and2_x2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = and [A1, A2]\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "and2_x4",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e m Signal",
+          "source": "src/Libs-Nangate45-Lava.html#and2_x4",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface A1 A2 ZN Function ZN and A1 A2",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "and2_x4",
+          "normalized": "(Signal,Signal)-\u003ea Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003em Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:and2_x4"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = A\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "buf_x1",
+          "package": "Wired",
+          "signature": "Signal -\u003e m Signal",
+          "source": "src/Libs-Nangate45-Lava.html#buf_x1",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface Function",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "buf_x1",
+          "normalized": "Signal-\u003ea Signal",
+          "package": "Wired",
+          "signature": "Signal-\u003em Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:buf_x1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = A\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "buf_x16",
+          "package": "Wired",
+          "signature": "Signal -\u003e m Signal",
+          "source": "src/Libs-Nangate45-Lava.html#buf_x16",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface Function",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "buf_x16",
+          "normalized": "Signal-\u003ea Signal",
+          "package": "Wired",
+          "signature": "Signal-\u003em Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:buf_x16"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = A\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "buf_x2",
+          "package": "Wired",
+          "signature": "Signal -\u003e m Signal",
+          "source": "src/Libs-Nangate45-Lava.html#buf_x2",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface Function",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "buf_x2",
+          "normalized": "Signal-\u003ea Signal",
+          "package": "Wired",
+          "signature": "Signal-\u003em Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:buf_x2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = A\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "buf_x32",
+          "package": "Wired",
+          "signature": "Signal -\u003e m Signal",
+          "source": "src/Libs-Nangate45-Lava.html#buf_x32",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface Function",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "buf_x32",
+          "normalized": "Signal-\u003ea Signal",
+          "package": "Wired",
+          "signature": "Signal-\u003em Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:buf_x32"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = A\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "buf_x4",
+          "package": "Wired",
+          "signature": "Signal -\u003e m Signal",
+          "source": "src/Libs-Nangate45-Lava.html#buf_x4",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface Function",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "buf_x4",
+          "normalized": "Signal-\u003ea Signal",
+          "package": "Wired",
+          "signature": "Signal-\u003em Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:buf_x4"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = A\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "buf_x8",
+          "package": "Wired",
+          "signature": "Signal -\u003e m Signal",
+          "source": "src/Libs-Nangate45-Lava.html#buf_x8",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface Function",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "buf_x8",
+          "normalized": "Signal-\u003ea Signal",
+          "package": "Wired",
+          "signature": "Signal-\u003em Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:buf_x8"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (CI, (A, B)) -\u003e (S, CO)\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    S = or [and [or [and [A, B'], and [A', B]], CI'], and [(or [and [A, B'], and [A', B]])', CI]]\n    CO = or [and [A, B], and [A, CI], and [B, CI]]\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "fa_x1",
+          "package": "Wired",
+          "signature": "(Signal, (Signal, Signal)) -\u003e m (Signal, Signal)",
+          "source": "src/Libs-Nangate45-Lava.html#fa_x1",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface CI CO Function or and or and and CI and or and and CI CO or and and CI and CI",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "fa_x1",
+          "normalized": "(Signal,(Signal,Signal))-\u003ea(Signal,Signal)",
+          "package": "Wired",
+          "signature": "(Signal,(Signal,Signal))-\u003em(Signal,Signal)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:fa_x1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Libs.Nangate45.Lava",
+          "name": "fillcell_x1",
+          "package": "Wired",
+          "signature": "a -\u003e m a",
+          "source": "src/Libs-Nangate45-Lava.html#fillcell_x1",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "fillcell_x1",
+          "normalized": "a-\u003eb a",
+          "package": "Wired",
+          "signature": "a-\u003em a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:fillcell_x1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Libs.Nangate45.Lava",
+          "name": "fillcell_x16",
+          "package": "Wired",
+          "signature": "a -\u003e m a",
+          "source": "src/Libs-Nangate45-Lava.html#fillcell_x16",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "fillcell_x16",
+          "normalized": "a-\u003eb a",
+          "package": "Wired",
+          "signature": "a-\u003em a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:fillcell_x16"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Libs.Nangate45.Lava",
+          "name": "fillcell_x2",
+          "package": "Wired",
+          "signature": "a -\u003e m a",
+          "source": "src/Libs-Nangate45-Lava.html#fillcell_x2",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "fillcell_x2",
+          "normalized": "a-\u003eb a",
+          "package": "Wired",
+          "signature": "a-\u003em a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:fillcell_x2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Libs.Nangate45.Lava",
+          "name": "fillcell_x32",
+          "package": "Wired",
+          "signature": "a -\u003e m a",
+          "source": "src/Libs-Nangate45-Lava.html#fillcell_x32",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "fillcell_x32",
+          "normalized": "a-\u003eb a",
+          "package": "Wired",
+          "signature": "a-\u003em a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:fillcell_x32"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Libs.Nangate45.Lava",
+          "name": "fillcell_x4",
+          "package": "Wired",
+          "signature": "a -\u003e m a",
+          "source": "src/Libs-Nangate45-Lava.html#fillcell_x4",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "fillcell_x4",
+          "normalized": "a-\u003eb a",
+          "package": "Wired",
+          "signature": "a-\u003em a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:fillcell_x4"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Libs.Nangate45.Lava",
+          "name": "fillcell_x8",
+          "package": "Wired",
+          "signature": "a -\u003e m a",
+          "source": "src/Libs-Nangate45-Lava.html#fillcell_x8",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "fillcell_x8",
+          "normalized": "a-\u003eb a",
+          "package": "Wired",
+          "signature": "a-\u003em a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:fillcell_x8"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A, B) -\u003e (S, CO)\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    S = or [and [A, B'], and [A', B]]\n    CO = and [A, B]\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "ha_x1",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e m (Signal, Signal)",
+          "source": "src/Libs-Nangate45-Lava.html#ha_x1",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface CO Function or and and CO and",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "ha_x1",
+          "normalized": "(Signal,Signal)-\u003ea(Signal,Signal)",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003em(Signal,Signal)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:ha_x1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = A'\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "inv_x1",
+          "package": "Wired",
+          "signature": "Signal -\u003e m Signal",
+          "source": "src/Libs-Nangate45-Lava.html#inv_x1",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface ZN Function ZN",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "inv_x1",
+          "normalized": "Signal-\u003ea Signal",
+          "package": "Wired",
+          "signature": "Signal-\u003em Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:inv_x1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = A'\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "inv_x16",
+          "package": "Wired",
+          "signature": "Signal -\u003e m Signal",
+          "source": "src/Libs-Nangate45-Lava.html#inv_x16",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface ZN Function ZN",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "inv_x16",
+          "normalized": "Signal-\u003ea Signal",
+          "package": "Wired",
+          "signature": "Signal-\u003em Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:inv_x16"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = A'\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "inv_x2",
+          "package": "Wired",
+          "signature": "Signal -\u003e m Signal",
+          "source": "src/Libs-Nangate45-Lava.html#inv_x2",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface ZN Function ZN",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "inv_x2",
+          "normalized": "Signal-\u003ea Signal",
+          "package": "Wired",
+          "signature": "Signal-\u003em Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:inv_x2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = A'\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "inv_x32",
+          "package": "Wired",
+          "signature": "Signal -\u003e m Signal",
+          "source": "src/Libs-Nangate45-Lava.html#inv_x32",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface ZN Function ZN",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "inv_x32",
+          "normalized": "Signal-\u003ea Signal",
+          "package": "Wired",
+          "signature": "Signal-\u003em Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:inv_x32"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = A'\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "inv_x4",
+          "package": "Wired",
+          "signature": "Signal -\u003e m Signal",
+          "source": "src/Libs-Nangate45-Lava.html#inv_x4",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface ZN Function ZN",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "inv_x4",
+          "normalized": "Signal-\u003ea Signal",
+          "package": "Wired",
+          "signature": "Signal-\u003em Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:inv_x4"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = A'\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "inv_x8",
+          "package": "Wired",
+          "signature": "Signal -\u003e m Signal",
+          "source": "src/Libs-Nangate45-Lava.html#inv_x8",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface ZN Function ZN",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "inv_x8",
+          "normalized": "Signal-\u003ea Signal",
+          "package": "Wired",
+          "signature": "Signal-\u003em Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:inv_x8"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = 0\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "logic0_x1",
+          "package": "Wired",
+          "signature": "m Signal",
+          "source": "src/Libs-Nangate45-Lava.html#logic0_x1",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface Function",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "logic0_x1",
+          "package": "Wired",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:logic0_x1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = 1\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "logic1_x1",
+          "package": "Wired",
+          "signature": "m Signal",
+          "source": "src/Libs-Nangate45-Lava.html#logic1_x1",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface Function",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "logic1_x1",
+          "package": "Wired",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:logic1_x1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (and [A1, A2])'\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "nand2_x1",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e m Signal",
+          "source": "src/Libs-Nangate45-Lava.html#nand2_x1",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface A1 A2 ZN Function ZN and A1 A2",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "nand2_x1",
+          "normalized": "(Signal,Signal)-\u003ea Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003em Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:nand2_x1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (and [A1, A2])'\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "nand2_x2",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e m Signal",
+          "source": "src/Libs-Nangate45-Lava.html#nand2_x2",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface A1 A2 ZN Function ZN and A1 A2",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "nand2_x2",
+          "normalized": "(Signal,Signal)-\u003ea Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003em Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:nand2_x2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (and [A1, A2])'\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "nand2_x4",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e m Signal",
+          "source": "src/Libs-Nangate45-Lava.html#nand2_x4",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface A1 A2 ZN Function ZN and A1 A2",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "nand2_x4",
+          "normalized": "(Signal,Signal)-\u003ea Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003em Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:nand2_x4"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (or [A1, A2])'\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "nor2_x1",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e m Signal",
+          "source": "src/Libs-Nangate45-Lava.html#nor2_x1",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface A1 A2 ZN Function ZN or A1 A2",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "nor2_x1",
+          "normalized": "(Signal,Signal)-\u003ea Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003em Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:nor2_x1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (or [A1, A2])'\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "nor2_x2",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e m Signal",
+          "source": "src/Libs-Nangate45-Lava.html#nor2_x2",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface A1 A2 ZN Function ZN or A1 A2",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "nor2_x2",
+          "normalized": "(Signal,Signal)-\u003ea Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003em Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:nor2_x2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (or [A1, A2])'\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "nor2_x4",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e m Signal",
+          "source": "src/Libs-Nangate45-Lava.html#nor2_x4",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface A1 A2 ZN Function ZN or A1 A2",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "nor2_x4",
+          "normalized": "(Signal,Signal)-\u003ea Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003em Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:nor2_x4"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = or [A1, A2]\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "or2_x1",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e m Signal",
+          "source": "src/Libs-Nangate45-Lava.html#or2_x1",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface A1 A2 ZN Function ZN or A1 A2",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "or2_x1",
+          "normalized": "(Signal,Signal)-\u003ea Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003em Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:or2_x1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = or [A1, A2]\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "or2_x2",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e m Signal",
+          "source": "src/Libs-Nangate45-Lava.html#or2_x2",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface A1 A2 ZN Function ZN or A1 A2",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "or2_x2",
+          "normalized": "(Signal,Signal)-\u003ea Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003em Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:or2_x2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = or [A1, A2]\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "or2_x4",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e m Signal",
+          "source": "src/Libs-Nangate45-Lava.html#or2_x4",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface A1 A2 ZN Function ZN or A1 A2",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "or2_x4",
+          "normalized": "(Signal,Signal)-\u003ea Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003em Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:or2_x4"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A, B) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (or [and [A, B'], and [A', B]])'\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "xnor2_x1",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e m Signal",
+          "source": "src/Libs-Nangate45-Lava.html#xnor2_x1",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface ZN Function ZN or and and",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "xnor2_x1",
+          "normalized": "(Signal,Signal)-\u003ea Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003em Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:xnor2_x1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A, B) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (or [and [A, B'], and [A', B]])'\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "xnor2_x2",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e m Signal",
+          "source": "src/Libs-Nangate45-Lava.html#xnor2_x2",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface ZN Function ZN or and and",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "xnor2_x2",
+          "normalized": "(Signal,Signal)-\u003ea Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003em Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:xnor2_x2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A, B) -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = or [and [A, B'], and [A', B]]\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "xor2_x1",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e m Signal",
+          "source": "src/Libs-Nangate45-Lava.html#xor2_x1",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface Function or and and",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "xor2_x1",
+          "normalized": "(Signal,Signal)-\u003ea Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003em Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:xor2_x1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A, B) -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = or [and [A, B'], and [A', B]]\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Lava",
+          "name": "xor2_x2",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e m Signal",
+          "source": "src/Libs-Nangate45-Lava.html#xor2_x2",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface Function or and and",
+          "hierarchy": "Libs Nangate45 Lava",
+          "module": "Libs.Nangate45.Lava",
+          "name": "xor2_x2",
+          "normalized": "(Signal,Signal)-\u003ea Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003em Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Lava.html#v:xor2_x2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eWired interface to the Nangate45 library.\n\u003c/p\u003e\u003cp\u003eThe data in this file is derived from Nangate's Open Cell Library,\n and is subject to the license restrictions stated in\n \u003ca\u003eLibs.Nangate45.LICENSE\u003c/a\u003e.\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "Wired",
+          "package": "Wired",
+          "source": "src/Libs-Nangate45-Wired.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "Wired interface to the Nangate45 library The data in this file is derived from Nangate Open Cell Library and is subject to the license restrictions stated in Libs.Nangate45.LICENSE",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "Wired",
+          "package": "Wired",
+          "partial": "Wired",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Libs.Nangate45.Wired",
+          "name": "Nangate45",
+          "package": "Wired",
+          "source": "src/Libs-Nangate45-Lava.html#Nangate45",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "Nangate45",
+          "package": "Wired",
+          "partial": "Nangate",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#t:Nangate45"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = and [A1, A2]\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "and2_x1",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
+          "source": "src/Libs-Nangate45-Wired.html#and2_x1",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface A1 A2 ZN Function ZN and A1 A2",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "and2_x1",
+          "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:and2_x1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = and [A1, A2]\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "and2_x2",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
+          "source": "src/Libs-Nangate45-Wired.html#and2_x2",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface A1 A2 ZN Function ZN and A1 A2",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "and2_x2",
+          "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:and2_x2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = and [A1, A2]\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "and2_x4",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
+          "source": "src/Libs-Nangate45-Wired.html#and2_x4",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface A1 A2 ZN Function ZN and A1 A2",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "and2_x4",
+          "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:and2_x4"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = A\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "buf_x1",
+          "package": "Wired",
+          "signature": "Signal -\u003e Wired Nangate45 Signal",
+          "source": "src/Libs-Nangate45-Wired.html#buf_x1",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface Function",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "buf_x1",
+          "normalized": "Signal-\u003eWired Nangate Signal",
+          "package": "Wired",
+          "signature": "Signal-\u003eWired Nangate Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:buf_x1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = A\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "buf_x16",
+          "package": "Wired",
+          "signature": "Signal -\u003e Wired Nangate45 Signal",
+          "source": "src/Libs-Nangate45-Wired.html#buf_x16",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface Function",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "buf_x16",
+          "normalized": "Signal-\u003eWired Nangate Signal",
+          "package": "Wired",
+          "signature": "Signal-\u003eWired Nangate Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:buf_x16"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = A\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "buf_x2",
+          "package": "Wired",
+          "signature": "Signal -\u003e Wired Nangate45 Signal",
+          "source": "src/Libs-Nangate45-Wired.html#buf_x2",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface Function",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "buf_x2",
+          "normalized": "Signal-\u003eWired Nangate Signal",
+          "package": "Wired",
+          "signature": "Signal-\u003eWired Nangate Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:buf_x2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = A\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "buf_x32",
+          "package": "Wired",
+          "signature": "Signal -\u003e Wired Nangate45 Signal",
+          "source": "src/Libs-Nangate45-Wired.html#buf_x32",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface Function",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "buf_x32",
+          "normalized": "Signal-\u003eWired Nangate Signal",
+          "package": "Wired",
+          "signature": "Signal-\u003eWired Nangate Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:buf_x32"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = A\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "buf_x4",
+          "package": "Wired",
+          "signature": "Signal -\u003e Wired Nangate45 Signal",
+          "source": "src/Libs-Nangate45-Wired.html#buf_x4",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface Function",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "buf_x4",
+          "normalized": "Signal-\u003eWired Nangate Signal",
+          "package": "Wired",
+          "signature": "Signal-\u003eWired Nangate Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:buf_x4"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = A\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "buf_x8",
+          "package": "Wired",
+          "signature": "Signal -\u003e Wired Nangate45 Signal",
+          "source": "src/Libs-Nangate45-Wired.html#buf_x8",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface Function",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "buf_x8",
+          "normalized": "Signal-\u003eWired Nangate Signal",
+          "package": "Wired",
+          "signature": "Signal-\u003eWired Nangate Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:buf_x8"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (CI, (A, B)) -\u003e (S, CO)\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    S = or [and [or [and [A, B'], and [A', B]], CI'], and [(or [and [A, B'], and [A', B]])', CI]]\n    CO = or [and [A, B], and [A, CI], and [B, CI]]\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "fa_x1",
+          "package": "Wired",
+          "signature": "(Signal, (Signal, Signal)) -\u003e Wired Nangate45 (Signal, Signal)",
+          "source": "src/Libs-Nangate45-Wired.html#fa_x1",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface CI CO Function or and or and and CI and or and and CI CO or and and CI and CI",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "fa_x1",
+          "normalized": "(Signal,(Signal,Signal))-\u003eWired Nangate(Signal,Signal)",
+          "package": "Wired",
+          "signature": "(Signal,(Signal,Signal))-\u003eWired Nangate(Signal,Signal)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:fa_x1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Libs.Nangate45.Wired",
+          "name": "fillcell_x1",
+          "package": "Wired",
+          "signature": "a -\u003e Wired Nangate45 a",
+          "source": "src/Libs-Nangate45-Wired.html#fillcell_x1",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "fillcell_x1",
+          "normalized": "a-\u003eWired Nangate a",
+          "package": "Wired",
+          "signature": "a-\u003eWired Nangate a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:fillcell_x1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Libs.Nangate45.Wired",
+          "name": "fillcell_x16",
+          "package": "Wired",
+          "signature": "a -\u003e Wired Nangate45 a",
+          "source": "src/Libs-Nangate45-Wired.html#fillcell_x16",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "fillcell_x16",
+          "normalized": "a-\u003eWired Nangate a",
+          "package": "Wired",
+          "signature": "a-\u003eWired Nangate a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:fillcell_x16"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Libs.Nangate45.Wired",
+          "name": "fillcell_x2",
+          "package": "Wired",
+          "signature": "a -\u003e Wired Nangate45 a",
+          "source": "src/Libs-Nangate45-Wired.html#fillcell_x2",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "fillcell_x2",
+          "normalized": "a-\u003eWired Nangate a",
+          "package": "Wired",
+          "signature": "a-\u003eWired Nangate a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:fillcell_x2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Libs.Nangate45.Wired",
+          "name": "fillcell_x32",
+          "package": "Wired",
+          "signature": "a -\u003e Wired Nangate45 a",
+          "source": "src/Libs-Nangate45-Wired.html#fillcell_x32",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "fillcell_x32",
+          "normalized": "a-\u003eWired Nangate a",
+          "package": "Wired",
+          "signature": "a-\u003eWired Nangate a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:fillcell_x32"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Libs.Nangate45.Wired",
+          "name": "fillcell_x4",
+          "package": "Wired",
+          "signature": "a -\u003e Wired Nangate45 a",
+          "source": "src/Libs-Nangate45-Wired.html#fillcell_x4",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "fillcell_x4",
+          "normalized": "a-\u003eWired Nangate a",
+          "package": "Wired",
+          "signature": "a-\u003eWired Nangate a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:fillcell_x4"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Libs.Nangate45.Wired",
+          "name": "fillcell_x8",
+          "package": "Wired",
+          "signature": "a -\u003e Wired Nangate45 a",
+          "source": "src/Libs-Nangate45-Wired.html#fillcell_x8",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "fillcell_x8",
+          "normalized": "a-\u003eWired Nangate a",
+          "package": "Wired",
+          "signature": "a-\u003eWired Nangate a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:fillcell_x8"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A, B) -\u003e (S, CO)\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    S = or [and [A, B'], and [A', B]]\n    CO = and [A, B]\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "ha_x1",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e Wired Nangate45 (Signal, Signal)",
+          "source": "src/Libs-Nangate45-Wired.html#ha_x1",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface CO Function or and and CO and",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "ha_x1",
+          "normalized": "(Signal,Signal)-\u003eWired Nangate(Signal,Signal)",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003eWired Nangate(Signal,Signal)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:ha_x1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = A'\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "inv_x1",
+          "package": "Wired",
+          "signature": "Signal -\u003e Wired Nangate45 Signal",
+          "source": "src/Libs-Nangate45-Wired.html#inv_x1",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface ZN Function ZN",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "inv_x1",
+          "normalized": "Signal-\u003eWired Nangate Signal",
+          "package": "Wired",
+          "signature": "Signal-\u003eWired Nangate Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:inv_x1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = A'\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "inv_x16",
+          "package": "Wired",
+          "signature": "Signal -\u003e Wired Nangate45 Signal",
+          "source": "src/Libs-Nangate45-Wired.html#inv_x16",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface ZN Function ZN",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "inv_x16",
+          "normalized": "Signal-\u003eWired Nangate Signal",
+          "package": "Wired",
+          "signature": "Signal-\u003eWired Nangate Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:inv_x16"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = A'\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "inv_x2",
+          "package": "Wired",
+          "signature": "Signal -\u003e Wired Nangate45 Signal",
+          "source": "src/Libs-Nangate45-Wired.html#inv_x2",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface ZN Function ZN",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "inv_x2",
+          "normalized": "Signal-\u003eWired Nangate Signal",
+          "package": "Wired",
+          "signature": "Signal-\u003eWired Nangate Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:inv_x2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = A'\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "inv_x32",
+          "package": "Wired",
+          "signature": "Signal -\u003e Wired Nangate45 Signal",
+          "source": "src/Libs-Nangate45-Wired.html#inv_x32",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface ZN Function ZN",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "inv_x32",
+          "normalized": "Signal-\u003eWired Nangate Signal",
+          "package": "Wired",
+          "signature": "Signal-\u003eWired Nangate Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:inv_x32"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = A'\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "inv_x4",
+          "package": "Wired",
+          "signature": "Signal -\u003e Wired Nangate45 Signal",
+          "source": "src/Libs-Nangate45-Wired.html#inv_x4",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface ZN Function ZN",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "inv_x4",
+          "normalized": "Signal-\u003eWired Nangate Signal",
+          "package": "Wired",
+          "signature": "Signal-\u003eWired Nangate Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:inv_x4"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    A -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = A'\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "inv_x8",
+          "package": "Wired",
+          "signature": "Signal -\u003e Wired Nangate45 Signal",
+          "source": "src/Libs-Nangate45-Wired.html#inv_x8",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface ZN Function ZN",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "inv_x8",
+          "normalized": "Signal-\u003eWired Nangate Signal",
+          "package": "Wired",
+          "signature": "Signal-\u003eWired Nangate Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:inv_x8"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = 0\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "logic0_x1",
+          "package": "Wired",
+          "signature": "Wired Nangate45 Signal",
+          "source": "src/Libs-Nangate45-Wired.html#logic0_x1",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface Function",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "logic0_x1",
+          "package": "Wired",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:logic0_x1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = 1\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "logic1_x1",
+          "package": "Wired",
+          "signature": "Wired Nangate45 Signal",
+          "source": "src/Libs-Nangate45-Wired.html#logic1_x1",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface Function",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "logic1_x1",
+          "package": "Wired",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:logic1_x1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (and [A1, A2])'\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "nand2_x1",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
+          "source": "src/Libs-Nangate45-Wired.html#nand2_x1",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface A1 A2 ZN Function ZN and A1 A2",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "nand2_x1",
+          "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:nand2_x1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (and [A1, A2])'\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "nand2_x2",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
+          "source": "src/Libs-Nangate45-Wired.html#nand2_x2",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface A1 A2 ZN Function ZN and A1 A2",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "nand2_x2",
+          "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:nand2_x2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (and [A1, A2])'\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "nand2_x4",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
+          "source": "src/Libs-Nangate45-Wired.html#nand2_x4",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface A1 A2 ZN Function ZN and A1 A2",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "nand2_x4",
+          "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:nand2_x4"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (or [A1, A2])'\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "nor2_x1",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
+          "source": "src/Libs-Nangate45-Wired.html#nor2_x1",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface A1 A2 ZN Function ZN or A1 A2",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "nor2_x1",
+          "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:nor2_x1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (or [A1, A2])'\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "nor2_x2",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
+          "source": "src/Libs-Nangate45-Wired.html#nor2_x2",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface A1 A2 ZN Function ZN or A1 A2",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "nor2_x2",
+          "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:nor2_x2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (or [A1, A2])'\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "nor2_x4",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
+          "source": "src/Libs-Nangate45-Wired.html#nor2_x4",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface A1 A2 ZN Function ZN or A1 A2",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "nor2_x4",
+          "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:nor2_x4"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = or [A1, A2]\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "or2_x1",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
+          "source": "src/Libs-Nangate45-Wired.html#or2_x1",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface A1 A2 ZN Function ZN or A1 A2",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "or2_x1",
+          "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:or2_x1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = or [A1, A2]\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "or2_x2",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
+          "source": "src/Libs-Nangate45-Wired.html#or2_x2",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface A1 A2 ZN Function ZN or A1 A2",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "or2_x2",
+          "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:or2_x2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A1, A2) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = or [A1, A2]\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "or2_x4",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
+          "source": "src/Libs-Nangate45-Wired.html#or2_x4",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface A1 A2 ZN Function ZN or A1 A2",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "or2_x4",
+          "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:or2_x4"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A, B) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (or [and [A, B'], and [A', B]])'\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "xnor2_x1",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
+          "source": "src/Libs-Nangate45-Wired.html#xnor2_x1",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface ZN Function ZN or and and",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "xnor2_x1",
+          "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:xnor2_x1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A, B) -\u003e ZN\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    ZN = (or [and [A, B'], and [A', B]])'\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "xnor2_x2",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
+          "source": "src/Libs-Nangate45-Wired.html#xnor2_x2",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface ZN Function ZN or and and",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "xnor2_x2",
+          "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:xnor2_x2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A, B) -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = or [and [A, B'], and [A', B]]\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "xor2_x1",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
+          "source": "src/Libs-Nangate45-Wired.html#xor2_x1",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface Function or and and",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "xor2_x1",
+          "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:xor2_x1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterface:\n\u003c/p\u003e\u003cpre\u003e    (A, B) -\u003e Z\n\u003c/pre\u003e\u003cp\u003eFunction:\n\u003c/p\u003e\u003cpre\u003e    Z = or [and [A, B'], and [A', B]]\n\u003c/pre\u003e",
+          "module": "Libs.Nangate45.Wired",
+          "name": "xor2_x2",
+          "package": "Wired",
+          "signature": "(Signal, Signal) -\u003e Wired Nangate45 Signal",
+          "source": "src/Libs-Nangate45-Wired.html#xor2_x2",
+          "type": "function"
+        },
+        "index": {
+          "description": "Interface Function or and and",
+          "hierarchy": "Libs Nangate45 Wired",
+          "module": "Libs.Nangate45.Wired",
+          "name": "xor2_x2",
+          "normalized": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "package": "Wired",
+          "signature": "(Signal,Signal)-\u003eWired Nangate Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Libs-Nangate45-Wired.html#v:xor2_x2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Wired.Model",
+          "name": "Model",
+          "package": "Wired",
+          "source": "src/Wired-Model.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Wired Model",
+          "module": "Wired.Model",
+          "name": "Model",
+          "package": "Wired",
+          "partial": "Model",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Wired.Model",
+          "name": "Guide",
+          "package": "Wired",
+          "source": "src/Wired-Model.html#Guide",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Wired Model",
+          "module": "Wired.Model",
+          "name": "Guide",
+          "package": "Wired",
+          "partial": "Guide",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#t:Guide"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Wired.Model",
+          "name": "MonadWired",
+          "package": "Wired",
+          "source": "src/Wired-Model.html#MonadWired",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Wired Model",
+          "module": "Wired.Model",
+          "name": "MonadWired",
+          "package": "Wired",
+          "partial": "Monad Wired",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#t:MonadWired"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Wired.Model",
+          "name": "Wired",
+          "package": "Wired",
+          "source": "src/Wired-Model.html#Wired",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Wired Model",
+          "module": "Wired.Model",
+          "name": "Wired",
+          "package": "Wired",
+          "partial": "Wired",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#t:Wired"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Wired.Model",
+          "name": "WiredLibrary",
+          "package": "Wired",
+          "source": "src/Wired-Model.html#WiredLibrary",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Wired Model",
+          "module": "Wired.Model",
+          "name": "WiredLibrary",
+          "package": "Wired",
+          "partial": "Wired Library",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#t:WiredLibrary"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Wired.Model",
+          "name": "convertGuide",
+          "package": "Wired",
+          "signature": "(Position, AbsBlock Guide CellId) -\u003e (Signal, (Layer_, Position, Position))",
+          "source": "src/Wired-Model.html#convertGuide",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Wired Model",
+          "module": "Wired.Model",
+          "name": "convertGuide",
+          "normalized": "(Position,AbsBlock Guide CellId)-\u003e(Signal,(Layer_,Position,Position))",
+          "package": "Wired",
+          "partial": "Guide",
+          "signature": "(Position,AbsBlock Guide CellId)-\u003e(Signal,(Layer_,Position,Position))",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:convertGuide"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Wired.Model",
+          "name": "featureSize",
+          "package": "Wired",
+          "signature": "Res lib Length",
+          "source": "src/Wired-Model.html#featureSize",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Wired Model",
+          "module": "Wired.Model",
+          "name": "featureSize",
+          "package": "Wired",
+          "partial": "Size",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:featureSize"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Wired.Model",
+          "name": "fpToLines",
+          "package": "Wired",
+          "signature": "(Signal -\u003e Maybe Color) -\u003e Floorplan Guide CellId -\u003e [([(Position, Position)], Color)]",
+          "source": "src/Wired-Model.html#fpToLines",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Wired Model",
+          "module": "Wired.Model",
+          "name": "fpToLines",
+          "normalized": "(Signal-\u003eMaybe Color)-\u003eFloorplan Guide CellId-\u003e[([(Position,Position)],Color)]",
+          "package": "Wired",
+          "partial": "To Lines",
+          "signature": "(Signal-\u003eMaybe Color)-\u003eFloorplan Guide CellId-\u003e[([(Position,Position)],Color)]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:fpToLines"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Wired.Model\",\"Wired\"]",
+          "name": "guide",
+          "package": "Wired",
+          "signature": "Layer -\u003e Width -\u003e p -\u003e m p",
+          "source": "src/Wired-Model.html#guide",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:guide\",\"http://hackage.haskell.org/package/Wired/docs/Wired.html#v:guide\"]"
+        },
+        "index": {
+          "hierarchy": "Wired Model",
+          "module": "Wired.Model",
+          "name": "guide",
+          "normalized": "Layer-\u003eWidth-\u003ea-\u003eb a",
+          "package": "Wired",
+          "signature": "Layer-\u003eWidth-\u003ep-\u003em p",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:guide"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Wired.Model\",\"Wired\"]",
+          "name": "guideE",
+          "package": "Wired",
+          "signature": "Layer -\u003e Width -\u003e p -\u003e m p",
+          "source": "src/Wired-Model.html#guideE",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:guideE\",\"http://hackage.haskell.org/package/Wired/docs/Wired.html#v:guideE\"]"
+        },
+        "index": {
+          "hierarchy": "Wired Model",
+          "module": "Wired.Model",
+          "name": "guideE",
+          "normalized": "Layer-\u003eWidth-\u003ea-\u003eb a",
+          "package": "Wired",
+          "signature": "Layer-\u003eWidth-\u003ep-\u003em p",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:guideE"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Wired.Model",
+          "name": "guideLength",
+          "package": "Wired",
+          "signature": "Layer -\u003e Res lib Length",
+          "source": "src/Wired-Model.html#guideLength",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Wired Model",
+          "module": "Wired.Model",
+          "name": "guideLength",
+          "normalized": "Layer-\u003eRes a Length",
+          "package": "Wired",
+          "partial": "Length",
+          "signature": "Layer-\u003eRes lib Length",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:guideLength"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Wired.Model\",\"Wired\"]",
+          "name": "guideN",
+          "package": "Wired",
+          "signature": "Layer -\u003e Width -\u003e p -\u003e m p",
+          "source": "src/Wired-Model.html#guideN",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:guideN\",\"http://hackage.haskell.org/package/Wired/docs/Wired.html#v:guideN\"]"
+        },
+        "index": {
+          "hierarchy": "Wired Model",
+          "module": "Wired.Model",
+          "name": "guideN",
+          "normalized": "Layer-\u003eWidth-\u003ea-\u003eb a",
+          "package": "Wired",
+          "signature": "Layer-\u003eWidth-\u003ep-\u003em p",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:guideN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Wired.Model\",\"Wired\"]",
+          "name": "guideS",
+          "package": "Wired",
+          "signature": "Layer -\u003e Width -\u003e p -\u003e m p",
+          "source": "src/Wired-Model.html#guideS",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:guideS\",\"http://hackage.haskell.org/package/Wired/docs/Wired.html#v:guideS\"]"
+        },
+        "index": {
+          "hierarchy": "Wired Model",
+          "module": "Wired.Model",
+          "name": "guideS",
+          "normalized": "Layer-\u003eWidth-\u003ea-\u003eb a",
+          "package": "Wired",
+          "signature": "Layer-\u003eWidth-\u003ep-\u003em p",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:guideS"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Wired.Model\",\"Wired\"]",
+          "name": "guideW",
+          "package": "Wired",
+          "signature": "Layer -\u003e Width -\u003e p -\u003e m p",
+          "source": "src/Wired-Model.html#guideW",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:guideW\",\"http://hackage.haskell.org/package/Wired/docs/Wired.html#v:guideW\"]"
+        },
+        "index": {
+          "hierarchy": "Wired Model",
+          "module": "Wired.Model",
+          "name": "guideW",
+          "normalized": "Layer-\u003eWidth-\u003ea-\u003eb a",
+          "package": "Wired",
+          "signature": "Layer-\u003eWidth-\u003ep-\u003em p",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:guideW"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Wired.Model",
+          "name": "guide_",
+          "package": "Wired",
+          "signature": "Direction -\u003e Layer -\u003e Width -\u003e p -\u003e m p",
+          "source": "src/Wired-Model.html#guide_",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Wired Model",
+          "module": "Wired.Model",
+          "name": "guide_",
+          "normalized": "Direction-\u003eLayer-\u003eWidth-\u003ea-\u003eb a",
+          "package": "Wired",
+          "signature": "Direction-\u003eLayer-\u003eWidth-\u003ep-\u003em p",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:guide_"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Wired.Model",
+          "name": "guide__",
+          "package": "Wired",
+          "signature": "Direction -\u003e Layer_ -\u003e Width -\u003e p -\u003e m p",
+          "source": "src/Wired-Model.html#guide__",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Wired Model",
+          "module": "Wired.Model",
+          "name": "guide__",
+          "normalized": "Direction-\u003eLayer_-\u003eWidth-\u003ea-\u003eb a",
+          "package": "Wired",
+          "signature": "Direction-\u003eLayer_-\u003eWidth-\u003ep-\u003em p",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:guide__"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eTo be used when direction doesn't matter (e.g. when \u003ccode\u003eguideLength = 0\u003c/code\u003e).\n\u003c/p\u003e",
+          "module": "Wired.Model",
+          "name": "mkCell",
+          "package": "Wired",
+          "signature": "Name -\u003e Width -\u003e Height -\u003e m a -\u003e m a",
+          "source": "src/Wired-Model.html#mkCell",
+          "type": "function"
+        },
+        "index": {
+          "description": "To be used when direction doesn matter e.g when guideLength",
+          "hierarchy": "Wired Model",
+          "module": "Wired.Model",
+          "name": "mkCell",
+          "normalized": "Name-\u003eWidth-\u003eHeight-\u003ea b-\u003ea b",
+          "package": "Wired",
+          "partial": "Cell",
+          "signature": "Name-\u003eWidth-\u003eHeight-\u003em a-\u003em a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:mkCell"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Wired.Model",
+          "name": "mkGuideDB",
+          "package": "Wired",
+          "signature": "Floorplan Guide CellId -\u003e Map Signal [(Layer_, Position, Position)]",
+          "source": "src/Wired-Model.html#mkGuideDB",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Wired Model",
+          "module": "Wired.Model",
+          "name": "mkGuideDB",
+          "normalized": "Floorplan Guide CellId-\u003eMap Signal[(Layer_,Position,Position)]",
+          "package": "Wired",
+          "partial": "Guide DB",
+          "signature": "Floorplan Guide CellId-\u003eMap Signal[(Layer_,Position,Position)]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:mkGuideDB"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Wired.Model\",\"Wired\"]",
+          "name": "renderWired",
+          "package": "Wired",
+          "signature": "Name -\u003e Wired lib a -\u003e IO ()",
+          "source": "src/Wired-Model.html#renderWired",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:renderWired\",\"http://hackage.haskell.org/package/Wired/docs/Wired.html#v:renderWired\"]"
+        },
+        "index": {
+          "hierarchy": "Wired Model",
+          "module": "Wired.Model",
+          "name": "renderWired",
+          "normalized": "Name-\u003eWired a b-\u003eIO()",
+          "package": "Wired",
+          "partial": "Wired",
+          "signature": "Name-\u003eWired lib a-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:renderWired"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Wired.Model\",\"Wired\"]",
+          "name": "renderWiredWithNets",
+          "package": "Wired",
+          "signature": "Name -\u003e Wired lib a -\u003e IO ()",
+          "source": "src/Wired-Model.html#renderWiredWithNets",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:renderWiredWithNets\",\"http://hackage.haskell.org/package/Wired/docs/Wired.html#v:renderWiredWithNets\"]"
+        },
+        "index": {
+          "hierarchy": "Wired Model",
+          "module": "Wired.Model",
+          "name": "renderWiredWithNets",
+          "normalized": "Name-\u003eWired a b-\u003eIO()",
+          "package": "Wired",
+          "partial": "Wired With Nets",
+          "signature": "Name-\u003eWired lib a-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:renderWiredWithNets"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Wired.Model\",\"Wired\"]",
+          "name": "renderWiredWithNetsCol",
+          "package": "Wired",
+          "signature": "Maybe Color -\u003e (Tag -\u003e Maybe Color) -\u003e Name -\u003e Wired lib a -\u003e IO ()",
+          "source": "src/Wired-Model.html#renderWiredWithNetsCol",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:renderWiredWithNetsCol\",\"http://hackage.haskell.org/package/Wired/docs/Wired.html#v:renderWiredWithNetsCol\"]"
+        },
+        "index": {
+          "hierarchy": "Wired Model",
+          "module": "Wired.Model",
+          "name": "renderWiredWithNetsCol",
+          "normalized": "Maybe Color-\u003e(Tag-\u003eMaybe Color)-\u003eName-\u003eWired a b-\u003eIO()",
+          "package": "Wired",
+          "partial": "Wired With Nets Col",
+          "signature": "Maybe Color-\u003e(Tag-\u003eMaybe Color)-\u003eName-\u003eWired lib a-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:renderWiredWithNetsCol"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Wired.Model",
+          "name": "rowHeight",
+          "package": "Wired",
+          "signature": "Res lib Height",
+          "source": "src/Wired-Model.html#rowHeight",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Wired Model",
+          "module": "Wired.Model",
+          "name": "rowHeight",
+          "package": "Wired",
+          "partial": "Height",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:rowHeight"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Wired.Model",
+          "name": "runWired",
+          "package": "Wired",
+          "signature": "Wired lib a -\u003e (a, (DesignDB lib, Floorplan Guide CellId))",
+          "source": "src/Wired-Model.html#runWired",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Wired Model",
+          "module": "Wired.Model",
+          "name": "runWired",
+          "normalized": "Wired a b-\u003e(b,(DesignDB a,Floorplan Guide CellId))",
+          "package": "Wired",
+          "partial": "Wired",
+          "signature": "Wired lib a-\u003e(a,(DesignDB lib,Floorplan Guide CellId))",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:runWired"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Wired.Model\",\"Wired\"]",
+          "name": "wireE",
+          "package": "Wired",
+          "signature": "Length -\u003e Layer -\u003e Width -\u003e p -\u003e m p",
+          "source": "src/Wired-Model.html#wireE",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:wireE\",\"http://hackage.haskell.org/package/Wired/docs/Wired.html#v:wireE\"]"
+        },
+        "index": {
+          "hierarchy": "Wired Model",
+          "module": "Wired.Model",
+          "name": "wireE",
+          "normalized": "Length-\u003eLayer-\u003eWidth-\u003ea-\u003eb a",
+          "package": "Wired",
+          "signature": "Length-\u003eLayer-\u003eWidth-\u003ep-\u003em p",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:wireE"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Wired.Model\",\"Wired\"]",
+          "name": "wireN",
+          "package": "Wired",
+          "signature": "Length -\u003e Layer -\u003e Width -\u003e p -\u003e m p",
+          "source": "src/Wired-Model.html#wireN",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:wireN\",\"http://hackage.haskell.org/package/Wired/docs/Wired.html#v:wireN\"]"
+        },
+        "index": {
+          "hierarchy": "Wired Model",
+          "module": "Wired.Model",
+          "name": "wireN",
+          "normalized": "Length-\u003eLayer-\u003eWidth-\u003ea-\u003eb a",
+          "package": "Wired",
+          "signature": "Length-\u003eLayer-\u003eWidth-\u003ep-\u003em p",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:wireN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Wired.Model\",\"Wired\"]",
+          "name": "wireS",
+          "package": "Wired",
+          "signature": "Length -\u003e Layer -\u003e Width -\u003e p -\u003e m p",
+          "source": "src/Wired-Model.html#wireS",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:wireS\",\"http://hackage.haskell.org/package/Wired/docs/Wired.html#v:wireS\"]"
+        },
+        "index": {
+          "hierarchy": "Wired Model",
+          "module": "Wired.Model",
+          "name": "wireS",
+          "normalized": "Length-\u003eLayer-\u003eWidth-\u003ea-\u003eb a",
+          "package": "Wired",
+          "signature": "Length-\u003eLayer-\u003eWidth-\u003ep-\u003em p",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:wireS"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Wired.Model\",\"Wired\"]",
+          "name": "wireW",
+          "package": "Wired",
+          "signature": "Length -\u003e Layer -\u003e Width -\u003e p -\u003e m p",
+          "source": "src/Wired-Model.html#wireW",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:wireW\",\"http://hackage.haskell.org/package/Wired/docs/Wired.html#v:wireW\"]"
+        },
+        "index": {
+          "hierarchy": "Wired Model",
+          "module": "Wired.Model",
+          "name": "wireW",
+          "normalized": "Length-\u003eLayer-\u003eWidth-\u003ea-\u003eb a",
+          "package": "Wired",
+          "signature": "Length-\u003eLayer-\u003eWidth-\u003ep-\u003em p",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:wireW"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Wired.Model",
+          "name": "wire_",
+          "package": "Wired",
+          "signature": "Direction -\u003e Length -\u003e Layer -\u003e Width -\u003e p -\u003e m p",
+          "source": "src/Wired-Model.html#wire_",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Wired Model",
+          "module": "Wired.Model",
+          "name": "wire_",
+          "normalized": "Direction-\u003eLength-\u003eLayer-\u003eWidth-\u003ea-\u003eb a",
+          "package": "Wired",
+          "signature": "Direction-\u003eLength-\u003eLayer-\u003eWidth-\u003ep-\u003em p",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:wire_"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Wired.Model",
+          "name": "wire__",
+          "package": "Wired",
+          "signature": "Direction -\u003e Length -\u003e Layer_ -\u003e Width -\u003e p -\u003e m p",
+          "source": "src/Wired-Model.html#wire__",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Wired Model",
+          "module": "Wired.Model",
+          "name": "wire__",
+          "normalized": "Direction-\u003eLength-\u003eLayer_-\u003eWidth-\u003ea-\u003eb a",
+          "package": "Wired",
+          "signature": "Direction-\u003eLength-\u003eLayer_-\u003eWidth-\u003ep-\u003em p",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired-Model.html#v:wire__"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Wired",
+          "name": "Wired",
+          "package": "Wired",
+          "source": "src/Wired.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Wired",
+          "module": "Wired",
+          "name": "Wired",
+          "package": "Wired",
+          "partial": "Wired",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Wired",
+          "name": "Wired",
+          "package": "Wired",
+          "source": "src/Wired-Model.html#Wired",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Wired",
+          "module": "Wired",
+          "name": "Wired",
+          "package": "Wired",
+          "partial": "Wired",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired.html#t:Wired"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Wired",
+          "name": "WiredLibrary",
+          "package": "Wired",
+          "source": "src/Wired-Model.html#WiredLibrary",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Wired",
+          "module": "Wired",
+          "name": "WiredLibrary",
+          "package": "Wired",
+          "partial": "Wired Library",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired.html#t:WiredLibrary"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Wired",
+          "name": "featureSize",
+          "package": "Wired",
+          "signature": "Res lib Length",
+          "source": "src/Wired-Model.html#featureSize",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Wired",
+          "module": "Wired",
+          "name": "featureSize",
+          "package": "Wired",
+          "partial": "Size",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired.html#v:featureSize"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Wired",
+          "name": "guideLength",
+          "package": "Wired",
+          "signature": "Layer -\u003e Res lib Length",
+          "source": "src/Wired-Model.html#guideLength",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Wired",
+          "module": "Wired",
+          "name": "guideLength",
+          "normalized": "Layer-\u003eRes a Length",
+          "package": "Wired",
+          "partial": "Length",
+          "signature": "Layer-\u003eRes lib Length",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired.html#v:guideLength"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Wired",
+          "name": "rowHeight",
+          "package": "Wired",
+          "signature": "Res lib Height",
+          "source": "src/Wired-Model.html#rowHeight",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Wired",
+          "module": "Wired",
+          "name": "rowHeight",
+          "package": "Wired",
+          "partial": "Height",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/Wired/docs/Wired.html#v:rowHeight"
+      }
+    }
+  ]
 ]

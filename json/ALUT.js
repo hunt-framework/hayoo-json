@@ -1,675 +1,637 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Initialization.html#",
-      "description": {
-        "fct-module": "Sound.ALUT.Initialization",
-        "fct-package": "ALUT",
-        "fct-signature": "module",
-        "fct-source": "src/Sound-ALUT-Initialization.html",
-        "fct-type": "module",
-        "title": "Initialization"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "ALUT"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound ALUT Initialization",
-        "module": "Sound.ALUT.Initialization",
-        "name": "Initialization",
-        "normalized": "",
-        "package": "ALUT",
-        "partial": "Initialization",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Initialization.html#t:ArgumentConsumer",
-      "description": {
-        "fct-module": "Sound.ALUT.Initialization",
-        "fct-package": "ALUT",
-        "fct-signature": "type",
-        "fct-source": "src/Sound-ALUT-Initialization.html#ArgumentConsumer",
-        "fct-type": "type",
-        "title": "ArgumentConsumer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound ALUT Initialization",
-        "module": "Sound.ALUT.Initialization",
-        "name": "ArgumentConsumer",
-        "normalized": "",
-        "package": "ALUT",
-        "partial": "Argument Consumer",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.ALUT.Initialization",
+          "name": "Initialization",
+          "package": "ALUT",
+          "source": "src/Sound-ALUT-Initialization.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Sound ALUT Initialization",
+          "module": "Sound.ALUT.Initialization",
+          "name": "Initialization",
+          "package": "ALUT",
+          "partial": "Initialization",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Initialization.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.ALUT.Initialization",
+          "name": "ArgumentConsumer",
+          "package": "ALUT",
+          "source": "src/Sound-ALUT-Initialization.html#ArgumentConsumer",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Sound ALUT Initialization",
+          "module": "Sound.ALUT.Initialization",
+          "name": "ArgumentConsumer",
+          "package": "ALUT",
+          "partial": "Argument Consumer",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Initialization.html#t:ArgumentConsumer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.ALUT.Initialization",
+          "name": "Runner",
+          "package": "ALUT",
+          "source": "src/Sound-ALUT-Initialization.html#Runner",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Sound ALUT Initialization",
+          "module": "Sound.ALUT.Initialization",
+          "name": "Runner",
+          "package": "ALUT",
+          "partial": "Runner",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Initialization.html#t:Runner"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.ALUT.Initialization",
+          "name": "runALUT",
+          "package": "ALUT",
+          "signature": "ArgumentConsumer (Runner a)",
+          "source": "src/Sound-ALUT-Initialization.html#runALUT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound ALUT Initialization",
+          "module": "Sound.ALUT.Initialization",
+          "name": "runALUT",
+          "package": "ALUT",
+          "partial": "ALUT",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Initialization.html#v:runALUT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.ALUT.Initialization",
+          "name": "runALUTUsingCurrentContext",
+          "package": "ALUT",
+          "signature": "ArgumentConsumer (Runner a)",
+          "source": "src/Sound-ALUT-Initialization.html#runALUTUsingCurrentContext",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound ALUT Initialization",
+          "module": "Sound.ALUT.Initialization",
+          "name": "runALUTUsingCurrentContext",
+          "package": "ALUT",
+          "partial": "ALUTUsing Current Context",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Initialization.html#v:runALUTUsingCurrentContext"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.ALUT.Initialization",
+          "name": "withProgNameAndArgs",
+          "package": "ALUT",
+          "signature": "ArgumentConsumer (Runner a) -\u003e Runner a",
+          "source": "src/Sound-ALUT-Initialization.html#withProgNameAndArgs",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound ALUT Initialization",
+          "module": "Sound.ALUT.Initialization",
+          "name": "withProgNameAndArgs",
+          "normalized": "ArgumentConsumer(Runner a)-\u003eRunner a",
+          "package": "ALUT",
+          "partial": "Prog Name And Args",
+          "signature": "ArgumentConsumer(Runner a)-\u003eRunner a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Initialization.html#v:withProgNameAndArgs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.ALUT.Loaders",
+          "name": "Loaders",
+          "package": "ALUT",
+          "source": "src/Sound-ALUT-Loaders.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Sound ALUT Loaders",
+          "module": "Sound.ALUT.Loaders",
+          "name": "Loaders",
+          "package": "ALUT",
+          "partial": "Loaders",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.ALUT.Loaders",
+          "name": "Duration",
+          "package": "ALUT",
+          "source": "src/Sound-ALUT-Loaders.html#Duration",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Sound ALUT Loaders",
+          "module": "Sound.ALUT.Loaders",
+          "name": "Duration",
+          "package": "ALUT",
+          "partial": "Duration",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#t:Duration"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.ALUT.Loaders",
+          "name": "Phase",
+          "package": "ALUT",
+          "source": "src/Sound-ALUT-Loaders.html#Phase",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Sound ALUT Loaders",
+          "module": "Sound.ALUT.Loaders",
+          "name": "Phase",
+          "package": "ALUT",
+          "partial": "Phase",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#t:Phase"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.ALUT.Loaders",
+          "name": "SoundDataSource",
+          "package": "ALUT",
+          "source": "src/Sound-ALUT-Loaders.html#SoundDataSource",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Sound ALUT Loaders",
+          "module": "Sound.ALUT.Loaders",
+          "name": "SoundDataSource",
+          "package": "ALUT",
+          "partial": "Sound Data Source",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#t:SoundDataSource"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.ALUT.Loaders",
+          "name": "File",
+          "package": "ALUT",
+          "signature": "File FilePath",
+          "source": "src/Sound-ALUT-Loaders.html#SoundDataSource",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound ALUT Loaders",
+          "module": "Sound.ALUT.Loaders",
+          "name": "File",
+          "package": "ALUT",
+          "partial": "File",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#v:File"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.ALUT.Loaders",
+          "name": "FileImage",
+          "package": "ALUT",
+          "signature": "FileImage (MemoryRegion a)",
+          "source": "src/Sound-ALUT-Loaders.html#SoundDataSource",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound ALUT Loaders",
+          "module": "Sound.ALUT.Loaders",
+          "name": "FileImage",
+          "package": "ALUT",
+          "partial": "File Image",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#v:FileImage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.ALUT.Loaders",
+          "name": "HelloWorld",
+          "package": "ALUT",
+          "signature": "HelloWorld",
+          "source": "src/Sound-ALUT-Loaders.html#SoundDataSource",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound ALUT Loaders",
+          "module": "Sound.ALUT.Loaders",
+          "name": "HelloWorld",
+          "package": "ALUT",
+          "partial": "Hello World",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#v:HelloWorld"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.ALUT.Loaders",
+          "name": "Impulse",
+          "package": "ALUT",
+          "signature": "Impulse Frequency Phase Duration",
+          "source": "src/Sound-ALUT-Loaders.html#SoundDataSource",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound ALUT Loaders",
+          "module": "Sound.ALUT.Loaders",
+          "name": "Impulse",
+          "package": "ALUT",
+          "partial": "Impulse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#v:Impulse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.ALUT.Loaders",
+          "name": "Sawtooth",
+          "package": "ALUT",
+          "signature": "Sawtooth Frequency Phase Duration",
+          "source": "src/Sound-ALUT-Loaders.html#SoundDataSource",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound ALUT Loaders",
+          "module": "Sound.ALUT.Loaders",
+          "name": "Sawtooth",
+          "package": "ALUT",
+          "partial": "Sawtooth",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#v:Sawtooth"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.ALUT.Loaders",
+          "name": "Sine",
+          "package": "ALUT",
+          "signature": "Sine Frequency Phase Duration",
+          "source": "src/Sound-ALUT-Loaders.html#SoundDataSource",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound ALUT Loaders",
+          "module": "Sound.ALUT.Loaders",
+          "name": "Sine",
+          "package": "ALUT",
+          "partial": "Sine",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#v:Sine"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.ALUT.Loaders",
+          "name": "Square",
+          "package": "ALUT",
+          "signature": "Square Frequency Phase Duration",
+          "source": "src/Sound-ALUT-Loaders.html#SoundDataSource",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound ALUT Loaders",
+          "module": "Sound.ALUT.Loaders",
+          "name": "Square",
+          "package": "ALUT",
+          "partial": "Square",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#v:Square"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.ALUT.Loaders",
+          "name": "WhiteNoise",
+          "package": "ALUT",
+          "signature": "WhiteNoise Duration",
+          "source": "src/Sound-ALUT-Loaders.html#SoundDataSource",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound ALUT Loaders",
+          "module": "Sound.ALUT.Loaders",
+          "name": "WhiteNoise",
+          "package": "ALUT",
+          "partial": "White Noise",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#v:WhiteNoise"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.ALUT.Loaders",
+          "name": "bufferDataMIMETypes",
+          "package": "ALUT",
+          "signature": "GettableStateVar [String]",
+          "source": "src/Sound-ALUT-Loaders.html#bufferDataMIMETypes",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound ALUT Loaders",
+          "module": "Sound.ALUT.Loaders",
+          "name": "bufferDataMIMETypes",
+          "normalized": "GettableStateVar[String]",
+          "package": "ALUT",
+          "partial": "Data MIMETypes",
+          "signature": "GettableStateVar[String]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#v:bufferDataMIMETypes"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.ALUT.Loaders",
+          "name": "bufferMIMETypes",
+          "package": "ALUT",
+          "signature": "GettableStateVar [String]",
+          "source": "src/Sound-ALUT-Loaders.html#bufferMIMETypes",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound ALUT Loaders",
+          "module": "Sound.ALUT.Loaders",
+          "name": "bufferMIMETypes",
+          "normalized": "GettableStateVar[String]",
+          "package": "ALUT",
+          "partial": "MIMETypes",
+          "signature": "GettableStateVar[String]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#v:bufferMIMETypes"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.ALUT.Loaders",
+          "name": "createBuffer",
+          "package": "ALUT",
+          "signature": "SoundDataSource a -\u003e IO Buffer",
+          "source": "src/Sound-ALUT-Loaders.html#createBuffer",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound ALUT Loaders",
+          "module": "Sound.ALUT.Loaders",
+          "name": "createBuffer",
+          "normalized": "SoundDataSource a-\u003eIO Buffer",
+          "package": "ALUT",
+          "partial": "Buffer",
+          "signature": "SoundDataSource a-\u003eIO Buffer",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#v:createBuffer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.ALUT.Loaders",
+          "name": "createBufferData",
+          "package": "ALUT",
+          "signature": "SoundDataSource a -\u003e IO (BufferData b)",
+          "source": "src/Sound-ALUT-Loaders.html#createBufferData",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound ALUT Loaders",
+          "module": "Sound.ALUT.Loaders",
+          "name": "createBufferData",
+          "normalized": "SoundDataSource a-\u003eIO(BufferData b)",
+          "package": "ALUT",
+          "partial": "Buffer Data",
+          "signature": "SoundDataSource a-\u003eIO(BufferData b)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#v:createBufferData"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.ALUT.Sleep",
+          "name": "Sleep",
+          "package": "ALUT",
+          "source": "src/Sound-ALUT-Sleep.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Sound ALUT Sleep",
+          "module": "Sound.ALUT.Sleep",
+          "name": "Sleep",
+          "package": "ALUT",
+          "partial": "Sleep",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Sleep.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.ALUT.Sleep",
+          "name": "sleep",
+          "package": "ALUT",
+          "signature": "Duration -\u003e IO ()",
+          "source": "src/Sound-ALUT-Sleep.html#sleep",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound ALUT Sleep",
+          "module": "Sound.ALUT.Sleep",
+          "name": "sleep",
+          "normalized": "Duration-\u003eIO()",
+          "package": "ALUT",
+          "signature": "Duration-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Sleep.html#v:sleep"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.ALUT.Version",
+          "name": "Version",
+          "package": "ALUT",
+          "source": "src/Sound-ALUT-Version.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Sound ALUT Version",
+          "module": "Sound.ALUT.Version",
+          "name": "Version",
+          "package": "ALUT",
+          "partial": "Version",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Version.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.ALUT.Version",
+          "name": "alutAPIVersion",
+          "package": "ALUT",
+          "signature": "String",
+          "source": "src/Sound-ALUT-Version.html#alutAPIVersion",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound ALUT Version",
+          "module": "Sound.ALUT.Version",
+          "name": "alutAPIVersion",
+          "package": "ALUT",
+          "partial": "APIVersion",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Version.html#v:alutAPIVersion"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.ALUT.Version",
+          "name": "alutVersion",
+          "package": "ALUT",
+          "signature": "GettableStateVar String",
+          "source": "src/Sound-ALUT-Version.html#alutVersion",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound ALUT Version",
+          "module": "Sound.ALUT.Version",
+          "name": "alutVersion",
+          "package": "ALUT",
+          "partial": "Version",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Version.html#v:alutVersion"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eA Haskell binding for the OpenAL Utility Toolkit, which makes managing of\n OpenAL contexts, loading sounds in various formats and creating waveforms\n very easy. For more information about the C library on which this binding is\n based, please see: \u003ca\u003ehttp://www.openal.org/openal_webstf/specs/alut.html\u003c/a\u003e.\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Sound.ALUT",
+          "name": "ALUT",
+          "package": "ALUT",
+          "source": "src/Sound-ALUT.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "Haskell binding for the OpenAL Utility Toolkit which makes managing of OpenAL contexts loading sounds in various formats and creating waveforms very easy For more information about the library on which this binding is based please see http www.openal.org openal webstf specs alut.html",
+          "hierarchy": "Sound ALUT",
+          "module": "Sound.ALUT",
+          "name": "ALUT",
+          "package": "ALUT",
+          "partial": "ALUT",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT.html#"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Initialization.html#t:Runner",
-      "description": {
-        "fct-module": "Sound.ALUT.Initialization",
-        "fct-package": "ALUT",
-        "fct-signature": "type",
-        "fct-source": "src/Sound-ALUT-Initialization.html#Runner",
-        "fct-type": "type",
-        "title": "Runner"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound ALUT Initialization",
-        "module": "Sound.ALUT.Initialization",
-        "name": "Runner",
-        "normalized": "",
-        "package": "ALUT",
-        "partial": "Runner",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Initialization.html#v:runALUT",
-      "description": {
-        "fct-module": "Sound.ALUT.Initialization",
-        "fct-package": "ALUT",
-        "fct-signature": "ArgumentConsumer (Runner a)",
-        "fct-source": "src/Sound-ALUT-Initialization.html#runALUT",
-        "fct-type": "function",
-        "title": "runALUT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound ALUT Initialization",
-        "module": "Sound.ALUT.Initialization",
-        "name": "runALUT",
-        "normalized": "",
-        "package": "ALUT",
-        "partial": "ALUT",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Initialization.html#v:runALUTUsingCurrentContext",
-      "description": {
-        "fct-module": "Sound.ALUT.Initialization",
-        "fct-package": "ALUT",
-        "fct-signature": "ArgumentConsumer (Runner a)",
-        "fct-source": "src/Sound-ALUT-Initialization.html#runALUTUsingCurrentContext",
-        "fct-type": "function",
-        "title": "runALUTUsingCurrentContext"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound ALUT Initialization",
-        "module": "Sound.ALUT.Initialization",
-        "name": "runALUTUsingCurrentContext",
-        "normalized": "",
-        "package": "ALUT",
-        "partial": "ALUTUsing Current Context",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Initialization.html#v:withProgNameAndArgs",
-      "description": {
-        "fct-module": "Sound.ALUT.Initialization",
-        "fct-package": "ALUT",
-        "fct-signature": "ArgumentConsumer (Runner a) -\u003e Runner a",
-        "fct-source": "src/Sound-ALUT-Initialization.html#withProgNameAndArgs",
-        "fct-type": "function",
-        "title": "withProgNameAndArgs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound ALUT Initialization",
-        "module": "Sound.ALUT.Initialization",
-        "name": "withProgNameAndArgs",
-        "normalized": "ArgumentConsumer(Runner a)-\u003eRunner a",
-        "package": "ALUT",
-        "partial": "Prog Name And Args",
-        "signature": "ArgumentConsumer(Runner a)-\u003eRunner a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#",
-      "description": {
-        "fct-module": "Sound.ALUT.Loaders",
-        "fct-package": "ALUT",
-        "fct-signature": "module",
-        "fct-source": "src/Sound-ALUT-Loaders.html",
-        "fct-type": "module",
-        "title": "Loaders"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound ALUT Loaders",
-        "module": "Sound.ALUT.Loaders",
-        "name": "Loaders",
-        "normalized": "",
-        "package": "ALUT",
-        "partial": "Loaders",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#t:Duration",
-      "description": {
-        "fct-module": "Sound.ALUT.Loaders",
-        "fct-package": "ALUT",
-        "fct-signature": "type",
-        "fct-source": "src/Sound-ALUT-Loaders.html#Duration",
-        "fct-type": "type",
-        "title": "Duration"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound ALUT Loaders",
-        "module": "Sound.ALUT.Loaders",
-        "name": "Duration",
-        "normalized": "",
-        "package": "ALUT",
-        "partial": "Duration",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#t:Phase",
-      "description": {
-        "fct-module": "Sound.ALUT.Loaders",
-        "fct-package": "ALUT",
-        "fct-signature": "type",
-        "fct-source": "src/Sound-ALUT-Loaders.html#Phase",
-        "fct-type": "type",
-        "title": "Phase"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound ALUT Loaders",
-        "module": "Sound.ALUT.Loaders",
-        "name": "Phase",
-        "normalized": "",
-        "package": "ALUT",
-        "partial": "Phase",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#t:SoundDataSource",
-      "description": {
-        "fct-module": "Sound.ALUT.Loaders",
-        "fct-package": "ALUT",
-        "fct-signature": "data",
-        "fct-source": "src/Sound-ALUT-Loaders.html#SoundDataSource",
-        "fct-type": "data",
-        "title": "SoundDataSource"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound ALUT Loaders",
-        "module": "Sound.ALUT.Loaders",
-        "name": "SoundDataSource",
-        "normalized": "",
-        "package": "ALUT",
-        "partial": "Sound Data Source",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#v:File",
-      "description": {
-        "fct-module": "Sound.ALUT.Loaders",
-        "fct-package": "ALUT",
-        "fct-signature": "File FilePath",
-        "fct-source": "src/Sound-ALUT-Loaders.html#SoundDataSource",
-        "fct-type": "function",
-        "title": "File"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound ALUT Loaders",
-        "module": "Sound.ALUT.Loaders",
-        "name": "File",
-        "normalized": "",
-        "package": "ALUT",
-        "partial": "File",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#v:FileImage",
-      "description": {
-        "fct-module": "Sound.ALUT.Loaders",
-        "fct-package": "ALUT",
-        "fct-signature": "FileImage (MemoryRegion a)",
-        "fct-source": "src/Sound-ALUT-Loaders.html#SoundDataSource",
-        "fct-type": "function",
-        "title": "FileImage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound ALUT Loaders",
-        "module": "Sound.ALUT.Loaders",
-        "name": "FileImage",
-        "normalized": "",
-        "package": "ALUT",
-        "partial": "File Image",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#v:HelloWorld",
-      "description": {
-        "fct-module": "Sound.ALUT.Loaders",
-        "fct-package": "ALUT",
-        "fct-signature": "HelloWorld",
-        "fct-source": "src/Sound-ALUT-Loaders.html#SoundDataSource",
-        "fct-type": "function",
-        "title": "HelloWorld"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound ALUT Loaders",
-        "module": "Sound.ALUT.Loaders",
-        "name": "HelloWorld",
-        "normalized": "",
-        "package": "ALUT",
-        "partial": "Hello World",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#v:Impulse",
-      "description": {
-        "fct-module": "Sound.ALUT.Loaders",
-        "fct-package": "ALUT",
-        "fct-signature": "Impulse Frequency Phase Duration",
-        "fct-source": "src/Sound-ALUT-Loaders.html#SoundDataSource",
-        "fct-type": "function",
-        "title": "Impulse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound ALUT Loaders",
-        "module": "Sound.ALUT.Loaders",
-        "name": "Impulse",
-        "normalized": "",
-        "package": "ALUT",
-        "partial": "Impulse",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#v:Sawtooth",
-      "description": {
-        "fct-module": "Sound.ALUT.Loaders",
-        "fct-package": "ALUT",
-        "fct-signature": "Sawtooth Frequency Phase Duration",
-        "fct-source": "src/Sound-ALUT-Loaders.html#SoundDataSource",
-        "fct-type": "function",
-        "title": "Sawtooth"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound ALUT Loaders",
-        "module": "Sound.ALUT.Loaders",
-        "name": "Sawtooth",
-        "normalized": "",
-        "package": "ALUT",
-        "partial": "Sawtooth",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#v:Sine",
-      "description": {
-        "fct-module": "Sound.ALUT.Loaders",
-        "fct-package": "ALUT",
-        "fct-signature": "Sine Frequency Phase Duration",
-        "fct-source": "src/Sound-ALUT-Loaders.html#SoundDataSource",
-        "fct-type": "function",
-        "title": "Sine"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound ALUT Loaders",
-        "module": "Sound.ALUT.Loaders",
-        "name": "Sine",
-        "normalized": "",
-        "package": "ALUT",
-        "partial": "Sine",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#v:Square",
-      "description": {
-        "fct-module": "Sound.ALUT.Loaders",
-        "fct-package": "ALUT",
-        "fct-signature": "Square Frequency Phase Duration",
-        "fct-source": "src/Sound-ALUT-Loaders.html#SoundDataSource",
-        "fct-type": "function",
-        "title": "Square"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound ALUT Loaders",
-        "module": "Sound.ALUT.Loaders",
-        "name": "Square",
-        "normalized": "",
-        "package": "ALUT",
-        "partial": "Square",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#v:WhiteNoise",
-      "description": {
-        "fct-module": "Sound.ALUT.Loaders",
-        "fct-package": "ALUT",
-        "fct-signature": "WhiteNoise Duration",
-        "fct-source": "src/Sound-ALUT-Loaders.html#SoundDataSource",
-        "fct-type": "function",
-        "title": "WhiteNoise"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound ALUT Loaders",
-        "module": "Sound.ALUT.Loaders",
-        "name": "WhiteNoise",
-        "normalized": "",
-        "package": "ALUT",
-        "partial": "White Noise",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#v:bufferDataMIMETypes",
-      "description": {
-        "fct-module": "Sound.ALUT.Loaders",
-        "fct-package": "ALUT",
-        "fct-signature": "GettableStateVar [String]",
-        "fct-source": "src/Sound-ALUT-Loaders.html#bufferDataMIMETypes",
-        "fct-type": "function",
-        "title": "bufferDataMIMETypes"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound ALUT Loaders",
-        "module": "Sound.ALUT.Loaders",
-        "name": "bufferDataMIMETypes",
-        "normalized": "GettableStateVar[String]",
-        "package": "ALUT",
-        "partial": "Data MIMETypes",
-        "signature": "GettableStateVar[String]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#v:bufferMIMETypes",
-      "description": {
-        "fct-module": "Sound.ALUT.Loaders",
-        "fct-package": "ALUT",
-        "fct-signature": "GettableStateVar [String]",
-        "fct-source": "src/Sound-ALUT-Loaders.html#bufferMIMETypes",
-        "fct-type": "function",
-        "title": "bufferMIMETypes"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound ALUT Loaders",
-        "module": "Sound.ALUT.Loaders",
-        "name": "bufferMIMETypes",
-        "normalized": "GettableStateVar[String]",
-        "package": "ALUT",
-        "partial": "MIMETypes",
-        "signature": "GettableStateVar[String]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#v:createBuffer",
-      "description": {
-        "fct-module": "Sound.ALUT.Loaders",
-        "fct-package": "ALUT",
-        "fct-signature": "SoundDataSource a -\u003e IO Buffer",
-        "fct-source": "src/Sound-ALUT-Loaders.html#createBuffer",
-        "fct-type": "function",
-        "title": "createBuffer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound ALUT Loaders",
-        "module": "Sound.ALUT.Loaders",
-        "name": "createBuffer",
-        "normalized": "SoundDataSource a-\u003eIO Buffer",
-        "package": "ALUT",
-        "partial": "Buffer",
-        "signature": "SoundDataSource a-\u003eIO Buffer"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Loaders.html#v:createBufferData",
-      "description": {
-        "fct-module": "Sound.ALUT.Loaders",
-        "fct-package": "ALUT",
-        "fct-signature": "SoundDataSource a -\u003e IO (BufferData b)",
-        "fct-source": "src/Sound-ALUT-Loaders.html#createBufferData",
-        "fct-type": "function",
-        "title": "createBufferData"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound ALUT Loaders",
-        "module": "Sound.ALUT.Loaders",
-        "name": "createBufferData",
-        "normalized": "SoundDataSource a-\u003eIO(BufferData b)",
-        "package": "ALUT",
-        "partial": "Buffer Data",
-        "signature": "SoundDataSource a-\u003eIO(BufferData b)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Sleep.html#",
-      "description": {
-        "fct-module": "Sound.ALUT.Sleep",
-        "fct-package": "ALUT",
-        "fct-signature": "module",
-        "fct-source": "src/Sound-ALUT-Sleep.html",
-        "fct-type": "module",
-        "title": "Sleep"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound ALUT Sleep",
-        "module": "Sound.ALUT.Sleep",
-        "name": "Sleep",
-        "normalized": "",
-        "package": "ALUT",
-        "partial": "Sleep",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Sleep.html#v:sleep",
-      "description": {
-        "fct-module": "Sound.ALUT.Sleep",
-        "fct-package": "ALUT",
-        "fct-signature": "Duration -\u003e IO ()",
-        "fct-source": "src/Sound-ALUT-Sleep.html#sleep",
-        "fct-type": "function",
-        "title": "sleep"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound ALUT Sleep",
-        "module": "Sound.ALUT.Sleep",
-        "name": "sleep",
-        "normalized": "Duration-\u003eIO()",
-        "package": "ALUT",
-        "partial": "",
-        "signature": "Duration-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Version.html#",
-      "description": {
-        "fct-module": "Sound.ALUT.Version",
-        "fct-package": "ALUT",
-        "fct-signature": "module",
-        "fct-source": "src/Sound-ALUT-Version.html",
-        "fct-type": "module",
-        "title": "Version"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound ALUT Version",
-        "module": "Sound.ALUT.Version",
-        "name": "Version",
-        "normalized": "",
-        "package": "ALUT",
-        "partial": "Version",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Version.html#v:alutAPIVersion",
-      "description": {
-        "fct-module": "Sound.ALUT.Version",
-        "fct-package": "ALUT",
-        "fct-signature": "String",
-        "fct-source": "src/Sound-ALUT-Version.html#alutAPIVersion",
-        "fct-type": "function",
-        "title": "alutAPIVersion"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound ALUT Version",
-        "module": "Sound.ALUT.Version",
-        "name": "alutAPIVersion",
-        "normalized": "",
-        "package": "ALUT",
-        "partial": "APIVersion",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT-Version.html#v:alutVersion",
-      "description": {
-        "fct-module": "Sound.ALUT.Version",
-        "fct-package": "ALUT",
-        "fct-signature": "GettableStateVar String",
-        "fct-source": "src/Sound-ALUT-Version.html#alutVersion",
-        "fct-type": "function",
-        "title": "alutVersion"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound ALUT Version",
-        "module": "Sound.ALUT.Version",
-        "name": "alutVersion",
-        "normalized": "",
-        "package": "ALUT",
-        "partial": "Version",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ALUT/docs/Sound-ALUT.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eA Haskell binding for the OpenAL Utility Toolkit, which makes managing of\n OpenAL contexts, loading sounds in various formats and creating waveforms\n very easy. For more information about the C library on which this binding is\n based, please see: \u003ca\u003ehttp://www.openal.org/openal_webstf/specs/alut.html\u003c/a\u003e.\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Sound.ALUT",
-        "fct-package": "ALUT",
-        "fct-signature": "module",
-        "fct-source": "src/Sound-ALUT.html",
-        "fct-type": "module",
-        "title": "ALUT"
-      },
-      "index": {
-        "description": "Haskell binding for the OpenAL Utility Toolkit which makes managing of OpenAL contexts loading sounds in various formats and creating waveforms very easy For more information about the library on which this binding is based please see http www.openal.org openal webstf specs alut.html",
-        "hierarchy": "Sound ALUT",
-        "module": "Sound.ALUT",
-        "name": "ALUT",
-        "normalized": "",
-        "package": "ALUT",
-        "partial": "ALUT",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

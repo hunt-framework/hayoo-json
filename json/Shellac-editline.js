@@ -1,26 +1,42 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Shellac-editline/docs/System-Console-Shell-Backend-Editline.html#v:editlineBackend",
-      "description": {
-        "fct-module": "System.Console.Shell.Backend.Editline",
-        "fct-package": "Shellac-editline",
-        "fct-signature": "ShellBackend ()",
-        "fct-source": "http://hackage.haskell.org/package/Shellac-editline/docs/src/System-Console-Shell-Backend-Editline.html#editlineBackend",
-        "fct-type": "unknown",
-        "title": "editlineBackend"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "Shellac-editline"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "System Console Shell Backend Editline",
-        "module": "System.Console.Shell.Backend.Editline",
-        "name": "editlineBackend",
-        "normalized": "ShellBackend()",
-        "package": "Shellac-editline",
-        "partial": "Backend",
-        "signature": "ShellBackend()"
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Console.Shell.Backend.Editline",
+          "name": "editlineBackend",
+          "package": "Shellac-editline",
+          "signature": "ShellBackend ()",
+          "source": "http://hackage.haskell.org/package/Shellac-editline/docs/src/System-Console-Shell-Backend-Editline.html#editlineBackend",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Console Shell Backend Editline",
+          "module": "System.Console.Shell.Backend.Editline",
+          "name": "editlineBackend",
+          "normalized": "ShellBackend()",
+          "package": "Shellac-editline",
+          "partial": "Backend",
+          "signature": "ShellBackend()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Shellac-editline/docs/System-Console-Shell-Backend-Editline.html#v:editlineBackend"
       }
     }
-  }
+  ]
 ]

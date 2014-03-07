@@ -1,50 +1,61 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/penn-treebank/docs/NLP-PennTreebank.html#",
-      "description": {
-        "fct-module": "NLP.PennTreebank",
-        "fct-package": "penn-treebank",
-        "fct-signature": "module",
-        "fct-source": "src/NLP-PennTreebank.html",
-        "fct-type": "module",
-        "title": "PennTreebank"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "penn-treebank"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "NLP PennTreebank",
-        "module": "NLP.PennTreebank",
-        "name": "PennTreebank",
-        "normalized": "",
-        "package": "penn-treebank",
-        "partial": "Penn Treebank",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/penn-treebank/docs/NLP-PennTreebank.html#v:parseTree",
-      "description": {
-        "fct-module": "NLP.PennTreebank",
-        "fct-package": "penn-treebank",
-        "fct-signature": "Parser (Tree String)",
-        "fct-source": "src/NLP-PennTreebank.html#parseTree",
-        "fct-type": "function",
-        "title": "parseTree"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "NLP PennTreebank",
-        "module": "NLP.PennTreebank",
-        "name": "parseTree",
-        "normalized": "",
-        "package": "penn-treebank",
-        "partial": "Tree",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "NLP.PennTreebank",
+          "name": "PennTreebank",
+          "package": "penn-treebank",
+          "source": "src/NLP-PennTreebank.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "NLP PennTreebank",
+          "module": "NLP.PennTreebank",
+          "name": "PennTreebank",
+          "package": "penn-treebank",
+          "partial": "Penn Treebank",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/penn-treebank/docs/NLP-PennTreebank.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "NLP.PennTreebank",
+          "name": "parseTree",
+          "package": "penn-treebank",
+          "signature": "Parser (Tree String)",
+          "source": "src/NLP-PennTreebank.html#parseTree",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "NLP PennTreebank",
+          "module": "NLP.PennTreebank",
+          "name": "parseTree",
+          "package": "penn-treebank",
+          "partial": "Tree",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/penn-treebank/docs/NLP-PennTreebank.html#v:parseTree"
       }
     }
-  }
+  ]
 ]

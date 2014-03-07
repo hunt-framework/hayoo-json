@@ -1,1858 +1,1734 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#",
-      "description": {
-        "fct-module": "MultiSetRewrite.Base",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "module",
-        "fct-source": "src/MultiSetRewrite-Base.html",
-        "fct-type": "module",
-        "title": "Base"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite Base",
-        "module": "MultiSetRewrite.Base",
-        "name": "Base",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Base",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#t:EMatch",
-      "description": {
-        "fct-module": "MultiSetRewrite.Base",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "class",
-        "fct-source": "src/MultiSetRewrite-Base.html#EMatch",
-        "fct-type": "class",
-        "title": "EMatch"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite Base",
-        "module": "MultiSetRewrite.Base",
-        "name": "EMatch",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "EMatch",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#t:InternalMsg",
-      "description": {
-        "fct-module": "MultiSetRewrite.Base",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "data",
-        "fct-source": "src/MultiSetRewrite-Base.html#InternalMsg",
-        "fct-type": "data",
-        "title": "InternalMsg"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite Base",
-        "module": "MultiSetRewrite.Base",
-        "name": "InternalMsg",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Internal Msg",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#t:L",
-      "description": {
-        "fct-module": "MultiSetRewrite.Base",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "data",
-        "fct-source": "src/MultiSetRewrite-Base.html#L",
-        "fct-type": "data",
-        "title": "L"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite Base",
-        "module": "MultiSetRewrite.Base",
-        "name": "L",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#t:Match",
-      "description": {
-        "fct-module": "MultiSetRewrite.Base",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "class",
-        "fct-source": "src/MultiSetRewrite-Base.html#Match",
-        "fct-type": "class",
-        "title": "Match"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite Base",
-        "module": "MultiSetRewrite.Base",
-        "name": "Match",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Match",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#t:Tag",
-      "description": {
-        "fct-module": "MultiSetRewrite.Base",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "type",
-        "fct-source": "src/MultiSetRewrite-Base.html#Tag",
-        "fct-type": "type",
-        "title": "Tag"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite Base",
-        "module": "MultiSetRewrite.Base",
-        "name": "Tag",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Tag",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#t:VAR",
-      "description": {
-        "fct-module": "MultiSetRewrite.Base",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "data",
-        "fct-source": "src/MultiSetRewrite-Base.html#VAR",
-        "fct-type": "data",
-        "title": "VAR"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite Base",
-        "module": "MultiSetRewrite.Base",
-        "name": "VAR",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "VAR",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:DontCare",
-      "description": {
-        "fct-module": "MultiSetRewrite.Base",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "DontCare",
-        "fct-source": "src/MultiSetRewrite-Base.html#VAR",
-        "fct-type": "function",
-        "title": "DontCare"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite Base",
-        "module": "MultiSetRewrite.Base",
-        "name": "DontCare",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Dont Care",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:InternalMsg",
-      "description": {
-        "fct-module": "MultiSetRewrite.Base",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "InternalMsg",
-        "fct-source": "src/MultiSetRewrite-Base.html#InternalMsg",
-        "fct-type": "function",
-        "title": "InternalMsg"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite Base",
-        "module": "MultiSetRewrite.Base",
-        "name": "InternalMsg",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Internal Msg",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:VAR",
-      "description": {
-        "fct-module": "MultiSetRewrite.Base",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "VAR",
-        "fct-source": "src/MultiSetRewrite-Base.html#VAR",
-        "fct-type": "function",
-        "title": "VAR"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite Base",
-        "module": "MultiSetRewrite.Base",
-        "name": "VAR",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "VAR",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:Val",
-      "description": {
-        "fct-module": "MultiSetRewrite.Base",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "Val a",
-        "fct-source": "src/MultiSetRewrite-Base.html#L",
-        "fct-type": "function",
-        "title": "Val"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite Base",
-        "module": "MultiSetRewrite.Base",
-        "name": "Val",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Val",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:Var",
-      "description": {
-        "fct-module": "MultiSetRewrite.Base",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "Var (VAR a)",
-        "fct-source": "src/MultiSetRewrite-Base.html#L",
-        "fct-type": "function",
-        "title": "Var"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite Base",
-        "module": "MultiSetRewrite.Base",
-        "name": "Var",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Var",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:dontCareVar",
-      "description": {
-        "fct-module": "MultiSetRewrite.Base",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "IO (VAR a)",
-        "fct-source": "src/MultiSetRewrite-Base.html#dontCareVar",
-        "fct-type": "function",
-        "title": "dontCareVar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite Base",
-        "module": "MultiSetRewrite.Base",
-        "name": "dontCareVar",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Care Var",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:internal_match",
-      "description": {
-        "fct-module": "MultiSetRewrite.Base",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "[Tag] -\u003e InternalMsg a -\u003e a -\u003e IO (Bool, [Tag])",
-        "fct-source": "src/MultiSetRewrite-Base.html#internal_match",
-        "fct-type": "method",
-        "title": "internal_match"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite Base",
-        "module": "MultiSetRewrite.Base",
-        "name": "internal_match",
-        "normalized": "[Tag]-\u003eInternalMsg a-\u003ea-\u003eIO(Bool,[Tag])",
-        "package": "multisetrewrite",
-        "partial": "",
-        "signature": "[Tag]-\u003eInternalMsg a-\u003ea-\u003eIO(Bool,[Tag])"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:lookupTag",
-      "description": {
-        "fct-module": "MultiSetRewrite.Base",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "[Tag] -\u003e Tag -\u003e Bool",
-        "fct-source": "src/MultiSetRewrite-Base.html#lookupTag",
-        "fct-type": "function",
-        "title": "lookupTag"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite Base",
-        "module": "MultiSetRewrite.Base",
-        "name": "lookupTag",
-        "normalized": "[Tag]-\u003eTag-\u003eBool",
-        "package": "multisetrewrite",
-        "partial": "Tag",
-        "signature": "[Tag]-\u003eTag-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:match",
-      "description": {
-        "fct-module": "MultiSetRewrite.Base",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "[Tag] -\u003e a -\u003e a -\u003e IO (Bool, [Tag])",
-        "fct-source": "src/MultiSetRewrite-Base.html#match",
-        "fct-type": "method",
-        "title": "match"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite Base",
-        "module": "MultiSetRewrite.Base",
-        "name": "match",
-        "normalized": "[Tag]-\u003ea-\u003ea-\u003eIO(Bool,[Tag])",
-        "package": "multisetrewrite",
-        "partial": "",
-        "signature": "[Tag]-\u003ea-\u003ea-\u003eIO(Bool,[Tag])"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:message",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "MultiSetRewrite.Base",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "a",
-        "fct-source": "src/MultiSetRewrite-Base.html#InternalMsg",
-        "fct-type": "function",
-        "title": "message"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite Base",
-        "module": "MultiSetRewrite.Base",
-        "name": "message",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:msg_tag",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "MultiSetRewrite.Base",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "Tag",
-        "fct-source": "src/MultiSetRewrite-Base.html#InternalMsg",
-        "fct-type": "function",
-        "title": "msg_tag"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite Base",
-        "module": "MultiSetRewrite.Base",
-        "name": "msg_tag",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:newTag",
-      "description": {
-        "fct-module": "MultiSetRewrite.Base",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "IO (IORef ())",
-        "fct-source": "src/MultiSetRewrite-Base.html#newTag",
-        "fct-type": "function",
-        "title": "newTag"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite Base",
-        "module": "MultiSetRewrite.Base",
-        "name": "newTag",
-        "normalized": "IO(IORef())",
-        "package": "multisetrewrite",
-        "partial": "Tag",
-        "signature": "IO(IORef())"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:newVar",
-      "description": {
-        "fct-module": "MultiSetRewrite.Base",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "IO (VAR a)",
-        "fct-source": "src/MultiSetRewrite-Base.html#newVar",
-        "fct-type": "function",
-        "title": "newVar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite Base",
-        "module": "MultiSetRewrite.Base",
-        "name": "newVar",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Var",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:readVar",
-      "description": {
-        "fct-module": "MultiSetRewrite.Base",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "VAR a -\u003e IO a",
-        "fct-source": "src/MultiSetRewrite-Base.html#readVar",
-        "fct-type": "function",
-        "title": "readVar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite Base",
-        "module": "MultiSetRewrite.Base",
-        "name": "readVar",
-        "normalized": "VAR a-\u003eIO a",
-        "package": "multisetrewrite",
-        "partial": "Var",
-        "signature": "VAR a-\u003eIO a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:var_tag",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "MultiSetRewrite.Base",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "Tag",
-        "fct-source": "src/MultiSetRewrite-Base.html#VAR",
-        "fct-type": "function",
-        "title": "var_tag"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite Base",
-        "module": "MultiSetRewrite.Base",
-        "name": "var_tag",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:variable",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "MultiSetRewrite.Base",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "IORef a",
-        "fct-source": "src/MultiSetRewrite-Base.html#VAR",
-        "fct-type": "function",
-        "title": "variable"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite Base",
-        "module": "MultiSetRewrite.Base",
-        "name": "variable",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:writeVar",
-      "description": {
-        "fct-module": "MultiSetRewrite.Base",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "VAR a -\u003e a -\u003e IO ()",
-        "fct-source": "src/MultiSetRewrite-Base.html#writeVar",
-        "fct-type": "function",
-        "title": "writeVar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite Base",
-        "module": "MultiSetRewrite.Base",
-        "name": "writeVar",
-        "normalized": "VAR a-\u003ea-\u003eIO()",
-        "package": "multisetrewrite",
-        "partial": "Var",
-        "signature": "VAR a-\u003ea-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleCompiler",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "module",
-        "fct-source": "src/MultiSetRewrite-RuleCompiler.html",
-        "fct-type": "module",
-        "title": "RuleCompiler"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleCompiler",
-        "module": "MultiSetRewrite.RuleCompiler",
-        "name": "RuleCompiler",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Rule Compiler",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#t:Check",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleCompiler",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "data",
-        "fct-source": "src/MultiSetRewrite-RuleCompiler.html#Check",
-        "fct-type": "data",
-        "title": "Check"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleCompiler",
-        "module": "MultiSetRewrite.RuleCompiler",
-        "name": "Check",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Check",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#t:Cnt",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleCompiler",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "type",
-        "fct-source": "src/MultiSetRewrite-RuleCompiler.html#Cnt",
-        "fct-type": "type",
-        "title": "Cnt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleCompiler",
-        "module": "MultiSetRewrite.RuleCompiler",
-        "name": "Cnt",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Cnt",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#t:Code_RHS",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleCompiler",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "type",
-        "fct-source": "src/MultiSetRewrite-RuleCompiler.html#Code_RHS",
-        "fct-type": "type",
-        "title": "Code_RHS"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleCompiler",
-        "module": "MultiSetRewrite.RuleCompiler",
-        "name": "Code_RHS",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Code RHS",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#t:CompClause",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleCompiler",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "type",
-        "fct-source": "src/MultiSetRewrite-RuleCompiler.html#CompClause",
-        "fct-type": "type",
-        "title": "CompClause"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleCompiler",
-        "module": "MultiSetRewrite.RuleCompiler",
-        "name": "CompClause",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Comp Clause",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#t:RuleCompiler",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleCompiler",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "class",
-        "fct-source": "src/MultiSetRewrite-RuleCompiler.html#RuleCompiler",
-        "fct-type": "class",
-        "title": "RuleCompiler"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleCompiler",
-        "module": "MultiSetRewrite.RuleCompiler",
-        "name": "RuleCompiler",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Rule Compiler",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#v:AtomicGuardVerify",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleCompiler",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "AtomicGuardVerify (STM Bool)",
-        "fct-source": "src/MultiSetRewrite-RuleCompiler.html#Check",
-        "fct-type": "function",
-        "title": "AtomicGuardVerify"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleCompiler",
-        "module": "MultiSetRewrite.RuleCompiler",
-        "name": "AtomicGuardVerify",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Atomic Guard Verify",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#v:Verify",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleCompiler",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "Verify a",
-        "fct-source": "src/MultiSetRewrite-RuleCompiler.html#Check",
-        "fct-type": "function",
-        "title": "Verify"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleCompiler",
-        "module": "MultiSetRewrite.RuleCompiler",
-        "name": "Verify",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Verify",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#v:VerifyAndDelete",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleCompiler",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "VerifyAndDelete a",
-        "fct-source": "src/MultiSetRewrite-RuleCompiler.html#Check",
-        "fct-type": "function",
-        "title": "VerifyAndDelete"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleCompiler",
-        "module": "MultiSetRewrite.RuleCompiler",
-        "name": "VerifyAndDelete",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Verify And Delete",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#v:atomicVerifyAndDeleteCnt",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleCompiler",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "a -\u003e Code_RHS c -\u003e [(Check rm, IO (Maybe (Code_RHS c)))] -\u003e IO (Maybe (Code_RHS c))",
-        "fct-source": "src/MultiSetRewrite-RuleCompiler.html#atomicVerifyAndDeleteCnt",
-        "fct-type": "method",
-        "title": "atomicVerifyAndDeleteCnt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleCompiler",
-        "module": "MultiSetRewrite.RuleCompiler",
-        "name": "atomicVerifyAndDeleteCnt",
-        "normalized": "a-\u003eCode_RHS b-\u003e[(Check c,IO(Maybe(Code_RHS b)))]-\u003eIO(Maybe(Code_RHS b))",
-        "package": "multisetrewrite",
-        "partial": "Verify And Delete Cnt",
-        "signature": "a-\u003eCode_RHS c-\u003e[(Check rm,IO(Maybe(Code_RHS c)))]-\u003eIO(Maybe(Code_RHS c))"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#v:compileCnt",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleCompiler",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "Code_RHS () -\u003e [MatchTask msg] -\u003e [CompClause act rmsg ()]",
-        "fct-source": "src/MultiSetRewrite-RuleCompiler.html#compileCnt",
-        "fct-type": "function",
-        "title": "compileCnt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleCompiler",
-        "module": "MultiSetRewrite.RuleCompiler",
-        "name": "compileCnt",
-        "normalized": "Code_RHS()-\u003e[MatchTask a]-\u003e[CompClause b c()]",
-        "package": "multisetrewrite",
-        "partial": "Cnt",
-        "signature": "Code_RHS()-\u003e[MatchTask msg]-\u003e[CompClause act rmsg()]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#v:compileSingleCnt",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleCompiler",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "act -\u003e Cnt a -\u003e ([(Check rmsg, Cnt a)], Code_RHS a) -\u003e [Tag] -\u003e [MatchTask msg] -\u003e IO (Maybe (Code_RHS a))",
-        "fct-source": "src/MultiSetRewrite-RuleCompiler.html#compileSingleCnt",
-        "fct-type": "function",
-        "title": "compileSingleCnt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleCompiler",
-        "module": "MultiSetRewrite.RuleCompiler",
-        "name": "compileSingleCnt",
-        "normalized": "a-\u003eCnt b-\u003e([(Check c,Cnt b)],Code_RHS b)-\u003e[Tag]-\u003e[MatchTask d]-\u003eIO(Maybe(Code_RHS b))",
-        "package": "multisetrewrite",
-        "partial": "Single Cnt",
-        "signature": "act-\u003eCnt a-\u003e([(Check rmsg,Cnt a)],Code_RHS a)-\u003e[Tag]-\u003e[MatchTask msg]-\u003eIO(Maybe(Code_RHS a))"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#v:extractMsg",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleCompiler",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "rm -\u003e IO (Maybe (InternalMsg m))",
-        "fct-source": "src/MultiSetRewrite-RuleCompiler.html#extractMsg",
-        "fct-type": "method",
-        "title": "extractMsg"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleCompiler",
-        "module": "MultiSetRewrite.RuleCompiler",
-        "name": "extractMsg",
-        "normalized": "a-\u003eIO(Maybe(InternalMsg b))",
-        "package": "multisetrewrite",
-        "partial": "Msg",
-        "signature": "rm-\u003eIO(Maybe(InternalMsg m))"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#v:getIndex",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleCompiler",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "a -\u003e m -\u003e IO idx",
-        "fct-source": "src/MultiSetRewrite-RuleCompiler.html#getIndex",
-        "fct-type": "method",
-        "title": "getIndex"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleCompiler",
-        "module": "MultiSetRewrite.RuleCompiler",
-        "name": "getIndex",
-        "normalized": "a-\u003eb-\u003eIO c",
-        "package": "multisetrewrite",
-        "partial": "Index",
-        "signature": "a-\u003em-\u003eIO idx"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#v:initSearch",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleCompiler",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "a -\u003e idx -\u003e IO st",
-        "fct-source": "src/MultiSetRewrite-RuleCompiler.html#initSearch",
-        "fct-type": "method",
-        "title": "initSearch"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleCompiler",
-        "module": "MultiSetRewrite.RuleCompiler",
-        "name": "initSearch",
-        "normalized": "a-\u003eb-\u003eIO c",
-        "package": "multisetrewrite",
-        "partial": "Search",
-        "signature": "a-\u003eidx-\u003eIO st"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#v:nextMsg",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleCompiler",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "a -\u003e st -\u003e IO (Maybe rm)",
-        "fct-source": "src/MultiSetRewrite-RuleCompiler.html#nextMsg",
-        "fct-type": "method",
-        "title": "nextMsg"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleCompiler",
-        "module": "MultiSetRewrite.RuleCompiler",
-        "name": "nextMsg",
-        "normalized": "a-\u003eb-\u003eIO(Maybe c)",
-        "package": "multisetrewrite",
-        "partial": "Msg",
-        "signature": "a-\u003est-\u003eIO(Maybe rm)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#v:optimize",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleCompiler",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "[[MatchTask msg]] -\u003e [[MatchTask msg]]",
-        "fct-source": "src/MultiSetRewrite-RuleCompiler.html#optimize",
-        "fct-type": "function",
-        "title": "optimize"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleCompiler",
-        "module": "MultiSetRewrite.RuleCompiler",
-        "name": "optimize",
-        "normalized": "[[MatchTask a]]-\u003e[[MatchTask a]]",
-        "package": "multisetrewrite",
-        "partial": "",
-        "signature": "[[MatchTask msg]]-\u003e[[MatchTask msg]]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#v:printMsg",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleCompiler",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "a -\u003e rm -\u003e IO String",
-        "fct-source": "src/MultiSetRewrite-RuleCompiler.html#printMsg",
-        "fct-type": "method",
-        "title": "printMsg"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleCompiler",
-        "module": "MultiSetRewrite.RuleCompiler",
-        "name": "printMsg",
-        "normalized": "a-\u003eb-\u003eIO String",
-        "package": "multisetrewrite",
-        "partial": "Msg",
-        "signature": "a-\u003erm-\u003eIO String"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#v:printReachMsg",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleCompiler",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "a -\u003e st -\u003e IO String",
-        "fct-source": "src/MultiSetRewrite-RuleCompiler.html#printReachMsg",
-        "fct-type": "method",
-        "title": "printReachMsg"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleCompiler",
-        "module": "MultiSetRewrite.RuleCompiler",
-        "name": "printReachMsg",
-        "normalized": "a-\u003eb-\u003eIO String",
-        "package": "multisetrewrite",
-        "partial": "Reach Msg",
-        "signature": "a-\u003est-\u003eIO String"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#v:select",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleCompiler",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "a -\u003e rm -\u003e [CompClause a rm c] -\u003e IO (Maybe (Code_RHS c))",
-        "fct-source": "src/MultiSetRewrite-RuleCompiler.html#select",
-        "fct-type": "function",
-        "title": "select"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleCompiler",
-        "module": "MultiSetRewrite.RuleCompiler",
-        "name": "select",
-        "normalized": "a-\u003eb-\u003e[CompClause a b c]-\u003eIO(Maybe(Code_RHS c))",
-        "package": "multisetrewrite",
-        "partial": "",
-        "signature": "a-\u003erm-\u003e[CompClause a rm c]-\u003eIO(Maybe(Code_RHS c))"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleSyntax.html#",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleSyntax",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "module",
-        "fct-source": "src/MultiSetRewrite-RuleSyntax.html",
-        "fct-type": "module",
-        "title": "RuleSyntax"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleSyntax",
-        "module": "MultiSetRewrite.RuleSyntax",
-        "name": "RuleSyntax",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Rule Syntax",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleSyntax.html#t:ConvertHead",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleSyntax",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "class",
-        "fct-source": "src/MultiSetRewrite-RuleSyntax.html#ConvertHead",
-        "fct-type": "class",
-        "title": "ConvertHead"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleSyntax",
-        "module": "MultiSetRewrite.RuleSyntax",
-        "name": "ConvertHead",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Convert Head",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleSyntax.html#t:MatchTask",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleSyntax",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "data",
-        "fct-source": "src/MultiSetRewrite-RuleSyntax.html#MatchTask",
-        "fct-type": "data",
-        "title": "MatchTask"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleSyntax",
-        "module": "MultiSetRewrite.RuleSyntax",
-        "name": "MatchTask",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Match Task",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleSyntax.html#t:WITHATOMICGUARD",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleSyntax",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "data",
-        "fct-source": "src/MultiSetRewrite-RuleSyntax.html#WITHATOMICGUARD",
-        "fct-type": "data",
-        "title": "WITHATOMICGUARD"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleSyntax",
-        "module": "MultiSetRewrite.RuleSyntax",
-        "name": "WITHATOMICGUARD",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "WITHATOMICGUARD",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleSyntax.html#t:WITHGUARD",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleSyntax",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "data",
-        "fct-source": "src/MultiSetRewrite-RuleSyntax.html#WITHGUARD",
-        "fct-type": "data",
-        "title": "WITHGUARD"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleSyntax",
-        "module": "MultiSetRewrite.RuleSyntax",
-        "name": "WITHGUARD",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "WITHGUARD",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleSyntax.html#v:AtomicGuard",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleSyntax",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "AtomicGuard (STM Bool)",
-        "fct-source": "src/MultiSetRewrite-RuleSyntax.html#MatchTask",
-        "fct-type": "function",
-        "title": "AtomicGuard"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleSyntax",
-        "module": "MultiSetRewrite.RuleSyntax",
-        "name": "AtomicGuard",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Atomic Guard",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleSyntax.html#v:Guard",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleSyntax",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "Guard (IO Bool)",
-        "fct-source": "src/MultiSetRewrite-RuleSyntax.html#MatchTask",
-        "fct-type": "function",
-        "title": "Guard"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleSyntax",
-        "module": "MultiSetRewrite.RuleSyntax",
-        "name": "Guard",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Guard",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleSyntax.html#v:Prop",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleSyntax",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "Prop a",
-        "fct-source": "src/MultiSetRewrite-RuleSyntax.html#MatchTask",
-        "fct-type": "function",
-        "title": "Prop"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleSyntax",
-        "module": "MultiSetRewrite.RuleSyntax",
-        "name": "Prop",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Prop",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleSyntax.html#v:Simp",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleSyntax",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "Simp a",
-        "fct-source": "src/MultiSetRewrite-RuleSyntax.html#MatchTask",
-        "fct-type": "function",
-        "title": "Simp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleSyntax",
-        "module": "MultiSetRewrite.RuleSyntax",
-        "name": "Simp",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Simp",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleSyntax.html#v:WITHATOMICGUARD",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleSyntax",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "WITHATOMICGUARD a (STM Bool)",
-        "fct-source": "src/MultiSetRewrite-RuleSyntax.html#WITHATOMICGUARD",
-        "fct-type": "function",
-        "title": "WITHATOMICGUARD"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleSyntax",
-        "module": "MultiSetRewrite.RuleSyntax",
-        "name": "WITHATOMICGUARD",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "WITHATOMICGUARD",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleSyntax.html#v:WITHGUARD",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleSyntax",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "WITHGUARD a (IO Bool)",
-        "fct-source": "src/MultiSetRewrite-RuleSyntax.html#WITHGUARD",
-        "fct-type": "function",
-        "title": "WITHGUARD"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleSyntax",
-        "module": "MultiSetRewrite.RuleSyntax",
-        "name": "WITHGUARD",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "WITHGUARD",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleSyntax.html#v:convertHead",
-      "description": {
-        "fct-module": "MultiSetRewrite.RuleSyntax",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "a -\u003e [MatchTask b]",
-        "fct-source": "src/MultiSetRewrite-RuleSyntax.html#convertHead",
-        "fct-type": "method",
-        "title": "convertHead"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite RuleSyntax",
-        "module": "MultiSetRewrite.RuleSyntax",
-        "name": "convertHead",
-        "normalized": "a-\u003e[MatchTask b]",
-        "package": "multisetrewrite",
-        "partial": "Head",
-        "signature": "a-\u003e[MatchTask b]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StorePrettyPrinter.html#",
-      "description": {
-        "fct-module": "MultiSetRewrite.StorePrettyPrinter",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "module",
-        "fct-source": "src/MultiSetRewrite-StorePrettyPrinter.html",
-        "fct-type": "module",
-        "title": "StorePrettyPrinter"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite StorePrettyPrinter",
-        "module": "MultiSetRewrite.StorePrettyPrinter",
-        "name": "StorePrettyPrinter",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Store Pretty Printer",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StorePrettyPrinter.html#t:PrettyPrint",
-      "description": {
-        "fct-module": "MultiSetRewrite.StorePrettyPrinter",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "class",
-        "fct-source": "src/MultiSetRewrite-StorePrettyPrinter.html#PrettyPrint",
-        "fct-type": "class",
-        "title": "PrettyPrint"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite StorePrettyPrinter",
-        "module": "MultiSetRewrite.StorePrettyPrinter",
-        "name": "PrettyPrint",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Pretty Print",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StorePrettyPrinter.html#v:prettyIt",
-      "description": {
-        "fct-module": "MultiSetRewrite.StorePrettyPrinter",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "a -\u003e IO String",
-        "fct-source": "src/MultiSetRewrite-StorePrettyPrinter.html#prettyIt",
-        "fct-type": "method",
-        "title": "prettyIt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite StorePrettyPrinter",
-        "module": "MultiSetRewrite.StorePrettyPrinter",
-        "name": "prettyIt",
-        "normalized": "a-\u003eIO String",
-        "package": "multisetrewrite",
-        "partial": "It",
-        "signature": "a-\u003eIO String"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StorePrettyPrinter.html#v:prettyItList",
-      "description": {
-        "fct-module": "MultiSetRewrite.StorePrettyPrinter",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "[a] -\u003e String -\u003e IO String",
-        "fct-source": "src/MultiSetRewrite-StorePrettyPrinter.html#prettyItList",
-        "fct-type": "function",
-        "title": "prettyItList"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite StorePrettyPrinter",
-        "module": "MultiSetRewrite.StorePrettyPrinter",
-        "name": "prettyItList",
-        "normalized": "[a]-\u003eString-\u003eIO String",
-        "package": "multisetrewrite",
-        "partial": "It List",
-        "signature": "[a]-\u003eString-\u003eIO String"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StorePrettyPrinter.html#v:retrieveBag",
-      "description": {
-        "fct-module": "MultiSetRewrite.StorePrettyPrinter",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "Bag a -\u003e IO [a]",
-        "fct-source": "src/MultiSetRewrite-StorePrettyPrinter.html#retrieveBag",
-        "fct-type": "function",
-        "title": "retrieveBag"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite StorePrettyPrinter",
-        "module": "MultiSetRewrite.StorePrettyPrinter",
-        "name": "retrieveBag",
-        "normalized": "Bag a-\u003eIO[a]",
-        "package": "multisetrewrite",
-        "partial": "Bag",
-        "signature": "Bag a-\u003eIO[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StorePrettyPrinter.html#v:retrieveList",
-      "description": {
-        "fct-module": "MultiSetRewrite.StorePrettyPrinter",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "ListHandle a -\u003e IO [a]",
-        "fct-source": "src/MultiSetRewrite-StorePrettyPrinter.html#retrieveList",
-        "fct-type": "function",
-        "title": "retrieveList"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite StorePrettyPrinter",
-        "module": "MultiSetRewrite.StorePrettyPrinter",
-        "name": "retrieveList",
-        "normalized": "ListHandle a-\u003eIO[a]",
-        "package": "multisetrewrite",
-        "partial": "List",
-        "signature": "ListHandle a-\u003eIO[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StoreRepresentation.html#",
-      "description": {
-        "fct-module": "MultiSetRewrite.StoreRepresentation",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "module",
-        "fct-source": "src/MultiSetRewrite-StoreRepresentation.html",
-        "fct-type": "module",
-        "title": "StoreRepresentation"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite StoreRepresentation",
-        "module": "MultiSetRewrite.StoreRepresentation",
-        "name": "StoreRepresentation",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Store Representation",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StoreRepresentation.html#t:HashIdx",
-      "description": {
-        "fct-module": "MultiSetRewrite.StoreRepresentation",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "type",
-        "fct-source": "src/MultiSetRewrite-StoreRepresentation.html#HashIdx",
-        "fct-type": "type",
-        "title": "HashIdx"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite StoreRepresentation",
-        "module": "MultiSetRewrite.StoreRepresentation",
-        "name": "HashIdx",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Hash Idx",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StoreRepresentation.html#t:HashOp",
-      "description": {
-        "fct-module": "MultiSetRewrite.StoreRepresentation",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "data",
-        "fct-source": "src/MultiSetRewrite-StoreRepresentation.html#HashOp",
-        "fct-type": "data",
-        "title": "HashOp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite StoreRepresentation",
-        "module": "MultiSetRewrite.StoreRepresentation",
-        "name": "HashOp",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Hash Op",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StoreRepresentation.html#t:Location",
-      "description": {
-        "fct-module": "MultiSetRewrite.StoreRepresentation",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "type",
-        "fct-source": "src/MultiSetRewrite-StoreRepresentation.html#Location",
-        "fct-type": "type",
-        "title": "Location"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite StoreRepresentation",
-        "module": "MultiSetRewrite.StoreRepresentation",
-        "name": "Location",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Location",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StoreRepresentation.html#t:Store",
-      "description": {
-        "fct-module": "MultiSetRewrite.StoreRepresentation",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "data",
-        "fct-source": "src/MultiSetRewrite-StoreRepresentation.html#Store",
-        "fct-type": "data",
-        "title": "Store"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite StoreRepresentation",
-        "module": "MultiSetRewrite.StoreRepresentation",
-        "name": "Store",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Store",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StoreRepresentation.html#v:HashOp",
-      "description": {
-        "fct-module": "MultiSetRewrite.StoreRepresentation",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "HashOp",
-        "fct-source": "src/MultiSetRewrite-StoreRepresentation.html#HashOp",
-        "fct-type": "function",
-        "title": "HashOp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite StoreRepresentation",
-        "module": "MultiSetRewrite.StoreRepresentation",
-        "name": "HashOp",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Hash Op",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StoreRepresentation.html#v:Store",
-      "description": {
-        "fct-module": "MultiSetRewrite.StoreRepresentation",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "Store",
-        "fct-source": "src/MultiSetRewrite-StoreRepresentation.html#Store",
-        "fct-type": "function",
-        "title": "Store"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite StoreRepresentation",
-        "module": "MultiSetRewrite.StoreRepresentation",
-        "name": "Store",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Store",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StoreRepresentation.html#v:addMsg",
-      "description": {
-        "fct-module": "MultiSetRewrite.StoreRepresentation",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "Store msg -\u003e msg -\u003e IO (Location msg)",
-        "fct-source": "src/MultiSetRewrite-StoreRepresentation.html#addMsg",
-        "fct-type": "function",
-        "title": "addMsg"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite StoreRepresentation",
-        "module": "MultiSetRewrite.StoreRepresentation",
-        "name": "addMsg",
-        "normalized": "Store a-\u003ea-\u003eIO(Location a)",
-        "package": "multisetrewrite",
-        "partial": "Msg",
-        "signature": "Store msg-\u003emsg-\u003eIO(Location msg)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StoreRepresentation.html#v:compileRulePattern",
-      "description": {
-        "fct-module": "MultiSetRewrite.StoreRepresentation",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "[([MatchTask msg], Code_RHS ())] -\u003e [CompClause (Store msg) (Location msg) ()]",
-        "fct-source": "src/MultiSetRewrite-StoreRepresentation.html#compileRulePattern",
-        "fct-type": "function",
-        "title": "compileRulePattern"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite StoreRepresentation",
-        "module": "MultiSetRewrite.StoreRepresentation",
-        "name": "compileRulePattern",
-        "normalized": "[([MatchTask a],Code_RHS())]-\u003e[CompClause(Store a)(Location a)()]",
-        "package": "multisetrewrite",
-        "partial": "Rule Pattern",
-        "signature": "[([MatchTask msg],Code_RHS())]-\u003e[CompClause(Store msg)(Location msg)()]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StoreRepresentation.html#v:executeRules",
-      "description": {
-        "fct-module": "MultiSetRewrite.StoreRepresentation",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "Store msg -\u003e Location msg -\u003e [CompClause (Store msg) (Location msg) ()] -\u003e IO (Maybe (Code_RHS ()))",
-        "fct-source": "src/MultiSetRewrite-StoreRepresentation.html#executeRules",
-        "fct-type": "function",
-        "title": "executeRules"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite StoreRepresentation",
-        "module": "MultiSetRewrite.StoreRepresentation",
-        "name": "executeRules",
-        "normalized": "Store a-\u003eLocation a-\u003e[CompClause(Store a)(Location a)()]-\u003eIO(Maybe(Code_RHS()))",
-        "package": "multisetrewrite",
-        "partial": "Rules",
-        "signature": "Store msg-\u003eLocation msg-\u003e[CompClause(Store msg)(Location msg)()]-\u003eIO(Maybe(Code_RHS()))"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StoreRepresentation.html#v:hashMsg",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "MultiSetRewrite.StoreRepresentation",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "msg -\u003e HashIdx",
-        "fct-source": "src/MultiSetRewrite-StoreRepresentation.html#HashOp",
-        "fct-type": "function",
-        "title": "hashMsg"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite StoreRepresentation",
-        "module": "MultiSetRewrite.StoreRepresentation",
-        "name": "hashMsg",
-        "normalized": "a-\u003eHashIdx",
-        "package": "multisetrewrite",
-        "partial": "Msg",
-        "signature": "msg-\u003eHashIdx"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StoreRepresentation.html#v:hashOp",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "MultiSetRewrite.StoreRepresentation",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "HashOp msg",
-        "fct-source": "src/MultiSetRewrite-StoreRepresentation.html#Store",
-        "fct-type": "function",
-        "title": "hashOp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite StoreRepresentation",
-        "module": "MultiSetRewrite.StoreRepresentation",
-        "name": "hashOp",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Op",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StoreRepresentation.html#v:msgTable",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "MultiSetRewrite.StoreRepresentation",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "[Bag (InternalMsg msg)]",
-        "fct-source": "src/MultiSetRewrite-StoreRepresentation.html#Store",
-        "fct-type": "function",
-        "title": "msgTable"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite StoreRepresentation",
-        "module": "MultiSetRewrite.StoreRepresentation",
-        "name": "msgTable",
-        "normalized": "[Bag(InternalMsg a)]",
-        "package": "multisetrewrite",
-        "partial": "Table",
-        "signature": "[Bag(InternalMsg msg)]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StoreRepresentation.html#v:newStore",
-      "description": {
-        "fct-module": "MultiSetRewrite.StoreRepresentation",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "HashOp msg -\u003e IO (Store msg)",
-        "fct-source": "src/MultiSetRewrite-StoreRepresentation.html#newStore",
-        "fct-type": "function",
-        "title": "newStore"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite StoreRepresentation",
-        "module": "MultiSetRewrite.StoreRepresentation",
-        "name": "newStore",
-        "normalized": "HashOp a-\u003eIO(Store a)",
-        "package": "multisetrewrite",
-        "partial": "Store",
-        "signature": "HashOp msg-\u003eIO(Store msg)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StoreRepresentation.html#v:numberOfTables",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "MultiSetRewrite.StoreRepresentation",
-        "fct-package": "multisetrewrite",
-        "fct-signature": "HashIdx",
-        "fct-source": "src/MultiSetRewrite-StoreRepresentation.html#HashOp",
-        "fct-type": "function",
-        "title": "numberOfTables"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MultiSetRewrite StoreRepresentation",
-        "module": "MultiSetRewrite.StoreRepresentation",
-        "name": "numberOfTables",
-        "normalized": "",
-        "package": "multisetrewrite",
-        "partial": "Of Tables",
-        "signature": ""
-      }
-    }
-  }
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "multisetrewrite"
+      },
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.Base",
+          "name": "Base",
+          "package": "multisetrewrite",
+          "source": "src/MultiSetRewrite-Base.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite Base",
+          "module": "MultiSetRewrite.Base",
+          "name": "Base",
+          "package": "multisetrewrite",
+          "partial": "Base",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.Base",
+          "name": "EMatch",
+          "package": "multisetrewrite",
+          "source": "src/MultiSetRewrite-Base.html#EMatch",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite Base",
+          "module": "MultiSetRewrite.Base",
+          "name": "EMatch",
+          "package": "multisetrewrite",
+          "partial": "EMatch",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#t:EMatch"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.Base",
+          "name": "InternalMsg",
+          "package": "multisetrewrite",
+          "source": "src/MultiSetRewrite-Base.html#InternalMsg",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite Base",
+          "module": "MultiSetRewrite.Base",
+          "name": "InternalMsg",
+          "package": "multisetrewrite",
+          "partial": "Internal Msg",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#t:InternalMsg"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.Base",
+          "name": "L",
+          "package": "multisetrewrite",
+          "source": "src/MultiSetRewrite-Base.html#L",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite Base",
+          "module": "MultiSetRewrite.Base",
+          "name": "L",
+          "package": "multisetrewrite",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#t:L"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.Base",
+          "name": "Match",
+          "package": "multisetrewrite",
+          "source": "src/MultiSetRewrite-Base.html#Match",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite Base",
+          "module": "MultiSetRewrite.Base",
+          "name": "Match",
+          "package": "multisetrewrite",
+          "partial": "Match",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#t:Match"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.Base",
+          "name": "Tag",
+          "package": "multisetrewrite",
+          "source": "src/MultiSetRewrite-Base.html#Tag",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite Base",
+          "module": "MultiSetRewrite.Base",
+          "name": "Tag",
+          "package": "multisetrewrite",
+          "partial": "Tag",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#t:Tag"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.Base",
+          "name": "VAR",
+          "package": "multisetrewrite",
+          "source": "src/MultiSetRewrite-Base.html#VAR",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite Base",
+          "module": "MultiSetRewrite.Base",
+          "name": "VAR",
+          "package": "multisetrewrite",
+          "partial": "VAR",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#t:VAR"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.Base",
+          "name": "DontCare",
+          "package": "multisetrewrite",
+          "signature": "DontCare",
+          "source": "src/MultiSetRewrite-Base.html#VAR",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite Base",
+          "module": "MultiSetRewrite.Base",
+          "name": "DontCare",
+          "package": "multisetrewrite",
+          "partial": "Dont Care",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:DontCare"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.Base",
+          "name": "InternalMsg",
+          "package": "multisetrewrite",
+          "signature": "InternalMsg",
+          "source": "src/MultiSetRewrite-Base.html#InternalMsg",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite Base",
+          "module": "MultiSetRewrite.Base",
+          "name": "InternalMsg",
+          "package": "multisetrewrite",
+          "partial": "Internal Msg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:InternalMsg"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.Base",
+          "name": "VAR",
+          "package": "multisetrewrite",
+          "signature": "VAR",
+          "source": "src/MultiSetRewrite-Base.html#VAR",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite Base",
+          "module": "MultiSetRewrite.Base",
+          "name": "VAR",
+          "package": "multisetrewrite",
+          "partial": "VAR",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:VAR"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.Base",
+          "name": "Val",
+          "package": "multisetrewrite",
+          "signature": "Val a",
+          "source": "src/MultiSetRewrite-Base.html#L",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite Base",
+          "module": "MultiSetRewrite.Base",
+          "name": "Val",
+          "package": "multisetrewrite",
+          "partial": "Val",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:Val"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.Base",
+          "name": "Var",
+          "package": "multisetrewrite",
+          "signature": "Var (VAR a)",
+          "source": "src/MultiSetRewrite-Base.html#L",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite Base",
+          "module": "MultiSetRewrite.Base",
+          "name": "Var",
+          "package": "multisetrewrite",
+          "partial": "Var",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:Var"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.Base",
+          "name": "dontCareVar",
+          "package": "multisetrewrite",
+          "signature": "IO (VAR a)",
+          "source": "src/MultiSetRewrite-Base.html#dontCareVar",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite Base",
+          "module": "MultiSetRewrite.Base",
+          "name": "dontCareVar",
+          "package": "multisetrewrite",
+          "partial": "Care Var",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:dontCareVar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.Base",
+          "name": "internal_match",
+          "package": "multisetrewrite",
+          "signature": "[Tag] -\u003e InternalMsg a -\u003e a -\u003e IO (Bool, [Tag])",
+          "source": "src/MultiSetRewrite-Base.html#internal_match",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite Base",
+          "module": "MultiSetRewrite.Base",
+          "name": "internal_match",
+          "normalized": "[Tag]-\u003eInternalMsg a-\u003ea-\u003eIO(Bool,[Tag])",
+          "package": "multisetrewrite",
+          "signature": "[Tag]-\u003eInternalMsg a-\u003ea-\u003eIO(Bool,[Tag])",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:internal_match"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.Base",
+          "name": "lookupTag",
+          "package": "multisetrewrite",
+          "signature": "[Tag] -\u003e Tag -\u003e Bool",
+          "source": "src/MultiSetRewrite-Base.html#lookupTag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite Base",
+          "module": "MultiSetRewrite.Base",
+          "name": "lookupTag",
+          "normalized": "[Tag]-\u003eTag-\u003eBool",
+          "package": "multisetrewrite",
+          "partial": "Tag",
+          "signature": "[Tag]-\u003eTag-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:lookupTag"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.Base",
+          "name": "match",
+          "package": "multisetrewrite",
+          "signature": "[Tag] -\u003e a -\u003e a -\u003e IO (Bool, [Tag])",
+          "source": "src/MultiSetRewrite-Base.html#match",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite Base",
+          "module": "MultiSetRewrite.Base",
+          "name": "match",
+          "normalized": "[Tag]-\u003ea-\u003ea-\u003eIO(Bool,[Tag])",
+          "package": "multisetrewrite",
+          "signature": "[Tag]-\u003ea-\u003ea-\u003eIO(Bool,[Tag])",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:match"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.Base",
+          "name": "message",
+          "package": "multisetrewrite",
+          "signature": "a",
+          "source": "src/MultiSetRewrite-Base.html#InternalMsg",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite Base",
+          "module": "MultiSetRewrite.Base",
+          "name": "message",
+          "package": "multisetrewrite",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:message"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.Base",
+          "name": "msg_tag",
+          "package": "multisetrewrite",
+          "signature": "Tag",
+          "source": "src/MultiSetRewrite-Base.html#InternalMsg",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite Base",
+          "module": "MultiSetRewrite.Base",
+          "name": "msg_tag",
+          "package": "multisetrewrite",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:msg_tag"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.Base",
+          "name": "newTag",
+          "package": "multisetrewrite",
+          "signature": "IO (IORef ())",
+          "source": "src/MultiSetRewrite-Base.html#newTag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite Base",
+          "module": "MultiSetRewrite.Base",
+          "name": "newTag",
+          "normalized": "IO(IORef())",
+          "package": "multisetrewrite",
+          "partial": "Tag",
+          "signature": "IO(IORef())",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:newTag"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.Base",
+          "name": "newVar",
+          "package": "multisetrewrite",
+          "signature": "IO (VAR a)",
+          "source": "src/MultiSetRewrite-Base.html#newVar",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite Base",
+          "module": "MultiSetRewrite.Base",
+          "name": "newVar",
+          "package": "multisetrewrite",
+          "partial": "Var",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:newVar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.Base",
+          "name": "readVar",
+          "package": "multisetrewrite",
+          "signature": "VAR a -\u003e IO a",
+          "source": "src/MultiSetRewrite-Base.html#readVar",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite Base",
+          "module": "MultiSetRewrite.Base",
+          "name": "readVar",
+          "normalized": "VAR a-\u003eIO a",
+          "package": "multisetrewrite",
+          "partial": "Var",
+          "signature": "VAR a-\u003eIO a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:readVar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.Base",
+          "name": "var_tag",
+          "package": "multisetrewrite",
+          "signature": "Tag",
+          "source": "src/MultiSetRewrite-Base.html#VAR",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite Base",
+          "module": "MultiSetRewrite.Base",
+          "name": "var_tag",
+          "package": "multisetrewrite",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:var_tag"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.Base",
+          "name": "variable",
+          "package": "multisetrewrite",
+          "signature": "IORef a",
+          "source": "src/MultiSetRewrite-Base.html#VAR",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite Base",
+          "module": "MultiSetRewrite.Base",
+          "name": "variable",
+          "package": "multisetrewrite",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:variable"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.Base",
+          "name": "writeVar",
+          "package": "multisetrewrite",
+          "signature": "VAR a -\u003e a -\u003e IO ()",
+          "source": "src/MultiSetRewrite-Base.html#writeVar",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite Base",
+          "module": "MultiSetRewrite.Base",
+          "name": "writeVar",
+          "normalized": "VAR a-\u003ea-\u003eIO()",
+          "package": "multisetrewrite",
+          "partial": "Var",
+          "signature": "VAR a-\u003ea-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-Base.html#v:writeVar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "RuleCompiler",
+          "package": "multisetrewrite",
+          "source": "src/MultiSetRewrite-RuleCompiler.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleCompiler",
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "RuleCompiler",
+          "package": "multisetrewrite",
+          "partial": "Rule Compiler",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "Check",
+          "package": "multisetrewrite",
+          "source": "src/MultiSetRewrite-RuleCompiler.html#Check",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleCompiler",
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "Check",
+          "package": "multisetrewrite",
+          "partial": "Check",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#t:Check"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "Cnt",
+          "package": "multisetrewrite",
+          "source": "src/MultiSetRewrite-RuleCompiler.html#Cnt",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleCompiler",
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "Cnt",
+          "package": "multisetrewrite",
+          "partial": "Cnt",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#t:Cnt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "Code_RHS",
+          "package": "multisetrewrite",
+          "source": "src/MultiSetRewrite-RuleCompiler.html#Code_RHS",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleCompiler",
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "Code_RHS",
+          "package": "multisetrewrite",
+          "partial": "Code RHS",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#t:Code_RHS"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "CompClause",
+          "package": "multisetrewrite",
+          "source": "src/MultiSetRewrite-RuleCompiler.html#CompClause",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleCompiler",
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "CompClause",
+          "package": "multisetrewrite",
+          "partial": "Comp Clause",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#t:CompClause"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "RuleCompiler",
+          "package": "multisetrewrite",
+          "source": "src/MultiSetRewrite-RuleCompiler.html#RuleCompiler",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleCompiler",
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "RuleCompiler",
+          "package": "multisetrewrite",
+          "partial": "Rule Compiler",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#t:RuleCompiler"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "AtomicGuardVerify",
+          "package": "multisetrewrite",
+          "signature": "AtomicGuardVerify (STM Bool)",
+          "source": "src/MultiSetRewrite-RuleCompiler.html#Check",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleCompiler",
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "AtomicGuardVerify",
+          "package": "multisetrewrite",
+          "partial": "Atomic Guard Verify",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#v:AtomicGuardVerify"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "Verify",
+          "package": "multisetrewrite",
+          "signature": "Verify a",
+          "source": "src/MultiSetRewrite-RuleCompiler.html#Check",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleCompiler",
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "Verify",
+          "package": "multisetrewrite",
+          "partial": "Verify",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#v:Verify"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "VerifyAndDelete",
+          "package": "multisetrewrite",
+          "signature": "VerifyAndDelete a",
+          "source": "src/MultiSetRewrite-RuleCompiler.html#Check",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleCompiler",
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "VerifyAndDelete",
+          "package": "multisetrewrite",
+          "partial": "Verify And Delete",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#v:VerifyAndDelete"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "atomicVerifyAndDeleteCnt",
+          "package": "multisetrewrite",
+          "signature": "a -\u003e Code_RHS c -\u003e [(Check rm, IO (Maybe (Code_RHS c)))] -\u003e IO (Maybe (Code_RHS c))",
+          "source": "src/MultiSetRewrite-RuleCompiler.html#atomicVerifyAndDeleteCnt",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleCompiler",
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "atomicVerifyAndDeleteCnt",
+          "normalized": "a-\u003eCode_RHS b-\u003e[(Check c,IO(Maybe(Code_RHS b)))]-\u003eIO(Maybe(Code_RHS b))",
+          "package": "multisetrewrite",
+          "partial": "Verify And Delete Cnt",
+          "signature": "a-\u003eCode_RHS c-\u003e[(Check rm,IO(Maybe(Code_RHS c)))]-\u003eIO(Maybe(Code_RHS c))",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#v:atomicVerifyAndDeleteCnt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "compileCnt",
+          "package": "multisetrewrite",
+          "signature": "Code_RHS () -\u003e [MatchTask msg] -\u003e [CompClause act rmsg ()]",
+          "source": "src/MultiSetRewrite-RuleCompiler.html#compileCnt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleCompiler",
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "compileCnt",
+          "normalized": "Code_RHS()-\u003e[MatchTask a]-\u003e[CompClause b c()]",
+          "package": "multisetrewrite",
+          "partial": "Cnt",
+          "signature": "Code_RHS()-\u003e[MatchTask msg]-\u003e[CompClause act rmsg()]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#v:compileCnt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "compileSingleCnt",
+          "package": "multisetrewrite",
+          "signature": "act -\u003e Cnt a -\u003e ([(Check rmsg, Cnt a)], Code_RHS a) -\u003e [Tag] -\u003e [MatchTask msg] -\u003e IO (Maybe (Code_RHS a))",
+          "source": "src/MultiSetRewrite-RuleCompiler.html#compileSingleCnt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleCompiler",
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "compileSingleCnt",
+          "normalized": "a-\u003eCnt b-\u003e([(Check c,Cnt b)],Code_RHS b)-\u003e[Tag]-\u003e[MatchTask d]-\u003eIO(Maybe(Code_RHS b))",
+          "package": "multisetrewrite",
+          "partial": "Single Cnt",
+          "signature": "act-\u003eCnt a-\u003e([(Check rmsg,Cnt a)],Code_RHS a)-\u003e[Tag]-\u003e[MatchTask msg]-\u003eIO(Maybe(Code_RHS a))",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#v:compileSingleCnt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "extractMsg",
+          "package": "multisetrewrite",
+          "signature": "rm -\u003e IO (Maybe (InternalMsg m))",
+          "source": "src/MultiSetRewrite-RuleCompiler.html#extractMsg",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleCompiler",
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "extractMsg",
+          "normalized": "a-\u003eIO(Maybe(InternalMsg b))",
+          "package": "multisetrewrite",
+          "partial": "Msg",
+          "signature": "rm-\u003eIO(Maybe(InternalMsg m))",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#v:extractMsg"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "getIndex",
+          "package": "multisetrewrite",
+          "signature": "a -\u003e m -\u003e IO idx",
+          "source": "src/MultiSetRewrite-RuleCompiler.html#getIndex",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleCompiler",
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "getIndex",
+          "normalized": "a-\u003eb-\u003eIO c",
+          "package": "multisetrewrite",
+          "partial": "Index",
+          "signature": "a-\u003em-\u003eIO idx",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#v:getIndex"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "initSearch",
+          "package": "multisetrewrite",
+          "signature": "a -\u003e idx -\u003e IO st",
+          "source": "src/MultiSetRewrite-RuleCompiler.html#initSearch",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleCompiler",
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "initSearch",
+          "normalized": "a-\u003eb-\u003eIO c",
+          "package": "multisetrewrite",
+          "partial": "Search",
+          "signature": "a-\u003eidx-\u003eIO st",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#v:initSearch"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "nextMsg",
+          "package": "multisetrewrite",
+          "signature": "a -\u003e st -\u003e IO (Maybe rm)",
+          "source": "src/MultiSetRewrite-RuleCompiler.html#nextMsg",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleCompiler",
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "nextMsg",
+          "normalized": "a-\u003eb-\u003eIO(Maybe c)",
+          "package": "multisetrewrite",
+          "partial": "Msg",
+          "signature": "a-\u003est-\u003eIO(Maybe rm)",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#v:nextMsg"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "optimize",
+          "package": "multisetrewrite",
+          "signature": "[[MatchTask msg]] -\u003e [[MatchTask msg]]",
+          "source": "src/MultiSetRewrite-RuleCompiler.html#optimize",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleCompiler",
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "optimize",
+          "normalized": "[[MatchTask a]]-\u003e[[MatchTask a]]",
+          "package": "multisetrewrite",
+          "signature": "[[MatchTask msg]]-\u003e[[MatchTask msg]]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#v:optimize"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "printMsg",
+          "package": "multisetrewrite",
+          "signature": "a -\u003e rm -\u003e IO String",
+          "source": "src/MultiSetRewrite-RuleCompiler.html#printMsg",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleCompiler",
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "printMsg",
+          "normalized": "a-\u003eb-\u003eIO String",
+          "package": "multisetrewrite",
+          "partial": "Msg",
+          "signature": "a-\u003erm-\u003eIO String",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#v:printMsg"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "printReachMsg",
+          "package": "multisetrewrite",
+          "signature": "a -\u003e st -\u003e IO String",
+          "source": "src/MultiSetRewrite-RuleCompiler.html#printReachMsg",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleCompiler",
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "printReachMsg",
+          "normalized": "a-\u003eb-\u003eIO String",
+          "package": "multisetrewrite",
+          "partial": "Reach Msg",
+          "signature": "a-\u003est-\u003eIO String",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#v:printReachMsg"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "select",
+          "package": "multisetrewrite",
+          "signature": "a -\u003e rm -\u003e [CompClause a rm c] -\u003e IO (Maybe (Code_RHS c))",
+          "source": "src/MultiSetRewrite-RuleCompiler.html#select",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleCompiler",
+          "module": "MultiSetRewrite.RuleCompiler",
+          "name": "select",
+          "normalized": "a-\u003eb-\u003e[CompClause a b c]-\u003eIO(Maybe(Code_RHS c))",
+          "package": "multisetrewrite",
+          "signature": "a-\u003erm-\u003e[CompClause a rm c]-\u003eIO(Maybe(Code_RHS c))",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleCompiler.html#v:select"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleSyntax",
+          "name": "RuleSyntax",
+          "package": "multisetrewrite",
+          "source": "src/MultiSetRewrite-RuleSyntax.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleSyntax",
+          "module": "MultiSetRewrite.RuleSyntax",
+          "name": "RuleSyntax",
+          "package": "multisetrewrite",
+          "partial": "Rule Syntax",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleSyntax.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleSyntax",
+          "name": "ConvertHead",
+          "package": "multisetrewrite",
+          "source": "src/MultiSetRewrite-RuleSyntax.html#ConvertHead",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleSyntax",
+          "module": "MultiSetRewrite.RuleSyntax",
+          "name": "ConvertHead",
+          "package": "multisetrewrite",
+          "partial": "Convert Head",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleSyntax.html#t:ConvertHead"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleSyntax",
+          "name": "MatchTask",
+          "package": "multisetrewrite",
+          "source": "src/MultiSetRewrite-RuleSyntax.html#MatchTask",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleSyntax",
+          "module": "MultiSetRewrite.RuleSyntax",
+          "name": "MatchTask",
+          "package": "multisetrewrite",
+          "partial": "Match Task",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleSyntax.html#t:MatchTask"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleSyntax",
+          "name": "WITHATOMICGUARD",
+          "package": "multisetrewrite",
+          "source": "src/MultiSetRewrite-RuleSyntax.html#WITHATOMICGUARD",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleSyntax",
+          "module": "MultiSetRewrite.RuleSyntax",
+          "name": "WITHATOMICGUARD",
+          "package": "multisetrewrite",
+          "partial": "WITHATOMICGUARD",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleSyntax.html#t:WITHATOMICGUARD"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleSyntax",
+          "name": "WITHGUARD",
+          "package": "multisetrewrite",
+          "source": "src/MultiSetRewrite-RuleSyntax.html#WITHGUARD",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleSyntax",
+          "module": "MultiSetRewrite.RuleSyntax",
+          "name": "WITHGUARD",
+          "package": "multisetrewrite",
+          "partial": "WITHGUARD",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleSyntax.html#t:WITHGUARD"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleSyntax",
+          "name": "AtomicGuard",
+          "package": "multisetrewrite",
+          "signature": "AtomicGuard (STM Bool)",
+          "source": "src/MultiSetRewrite-RuleSyntax.html#MatchTask",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleSyntax",
+          "module": "MultiSetRewrite.RuleSyntax",
+          "name": "AtomicGuard",
+          "package": "multisetrewrite",
+          "partial": "Atomic Guard",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleSyntax.html#v:AtomicGuard"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleSyntax",
+          "name": "Guard",
+          "package": "multisetrewrite",
+          "signature": "Guard (IO Bool)",
+          "source": "src/MultiSetRewrite-RuleSyntax.html#MatchTask",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleSyntax",
+          "module": "MultiSetRewrite.RuleSyntax",
+          "name": "Guard",
+          "package": "multisetrewrite",
+          "partial": "Guard",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleSyntax.html#v:Guard"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleSyntax",
+          "name": "Prop",
+          "package": "multisetrewrite",
+          "signature": "Prop a",
+          "source": "src/MultiSetRewrite-RuleSyntax.html#MatchTask",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleSyntax",
+          "module": "MultiSetRewrite.RuleSyntax",
+          "name": "Prop",
+          "package": "multisetrewrite",
+          "partial": "Prop",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleSyntax.html#v:Prop"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleSyntax",
+          "name": "Simp",
+          "package": "multisetrewrite",
+          "signature": "Simp a",
+          "source": "src/MultiSetRewrite-RuleSyntax.html#MatchTask",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleSyntax",
+          "module": "MultiSetRewrite.RuleSyntax",
+          "name": "Simp",
+          "package": "multisetrewrite",
+          "partial": "Simp",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleSyntax.html#v:Simp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleSyntax",
+          "name": "WITHATOMICGUARD",
+          "package": "multisetrewrite",
+          "signature": "WITHATOMICGUARD a (STM Bool)",
+          "source": "src/MultiSetRewrite-RuleSyntax.html#WITHATOMICGUARD",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleSyntax",
+          "module": "MultiSetRewrite.RuleSyntax",
+          "name": "WITHATOMICGUARD",
+          "package": "multisetrewrite",
+          "partial": "WITHATOMICGUARD",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleSyntax.html#v:WITHATOMICGUARD"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleSyntax",
+          "name": "WITHGUARD",
+          "package": "multisetrewrite",
+          "signature": "WITHGUARD a (IO Bool)",
+          "source": "src/MultiSetRewrite-RuleSyntax.html#WITHGUARD",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleSyntax",
+          "module": "MultiSetRewrite.RuleSyntax",
+          "name": "WITHGUARD",
+          "package": "multisetrewrite",
+          "partial": "WITHGUARD",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleSyntax.html#v:WITHGUARD"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.RuleSyntax",
+          "name": "convertHead",
+          "package": "multisetrewrite",
+          "signature": "a -\u003e [MatchTask b]",
+          "source": "src/MultiSetRewrite-RuleSyntax.html#convertHead",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite RuleSyntax",
+          "module": "MultiSetRewrite.RuleSyntax",
+          "name": "convertHead",
+          "normalized": "a-\u003e[MatchTask b]",
+          "package": "multisetrewrite",
+          "partial": "Head",
+          "signature": "a-\u003e[MatchTask b]",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-RuleSyntax.html#v:convertHead"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.StorePrettyPrinter",
+          "name": "StorePrettyPrinter",
+          "package": "multisetrewrite",
+          "source": "src/MultiSetRewrite-StorePrettyPrinter.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite StorePrettyPrinter",
+          "module": "MultiSetRewrite.StorePrettyPrinter",
+          "name": "StorePrettyPrinter",
+          "package": "multisetrewrite",
+          "partial": "Store Pretty Printer",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StorePrettyPrinter.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.StorePrettyPrinter",
+          "name": "PrettyPrint",
+          "package": "multisetrewrite",
+          "source": "src/MultiSetRewrite-StorePrettyPrinter.html#PrettyPrint",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite StorePrettyPrinter",
+          "module": "MultiSetRewrite.StorePrettyPrinter",
+          "name": "PrettyPrint",
+          "package": "multisetrewrite",
+          "partial": "Pretty Print",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StorePrettyPrinter.html#t:PrettyPrint"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.StorePrettyPrinter",
+          "name": "prettyIt",
+          "package": "multisetrewrite",
+          "signature": "a -\u003e IO String",
+          "source": "src/MultiSetRewrite-StorePrettyPrinter.html#prettyIt",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite StorePrettyPrinter",
+          "module": "MultiSetRewrite.StorePrettyPrinter",
+          "name": "prettyIt",
+          "normalized": "a-\u003eIO String",
+          "package": "multisetrewrite",
+          "partial": "It",
+          "signature": "a-\u003eIO String",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StorePrettyPrinter.html#v:prettyIt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.StorePrettyPrinter",
+          "name": "prettyItList",
+          "package": "multisetrewrite",
+          "signature": "[a] -\u003e String -\u003e IO String",
+          "source": "src/MultiSetRewrite-StorePrettyPrinter.html#prettyItList",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite StorePrettyPrinter",
+          "module": "MultiSetRewrite.StorePrettyPrinter",
+          "name": "prettyItList",
+          "normalized": "[a]-\u003eString-\u003eIO String",
+          "package": "multisetrewrite",
+          "partial": "It List",
+          "signature": "[a]-\u003eString-\u003eIO String",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StorePrettyPrinter.html#v:prettyItList"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.StorePrettyPrinter",
+          "name": "retrieveBag",
+          "package": "multisetrewrite",
+          "signature": "Bag a -\u003e IO [a]",
+          "source": "src/MultiSetRewrite-StorePrettyPrinter.html#retrieveBag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite StorePrettyPrinter",
+          "module": "MultiSetRewrite.StorePrettyPrinter",
+          "name": "retrieveBag",
+          "normalized": "Bag a-\u003eIO[a]",
+          "package": "multisetrewrite",
+          "partial": "Bag",
+          "signature": "Bag a-\u003eIO[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StorePrettyPrinter.html#v:retrieveBag"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.StorePrettyPrinter",
+          "name": "retrieveList",
+          "package": "multisetrewrite",
+          "signature": "ListHandle a -\u003e IO [a]",
+          "source": "src/MultiSetRewrite-StorePrettyPrinter.html#retrieveList",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite StorePrettyPrinter",
+          "module": "MultiSetRewrite.StorePrettyPrinter",
+          "name": "retrieveList",
+          "normalized": "ListHandle a-\u003eIO[a]",
+          "package": "multisetrewrite",
+          "partial": "List",
+          "signature": "ListHandle a-\u003eIO[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StorePrettyPrinter.html#v:retrieveList"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.StoreRepresentation",
+          "name": "StoreRepresentation",
+          "package": "multisetrewrite",
+          "source": "src/MultiSetRewrite-StoreRepresentation.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite StoreRepresentation",
+          "module": "MultiSetRewrite.StoreRepresentation",
+          "name": "StoreRepresentation",
+          "package": "multisetrewrite",
+          "partial": "Store Representation",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StoreRepresentation.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.StoreRepresentation",
+          "name": "HashIdx",
+          "package": "multisetrewrite",
+          "source": "src/MultiSetRewrite-StoreRepresentation.html#HashIdx",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite StoreRepresentation",
+          "module": "MultiSetRewrite.StoreRepresentation",
+          "name": "HashIdx",
+          "package": "multisetrewrite",
+          "partial": "Hash Idx",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StoreRepresentation.html#t:HashIdx"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.StoreRepresentation",
+          "name": "HashOp",
+          "package": "multisetrewrite",
+          "source": "src/MultiSetRewrite-StoreRepresentation.html#HashOp",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite StoreRepresentation",
+          "module": "MultiSetRewrite.StoreRepresentation",
+          "name": "HashOp",
+          "package": "multisetrewrite",
+          "partial": "Hash Op",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StoreRepresentation.html#t:HashOp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.StoreRepresentation",
+          "name": "Location",
+          "package": "multisetrewrite",
+          "source": "src/MultiSetRewrite-StoreRepresentation.html#Location",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite StoreRepresentation",
+          "module": "MultiSetRewrite.StoreRepresentation",
+          "name": "Location",
+          "package": "multisetrewrite",
+          "partial": "Location",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StoreRepresentation.html#t:Location"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.StoreRepresentation",
+          "name": "Store",
+          "package": "multisetrewrite",
+          "source": "src/MultiSetRewrite-StoreRepresentation.html#Store",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite StoreRepresentation",
+          "module": "MultiSetRewrite.StoreRepresentation",
+          "name": "Store",
+          "package": "multisetrewrite",
+          "partial": "Store",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StoreRepresentation.html#t:Store"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.StoreRepresentation",
+          "name": "HashOp",
+          "package": "multisetrewrite",
+          "signature": "HashOp",
+          "source": "src/MultiSetRewrite-StoreRepresentation.html#HashOp",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite StoreRepresentation",
+          "module": "MultiSetRewrite.StoreRepresentation",
+          "name": "HashOp",
+          "package": "multisetrewrite",
+          "partial": "Hash Op",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StoreRepresentation.html#v:HashOp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.StoreRepresentation",
+          "name": "Store",
+          "package": "multisetrewrite",
+          "signature": "Store",
+          "source": "src/MultiSetRewrite-StoreRepresentation.html#Store",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite StoreRepresentation",
+          "module": "MultiSetRewrite.StoreRepresentation",
+          "name": "Store",
+          "package": "multisetrewrite",
+          "partial": "Store",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StoreRepresentation.html#v:Store"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.StoreRepresentation",
+          "name": "addMsg",
+          "package": "multisetrewrite",
+          "signature": "Store msg -\u003e msg -\u003e IO (Location msg)",
+          "source": "src/MultiSetRewrite-StoreRepresentation.html#addMsg",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite StoreRepresentation",
+          "module": "MultiSetRewrite.StoreRepresentation",
+          "name": "addMsg",
+          "normalized": "Store a-\u003ea-\u003eIO(Location a)",
+          "package": "multisetrewrite",
+          "partial": "Msg",
+          "signature": "Store msg-\u003emsg-\u003eIO(Location msg)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StoreRepresentation.html#v:addMsg"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.StoreRepresentation",
+          "name": "compileRulePattern",
+          "package": "multisetrewrite",
+          "signature": "[([MatchTask msg], Code_RHS ())] -\u003e [CompClause (Store msg) (Location msg) ()]",
+          "source": "src/MultiSetRewrite-StoreRepresentation.html#compileRulePattern",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite StoreRepresentation",
+          "module": "MultiSetRewrite.StoreRepresentation",
+          "name": "compileRulePattern",
+          "normalized": "[([MatchTask a],Code_RHS())]-\u003e[CompClause(Store a)(Location a)()]",
+          "package": "multisetrewrite",
+          "partial": "Rule Pattern",
+          "signature": "[([MatchTask msg],Code_RHS())]-\u003e[CompClause(Store msg)(Location msg)()]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StoreRepresentation.html#v:compileRulePattern"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.StoreRepresentation",
+          "name": "executeRules",
+          "package": "multisetrewrite",
+          "signature": "Store msg -\u003e Location msg -\u003e [CompClause (Store msg) (Location msg) ()] -\u003e IO (Maybe (Code_RHS ()))",
+          "source": "src/MultiSetRewrite-StoreRepresentation.html#executeRules",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite StoreRepresentation",
+          "module": "MultiSetRewrite.StoreRepresentation",
+          "name": "executeRules",
+          "normalized": "Store a-\u003eLocation a-\u003e[CompClause(Store a)(Location a)()]-\u003eIO(Maybe(Code_RHS()))",
+          "package": "multisetrewrite",
+          "partial": "Rules",
+          "signature": "Store msg-\u003eLocation msg-\u003e[CompClause(Store msg)(Location msg)()]-\u003eIO(Maybe(Code_RHS()))",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StoreRepresentation.html#v:executeRules"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.StoreRepresentation",
+          "name": "hashMsg",
+          "package": "multisetrewrite",
+          "signature": "msg -\u003e HashIdx",
+          "source": "src/MultiSetRewrite-StoreRepresentation.html#HashOp",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite StoreRepresentation",
+          "module": "MultiSetRewrite.StoreRepresentation",
+          "name": "hashMsg",
+          "normalized": "a-\u003eHashIdx",
+          "package": "multisetrewrite",
+          "partial": "Msg",
+          "signature": "msg-\u003eHashIdx",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StoreRepresentation.html#v:hashMsg"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.StoreRepresentation",
+          "name": "hashOp",
+          "package": "multisetrewrite",
+          "signature": "HashOp msg",
+          "source": "src/MultiSetRewrite-StoreRepresentation.html#Store",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite StoreRepresentation",
+          "module": "MultiSetRewrite.StoreRepresentation",
+          "name": "hashOp",
+          "package": "multisetrewrite",
+          "partial": "Op",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StoreRepresentation.html#v:hashOp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.StoreRepresentation",
+          "name": "msgTable",
+          "package": "multisetrewrite",
+          "signature": "[Bag (InternalMsg msg)]",
+          "source": "src/MultiSetRewrite-StoreRepresentation.html#Store",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite StoreRepresentation",
+          "module": "MultiSetRewrite.StoreRepresentation",
+          "name": "msgTable",
+          "normalized": "[Bag(InternalMsg a)]",
+          "package": "multisetrewrite",
+          "partial": "Table",
+          "signature": "[Bag(InternalMsg msg)]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StoreRepresentation.html#v:msgTable"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.StoreRepresentation",
+          "name": "newStore",
+          "package": "multisetrewrite",
+          "signature": "HashOp msg -\u003e IO (Store msg)",
+          "source": "src/MultiSetRewrite-StoreRepresentation.html#newStore",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite StoreRepresentation",
+          "module": "MultiSetRewrite.StoreRepresentation",
+          "name": "newStore",
+          "normalized": "HashOp a-\u003eIO(Store a)",
+          "package": "multisetrewrite",
+          "partial": "Store",
+          "signature": "HashOp msg-\u003eIO(Store msg)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StoreRepresentation.html#v:newStore"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MultiSetRewrite.StoreRepresentation",
+          "name": "numberOfTables",
+          "package": "multisetrewrite",
+          "signature": "HashIdx",
+          "source": "src/MultiSetRewrite-StoreRepresentation.html#HashOp",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MultiSetRewrite StoreRepresentation",
+          "module": "MultiSetRewrite.StoreRepresentation",
+          "name": "numberOfTables",
+          "package": "multisetrewrite",
+          "partial": "Of Tables",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/multisetrewrite/docs/MultiSetRewrite-StoreRepresentation.html#v:numberOfTables"
+      }
+    }
+  ]
 ]

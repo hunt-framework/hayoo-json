@@ -1,772 +1,727 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Base.html#",
-      "description": {
-        "fct-module": "Join.Base",
-        "fct-package": "join",
-        "fct-signature": "module",
-        "fct-source": "src/Join-Base.html",
-        "fct-type": "module",
-        "title": "Base"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "join"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Base",
-        "module": "Join.Base",
-        "name": "Base",
-        "normalized": "",
-        "package": "join",
-        "partial": "Base",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#",
-      "description": {
-        "fct-module": "Join.Join",
-        "fct-package": "join",
-        "fct-signature": "module",
-        "fct-source": "src/Join-Join.html",
-        "fct-type": "module",
-        "title": "Join"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Join",
-        "module": "Join.Join",
-        "name": "Join",
-        "normalized": "",
-        "package": "join",
-        "partial": "Join",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Base",
+          "name": "Base",
+          "package": "join",
+          "source": "src/Join-Base.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Join Base",
+          "module": "Join.Base",
+          "name": "Base",
+          "package": "join",
+          "partial": "Base",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Base.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Join",
+          "name": "Join",
+          "package": "join",
+          "source": "src/Join-Join.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Join Join",
+          "module": "Join.Join",
+          "name": "Join",
+          "package": "join",
+          "partial": "Join",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Join",
+          "name": "ActiveMethod",
+          "package": "join",
+          "source": "src/Join-Join.html#ActiveMethod",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Join Join",
+          "module": "Join.Join",
+          "name": "ActiveMethod",
+          "package": "join",
+          "partial": "Active Method",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#t:ActiveMethod"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Join",
+          "name": "Argument",
+          "package": "join",
+          "source": "src/Join-Join.html#Argument",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Join Join",
+          "module": "Join.Join",
+          "name": "Argument",
+          "package": "join",
+          "partial": "Argument",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#t:Argument"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Join",
+          "name": "Assign",
+          "package": "join",
+          "source": "src/Join-Join.html#Assign",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Join Join",
+          "module": "Join.Join",
+          "name": "Assign",
+          "package": "join",
+          "partial": "Assign",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#t:Assign"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Join",
+          "name": "CollectArgs",
+          "package": "join",
+          "source": "src/Join-Join.html#CollectArgs",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Join Join",
+          "module": "Join.Join",
+          "name": "CollectArgs",
+          "package": "join",
+          "partial": "Collect Args",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#t:CollectArgs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Join",
+          "name": "Cons",
+          "package": "join",
+          "source": "src/Join-Join.html#Cons",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Join Join",
+          "module": "Join.Join",
+          "name": "Cons",
+          "package": "join",
+          "partial": "Cons",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#t:Cons"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Join",
+          "name": "Join",
+          "package": "join",
+          "source": "src/Join-Join.html#Join",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Join Join",
+          "module": "Join.Join",
+          "name": "Join",
+          "package": "join",
+          "partial": "Join",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#t:Join"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Join",
+          "name": "Method",
+          "package": "join",
+          "source": "src/Join-Join.html#Method",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Join Join",
+          "module": "Join.Join",
+          "name": "Method",
+          "package": "join",
+          "partial": "Method",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#t:Method"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Join",
+          "name": "Sync",
+          "package": "join",
+          "source": "src/Join-Join.html#Sync",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Join Join",
+          "module": "Join.Join",
+          "name": "Sync",
+          "package": "join",
+          "partial": "Sync",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#t:Sync"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Join",
+          "name": "(.=.)",
+          "package": "join",
+          "signature": "a -\u003e b -\u003e IO ()",
+          "source": "src/Join-Join.html#.%3D.",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Join Join",
+          "module": "Join.Join",
+          "name": "(.=.) .=.",
+          "normalized": "a-\u003eb-\u003eIO()",
+          "package": "join",
+          "signature": "a-\u003eb-\u003eIO()",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:.-61-."
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Join",
+          "name": "ArgBool",
+          "package": "join",
+          "signature": "ArgBool (L Bool)",
+          "source": "src/Join-Join.html#Argument",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Join Join",
+          "module": "Join.Join",
+          "name": "ArgBool",
+          "package": "join",
+          "partial": "Arg Bool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:ArgBool"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Join",
+          "name": "ArgInt",
+          "package": "join",
+          "signature": "ArgInt (L Int)",
+          "source": "src/Join-Join.html#Argument",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Join Join",
+          "module": "Join.Join",
+          "name": "ArgInt",
+          "package": "join",
+          "partial": "Arg Int",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:ArgInt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Join",
+          "name": "ArgListInt",
+          "package": "join",
+          "signature": "ArgListInt (L [Int])",
+          "source": "src/Join-Join.html#Argument",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Join Join",
+          "module": "Join.Join",
+          "name": "ArgListInt",
+          "normalized": "ArgListInt(L[Int])",
+          "package": "join",
+          "partial": "Arg List Int",
+          "signature": "ArgListInt(L[Int])",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:ArgListInt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Join",
+          "name": "ArgString",
+          "package": "join",
+          "signature": "ArgString (L String)",
+          "source": "src/Join-Join.html#Argument",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Join Join",
+          "module": "Join.Join",
+          "name": "ArgString",
+          "package": "join",
+          "partial": "Arg String",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:ArgString"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Join",
+          "name": "ArgSyncBool",
+          "package": "join",
+          "signature": "ArgSyncBool (L (MVar Bool))",
+          "source": "src/Join-Join.html#Argument",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Join Join",
+          "module": "Join.Join",
+          "name": "ArgSyncBool",
+          "package": "join",
+          "partial": "Arg Sync Bool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:ArgSyncBool"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Join",
+          "name": "ArgSyncInt",
+          "package": "join",
+          "signature": "ArgSyncInt (L (MVar Int))",
+          "source": "src/Join-Join.html#Argument",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Join Join",
+          "module": "Join.Join",
+          "name": "ArgSyncInt",
+          "package": "join",
+          "partial": "Arg Sync Int",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:ArgSyncInt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Join",
+          "name": "ArgSyncIntList",
+          "package": "join",
+          "signature": "ArgSyncIntList (L (MVar [Int]))",
+          "source": "src/Join-Join.html#Argument",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Join Join",
+          "module": "Join.Join",
+          "name": "ArgSyncIntList",
+          "normalized": "ArgSyncIntList(L(MVar[Int]))",
+          "package": "join",
+          "partial": "Arg Sync Int List",
+          "signature": "ArgSyncIntList(L(MVar[Int]))",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:ArgSyncIntList"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Join",
+          "name": "ArgSyncString",
+          "package": "join",
+          "signature": "ArgSyncString (L (MVar String))",
+          "source": "src/Join-Join.html#Argument",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Join Join",
+          "module": "Join.Join",
+          "name": "ArgSyncString",
+          "package": "join",
+          "partial": "Arg Sync String",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:ArgSyncString"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Join",
+          "name": "ArgTVarInt",
+          "package": "join",
+          "signature": "ArgTVarInt (L (TVar Int))",
+          "source": "src/Join-Join.html#Argument",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Join Join",
+          "module": "Join.Join",
+          "name": "ArgTVarInt",
+          "package": "join",
+          "partial": "Arg TVar Int",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:ArgTVarInt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Join",
+          "name": "C",
+          "package": "join",
+          "signature": "C String [Argument]",
+          "source": "src/Join-Join.html#Method",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Join Join",
+          "module": "Join.Join",
+          "name": "C",
+          "normalized": "C String[Argument]",
+          "package": "join",
+          "signature": "C String[Argument]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:C"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Join",
+          "name": "Join",
+          "package": "join",
+          "signature": "Join",
+          "source": "src/Join-Join.html#Join",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Join Join",
+          "module": "Join.Join",
+          "name": "Join",
+          "package": "join",
+          "partial": "Join",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:Join"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Join",
+          "name": "call",
+          "package": "join",
+          "signature": "Join -\u003e String -\u003e a -\u003e IO ()",
+          "source": "src/Join-Join.html#call",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Join Join",
+          "module": "Join.Join",
+          "name": "call",
+          "normalized": "Join-\u003eString-\u003ea-\u003eIO()",
+          "package": "join",
+          "signature": "Join-\u003eString-\u003ea-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:call"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Join",
+          "name": "callPassive",
+          "package": "join",
+          "signature": "Join -\u003e String -\u003e a -\u003e IO ()",
+          "source": "src/Join-Join.html#callPassive",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Join Join",
+          "module": "Join.Join",
+          "name": "callPassive",
+          "normalized": "Join-\u003eString-\u003ea-\u003eIO()",
+          "package": "join",
+          "partial": "Passive",
+          "signature": "Join-\u003eString-\u003ea-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:callPassive"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Join",
+          "name": "collectArgs",
+          "package": "join",
+          "signature": "a -\u003e [Argument]",
+          "source": "src/Join-Join.html#collectArgs",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Join Join",
+          "module": "Join.Join",
+          "name": "collectArgs",
+          "normalized": "a-\u003e[Argument]",
+          "package": "join",
+          "partial": "Args",
+          "signature": "a-\u003e[Argument]",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:collectArgs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Join",
+          "name": "cons",
+          "package": "join",
+          "signature": "String -\u003e a -\u003e Method",
+          "source": "src/Join-Join.html#cons",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Join Join",
+          "module": "Join.Join",
+          "name": "cons",
+          "normalized": "String-\u003ea-\u003eMethod",
+          "package": "join",
+          "signature": "String-\u003ea-\u003eMethod",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:cons"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Join",
+          "name": "newJoinStore",
+          "package": "join",
+          "signature": "IO (Store Method)",
+          "source": "src/Join-Join.html#newJoinStore",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Join Join",
+          "module": "Join.Join",
+          "name": "newJoinStore",
+          "package": "join",
+          "partial": "Join Store",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:newJoinStore"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Join",
+          "name": "rules",
+          "package": "join",
+          "signature": "Join -\u003e ActiveMethod -\u003e IO ()",
+          "source": "src/Join-Join.html#Join",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Join Join",
+          "module": "Join.Join",
+          "name": "rules",
+          "normalized": "Join-\u003eActiveMethod-\u003eIO()",
+          "package": "join",
+          "signature": "Join-\u003eActiveMethod-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:rules"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Join",
+          "name": "runJoinOnGoal",
+          "package": "join",
+          "signature": "Store msg -\u003e Location msg -\u003e [CompClause (Store msg) (Location msg) ()] -\u003e IO (Maybe (Code_RHS ()))",
+          "source": "src/Join-Join.html#runJoinOnGoal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Join Join",
+          "module": "Join.Join",
+          "name": "runJoinOnGoal",
+          "normalized": "Store a-\u003eLocation a-\u003e[CompClause(Store a)(Location a)()]-\u003eIO(Maybe(Code_RHS()))",
+          "package": "join",
+          "partial": "Join On Goal",
+          "signature": "Store msg-\u003eLocation msg-\u003e[CompClause(Store msg)(Location msg)()]-\u003eIO(Maybe(Code_RHS()))",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:runJoinOnGoal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Join",
+          "name": "store",
+          "package": "join",
+          "signature": "Store Method",
+          "source": "src/Join-Join.html#Join",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Join Join",
+          "module": "Join.Join",
+          "name": "store",
+          "package": "join",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:store"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.Join",
+          "name": "translateJoinDefinitions",
+          "package": "join",
+          "signature": "[([MatchTask msg], Code_RHS ())] -\u003e [CompClause (Store msg) (Location msg) ()]",
+          "source": "src/Join-Join.html#translateJoinDefinitions",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Join Join",
+          "module": "Join.Join",
+          "name": "translateJoinDefinitions",
+          "normalized": "[([MatchTask a],Code_RHS())]-\u003e[CompClause(Store a)(Location a)()]",
+          "package": "join",
+          "partial": "Join Definitions",
+          "signature": "[([MatchTask msg],Code_RHS())]-\u003e[CompClause(Store msg)(Location msg)()]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:translateJoinDefinitions"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Join.JoinPrettyPrinter",
+          "name": "JoinPrettyPrinter",
+          "package": "join",
+          "source": "src/Join-JoinPrettyPrinter.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Join JoinPrettyPrinter",
+          "module": "Join.JoinPrettyPrinter",
+          "name": "JoinPrettyPrinter",
+          "package": "join",
+          "partial": "Join Pretty Printer",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/join/docs/Join-JoinPrettyPrinter.html#"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#t:ActiveMethod",
-      "description": {
-        "fct-module": "Join.Join",
-        "fct-package": "join",
-        "fct-signature": "type",
-        "fct-source": "src/Join-Join.html#ActiveMethod",
-        "fct-type": "type",
-        "title": "ActiveMethod"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Join",
-        "module": "Join.Join",
-        "name": "ActiveMethod",
-        "normalized": "",
-        "package": "join",
-        "partial": "Active Method",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#t:Argument",
-      "description": {
-        "fct-module": "Join.Join",
-        "fct-package": "join",
-        "fct-signature": "data",
-        "fct-source": "src/Join-Join.html#Argument",
-        "fct-type": "data",
-        "title": "Argument"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Join",
-        "module": "Join.Join",
-        "name": "Argument",
-        "normalized": "",
-        "package": "join",
-        "partial": "Argument",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#t:Assign",
-      "description": {
-        "fct-module": "Join.Join",
-        "fct-package": "join",
-        "fct-signature": "class",
-        "fct-source": "src/Join-Join.html#Assign",
-        "fct-type": "class",
-        "title": "Assign"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Join",
-        "module": "Join.Join",
-        "name": "Assign",
-        "normalized": "",
-        "package": "join",
-        "partial": "Assign",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#t:CollectArgs",
-      "description": {
-        "fct-module": "Join.Join",
-        "fct-package": "join",
-        "fct-signature": "class",
-        "fct-source": "src/Join-Join.html#CollectArgs",
-        "fct-type": "class",
-        "title": "CollectArgs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Join",
-        "module": "Join.Join",
-        "name": "CollectArgs",
-        "normalized": "",
-        "package": "join",
-        "partial": "Collect Args",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#t:Cons",
-      "description": {
-        "fct-module": "Join.Join",
-        "fct-package": "join",
-        "fct-signature": "class",
-        "fct-source": "src/Join-Join.html#Cons",
-        "fct-type": "class",
-        "title": "Cons"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Join",
-        "module": "Join.Join",
-        "name": "Cons",
-        "normalized": "",
-        "package": "join",
-        "partial": "Cons",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#t:Join",
-      "description": {
-        "fct-module": "Join.Join",
-        "fct-package": "join",
-        "fct-signature": "data",
-        "fct-source": "src/Join-Join.html#Join",
-        "fct-type": "data",
-        "title": "Join"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Join",
-        "module": "Join.Join",
-        "name": "Join",
-        "normalized": "",
-        "package": "join",
-        "partial": "Join",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#t:Method",
-      "description": {
-        "fct-module": "Join.Join",
-        "fct-package": "join",
-        "fct-signature": "data",
-        "fct-source": "src/Join-Join.html#Method",
-        "fct-type": "data",
-        "title": "Method"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Join",
-        "module": "Join.Join",
-        "name": "Method",
-        "normalized": "",
-        "package": "join",
-        "partial": "Method",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#t:Sync",
-      "description": {
-        "fct-module": "Join.Join",
-        "fct-package": "join",
-        "fct-signature": "type",
-        "fct-source": "src/Join-Join.html#Sync",
-        "fct-type": "type",
-        "title": "Sync"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Join",
-        "module": "Join.Join",
-        "name": "Sync",
-        "normalized": "",
-        "package": "join",
-        "partial": "Sync",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:.-61-.",
-      "description": {
-        "fct-module": "Join.Join",
-        "fct-package": "join",
-        "fct-signature": "a -\u003e b -\u003e IO ()",
-        "fct-source": "src/Join-Join.html#.%3D.",
-        "fct-type": "method",
-        "title": "(.=.)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Join",
-        "module": "Join.Join",
-        "name": "(.=.) .=.",
-        "normalized": "a-\u003eb-\u003eIO()",
-        "package": "join",
-        "partial": "",
-        "signature": "a-\u003eb-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:ArgBool",
-      "description": {
-        "fct-module": "Join.Join",
-        "fct-package": "join",
-        "fct-signature": "ArgBool (L Bool)",
-        "fct-source": "src/Join-Join.html#Argument",
-        "fct-type": "function",
-        "title": "ArgBool"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Join",
-        "module": "Join.Join",
-        "name": "ArgBool",
-        "normalized": "",
-        "package": "join",
-        "partial": "Arg Bool",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:ArgInt",
-      "description": {
-        "fct-module": "Join.Join",
-        "fct-package": "join",
-        "fct-signature": "ArgInt (L Int)",
-        "fct-source": "src/Join-Join.html#Argument",
-        "fct-type": "function",
-        "title": "ArgInt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Join",
-        "module": "Join.Join",
-        "name": "ArgInt",
-        "normalized": "",
-        "package": "join",
-        "partial": "Arg Int",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:ArgListInt",
-      "description": {
-        "fct-module": "Join.Join",
-        "fct-package": "join",
-        "fct-signature": "ArgListInt (L [Int])",
-        "fct-source": "src/Join-Join.html#Argument",
-        "fct-type": "function",
-        "title": "ArgListInt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Join",
-        "module": "Join.Join",
-        "name": "ArgListInt",
-        "normalized": "ArgListInt(L[Int])",
-        "package": "join",
-        "partial": "Arg List Int",
-        "signature": "ArgListInt(L[Int])"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:ArgString",
-      "description": {
-        "fct-module": "Join.Join",
-        "fct-package": "join",
-        "fct-signature": "ArgString (L String)",
-        "fct-source": "src/Join-Join.html#Argument",
-        "fct-type": "function",
-        "title": "ArgString"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Join",
-        "module": "Join.Join",
-        "name": "ArgString",
-        "normalized": "",
-        "package": "join",
-        "partial": "Arg String",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:ArgSyncBool",
-      "description": {
-        "fct-module": "Join.Join",
-        "fct-package": "join",
-        "fct-signature": "ArgSyncBool (L (MVar Bool))",
-        "fct-source": "src/Join-Join.html#Argument",
-        "fct-type": "function",
-        "title": "ArgSyncBool"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Join",
-        "module": "Join.Join",
-        "name": "ArgSyncBool",
-        "normalized": "",
-        "package": "join",
-        "partial": "Arg Sync Bool",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:ArgSyncInt",
-      "description": {
-        "fct-module": "Join.Join",
-        "fct-package": "join",
-        "fct-signature": "ArgSyncInt (L (MVar Int))",
-        "fct-source": "src/Join-Join.html#Argument",
-        "fct-type": "function",
-        "title": "ArgSyncInt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Join",
-        "module": "Join.Join",
-        "name": "ArgSyncInt",
-        "normalized": "",
-        "package": "join",
-        "partial": "Arg Sync Int",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:ArgSyncIntList",
-      "description": {
-        "fct-module": "Join.Join",
-        "fct-package": "join",
-        "fct-signature": "ArgSyncIntList (L (MVar [Int]))",
-        "fct-source": "src/Join-Join.html#Argument",
-        "fct-type": "function",
-        "title": "ArgSyncIntList"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Join",
-        "module": "Join.Join",
-        "name": "ArgSyncIntList",
-        "normalized": "ArgSyncIntList(L(MVar[Int]))",
-        "package": "join",
-        "partial": "Arg Sync Int List",
-        "signature": "ArgSyncIntList(L(MVar[Int]))"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:ArgSyncString",
-      "description": {
-        "fct-module": "Join.Join",
-        "fct-package": "join",
-        "fct-signature": "ArgSyncString (L (MVar String))",
-        "fct-source": "src/Join-Join.html#Argument",
-        "fct-type": "function",
-        "title": "ArgSyncString"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Join",
-        "module": "Join.Join",
-        "name": "ArgSyncString",
-        "normalized": "",
-        "package": "join",
-        "partial": "Arg Sync String",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:ArgTVarInt",
-      "description": {
-        "fct-module": "Join.Join",
-        "fct-package": "join",
-        "fct-signature": "ArgTVarInt (L (TVar Int))",
-        "fct-source": "src/Join-Join.html#Argument",
-        "fct-type": "function",
-        "title": "ArgTVarInt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Join",
-        "module": "Join.Join",
-        "name": "ArgTVarInt",
-        "normalized": "",
-        "package": "join",
-        "partial": "Arg TVar Int",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:C",
-      "description": {
-        "fct-module": "Join.Join",
-        "fct-package": "join",
-        "fct-signature": "C String [Argument]",
-        "fct-source": "src/Join-Join.html#Method",
-        "fct-type": "function",
-        "title": "C"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Join",
-        "module": "Join.Join",
-        "name": "C",
-        "normalized": "C String[Argument]",
-        "package": "join",
-        "partial": "",
-        "signature": "C String[Argument]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:Join",
-      "description": {
-        "fct-module": "Join.Join",
-        "fct-package": "join",
-        "fct-signature": "Join",
-        "fct-source": "src/Join-Join.html#Join",
-        "fct-type": "function",
-        "title": "Join"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Join",
-        "module": "Join.Join",
-        "name": "Join",
-        "normalized": "",
-        "package": "join",
-        "partial": "Join",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:call",
-      "description": {
-        "fct-module": "Join.Join",
-        "fct-package": "join",
-        "fct-signature": "Join -\u003e String -\u003e a -\u003e IO ()",
-        "fct-source": "src/Join-Join.html#call",
-        "fct-type": "function",
-        "title": "call"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Join",
-        "module": "Join.Join",
-        "name": "call",
-        "normalized": "Join-\u003eString-\u003ea-\u003eIO()",
-        "package": "join",
-        "partial": "",
-        "signature": "Join-\u003eString-\u003ea-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:callPassive",
-      "description": {
-        "fct-module": "Join.Join",
-        "fct-package": "join",
-        "fct-signature": "Join -\u003e String -\u003e a -\u003e IO ()",
-        "fct-source": "src/Join-Join.html#callPassive",
-        "fct-type": "function",
-        "title": "callPassive"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Join",
-        "module": "Join.Join",
-        "name": "callPassive",
-        "normalized": "Join-\u003eString-\u003ea-\u003eIO()",
-        "package": "join",
-        "partial": "Passive",
-        "signature": "Join-\u003eString-\u003ea-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:collectArgs",
-      "description": {
-        "fct-module": "Join.Join",
-        "fct-package": "join",
-        "fct-signature": "a -\u003e [Argument]",
-        "fct-source": "src/Join-Join.html#collectArgs",
-        "fct-type": "method",
-        "title": "collectArgs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Join",
-        "module": "Join.Join",
-        "name": "collectArgs",
-        "normalized": "a-\u003e[Argument]",
-        "package": "join",
-        "partial": "Args",
-        "signature": "a-\u003e[Argument]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:cons",
-      "description": {
-        "fct-module": "Join.Join",
-        "fct-package": "join",
-        "fct-signature": "String -\u003e a -\u003e Method",
-        "fct-source": "src/Join-Join.html#cons",
-        "fct-type": "method",
-        "title": "cons"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Join",
-        "module": "Join.Join",
-        "name": "cons",
-        "normalized": "String-\u003ea-\u003eMethod",
-        "package": "join",
-        "partial": "",
-        "signature": "String-\u003ea-\u003eMethod"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:newJoinStore",
-      "description": {
-        "fct-module": "Join.Join",
-        "fct-package": "join",
-        "fct-signature": "IO (Store Method)",
-        "fct-source": "src/Join-Join.html#newJoinStore",
-        "fct-type": "function",
-        "title": "newJoinStore"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Join",
-        "module": "Join.Join",
-        "name": "newJoinStore",
-        "normalized": "",
-        "package": "join",
-        "partial": "Join Store",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:rules",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Join.Join",
-        "fct-package": "join",
-        "fct-signature": "Join -\u003e ActiveMethod -\u003e IO ()",
-        "fct-source": "src/Join-Join.html#Join",
-        "fct-type": "function",
-        "title": "rules"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Join",
-        "module": "Join.Join",
-        "name": "rules",
-        "normalized": "Join-\u003eActiveMethod-\u003eIO()",
-        "package": "join",
-        "partial": "",
-        "signature": "Join-\u003eActiveMethod-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:runJoinOnGoal",
-      "description": {
-        "fct-module": "Join.Join",
-        "fct-package": "join",
-        "fct-signature": "Store msg -\u003e Location msg -\u003e [CompClause (Store msg) (Location msg) ()] -\u003e IO (Maybe (Code_RHS ()))",
-        "fct-source": "src/Join-Join.html#runJoinOnGoal",
-        "fct-type": "function",
-        "title": "runJoinOnGoal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Join",
-        "module": "Join.Join",
-        "name": "runJoinOnGoal",
-        "normalized": "Store a-\u003eLocation a-\u003e[CompClause(Store a)(Location a)()]-\u003eIO(Maybe(Code_RHS()))",
-        "package": "join",
-        "partial": "Join On Goal",
-        "signature": "Store msg-\u003eLocation msg-\u003e[CompClause(Store msg)(Location msg)()]-\u003eIO(Maybe(Code_RHS()))"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:store",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Join.Join",
-        "fct-package": "join",
-        "fct-signature": "Store Method",
-        "fct-source": "src/Join-Join.html#Join",
-        "fct-type": "function",
-        "title": "store"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Join",
-        "module": "Join.Join",
-        "name": "store",
-        "normalized": "",
-        "package": "join",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-Join.html#v:translateJoinDefinitions",
-      "description": {
-        "fct-module": "Join.Join",
-        "fct-package": "join",
-        "fct-signature": "[([MatchTask msg], Code_RHS ())] -\u003e [CompClause (Store msg) (Location msg) ()]",
-        "fct-source": "src/Join-Join.html#translateJoinDefinitions",
-        "fct-type": "function",
-        "title": "translateJoinDefinitions"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join Join",
-        "module": "Join.Join",
-        "name": "translateJoinDefinitions",
-        "normalized": "[([MatchTask a],Code_RHS())]-\u003e[CompClause(Store a)(Location a)()]",
-        "package": "join",
-        "partial": "Join Definitions",
-        "signature": "[([MatchTask msg],Code_RHS())]-\u003e[CompClause(Store msg)(Location msg)()]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/join/docs/Join-JoinPrettyPrinter.html#",
-      "description": {
-        "fct-module": "Join.JoinPrettyPrinter",
-        "fct-package": "join",
-        "fct-signature": "module",
-        "fct-source": "src/Join-JoinPrettyPrinter.html",
-        "fct-type": "module",
-        "title": "JoinPrettyPrinter"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Join JoinPrettyPrinter",
-        "module": "Join.JoinPrettyPrinter",
-        "name": "JoinPrettyPrinter",
-        "normalized": "",
-        "package": "join",
-        "partial": "Join Pretty Printer",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

@@ -1,1230 +1,1220 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "module",
-        "fct-source": "src/Text-ParserCombinators-MTLParse.html",
-        "fct-type": "module",
-        "title": "MTLParse"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "mtlparse"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "MTLParse",
-        "normalized": "",
-        "package": "mtlparse",
-        "partial": "MTLParse",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#t:MonadParse",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "class",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#MonadParse",
-        "fct-type": "class",
-        "title": "MonadParse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "MonadParse",
-        "normalized": "",
-        "package": "mtlparse",
-        "partial": "Monad Parse",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "MTLParse",
+          "package": "mtlparse",
+          "source": "src/Text-ParserCombinators-MTLParse.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "MTLParse",
+          "package": "mtlparse",
+          "partial": "MTLParse",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "MonadParse",
+          "package": "mtlparse",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#MonadParse",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "MonadParse",
+          "package": "mtlparse",
+          "partial": "Monad Parse",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#t:MonadParse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eA parse monad where \u003cem\u003ea\u003c/em\u003e is the type of the token to parse\n and \u003cem\u003eb\u003c/em\u003e is the type of the \u003cem\u003ereturn value\u003c/em\u003e.\n\u003c/p\u003e",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "Parse",
+          "package": "mtlparse",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#Parse",
+          "type": "newtype"
+        },
+        "index": {
+          "description": "parse monad where is the type of the token to parse and is the type of the return value",
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "Parse",
+          "package": "mtlparse",
+          "partial": "Parse",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#t:Parse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eA parse monad for encaplulating an inner monad.\n\u003c/p\u003e",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "ParseT",
+          "package": "mtlparse",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#ParseT",
+          "type": "newtype"
+        },
+        "index": {
+          "description": "parse monad for encaplulating an inner monad",
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "ParseT",
+          "package": "mtlparse",
+          "partial": "Parse",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#t:ParseT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "(\u003e++\u003e)",
+          "package": "mtlparse",
+          "signature": "m [a] -\u003e m [a] -\u003e m [a]",
+          "source": "src/Text-ParserCombinators-MTLParse.html#%3E%2B%2B%3E",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "(\u003e++\u003e) \u003e++\u003e",
+          "normalized": "a[b]-\u003ea[b]-\u003ea[b]",
+          "package": "mtlparse",
+          "signature": "m[a]-\u003em[a]-\u003em[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:-62--43--43--62-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "(\u003e:\u003e)",
+          "package": "mtlparse",
+          "signature": "m a -\u003e m [a] -\u003e m [a]",
+          "source": "src/Text-ParserCombinators-MTLParse.html#%3E%3A%3E",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "(\u003e:\u003e) \u003e:\u003e",
+          "normalized": "a b-\u003ea[b]-\u003ea[b]",
+          "package": "mtlparse",
+          "signature": "m a-\u003em[a]-\u003em[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:-62-:-62-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "Parse",
+          "package": "mtlparse",
+          "signature": "Parse",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#Parse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "Parse",
+          "package": "mtlparse",
+          "partial": "Parse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:Parse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "ParseT",
+          "package": "mtlparse",
+          "signature": "ParseT",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#ParseT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "ParseT",
+          "package": "mtlparse",
+          "partial": "Parse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:ParseT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "apply2M",
+          "package": "mtlparse",
+          "signature": "(a -\u003e b -\u003e c) -\u003e m a -\u003e m b -\u003e m c",
+          "source": "src/Text-ParserCombinators-MTLParse.html#apply2M",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "apply2M",
+          "normalized": "(a-\u003eb-\u003ec)-\u003ed a-\u003ed b-\u003ed c",
+          "package": "mtlparse",
+          "signature": "(a-\u003eb-\u003ec)-\u003em a-\u003em b-\u003em c",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:apply2M"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "beginningOfInput",
+          "package": "mtlparse",
+          "signature": "b -\u003e m b",
+          "source": "src/Text-ParserCombinators-MTLParse.html#beginningOfInput",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "beginningOfInput",
+          "normalized": "a-\u003eb a",
+          "package": "mtlparse",
+          "partial": "Of Input",
+          "signature": "b-\u003em b",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:beginningOfInput"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "build",
+          "package": "mtlparse",
+          "signature": "m a -\u003e (a -\u003e b) -\u003e m b",
+          "source": "src/Text-ParserCombinators-MTLParse.html#build",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "build",
+          "normalized": "a b-\u003e(b-\u003ec)-\u003ea c",
+          "package": "mtlparse",
+          "signature": "m a-\u003e(a-\u003eb)-\u003em b",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:build"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "endOfInput",
+          "package": "mtlparse",
+          "signature": "b -\u003e m b",
+          "source": "src/Text-ParserCombinators-MTLParse.html#beginningOfInput",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "endOfInput",
+          "normalized": "a-\u003eb a",
+          "package": "mtlparse",
+          "partial": "Of Input",
+          "signature": "b-\u003em b",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:endOfInput"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "evalParse",
+          "package": "mtlparse",
+          "signature": "Parse a b -\u003e ([a], [a]) -\u003e [b]",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#evalParse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "evalParse",
+          "normalized": "Parse a b-\u003e([a],[a])-\u003e[b]",
+          "package": "mtlparse",
+          "partial": "Parse",
+          "signature": "Parse a b-\u003e([a],[a])-\u003e[b]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:evalParse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "evalParseT",
+          "package": "mtlparse",
+          "signature": "ParseT a m b -\u003e ([a], [a]) -\u003e m [b]",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#evalParseT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "evalParseT",
+          "normalized": "ParseT a b c-\u003e([a],[a])-\u003eb[c]",
+          "package": "mtlparse",
+          "partial": "Parse",
+          "signature": "ParseT a m b-\u003e([a],[a])-\u003em[b]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:evalParseT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "execParse",
+          "package": "mtlparse",
+          "signature": "Parse a b -\u003e ([a], [a]) -\u003e [([a], [a])]",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#execParse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "execParse",
+          "normalized": "Parse a b-\u003e([a],[a])-\u003e[([a],[a])]",
+          "package": "mtlparse",
+          "partial": "Parse",
+          "signature": "Parse a b-\u003e([a],[a])-\u003e[([a],[a])]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:execParse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "execParseT",
+          "package": "mtlparse",
+          "signature": "ParseT a m b -\u003e ([a], [a]) -\u003e m [([a], [a])]",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#execParseT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "execParseT",
+          "normalized": "ParseT a b c-\u003e([a],[a])-\u003eb[([a],[a])]",
+          "package": "mtlparse",
+          "partial": "Parse",
+          "signature": "ParseT a m b-\u003e([a],[a])-\u003em[([a],[a])]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:execParseT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "getBack",
+          "package": "mtlparse",
+          "signature": "m [a]",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#getBack",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "getBack",
+          "normalized": "a[b]",
+          "package": "mtlparse",
+          "partial": "Back",
+          "signature": "m[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:getBack"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "getForward",
+          "package": "mtlparse",
+          "signature": "m [a]",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#getBack",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "getForward",
+          "normalized": "a[b]",
+          "package": "mtlparse",
+          "partial": "Forward",
+          "signature": "m[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:getForward"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "getHere",
+          "package": "mtlparse",
+          "signature": "m ([a], [a])",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#getHere",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "getHere",
+          "normalized": "a([b],[b])",
+          "package": "mtlparse",
+          "partial": "Here",
+          "signature": "m([a],[a])",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:getHere"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "getsBack",
+          "package": "mtlparse",
+          "signature": "([a] -\u003e [a]) -\u003e m [a]",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#getsBack",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "getsBack",
+          "normalized": "([a]-\u003e[a])-\u003eb[a]",
+          "package": "mtlparse",
+          "partial": "Back",
+          "signature": "([a]-\u003e[a])-\u003em[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:getsBack"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "getsForward",
+          "package": "mtlparse",
+          "signature": "([a] -\u003e [a]) -\u003e m [a]",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#getsBack",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "getsForward",
+          "normalized": "([a]-\u003e[a])-\u003eb[a]",
+          "package": "mtlparse",
+          "partial": "Forward",
+          "signature": "([a]-\u003e[a])-\u003em[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:getsForward"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "getsHere",
+          "package": "mtlparse",
+          "signature": "(([a], [a]) -\u003e b) -\u003e m b",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#getsHere",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "getsHere",
+          "normalized": "(([a],[a])-\u003eb)-\u003ec b",
+          "package": "mtlparse",
+          "partial": "Here",
+          "signature": "(([a],[a])-\u003eb)-\u003em b",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:getsHere"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "greedyList",
+          "package": "mtlparse",
+          "signature": "m a -\u003e m [a]",
+          "source": "src/Text-ParserCombinators-MTLParse.html#optional",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "greedyList",
+          "normalized": "a b-\u003ea[b]",
+          "package": "mtlparse",
+          "partial": "List",
+          "signature": "m a-\u003em[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:greedyList"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "greedyNeList",
+          "package": "mtlparse",
+          "signature": "m a -\u003e m [a]",
+          "source": "src/Text-ParserCombinators-MTLParse.html#optional",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "greedyNeList",
+          "normalized": "a b-\u003ea[b]",
+          "package": "mtlparse",
+          "partial": "Ne List",
+          "signature": "m a-\u003em[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:greedyNeList"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "greedyOptional",
+          "package": "mtlparse",
+          "signature": "m a -\u003e m [a]",
+          "source": "src/Text-ParserCombinators-MTLParse.html#optional",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "greedyOptional",
+          "normalized": "a b-\u003ea[b]",
+          "package": "mtlparse",
+          "partial": "Optional",
+          "signature": "m a-\u003em[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:greedyOptional"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "greedyRepeatParse",
+          "package": "mtlparse",
+          "signature": "Int -\u003e Maybe Int -\u003e m b -\u003e m [b]",
+          "source": "src/Text-ParserCombinators-MTLParse.html#repeatParse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "greedyRepeatParse",
+          "normalized": "Int-\u003eMaybe Int-\u003ea b-\u003ea[b]",
+          "package": "mtlparse",
+          "partial": "Repeat Parse",
+          "signature": "Int-\u003eMaybe Int-\u003em b-\u003em[b]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:greedyRepeatParse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "list",
+          "package": "mtlparse",
+          "signature": "m a -\u003e m [a]",
+          "source": "src/Text-ParserCombinators-MTLParse.html#optional",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "list",
+          "normalized": "a b-\u003ea[b]",
+          "package": "mtlparse",
+          "signature": "m a-\u003em[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:list"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "mapParse",
+          "package": "mtlparse",
+          "signature": "((b, ([a], [a])) -\u003e (c, ([a], [a]))) -\u003e Parse a b -\u003e Parse a c",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#mapParse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "mapParse",
+          "normalized": "((a,([b],[b]))-\u003e(c,([b],[b])))-\u003eParse b a-\u003eParse b c",
+          "package": "mtlparse",
+          "partial": "Parse",
+          "signature": "((b,([a],[a]))-\u003e(c,([a],[a])))-\u003eParse a b-\u003eParse a c",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:mapParse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "mapParseT",
+          "package": "mtlparse",
+          "signature": "(m [(b, ([a], [a]))] -\u003e n [(c, ([a], [a]))]) -\u003e ParseT a m b -\u003e ParseT a n c",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#mapParseT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "mapParseT",
+          "normalized": "(a[(b,([c],[c]))]-\u003ed[(e,([c],[c]))])-\u003eParseT c a b-\u003eParseT c d e",
+          "package": "mtlparse",
+          "partial": "Parse",
+          "signature": "(m[(b,([a],[a]))]-\u003en[(c,([a],[a]))])-\u003eParseT a m b-\u003eParseT a n c",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:mapParseT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "modifyBack",
+          "package": "mtlparse",
+          "signature": "([a] -\u003e [a]) -\u003e m ()",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#modifyBack",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "modifyBack",
+          "normalized": "([a]-\u003e[a])-\u003eb()",
+          "package": "mtlparse",
+          "partial": "Back",
+          "signature": "([a]-\u003e[a])-\u003em()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:modifyBack"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "modifyForward",
+          "package": "mtlparse",
+          "signature": "([a] -\u003e [a]) -\u003e m ()",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#modifyBack",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "modifyForward",
+          "normalized": "([a]-\u003e[a])-\u003eb()",
+          "package": "mtlparse",
+          "partial": "Forward",
+          "signature": "([a]-\u003e[a])-\u003em()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:modifyForward"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "modifyHere",
+          "package": "mtlparse",
+          "signature": "(([a], [a]) -\u003e ([a], [a])) -\u003e m ()",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#modifyHere",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "modifyHere",
+          "normalized": "(([a],[a])-\u003e([a],[a]))-\u003eb()",
+          "package": "mtlparse",
+          "partial": "Here",
+          "signature": "(([a],[a])-\u003e([a],[a]))-\u003em()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:modifyHere"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "neList",
+          "package": "mtlparse",
+          "signature": "m a -\u003e m [a]",
+          "source": "src/Text-ParserCombinators-MTLParse.html#optional",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "neList",
+          "normalized": "a b-\u003ea[b]",
+          "package": "mtlparse",
+          "partial": "List",
+          "signature": "m a-\u003em[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:neList"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "noBacktrack",
+          "package": "mtlparse",
+          "signature": "m b -\u003e m b",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#noBacktrack",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "noBacktrack",
+          "normalized": "a b-\u003ea b",
+          "package": "mtlparse",
+          "partial": "Backtrack",
+          "signature": "m b-\u003em b",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:noBacktrack"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "optional",
+          "package": "mtlparse",
+          "signature": "m a -\u003e m [a]",
+          "source": "src/Text-ParserCombinators-MTLParse.html#optional",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "optional",
+          "normalized": "a b-\u003ea[b]",
+          "package": "mtlparse",
+          "signature": "m a-\u003em[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:optional"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "parseNot",
+          "package": "mtlparse",
+          "signature": "c -\u003e m b -\u003e m c",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#parseNot",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "parseNot",
+          "normalized": "a-\u003eb c-\u003eb a",
+          "package": "mtlparse",
+          "partial": "Not",
+          "signature": "c-\u003em b-\u003em c",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:parseNot"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "putBack",
+          "package": "mtlparse",
+          "signature": "[a] -\u003e m ()",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#putBack",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "putBack",
+          "normalized": "[a]-\u003eb()",
+          "package": "mtlparse",
+          "partial": "Back",
+          "signature": "[a]-\u003em()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:putBack"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "putForward",
+          "package": "mtlparse",
+          "signature": "[a] -\u003e m ()",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#putBack",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "putForward",
+          "normalized": "[a]-\u003eb()",
+          "package": "mtlparse",
+          "partial": "Forward",
+          "signature": "[a]-\u003em()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:putForward"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "putHere",
+          "package": "mtlparse",
+          "signature": "([a], [a]) -\u003e m ()",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#putHere",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "putHere",
+          "normalized": "([a],[a])-\u003eb()",
+          "package": "mtlparse",
+          "partial": "Here",
+          "signature": "([a],[a])-\u003em()",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:putHere"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "repeatParse",
+          "package": "mtlparse",
+          "signature": "Int -\u003e Maybe Int -\u003e m b -\u003e m [b]",
+          "source": "src/Text-ParserCombinators-MTLParse.html#repeatParse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "repeatParse",
+          "normalized": "Int-\u003eMaybe Int-\u003ea b-\u003ea[b]",
+          "package": "mtlparse",
+          "partial": "Parse",
+          "signature": "Int-\u003eMaybe Int-\u003em b-\u003em[b]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:repeatParse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "runParse",
+          "package": "mtlparse",
+          "signature": "([a], [a]) -\u003e [(b, ([a], [a]))]",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#Parse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "runParse",
+          "normalized": "([a],[a])-\u003e[(b,([a],[a]))]",
+          "package": "mtlparse",
+          "partial": "Parse",
+          "signature": "([a],[a])-\u003e[(b,([a],[a]))]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:runParse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "runParseT",
+          "package": "mtlparse",
+          "signature": "([a], [a]) -\u003e m [(b, ([a], [a]))]",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#ParseT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "runParseT",
+          "normalized": "([a],[a])-\u003eb[(c,([a],[a]))]",
+          "package": "mtlparse",
+          "partial": "Parse",
+          "signature": "([a],[a])-\u003em[(b,([a],[a]))]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:runParseT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "spot",
+          "package": "mtlparse",
+          "signature": "(a -\u003e Bool) -\u003e m a",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#spot",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "spot",
+          "normalized": "(a-\u003eBool)-\u003eb a",
+          "package": "mtlparse",
+          "signature": "(a-\u003eBool)-\u003em a",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:spot"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "spotBack",
+          "package": "mtlparse",
+          "signature": "(a -\u003e Bool) -\u003e m a",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#spotBack",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "spotBack",
+          "normalized": "(a-\u003eBool)-\u003eb a",
+          "package": "mtlparse",
+          "partial": "Back",
+          "signature": "(a-\u003eBool)-\u003em a",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:spotBack"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "still",
+          "package": "mtlparse",
+          "signature": "m b -\u003e m b",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#still",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "still",
+          "normalized": "a b-\u003ea b",
+          "package": "mtlparse",
+          "signature": "m b-\u003em b",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:still"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "token",
+          "package": "mtlparse",
+          "signature": "a -\u003e m a",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#token",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "token",
+          "normalized": "a-\u003eb a",
+          "package": "mtlparse",
+          "signature": "a-\u003em a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:token"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "tokenBack",
+          "package": "mtlparse",
+          "signature": "a -\u003e m a",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#token",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "tokenBack",
+          "normalized": "a-\u003eb a",
+          "package": "mtlparse",
+          "partial": "Back",
+          "signature": "a-\u003em a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:tokenBack"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "tokens",
+          "package": "mtlparse",
+          "signature": "[a] -\u003e m [a]",
+          "source": "src/Text-ParserCombinators-MTLParse.html#tokens",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "tokens",
+          "normalized": "[a]-\u003eb[a]",
+          "package": "mtlparse",
+          "signature": "[a]-\u003em[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:tokens"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "tokensBack",
+          "package": "mtlparse",
+          "signature": "[a] -\u003e m [a]",
+          "source": "src/Text-ParserCombinators-MTLParse.html#tokens",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "tokensBack",
+          "normalized": "[a]-\u003eb[a]",
+          "package": "mtlparse",
+          "partial": "Back",
+          "signature": "[a]-\u003em[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:tokensBack"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "withParse",
+          "package": "mtlparse",
+          "signature": "(([a], [a]) -\u003e ([a], [a])) -\u003e Parse a b -\u003e Parse a b",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#withParse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "withParse",
+          "normalized": "(([a],[a])-\u003e([a],[a]))-\u003eParse a b-\u003eParse a b",
+          "package": "mtlparse",
+          "partial": "Parse",
+          "signature": "(([a],[a])-\u003e([a],[a]))-\u003eParse a b-\u003eParse a b",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:withParse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "withParseT",
+          "package": "mtlparse",
+          "signature": "(([a], [a]) -\u003e ([a], [a])) -\u003e ParseT a m b -\u003e ParseT a m b",
+          "source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#withParseT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators MTLParse",
+          "module": "Text.ParserCombinators.MTLParse",
+          "name": "withParseT",
+          "normalized": "(([a],[a])-\u003e([a],[a]))-\u003eParseT a b c-\u003eParseT a b c",
+          "package": "mtlparse",
+          "partial": "Parse",
+          "signature": "(([a],[a])-\u003e([a],[a]))-\u003eParseT a m b-\u003eParseT a m b",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:withParseT"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#t:Parse",
-      "description": {
-        "fct-descr": "\u003cp\u003eA parse monad where \u003cem\u003ea\u003c/em\u003e is the type of the token to parse\n and \u003cem\u003eb\u003c/em\u003e is the type of the \u003cem\u003ereturn value\u003c/em\u003e.\n\u003c/p\u003e",
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "newtype",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#Parse",
-        "fct-type": "newtype",
-        "title": "Parse"
-      },
-      "index": {
-        "description": "parse monad where is the type of the token to parse and is the type of the return value",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "Parse",
-        "normalized": "",
-        "package": "mtlparse",
-        "partial": "Parse",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#t:ParseT",
-      "description": {
-        "fct-descr": "\u003cp\u003eA parse monad for encaplulating an inner monad.\n\u003c/p\u003e",
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "newtype",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#ParseT",
-        "fct-type": "newtype",
-        "title": "ParseT"
-      },
-      "index": {
-        "description": "parse monad for encaplulating an inner monad",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "ParseT",
-        "normalized": "",
-        "package": "mtlparse",
-        "partial": "Parse",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:-62--43--43--62-",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "m [a] -\u003e m [a] -\u003e m [a]",
-        "fct-source": "src/Text-ParserCombinators-MTLParse.html#%3E%2B%2B%3E",
-        "fct-type": "function",
-        "title": "(\u003e++\u003e)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "(\u003e++\u003e) \u003e++\u003e",
-        "normalized": "a[b]-\u003ea[b]-\u003ea[b]",
-        "package": "mtlparse",
-        "partial": "",
-        "signature": "m[a]-\u003em[a]-\u003em[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:-62-:-62-",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "m a -\u003e m [a] -\u003e m [a]",
-        "fct-source": "src/Text-ParserCombinators-MTLParse.html#%3E%3A%3E",
-        "fct-type": "function",
-        "title": "(\u003e:\u003e)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "(\u003e:\u003e) \u003e:\u003e",
-        "normalized": "a b-\u003ea[b]-\u003ea[b]",
-        "package": "mtlparse",
-        "partial": "",
-        "signature": "m a-\u003em[a]-\u003em[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:Parse",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "Parse",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#Parse",
-        "fct-type": "function",
-        "title": "Parse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "Parse",
-        "normalized": "",
-        "package": "mtlparse",
-        "partial": "Parse",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:ParseT",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "ParseT",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#ParseT",
-        "fct-type": "function",
-        "title": "ParseT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "ParseT",
-        "normalized": "",
-        "package": "mtlparse",
-        "partial": "Parse",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:apply2M",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "(a -\u003e b -\u003e c) -\u003e m a -\u003e m b -\u003e m c",
-        "fct-source": "src/Text-ParserCombinators-MTLParse.html#apply2M",
-        "fct-type": "function",
-        "title": "apply2M"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "apply2M",
-        "normalized": "(a-\u003eb-\u003ec)-\u003ed a-\u003ed b-\u003ed c",
-        "package": "mtlparse",
-        "partial": "",
-        "signature": "(a-\u003eb-\u003ec)-\u003em a-\u003em b-\u003em c"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:beginningOfInput",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "b -\u003e m b",
-        "fct-source": "src/Text-ParserCombinators-MTLParse.html#beginningOfInput",
-        "fct-type": "function",
-        "title": "beginningOfInput"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "beginningOfInput",
-        "normalized": "a-\u003eb a",
-        "package": "mtlparse",
-        "partial": "Of Input",
-        "signature": "b-\u003em b"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:build",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "m a -\u003e (a -\u003e b) -\u003e m b",
-        "fct-source": "src/Text-ParserCombinators-MTLParse.html#build",
-        "fct-type": "function",
-        "title": "build"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "build",
-        "normalized": "a b-\u003e(b-\u003ec)-\u003ea c",
-        "package": "mtlparse",
-        "partial": "",
-        "signature": "m a-\u003e(a-\u003eb)-\u003em b"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:endOfInput",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "b -\u003e m b",
-        "fct-source": "src/Text-ParserCombinators-MTLParse.html#beginningOfInput",
-        "fct-type": "function",
-        "title": "endOfInput"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "endOfInput",
-        "normalized": "a-\u003eb a",
-        "package": "mtlparse",
-        "partial": "Of Input",
-        "signature": "b-\u003em b"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:evalParse",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "Parse a b -\u003e ([a], [a]) -\u003e [b]",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#evalParse",
-        "fct-type": "function",
-        "title": "evalParse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "evalParse",
-        "normalized": "Parse a b-\u003e([a],[a])-\u003e[b]",
-        "package": "mtlparse",
-        "partial": "Parse",
-        "signature": "Parse a b-\u003e([a],[a])-\u003e[b]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:evalParseT",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "ParseT a m b -\u003e ([a], [a]) -\u003e m [b]",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#evalParseT",
-        "fct-type": "function",
-        "title": "evalParseT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "evalParseT",
-        "normalized": "ParseT a b c-\u003e([a],[a])-\u003eb[c]",
-        "package": "mtlparse",
-        "partial": "Parse",
-        "signature": "ParseT a m b-\u003e([a],[a])-\u003em[b]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:execParse",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "Parse a b -\u003e ([a], [a]) -\u003e [([a], [a])]",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#execParse",
-        "fct-type": "function",
-        "title": "execParse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "execParse",
-        "normalized": "Parse a b-\u003e([a],[a])-\u003e[([a],[a])]",
-        "package": "mtlparse",
-        "partial": "Parse",
-        "signature": "Parse a b-\u003e([a],[a])-\u003e[([a],[a])]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:execParseT",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "ParseT a m b -\u003e ([a], [a]) -\u003e m [([a], [a])]",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#execParseT",
-        "fct-type": "function",
-        "title": "execParseT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "execParseT",
-        "normalized": "ParseT a b c-\u003e([a],[a])-\u003eb[([a],[a])]",
-        "package": "mtlparse",
-        "partial": "Parse",
-        "signature": "ParseT a m b-\u003e([a],[a])-\u003em[([a],[a])]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:getBack",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "m [a]",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#getBack",
-        "fct-type": "function",
-        "title": "getBack"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "getBack",
-        "normalized": "a[b]",
-        "package": "mtlparse",
-        "partial": "Back",
-        "signature": "m[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:getForward",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "m [a]",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#getBack",
-        "fct-type": "function",
-        "title": "getForward"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "getForward",
-        "normalized": "a[b]",
-        "package": "mtlparse",
-        "partial": "Forward",
-        "signature": "m[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:getHere",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "m ([a], [a])",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#getHere",
-        "fct-type": "method",
-        "title": "getHere"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "getHere",
-        "normalized": "a([b],[b])",
-        "package": "mtlparse",
-        "partial": "Here",
-        "signature": "m([a],[a])"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:getsBack",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "([a] -\u003e [a]) -\u003e m [a]",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#getsBack",
-        "fct-type": "function",
-        "title": "getsBack"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "getsBack",
-        "normalized": "([a]-\u003e[a])-\u003eb[a]",
-        "package": "mtlparse",
-        "partial": "Back",
-        "signature": "([a]-\u003e[a])-\u003em[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:getsForward",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "([a] -\u003e [a]) -\u003e m [a]",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#getsBack",
-        "fct-type": "function",
-        "title": "getsForward"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "getsForward",
-        "normalized": "([a]-\u003e[a])-\u003eb[a]",
-        "package": "mtlparse",
-        "partial": "Forward",
-        "signature": "([a]-\u003e[a])-\u003em[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:getsHere",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "(([a], [a]) -\u003e b) -\u003e m b",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#getsHere",
-        "fct-type": "function",
-        "title": "getsHere"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "getsHere",
-        "normalized": "(([a],[a])-\u003eb)-\u003ec b",
-        "package": "mtlparse",
-        "partial": "Here",
-        "signature": "(([a],[a])-\u003eb)-\u003em b"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:greedyList",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "m a -\u003e m [a]",
-        "fct-source": "src/Text-ParserCombinators-MTLParse.html#optional",
-        "fct-type": "function",
-        "title": "greedyList"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "greedyList",
-        "normalized": "a b-\u003ea[b]",
-        "package": "mtlparse",
-        "partial": "List",
-        "signature": "m a-\u003em[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:greedyNeList",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "m a -\u003e m [a]",
-        "fct-source": "src/Text-ParserCombinators-MTLParse.html#optional",
-        "fct-type": "function",
-        "title": "greedyNeList"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "greedyNeList",
-        "normalized": "a b-\u003ea[b]",
-        "package": "mtlparse",
-        "partial": "Ne List",
-        "signature": "m a-\u003em[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:greedyOptional",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "m a -\u003e m [a]",
-        "fct-source": "src/Text-ParserCombinators-MTLParse.html#optional",
-        "fct-type": "function",
-        "title": "greedyOptional"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "greedyOptional",
-        "normalized": "a b-\u003ea[b]",
-        "package": "mtlparse",
-        "partial": "Optional",
-        "signature": "m a-\u003em[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:greedyRepeatParse",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "Int -\u003e Maybe Int -\u003e m b -\u003e m [b]",
-        "fct-source": "src/Text-ParserCombinators-MTLParse.html#repeatParse",
-        "fct-type": "function",
-        "title": "greedyRepeatParse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "greedyRepeatParse",
-        "normalized": "Int-\u003eMaybe Int-\u003ea b-\u003ea[b]",
-        "package": "mtlparse",
-        "partial": "Repeat Parse",
-        "signature": "Int-\u003eMaybe Int-\u003em b-\u003em[b]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:list",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "m a -\u003e m [a]",
-        "fct-source": "src/Text-ParserCombinators-MTLParse.html#optional",
-        "fct-type": "function",
-        "title": "list"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "list",
-        "normalized": "a b-\u003ea[b]",
-        "package": "mtlparse",
-        "partial": "",
-        "signature": "m a-\u003em[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:mapParse",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "((b, ([a], [a])) -\u003e (c, ([a], [a]))) -\u003e Parse a b -\u003e Parse a c",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#mapParse",
-        "fct-type": "function",
-        "title": "mapParse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "mapParse",
-        "normalized": "((a,([b],[b]))-\u003e(c,([b],[b])))-\u003eParse b a-\u003eParse b c",
-        "package": "mtlparse",
-        "partial": "Parse",
-        "signature": "((b,([a],[a]))-\u003e(c,([a],[a])))-\u003eParse a b-\u003eParse a c"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:mapParseT",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "(m [(b, ([a], [a]))] -\u003e n [(c, ([a], [a]))]) -\u003e ParseT a m b -\u003e ParseT a n c",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#mapParseT",
-        "fct-type": "function",
-        "title": "mapParseT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "mapParseT",
-        "normalized": "(a[(b,([c],[c]))]-\u003ed[(e,([c],[c]))])-\u003eParseT c a b-\u003eParseT c d e",
-        "package": "mtlparse",
-        "partial": "Parse",
-        "signature": "(m[(b,([a],[a]))]-\u003en[(c,([a],[a]))])-\u003eParseT a m b-\u003eParseT a n c"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:modifyBack",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "([a] -\u003e [a]) -\u003e m ()",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#modifyBack",
-        "fct-type": "function",
-        "title": "modifyBack"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "modifyBack",
-        "normalized": "([a]-\u003e[a])-\u003eb()",
-        "package": "mtlparse",
-        "partial": "Back",
-        "signature": "([a]-\u003e[a])-\u003em()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:modifyForward",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "([a] -\u003e [a]) -\u003e m ()",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#modifyBack",
-        "fct-type": "function",
-        "title": "modifyForward"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "modifyForward",
-        "normalized": "([a]-\u003e[a])-\u003eb()",
-        "package": "mtlparse",
-        "partial": "Forward",
-        "signature": "([a]-\u003e[a])-\u003em()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:modifyHere",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "(([a], [a]) -\u003e ([a], [a])) -\u003e m ()",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#modifyHere",
-        "fct-type": "function",
-        "title": "modifyHere"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "modifyHere",
-        "normalized": "(([a],[a])-\u003e([a],[a]))-\u003eb()",
-        "package": "mtlparse",
-        "partial": "Here",
-        "signature": "(([a],[a])-\u003e([a],[a]))-\u003em()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:neList",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "m a -\u003e m [a]",
-        "fct-source": "src/Text-ParserCombinators-MTLParse.html#optional",
-        "fct-type": "function",
-        "title": "neList"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "neList",
-        "normalized": "a b-\u003ea[b]",
-        "package": "mtlparse",
-        "partial": "List",
-        "signature": "m a-\u003em[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:noBacktrack",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "m b -\u003e m b",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#noBacktrack",
-        "fct-type": "method",
-        "title": "noBacktrack"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "noBacktrack",
-        "normalized": "a b-\u003ea b",
-        "package": "mtlparse",
-        "partial": "Backtrack",
-        "signature": "m b-\u003em b"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:optional",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "m a -\u003e m [a]",
-        "fct-source": "src/Text-ParserCombinators-MTLParse.html#optional",
-        "fct-type": "function",
-        "title": "optional"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "optional",
-        "normalized": "a b-\u003ea[b]",
-        "package": "mtlparse",
-        "partial": "",
-        "signature": "m a-\u003em[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:parseNot",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "c -\u003e m b -\u003e m c",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#parseNot",
-        "fct-type": "method",
-        "title": "parseNot"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "parseNot",
-        "normalized": "a-\u003eb c-\u003eb a",
-        "package": "mtlparse",
-        "partial": "Not",
-        "signature": "c-\u003em b-\u003em c"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:putBack",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "[a] -\u003e m ()",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#putBack",
-        "fct-type": "function",
-        "title": "putBack"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "putBack",
-        "normalized": "[a]-\u003eb()",
-        "package": "mtlparse",
-        "partial": "Back",
-        "signature": "[a]-\u003em()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:putForward",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "[a] -\u003e m ()",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#putBack",
-        "fct-type": "function",
-        "title": "putForward"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "putForward",
-        "normalized": "[a]-\u003eb()",
-        "package": "mtlparse",
-        "partial": "Forward",
-        "signature": "[a]-\u003em()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:putHere",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "([a], [a]) -\u003e m ()",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#putHere",
-        "fct-type": "method",
-        "title": "putHere"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "putHere",
-        "normalized": "([a],[a])-\u003eb()",
-        "package": "mtlparse",
-        "partial": "Here",
-        "signature": "([a],[a])-\u003em()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:repeatParse",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "Int -\u003e Maybe Int -\u003e m b -\u003e m [b]",
-        "fct-source": "src/Text-ParserCombinators-MTLParse.html#repeatParse",
-        "fct-type": "function",
-        "title": "repeatParse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "repeatParse",
-        "normalized": "Int-\u003eMaybe Int-\u003ea b-\u003ea[b]",
-        "package": "mtlparse",
-        "partial": "Parse",
-        "signature": "Int-\u003eMaybe Int-\u003em b-\u003em[b]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:runParse",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "([a], [a]) -\u003e [(b, ([a], [a]))]",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#Parse",
-        "fct-type": "function",
-        "title": "runParse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "runParse",
-        "normalized": "([a],[a])-\u003e[(b,([a],[a]))]",
-        "package": "mtlparse",
-        "partial": "Parse",
-        "signature": "([a],[a])-\u003e[(b,([a],[a]))]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:runParseT",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "([a], [a]) -\u003e m [(b, ([a], [a]))]",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#ParseT",
-        "fct-type": "function",
-        "title": "runParseT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "runParseT",
-        "normalized": "([a],[a])-\u003eb[(c,([a],[a]))]",
-        "package": "mtlparse",
-        "partial": "Parse",
-        "signature": "([a],[a])-\u003em[(b,([a],[a]))]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:spot",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "(a -\u003e Bool) -\u003e m a",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#spot",
-        "fct-type": "method",
-        "title": "spot"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "spot",
-        "normalized": "(a-\u003eBool)-\u003eb a",
-        "package": "mtlparse",
-        "partial": "",
-        "signature": "(a-\u003eBool)-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:spotBack",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "(a -\u003e Bool) -\u003e m a",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#spotBack",
-        "fct-type": "method",
-        "title": "spotBack"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "spotBack",
-        "normalized": "(a-\u003eBool)-\u003eb a",
-        "package": "mtlparse",
-        "partial": "Back",
-        "signature": "(a-\u003eBool)-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:still",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "m b -\u003e m b",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#still",
-        "fct-type": "method",
-        "title": "still"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "still",
-        "normalized": "a b-\u003ea b",
-        "package": "mtlparse",
-        "partial": "",
-        "signature": "m b-\u003em b"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:token",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "a -\u003e m a",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#token",
-        "fct-type": "function",
-        "title": "token"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "token",
-        "normalized": "a-\u003eb a",
-        "package": "mtlparse",
-        "partial": "",
-        "signature": "a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:tokenBack",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "a -\u003e m a",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#token",
-        "fct-type": "function",
-        "title": "tokenBack"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "tokenBack",
-        "normalized": "a-\u003eb a",
-        "package": "mtlparse",
-        "partial": "Back",
-        "signature": "a-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:tokens",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "[a] -\u003e m [a]",
-        "fct-source": "src/Text-ParserCombinators-MTLParse.html#tokens",
-        "fct-type": "function",
-        "title": "tokens"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "tokens",
-        "normalized": "[a]-\u003eb[a]",
-        "package": "mtlparse",
-        "partial": "",
-        "signature": "[a]-\u003em[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:tokensBack",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "[a] -\u003e m [a]",
-        "fct-source": "src/Text-ParserCombinators-MTLParse.html#tokens",
-        "fct-type": "function",
-        "title": "tokensBack"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "tokensBack",
-        "normalized": "[a]-\u003eb[a]",
-        "package": "mtlparse",
-        "partial": "Back",
-        "signature": "[a]-\u003em[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:withParse",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "(([a], [a]) -\u003e ([a], [a])) -\u003e Parse a b -\u003e Parse a b",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#withParse",
-        "fct-type": "function",
-        "title": "withParse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "withParse",
-        "normalized": "(([a],[a])-\u003e([a],[a]))-\u003eParse a b-\u003eParse a b",
-        "package": "mtlparse",
-        "partial": "Parse",
-        "signature": "(([a],[a])-\u003e([a],[a]))-\u003eParse a b-\u003eParse a b"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/mtlparse/docs/Text-ParserCombinators-MTLParse.html#v:withParseT",
-      "description": {
-        "fct-module": "Text.ParserCombinators.MTLParse",
-        "fct-package": "mtlparse",
-        "fct-signature": "(([a], [a]) -\u003e ([a], [a])) -\u003e ParseT a m b -\u003e ParseT a m b",
-        "fct-source": "src/Text-ParserCombinators-MTLParse-MTLParseCore.html#withParseT",
-        "fct-type": "function",
-        "title": "withParseT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators MTLParse",
-        "module": "Text.ParserCombinators.MTLParse",
-        "name": "withParseT",
-        "normalized": "(([a],[a])-\u003e([a],[a]))-\u003eParseT a b c-\u003eParseT a b c",
-        "package": "mtlparse",
-        "partial": "Parse",
-        "signature": "(([a],[a])-\u003e([a],[a]))-\u003eParseT a m b-\u003eParseT a m b"
-      }
-    }
-  }
+  ]
 ]

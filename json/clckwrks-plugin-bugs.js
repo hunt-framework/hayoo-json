@@ -1,3662 +1,4008 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "module",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html",
-        "fct-type": "module",
-        "title": "Acid"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "Acid",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Acid",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#t:AllBugIds",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "data",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#AllBugIds",
-        "fct-type": "data",
-        "title": "AllBugIds"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "AllBugIds",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "All Bug Ids",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#t:BugsForMilestones",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "data",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#BugsForMilestones",
-        "fct-type": "data",
-        "title": "BugsForMilestones"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "BugsForMilestones",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bugs For Milestones",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#t:BugsState",
-      "description": {
-        "fct-descr": "\u003cp\u003e\u003ccode\u003e\u003ca\u003eBugsState\u003c/a\u003e\u003c/code\u003e stores all the bugs\n\u003c/p\u003e",
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "data",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#BugsState",
-        "fct-type": "data",
-        "title": "BugsState"
-      },
-      "index": {
-        "description": "BugsState stores all the bugs",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "BugsState",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bugs State",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#t:BugsState_0",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "data",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#BugsState_0",
-        "fct-type": "data",
-        "title": "BugsState_0"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "BugsState_0",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bugs State",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#t:GenBugId",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "data",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#GenBugId",
-        "fct-type": "data",
-        "title": "GenBugId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "GenBugId",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Gen Bug Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#t:GetBugById",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "data",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#GetBugById",
-        "fct-type": "data",
-        "title": "GetBugById"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "GetBugById",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Get Bug By Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#t:GetMilestoneTitle",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "data",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#GetMilestoneTitle",
-        "fct-type": "data",
-        "title": "GetMilestoneTitle"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "GetMilestoneTitle",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Get Milestone Title",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#t:GetMilestones",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "data",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#GetMilestones",
-        "fct-type": "data",
-        "title": "GetMilestones"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "GetMilestones",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Get Milestones",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#t:MilestoneCompletion",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "data",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#MilestoneCompletion",
-        "fct-type": "data",
-        "title": "MilestoneCompletion"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "MilestoneCompletion",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Milestone Completion",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#t:NewMilestone",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "data",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#NewMilestone",
-        "fct-type": "data",
-        "title": "NewMilestone"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "NewMilestone",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "New Milestone",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#t:PutBug",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "data",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#PutBug",
-        "fct-type": "data",
-        "title": "PutBug"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "PutBug",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Put Bug",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#t:SetMilestones",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "data",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#SetMilestones",
-        "fct-type": "data",
-        "title": "SetMilestones"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "SetMilestones",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Set Milestones",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:AllBugIds",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "AllBugIds",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#AllBugIds",
-        "fct-type": "function",
-        "title": "AllBugIds"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "AllBugIds",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "All Bug Ids",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:BugsForMilestones",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "BugsForMilestones [MilestoneId]",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#BugsForMilestones",
-        "fct-type": "function",
-        "title": "BugsForMilestones"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "BugsForMilestones",
-        "normalized": "BugsForMilestones[MilestoneId]",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bugs For Milestones",
-        "signature": "BugsForMilestones[MilestoneId]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:BugsState",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "BugsState",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#BugsState",
-        "fct-type": "function",
-        "title": "BugsState"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "BugsState",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bugs State",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:BugsState_0",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "BugsState_0",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#BugsState_0",
-        "fct-type": "function",
-        "title": "BugsState_0"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "BugsState_0",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bugs State",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:GenBugId",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "GenBugId",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#GenBugId",
-        "fct-type": "function",
-        "title": "GenBugId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "GenBugId",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Gen Bug Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:GetBugById",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "GetBugById BugId",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#GetBugById",
-        "fct-type": "function",
-        "title": "GetBugById"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "GetBugById",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Get Bug By Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:GetMilestoneTitle",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "GetMilestoneTitle MilestoneId",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#GetMilestoneTitle",
-        "fct-type": "function",
-        "title": "GetMilestoneTitle"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "GetMilestoneTitle",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Get Milestone Title",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:GetMilestones",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "GetMilestones",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#GetMilestones",
-        "fct-type": "function",
-        "title": "GetMilestones"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "GetMilestones",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Get Milestones",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:MilestoneCompletion",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "MilestoneCompletion MilestoneId",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#MilestoneCompletion",
-        "fct-type": "function",
-        "title": "MilestoneCompletion"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "MilestoneCompletion",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Milestone Completion",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:NewMilestone",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "NewMilestone",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#NewMilestone",
-        "fct-type": "function",
-        "title": "NewMilestone"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "NewMilestone",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "New Milestone",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:PutBug",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "PutBug Bug",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#PutBug",
-        "fct-type": "function",
-        "title": "PutBug"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "PutBug",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Put Bug",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:SetMilestones",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "SetMilestones [Milestone]",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#SetMilestones",
-        "fct-type": "function",
-        "title": "SetMilestones"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "SetMilestones",
-        "normalized": "SetMilestones[Milestone]",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Set Milestones",
-        "signature": "SetMilestones[Milestone]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:allBugIds",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Query BugsState [BugId]",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#allBugIds",
-        "fct-type": "function",
-        "title": "allBugIds"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "allBugIds",
-        "normalized": "Query BugsState[BugId]",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bug Ids",
-        "signature": "Query BugsState[BugId]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:bugs",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "IxSet Bug",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#BugsState",
-        "fct-type": "function",
-        "title": "bugs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "bugs",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:bugsForMilestones",
-      "description": {
-        "fct-descr": "\u003cp\u003eget all the \u003ccode\u003e\u003ca\u003eBug\u003c/a\u003e\u003c/code\u003es with one of the target \u003ccode\u003e\u003ca\u003eMilestoneId\u003c/a\u003e\u003c/code\u003es\n\u003c/p\u003e",
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "[MilestoneId] -\u003e Query BugsState (IxSet Bug)",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#bugsForMilestones",
-        "fct-type": "function",
-        "title": "bugsForMilestones"
-      },
-      "index": {
-        "description": "get all the Bug with one of the target MilestoneId",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "bugsForMilestones",
-        "normalized": "[MilestoneId]-\u003eQuery BugsState(IxSet Bug)",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "For Milestones",
-        "signature": "[MilestoneId]-\u003eQuery BugsState(IxSet Bug)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:bugs_0",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "IxSet Bug",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#BugsState_0",
-        "fct-type": "function",
-        "title": "bugs_0"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "bugs_0",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:genBugId",
-      "description": {
-        "fct-descr": "\u003cp\u003eget the next unused \u003ccode\u003eBugsId\u003c/code\u003e\n\u003c/p\u003e",
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Update BugsState BugId",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#genBugId",
-        "fct-type": "function",
-        "title": "genBugId"
-      },
-      "index": {
-        "description": "get the next unused BugsId",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "genBugId",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bug Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:getBugById",
-      "description": {
-        "fct-descr": "\u003cp\u003eget \u003ccode\u003eBugs\u003c/code\u003e by \u003ccode\u003e\u003ca\u003eBugId\u003c/a\u003e\u003c/code\u003e\n\u003c/p\u003e",
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "BugId -\u003e Query BugsState (Maybe Bug)",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#getBugById",
-        "fct-type": "function",
-        "title": "getBugById"
-      },
-      "index": {
-        "description": "get Bugs by BugId",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "getBugById",
-        "normalized": "BugId-\u003eQuery BugsState(Maybe Bug)",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bug By Id",
-        "signature": "BugId-\u003eQuery BugsState(Maybe Bug)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:getMilestoneIds",
-      "description": {
-        "fct-descr": "\u003cp\u003eget all the \u003ccode\u003e\u003ca\u003eMilestoneId\u003c/a\u003e\u003c/code\u003es\n\u003c/p\u003e",
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Query BugsState [MilestoneId]",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#getMilestoneIds",
-        "fct-type": "function",
-        "title": "getMilestoneIds"
-      },
-      "index": {
-        "description": "get all the MilestoneId",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "getMilestoneIds",
-        "normalized": "Query BugsState[MilestoneId]",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Milestone Ids",
-        "signature": "Query BugsState[MilestoneId]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:getMilestoneTitle",
-      "description": {
-        "fct-descr": "\u003cp\u003eget the \u003ccode\u003e\u003ca\u003emilestoneTitle\u003c/a\u003e\u003c/code\u003e for a \u003ccode\u003e\u003ca\u003eMilestoneId\u003c/a\u003e\u003c/code\u003e\n\u003c/p\u003e",
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "MilestoneId -\u003e Query BugsState (Maybe Text)",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#getMilestoneTitle",
-        "fct-type": "function",
-        "title": "getMilestoneTitle"
-      },
-      "index": {
-        "description": "get the milestoneTitle for MilestoneId",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "getMilestoneTitle",
-        "normalized": "MilestoneId-\u003eQuery BugsState(Maybe Text)",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Milestone Title",
-        "signature": "MilestoneId-\u003eQuery BugsState(Maybe Text)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:getMilestones",
-      "description": {
-        "fct-descr": "\u003cp\u003eget the milestones\n\u003c/p\u003e",
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Query BugsState [Milestone]",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#getMilestones",
-        "fct-type": "function",
-        "title": "getMilestones"
-      },
-      "index": {
-        "description": "get the milestones",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "getMilestones",
-        "normalized": "Query BugsState[Milestone]",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Milestones",
-        "signature": "Query BugsState[Milestone]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:initialBugsState",
-      "description": {
-        "fct-descr": "\u003cp\u003einitial \u003ccode\u003e\u003ca\u003eBugsState\u003c/a\u003e\u003c/code\u003e\n\u003c/p\u003e",
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "BugsState",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#initialBugsState",
-        "fct-type": "function",
-        "title": "initialBugsState"
-      },
-      "index": {
-        "description": "initial BugsState",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "initialBugsState",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bugs State",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:milestoneCompletion",
-      "description": {
-        "fct-descr": "\u003cp\u003ereturn the percentage completion of a \u003ccode\u003e\u003ca\u003eMilestoneId\u003c/a\u003e\u003c/code\u003e\n\u003c/p\u003e\u003cp\u003eWill return \u003ccode\u003e\u003ca\u003eNothing\u003c/a\u003e\u003c/code\u003e if no bugs were found for the \u003ccode\u003e\u003ca\u003eMilestoneId\u003c/a\u003e\u003c/code\u003e\n\u003c/p\u003e",
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "MilestoneId -\u003e Query BugsState (Maybe Rational)",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#milestoneCompletion",
-        "fct-type": "function",
-        "title": "milestoneCompletion"
-      },
-      "index": {
-        "description": "return the percentage completion of MilestoneId Will return Nothing if no bugs were found for the MilestoneId",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "milestoneCompletion",
-        "normalized": "MilestoneId-\u003eQuery BugsState(Maybe Rational)",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Completion",
-        "signature": "MilestoneId-\u003eQuery BugsState(Maybe Rational)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:milestones",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "IxSet Milestone",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#BugsState",
-        "fct-type": "function",
-        "title": "milestones"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "milestones",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:newMilestone",
-      "description": {
-        "fct-descr": "\u003cp\u003eadd a new, empty \u003ccode\u003e\u003ca\u003eMilestone\u003c/a\u003e\u003c/code\u003e to the database and return the \u003ccode\u003e\u003ca\u003eMilestoneId\u003c/a\u003e\u003c/code\u003e\n\u003c/p\u003e",
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Update BugsState MilestoneId",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#newMilestone",
-        "fct-type": "function",
-        "title": "newMilestone"
-      },
-      "index": {
-        "description": "add new empty Milestone to the database and return the MilestoneId",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "newMilestone",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Milestone",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:nextBugId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "BugId",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#BugsState",
-        "fct-type": "function",
-        "title": "nextBugId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "nextBugId",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bug Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:nextBugId_0",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "BugId",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#BugsState_0",
-        "fct-type": "function",
-        "title": "nextBugId_0"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "nextBugId_0",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bug Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:nextMilestoneId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "MilestoneId",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#BugsState",
-        "fct-type": "function",
-        "title": "nextMilestoneId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "nextMilestoneId",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Milestone Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:putBug",
-      "description": {
-        "fct-descr": "\u003cp\u003estore \u003ccode\u003eBugs\u003c/code\u003e in the state. Will overwrite an existing entry with the same \u003ccode\u003e\u003ca\u003eBugId\u003c/a\u003e\u003c/code\u003e\n\u003c/p\u003e",
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Bug -\u003e Update BugsState ()",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#putBug",
-        "fct-type": "function",
-        "title": "putBug"
-      },
-      "index": {
-        "description": "store Bugs in the state Will overwrite an existing entry with the same BugId",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "putBug",
-        "normalized": "Bug-\u003eUpdate BugsState()",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bug",
-        "signature": "Bug-\u003eUpdate BugsState()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:setMilestones",
-      "description": {
-        "fct-descr": "\u003cp\u003eget the milestones sorted by target date\n\u003c/p\u003e",
-        "fct-module": "Clckwrks.Bugs.Acid",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "[Milestone] -\u003e Update BugsState ()",
-        "fct-source": "src/Clckwrks-Bugs-Acid.html#setMilestones",
-        "fct-type": "function",
-        "title": "setMilestones"
-      },
-      "index": {
-        "description": "get the milestones sorted by target date",
-        "hierarchy": "Clckwrks Bugs Acid",
-        "module": "Clckwrks.Bugs.Acid",
-        "name": "setMilestones",
-        "normalized": "[Milestone]-\u003eUpdate BugsState()",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Milestones",
-        "signature": "[Milestone]-\u003eUpdate BugsState()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Monad.html#",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Monad",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "module",
-        "fct-source": "src/Clckwrks-Bugs-Monad.html",
-        "fct-type": "module",
-        "title": "Monad"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Monad",
-        "module": "Clckwrks.Bugs.Monad",
-        "name": "Monad",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Monad",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Monad.html#t:BugsConfig",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Monad",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "data",
-        "fct-source": "src/Clckwrks-Bugs-Monad.html#BugsConfig",
-        "fct-type": "data",
-        "title": "BugsConfig"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Monad",
-        "module": "Clckwrks.Bugs.Monad",
-        "name": "BugsConfig",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bugs Config",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Monad.html#t:BugsForm",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Monad",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "type",
-        "fct-source": "src/Clckwrks-Bugs-Monad.html#BugsForm",
-        "fct-type": "type",
-        "title": "BugsForm"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Monad",
-        "module": "Clckwrks.Bugs.Monad",
-        "name": "BugsForm",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bugs Form",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Monad.html#t:BugsFormError",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Monad",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "data",
-        "fct-source": "src/Clckwrks-Bugs-Monad.html#BugsFormError",
-        "fct-type": "data",
-        "title": "BugsFormError"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Monad",
-        "module": "Clckwrks.Bugs.Monad",
-        "name": "BugsFormError",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bugs Form Error",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Monad.html#t:BugsM",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Monad",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "type",
-        "fct-source": "src/Clckwrks-Bugs-Monad.html#BugsM",
-        "fct-type": "type",
-        "title": "BugsM"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Monad",
-        "module": "Clckwrks.Bugs.Monad",
-        "name": "BugsM",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bugs",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Monad.html#t:BugsT",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Monad",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "type",
-        "fct-source": "src/Clckwrks-Bugs-Monad.html#BugsT",
-        "fct-type": "type",
-        "title": "BugsT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Monad",
-        "module": "Clckwrks.Bugs.Monad",
-        "name": "BugsT",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bugs",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Monad.html#v:BugsCFE",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Monad",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "BugsCFE (CommonFormError [Input])",
-        "fct-source": "src/Clckwrks-Bugs-Monad.html#BugsFormError",
-        "fct-type": "function",
-        "title": "BugsCFE"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Monad",
-        "module": "Clckwrks.Bugs.Monad",
-        "name": "BugsCFE",
-        "normalized": "BugsCFE(CommonFormError[Input])",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bugs CFE",
-        "signature": "BugsCFE(CommonFormError[Input])"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Monad.html#v:BugsConfig",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Monad",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "BugsConfig",
-        "fct-source": "src/Clckwrks-Bugs-Monad.html#BugsConfig",
-        "fct-type": "function",
-        "title": "BugsConfig"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Monad",
-        "module": "Clckwrks.Bugs.Monad",
-        "name": "BugsConfig",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bugs Config",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Monad.html#v:bugsClckURL",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Clckwrks.Bugs.Monad",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "ClckURL -\u003e [(Text, Maybe Text)] -\u003e Text",
-        "fct-source": "src/Clckwrks-Bugs-Monad.html#BugsConfig",
-        "fct-type": "function",
-        "title": "bugsClckURL"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Monad",
-        "module": "Clckwrks.Bugs.Monad",
-        "name": "bugsClckURL",
-        "normalized": "ClckURL-\u003e[(Text,Maybe Text)]-\u003eText",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Clck URL",
-        "signature": "ClckURL-\u003e[(Text,Maybe Text)]-\u003eText"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Monad.html#v:bugsDirectory",
-      "description": {
-        "fct-descr": "\u003cp\u003edirectory in which to store uploaded attachments\n\u003c/p\u003e",
-        "fct-module": "Clckwrks.Bugs.Monad",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "FilePath",
-        "fct-source": "src/Clckwrks-Bugs-Monad.html#BugsConfig",
-        "fct-type": "function",
-        "title": "bugsDirectory"
-      },
-      "index": {
-        "description": "directory in which to store uploaded attachments",
-        "hierarchy": "Clckwrks Bugs Monad",
-        "module": "Clckwrks.Bugs.Monad",
-        "name": "bugsDirectory",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Directory",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Monad.html#v:bugsState",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Clckwrks.Bugs.Monad",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "AcidState BugsState",
-        "fct-source": "src/Clckwrks-Bugs-Monad.html#BugsConfig",
-        "fct-type": "function",
-        "title": "bugsState"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Monad",
-        "module": "Clckwrks.Bugs.Monad",
-        "name": "bugsState",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "State",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Monad.html#v:runBugsT",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Monad",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "BugsConfig -\u003e BugsT m a -\u003e ClckT BugsURL m a",
-        "fct-source": "src/Clckwrks-Bugs-Monad.html#runBugsT",
-        "fct-type": "function",
-        "title": "runBugsT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Monad",
-        "module": "Clckwrks.Bugs.Monad",
-        "name": "runBugsT",
-        "normalized": "BugsConfig-\u003eBugsT a b-\u003eClckT BugsURL a b",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bugs",
-        "signature": "BugsConfig-\u003eBugsT m a-\u003eClckT BugsURL m a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-EditBug.html#",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Page.EditBug",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "module",
-        "fct-source": "src/Clckwrks-Bugs-Page-EditBug.html",
-        "fct-type": "module",
-        "title": "EditBug"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Page EditBug",
-        "module": "Clckwrks.Bugs.Page.EditBug",
-        "name": "EditBug",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Edit Bug",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-EditBug.html#v:editBug",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Page.EditBug",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "BugsURL -\u003e BugId -\u003e BugsM Response",
-        "fct-source": "src/Clckwrks-Bugs-Page-EditBug.html#editBug",
-        "fct-type": "function",
-        "title": "editBug"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Page EditBug",
-        "module": "Clckwrks.Bugs.Page.EditBug",
-        "name": "editBug",
-        "normalized": "BugsURL-\u003eBugId-\u003eBugsM Response",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bug",
-        "signature": "BugsURL-\u003eBugId-\u003eBugsM Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-EditBug.html#v:editBugForm",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Page.EditBug",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "[(Maybe UserId, Text)] -\u003e [Milestone] -\u003e Bug -\u003e BugsForm Bug",
-        "fct-source": "src/Clckwrks-Bugs-Page-EditBug.html#editBugForm",
-        "fct-type": "function",
-        "title": "editBugForm"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Page EditBug",
-        "module": "Clckwrks.Bugs.Page.EditBug",
-        "name": "editBugForm",
-        "normalized": "[(Maybe UserId,Text)]-\u003e[Milestone]-\u003eBug-\u003eBugsForm Bug",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bug Form",
-        "signature": "[(Maybe UserId,Text)]-\u003e[Milestone]-\u003eBug-\u003eBugsForm Bug"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-EditBug.html#v:impure",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Page.EditBug",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "m a -\u003e Form m input error view () a",
-        "fct-source": "src/Clckwrks-Bugs-Page-EditBug.html#impure",
-        "fct-type": "function",
-        "title": "impure"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Page EditBug",
-        "module": "Clckwrks.Bugs.Page.EditBug",
-        "name": "impure",
-        "normalized": "a b-\u003eForm a c d e()b",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "",
-        "signature": "m a-\u003eForm m input error view()a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-EditMilestones.html#",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Page.EditMilestones",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "module",
-        "fct-source": "src/Clckwrks-Bugs-Page-EditMilestones.html",
-        "fct-type": "module",
-        "title": "EditMilestones"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Page EditMilestones",
-        "module": "Clckwrks.Bugs.Page.EditMilestones",
-        "name": "EditMilestones",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Edit Milestones",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-EditMilestones.html#v:editMilestones",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Page.EditMilestones",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "BugsURL -\u003e BugsM Response",
-        "fct-source": "src/Clckwrks-Bugs-Page-EditMilestones.html#editMilestones",
-        "fct-type": "function",
-        "title": "editMilestones"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Page EditMilestones",
-        "module": "Clckwrks.Bugs.Page.EditMilestones",
-        "name": "editMilestones",
-        "normalized": "BugsURL-\u003eBugsM Response",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Milestones",
-        "signature": "BugsURL-\u003eBugsM Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-EditMilestones.html#v:editMilestonesForm",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Page.EditMilestones",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "[Milestone] -\u003e BugsForm ([Milestone], (Bool, Bool))",
-        "fct-source": "src/Clckwrks-Bugs-Page-EditMilestones.html#editMilestonesForm",
-        "fct-type": "function",
-        "title": "editMilestonesForm"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Page EditMilestones",
-        "module": "Clckwrks.Bugs.Page.EditMilestones",
-        "name": "editMilestonesForm",
-        "normalized": "[Milestone]-\u003eBugsForm([Milestone],(Bool,Bool))",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Milestones Form",
-        "signature": "[Milestone]-\u003eBugsForm([Milestone],(Bool,Bool))"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-EditMilestones.html#v:impure",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Page.EditMilestones",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "m a -\u003e Form m input error view () a",
-        "fct-source": "src/Clckwrks-Bugs-Page-EditMilestones.html#impure",
-        "fct-type": "function",
-        "title": "impure"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Page EditMilestones",
-        "module": "Clckwrks.Bugs.Page.EditMilestones",
-        "name": "impure",
-        "normalized": "a b-\u003eForm a c d e()b",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "",
-        "signature": "m a-\u003eForm m input error view()a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-SubmitBug.html#",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Page.SubmitBug",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "module",
-        "fct-source": "src/Clckwrks-Bugs-Page-SubmitBug.html",
-        "fct-type": "module",
-        "title": "SubmitBug"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Page SubmitBug",
-        "module": "Clckwrks.Bugs.Page.SubmitBug",
-        "name": "SubmitBug",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Submit Bug",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-SubmitBug.html#v:impure",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Page.SubmitBug",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "m a -\u003e Form m input error view () a",
-        "fct-source": "src/Clckwrks-Bugs-Page-SubmitBug.html#impure",
-        "fct-type": "function",
-        "title": "impure"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Page SubmitBug",
-        "module": "Clckwrks.Bugs.Page.SubmitBug",
-        "name": "impure",
-        "normalized": "a b-\u003eForm a c d e()b",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "",
-        "signature": "m a-\u003eForm m input error view()a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-SubmitBug.html#v:submitBug",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Page.SubmitBug",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "BugsURL -\u003e BugsM Response",
-        "fct-source": "src/Clckwrks-Bugs-Page-SubmitBug.html#submitBug",
-        "fct-type": "function",
-        "title": "submitBug"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Page SubmitBug",
-        "module": "Clckwrks.Bugs.Page.SubmitBug",
-        "name": "submitBug",
-        "normalized": "BugsURL-\u003eBugsM Response",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bug",
-        "signature": "BugsURL-\u003eBugsM Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-SubmitBug.html#v:submitForm",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Page.SubmitBug",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "BugsForm Bug",
-        "fct-source": "src/Clckwrks-Bugs-Page-SubmitBug.html#submitForm",
-        "fct-type": "function",
-        "title": "submitForm"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Page SubmitBug",
-        "module": "Clckwrks.Bugs.Page.SubmitBug",
-        "name": "submitForm",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Form",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-Template.html#",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Page.Template",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "module",
-        "fct-source": "src/Clckwrks-Bugs-Page-Template.html",
-        "fct-type": "module",
-        "title": "Template"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Page Template",
-        "module": "Clckwrks.Bugs.Page.Template",
-        "name": "Template",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Template",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-Template.html#v:template",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Page.Template",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Text -\u003e headers -\u003e body -\u003e BugsM Response",
-        "fct-source": "src/Clckwrks-Bugs-Page-Template.html#template",
-        "fct-type": "function",
-        "title": "template"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Page Template",
-        "module": "Clckwrks.Bugs.Page.Template",
-        "name": "template",
-        "normalized": "Text-\u003ea-\u003eb-\u003eBugsM Response",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "",
-        "signature": "Text-\u003eheaders-\u003ebody-\u003eBugsM Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-Timeline.html#",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Page.Timeline",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "module",
-        "fct-source": "src/Clckwrks-Bugs-Page-Timeline.html",
-        "fct-type": "module",
-        "title": "Timeline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Page Timeline",
-        "module": "Clckwrks.Bugs.Page.Timeline",
-        "name": "Timeline",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Timeline",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-Timeline.html#v:meter",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Page.Timeline",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "a -\u003e XMLGenT BugsM XML",
-        "fct-source": "src/Clckwrks-Bugs-Page-Timeline.html#meter",
-        "fct-type": "function",
-        "title": "meter"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Page Timeline",
-        "module": "Clckwrks.Bugs.Page.Timeline",
-        "name": "meter",
-        "normalized": "a-\u003eXMLGenT BugsM XML",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "",
-        "signature": "a-\u003eXMLGenT BugsM XML"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-Timeline.html#v:showBugSummary",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Page.Timeline",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Bug -\u003e XMLGenT BugsM XML",
-        "fct-source": "src/Clckwrks-Bugs-Page-Timeline.html#showBugSummary",
-        "fct-type": "function",
-        "title": "showBugSummary"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Page Timeline",
-        "module": "Clckwrks.Bugs.Page.Timeline",
-        "name": "showBugSummary",
-        "normalized": "Bug-\u003eXMLGenT BugsM XML",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bug Summary",
-        "signature": "Bug-\u003eXMLGenT BugsM XML"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-Timeline.html#v:showMilestone",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Page.Timeline",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "[Milestone] -\u003e (MilestoneId, [Bug]) -\u003e XMLGenT BugsM [ChildType BugsM]",
-        "fct-source": "src/Clckwrks-Bugs-Page-Timeline.html#showMilestone",
-        "fct-type": "function",
-        "title": "showMilestone"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Page Timeline",
-        "module": "Clckwrks.Bugs.Page.Timeline",
-        "name": "showMilestone",
-        "normalized": "[Milestone]-\u003e(MilestoneId,[Bug])-\u003eXMLGenT BugsM[ChildType BugsM]",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Milestone",
-        "signature": "[Milestone]-\u003e(MilestoneId,[Bug])-\u003eXMLGenT BugsM[ChildType BugsM]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-Timeline.html#v:timeline",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Page.Timeline",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "BugsM Response",
-        "fct-source": "src/Clckwrks-Bugs-Page-Timeline.html#timeline",
-        "fct-type": "function",
-        "title": "timeline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Page Timeline",
-        "module": "Clckwrks.Bugs.Page.Timeline",
-        "name": "timeline",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-Timeline.html#v:timelineWidget",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Page.Timeline",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "XMLGenT BugsM XML",
-        "fct-source": "src/Clckwrks-Bugs-Page-Timeline.html#timelineWidget",
-        "fct-type": "function",
-        "title": "timelineWidget"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Page Timeline",
-        "module": "Clckwrks.Bugs.Page.Timeline",
-        "name": "timelineWidget",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Widget",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-ViewBug.html#",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Page.ViewBug",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "module",
-        "fct-source": "src/Clckwrks-Bugs-Page-ViewBug.html",
-        "fct-type": "module",
-        "title": "ViewBug"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Page ViewBug",
-        "module": "Clckwrks.Bugs.Page.ViewBug",
-        "name": "ViewBug",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "View Bug",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-ViewBug.html#v:bugHtml",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Page.ViewBug",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Bug -\u003e BugsM Response",
-        "fct-source": "src/Clckwrks-Bugs-Page-ViewBug.html#bugHtml",
-        "fct-type": "function",
-        "title": "bugHtml"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Page ViewBug",
-        "module": "Clckwrks.Bugs.Page.ViewBug",
-        "name": "bugHtml",
-        "normalized": "Bug-\u003eBugsM Response",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Html",
-        "signature": "Bug-\u003eBugsM Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-ViewBug.html#v:viewBug",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Page.ViewBug",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "BugId -\u003e BugsM Response",
-        "fct-source": "src/Clckwrks-Bugs-Page-ViewBug.html#viewBug",
-        "fct-type": "function",
-        "title": "viewBug"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Page ViewBug",
-        "module": "Clckwrks.Bugs.Page.ViewBug",
-        "name": "viewBug",
-        "normalized": "BugId-\u003eBugsM Response",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bug",
-        "signature": "BugId-\u003eBugsM Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-ViewBug.html#v:whenHasRole",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Page.ViewBug",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Set Role -\u003e m XML -\u003e m XML",
-        "fct-source": "src/Clckwrks-Bugs-Page-ViewBug.html#whenHasRole",
-        "fct-type": "function",
-        "title": "whenHasRole"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Page ViewBug",
-        "module": "Clckwrks.Bugs.Page.ViewBug",
-        "name": "whenHasRole",
-        "normalized": "Set Role-\u003ea XML-\u003ea XML",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Has Role",
-        "signature": "Set Role-\u003em XML-\u003em XML"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Plugin.html#",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Plugin",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "module",
-        "fct-source": "src/Clckwrks-Bugs-Plugin.html",
-        "fct-type": "module",
-        "title": "Plugin"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Plugin",
-        "module": "Clckwrks.Bugs.Plugin",
-        "name": "Plugin",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Plugin",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Plugin.html#v:addBugsAdminMenu",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Plugin",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "ClckT url IO ()",
-        "fct-source": "src/Clckwrks-Bugs-Plugin.html#addBugsAdminMenu",
-        "fct-type": "function",
-        "title": "addBugsAdminMenu"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Plugin",
-        "module": "Clckwrks.Bugs.Plugin",
-        "name": "addBugsAdminMenu",
-        "normalized": "ClckT a IO()",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bugs Admin Menu",
-        "signature": "ClckT url IO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Plugin.html#v:bugsHandler",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Plugin",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "(BugsURL -\u003e [(Text, Maybe Text)] -\u003e Text) -\u003e BugsConfig -\u003e ClckPlugins -\u003e [Text] -\u003e ClckT ClckURL (ServerPartT IO) Response",
-        "fct-source": "src/Clckwrks-Bugs-Plugin.html#bugsHandler",
-        "fct-type": "function",
-        "title": "bugsHandler"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Plugin",
-        "module": "Clckwrks.Bugs.Plugin",
-        "name": "bugsHandler",
-        "normalized": "(BugsURL-\u003e[(Text,Maybe Text)]-\u003eText)-\u003eBugsConfig-\u003eClckPlugins-\u003e[Text]-\u003eClckT ClckURL(ServerPartT IO)Response",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Handler",
-        "signature": "(BugsURL-\u003e[(Text,Maybe Text)]-\u003eText)-\u003eBugsConfig-\u003eClckPlugins-\u003e[Text]-\u003eClckT ClckURL(ServerPartT IO)Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Plugin.html#v:bugsInit",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Plugin",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "ClckPlugins -\u003e IO (Maybe Text)",
-        "fct-source": "src/Clckwrks-Bugs-Plugin.html#bugsInit",
-        "fct-type": "function",
-        "title": "bugsInit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Plugin",
-        "module": "Clckwrks.Bugs.Plugin",
-        "name": "bugsInit",
-        "normalized": "ClckPlugins-\u003eIO(Maybe Text)",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Init",
-        "signature": "ClckPlugins-\u003eIO(Maybe Text)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Plugin.html#v:bugsPlugin",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Plugin",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Plugin BugsURL Theme (ClckT ClckURL (ServerPartT IO) Response) (ClckT ClckURL IO ()) ClckwrksConfig ClckPluginsSt",
-        "fct-source": "src/Clckwrks-Bugs-Plugin.html#bugsPlugin",
-        "fct-type": "function",
-        "title": "bugsPlugin"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Plugin",
-        "module": "Clckwrks.Bugs.Plugin",
-        "name": "bugsPlugin",
-        "normalized": "Plugin BugsURL Theme(ClckT ClckURL(ServerPartT IO)Response)(ClckT ClckURL IO())ClckwrksConfig ClckPluginsSt",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Plugin",
-        "signature": "Plugin BugsURL Theme(ClckT ClckURL(ServerPartT IO)Response)(ClckT ClckURL IO())ClckwrksConfig ClckPluginsSt"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Plugin.html#v:navBarCallback",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Plugin",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "AcidState BugsState -\u003e (BugsURL -\u003e [(Text, Maybe Text)] -\u003e Text) -\u003e ClckT ClckURL IO (String, [NamedLink])",
-        "fct-source": "src/Clckwrks-Bugs-Plugin.html#navBarCallback",
-        "fct-type": "function",
-        "title": "navBarCallback"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Plugin",
-        "module": "Clckwrks.Bugs.Plugin",
-        "name": "navBarCallback",
-        "normalized": "AcidState BugsState-\u003e(BugsURL-\u003e[(Text,Maybe Text)]-\u003eText)-\u003eClckT ClckURL IO(String,[NamedLink])",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bar Callback",
-        "signature": "AcidState BugsState-\u003e(BugsURL-\u003e[(Text,Maybe Text)]-\u003eText)-\u003eClckT ClckURL IO(String,[NamedLink])"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Plugin.html#v:plugin",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Plugin",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "ClckPlugins-\u003e Text-\u003e IO (Maybe Text)",
-        "fct-type": "function",
-        "title": "plugin"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Plugin",
-        "module": "Clckwrks.Bugs.Plugin",
-        "name": "plugin",
-        "normalized": "ClckPlugins-\u003eText-\u003eIO(Maybe Text)",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "",
-        "signature": "ClckPlugins-\u003eText-\u003eIO(Maybe Text)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-PreProcess.html#",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.PreProcess",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "module",
-        "fct-source": "src/Clckwrks-Bugs-PreProcess.html",
-        "fct-type": "module",
-        "title": "PreProcess"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs PreProcess",
-        "module": "Clckwrks.Bugs.PreProcess",
-        "name": "PreProcess",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Pre Process",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-PreProcess.html#t:BugsCmd",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.PreProcess",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "data",
-        "fct-source": "src/Clckwrks-Bugs-PreProcess.html#BugsCmd",
-        "fct-type": "data",
-        "title": "BugsCmd"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs PreProcess",
-        "module": "Clckwrks.Bugs.PreProcess",
-        "name": "BugsCmd",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bugs Cmd",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-PreProcess.html#v:ShowBug",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.PreProcess",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "ShowBug BugId",
-        "fct-source": "src/Clckwrks-Bugs-PreProcess.html#BugsCmd",
-        "fct-type": "function",
-        "title": "ShowBug"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs PreProcess",
-        "module": "Clckwrks.Bugs.PreProcess",
-        "name": "ShowBug",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Show Bug",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-PreProcess.html#v:ShowTimeline",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.PreProcess",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "ShowTimeline",
-        "fct-source": "src/Clckwrks-Bugs-PreProcess.html#BugsCmd",
-        "fct-type": "function",
-        "title": "ShowTimeline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs PreProcess",
-        "module": "Clckwrks.Bugs.PreProcess",
-        "name": "ShowTimeline",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Show Timeline",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-PreProcess.html#v:applyCmd",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.PreProcess",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "(BugsURL -\u003e [a1] -\u003e a) -\u003e BugsCmd -\u003e m Builder",
-        "fct-source": "src/Clckwrks-Bugs-PreProcess.html#applyCmd",
-        "fct-type": "function",
-        "title": "applyCmd"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs PreProcess",
-        "module": "Clckwrks.Bugs.PreProcess",
-        "name": "applyCmd",
-        "normalized": "(BugsURL-\u003e[a]-\u003ea)-\u003eBugsCmd-\u003eb Builder",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Cmd",
-        "signature": "(BugsURL-\u003e[a]-\u003ea)-\u003eBugsCmd-\u003em Builder"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-PreProcess.html#v:bugsCmd",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.PreProcess",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "(BugsURL -\u003e [(Text, Maybe Text)] -\u003e Text) -\u003e Text -\u003e ClckT url m Text",
-        "fct-source": "src/Clckwrks-Bugs-PreProcess.html#bugsCmd",
-        "fct-type": "function",
-        "title": "bugsCmd"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs PreProcess",
-        "module": "Clckwrks.Bugs.PreProcess",
-        "name": "bugsCmd",
-        "normalized": "(BugsURL-\u003e[(Text,Maybe Text)]-\u003eText)-\u003eText-\u003eClckT a b Text",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Cmd",
-        "signature": "(BugsURL-\u003e[(Text,Maybe Text)]-\u003eText)-\u003eText-\u003eClckT url m Text"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-PreProcess.html#v:parseAttr",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.PreProcess",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Text -\u003e Parser ()",
-        "fct-source": "src/Clckwrks-Bugs-PreProcess.html#parseAttr",
-        "fct-type": "function",
-        "title": "parseAttr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs PreProcess",
-        "module": "Clckwrks.Bugs.PreProcess",
-        "name": "parseAttr",
-        "normalized": "Text-\u003eParser()",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Attr",
-        "signature": "Text-\u003eParser()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-PreProcess.html#v:parseCmd",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.PreProcess",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Parser BugsCmd",
-        "fct-source": "src/Clckwrks-Bugs-PreProcess.html#parseCmd",
-        "fct-type": "function",
-        "title": "parseCmd"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs PreProcess",
-        "module": "Clckwrks.Bugs.PreProcess",
-        "name": "parseCmd",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Cmd",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Route.html#",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Route",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "module",
-        "fct-source": "src/Clckwrks-Bugs-Route.html",
-        "fct-type": "module",
-        "title": "Route"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Route",
-        "module": "Clckwrks.Bugs.Route",
-        "name": "Route",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Route",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Route.html#v:checkAuth",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Route",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "BugsURL -\u003e BugsM BugsURL",
-        "fct-source": "src/Clckwrks-Bugs-Route.html#checkAuth",
-        "fct-type": "function",
-        "title": "checkAuth"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Route",
-        "module": "Clckwrks.Bugs.Route",
-        "name": "checkAuth",
-        "normalized": "BugsURL-\u003eBugsM BugsURL",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Auth",
-        "signature": "BugsURL-\u003eBugsM BugsURL"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Route.html#v:routeBugs",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Route",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "BugsURL -\u003e BugsM Response",
-        "fct-source": "src/Clckwrks-Bugs-Route.html#routeBugs",
-        "fct-type": "function",
-        "title": "routeBugs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Route",
-        "module": "Clckwrks.Bugs.Route",
-        "name": "routeBugs",
-        "normalized": "BugsURL-\u003eBugsM Response",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bugs",
-        "signature": "BugsURL-\u003eBugsM Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "module",
-        "fct-source": "src/Clckwrks-Bugs-Types.html",
-        "fct-type": "module",
-        "title": "Types"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "Types",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Types",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#t:Bug",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "data",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#Bug",
-        "fct-type": "data",
-        "title": "Bug"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "Bug",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bug",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#t:BugId",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "newtype",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#BugId",
-        "fct-type": "newtype",
-        "title": "BugId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "BugId",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bug Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#t:BugStatus",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "data",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#BugStatus",
-        "fct-type": "data",
-        "title": "BugStatus"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "BugStatus",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bug Status",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#t:BugTag",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "newtype",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#BugTag",
-        "fct-type": "newtype",
-        "title": "BugTag"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "BugTag",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bug Tag",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#t:Milestone",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "data",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#Milestone",
-        "fct-type": "data",
-        "title": "Milestone"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "Milestone",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Milestone",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#t:MilestoneId",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "newtype",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#MilestoneId",
-        "fct-type": "newtype",
-        "title": "MilestoneId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "MilestoneId",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Milestone Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#t:TargetDate",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "newtype",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#TargetDate",
-        "fct-type": "newtype",
-        "title": "TargetDate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "TargetDate",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Target Date",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:Accepted",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Accepted",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#BugStatus",
-        "fct-type": "function",
-        "title": "Accepted"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "Accepted",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Accepted",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:Bug",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Bug",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#Bug",
-        "fct-type": "function",
-        "title": "Bug"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "Bug",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bug",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:BugId",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "BugId",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#BugId",
-        "fct-type": "function",
-        "title": "BugId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "BugId",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bug Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:BugTag",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "BugTag",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#BugTag",
-        "fct-type": "function",
-        "title": "BugTag"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "BugTag",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bug Tag",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:Closed",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Closed",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#BugStatus",
-        "fct-type": "function",
-        "title": "Closed"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "Closed",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Closed",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:Invalid",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Invalid",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#BugStatus",
-        "fct-type": "function",
-        "title": "Invalid"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "Invalid",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Invalid",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:Milestone",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Milestone",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#Milestone",
-        "fct-type": "function",
-        "title": "Milestone"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "Milestone",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Milestone",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:MilestoneId",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "MilestoneId",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#MilestoneId",
-        "fct-type": "function",
-        "title": "MilestoneId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "MilestoneId",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Milestone Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:New",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "New",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#BugStatus",
-        "fct-type": "function",
-        "title": "New"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "New",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "New",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:TargetDate",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "TargetDate UTCTime",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#TargetDate",
-        "fct-type": "function",
-        "title": "TargetDate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "TargetDate",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Target Date",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:WontFix",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "WontFix",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#BugStatus",
-        "fct-type": "function",
-        "title": "WontFix"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "WontFix",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Wont Fix",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:bugAssigned",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Maybe UserId",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#Bug",
-        "fct-type": "function",
-        "title": "bugAssigned"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "bugAssigned",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Assigned",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:bugBody",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Markup",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#Bug",
-        "fct-type": "function",
-        "title": "bugBody"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "bugBody",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Body",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:bugId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "BugId",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#Bug",
-        "fct-type": "function",
-        "title": "bugId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "bugId",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:bugMilestone",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Maybe MilestoneId",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#Bug",
-        "fct-type": "function",
-        "title": "bugMilestone"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "bugMilestone",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Milestone",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:bugStatus",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "BugStatus",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#Bug",
-        "fct-type": "function",
-        "title": "bugStatus"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "bugStatus",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Status",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:bugSubmitted",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "UTCTime",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#Bug",
-        "fct-type": "function",
-        "title": "bugSubmitted"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "bugSubmitted",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Submitted",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:bugSubmittor",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "UserId",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#Bug",
-        "fct-type": "function",
-        "title": "bugSubmittor"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "bugSubmittor",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Submittor",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:bugTags",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Set BugTag",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#Bug",
-        "fct-type": "function",
-        "title": "bugTags"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "bugTags",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Tags",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:bugTitle",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Text",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#Bug",
-        "fct-type": "function",
-        "title": "bugTitle"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "bugTitle",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Title",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:milestoneId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "MilestoneId",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#Milestone",
-        "fct-type": "function",
-        "title": "milestoneId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "milestoneId",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:milestoneReached",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Maybe UTCTime",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#Milestone",
-        "fct-type": "function",
-        "title": "milestoneReached"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "milestoneReached",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Reached",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:milestoneTarget",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Maybe UTCTime",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#Milestone",
-        "fct-type": "function",
-        "title": "milestoneTarget"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "milestoneTarget",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Target",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:milestoneTitle",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Text",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#Milestone",
-        "fct-type": "function",
-        "title": "milestoneTitle"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "milestoneTitle",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Title",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:tagText",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Text",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#BugTag",
-        "fct-type": "function",
-        "title": "tagText"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "tagText",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Text",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:unBugId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Integer",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#BugId",
-        "fct-type": "function",
-        "title": "unBugId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "unBugId",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bug Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:unMilestoneId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Clckwrks.Bugs.Types",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Integer",
-        "fct-source": "src/Clckwrks-Bugs-Types.html#MilestoneId",
-        "fct-type": "function",
-        "title": "unMilestoneId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs Types",
-        "module": "Clckwrks.Bugs.Types",
-        "name": "unMilestoneId",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Milestone Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-URL.html#",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.URL",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "module",
-        "fct-source": "src/Clckwrks-Bugs-URL.html",
-        "fct-type": "module",
-        "title": "URL"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs URL",
-        "module": "Clckwrks.Bugs.URL",
-        "name": "URL",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "URL",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-URL.html#t:BugsAdminURL",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.URL",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "data",
-        "fct-source": "src/Clckwrks-Bugs-URL.html#BugsAdminURL",
-        "fct-type": "data",
-        "title": "BugsAdminURL"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs URL",
-        "module": "Clckwrks.Bugs.URL",
-        "name": "BugsAdminURL",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bugs Admin URL",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-URL.html#t:BugsURL",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.URL",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "data",
-        "fct-source": "src/Clckwrks-Bugs-URL.html#BugsURL",
-        "fct-type": "data",
-        "title": "BugsURL"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs URL",
-        "module": "Clckwrks.Bugs.URL",
-        "name": "BugsURL",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bugs URL",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-URL.html#v:BugsAdmin",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.URL",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "BugsAdmin BugsAdminURL",
-        "fct-source": "src/Clckwrks-Bugs-URL.html#BugsURL",
-        "fct-type": "function",
-        "title": "BugsAdmin"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs URL",
-        "module": "Clckwrks.Bugs.URL",
-        "name": "BugsAdmin",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bugs Admin",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-URL.html#v:BugsData",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.URL",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "BugsData FilePath",
-        "fct-source": "src/Clckwrks-Bugs-URL.html#BugsURL",
-        "fct-type": "function",
-        "title": "BugsData"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs URL",
-        "module": "Clckwrks.Bugs.URL",
-        "name": "BugsData",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bugs Data",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-URL.html#v:EditBug",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.URL",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "EditBug BugId",
-        "fct-source": "src/Clckwrks-Bugs-URL.html#BugsAdminURL",
-        "fct-type": "function",
-        "title": "EditBug"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs URL",
-        "module": "Clckwrks.Bugs.URL",
-        "name": "EditBug",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Edit Bug",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-URL.html#v:EditMilestones",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.URL",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "EditMilestones",
-        "fct-source": "src/Clckwrks-Bugs-URL.html#BugsAdminURL",
-        "fct-type": "function",
-        "title": "EditMilestones"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs URL",
-        "module": "Clckwrks.Bugs.URL",
-        "name": "EditMilestones",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Edit Milestones",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-URL.html#v:SearchBugs",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.URL",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "SearchBugs",
-        "fct-source": "src/Clckwrks-Bugs-URL.html#BugsURL",
-        "fct-type": "function",
-        "title": "SearchBugs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs URL",
-        "module": "Clckwrks.Bugs.URL",
-        "name": "SearchBugs",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Search Bugs",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-URL.html#v:SubmitBug",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.URL",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "SubmitBug",
-        "fct-source": "src/Clckwrks-Bugs-URL.html#BugsURL",
-        "fct-type": "function",
-        "title": "SubmitBug"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs URL",
-        "module": "Clckwrks.Bugs.URL",
-        "name": "SubmitBug",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Submit Bug",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-URL.html#v:Timeline",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.URL",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Timeline",
-        "fct-source": "src/Clckwrks-Bugs-URL.html#BugsURL",
-        "fct-type": "function",
-        "title": "Timeline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs URL",
-        "module": "Clckwrks.Bugs.URL",
-        "name": "Timeline",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Timeline",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-URL.html#v:ViewBug",
-      "description": {
-        "fct-module": "Clckwrks.Bugs.URL",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "ViewBug BugId",
-        "fct-source": "src/Clckwrks-Bugs-URL.html#BugsURL",
-        "fct-type": "function",
-        "title": "ViewBug"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs URL",
-        "module": "Clckwrks.Bugs.URL",
-        "name": "ViewBug",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "View Bug",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs.html#",
-      "description": {
-        "fct-module": "Clckwrks.Bugs",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "module",
-        "fct-source": "src/Clckwrks-Bugs.html",
-        "fct-type": "module",
-        "title": "Bugs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Clckwrks Bugs",
-        "module": "Clckwrks.Bugs",
-        "name": "Bugs",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bugs",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Paths_clckwrks_plugin_bugs.html#",
-      "description": {
-        "fct-module": "Paths_clckwrks_plugin_bugs",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "module",
-        "fct-source": "src/Paths_clckwrks_plugin_bugs.html",
-        "fct-type": "module",
-        "title": "Paths_clckwrks_plugin_bugs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Paths_clckwrks_plugin_bugs",
-        "module": "Paths_clckwrks_plugin_bugs",
-        "name": "Paths_clckwrks_plugin_bugs",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Paths",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Paths_clckwrks_plugin_bugs.html#v:getBinDir",
-      "description": {
-        "fct-module": "Paths_clckwrks_plugin_bugs",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "IO FilePath",
-        "fct-source": "src/Paths_clckwrks_plugin_bugs.html#getBinDir",
-        "fct-type": "function",
-        "title": "getBinDir"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Paths_clckwrks_plugin_bugs",
-        "module": "Paths_clckwrks_plugin_bugs",
-        "name": "getBinDir",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Bin Dir",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Paths_clckwrks_plugin_bugs.html#v:getDataDir",
-      "description": {
-        "fct-module": "Paths_clckwrks_plugin_bugs",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "IO FilePath",
-        "fct-source": "src/Paths_clckwrks_plugin_bugs.html#getDataDir",
-        "fct-type": "function",
-        "title": "getDataDir"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Paths_clckwrks_plugin_bugs",
-        "module": "Paths_clckwrks_plugin_bugs",
-        "name": "getDataDir",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Data Dir",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Paths_clckwrks_plugin_bugs.html#v:getDataFileName",
-      "description": {
-        "fct-module": "Paths_clckwrks_plugin_bugs",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "FilePath -\u003e IO FilePath",
-        "fct-source": "src/Paths_clckwrks_plugin_bugs.html#getDataFileName",
-        "fct-type": "function",
-        "title": "getDataFileName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Paths_clckwrks_plugin_bugs",
-        "module": "Paths_clckwrks_plugin_bugs",
-        "name": "getDataFileName",
-        "normalized": "FilePath-\u003eIO FilePath",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Data File Name",
-        "signature": "FilePath-\u003eIO FilePath"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Paths_clckwrks_plugin_bugs.html#v:getLibDir",
-      "description": {
-        "fct-module": "Paths_clckwrks_plugin_bugs",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "IO FilePath",
-        "fct-source": "src/Paths_clckwrks_plugin_bugs.html#getLibDir",
-        "fct-type": "function",
-        "title": "getLibDir"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Paths_clckwrks_plugin_bugs",
-        "module": "Paths_clckwrks_plugin_bugs",
-        "name": "getLibDir",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Lib Dir",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Paths_clckwrks_plugin_bugs.html#v:getLibexecDir",
-      "description": {
-        "fct-module": "Paths_clckwrks_plugin_bugs",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "IO FilePath",
-        "fct-source": "src/Paths_clckwrks_plugin_bugs.html#getLibexecDir",
-        "fct-type": "function",
-        "title": "getLibexecDir"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Paths_clckwrks_plugin_bugs",
-        "module": "Paths_clckwrks_plugin_bugs",
-        "name": "getLibexecDir",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "Libexec Dir",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Paths_clckwrks_plugin_bugs.html#v:version",
-      "description": {
-        "fct-module": "Paths_clckwrks_plugin_bugs",
-        "fct-package": "clckwrks-plugin-bugs",
-        "fct-signature": "Version",
-        "fct-source": "src/Paths_clckwrks_plugin_bugs.html#version",
-        "fct-type": "function",
-        "title": "version"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Paths_clckwrks_plugin_bugs",
-        "module": "Paths_clckwrks_plugin_bugs",
-        "name": "version",
-        "normalized": "",
-        "package": "clckwrks-plugin-bugs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  }
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "clckwrks-plugin-bugs"
+      },
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "Acid",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Acid.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "Acid",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Acid",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "AllBugIds",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Acid.html#AllBugIds",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "AllBugIds",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "All Bug Ids",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#t:AllBugIds"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "AllBugMeta",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Acid.html#AllBugMeta",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "AllBugMeta",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "All Bug Meta",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#t:AllBugMeta"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "BugsForMilestones",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Acid.html#BugsForMilestones",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "BugsForMilestones",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bugs For Milestones",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#t:BugsForMilestones"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003e\u003ccode\u003e\u003ca\u003eBugsState\u003c/a\u003e\u003c/code\u003e stores all the bugs\n\u003c/p\u003e",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "BugsState",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Acid.html#BugsState",
+          "type": "data"
+        },
+        "index": {
+          "description": "BugsState stores all the bugs",
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "BugsState",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bugs State",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#t:BugsState"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "BugsState_0",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Acid.html#BugsState_0",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "BugsState_0",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bugs State",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#t:BugsState_0"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "GenBugId",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Acid.html#GenBugId",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "GenBugId",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Gen Bug Id",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#t:GenBugId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "GetBugById",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Acid.html#GetBugById",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "GetBugById",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Get Bug By Id",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#t:GetBugById"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "GetMilestoneTitle",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Acid.html#GetMilestoneTitle",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "GetMilestoneTitle",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Get Milestone Title",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#t:GetMilestoneTitle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "GetMilestones",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Acid.html#GetMilestones",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "GetMilestones",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Get Milestones",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#t:GetMilestones"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "MilestoneCompletion",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Acid.html#MilestoneCompletion",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "MilestoneCompletion",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Milestone Completion",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#t:MilestoneCompletion"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "NewMilestone",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Acid.html#NewMilestone",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "NewMilestone",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "New Milestone",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#t:NewMilestone"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "PutBug",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Acid.html#PutBug",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "PutBug",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Put Bug",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#t:PutBug"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "SetMilestones",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Acid.html#SetMilestones",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "SetMilestones",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Set Milestones",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#t:SetMilestones"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "SortBugsBy",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Acid.html#SortBugsBy",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "SortBugsBy",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Sort Bugs By",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#t:SortBugsBy"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "SortOrder",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Acid.html#SortOrder",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "SortOrder",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Sort Order",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#t:SortOrder"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "AllBugIds",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "AllBugIds",
+          "source": "src/Clckwrks-Bugs-Acid.html#AllBugIds",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "AllBugIds",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "All Bug Ids",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:AllBugIds"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "AllBugMeta",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "AllBugMeta (SortOrder SortBugsBy)",
+          "source": "src/Clckwrks-Bugs-Acid.html#AllBugMeta",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "AllBugMeta",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "All Bug Meta",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:AllBugMeta"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "Asc",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Asc a",
+          "source": "src/Clckwrks-Bugs-Acid.html#SortOrder",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "Asc",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Asc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:Asc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "BugsForMilestones",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugsForMilestones [MilestoneId]",
+          "source": "src/Clckwrks-Bugs-Acid.html#BugsForMilestones",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "BugsForMilestones",
+          "normalized": "BugsForMilestones[MilestoneId]",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bugs For Milestones",
+          "signature": "BugsForMilestones[MilestoneId]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:BugsForMilestones"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "BugsState",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugsState",
+          "source": "src/Clckwrks-Bugs-Acid.html#BugsState",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "BugsState",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bugs State",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:BugsState"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "BugsState_0",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugsState_0",
+          "source": "src/Clckwrks-Bugs-Acid.html#BugsState_0",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "BugsState_0",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bugs State",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:BugsState_0"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "Desc",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Desc a",
+          "source": "src/Clckwrks-Bugs-Acid.html#SortOrder",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "Desc",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Desc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:Desc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "GenBugId",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "GenBugId",
+          "source": "src/Clckwrks-Bugs-Acid.html#GenBugId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "GenBugId",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Gen Bug Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:GenBugId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "GetBugById",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "GetBugById BugId",
+          "source": "src/Clckwrks-Bugs-Acid.html#GetBugById",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "GetBugById",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Get Bug By Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:GetBugById"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "GetMilestoneTitle",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "GetMilestoneTitle MilestoneId",
+          "source": "src/Clckwrks-Bugs-Acid.html#GetMilestoneTitle",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "GetMilestoneTitle",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Get Milestone Title",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:GetMilestoneTitle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "GetMilestones",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "GetMilestones",
+          "source": "src/Clckwrks-Bugs-Acid.html#GetMilestones",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "GetMilestones",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Get Milestones",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:GetMilestones"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "MilestoneCompletion",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "MilestoneCompletion MilestoneId",
+          "source": "src/Clckwrks-Bugs-Acid.html#MilestoneCompletion",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "MilestoneCompletion",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Milestone Completion",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:MilestoneCompletion"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "NewMilestone",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "NewMilestone",
+          "source": "src/Clckwrks-Bugs-Acid.html#NewMilestone",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "NewMilestone",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "New Milestone",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:NewMilestone"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "PutBug",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "PutBug Bug",
+          "source": "src/Clckwrks-Bugs-Acid.html#PutBug",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "PutBug",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Put Bug",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:PutBug"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "SetMilestones",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "SetMilestones [Milestone]",
+          "source": "src/Clckwrks-Bugs-Acid.html#SetMilestones",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "SetMilestones",
+          "normalized": "SetMilestones[Milestone]",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Set Milestones",
+          "signature": "SetMilestones[Milestone]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:SetMilestones"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "SortByBugId",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "SortByBugId",
+          "source": "src/Clckwrks-Bugs-Acid.html#SortBugsBy",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "SortByBugId",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Sort By Bug Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:SortByBugId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "allBugIds",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Query BugsState [BugId]",
+          "source": "src/Clckwrks-Bugs-Acid.html#allBugIds",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "allBugIds",
+          "normalized": "Query BugsState[BugId]",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bug Ids",
+          "signature": "Query BugsState[BugId]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:allBugIds"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "allBugMeta",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "SortOrder SortBugsBy -\u003e Query BugsState [BugMeta]",
+          "source": "src/Clckwrks-Bugs-Acid.html#allBugMeta",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "allBugMeta",
+          "normalized": "SortOrder SortBugsBy-\u003eQuery BugsState[BugMeta]",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bug Meta",
+          "signature": "SortOrder SortBugsBy-\u003eQuery BugsState[BugMeta]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:allBugMeta"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "bugs",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "IxSet Bug",
+          "source": "src/Clckwrks-Bugs-Acid.html#BugsState",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "bugs",
+          "package": "clckwrks-plugin-bugs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:bugs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eget all the \u003ccode\u003e\u003ca\u003eBug\u003c/a\u003e\u003c/code\u003es with one of the target \u003ccode\u003e\u003ca\u003eMilestoneId\u003c/a\u003e\u003c/code\u003es\n\u003c/p\u003e",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "bugsForMilestones",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "[MilestoneId] -\u003e Query BugsState (IxSet Bug)",
+          "source": "src/Clckwrks-Bugs-Acid.html#bugsForMilestones",
+          "type": "function"
+        },
+        "index": {
+          "description": "get all the Bug with one of the target MilestoneId",
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "bugsForMilestones",
+          "normalized": "[MilestoneId]-\u003eQuery BugsState(IxSet Bug)",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "For Milestones",
+          "signature": "[MilestoneId]-\u003eQuery BugsState(IxSet Bug)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:bugsForMilestones"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "bugs_0",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "IxSet Bug",
+          "source": "src/Clckwrks-Bugs-Acid.html#BugsState_0",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "bugs_0",
+          "package": "clckwrks-plugin-bugs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:bugs_0"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eget the next unused \u003ccode\u003eBugsId\u003c/code\u003e\n\u003c/p\u003e",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "genBugId",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Update BugsState BugId",
+          "source": "src/Clckwrks-Bugs-Acid.html#genBugId",
+          "type": "function"
+        },
+        "index": {
+          "description": "get the next unused BugsId",
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "genBugId",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bug Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:genBugId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eget \u003ccode\u003eBugs\u003c/code\u003e by \u003ccode\u003e\u003ca\u003eBugId\u003c/a\u003e\u003c/code\u003e\n\u003c/p\u003e",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "getBugById",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugId -\u003e Query BugsState (Maybe Bug)",
+          "source": "src/Clckwrks-Bugs-Acid.html#getBugById",
+          "type": "function"
+        },
+        "index": {
+          "description": "get Bugs by BugId",
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "getBugById",
+          "normalized": "BugId-\u003eQuery BugsState(Maybe Bug)",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bug By Id",
+          "signature": "BugId-\u003eQuery BugsState(Maybe Bug)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:getBugById"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eget all the \u003ccode\u003e\u003ca\u003eMilestoneId\u003c/a\u003e\u003c/code\u003es\n\u003c/p\u003e",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "getMilestoneIds",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Query BugsState [MilestoneId]",
+          "source": "src/Clckwrks-Bugs-Acid.html#getMilestoneIds",
+          "type": "function"
+        },
+        "index": {
+          "description": "get all the MilestoneId",
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "getMilestoneIds",
+          "normalized": "Query BugsState[MilestoneId]",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Milestone Ids",
+          "signature": "Query BugsState[MilestoneId]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:getMilestoneIds"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eget the \u003ccode\u003e\u003ca\u003emilestoneTitle\u003c/a\u003e\u003c/code\u003e for a \u003ccode\u003e\u003ca\u003eMilestoneId\u003c/a\u003e\u003c/code\u003e\n\u003c/p\u003e",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "getMilestoneTitle",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "MilestoneId -\u003e Query BugsState (Maybe Text)",
+          "source": "src/Clckwrks-Bugs-Acid.html#getMilestoneTitle",
+          "type": "function"
+        },
+        "index": {
+          "description": "get the milestoneTitle for MilestoneId",
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "getMilestoneTitle",
+          "normalized": "MilestoneId-\u003eQuery BugsState(Maybe Text)",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Milestone Title",
+          "signature": "MilestoneId-\u003eQuery BugsState(Maybe Text)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:getMilestoneTitle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eget the milestones\n\u003c/p\u003e",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "getMilestones",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Query BugsState [Milestone]",
+          "source": "src/Clckwrks-Bugs-Acid.html#getMilestones",
+          "type": "function"
+        },
+        "index": {
+          "description": "get the milestones",
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "getMilestones",
+          "normalized": "Query BugsState[Milestone]",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Milestones",
+          "signature": "Query BugsState[Milestone]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:getMilestones"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003einitial \u003ccode\u003e\u003ca\u003eBugsState\u003c/a\u003e\u003c/code\u003e\n\u003c/p\u003e",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "initialBugsState",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugsState",
+          "source": "src/Clckwrks-Bugs-Acid.html#initialBugsState",
+          "type": "function"
+        },
+        "index": {
+          "description": "initial BugsState",
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "initialBugsState",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bugs State",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:initialBugsState"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ereturn the percentage completion of a \u003ccode\u003e\u003ca\u003eMilestoneId\u003c/a\u003e\u003c/code\u003e\n\u003c/p\u003e\u003cp\u003eWill return \u003ccode\u003e\u003ca\u003eNothing\u003c/a\u003e\u003c/code\u003e if no bugs were found for the \u003ccode\u003e\u003ca\u003eMilestoneId\u003c/a\u003e\u003c/code\u003e\n\u003c/p\u003e",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "milestoneCompletion",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "MilestoneId -\u003e Query BugsState (Maybe Rational)",
+          "source": "src/Clckwrks-Bugs-Acid.html#milestoneCompletion",
+          "type": "function"
+        },
+        "index": {
+          "description": "return the percentage completion of MilestoneId Will return Nothing if no bugs were found for the MilestoneId",
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "milestoneCompletion",
+          "normalized": "MilestoneId-\u003eQuery BugsState(Maybe Rational)",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Completion",
+          "signature": "MilestoneId-\u003eQuery BugsState(Maybe Rational)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:milestoneCompletion"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "milestones",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "IxSet Milestone",
+          "source": "src/Clckwrks-Bugs-Acid.html#BugsState",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "milestones",
+          "package": "clckwrks-plugin-bugs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:milestones"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eadd a new, empty \u003ccode\u003e\u003ca\u003eMilestone\u003c/a\u003e\u003c/code\u003e to the database and return the \u003ccode\u003e\u003ca\u003eMilestoneId\u003c/a\u003e\u003c/code\u003e\n\u003c/p\u003e",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "newMilestone",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Update BugsState MilestoneId",
+          "source": "src/Clckwrks-Bugs-Acid.html#newMilestone",
+          "type": "function"
+        },
+        "index": {
+          "description": "add new empty Milestone to the database and return the MilestoneId",
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "newMilestone",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Milestone",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:newMilestone"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "nextBugId",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugId",
+          "source": "src/Clckwrks-Bugs-Acid.html#BugsState",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "nextBugId",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bug Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:nextBugId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "nextBugId_0",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugId",
+          "source": "src/Clckwrks-Bugs-Acid.html#BugsState_0",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "nextBugId_0",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bug Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:nextBugId_0"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "nextMilestoneId",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "MilestoneId",
+          "source": "src/Clckwrks-Bugs-Acid.html#BugsState",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "nextMilestoneId",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Milestone Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:nextMilestoneId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003estore \u003ccode\u003eBugs\u003c/code\u003e in the state. Will overwrite an existing entry with the same \u003ccode\u003e\u003ca\u003eBugId\u003c/a\u003e\u003c/code\u003e\n\u003c/p\u003e",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "putBug",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Bug -\u003e Update BugsState ()",
+          "source": "src/Clckwrks-Bugs-Acid.html#putBug",
+          "type": "function"
+        },
+        "index": {
+          "description": "store Bugs in the state Will overwrite an existing entry with the same BugId",
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "putBug",
+          "normalized": "Bug-\u003eUpdate BugsState()",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bug",
+          "signature": "Bug-\u003eUpdate BugsState()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:putBug"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eget the milestones sorted by target date\n\u003c/p\u003e",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "setMilestones",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "[Milestone] -\u003e Update BugsState ()",
+          "source": "src/Clckwrks-Bugs-Acid.html#setMilestones",
+          "type": "function"
+        },
+        "index": {
+          "description": "get the milestones sorted by target date",
+          "hierarchy": "Clckwrks Bugs Acid",
+          "module": "Clckwrks.Bugs.Acid",
+          "name": "setMilestones",
+          "normalized": "[Milestone]-\u003eUpdate BugsState()",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Milestones",
+          "signature": "[Milestone]-\u003eUpdate BugsState()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Acid.html#v:setMilestones"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Monad",
+          "name": "Monad",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Monad.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Monad",
+          "module": "Clckwrks.Bugs.Monad",
+          "name": "Monad",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Monad",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Monad.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Monad",
+          "name": "BugsConfig",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Monad.html#BugsConfig",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Monad",
+          "module": "Clckwrks.Bugs.Monad",
+          "name": "BugsConfig",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bugs Config",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Monad.html#t:BugsConfig"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Monad",
+          "name": "BugsForm",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Monad.html#BugsForm",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Monad",
+          "module": "Clckwrks.Bugs.Monad",
+          "name": "BugsForm",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bugs Form",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Monad.html#t:BugsForm"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Monad",
+          "name": "BugsFormError",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Monad.html#BugsFormError",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Monad",
+          "module": "Clckwrks.Bugs.Monad",
+          "name": "BugsFormError",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bugs Form Error",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Monad.html#t:BugsFormError"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Monad",
+          "name": "BugsM",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Monad.html#BugsM",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Monad",
+          "module": "Clckwrks.Bugs.Monad",
+          "name": "BugsM",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bugs",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Monad.html#t:BugsM"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Monad",
+          "name": "BugsT",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Monad.html#BugsT",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Monad",
+          "module": "Clckwrks.Bugs.Monad",
+          "name": "BugsT",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bugs",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Monad.html#t:BugsT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Monad",
+          "name": "BugsCFE",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugsCFE (CommonFormError [Input])",
+          "source": "src/Clckwrks-Bugs-Monad.html#BugsFormError",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Monad",
+          "module": "Clckwrks.Bugs.Monad",
+          "name": "BugsCFE",
+          "normalized": "BugsCFE(CommonFormError[Input])",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bugs CFE",
+          "signature": "BugsCFE(CommonFormError[Input])",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Monad.html#v:BugsCFE"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Monad",
+          "name": "BugsConfig",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugsConfig",
+          "source": "src/Clckwrks-Bugs-Monad.html#BugsConfig",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Monad",
+          "module": "Clckwrks.Bugs.Monad",
+          "name": "BugsConfig",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bugs Config",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Monad.html#v:BugsConfig"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Monad",
+          "name": "bugsClckURL",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "ClckURL -\u003e [(Text, Maybe Text)] -\u003e Text",
+          "source": "src/Clckwrks-Bugs-Monad.html#BugsConfig",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Monad",
+          "module": "Clckwrks.Bugs.Monad",
+          "name": "bugsClckURL",
+          "normalized": "ClckURL-\u003e[(Text,Maybe Text)]-\u003eText",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Clck URL",
+          "signature": "ClckURL-\u003e[(Text,Maybe Text)]-\u003eText",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Monad.html#v:bugsClckURL"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003edirectory in which to store uploaded attachments\n\u003c/p\u003e",
+          "module": "Clckwrks.Bugs.Monad",
+          "name": "bugsDirectory",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "FilePath",
+          "source": "src/Clckwrks-Bugs-Monad.html#BugsConfig",
+          "type": "function"
+        },
+        "index": {
+          "description": "directory in which to store uploaded attachments",
+          "hierarchy": "Clckwrks Bugs Monad",
+          "module": "Clckwrks.Bugs.Monad",
+          "name": "bugsDirectory",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Directory",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Monad.html#v:bugsDirectory"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Monad",
+          "name": "bugsState",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "AcidState BugsState",
+          "source": "src/Clckwrks-Bugs-Monad.html#BugsConfig",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Monad",
+          "module": "Clckwrks.Bugs.Monad",
+          "name": "bugsState",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "State",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Monad.html#v:bugsState"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Monad",
+          "name": "runBugsT",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugsConfig -\u003e BugsT m a -\u003e ClckT BugsURL m a",
+          "source": "src/Clckwrks-Bugs-Monad.html#runBugsT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Monad",
+          "module": "Clckwrks.Bugs.Monad",
+          "name": "runBugsT",
+          "normalized": "BugsConfig-\u003eBugsT a b-\u003eClckT BugsURL a b",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bugs",
+          "signature": "BugsConfig-\u003eBugsT m a-\u003eClckT BugsURL m a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Monad.html#v:runBugsT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Page.BugList",
+          "name": "BugList",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Page-BugList.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Page BugList",
+          "module": "Clckwrks.Bugs.Page.BugList",
+          "name": "BugList",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bug List",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-BugList.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Page.BugList",
+          "name": "bugList",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugsM Response",
+          "source": "src/Clckwrks-Bugs-Page-BugList.html#bugList",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Page BugList",
+          "module": "Clckwrks.Bugs.Page.BugList",
+          "name": "bugList",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "List",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-BugList.html#v:bugList"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Page.BugList",
+          "name": "bugListWidget",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "XMLGenT BugsM XML",
+          "source": "src/Clckwrks-Bugs-Page-BugList.html#bugListWidget",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Page BugList",
+          "module": "Clckwrks.Bugs.Page.BugList",
+          "name": "bugListWidget",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "List Widget",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-BugList.html#v:bugListWidget"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Page.BugList",
+          "name": "showBugMeta",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugMeta -\u003e XMLGenT BugsM XML",
+          "source": "src/Clckwrks-Bugs-Page-BugList.html#showBugMeta",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Page BugList",
+          "module": "Clckwrks.Bugs.Page.BugList",
+          "name": "showBugMeta",
+          "normalized": "BugMeta-\u003eXMLGenT BugsM XML",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bug Meta",
+          "signature": "BugMeta-\u003eXMLGenT BugsM XML",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-BugList.html#v:showBugMeta"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Page.EditBug",
+          "name": "EditBug",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Page-EditBug.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Page EditBug",
+          "module": "Clckwrks.Bugs.Page.EditBug",
+          "name": "EditBug",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Edit Bug",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-EditBug.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Page.EditBug",
+          "name": "editBug",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugsURL -\u003e BugId -\u003e BugsM Response",
+          "source": "src/Clckwrks-Bugs-Page-EditBug.html#editBug",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Page EditBug",
+          "module": "Clckwrks.Bugs.Page.EditBug",
+          "name": "editBug",
+          "normalized": "BugsURL-\u003eBugId-\u003eBugsM Response",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bug",
+          "signature": "BugsURL-\u003eBugId-\u003eBugsM Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-EditBug.html#v:editBug"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Page.EditBug",
+          "name": "editBugForm",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "[(Maybe UserId, Text)] -\u003e [Milestone] -\u003e Bug -\u003e BugsForm Bug",
+          "source": "src/Clckwrks-Bugs-Page-EditBug.html#editBugForm",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Page EditBug",
+          "module": "Clckwrks.Bugs.Page.EditBug",
+          "name": "editBugForm",
+          "normalized": "[(Maybe UserId,Text)]-\u003e[Milestone]-\u003eBug-\u003eBugsForm Bug",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bug Form",
+          "signature": "[(Maybe UserId,Text)]-\u003e[Milestone]-\u003eBug-\u003eBugsForm Bug",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-EditBug.html#v:editBugForm"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Page.EditBug",
+          "name": "impure",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "m a -\u003e Form m input error view () a",
+          "source": "src/Clckwrks-Bugs-Page-EditBug.html#impure",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Page EditBug",
+          "module": "Clckwrks.Bugs.Page.EditBug",
+          "name": "impure",
+          "normalized": "a b-\u003eForm a c d e()b",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "m a-\u003eForm m input error view()a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-EditBug.html#v:impure"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Page.EditMilestones",
+          "name": "EditMilestones",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Page-EditMilestones.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Page EditMilestones",
+          "module": "Clckwrks.Bugs.Page.EditMilestones",
+          "name": "EditMilestones",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Edit Milestones",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-EditMilestones.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Page.EditMilestones",
+          "name": "editMilestones",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugsURL -\u003e BugsM Response",
+          "source": "src/Clckwrks-Bugs-Page-EditMilestones.html#editMilestones",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Page EditMilestones",
+          "module": "Clckwrks.Bugs.Page.EditMilestones",
+          "name": "editMilestones",
+          "normalized": "BugsURL-\u003eBugsM Response",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Milestones",
+          "signature": "BugsURL-\u003eBugsM Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-EditMilestones.html#v:editMilestones"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Page.EditMilestones",
+          "name": "editMilestonesForm",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "[Milestone] -\u003e BugsForm ([Milestone], (Bool, Bool))",
+          "source": "src/Clckwrks-Bugs-Page-EditMilestones.html#editMilestonesForm",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Page EditMilestones",
+          "module": "Clckwrks.Bugs.Page.EditMilestones",
+          "name": "editMilestonesForm",
+          "normalized": "[Milestone]-\u003eBugsForm([Milestone],(Bool,Bool))",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Milestones Form",
+          "signature": "[Milestone]-\u003eBugsForm([Milestone],(Bool,Bool))",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-EditMilestones.html#v:editMilestonesForm"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Page.EditMilestones",
+          "name": "impure",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "m a -\u003e Form m input error view () a",
+          "source": "src/Clckwrks-Bugs-Page-EditMilestones.html#impure",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Page EditMilestones",
+          "module": "Clckwrks.Bugs.Page.EditMilestones",
+          "name": "impure",
+          "normalized": "a b-\u003eForm a c d e()b",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "m a-\u003eForm m input error view()a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-EditMilestones.html#v:impure"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Page.SubmitBug",
+          "name": "SubmitBug",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Page-SubmitBug.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Page SubmitBug",
+          "module": "Clckwrks.Bugs.Page.SubmitBug",
+          "name": "SubmitBug",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Submit Bug",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-SubmitBug.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Page.SubmitBug",
+          "name": "impure",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "m a -\u003e Form m input error view () a",
+          "source": "src/Clckwrks-Bugs-Page-SubmitBug.html#impure",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Page SubmitBug",
+          "module": "Clckwrks.Bugs.Page.SubmitBug",
+          "name": "impure",
+          "normalized": "a b-\u003eForm a c d e()b",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "m a-\u003eForm m input error view()a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-SubmitBug.html#v:impure"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Page.SubmitBug",
+          "name": "submitBug",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugsURL -\u003e BugsM Response",
+          "source": "src/Clckwrks-Bugs-Page-SubmitBug.html#submitBug",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Page SubmitBug",
+          "module": "Clckwrks.Bugs.Page.SubmitBug",
+          "name": "submitBug",
+          "normalized": "BugsURL-\u003eBugsM Response",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bug",
+          "signature": "BugsURL-\u003eBugsM Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-SubmitBug.html#v:submitBug"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Page.SubmitBug",
+          "name": "submitForm",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugsForm Bug",
+          "source": "src/Clckwrks-Bugs-Page-SubmitBug.html#submitForm",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Page SubmitBug",
+          "module": "Clckwrks.Bugs.Page.SubmitBug",
+          "name": "submitForm",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Form",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-SubmitBug.html#v:submitForm"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Page.Template",
+          "name": "Template",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Page-Template.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Page Template",
+          "module": "Clckwrks.Bugs.Page.Template",
+          "name": "Template",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Template",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-Template.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Page.Template",
+          "name": "template",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Text -\u003e headers -\u003e body -\u003e BugsM Response",
+          "source": "src/Clckwrks-Bugs-Page-Template.html#template",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Page Template",
+          "module": "Clckwrks.Bugs.Page.Template",
+          "name": "template",
+          "normalized": "Text-\u003ea-\u003eb-\u003eBugsM Response",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Text-\u003eheaders-\u003ebody-\u003eBugsM Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-Template.html#v:template"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Page.Timeline",
+          "name": "Timeline",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Page-Timeline.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Page Timeline",
+          "module": "Clckwrks.Bugs.Page.Timeline",
+          "name": "Timeline",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Timeline",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-Timeline.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Page.Timeline",
+          "name": "meter",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "a -\u003e XMLGenT BugsM XML",
+          "source": "src/Clckwrks-Bugs-Page-Timeline.html#meter",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Page Timeline",
+          "module": "Clckwrks.Bugs.Page.Timeline",
+          "name": "meter",
+          "normalized": "a-\u003eXMLGenT BugsM XML",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "a-\u003eXMLGenT BugsM XML",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-Timeline.html#v:meter"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Page.Timeline",
+          "name": "showBugSummary",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Bug -\u003e XMLGenT BugsM XML",
+          "source": "src/Clckwrks-Bugs-Page-Timeline.html#showBugSummary",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Page Timeline",
+          "module": "Clckwrks.Bugs.Page.Timeline",
+          "name": "showBugSummary",
+          "normalized": "Bug-\u003eXMLGenT BugsM XML",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bug Summary",
+          "signature": "Bug-\u003eXMLGenT BugsM XML",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-Timeline.html#v:showBugSummary"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Page.Timeline",
+          "name": "showMilestone",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "[Milestone] -\u003e (MilestoneId, [Bug]) -\u003e XMLGenT BugsM [ChildType BugsM]",
+          "source": "src/Clckwrks-Bugs-Page-Timeline.html#showMilestone",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Page Timeline",
+          "module": "Clckwrks.Bugs.Page.Timeline",
+          "name": "showMilestone",
+          "normalized": "[Milestone]-\u003e(MilestoneId,[Bug])-\u003eXMLGenT BugsM[ChildType BugsM]",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Milestone",
+          "signature": "[Milestone]-\u003e(MilestoneId,[Bug])-\u003eXMLGenT BugsM[ChildType BugsM]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-Timeline.html#v:showMilestone"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Page.Timeline",
+          "name": "timeline",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugsM Response",
+          "source": "src/Clckwrks-Bugs-Page-Timeline.html#timeline",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Page Timeline",
+          "module": "Clckwrks.Bugs.Page.Timeline",
+          "name": "timeline",
+          "package": "clckwrks-plugin-bugs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-Timeline.html#v:timeline"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Page.Timeline",
+          "name": "timelineWidget",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "XMLGenT BugsM XML",
+          "source": "src/Clckwrks-Bugs-Page-Timeline.html#timelineWidget",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Page Timeline",
+          "module": "Clckwrks.Bugs.Page.Timeline",
+          "name": "timelineWidget",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Widget",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-Timeline.html#v:timelineWidget"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Page.ViewBug",
+          "name": "ViewBug",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Page-ViewBug.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Page ViewBug",
+          "module": "Clckwrks.Bugs.Page.ViewBug",
+          "name": "ViewBug",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "View Bug",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-ViewBug.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Page.ViewBug",
+          "name": "bugHtml",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Bug -\u003e BugsM Response",
+          "source": "src/Clckwrks-Bugs-Page-ViewBug.html#bugHtml",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Page ViewBug",
+          "module": "Clckwrks.Bugs.Page.ViewBug",
+          "name": "bugHtml",
+          "normalized": "Bug-\u003eBugsM Response",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Html",
+          "signature": "Bug-\u003eBugsM Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-ViewBug.html#v:bugHtml"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Page.ViewBug",
+          "name": "viewBug",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugId -\u003e BugsM Response",
+          "source": "src/Clckwrks-Bugs-Page-ViewBug.html#viewBug",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Page ViewBug",
+          "module": "Clckwrks.Bugs.Page.ViewBug",
+          "name": "viewBug",
+          "normalized": "BugId-\u003eBugsM Response",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bug",
+          "signature": "BugId-\u003eBugsM Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-ViewBug.html#v:viewBug"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Page.ViewBug",
+          "name": "whenHasRole",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Set Role -\u003e m XML -\u003e m XML",
+          "source": "src/Clckwrks-Bugs-Page-ViewBug.html#whenHasRole",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Page ViewBug",
+          "module": "Clckwrks.Bugs.Page.ViewBug",
+          "name": "whenHasRole",
+          "normalized": "Set Role-\u003ea XML-\u003ea XML",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Has Role",
+          "signature": "Set Role-\u003em XML-\u003em XML",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Page-ViewBug.html#v:whenHasRole"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Plugin",
+          "name": "Plugin",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Plugin.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Plugin",
+          "module": "Clckwrks.Bugs.Plugin",
+          "name": "Plugin",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Plugin",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Plugin.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Plugin",
+          "name": "addBugsAdminMenu",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "ClckT url IO ()",
+          "source": "src/Clckwrks-Bugs-Plugin.html#addBugsAdminMenu",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Plugin",
+          "module": "Clckwrks.Bugs.Plugin",
+          "name": "addBugsAdminMenu",
+          "normalized": "ClckT a IO()",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bugs Admin Menu",
+          "signature": "ClckT url IO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Plugin.html#v:addBugsAdminMenu"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Plugin",
+          "name": "bugsHandler",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "(BugsURL -\u003e [(Text, Maybe Text)] -\u003e Text) -\u003e BugsConfig -\u003e ClckPlugins -\u003e [Text] -\u003e ClckT ClckURL (ServerPartT IO) Response",
+          "source": "src/Clckwrks-Bugs-Plugin.html#bugsHandler",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Plugin",
+          "module": "Clckwrks.Bugs.Plugin",
+          "name": "bugsHandler",
+          "normalized": "(BugsURL-\u003e[(Text,Maybe Text)]-\u003eText)-\u003eBugsConfig-\u003eClckPlugins-\u003e[Text]-\u003eClckT ClckURL(ServerPartT IO)Response",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Handler",
+          "signature": "(BugsURL-\u003e[(Text,Maybe Text)]-\u003eText)-\u003eBugsConfig-\u003eClckPlugins-\u003e[Text]-\u003eClckT ClckURL(ServerPartT IO)Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Plugin.html#v:bugsHandler"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Plugin",
+          "name": "bugsInit",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "ClckPlugins -\u003e IO (Maybe Text)",
+          "source": "src/Clckwrks-Bugs-Plugin.html#bugsInit",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Plugin",
+          "module": "Clckwrks.Bugs.Plugin",
+          "name": "bugsInit",
+          "normalized": "ClckPlugins-\u003eIO(Maybe Text)",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Init",
+          "signature": "ClckPlugins-\u003eIO(Maybe Text)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Plugin.html#v:bugsInit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Plugin",
+          "name": "bugsPlugin",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Plugin BugsURL Theme (ClckT ClckURL (ServerPartT IO) Response) (ClckT ClckURL IO ()) ClckwrksConfig ClckPluginsSt",
+          "source": "src/Clckwrks-Bugs-Plugin.html#bugsPlugin",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Plugin",
+          "module": "Clckwrks.Bugs.Plugin",
+          "name": "bugsPlugin",
+          "normalized": "Plugin BugsURL Theme(ClckT ClckURL(ServerPartT IO)Response)(ClckT ClckURL IO())ClckwrksConfig ClckPluginsSt",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Plugin",
+          "signature": "Plugin BugsURL Theme(ClckT ClckURL(ServerPartT IO)Response)(ClckT ClckURL IO())ClckwrksConfig ClckPluginsSt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Plugin.html#v:bugsPlugin"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Plugin",
+          "name": "navBarCallback",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "AcidState BugsState -\u003e (BugsURL -\u003e [(Text, Maybe Text)] -\u003e Text) -\u003e ClckT ClckURL IO (String, [NamedLink])",
+          "source": "src/Clckwrks-Bugs-Plugin.html#navBarCallback",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Plugin",
+          "module": "Clckwrks.Bugs.Plugin",
+          "name": "navBarCallback",
+          "normalized": "AcidState BugsState-\u003e(BugsURL-\u003e[(Text,Maybe Text)]-\u003eText)-\u003eClckT ClckURL IO(String,[NamedLink])",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bar Callback",
+          "signature": "AcidState BugsState-\u003e(BugsURL-\u003e[(Text,Maybe Text)]-\u003eText)-\u003eClckT ClckURL IO(String,[NamedLink])",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Plugin.html#v:navBarCallback"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Plugin",
+          "name": "plugin",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "ClckPlugins-\u003e Text-\u003e IO (Maybe Text)",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Plugin",
+          "module": "Clckwrks.Bugs.Plugin",
+          "name": "plugin",
+          "normalized": "ClckPlugins-\u003eText-\u003eIO(Maybe Text)",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "ClckPlugins-\u003eText-\u003eIO(Maybe Text)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Plugin.html#v:plugin"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.PreProcess",
+          "name": "PreProcess",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-PreProcess.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs PreProcess",
+          "module": "Clckwrks.Bugs.PreProcess",
+          "name": "PreProcess",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Pre Process",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-PreProcess.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.PreProcess",
+          "name": "BugsCmd",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-PreProcess.html#BugsCmd",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs PreProcess",
+          "module": "Clckwrks.Bugs.PreProcess",
+          "name": "BugsCmd",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bugs Cmd",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-PreProcess.html#t:BugsCmd"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.PreProcess",
+          "name": "BugListLink",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugListLink",
+          "source": "src/Clckwrks-Bugs-PreProcess.html#BugsCmd",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs PreProcess",
+          "module": "Clckwrks.Bugs.PreProcess",
+          "name": "BugListLink",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bug List Link",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-PreProcess.html#v:BugListLink"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.PreProcess",
+          "name": "ShowBug",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "ShowBug BugId",
+          "source": "src/Clckwrks-Bugs-PreProcess.html#BugsCmd",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs PreProcess",
+          "module": "Clckwrks.Bugs.PreProcess",
+          "name": "ShowBug",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Show Bug",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-PreProcess.html#v:ShowBug"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.PreProcess",
+          "name": "ShowTimeline",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "ShowTimeline",
+          "source": "src/Clckwrks-Bugs-PreProcess.html#BugsCmd",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs PreProcess",
+          "module": "Clckwrks.Bugs.PreProcess",
+          "name": "ShowTimeline",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Show Timeline",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-PreProcess.html#v:ShowTimeline"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.PreProcess",
+          "name": "applyCmd",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "(BugsURL -\u003e [a] -\u003e a1) -\u003e BugsCmd -\u003e m Builder",
+          "source": "src/Clckwrks-Bugs-PreProcess.html#applyCmd",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs PreProcess",
+          "module": "Clckwrks.Bugs.PreProcess",
+          "name": "applyCmd",
+          "normalized": "(BugsURL-\u003e[a]-\u003ea)-\u003eBugsCmd-\u003eb Builder",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Cmd",
+          "signature": "(BugsURL-\u003e[a]-\u003ea)-\u003eBugsCmd-\u003em Builder",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-PreProcess.html#v:applyCmd"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.PreProcess",
+          "name": "bugsCmd",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "(BugsURL -\u003e [(Text, Maybe Text)] -\u003e Text) -\u003e Text -\u003e ClckT url m Text",
+          "source": "src/Clckwrks-Bugs-PreProcess.html#bugsCmd",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs PreProcess",
+          "module": "Clckwrks.Bugs.PreProcess",
+          "name": "bugsCmd",
+          "normalized": "(BugsURL-\u003e[(Text,Maybe Text)]-\u003eText)-\u003eText-\u003eClckT a b Text",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Cmd",
+          "signature": "(BugsURL-\u003e[(Text,Maybe Text)]-\u003eText)-\u003eText-\u003eClckT url m Text",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-PreProcess.html#v:bugsCmd"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.PreProcess",
+          "name": "parseAttr",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Text -\u003e Parser ()",
+          "source": "src/Clckwrks-Bugs-PreProcess.html#parseAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs PreProcess",
+          "module": "Clckwrks.Bugs.PreProcess",
+          "name": "parseAttr",
+          "normalized": "Text-\u003eParser()",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Attr",
+          "signature": "Text-\u003eParser()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-PreProcess.html#v:parseAttr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.PreProcess",
+          "name": "parseCmd",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Parser BugsCmd",
+          "source": "src/Clckwrks-Bugs-PreProcess.html#parseCmd",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs PreProcess",
+          "module": "Clckwrks.Bugs.PreProcess",
+          "name": "parseCmd",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Cmd",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-PreProcess.html#v:parseCmd"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Route",
+          "name": "Route",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Route.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Route",
+          "module": "Clckwrks.Bugs.Route",
+          "name": "Route",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Route",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Route.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Route",
+          "name": "checkAuth",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugsURL -\u003e BugsM BugsURL",
+          "source": "src/Clckwrks-Bugs-Route.html#checkAuth",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Route",
+          "module": "Clckwrks.Bugs.Route",
+          "name": "checkAuth",
+          "normalized": "BugsURL-\u003eBugsM BugsURL",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Auth",
+          "signature": "BugsURL-\u003eBugsM BugsURL",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Route.html#v:checkAuth"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Route",
+          "name": "routeBugs",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugsURL -\u003e BugsM Response",
+          "source": "src/Clckwrks-Bugs-Route.html#routeBugs",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Route",
+          "module": "Clckwrks.Bugs.Route",
+          "name": "routeBugs",
+          "normalized": "BugsURL-\u003eBugsM Response",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bugs",
+          "signature": "BugsURL-\u003eBugsM Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Route.html#v:routeBugs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "Types",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Types.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "Types",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Types",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "Bug",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Types.html#Bug",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "Bug",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bug",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#t:Bug"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "BugId",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Types.html#BugId",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "BugId",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bug Id",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#t:BugId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "BugMeta",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Types.html#BugMeta",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "BugMeta",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bug Meta",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#t:BugMeta"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "BugStatus",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Types.html#BugStatus",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "BugStatus",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bug Status",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#t:BugStatus"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "BugTag",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Types.html#BugTag",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "BugTag",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bug Tag",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#t:BugTag"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "Bug_0",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Types.html#Bug_0",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "Bug_0",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bug",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#t:Bug_0"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "Milestone",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Types.html#Milestone",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "Milestone",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Milestone",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#t:Milestone"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "MilestoneId",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Types.html#MilestoneId",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "MilestoneId",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Milestone Id",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#t:MilestoneId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "TargetDate",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-Types.html#TargetDate",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "TargetDate",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Target Date",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#t:TargetDate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "Accepted",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Accepted",
+          "source": "src/Clckwrks-Bugs-Types.html#BugStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "Accepted",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Accepted",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:Accepted"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "Bug",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Bug",
+          "source": "src/Clckwrks-Bugs-Types.html#Bug",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "Bug",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bug",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:Bug"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "BugId",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugId",
+          "source": "src/Clckwrks-Bugs-Types.html#BugId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "BugId",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bug Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:BugId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "BugMeta",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugMeta",
+          "source": "src/Clckwrks-Bugs-Types.html#BugMeta",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "BugMeta",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bug Meta",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:BugMeta"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "BugTag",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugTag",
+          "source": "src/Clckwrks-Bugs-Types.html#BugTag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "BugTag",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bug Tag",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:BugTag"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "Bug_0",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Bug_0",
+          "source": "src/Clckwrks-Bugs-Types.html#Bug_0",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "Bug_0",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bug",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:Bug_0"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "Closed",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Closed",
+          "source": "src/Clckwrks-Bugs-Types.html#BugStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "Closed",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Closed",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:Closed"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "Invalid",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Invalid",
+          "source": "src/Clckwrks-Bugs-Types.html#BugStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "Invalid",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Invalid",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:Invalid"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "Milestone",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Milestone",
+          "source": "src/Clckwrks-Bugs-Types.html#Milestone",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "Milestone",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Milestone",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:Milestone"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "MilestoneId",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "MilestoneId",
+          "source": "src/Clckwrks-Bugs-Types.html#MilestoneId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "MilestoneId",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Milestone Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:MilestoneId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "New",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "New",
+          "source": "src/Clckwrks-Bugs-Types.html#BugStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "New",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "New",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:New"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "TargetDate",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "TargetDate UTCTime",
+          "source": "src/Clckwrks-Bugs-Types.html#TargetDate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "TargetDate",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Target Date",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:TargetDate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "WontFix",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "WontFix",
+          "source": "src/Clckwrks-Bugs-Types.html#BugStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "WontFix",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Wont Fix",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:WontFix"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugAssigned",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Maybe UserId",
+          "source": "src/Clckwrks-Bugs-Types.html#BugMeta",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugAssigned",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Assigned",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:bugAssigned"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugAssigned_0",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Maybe UserId",
+          "source": "src/Clckwrks-Bugs-Types.html#Bug_0",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugAssigned_0",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Assigned",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:bugAssigned_0"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugBody",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Markup",
+          "source": "src/Clckwrks-Bugs-Types.html#Bug",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugBody",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Body",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:bugBody"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugBody_0",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Markup",
+          "source": "src/Clckwrks-Bugs-Types.html#Bug_0",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugBody_0",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Body",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:bugBody_0"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugId",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugId",
+          "source": "src/Clckwrks-Bugs-Types.html#BugMeta",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugId",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:bugId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugId_0",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugId",
+          "source": "src/Clckwrks-Bugs-Types.html#Bug_0",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugId_0",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:bugId_0"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugMeta",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugMeta",
+          "source": "src/Clckwrks-Bugs-Types.html#Bug",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugMeta",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Meta",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:bugMeta"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugMilestone",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Maybe MilestoneId",
+          "source": "src/Clckwrks-Bugs-Types.html#BugMeta",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugMilestone",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Milestone",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:bugMilestone"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugMilestone_0",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Maybe MilestoneId",
+          "source": "src/Clckwrks-Bugs-Types.html#Bug_0",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugMilestone_0",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Milestone",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:bugMilestone_0"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugStatus",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugStatus",
+          "source": "src/Clckwrks-Bugs-Types.html#BugMeta",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugStatus",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Status",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:bugStatus"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugStatus_0",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugStatus",
+          "source": "src/Clckwrks-Bugs-Types.html#Bug_0",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugStatus_0",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Status",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:bugStatus_0"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugSubmitted",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "UTCTime",
+          "source": "src/Clckwrks-Bugs-Types.html#BugMeta",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugSubmitted",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Submitted",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:bugSubmitted"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugSubmitted_0",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "UTCTime",
+          "source": "src/Clckwrks-Bugs-Types.html#Bug_0",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugSubmitted_0",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Submitted",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:bugSubmitted_0"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugSubmitter",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "UserId",
+          "source": "src/Clckwrks-Bugs-Types.html#BugMeta",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugSubmitter",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Submitter",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:bugSubmitter"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugSubmittor_0",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "UserId",
+          "source": "src/Clckwrks-Bugs-Types.html#Bug_0",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugSubmittor_0",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Submittor",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:bugSubmittor_0"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugTags",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Set BugTag",
+          "source": "src/Clckwrks-Bugs-Types.html#BugMeta",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugTags",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Tags",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:bugTags"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugTags_0",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Set BugTag",
+          "source": "src/Clckwrks-Bugs-Types.html#Bug_0",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugTags_0",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Tags",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:bugTags_0"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugTitle",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Text",
+          "source": "src/Clckwrks-Bugs-Types.html#BugMeta",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugTitle",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Title",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:bugTitle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugTitle_0",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Text",
+          "source": "src/Clckwrks-Bugs-Types.html#Bug_0",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "bugTitle_0",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Title",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:bugTitle_0"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "milestoneId",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "MilestoneId",
+          "source": "src/Clckwrks-Bugs-Types.html#Milestone",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "milestoneId",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:milestoneId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "milestoneReached",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Maybe UTCTime",
+          "source": "src/Clckwrks-Bugs-Types.html#Milestone",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "milestoneReached",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Reached",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:milestoneReached"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "milestoneTarget",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Maybe UTCTime",
+          "source": "src/Clckwrks-Bugs-Types.html#Milestone",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "milestoneTarget",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Target",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:milestoneTarget"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "milestoneTitle",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Text",
+          "source": "src/Clckwrks-Bugs-Types.html#Milestone",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "milestoneTitle",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Title",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:milestoneTitle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "tagText",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Text",
+          "source": "src/Clckwrks-Bugs-Types.html#BugTag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "tagText",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Text",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:tagText"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "unBugId",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Integer",
+          "source": "src/Clckwrks-Bugs-Types.html#BugId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "unBugId",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bug Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:unBugId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.Types",
+          "name": "unMilestoneId",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Integer",
+          "source": "src/Clckwrks-Bugs-Types.html#MilestoneId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs Types",
+          "module": "Clckwrks.Bugs.Types",
+          "name": "unMilestoneId",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Milestone Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-Types.html#v:unMilestoneId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.URL",
+          "name": "URL",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-URL.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs URL",
+          "module": "Clckwrks.Bugs.URL",
+          "name": "URL",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "URL",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-URL.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.URL",
+          "name": "BugsAdminURL",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-URL.html#BugsAdminURL",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs URL",
+          "module": "Clckwrks.Bugs.URL",
+          "name": "BugsAdminURL",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bugs Admin URL",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-URL.html#t:BugsAdminURL"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.URL",
+          "name": "BugsURL",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs-URL.html#BugsURL",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs URL",
+          "module": "Clckwrks.Bugs.URL",
+          "name": "BugsURL",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bugs URL",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-URL.html#t:BugsURL"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.URL",
+          "name": "BugList",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugList",
+          "source": "src/Clckwrks-Bugs-URL.html#BugsURL",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs URL",
+          "module": "Clckwrks.Bugs.URL",
+          "name": "BugList",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bug List",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-URL.html#v:BugList"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.URL",
+          "name": "BugsAdmin",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugsAdmin BugsAdminURL",
+          "source": "src/Clckwrks-Bugs-URL.html#BugsURL",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs URL",
+          "module": "Clckwrks.Bugs.URL",
+          "name": "BugsAdmin",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bugs Admin",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-URL.html#v:BugsAdmin"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.URL",
+          "name": "BugsData",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "BugsData FilePath",
+          "source": "src/Clckwrks-Bugs-URL.html#BugsURL",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs URL",
+          "module": "Clckwrks.Bugs.URL",
+          "name": "BugsData",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bugs Data",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-URL.html#v:BugsData"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.URL",
+          "name": "EditBug",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "EditBug BugId",
+          "source": "src/Clckwrks-Bugs-URL.html#BugsAdminURL",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs URL",
+          "module": "Clckwrks.Bugs.URL",
+          "name": "EditBug",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Edit Bug",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-URL.html#v:EditBug"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.URL",
+          "name": "EditMilestones",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "EditMilestones",
+          "source": "src/Clckwrks-Bugs-URL.html#BugsAdminURL",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs URL",
+          "module": "Clckwrks.Bugs.URL",
+          "name": "EditMilestones",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Edit Milestones",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-URL.html#v:EditMilestones"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.URL",
+          "name": "SearchBugs",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "SearchBugs",
+          "source": "src/Clckwrks-Bugs-URL.html#BugsURL",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs URL",
+          "module": "Clckwrks.Bugs.URL",
+          "name": "SearchBugs",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Search Bugs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-URL.html#v:SearchBugs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.URL",
+          "name": "SubmitBug",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "SubmitBug",
+          "source": "src/Clckwrks-Bugs-URL.html#BugsURL",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs URL",
+          "module": "Clckwrks.Bugs.URL",
+          "name": "SubmitBug",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Submit Bug",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-URL.html#v:SubmitBug"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.URL",
+          "name": "Timeline",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Timeline",
+          "source": "src/Clckwrks-Bugs-URL.html#BugsURL",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs URL",
+          "module": "Clckwrks.Bugs.URL",
+          "name": "Timeline",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Timeline",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-URL.html#v:Timeline"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs.URL",
+          "name": "ViewBug",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "ViewBug BugId",
+          "source": "src/Clckwrks-Bugs-URL.html#BugsURL",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs URL",
+          "module": "Clckwrks.Bugs.URL",
+          "name": "ViewBug",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "View Bug",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs-URL.html#v:ViewBug"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Clckwrks.Bugs",
+          "name": "Bugs",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Clckwrks-Bugs.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Clckwrks Bugs",
+          "module": "Clckwrks.Bugs",
+          "name": "Bugs",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bugs",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Clckwrks-Bugs.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Paths_clckwrks_plugin_bugs",
+          "name": "Paths_clckwrks_plugin_bugs",
+          "package": "clckwrks-plugin-bugs",
+          "source": "src/Paths_clckwrks_plugin_bugs.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Paths_clckwrks_plugin_bugs",
+          "module": "Paths_clckwrks_plugin_bugs",
+          "name": "Paths_clckwrks_plugin_bugs",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Paths",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Paths_clckwrks_plugin_bugs.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Paths_clckwrks_plugin_bugs",
+          "name": "getBinDir",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "IO FilePath",
+          "source": "src/Paths_clckwrks_plugin_bugs.html#getBinDir",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Paths_clckwrks_plugin_bugs",
+          "module": "Paths_clckwrks_plugin_bugs",
+          "name": "getBinDir",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Bin Dir",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Paths_clckwrks_plugin_bugs.html#v:getBinDir"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Paths_clckwrks_plugin_bugs",
+          "name": "getDataDir",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "IO FilePath",
+          "source": "src/Paths_clckwrks_plugin_bugs.html#getDataDir",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Paths_clckwrks_plugin_bugs",
+          "module": "Paths_clckwrks_plugin_bugs",
+          "name": "getDataDir",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Data Dir",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Paths_clckwrks_plugin_bugs.html#v:getDataDir"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Paths_clckwrks_plugin_bugs",
+          "name": "getDataFileName",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "FilePath -\u003e IO FilePath",
+          "source": "src/Paths_clckwrks_plugin_bugs.html#getDataFileName",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Paths_clckwrks_plugin_bugs",
+          "module": "Paths_clckwrks_plugin_bugs",
+          "name": "getDataFileName",
+          "normalized": "FilePath-\u003eIO FilePath",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Data File Name",
+          "signature": "FilePath-\u003eIO FilePath",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Paths_clckwrks_plugin_bugs.html#v:getDataFileName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Paths_clckwrks_plugin_bugs",
+          "name": "getLibDir",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "IO FilePath",
+          "source": "src/Paths_clckwrks_plugin_bugs.html#getLibDir",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Paths_clckwrks_plugin_bugs",
+          "module": "Paths_clckwrks_plugin_bugs",
+          "name": "getLibDir",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Lib Dir",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Paths_clckwrks_plugin_bugs.html#v:getLibDir"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Paths_clckwrks_plugin_bugs",
+          "name": "getLibexecDir",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "IO FilePath",
+          "source": "src/Paths_clckwrks_plugin_bugs.html#getLibexecDir",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Paths_clckwrks_plugin_bugs",
+          "module": "Paths_clckwrks_plugin_bugs",
+          "name": "getLibexecDir",
+          "package": "clckwrks-plugin-bugs",
+          "partial": "Libexec Dir",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Paths_clckwrks_plugin_bugs.html#v:getLibexecDir"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Paths_clckwrks_plugin_bugs",
+          "name": "version",
+          "package": "clckwrks-plugin-bugs",
+          "signature": "Version",
+          "source": "src/Paths_clckwrks_plugin_bugs.html#version",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Paths_clckwrks_plugin_bugs",
+          "module": "Paths_clckwrks_plugin_bugs",
+          "name": "version",
+          "package": "clckwrks-plugin-bugs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clckwrks-plugin-bugs/docs/Paths_clckwrks_plugin_bugs.html#v:version"
+      }
+    }
+  ]
 ]

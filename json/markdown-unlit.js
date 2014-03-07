@@ -1,366 +1,354 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/markdown-unlit/docs/Text-Markdown-Unlit.html#",
-      "description": {
-        "fct-module": "Text.Markdown.Unlit",
-        "fct-package": "markdown-unlit",
-        "fct-signature": "module",
-        "fct-source": "src/Text-Markdown-Unlit.html",
-        "fct-type": "module",
-        "title": "Unlit"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "markdown-unlit"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Text Markdown Unlit",
-        "module": "Text.Markdown.Unlit",
-        "name": "Unlit",
-        "normalized": "",
-        "package": "markdown-unlit",
-        "partial": "Unlit",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/markdown-unlit/docs/Text-Markdown-Unlit.html#t:CodeBlock",
-      "description": {
-        "fct-module": "Text.Markdown.Unlit",
-        "fct-package": "markdown-unlit",
-        "fct-signature": "data",
-        "fct-source": "src/Text-Markdown-Unlit.html#CodeBlock",
-        "fct-type": "data",
-        "title": "CodeBlock"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text Markdown Unlit",
-        "module": "Text.Markdown.Unlit",
-        "name": "CodeBlock",
-        "normalized": "",
-        "package": "markdown-unlit",
-        "partial": "Code Block",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.Markdown.Unlit",
+          "name": "Unlit",
+          "package": "markdown-unlit",
+          "source": "src/Text-Markdown-Unlit.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Text Markdown Unlit",
+          "module": "Text.Markdown.Unlit",
+          "name": "Unlit",
+          "package": "markdown-unlit",
+          "partial": "Unlit",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/markdown-unlit/docs/Text-Markdown-Unlit.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.Markdown.Unlit",
+          "name": "CodeBlock",
+          "package": "markdown-unlit",
+          "source": "src/Text-Markdown-Unlit.html#CodeBlock",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Text Markdown Unlit",
+          "module": "Text.Markdown.Unlit",
+          "name": "CodeBlock",
+          "package": "markdown-unlit",
+          "partial": "Code Block",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/markdown-unlit/docs/Text-Markdown-Unlit.html#t:CodeBlock"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.Markdown.Unlit",
+          "name": "Selector",
+          "package": "markdown-unlit",
+          "source": "src/Text-Markdown-Unlit.html#Selector",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Text Markdown Unlit",
+          "module": "Text.Markdown.Unlit",
+          "name": "Selector",
+          "package": "markdown-unlit",
+          "partial": "Selector",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/markdown-unlit/docs/Text-Markdown-Unlit.html#t:Selector"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.Markdown.Unlit",
+          "name": ":|:",
+          "package": "markdown-unlit",
+          "signature": "Selector :|: Selector",
+          "source": "src/Text-Markdown-Unlit.html#Selector",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text Markdown Unlit",
+          "module": "Text.Markdown.Unlit",
+          "name": ":|:",
+          "package": "markdown-unlit",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/markdown-unlit/docs/Text-Markdown-Unlit.html#v::-124-:"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.Markdown.Unlit",
+          "name": ":&:",
+          "package": "markdown-unlit",
+          "signature": "Selector :&: Selector",
+          "source": "src/Text-Markdown-Unlit.html#Selector",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text Markdown Unlit",
+          "module": "Text.Markdown.Unlit",
+          "name": ":&:",
+          "package": "markdown-unlit",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/markdown-unlit/docs/Text-Markdown-Unlit.html#v::-38-:"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.Markdown.Unlit",
+          "name": "Class",
+          "package": "markdown-unlit",
+          "signature": "Class String",
+          "source": "src/Text-Markdown-Unlit.html#Selector",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text Markdown Unlit",
+          "module": "Text.Markdown.Unlit",
+          "name": "Class",
+          "package": "markdown-unlit",
+          "partial": "Class",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/markdown-unlit/docs/Text-Markdown-Unlit.html#v:Class"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.Markdown.Unlit",
+          "name": "CodeBlock",
+          "package": "markdown-unlit",
+          "signature": "CodeBlock",
+          "source": "src/Text-Markdown-Unlit.html#CodeBlock",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text Markdown Unlit",
+          "module": "Text.Markdown.Unlit",
+          "name": "CodeBlock",
+          "package": "markdown-unlit",
+          "partial": "Code Block",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/markdown-unlit/docs/Text-Markdown-Unlit.html#v:CodeBlock"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.Markdown.Unlit",
+          "name": "Not",
+          "package": "markdown-unlit",
+          "signature": "Not Selector",
+          "source": "src/Text-Markdown-Unlit.html#Selector",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text Markdown Unlit",
+          "module": "Text.Markdown.Unlit",
+          "name": "Not",
+          "package": "markdown-unlit",
+          "partial": "Not",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/markdown-unlit/docs/Text-Markdown-Unlit.html#v:Not"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.Markdown.Unlit",
+          "name": "codeBlockClasses",
+          "package": "markdown-unlit",
+          "signature": "[String]",
+          "source": "src/Text-Markdown-Unlit.html#CodeBlock",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text Markdown Unlit",
+          "module": "Text.Markdown.Unlit",
+          "name": "codeBlockClasses",
+          "normalized": "[String]",
+          "package": "markdown-unlit",
+          "partial": "Block Classes",
+          "signature": "[String]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/markdown-unlit/docs/Text-Markdown-Unlit.html#v:codeBlockClasses"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.Markdown.Unlit",
+          "name": "codeBlockContent",
+          "package": "markdown-unlit",
+          "signature": "[String]",
+          "source": "src/Text-Markdown-Unlit.html#CodeBlock",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text Markdown Unlit",
+          "module": "Text.Markdown.Unlit",
+          "name": "codeBlockContent",
+          "normalized": "[String]",
+          "package": "markdown-unlit",
+          "partial": "Block Content",
+          "signature": "[String]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/markdown-unlit/docs/Text-Markdown-Unlit.html#v:codeBlockContent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.Markdown.Unlit",
+          "name": "codeBlockStartLine",
+          "package": "markdown-unlit",
+          "signature": "Int",
+          "source": "src/Text-Markdown-Unlit.html#CodeBlock",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text Markdown Unlit",
+          "module": "Text.Markdown.Unlit",
+          "name": "codeBlockStartLine",
+          "package": "markdown-unlit",
+          "partial": "Block Start Line",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/markdown-unlit/docs/Text-Markdown-Unlit.html#v:codeBlockStartLine"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.Markdown.Unlit",
+          "name": "parse",
+          "package": "markdown-unlit",
+          "signature": "String -\u003e [CodeBlock]",
+          "source": "src/Text-Markdown-Unlit.html#parse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text Markdown Unlit",
+          "module": "Text.Markdown.Unlit",
+          "name": "parse",
+          "normalized": "String-\u003e[CodeBlock]",
+          "package": "markdown-unlit",
+          "signature": "String-\u003e[CodeBlock]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/markdown-unlit/docs/Text-Markdown-Unlit.html#v:parse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.Markdown.Unlit",
+          "name": "parseSelector",
+          "package": "markdown-unlit",
+          "signature": "String -\u003e Maybe Selector",
+          "source": "src/Text-Markdown-Unlit.html#parseSelector",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text Markdown Unlit",
+          "module": "Text.Markdown.Unlit",
+          "name": "parseSelector",
+          "normalized": "String-\u003eMaybe Selector",
+          "package": "markdown-unlit",
+          "partial": "Selector",
+          "signature": "String-\u003eMaybe Selector",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/markdown-unlit/docs/Text-Markdown-Unlit.html#v:parseSelector"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eProgram entry point.\n\u003c/p\u003e",
+          "module": "Text.Markdown.Unlit",
+          "name": "run",
+          "package": "markdown-unlit",
+          "signature": "[String] -\u003e IO ()",
+          "source": "src/Text-Markdown-Unlit.html#run",
+          "type": "function"
+        },
+        "index": {
+          "description": "Program entry point",
+          "hierarchy": "Text Markdown Unlit",
+          "module": "Text.Markdown.Unlit",
+          "name": "run",
+          "normalized": "[String]-\u003eIO()",
+          "package": "markdown-unlit",
+          "signature": "[String]-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/markdown-unlit/docs/Text-Markdown-Unlit.html#v:run"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.Markdown.Unlit",
+          "name": "unlit",
+          "package": "markdown-unlit",
+          "signature": "FilePath -\u003e Selector -\u003e String -\u003e String",
+          "source": "src/Text-Markdown-Unlit.html#unlit",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text Markdown Unlit",
+          "module": "Text.Markdown.Unlit",
+          "name": "unlit",
+          "normalized": "FilePath-\u003eSelector-\u003eString-\u003eString",
+          "package": "markdown-unlit",
+          "signature": "FilePath-\u003eSelector-\u003eString-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/markdown-unlit/docs/Text-Markdown-Unlit.html#v:unlit"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/markdown-unlit/docs/Text-Markdown-Unlit.html#t:Selector",
-      "description": {
-        "fct-module": "Text.Markdown.Unlit",
-        "fct-package": "markdown-unlit",
-        "fct-signature": "data",
-        "fct-source": "src/Text-Markdown-Unlit.html#Selector",
-        "fct-type": "data",
-        "title": "Selector"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text Markdown Unlit",
-        "module": "Text.Markdown.Unlit",
-        "name": "Selector",
-        "normalized": "",
-        "package": "markdown-unlit",
-        "partial": "Selector",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/markdown-unlit/docs/Text-Markdown-Unlit.html#v::-124-:",
-      "description": {
-        "fct-module": "Text.Markdown.Unlit",
-        "fct-package": "markdown-unlit",
-        "fct-signature": "Selector :|: Selector",
-        "fct-source": "src/Text-Markdown-Unlit.html#Selector",
-        "fct-type": "function",
-        "title": ":|:"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text Markdown Unlit",
-        "module": "Text.Markdown.Unlit",
-        "name": ":|:",
-        "normalized": "",
-        "package": "markdown-unlit",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/markdown-unlit/docs/Text-Markdown-Unlit.html#v::-38-:",
-      "description": {
-        "fct-module": "Text.Markdown.Unlit",
-        "fct-package": "markdown-unlit",
-        "fct-signature": "Selector :&: Selector",
-        "fct-source": "src/Text-Markdown-Unlit.html#Selector",
-        "fct-type": "function",
-        "title": ":&:"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text Markdown Unlit",
-        "module": "Text.Markdown.Unlit",
-        "name": ":&:",
-        "normalized": "",
-        "package": "markdown-unlit",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/markdown-unlit/docs/Text-Markdown-Unlit.html#v:Class",
-      "description": {
-        "fct-module": "Text.Markdown.Unlit",
-        "fct-package": "markdown-unlit",
-        "fct-signature": "Class String",
-        "fct-source": "src/Text-Markdown-Unlit.html#Selector",
-        "fct-type": "function",
-        "title": "Class"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text Markdown Unlit",
-        "module": "Text.Markdown.Unlit",
-        "name": "Class",
-        "normalized": "",
-        "package": "markdown-unlit",
-        "partial": "Class",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/markdown-unlit/docs/Text-Markdown-Unlit.html#v:CodeBlock",
-      "description": {
-        "fct-module": "Text.Markdown.Unlit",
-        "fct-package": "markdown-unlit",
-        "fct-signature": "CodeBlock",
-        "fct-source": "src/Text-Markdown-Unlit.html#CodeBlock",
-        "fct-type": "function",
-        "title": "CodeBlock"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text Markdown Unlit",
-        "module": "Text.Markdown.Unlit",
-        "name": "CodeBlock",
-        "normalized": "",
-        "package": "markdown-unlit",
-        "partial": "Code Block",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/markdown-unlit/docs/Text-Markdown-Unlit.html#v:Not",
-      "description": {
-        "fct-module": "Text.Markdown.Unlit",
-        "fct-package": "markdown-unlit",
-        "fct-signature": "Not Selector",
-        "fct-source": "src/Text-Markdown-Unlit.html#Selector",
-        "fct-type": "function",
-        "title": "Not"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text Markdown Unlit",
-        "module": "Text.Markdown.Unlit",
-        "name": "Not",
-        "normalized": "",
-        "package": "markdown-unlit",
-        "partial": "Not",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/markdown-unlit/docs/Text-Markdown-Unlit.html#v:codeBlockClasses",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.Markdown.Unlit",
-        "fct-package": "markdown-unlit",
-        "fct-signature": "[String]",
-        "fct-source": "src/Text-Markdown-Unlit.html#CodeBlock",
-        "fct-type": "function",
-        "title": "codeBlockClasses"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text Markdown Unlit",
-        "module": "Text.Markdown.Unlit",
-        "name": "codeBlockClasses",
-        "normalized": "[String]",
-        "package": "markdown-unlit",
-        "partial": "Block Classes",
-        "signature": "[String]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/markdown-unlit/docs/Text-Markdown-Unlit.html#v:codeBlockContent",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.Markdown.Unlit",
-        "fct-package": "markdown-unlit",
-        "fct-signature": "[String]",
-        "fct-source": "src/Text-Markdown-Unlit.html#CodeBlock",
-        "fct-type": "function",
-        "title": "codeBlockContent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text Markdown Unlit",
-        "module": "Text.Markdown.Unlit",
-        "name": "codeBlockContent",
-        "normalized": "[String]",
-        "package": "markdown-unlit",
-        "partial": "Block Content",
-        "signature": "[String]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/markdown-unlit/docs/Text-Markdown-Unlit.html#v:codeBlockStartLine",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.Markdown.Unlit",
-        "fct-package": "markdown-unlit",
-        "fct-signature": "Int",
-        "fct-source": "src/Text-Markdown-Unlit.html#CodeBlock",
-        "fct-type": "function",
-        "title": "codeBlockStartLine"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text Markdown Unlit",
-        "module": "Text.Markdown.Unlit",
-        "name": "codeBlockStartLine",
-        "normalized": "",
-        "package": "markdown-unlit",
-        "partial": "Block Start Line",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/markdown-unlit/docs/Text-Markdown-Unlit.html#v:parse",
-      "description": {
-        "fct-module": "Text.Markdown.Unlit",
-        "fct-package": "markdown-unlit",
-        "fct-signature": "String -\u003e [CodeBlock]",
-        "fct-source": "src/Text-Markdown-Unlit.html#parse",
-        "fct-type": "function",
-        "title": "parse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text Markdown Unlit",
-        "module": "Text.Markdown.Unlit",
-        "name": "parse",
-        "normalized": "String-\u003e[CodeBlock]",
-        "package": "markdown-unlit",
-        "partial": "",
-        "signature": "String-\u003e[CodeBlock]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/markdown-unlit/docs/Text-Markdown-Unlit.html#v:parseSelector",
-      "description": {
-        "fct-module": "Text.Markdown.Unlit",
-        "fct-package": "markdown-unlit",
-        "fct-signature": "String -\u003e Maybe Selector",
-        "fct-source": "src/Text-Markdown-Unlit.html#parseSelector",
-        "fct-type": "function",
-        "title": "parseSelector"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text Markdown Unlit",
-        "module": "Text.Markdown.Unlit",
-        "name": "parseSelector",
-        "normalized": "String-\u003eMaybe Selector",
-        "package": "markdown-unlit",
-        "partial": "Selector",
-        "signature": "String-\u003eMaybe Selector"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/markdown-unlit/docs/Text-Markdown-Unlit.html#v:run",
-      "description": {
-        "fct-descr": "\u003cp\u003eProgram entry point.\n\u003c/p\u003e",
-        "fct-module": "Text.Markdown.Unlit",
-        "fct-package": "markdown-unlit",
-        "fct-signature": "[String] -\u003e IO ()",
-        "fct-source": "src/Text-Markdown-Unlit.html#run",
-        "fct-type": "function",
-        "title": "run"
-      },
-      "index": {
-        "description": "Program entry point",
-        "hierarchy": "Text Markdown Unlit",
-        "module": "Text.Markdown.Unlit",
-        "name": "run",
-        "normalized": "[String]-\u003eIO()",
-        "package": "markdown-unlit",
-        "partial": "",
-        "signature": "[String]-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/markdown-unlit/docs/Text-Markdown-Unlit.html#v:unlit",
-      "description": {
-        "fct-module": "Text.Markdown.Unlit",
-        "fct-package": "markdown-unlit",
-        "fct-signature": "FilePath -\u003e Selector -\u003e String -\u003e String",
-        "fct-source": "src/Text-Markdown-Unlit.html#unlit",
-        "fct-type": "function",
-        "title": "unlit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text Markdown Unlit",
-        "module": "Text.Markdown.Unlit",
-        "name": "unlit",
-        "normalized": "FilePath-\u003eSelector-\u003eString-\u003eString",
-        "package": "markdown-unlit",
-        "partial": "",
-        "signature": "FilePath-\u003eSelector-\u003eString-\u003eString"
-      }
-    }
-  }
+  ]
 ]

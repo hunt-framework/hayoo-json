@@ -1,266 +1,197 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/blaze-textual/docs/Blaze-Text-Double.html#",
-      "description": {
-        "fct-module": "Blaze.Text.Double",
-        "fct-package": "blaze-textual",
-        "fct-signature": "module",
-        "fct-source": "src/Blaze-Text-Double.html",
-        "fct-type": "module",
-        "title": "Double"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "blaze-textual"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Blaze Text Double",
-        "module": "Blaze.Text.Double",
-        "name": "Double",
-        "normalized": "",
-        "package": "blaze-textual",
-        "partial": "Double",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/blaze-textual/docs/Blaze-Text-Double.html#v:double",
-      "description": {
-        "fct-module": "Blaze.Text.Double",
-        "fct-package": "blaze-textual",
-        "fct-signature": "Double -\u003e Builder",
-        "fct-source": "src/Blaze-Text-Double-Native.html#double",
-        "fct-type": "function",
-        "title": "double"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Blaze Text Double",
-        "module": "Blaze.Text.Double",
-        "name": "double",
-        "normalized": "Double-\u003eBuilder",
-        "package": "blaze-textual",
-        "partial": "",
-        "signature": "Double-\u003eBuilder"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Blaze.Text.Double",
+          "name": "Double",
+          "package": "blaze-textual",
+          "source": "src/Blaze-Text-Double.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Blaze Text Double",
+          "module": "Blaze.Text.Double",
+          "name": "Double",
+          "package": "blaze-textual",
+          "partial": "Double",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/blaze-textual/docs/Blaze-Text-Double.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Blaze.Text.Double\",\"Blaze.Text\"]",
+          "name": "double",
+          "package": "blaze-textual",
+          "signature": "Double -\u003e Builder",
+          "source": "src/Blaze-Text-Double-Native.html#double",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/blaze-textual/docs/Blaze-Text-Double.html#v:double\",\"http://hackage.haskell.org/package/blaze-textual/docs/Blaze-Text.html#v:double\"]"
+        },
+        "index": {
+          "hierarchy": "Blaze Text Double",
+          "module": "Blaze.Text.Double",
+          "name": "double",
+          "normalized": "Double-\u003eBuilder",
+          "package": "blaze-textual",
+          "signature": "Double-\u003eBuilder",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/blaze-textual/docs/Blaze-Text-Double.html#v:double"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Blaze.Text.Double\",\"Blaze.Text\"]",
+          "name": "float",
+          "package": "blaze-textual",
+          "signature": "Float -\u003e Builder",
+          "source": "src/Blaze-Text-Double-Native.html#float",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/blaze-textual/docs/Blaze-Text-Double.html#v:float\",\"http://hackage.haskell.org/package/blaze-textual/docs/Blaze-Text.html#v:float\"]"
+        },
+        "index": {
+          "hierarchy": "Blaze Text Double",
+          "module": "Blaze.Text.Double",
+          "name": "float",
+          "normalized": "Float-\u003eBuilder",
+          "package": "blaze-textual",
+          "signature": "Float-\u003eBuilder",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/blaze-textual/docs/Blaze-Text-Double.html#v:float"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Blaze.Text.Int",
+          "name": "Int",
+          "package": "blaze-textual",
+          "source": "src/Blaze-Text-Int.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Blaze Text Int",
+          "module": "Blaze.Text.Int",
+          "name": "Int",
+          "package": "blaze-textual",
+          "partial": "Int",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/blaze-textual/docs/Blaze-Text-Int.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Blaze.Text.Int",
+          "name": "digit",
+          "package": "blaze-textual",
+          "signature": "a -\u003e Builder",
+          "source": "src/Blaze-Text-Int.html#digit",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Blaze Text Int",
+          "module": "Blaze.Text.Int",
+          "name": "digit",
+          "normalized": "a-\u003eBuilder",
+          "package": "blaze-textual",
+          "signature": "a-\u003eBuilder",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/blaze-textual/docs/Blaze-Text-Int.html#v:digit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Blaze.Text.Int\",\"Blaze.Text\"]",
+          "name": "integral",
+          "package": "blaze-textual",
+          "signature": "a -\u003e Builder",
+          "source": "src/Blaze-Text-Int.html#integral",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/blaze-textual/docs/Blaze-Text-Int.html#v:integral\",\"http://hackage.haskell.org/package/blaze-textual/docs/Blaze-Text.html#v:integral\"]"
+        },
+        "index": {
+          "hierarchy": "Blaze Text Int",
+          "module": "Blaze.Text.Int",
+          "name": "integral",
+          "normalized": "a-\u003eBuilder",
+          "package": "blaze-textual",
+          "signature": "a-\u003eBuilder",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/blaze-textual/docs/Blaze-Text-Int.html#v:integral"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Blaze.Text.Int",
+          "name": "minus",
+          "package": "blaze-textual",
+          "signature": "Builder",
+          "source": "src/Blaze-Text-Int.html#minus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Blaze Text Int",
+          "module": "Blaze.Text.Int",
+          "name": "minus",
+          "package": "blaze-textual",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/blaze-textual/docs/Blaze-Text-Int.html#v:minus"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Blaze.Text",
+          "name": "Text",
+          "package": "blaze-textual",
+          "source": "src/Blaze-Text.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Blaze Text",
+          "module": "Blaze.Text",
+          "name": "Text",
+          "package": "blaze-textual",
+          "partial": "Text",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/blaze-textual/docs/Blaze-Text.html#"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/blaze-textual/docs/Blaze-Text-Double.html#v:float",
-      "description": {
-        "fct-module": "Blaze.Text.Double",
-        "fct-package": "blaze-textual",
-        "fct-signature": "Float -\u003e Builder",
-        "fct-source": "src/Blaze-Text-Double-Native.html#float",
-        "fct-type": "function",
-        "title": "float"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Blaze Text Double",
-        "module": "Blaze.Text.Double",
-        "name": "float",
-        "normalized": "Float-\u003eBuilder",
-        "package": "blaze-textual",
-        "partial": "",
-        "signature": "Float-\u003eBuilder"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/blaze-textual/docs/Blaze-Text-Int.html#",
-      "description": {
-        "fct-module": "Blaze.Text.Int",
-        "fct-package": "blaze-textual",
-        "fct-signature": "module",
-        "fct-source": "src/Blaze-Text-Int.html",
-        "fct-type": "module",
-        "title": "Int"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Blaze Text Int",
-        "module": "Blaze.Text.Int",
-        "name": "Int",
-        "normalized": "",
-        "package": "blaze-textual",
-        "partial": "Int",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/blaze-textual/docs/Blaze-Text-Int.html#v:digit",
-      "description": {
-        "fct-module": "Blaze.Text.Int",
-        "fct-package": "blaze-textual",
-        "fct-signature": "a -\u003e Builder",
-        "fct-source": "src/Blaze-Text-Int.html#digit",
-        "fct-type": "function",
-        "title": "digit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Blaze Text Int",
-        "module": "Blaze.Text.Int",
-        "name": "digit",
-        "normalized": "a-\u003eBuilder",
-        "package": "blaze-textual",
-        "partial": "",
-        "signature": "a-\u003eBuilder"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/blaze-textual/docs/Blaze-Text-Int.html#v:integral",
-      "description": {
-        "fct-module": "Blaze.Text.Int",
-        "fct-package": "blaze-textual",
-        "fct-signature": "a -\u003e Builder",
-        "fct-source": "src/Blaze-Text-Int.html#integral",
-        "fct-type": "function",
-        "title": "integral"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Blaze Text Int",
-        "module": "Blaze.Text.Int",
-        "name": "integral",
-        "normalized": "a-\u003eBuilder",
-        "package": "blaze-textual",
-        "partial": "",
-        "signature": "a-\u003eBuilder"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/blaze-textual/docs/Blaze-Text-Int.html#v:minus",
-      "description": {
-        "fct-module": "Blaze.Text.Int",
-        "fct-package": "blaze-textual",
-        "fct-signature": "Builder",
-        "fct-source": "src/Blaze-Text-Int.html#minus",
-        "fct-type": "function",
-        "title": "minus"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Blaze Text Int",
-        "module": "Blaze.Text.Int",
-        "name": "minus",
-        "normalized": "",
-        "package": "blaze-textual",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/blaze-textual/docs/Blaze-Text.html#",
-      "description": {
-        "fct-module": "Blaze.Text",
-        "fct-package": "blaze-textual",
-        "fct-signature": "module",
-        "fct-source": "src/Blaze-Text.html",
-        "fct-type": "module",
-        "title": "Text"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Blaze Text",
-        "module": "Blaze.Text",
-        "name": "Text",
-        "normalized": "",
-        "package": "blaze-textual",
-        "partial": "Text",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/blaze-textual/docs/Blaze-Text.html#v:double",
-      "description": {
-        "fct-module": "Blaze.Text",
-        "fct-package": "blaze-textual",
-        "fct-signature": "Double -\u003e Builder",
-        "fct-source": "src/Blaze-Text-Double-Native.html#double",
-        "fct-type": "function",
-        "title": "double"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Blaze Text",
-        "module": "Blaze.Text",
-        "name": "double",
-        "normalized": "Double-\u003eBuilder",
-        "package": "blaze-textual",
-        "partial": "",
-        "signature": "Double-\u003eBuilder"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/blaze-textual/docs/Blaze-Text.html#v:float",
-      "description": {
-        "fct-module": "Blaze.Text",
-        "fct-package": "blaze-textual",
-        "fct-signature": "Float -\u003e Builder",
-        "fct-source": "src/Blaze-Text-Double-Native.html#float",
-        "fct-type": "function",
-        "title": "float"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Blaze Text",
-        "module": "Blaze.Text",
-        "name": "float",
-        "normalized": "Float-\u003eBuilder",
-        "package": "blaze-textual",
-        "partial": "",
-        "signature": "Float-\u003eBuilder"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/blaze-textual/docs/Blaze-Text.html#v:integral",
-      "description": {
-        "fct-module": "Blaze.Text",
-        "fct-package": "blaze-textual",
-        "fct-signature": "a -\u003e Builder",
-        "fct-source": "src/Blaze-Text-Int.html#integral",
-        "fct-type": "function",
-        "title": "integral"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Blaze Text",
-        "module": "Blaze.Text",
-        "name": "integral",
-        "normalized": "a-\u003eBuilder",
-        "package": "blaze-textual",
-        "partial": "",
-        "signature": "a-\u003eBuilder"
-      }
-    }
-  }
+  ]
 ]

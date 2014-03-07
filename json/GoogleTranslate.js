@@ -1,2210 +1,2042 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "module",
-        "fct-source": "src/Language-Translate-Google.html",
-        "fct-type": "module",
-        "title": "Google"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Google",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Google",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#t:Language",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "data",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "data",
-        "title": "Language"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Language",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Language",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Afrikaans",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Afrikaans",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Afrikaans"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Afrikaans",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Afrikaans",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Albanian",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Albanian",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Albanian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Albanian",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Albanian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Amharic",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Amharic",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Amharic"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Amharic",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Amharic",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Arabic",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Arabic",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Arabic"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Arabic",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Arabic",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Armenian",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Armenian",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Armenian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Armenian",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Armenian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Azerbaijani",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Azerbaijani",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Azerbaijani"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Azerbaijani",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Azerbaijani",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Basque",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Basque",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Basque"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Basque",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Basque",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Belarusian",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Belarusian",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Belarusian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Belarusian",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Belarusian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Bengali",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Bengali",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Bengali"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Bengali",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Bengali",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Bihari",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Bihari",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Bihari"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Bihari",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Bihari",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Bulgarian",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Bulgarian",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Bulgarian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Bulgarian",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Bulgarian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Burmese",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Burmese",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Burmese"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Burmese",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Burmese",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Catalan",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Catalan",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Catalan"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Catalan",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Catalan",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Cherokee",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Cherokee",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Cherokee"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Cherokee",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Cherokee",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Chinese",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Chinese",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Chinese"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Chinese",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Chinese",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:ChineseSimplified",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "ChineseSimplified",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "ChineseSimplified"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "ChineseSimplified",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Chinese Simplified",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:ChineseTraditional",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "ChineseTraditional",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "ChineseTraditional"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "ChineseTraditional",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Chinese Traditional",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Croatian",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Croatian",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Croatian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Croatian",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Croatian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Czech",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Czech",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Czech"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Czech",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Czech",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Danish",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Danish",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Danish"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Danish",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Danish",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Dhivehi",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Dhivehi",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Dhivehi"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Dhivehi",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Dhivehi",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Dutch",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Dutch",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Dutch"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Dutch",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Dutch",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:English",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "English",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "English"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "English",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "English",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Esperanto",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Esperanto",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Esperanto"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Esperanto",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Esperanto",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Estonian",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Estonian",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Estonian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Estonian",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Estonian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Filipino",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Filipino",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Filipino"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Filipino",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Filipino",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Finnish",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Finnish",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Finnish"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Finnish",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Finnish",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:French",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "French",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "French"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "French",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "French",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Galician",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Galician",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Galician"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Galician",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Galician",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Georgian",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Georgian",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Georgian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Georgian",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Georgian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:German",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "German",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "German"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "German",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "German",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Greek",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Greek",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Greek"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Greek",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Greek",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Guarani",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Guarani",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Guarani"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Guarani",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Guarani",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Gujarati",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Gujarati",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Gujarati"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Gujarati",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Gujarati",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Hebrew",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Hebrew",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Hebrew"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Hebrew",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Hebrew",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Hindi",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Hindi",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Hindi"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Hindi",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Hindi",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Hungarian",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Hungarian",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Hungarian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Hungarian",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Hungarian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Icelandic",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Icelandic",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Icelandic"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Icelandic",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Icelandic",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Indonesian",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Indonesian",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Indonesian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Indonesian",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Indonesian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Inuktitut",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Inuktitut",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Inuktitut"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Inuktitut",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Inuktitut",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Italian",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Italian",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Italian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Italian",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Italian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Japanese",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Japanese",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Japanese"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Japanese",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Japanese",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Kannada",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Kannada",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Kannada"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Kannada",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Kannada",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Kazakh",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Kazakh",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Kazakh"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Kazakh",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Kazakh",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Khmer",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Khmer",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Khmer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Khmer",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Khmer",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Korean",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Korean",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Korean"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Korean",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Korean",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Kurdish",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Kurdish",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Kurdish"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Kurdish",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Kurdish",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Kyrgyz",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Kyrgyz",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Kyrgyz"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Kyrgyz",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Kyrgyz",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Laothian",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Laothian",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Laothian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Laothian",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Laothian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Latvian",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Latvian",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Latvian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Latvian",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Latvian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Lithuanian",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Lithuanian",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Lithuanian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Lithuanian",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Lithuanian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Macedonian",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Macedonian",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Macedonian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Macedonian",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Macedonian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Malay",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Malay",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Malay"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Malay",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Malay",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Malayalam",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Malayalam",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Malayalam"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Malayalam",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Malayalam",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Maltese",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Maltese",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Maltese"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Maltese",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Maltese",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Marathi",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Marathi",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Marathi"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Marathi",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Marathi",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Mongolian",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Mongolian",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Mongolian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Mongolian",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Mongolian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Nepali",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Nepali",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Nepali"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Nepali",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Nepali",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Norwegian",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Norwegian",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Norwegian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Norwegian",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Norwegian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Oriya",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Oriya",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Oriya"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Oriya",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Oriya",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Pashto",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Pashto",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Pashto"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Pashto",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Pashto",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Persian",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Persian",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Persian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Persian",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Persian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Polish",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Polish",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Polish"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Polish",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Polish",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Portuguese",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Portuguese",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Portuguese"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Portuguese",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Portuguese",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Punjabi",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Punjabi",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Punjabi"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Punjabi",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Punjabi",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Romanian",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Romanian",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Romanian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Romanian",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Romanian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Russian",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Russian",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Russian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Russian",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Russian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Sanskrit",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Sanskrit",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Sanskrit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Sanskrit",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Sanskrit",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Serbian",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Serbian",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Serbian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Serbian",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Serbian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Sindhi",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Sindhi",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Sindhi"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Sindhi",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Sindhi",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Sinhalese",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Sinhalese",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Sinhalese"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Sinhalese",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Sinhalese",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Slovak",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Slovak",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Slovak"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Slovak",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Slovak",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Slovenian",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Slovenian",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Slovenian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Slovenian",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Slovenian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Spanish",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Spanish",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Spanish"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Spanish",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Spanish",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Swahili",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Swahili",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Swahili"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Swahili",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Swahili",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Swedish",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Swedish",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Swedish"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Swedish",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Swedish",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Tagalog",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Tagalog",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Tagalog"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Tagalog",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Tagalog",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Tajik",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Tajik",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Tajik"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Tajik",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Tajik",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Tamil",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Tamil",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Tamil"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Tamil",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Tamil",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Telugu",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Telugu",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Telugu"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Telugu",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Telugu",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Thai",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Thai",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Thai"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Thai",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Thai",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Tibetan",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Tibetan",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Tibetan"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Tibetan",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Tibetan",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Turkish",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Turkish",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Turkish"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Turkish",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Turkish",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Uighur",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Uighur",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Uighur"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Uighur",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Uighur",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Ukrainian",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Ukrainian",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Ukrainian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Ukrainian",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Ukrainian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Unknown",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Unknown",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Unknown"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Unknown",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Unknown",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Urdu",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Urdu",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Urdu"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Urdu",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Urdu",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Uzbek",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Uzbek",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Uzbek"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Uzbek",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Uzbek",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Vietnamese",
-      "description": {
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "Vietnamese",
-        "fct-source": "src/Language-Translate-Google.html#Language",
-        "fct-type": "function",
-        "title": "Vietnamese"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "Vietnamese",
-        "normalized": "",
-        "package": "GoogleTranslate",
-        "partial": "Vietnamese",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:translate",
-      "description": {
-        "fct-descr": "\u003cp\u003eGet translation from Google Translate.\n\u003c/p\u003e",
-        "fct-module": "Language.Translate.Google",
-        "fct-package": "GoogleTranslate",
-        "fct-signature": "ByteString-\u003e Maybe Language-\u003e Language-\u003e IO (Either String ByteString)",
-        "fct-type": "function",
-        "title": "translate"
-      },
-      "index": {
-        "description": "Get translation from Google Translate",
-        "hierarchy": "Language Translate Google",
-        "module": "Language.Translate.Google",
-        "name": "translate",
-        "normalized": "ByteString-\u003eMaybe Language-\u003eLanguage-\u003eIO(Either String ByteString)",
-        "package": "GoogleTranslate",
-        "partial": "",
-        "signature": "ByteString-\u003eMaybe Language-\u003eLanguage-\u003eIO(Either String ByteString)"
-      }
-    }
-  }
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "GoogleTranslate"
+      },
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Google",
+          "package": "GoogleTranslate",
+          "source": "src/Language-Translate-Google.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Google",
+          "package": "GoogleTranslate",
+          "partial": "Google",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Language",
+          "package": "GoogleTranslate",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Language",
+          "package": "GoogleTranslate",
+          "partial": "Language",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#t:Language"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Afrikaans",
+          "package": "GoogleTranslate",
+          "signature": "Afrikaans",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Afrikaans",
+          "package": "GoogleTranslate",
+          "partial": "Afrikaans",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Afrikaans"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Albanian",
+          "package": "GoogleTranslate",
+          "signature": "Albanian",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Albanian",
+          "package": "GoogleTranslate",
+          "partial": "Albanian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Albanian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Amharic",
+          "package": "GoogleTranslate",
+          "signature": "Amharic",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Amharic",
+          "package": "GoogleTranslate",
+          "partial": "Amharic",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Amharic"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Arabic",
+          "package": "GoogleTranslate",
+          "signature": "Arabic",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Arabic",
+          "package": "GoogleTranslate",
+          "partial": "Arabic",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Arabic"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Armenian",
+          "package": "GoogleTranslate",
+          "signature": "Armenian",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Armenian",
+          "package": "GoogleTranslate",
+          "partial": "Armenian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Armenian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Azerbaijani",
+          "package": "GoogleTranslate",
+          "signature": "Azerbaijani",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Azerbaijani",
+          "package": "GoogleTranslate",
+          "partial": "Azerbaijani",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Azerbaijani"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Basque",
+          "package": "GoogleTranslate",
+          "signature": "Basque",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Basque",
+          "package": "GoogleTranslate",
+          "partial": "Basque",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Basque"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Belarusian",
+          "package": "GoogleTranslate",
+          "signature": "Belarusian",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Belarusian",
+          "package": "GoogleTranslate",
+          "partial": "Belarusian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Belarusian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Bengali",
+          "package": "GoogleTranslate",
+          "signature": "Bengali",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Bengali",
+          "package": "GoogleTranslate",
+          "partial": "Bengali",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Bengali"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Bihari",
+          "package": "GoogleTranslate",
+          "signature": "Bihari",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Bihari",
+          "package": "GoogleTranslate",
+          "partial": "Bihari",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Bihari"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Bulgarian",
+          "package": "GoogleTranslate",
+          "signature": "Bulgarian",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Bulgarian",
+          "package": "GoogleTranslate",
+          "partial": "Bulgarian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Bulgarian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Burmese",
+          "package": "GoogleTranslate",
+          "signature": "Burmese",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Burmese",
+          "package": "GoogleTranslate",
+          "partial": "Burmese",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Burmese"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Catalan",
+          "package": "GoogleTranslate",
+          "signature": "Catalan",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Catalan",
+          "package": "GoogleTranslate",
+          "partial": "Catalan",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Catalan"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Cherokee",
+          "package": "GoogleTranslate",
+          "signature": "Cherokee",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Cherokee",
+          "package": "GoogleTranslate",
+          "partial": "Cherokee",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Cherokee"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Chinese",
+          "package": "GoogleTranslate",
+          "signature": "Chinese",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Chinese",
+          "package": "GoogleTranslate",
+          "partial": "Chinese",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Chinese"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "ChineseSimplified",
+          "package": "GoogleTranslate",
+          "signature": "ChineseSimplified",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "ChineseSimplified",
+          "package": "GoogleTranslate",
+          "partial": "Chinese Simplified",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:ChineseSimplified"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "ChineseTraditional",
+          "package": "GoogleTranslate",
+          "signature": "ChineseTraditional",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "ChineseTraditional",
+          "package": "GoogleTranslate",
+          "partial": "Chinese Traditional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:ChineseTraditional"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Croatian",
+          "package": "GoogleTranslate",
+          "signature": "Croatian",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Croatian",
+          "package": "GoogleTranslate",
+          "partial": "Croatian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Croatian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Czech",
+          "package": "GoogleTranslate",
+          "signature": "Czech",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Czech",
+          "package": "GoogleTranslate",
+          "partial": "Czech",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Czech"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Danish",
+          "package": "GoogleTranslate",
+          "signature": "Danish",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Danish",
+          "package": "GoogleTranslate",
+          "partial": "Danish",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Danish"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Dhivehi",
+          "package": "GoogleTranslate",
+          "signature": "Dhivehi",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Dhivehi",
+          "package": "GoogleTranslate",
+          "partial": "Dhivehi",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Dhivehi"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Dutch",
+          "package": "GoogleTranslate",
+          "signature": "Dutch",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Dutch",
+          "package": "GoogleTranslate",
+          "partial": "Dutch",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Dutch"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "English",
+          "package": "GoogleTranslate",
+          "signature": "English",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "English",
+          "package": "GoogleTranslate",
+          "partial": "English",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:English"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Esperanto",
+          "package": "GoogleTranslate",
+          "signature": "Esperanto",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Esperanto",
+          "package": "GoogleTranslate",
+          "partial": "Esperanto",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Esperanto"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Estonian",
+          "package": "GoogleTranslate",
+          "signature": "Estonian",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Estonian",
+          "package": "GoogleTranslate",
+          "partial": "Estonian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Estonian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Filipino",
+          "package": "GoogleTranslate",
+          "signature": "Filipino",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Filipino",
+          "package": "GoogleTranslate",
+          "partial": "Filipino",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Filipino"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Finnish",
+          "package": "GoogleTranslate",
+          "signature": "Finnish",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Finnish",
+          "package": "GoogleTranslate",
+          "partial": "Finnish",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Finnish"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "French",
+          "package": "GoogleTranslate",
+          "signature": "French",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "French",
+          "package": "GoogleTranslate",
+          "partial": "French",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:French"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Galician",
+          "package": "GoogleTranslate",
+          "signature": "Galician",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Galician",
+          "package": "GoogleTranslate",
+          "partial": "Galician",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Galician"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Georgian",
+          "package": "GoogleTranslate",
+          "signature": "Georgian",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Georgian",
+          "package": "GoogleTranslate",
+          "partial": "Georgian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Georgian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "German",
+          "package": "GoogleTranslate",
+          "signature": "German",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "German",
+          "package": "GoogleTranslate",
+          "partial": "German",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:German"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Greek",
+          "package": "GoogleTranslate",
+          "signature": "Greek",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Greek",
+          "package": "GoogleTranslate",
+          "partial": "Greek",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Greek"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Guarani",
+          "package": "GoogleTranslate",
+          "signature": "Guarani",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Guarani",
+          "package": "GoogleTranslate",
+          "partial": "Guarani",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Guarani"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Gujarati",
+          "package": "GoogleTranslate",
+          "signature": "Gujarati",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Gujarati",
+          "package": "GoogleTranslate",
+          "partial": "Gujarati",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Gujarati"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Hebrew",
+          "package": "GoogleTranslate",
+          "signature": "Hebrew",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Hebrew",
+          "package": "GoogleTranslate",
+          "partial": "Hebrew",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Hebrew"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Hindi",
+          "package": "GoogleTranslate",
+          "signature": "Hindi",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Hindi",
+          "package": "GoogleTranslate",
+          "partial": "Hindi",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Hindi"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Hungarian",
+          "package": "GoogleTranslate",
+          "signature": "Hungarian",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Hungarian",
+          "package": "GoogleTranslate",
+          "partial": "Hungarian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Hungarian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Icelandic",
+          "package": "GoogleTranslate",
+          "signature": "Icelandic",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Icelandic",
+          "package": "GoogleTranslate",
+          "partial": "Icelandic",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Icelandic"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Indonesian",
+          "package": "GoogleTranslate",
+          "signature": "Indonesian",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Indonesian",
+          "package": "GoogleTranslate",
+          "partial": "Indonesian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Indonesian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Inuktitut",
+          "package": "GoogleTranslate",
+          "signature": "Inuktitut",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Inuktitut",
+          "package": "GoogleTranslate",
+          "partial": "Inuktitut",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Inuktitut"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Italian",
+          "package": "GoogleTranslate",
+          "signature": "Italian",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Italian",
+          "package": "GoogleTranslate",
+          "partial": "Italian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Italian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Japanese",
+          "package": "GoogleTranslate",
+          "signature": "Japanese",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Japanese",
+          "package": "GoogleTranslate",
+          "partial": "Japanese",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Japanese"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Kannada",
+          "package": "GoogleTranslate",
+          "signature": "Kannada",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Kannada",
+          "package": "GoogleTranslate",
+          "partial": "Kannada",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Kannada"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Kazakh",
+          "package": "GoogleTranslate",
+          "signature": "Kazakh",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Kazakh",
+          "package": "GoogleTranslate",
+          "partial": "Kazakh",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Kazakh"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Khmer",
+          "package": "GoogleTranslate",
+          "signature": "Khmer",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Khmer",
+          "package": "GoogleTranslate",
+          "partial": "Khmer",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Khmer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Korean",
+          "package": "GoogleTranslate",
+          "signature": "Korean",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Korean",
+          "package": "GoogleTranslate",
+          "partial": "Korean",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Korean"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Kurdish",
+          "package": "GoogleTranslate",
+          "signature": "Kurdish",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Kurdish",
+          "package": "GoogleTranslate",
+          "partial": "Kurdish",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Kurdish"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Kyrgyz",
+          "package": "GoogleTranslate",
+          "signature": "Kyrgyz",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Kyrgyz",
+          "package": "GoogleTranslate",
+          "partial": "Kyrgyz",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Kyrgyz"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Laothian",
+          "package": "GoogleTranslate",
+          "signature": "Laothian",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Laothian",
+          "package": "GoogleTranslate",
+          "partial": "Laothian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Laothian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Latvian",
+          "package": "GoogleTranslate",
+          "signature": "Latvian",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Latvian",
+          "package": "GoogleTranslate",
+          "partial": "Latvian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Latvian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Lithuanian",
+          "package": "GoogleTranslate",
+          "signature": "Lithuanian",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Lithuanian",
+          "package": "GoogleTranslate",
+          "partial": "Lithuanian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Lithuanian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Macedonian",
+          "package": "GoogleTranslate",
+          "signature": "Macedonian",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Macedonian",
+          "package": "GoogleTranslate",
+          "partial": "Macedonian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Macedonian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Malay",
+          "package": "GoogleTranslate",
+          "signature": "Malay",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Malay",
+          "package": "GoogleTranslate",
+          "partial": "Malay",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Malay"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Malayalam",
+          "package": "GoogleTranslate",
+          "signature": "Malayalam",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Malayalam",
+          "package": "GoogleTranslate",
+          "partial": "Malayalam",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Malayalam"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Maltese",
+          "package": "GoogleTranslate",
+          "signature": "Maltese",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Maltese",
+          "package": "GoogleTranslate",
+          "partial": "Maltese",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Maltese"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Marathi",
+          "package": "GoogleTranslate",
+          "signature": "Marathi",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Marathi",
+          "package": "GoogleTranslate",
+          "partial": "Marathi",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Marathi"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Mongolian",
+          "package": "GoogleTranslate",
+          "signature": "Mongolian",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Mongolian",
+          "package": "GoogleTranslate",
+          "partial": "Mongolian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Mongolian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Nepali",
+          "package": "GoogleTranslate",
+          "signature": "Nepali",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Nepali",
+          "package": "GoogleTranslate",
+          "partial": "Nepali",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Nepali"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Norwegian",
+          "package": "GoogleTranslate",
+          "signature": "Norwegian",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Norwegian",
+          "package": "GoogleTranslate",
+          "partial": "Norwegian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Norwegian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Oriya",
+          "package": "GoogleTranslate",
+          "signature": "Oriya",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Oriya",
+          "package": "GoogleTranslate",
+          "partial": "Oriya",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Oriya"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Pashto",
+          "package": "GoogleTranslate",
+          "signature": "Pashto",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Pashto",
+          "package": "GoogleTranslate",
+          "partial": "Pashto",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Pashto"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Persian",
+          "package": "GoogleTranslate",
+          "signature": "Persian",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Persian",
+          "package": "GoogleTranslate",
+          "partial": "Persian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Persian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Polish",
+          "package": "GoogleTranslate",
+          "signature": "Polish",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Polish",
+          "package": "GoogleTranslate",
+          "partial": "Polish",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Polish"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Portuguese",
+          "package": "GoogleTranslate",
+          "signature": "Portuguese",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Portuguese",
+          "package": "GoogleTranslate",
+          "partial": "Portuguese",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Portuguese"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Punjabi",
+          "package": "GoogleTranslate",
+          "signature": "Punjabi",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Punjabi",
+          "package": "GoogleTranslate",
+          "partial": "Punjabi",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Punjabi"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Romanian",
+          "package": "GoogleTranslate",
+          "signature": "Romanian",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Romanian",
+          "package": "GoogleTranslate",
+          "partial": "Romanian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Romanian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Russian",
+          "package": "GoogleTranslate",
+          "signature": "Russian",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Russian",
+          "package": "GoogleTranslate",
+          "partial": "Russian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Russian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Sanskrit",
+          "package": "GoogleTranslate",
+          "signature": "Sanskrit",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Sanskrit",
+          "package": "GoogleTranslate",
+          "partial": "Sanskrit",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Sanskrit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Serbian",
+          "package": "GoogleTranslate",
+          "signature": "Serbian",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Serbian",
+          "package": "GoogleTranslate",
+          "partial": "Serbian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Serbian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Sindhi",
+          "package": "GoogleTranslate",
+          "signature": "Sindhi",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Sindhi",
+          "package": "GoogleTranslate",
+          "partial": "Sindhi",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Sindhi"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Sinhalese",
+          "package": "GoogleTranslate",
+          "signature": "Sinhalese",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Sinhalese",
+          "package": "GoogleTranslate",
+          "partial": "Sinhalese",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Sinhalese"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Slovak",
+          "package": "GoogleTranslate",
+          "signature": "Slovak",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Slovak",
+          "package": "GoogleTranslate",
+          "partial": "Slovak",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Slovak"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Slovenian",
+          "package": "GoogleTranslate",
+          "signature": "Slovenian",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Slovenian",
+          "package": "GoogleTranslate",
+          "partial": "Slovenian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Slovenian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Spanish",
+          "package": "GoogleTranslate",
+          "signature": "Spanish",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Spanish",
+          "package": "GoogleTranslate",
+          "partial": "Spanish",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Spanish"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Swahili",
+          "package": "GoogleTranslate",
+          "signature": "Swahili",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Swahili",
+          "package": "GoogleTranslate",
+          "partial": "Swahili",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Swahili"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Swedish",
+          "package": "GoogleTranslate",
+          "signature": "Swedish",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Swedish",
+          "package": "GoogleTranslate",
+          "partial": "Swedish",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Swedish"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Tagalog",
+          "package": "GoogleTranslate",
+          "signature": "Tagalog",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Tagalog",
+          "package": "GoogleTranslate",
+          "partial": "Tagalog",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Tagalog"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Tajik",
+          "package": "GoogleTranslate",
+          "signature": "Tajik",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Tajik",
+          "package": "GoogleTranslate",
+          "partial": "Tajik",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Tajik"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Tamil",
+          "package": "GoogleTranslate",
+          "signature": "Tamil",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Tamil",
+          "package": "GoogleTranslate",
+          "partial": "Tamil",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Tamil"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Telugu",
+          "package": "GoogleTranslate",
+          "signature": "Telugu",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Telugu",
+          "package": "GoogleTranslate",
+          "partial": "Telugu",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Telugu"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Thai",
+          "package": "GoogleTranslate",
+          "signature": "Thai",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Thai",
+          "package": "GoogleTranslate",
+          "partial": "Thai",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Thai"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Tibetan",
+          "package": "GoogleTranslate",
+          "signature": "Tibetan",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Tibetan",
+          "package": "GoogleTranslate",
+          "partial": "Tibetan",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Tibetan"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Turkish",
+          "package": "GoogleTranslate",
+          "signature": "Turkish",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Turkish",
+          "package": "GoogleTranslate",
+          "partial": "Turkish",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Turkish"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Uighur",
+          "package": "GoogleTranslate",
+          "signature": "Uighur",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Uighur",
+          "package": "GoogleTranslate",
+          "partial": "Uighur",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Uighur"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Ukrainian",
+          "package": "GoogleTranslate",
+          "signature": "Ukrainian",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Ukrainian",
+          "package": "GoogleTranslate",
+          "partial": "Ukrainian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Ukrainian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Unknown",
+          "package": "GoogleTranslate",
+          "signature": "Unknown",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Unknown",
+          "package": "GoogleTranslate",
+          "partial": "Unknown",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Unknown"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Urdu",
+          "package": "GoogleTranslate",
+          "signature": "Urdu",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Urdu",
+          "package": "GoogleTranslate",
+          "partial": "Urdu",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Urdu"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Uzbek",
+          "package": "GoogleTranslate",
+          "signature": "Uzbek",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Uzbek",
+          "package": "GoogleTranslate",
+          "partial": "Uzbek",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Uzbek"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Translate.Google",
+          "name": "Vietnamese",
+          "package": "GoogleTranslate",
+          "signature": "Vietnamese",
+          "source": "src/Language-Translate-Google.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "Vietnamese",
+          "package": "GoogleTranslate",
+          "partial": "Vietnamese",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:Vietnamese"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eGet translation from Google Translate.\n\u003c/p\u003e",
+          "module": "Language.Translate.Google",
+          "name": "translate",
+          "package": "GoogleTranslate",
+          "signature": "ByteString-\u003e Maybe Language-\u003e Language-\u003e IO (Either String ByteString)",
+          "type": "function"
+        },
+        "index": {
+          "description": "Get translation from Google Translate",
+          "hierarchy": "Language Translate Google",
+          "module": "Language.Translate.Google",
+          "name": "translate",
+          "normalized": "ByteString-\u003eMaybe Language-\u003eLanguage-\u003eIO(Either String ByteString)",
+          "package": "GoogleTranslate",
+          "signature": "ByteString-\u003eMaybe Language-\u003eLanguage-\u003eIO(Either String ByteString)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleTranslate/docs/Language-Translate-Google.html#v:translate"
+      }
+    }
+  ]
 ]

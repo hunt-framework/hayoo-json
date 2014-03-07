@@ -1,2385 +1,2213 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Layout.html#",
-      "description": {
-        "fct-module": "Grm.Layout",
-        "fct-package": "grm",
-        "fct-signature": "module",
-        "fct-source": "src/Grm-Layout.html",
-        "fct-type": "module",
-        "title": "Layout"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Layout",
-        "module": "Grm.Layout",
-        "name": "Layout",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Layout",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Layout.html#v:layout",
-      "description": {
-        "fct-module": "Grm.Layout",
-        "fct-package": "grm",
-        "fct-signature": "[Token Point] -\u003e [Token Point]",
-        "fct-source": "src/Grm-Layout.html#layout",
-        "fct-type": "function",
-        "title": "layout"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Layout",
-        "module": "Grm.Layout",
-        "name": "layout",
-        "normalized": "[Token Point]-\u003e[Token Point]",
-        "package": "grm",
-        "partial": "",
-        "signature": "[Token Point]-\u003e[Token Point]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#",
-      "description": {
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "module",
-        "fct-source": "src/Grm-Lex.html",
-        "fct-type": "module",
-        "title": "Lex"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "Lex",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Lex",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#t:Point",
-      "description": {
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "data",
-        "fct-source": "src/Grm-Prims.html#Point",
-        "fct-type": "data",
-        "title": "Point"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "Point",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Point",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#t:Token",
-      "description": {
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "data",
-        "fct-source": "src/Grm-Lex.html#Token",
-        "fct-type": "data",
-        "title": "Token"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "Token",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Token",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:Point",
-      "description": {
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "Point",
-        "fct-source": "src/Grm-Prims.html#Point",
-        "fct-type": "function",
-        "title": "Point"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "Point",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Point",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:TChar",
-      "description": {
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "TChar a Char",
-        "fct-source": "src/Grm-Lex.html#Token",
-        "fct-type": "function",
-        "title": "TChar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "TChar",
-        "normalized": "",
-        "package": "grm",
-        "partial": "TChar",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:TLident",
-      "description": {
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "TLident a String",
-        "fct-source": "src/Grm-Lex.html#Token",
-        "fct-type": "function",
-        "title": "TLident"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "TLident",
-        "normalized": "",
-        "package": "grm",
-        "partial": "TLident",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:TMLComment",
-      "description": {
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "TMLComment a String",
-        "fct-source": "src/Grm-Lex.html#Token",
-        "fct-type": "function",
-        "title": "TMLComment"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "TMLComment",
-        "normalized": "",
-        "package": "grm",
-        "partial": "TMLComment",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:TNumber",
-      "description": {
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "TNumber a String",
-        "fct-source": "src/Grm-Lex.html#Token",
-        "fct-type": "function",
-        "title": "TNumber"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "TNumber",
-        "normalized": "",
-        "package": "grm",
-        "partial": "TNumber",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:TSLComment",
-      "description": {
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "TSLComment a String",
-        "fct-source": "src/Grm-Lex.html#Token",
-        "fct-type": "function",
-        "title": "TSLComment"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "TSLComment",
-        "normalized": "",
-        "package": "grm",
-        "partial": "TSLComment",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:TString",
-      "description": {
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "TString a String",
-        "fct-source": "src/Grm-Lex.html#Token",
-        "fct-type": "function",
-        "title": "TString"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "TString",
-        "normalized": "",
-        "package": "grm",
-        "partial": "TString",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:TSymbol",
-      "description": {
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "TSymbol a String",
-        "fct-source": "src/Grm-Lex.html#Token",
-        "fct-type": "function",
-        "title": "TSymbol"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "TSymbol",
-        "normalized": "",
-        "package": "grm",
-        "partial": "TSymbol",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:TUident",
-      "description": {
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "TUident a String",
-        "fct-source": "src/Grm-Lex.html#Token",
-        "fct-type": "function",
-        "title": "TUident"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "TUident",
-        "normalized": "",
-        "package": "grm",
-        "partial": "TUident",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:TUsym",
-      "description": {
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "TUsym a String",
-        "fct-source": "src/Grm-Lex.html#Token",
-        "fct-type": "function",
-        "title": "TUsym"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "TUsym",
-        "normalized": "",
-        "package": "grm",
-        "partial": "TUsym",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:TWhitespace",
-      "description": {
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "TWhitespace a String",
-        "fct-source": "src/Grm-Lex.html#Token",
-        "fct-type": "function",
-        "title": "TWhitespace"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "TWhitespace",
-        "normalized": "",
-        "package": "grm",
-        "partial": "TWhitespace",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:beginLoc",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "Loc",
-        "fct-source": "src/Grm-Prims.html#Point",
-        "fct-type": "function",
-        "title": "beginLoc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "beginLoc",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Loc",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:endLoc",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "Loc",
-        "fct-source": "src/Grm-Prims.html#Point",
-        "fct-type": "function",
-        "title": "endLoc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "endLoc",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Loc",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:happyError",
-      "description": {
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "[Token Point] -\u003e a",
-        "fct-source": "src/Grm-Lex.html#happyError",
-        "fct-type": "function",
-        "title": "happyError"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "happyError",
-        "normalized": "[Token Point]-\u003ea",
-        "package": "grm",
-        "partial": "Error",
-        "signature": "[Token Point]-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:lexContents",
-      "description": {
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "[String] -\u003e FilePath -\u003e String -\u003e IO [Token Point]",
-        "fct-source": "src/Grm-Lex.html#lexContents",
-        "fct-type": "function",
-        "title": "lexContents"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "lexContents",
-        "normalized": "[String]-\u003eFilePath-\u003eString-\u003eIO[Token Point]",
-        "package": "grm",
-        "partial": "Contents",
-        "signature": "[String]-\u003eFilePath-\u003eString-\u003eIO[Token Point]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:lexFilePath",
-      "description": {
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "[String] -\u003e FilePath -\u003e IO [Token Point]",
-        "fct-source": "src/Grm-Lex.html#lexFilePath",
-        "fct-type": "function",
-        "title": "lexFilePath"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "lexFilePath",
-        "normalized": "[String]-\u003eFilePath-\u003eIO[Token Point]",
-        "package": "grm",
-        "partial": "File Path",
-        "signature": "[String]-\u003eFilePath-\u003eIO[Token Point]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:notWSToken",
-      "description": {
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "Token t -\u003e Bool",
-        "fct-source": "src/Grm-Lex.html#notWSToken",
-        "fct-type": "function",
-        "title": "notWSToken"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "notWSToken",
-        "normalized": "Token a-\u003eBool",
-        "package": "grm",
-        "partial": "WSToken",
-        "signature": "Token t-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:ppToken",
-      "description": {
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "Token a -\u003e Doc",
-        "fct-source": "src/Grm-Lex.html#ppToken",
-        "fct-type": "function",
-        "title": "ppToken"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "ppToken",
-        "normalized": "Token a-\u003eDoc",
-        "package": "grm",
-        "partial": "Token",
-        "signature": "Token a-\u003eDoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:ppTokenList",
-      "description": {
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "[Token a] -\u003e Doc",
-        "fct-source": "src/Grm-Lex.html#ppTokenList",
-        "fct-type": "function",
-        "title": "ppTokenList"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "ppTokenList",
-        "normalized": "[Token a]-\u003eDoc",
-        "package": "grm",
-        "partial": "Token List",
-        "signature": "[Token a]-\u003eDoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:unTChar",
-      "description": {
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "Token t -\u003e Char",
-        "fct-source": "src/Grm-Lex.html#unTChar",
-        "fct-type": "function",
-        "title": "unTChar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "unTChar",
-        "normalized": "Token a-\u003eChar",
-        "package": "grm",
-        "partial": "TChar",
-        "signature": "Token t-\u003eChar"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:unTLident",
-      "description": {
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "Token t -\u003e String",
-        "fct-source": "src/Grm-Lex.html#unTLident",
-        "fct-type": "function",
-        "title": "unTLident"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "unTLident",
-        "normalized": "Token a-\u003eString",
-        "package": "grm",
-        "partial": "TLident",
-        "signature": "Token t-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:unTMLComment",
-      "description": {
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "Token t -\u003e String",
-        "fct-source": "src/Grm-Lex.html#unTMLComment",
-        "fct-type": "function",
-        "title": "unTMLComment"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "unTMLComment",
-        "normalized": "Token a-\u003eString",
-        "package": "grm",
-        "partial": "TMLComment",
-        "signature": "Token t-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:unTNumber",
-      "description": {
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "Token t -\u003e String",
-        "fct-source": "src/Grm-Lex.html#unTNumber",
-        "fct-type": "function",
-        "title": "unTNumber"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "unTNumber",
-        "normalized": "Token a-\u003eString",
-        "package": "grm",
-        "partial": "TNumber",
-        "signature": "Token t-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:unTSLComment",
-      "description": {
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "Token t -\u003e String",
-        "fct-source": "src/Grm-Lex.html#unTSLComment",
-        "fct-type": "function",
-        "title": "unTSLComment"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "unTSLComment",
-        "normalized": "Token a-\u003eString",
-        "package": "grm",
-        "partial": "TSLComment",
-        "signature": "Token t-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:unTString",
-      "description": {
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "Token t -\u003e String",
-        "fct-source": "src/Grm-Lex.html#unTString",
-        "fct-type": "function",
-        "title": "unTString"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "unTString",
-        "normalized": "Token a-\u003eString",
-        "package": "grm",
-        "partial": "TString",
-        "signature": "Token t-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:unTSymbol",
-      "description": {
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "Token t -\u003e String",
-        "fct-source": "src/Grm-Lex.html#unTSymbol",
-        "fct-type": "function",
-        "title": "unTSymbol"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "unTSymbol",
-        "normalized": "Token a-\u003eString",
-        "package": "grm",
-        "partial": "TSymbol",
-        "signature": "Token t-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:unTUident",
-      "description": {
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "Token t -\u003e String",
-        "fct-source": "src/Grm-Lex.html#unTUident",
-        "fct-type": "function",
-        "title": "unTUident"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "unTUident",
-        "normalized": "Token a-\u003eString",
-        "package": "grm",
-        "partial": "TUident",
-        "signature": "Token t-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:unTUsym",
-      "description": {
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "Token t -\u003e String",
-        "fct-source": "src/Grm-Lex.html#unTUsym",
-        "fct-type": "function",
-        "title": "unTUsym"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "unTUsym",
-        "normalized": "Token a-\u003eString",
-        "package": "grm",
-        "partial": "TUsym",
-        "signature": "Token t-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:unTWhitespace",
-      "description": {
-        "fct-module": "Grm.Lex",
-        "fct-package": "grm",
-        "fct-signature": "Token t -\u003e String",
-        "fct-source": "src/Grm-Lex.html#unTWhitespace",
-        "fct-type": "function",
-        "title": "unTWhitespace"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Lex",
-        "module": "Grm.Lex",
-        "name": "unTWhitespace",
-        "normalized": "Token a-\u003eString",
-        "package": "grm",
-        "partial": "TWhitespace",
-        "signature": "Token t-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "module",
-        "fct-source": "src/Grm-Prims.html",
-        "fct-type": "module",
-        "title": "Prims"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "Prims",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Prims",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#t:Empty",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "data",
-        "fct-source": "src/Grm-Prims.html#Empty",
-        "fct-type": "data",
-        "title": "Empty"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "Empty",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Empty",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#t:HasMeta",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "class",
-        "fct-source": "src/Grm-Prims.html#HasMeta",
-        "fct-type": "class",
-        "title": "HasMeta"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "HasMeta",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Has Meta",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#t:Horiz",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "data",
-        "fct-source": "src/Grm-Prims.html#Horiz",
-        "fct-type": "data",
-        "title": "Horiz"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "Horiz",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Horiz",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#t:Lident",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "type",
-        "fct-source": "src/Grm-Prims.html#Lident",
-        "fct-type": "type",
-        "title": "Lident"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "Lident",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Lident",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#t:Loc",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "data",
-        "fct-source": "src/Grm-Prims.html#Loc",
-        "fct-type": "data",
-        "title": "Loc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "Loc",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Loc",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#t:Mlcode",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "type",
-        "fct-source": "src/Grm-Prims.html#Mlcode",
-        "fct-type": "type",
-        "title": "Mlcode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "Mlcode",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Mlcode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#t:Number",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "type",
-        "fct-source": "src/Grm-Prims.html#Number",
-        "fct-type": "type",
-        "title": "Number"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "Number",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Number",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#t:Point",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "data",
-        "fct-source": "src/Grm-Prims.html#Point",
-        "fct-type": "data",
-        "title": "Point"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "Point",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Point",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#t:Terminator",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "data",
-        "fct-source": "src/Grm-Prims.html#Terminator",
-        "fct-type": "data",
-        "title": "Terminator"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "Terminator",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Terminator",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#t:Uident",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "type",
-        "fct-source": "src/Grm-Prims.html#Uident",
-        "fct-type": "type",
-        "title": "Uident"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "Uident",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Uident",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#t:Usym",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "type",
-        "fct-source": "src/Grm-Prims.html#Usym",
-        "fct-type": "type",
-        "title": "Usym"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "Usym",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Usym",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:Empty",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "Empty",
-        "fct-source": "src/Grm-Prims.html#Empty",
-        "fct-type": "function",
-        "title": "Empty"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "Empty",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Empty",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:Horiz",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "Horiz",
-        "fct-source": "src/Grm-Prims.html#Horiz",
-        "fct-type": "function",
-        "title": "Horiz"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "Horiz",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Horiz",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:Loc",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "Loc",
-        "fct-source": "src/Grm-Prims.html#Loc",
-        "fct-type": "function",
-        "title": "Loc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "Loc",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Loc",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:NonEmpty",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "NonEmpty",
-        "fct-source": "src/Grm-Prims.html#Empty",
-        "fct-type": "function",
-        "title": "NonEmpty"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "NonEmpty",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Non Empty",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:Point",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "Point",
-        "fct-source": "src/Grm-Prims.html#Point",
-        "fct-type": "function",
-        "title": "Point"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "Point",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Point",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:Separator",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "Separator",
-        "fct-source": "src/Grm-Prims.html#Terminator",
-        "fct-type": "function",
-        "title": "Separator"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "Separator",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Separator",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:Terminator",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "Terminator",
-        "fct-source": "src/Grm-Prims.html#Terminator",
-        "fct-type": "function",
-        "title": "Terminator"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "Terminator",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Terminator",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:Vert",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "Vert",
-        "fct-source": "src/Grm-Prims.html#Horiz",
-        "fct-type": "function",
-        "title": "Vert"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "Vert",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Vert",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:beginLoc",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "Loc",
-        "fct-source": "src/Grm-Prims.html#Point",
-        "fct-type": "function",
-        "title": "beginLoc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "beginLoc",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Loc",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:bitsToEncode",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "Integer -\u003e Integer",
-        "fct-source": "src/Grm-Prims.html#bitsToEncode",
-        "fct-type": "function",
-        "title": "bitsToEncode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "bitsToEncode",
-        "normalized": "Integer-\u003eInteger",
-        "package": "grm",
-        "partial": "To Encode",
-        "signature": "Integer-\u003eInteger"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:commaSep",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "[String] -\u003e String",
-        "fct-source": "src/Grm-Prims.html#commaSep",
-        "fct-type": "function",
-        "title": "commaSep"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "commaSep",
-        "normalized": "[String]-\u003eString",
-        "package": "grm",
-        "partial": "Sep",
-        "signature": "[String]-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:endLoc",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "Loc",
-        "fct-source": "src/Grm-Prims.html#Point",
-        "fct-type": "function",
-        "title": "endLoc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "endLoc",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Loc",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:findFile",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "[FilePath] -\u003e FilePath -\u003e IO (Maybe FilePath)",
-        "fct-source": "src/Grm-Prims.html#findFile",
-        "fct-type": "function",
-        "title": "findFile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "findFile",
-        "normalized": "[FilePath]-\u003eFilePath-\u003eIO(Maybe FilePath)",
-        "package": "grm",
-        "partial": "File",
-        "signature": "[FilePath]-\u003eFilePath-\u003eIO(Maybe FilePath)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:freshNm",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "IO String",
-        "fct-source": "src/Grm-Prims.html#freshNm",
-        "fct-type": "function",
-        "title": "freshNm"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "freshNm",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Nm",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:initLoc",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "FilePath -\u003e Loc",
-        "fct-source": "src/Grm-Prims.html#initLoc",
-        "fct-type": "function",
-        "title": "initLoc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "initLoc",
-        "normalized": "FilePath-\u003eLoc",
-        "package": "grm",
-        "partial": "Loc",
-        "signature": "FilePath-\u003eLoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:isBinary",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "String -\u003e Bool",
-        "fct-source": "src/Grm-Prims.html#isBinary",
-        "fct-type": "function",
-        "title": "isBinary"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "isBinary",
-        "normalized": "String-\u003eBool",
-        "package": "grm",
-        "partial": "Binary",
-        "signature": "String-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:isFloat",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "String -\u003e Bool",
-        "fct-source": "src/Grm-Prims.html#isFloat",
-        "fct-type": "function",
-        "title": "isFloat"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "isFloat",
-        "normalized": "String-\u003eBool",
-        "package": "grm",
-        "partial": "Float",
-        "signature": "String-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:isOctal",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "String -\u003e Bool",
-        "fct-source": "src/Grm-Prims.html#isOctal",
-        "fct-type": "function",
-        "title": "isOctal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "isOctal",
-        "normalized": "String-\u003eBool",
-        "package": "grm",
-        "partial": "Octal",
-        "signature": "String-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:locColumn",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "Int",
-        "fct-source": "src/Grm-Prims.html#Loc",
-        "fct-type": "function",
-        "title": "locColumn"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "locColumn",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Column",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:locFilePath",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "FilePath",
-        "fct-source": "src/Grm-Prims.html#Loc",
-        "fct-type": "function",
-        "title": "locFilePath"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "locFilePath",
-        "normalized": "",
-        "package": "grm",
-        "partial": "File Path",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:locLine",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "Int",
-        "fct-source": "src/Grm-Prims.html#Loc",
-        "fct-type": "function",
-        "title": "locLine"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "locLine",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Line",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:lowercase",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "String -\u003e String",
-        "fct-source": "src/Grm-Prims.html#lowercase",
-        "fct-type": "function",
-        "title": "lowercase"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "lowercase",
-        "normalized": "String-\u003eString",
-        "package": "grm",
-        "partial": "",
-        "signature": "String-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:lrPoint",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "[Point] -\u003e Point",
-        "fct-source": "src/Grm-Prims.html#lrPoint",
-        "fct-type": "function",
-        "title": "lrPoint"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "lrPoint",
-        "normalized": "[Point]-\u003ePoint",
-        "package": "grm",
-        "partial": "Point",
-        "signature": "[Point]-\u003ePoint"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:lrPointList",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "[m Point] -\u003e Point",
-        "fct-source": "src/Grm-Prims.html#lrPointList",
-        "fct-type": "function",
-        "title": "lrPointList"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "lrPointList",
-        "normalized": "[a Point]-\u003ePoint",
-        "package": "grm",
-        "partial": "Point List",
-        "signature": "[m Point]-\u003ePoint"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:meta",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "t a -\u003e a",
-        "fct-source": "src/Grm-Prims.html#meta",
-        "fct-type": "method",
-        "title": "meta"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "meta",
-        "normalized": "a b-\u003eb",
-        "package": "grm",
-        "partial": "",
-        "signature": "t a-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:mySystem",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "String -\u003e IO ()",
-        "fct-source": "src/Grm-Prims.html#mySystem",
-        "fct-type": "function",
-        "title": "mySystem"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "mySystem",
-        "normalized": "String-\u003eIO()",
-        "package": "grm",
-        "partial": "System",
-        "signature": "String-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:noLoc",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "Loc",
-        "fct-source": "src/Grm-Prims.html#noLoc",
-        "fct-type": "function",
-        "title": "noLoc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "noLoc",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Loc",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:noPoint",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "Point",
-        "fct-source": "src/Grm-Prims.html#noPoint",
-        "fct-type": "function",
-        "title": "noPoint"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "noPoint",
-        "normalized": "",
-        "package": "grm",
-        "partial": "Point",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:nubSort",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "[a] -\u003e [a]",
-        "fct-source": "src/Grm-Prims.html#nubSort",
-        "fct-type": "function",
-        "title": "nubSort"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "nubSort",
-        "normalized": "[a]-\u003e[a]",
-        "package": "grm",
-        "partial": "Sort",
-        "signature": "[a]-\u003e[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:panic",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "String -\u003e a",
-        "fct-source": "src/Grm-Prims.html#panic",
-        "fct-type": "function",
-        "title": "panic"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "panic",
-        "normalized": "String-\u003ea",
-        "package": "grm",
-        "partial": "",
-        "signature": "String-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:point",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "m Point -\u003e Point",
-        "fct-source": "src/Grm-Prims.html#point",
-        "fct-type": "function",
-        "title": "point"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "point",
-        "normalized": "a Point-\u003ePoint",
-        "package": "grm",
-        "partial": "",
-        "signature": "m Point-\u003ePoint"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:ppChar",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "Char -\u003e Doc",
-        "fct-source": "src/Grm-Prims.html#ppChar",
-        "fct-type": "function",
-        "title": "ppChar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "ppChar",
-        "normalized": "Char-\u003eDoc",
-        "package": "grm",
-        "partial": "Char",
-        "signature": "Char-\u003eDoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:ppDouble",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "Double -\u003e Doc",
-        "fct-source": "src/Grm-Prims.html#ppDouble",
-        "fct-type": "function",
-        "title": "ppDouble"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "ppDouble",
-        "normalized": "Double-\u003eDoc",
-        "package": "grm",
-        "partial": "Double",
-        "signature": "Double-\u003eDoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:ppErr",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "Loc -\u003e String -\u003e String",
-        "fct-source": "src/Grm-Prims.html#ppErr",
-        "fct-type": "function",
-        "title": "ppErr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "ppErr",
-        "normalized": "Loc-\u003eString-\u003eString",
-        "package": "grm",
-        "partial": "Err",
-        "signature": "Loc-\u003eString-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:ppInteger",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "Integer -\u003e Doc",
-        "fct-source": "src/Grm-Prims.html#ppInteger",
-        "fct-type": "function",
-        "title": "ppInteger"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "ppInteger",
-        "normalized": "Integer-\u003eDoc",
-        "package": "grm",
-        "partial": "Integer",
-        "signature": "Integer-\u003eDoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:ppLident",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "String -\u003e Doc",
-        "fct-source": "src/Grm-Prims.html#ppLident",
-        "fct-type": "function",
-        "title": "ppLident"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "ppLident",
-        "normalized": "String-\u003eDoc",
-        "package": "grm",
-        "partial": "Lident",
-        "signature": "String-\u003eDoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:ppList",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "(a -\u003e Doc) -\u003e Terminator -\u003e String -\u003e Horiz -\u003e [a] -\u003e Doc",
-        "fct-source": "src/Grm-Prims.html#ppList",
-        "fct-type": "function",
-        "title": "ppList"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "ppList",
-        "normalized": "(a-\u003eDoc)-\u003eTerminator-\u003eString-\u003eHoriz-\u003e[a]-\u003eDoc",
-        "package": "grm",
-        "partial": "List",
-        "signature": "(a-\u003eDoc)-\u003eTerminator-\u003eString-\u003eHoriz-\u003e[a]-\u003eDoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:ppLoc",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "Loc -\u003e String",
-        "fct-source": "src/Grm-Prims.html#ppLoc",
-        "fct-type": "function",
-        "title": "ppLoc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "ppLoc",
-        "normalized": "Loc-\u003eString",
-        "package": "grm",
-        "partial": "Loc",
-        "signature": "Loc-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:ppMlcode",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "String -\u003e Doc",
-        "fct-source": "src/Grm-Prims.html#ppMlcode",
-        "fct-type": "function",
-        "title": "ppMlcode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "ppMlcode",
-        "normalized": "String-\u003eDoc",
-        "package": "grm",
-        "partial": "Mlcode",
-        "signature": "String-\u003eDoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:ppNumber",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "Number -\u003e Doc",
-        "fct-source": "src/Grm-Prims.html#ppNumber",
-        "fct-type": "function",
-        "title": "ppNumber"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "ppNumber",
-        "normalized": "Number-\u003eDoc",
-        "package": "grm",
-        "partial": "Number",
-        "signature": "Number-\u003eDoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:ppShow",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "a -\u003e String",
-        "fct-source": "src/Grm-Prims.html#ppShow",
-        "fct-type": "function",
-        "title": "ppShow"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "ppShow",
-        "normalized": "a-\u003eString",
-        "package": "grm",
-        "partial": "Show",
-        "signature": "a-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:ppString",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "String -\u003e Doc",
-        "fct-source": "src/Grm-Prims.html#ppString",
-        "fct-type": "function",
-        "title": "ppString"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "ppString",
-        "normalized": "String-\u003eDoc",
-        "package": "grm",
-        "partial": "String",
-        "signature": "String-\u003eDoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:ppUident",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "String -\u003e Doc",
-        "fct-source": "src/Grm-Prims.html#ppUident",
-        "fct-type": "function",
-        "title": "ppUident"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "ppUident",
-        "normalized": "String-\u003eDoc",
-        "package": "grm",
-        "partial": "Uident",
-        "signature": "String-\u003eDoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:ppUsym",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "String -\u003e Doc",
-        "fct-source": "src/Grm-Prims.html#ppUsym",
-        "fct-type": "function",
-        "title": "ppUsym"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "ppUsym",
-        "normalized": "String-\u003eDoc",
-        "package": "grm",
-        "partial": "Usym",
-        "signature": "String-\u003eDoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:readBinary",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "String -\u003e Integer",
-        "fct-source": "src/Grm-Prims.html#readBinary",
-        "fct-type": "function",
-        "title": "readBinary"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "readBinary",
-        "normalized": "String-\u003eInteger",
-        "package": "grm",
-        "partial": "Binary",
-        "signature": "String-\u003eInteger"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:readNumber",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "Number -\u003e a",
-        "fct-source": "src/Grm-Prims.html#readNumber",
-        "fct-type": "function",
-        "title": "readNumber"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "readNumber",
-        "normalized": "Number-\u003ea",
-        "package": "grm",
-        "partial": "Number",
-        "signature": "Number-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:singleton",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "a -\u003e [a]",
-        "fct-source": "src/Grm-Prims.html#singleton",
-        "fct-type": "function",
-        "title": "singleton"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "singleton",
-        "normalized": "a-\u003e[a]",
-        "package": "grm",
-        "partial": "",
-        "signature": "a-\u003e[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:startLoc",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "m Point -\u003e Loc",
-        "fct-source": "src/Grm-Prims.html#startLoc",
-        "fct-type": "function",
-        "title": "startLoc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "startLoc",
-        "normalized": "a Point-\u003eLoc",
-        "package": "grm",
-        "partial": "Loc",
-        "signature": "m Point-\u003eLoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:stopLoc",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "m Point -\u003e Loc",
-        "fct-source": "src/Grm-Prims.html#stopLoc",
-        "fct-type": "function",
-        "title": "stopLoc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "stopLoc",
-        "normalized": "a Point-\u003eLoc",
-        "package": "grm",
-        "partial": "Loc",
-        "signature": "m Point-\u003eLoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:uId",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "a -\u003e String -\u003e String",
-        "fct-source": "src/Grm-Prims.html#uId",
-        "fct-type": "function",
-        "title": "uId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "uId",
-        "normalized": "a-\u003eString-\u003eString",
-        "package": "grm",
-        "partial": "Id",
-        "signature": "a-\u003eString-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:unreachable",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "a",
-        "fct-source": "src/Grm-Prims.html#unreachable",
-        "fct-type": "function",
-        "title": "unreachable"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "unreachable",
-        "normalized": "",
-        "package": "grm",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:unused",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "a",
-        "fct-source": "src/Grm-Prims.html#unused",
-        "fct-type": "function",
-        "title": "unused"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "unused",
-        "normalized": "",
-        "package": "grm",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:writeFileBinary",
-      "description": {
-        "fct-module": "Grm.Prims",
-        "fct-package": "grm",
-        "fct-signature": "FilePath -\u003e String -\u003e IO ()",
-        "fct-source": "src/Grm-Prims.html#writeFileBinary",
-        "fct-type": "function",
-        "title": "writeFileBinary"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Grm Prims",
-        "module": "Grm.Prims",
-        "name": "writeFileBinary",
-        "normalized": "FilePath-\u003eString-\u003eIO()",
-        "package": "grm",
-        "partial": "File Binary",
-        "signature": "FilePath-\u003eString-\u003eIO()"
-      }
-    }
-  }
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "grm"
+      },
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Layout",
+          "name": "Layout",
+          "package": "grm",
+          "source": "src/Grm-Layout.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Grm Layout",
+          "module": "Grm.Layout",
+          "name": "Layout",
+          "package": "grm",
+          "partial": "Layout",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Layout.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Layout",
+          "name": "layout",
+          "package": "grm",
+          "signature": "[Token Point] -\u003e [Token Point]",
+          "source": "src/Grm-Layout.html#layout",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Layout",
+          "module": "Grm.Layout",
+          "name": "layout",
+          "normalized": "[Token Point]-\u003e[Token Point]",
+          "package": "grm",
+          "signature": "[Token Point]-\u003e[Token Point]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Layout.html#v:layout"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Lex",
+          "name": "Lex",
+          "package": "grm",
+          "source": "src/Grm-Lex.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "Lex",
+          "package": "grm",
+          "partial": "Lex",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Lex",
+          "name": "Point",
+          "package": "grm",
+          "source": "src/Grm-Prims.html#Point",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "Point",
+          "package": "grm",
+          "partial": "Point",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#t:Point"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Lex",
+          "name": "Token",
+          "package": "grm",
+          "source": "src/Grm-Lex.html#Token",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "Token",
+          "package": "grm",
+          "partial": "Token",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#t:Token"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Grm.Lex\",\"Grm.Prims\"]",
+          "name": "Point",
+          "package": "grm",
+          "signature": "Point",
+          "source": "src/Grm-Prims.html#Point",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:Point\",\"http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:Point\"]"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "Point",
+          "package": "grm",
+          "partial": "Point",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:Point"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Lex",
+          "name": "TChar",
+          "package": "grm",
+          "signature": "TChar a Char",
+          "source": "src/Grm-Lex.html#Token",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "TChar",
+          "package": "grm",
+          "partial": "TChar",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:TChar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Lex",
+          "name": "TLident",
+          "package": "grm",
+          "signature": "TLident a String",
+          "source": "src/Grm-Lex.html#Token",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "TLident",
+          "package": "grm",
+          "partial": "TLident",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:TLident"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Lex",
+          "name": "TMLComment",
+          "package": "grm",
+          "signature": "TMLComment a String",
+          "source": "src/Grm-Lex.html#Token",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "TMLComment",
+          "package": "grm",
+          "partial": "TMLComment",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:TMLComment"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Lex",
+          "name": "TNumber",
+          "package": "grm",
+          "signature": "TNumber a String",
+          "source": "src/Grm-Lex.html#Token",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "TNumber",
+          "package": "grm",
+          "partial": "TNumber",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:TNumber"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Lex",
+          "name": "TSLComment",
+          "package": "grm",
+          "signature": "TSLComment a String",
+          "source": "src/Grm-Lex.html#Token",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "TSLComment",
+          "package": "grm",
+          "partial": "TSLComment",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:TSLComment"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Lex",
+          "name": "TString",
+          "package": "grm",
+          "signature": "TString a String",
+          "source": "src/Grm-Lex.html#Token",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "TString",
+          "package": "grm",
+          "partial": "TString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:TString"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Lex",
+          "name": "TSymbol",
+          "package": "grm",
+          "signature": "TSymbol a String",
+          "source": "src/Grm-Lex.html#Token",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "TSymbol",
+          "package": "grm",
+          "partial": "TSymbol",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:TSymbol"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Lex",
+          "name": "TUident",
+          "package": "grm",
+          "signature": "TUident a String",
+          "source": "src/Grm-Lex.html#Token",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "TUident",
+          "package": "grm",
+          "partial": "TUident",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:TUident"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Lex",
+          "name": "TUsym",
+          "package": "grm",
+          "signature": "TUsym a String",
+          "source": "src/Grm-Lex.html#Token",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "TUsym",
+          "package": "grm",
+          "partial": "TUsym",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:TUsym"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Lex",
+          "name": "TWhitespace",
+          "package": "grm",
+          "signature": "TWhitespace a String",
+          "source": "src/Grm-Lex.html#Token",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "TWhitespace",
+          "package": "grm",
+          "partial": "TWhitespace",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:TWhitespace"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Grm.Lex\",\"Grm.Prims\"]",
+          "name": "beginLoc",
+          "package": "grm",
+          "signature": "Loc",
+          "source": "src/Grm-Prims.html#Point",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:beginLoc\",\"http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:beginLoc\"]"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "beginLoc",
+          "package": "grm",
+          "partial": "Loc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:beginLoc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Grm.Lex\",\"Grm.Prims\"]",
+          "name": "endLoc",
+          "package": "grm",
+          "signature": "Loc",
+          "source": "src/Grm-Prims.html#Point",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:endLoc\",\"http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:endLoc\"]"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "endLoc",
+          "package": "grm",
+          "partial": "Loc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:endLoc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Lex",
+          "name": "happyError",
+          "package": "grm",
+          "signature": "[Token Point] -\u003e a",
+          "source": "src/Grm-Lex.html#happyError",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "happyError",
+          "normalized": "[Token Point]-\u003ea",
+          "package": "grm",
+          "partial": "Error",
+          "signature": "[Token Point]-\u003ea",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:happyError"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Lex",
+          "name": "lexContents",
+          "package": "grm",
+          "signature": "[String] -\u003e FilePath -\u003e String -\u003e IO [Token Point]",
+          "source": "src/Grm-Lex.html#lexContents",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "lexContents",
+          "normalized": "[String]-\u003eFilePath-\u003eString-\u003eIO[Token Point]",
+          "package": "grm",
+          "partial": "Contents",
+          "signature": "[String]-\u003eFilePath-\u003eString-\u003eIO[Token Point]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:lexContents"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Lex",
+          "name": "lexFilePath",
+          "package": "grm",
+          "signature": "[String] -\u003e FilePath -\u003e IO [Token Point]",
+          "source": "src/Grm-Lex.html#lexFilePath",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "lexFilePath",
+          "normalized": "[String]-\u003eFilePath-\u003eIO[Token Point]",
+          "package": "grm",
+          "partial": "File Path",
+          "signature": "[String]-\u003eFilePath-\u003eIO[Token Point]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:lexFilePath"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Lex",
+          "name": "notWSToken",
+          "package": "grm",
+          "signature": "Token t -\u003e Bool",
+          "source": "src/Grm-Lex.html#notWSToken",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "notWSToken",
+          "normalized": "Token a-\u003eBool",
+          "package": "grm",
+          "partial": "WSToken",
+          "signature": "Token t-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:notWSToken"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Lex",
+          "name": "ppToken",
+          "package": "grm",
+          "signature": "Token a -\u003e Doc",
+          "source": "src/Grm-Lex.html#ppToken",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "ppToken",
+          "normalized": "Token a-\u003eDoc",
+          "package": "grm",
+          "partial": "Token",
+          "signature": "Token a-\u003eDoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:ppToken"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Lex",
+          "name": "ppTokenList",
+          "package": "grm",
+          "signature": "[Token a] -\u003e Doc",
+          "source": "src/Grm-Lex.html#ppTokenList",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "ppTokenList",
+          "normalized": "[Token a]-\u003eDoc",
+          "package": "grm",
+          "partial": "Token List",
+          "signature": "[Token a]-\u003eDoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:ppTokenList"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Lex",
+          "name": "unTChar",
+          "package": "grm",
+          "signature": "Token t -\u003e Char",
+          "source": "src/Grm-Lex.html#unTChar",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "unTChar",
+          "normalized": "Token a-\u003eChar",
+          "package": "grm",
+          "partial": "TChar",
+          "signature": "Token t-\u003eChar",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:unTChar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Lex",
+          "name": "unTLident",
+          "package": "grm",
+          "signature": "Token t -\u003e String",
+          "source": "src/Grm-Lex.html#unTLident",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "unTLident",
+          "normalized": "Token a-\u003eString",
+          "package": "grm",
+          "partial": "TLident",
+          "signature": "Token t-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:unTLident"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Lex",
+          "name": "unTMLComment",
+          "package": "grm",
+          "signature": "Token t -\u003e String",
+          "source": "src/Grm-Lex.html#unTMLComment",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "unTMLComment",
+          "normalized": "Token a-\u003eString",
+          "package": "grm",
+          "partial": "TMLComment",
+          "signature": "Token t-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:unTMLComment"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Lex",
+          "name": "unTNumber",
+          "package": "grm",
+          "signature": "Token t -\u003e String",
+          "source": "src/Grm-Lex.html#unTNumber",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "unTNumber",
+          "normalized": "Token a-\u003eString",
+          "package": "grm",
+          "partial": "TNumber",
+          "signature": "Token t-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:unTNumber"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Lex",
+          "name": "unTSLComment",
+          "package": "grm",
+          "signature": "Token t -\u003e String",
+          "source": "src/Grm-Lex.html#unTSLComment",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "unTSLComment",
+          "normalized": "Token a-\u003eString",
+          "package": "grm",
+          "partial": "TSLComment",
+          "signature": "Token t-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:unTSLComment"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Lex",
+          "name": "unTString",
+          "package": "grm",
+          "signature": "Token t -\u003e String",
+          "source": "src/Grm-Lex.html#unTString",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "unTString",
+          "normalized": "Token a-\u003eString",
+          "package": "grm",
+          "partial": "TString",
+          "signature": "Token t-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:unTString"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Lex",
+          "name": "unTSymbol",
+          "package": "grm",
+          "signature": "Token t -\u003e String",
+          "source": "src/Grm-Lex.html#unTSymbol",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "unTSymbol",
+          "normalized": "Token a-\u003eString",
+          "package": "grm",
+          "partial": "TSymbol",
+          "signature": "Token t-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:unTSymbol"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Lex",
+          "name": "unTUident",
+          "package": "grm",
+          "signature": "Token t -\u003e String",
+          "source": "src/Grm-Lex.html#unTUident",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "unTUident",
+          "normalized": "Token a-\u003eString",
+          "package": "grm",
+          "partial": "TUident",
+          "signature": "Token t-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:unTUident"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Lex",
+          "name": "unTUsym",
+          "package": "grm",
+          "signature": "Token t -\u003e String",
+          "source": "src/Grm-Lex.html#unTUsym",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "unTUsym",
+          "normalized": "Token a-\u003eString",
+          "package": "grm",
+          "partial": "TUsym",
+          "signature": "Token t-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:unTUsym"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Lex",
+          "name": "unTWhitespace",
+          "package": "grm",
+          "signature": "Token t -\u003e String",
+          "source": "src/Grm-Lex.html#unTWhitespace",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Lex",
+          "module": "Grm.Lex",
+          "name": "unTWhitespace",
+          "normalized": "Token a-\u003eString",
+          "package": "grm",
+          "partial": "TWhitespace",
+          "signature": "Token t-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Lex.html#v:unTWhitespace"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "Prims",
+          "package": "grm",
+          "source": "src/Grm-Prims.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "Prims",
+          "package": "grm",
+          "partial": "Prims",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "Empty",
+          "package": "grm",
+          "source": "src/Grm-Prims.html#Empty",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "Empty",
+          "package": "grm",
+          "partial": "Empty",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#t:Empty"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "HasMeta",
+          "package": "grm",
+          "source": "src/Grm-Prims.html#HasMeta",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "HasMeta",
+          "package": "grm",
+          "partial": "Has Meta",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#t:HasMeta"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "Horiz",
+          "package": "grm",
+          "source": "src/Grm-Prims.html#Horiz",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "Horiz",
+          "package": "grm",
+          "partial": "Horiz",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#t:Horiz"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "Lident",
+          "package": "grm",
+          "source": "src/Grm-Prims.html#Lident",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "Lident",
+          "package": "grm",
+          "partial": "Lident",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#t:Lident"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "Loc",
+          "package": "grm",
+          "source": "src/Grm-Prims.html#Loc",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "Loc",
+          "package": "grm",
+          "partial": "Loc",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#t:Loc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "Mlcode",
+          "package": "grm",
+          "source": "src/Grm-Prims.html#Mlcode",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "Mlcode",
+          "package": "grm",
+          "partial": "Mlcode",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#t:Mlcode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "Number",
+          "package": "grm",
+          "source": "src/Grm-Prims.html#Number",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "Number",
+          "package": "grm",
+          "partial": "Number",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#t:Number"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "Point",
+          "package": "grm",
+          "source": "src/Grm-Prims.html#Point",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "Point",
+          "package": "grm",
+          "partial": "Point",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#t:Point"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "Terminator",
+          "package": "grm",
+          "source": "src/Grm-Prims.html#Terminator",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "Terminator",
+          "package": "grm",
+          "partial": "Terminator",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#t:Terminator"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "Uident",
+          "package": "grm",
+          "source": "src/Grm-Prims.html#Uident",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "Uident",
+          "package": "grm",
+          "partial": "Uident",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#t:Uident"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "Usym",
+          "package": "grm",
+          "source": "src/Grm-Prims.html#Usym",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "Usym",
+          "package": "grm",
+          "partial": "Usym",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#t:Usym"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "Empty",
+          "package": "grm",
+          "signature": "Empty",
+          "source": "src/Grm-Prims.html#Empty",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "Empty",
+          "package": "grm",
+          "partial": "Empty",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:Empty"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "Horiz",
+          "package": "grm",
+          "signature": "Horiz",
+          "source": "src/Grm-Prims.html#Horiz",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "Horiz",
+          "package": "grm",
+          "partial": "Horiz",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:Horiz"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "Loc",
+          "package": "grm",
+          "signature": "Loc",
+          "source": "src/Grm-Prims.html#Loc",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "Loc",
+          "package": "grm",
+          "partial": "Loc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:Loc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "NonEmpty",
+          "package": "grm",
+          "signature": "NonEmpty",
+          "source": "src/Grm-Prims.html#Empty",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "NonEmpty",
+          "package": "grm",
+          "partial": "Non Empty",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:NonEmpty"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "Separator",
+          "package": "grm",
+          "signature": "Separator",
+          "source": "src/Grm-Prims.html#Terminator",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "Separator",
+          "package": "grm",
+          "partial": "Separator",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:Separator"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "Terminator",
+          "package": "grm",
+          "signature": "Terminator",
+          "source": "src/Grm-Prims.html#Terminator",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "Terminator",
+          "package": "grm",
+          "partial": "Terminator",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:Terminator"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "Vert",
+          "package": "grm",
+          "signature": "Vert",
+          "source": "src/Grm-Prims.html#Horiz",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "Vert",
+          "package": "grm",
+          "partial": "Vert",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:Vert"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "bitsToEncode",
+          "package": "grm",
+          "signature": "Integer -\u003e Integer",
+          "source": "src/Grm-Prims.html#bitsToEncode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "bitsToEncode",
+          "normalized": "Integer-\u003eInteger",
+          "package": "grm",
+          "partial": "To Encode",
+          "signature": "Integer-\u003eInteger",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:bitsToEncode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "commaSep",
+          "package": "grm",
+          "signature": "[String] -\u003e String",
+          "source": "src/Grm-Prims.html#commaSep",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "commaSep",
+          "normalized": "[String]-\u003eString",
+          "package": "grm",
+          "partial": "Sep",
+          "signature": "[String]-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:commaSep"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "findFile",
+          "package": "grm",
+          "signature": "[FilePath] -\u003e FilePath -\u003e IO (Maybe FilePath)",
+          "source": "src/Grm-Prims.html#findFile",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "findFile",
+          "normalized": "[FilePath]-\u003eFilePath-\u003eIO(Maybe FilePath)",
+          "package": "grm",
+          "partial": "File",
+          "signature": "[FilePath]-\u003eFilePath-\u003eIO(Maybe FilePath)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:findFile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "freshNm",
+          "package": "grm",
+          "signature": "IO String",
+          "source": "src/Grm-Prims.html#freshNm",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "freshNm",
+          "package": "grm",
+          "partial": "Nm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:freshNm"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "initLoc",
+          "package": "grm",
+          "signature": "FilePath -\u003e Loc",
+          "source": "src/Grm-Prims.html#initLoc",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "initLoc",
+          "normalized": "FilePath-\u003eLoc",
+          "package": "grm",
+          "partial": "Loc",
+          "signature": "FilePath-\u003eLoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:initLoc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "isBinary",
+          "package": "grm",
+          "signature": "String -\u003e Bool",
+          "source": "src/Grm-Prims.html#isBinary",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "isBinary",
+          "normalized": "String-\u003eBool",
+          "package": "grm",
+          "partial": "Binary",
+          "signature": "String-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:isBinary"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "isFloat",
+          "package": "grm",
+          "signature": "String -\u003e Bool",
+          "source": "src/Grm-Prims.html#isFloat",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "isFloat",
+          "normalized": "String-\u003eBool",
+          "package": "grm",
+          "partial": "Float",
+          "signature": "String-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:isFloat"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "isOctal",
+          "package": "grm",
+          "signature": "String -\u003e Bool",
+          "source": "src/Grm-Prims.html#isOctal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "isOctal",
+          "normalized": "String-\u003eBool",
+          "package": "grm",
+          "partial": "Octal",
+          "signature": "String-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:isOctal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "locColumn",
+          "package": "grm",
+          "signature": "Int",
+          "source": "src/Grm-Prims.html#Loc",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "locColumn",
+          "package": "grm",
+          "partial": "Column",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:locColumn"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "locFilePath",
+          "package": "grm",
+          "signature": "FilePath",
+          "source": "src/Grm-Prims.html#Loc",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "locFilePath",
+          "package": "grm",
+          "partial": "File Path",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:locFilePath"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "locLine",
+          "package": "grm",
+          "signature": "Int",
+          "source": "src/Grm-Prims.html#Loc",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "locLine",
+          "package": "grm",
+          "partial": "Line",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:locLine"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "lowercase",
+          "package": "grm",
+          "signature": "String -\u003e String",
+          "source": "src/Grm-Prims.html#lowercase",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "lowercase",
+          "normalized": "String-\u003eString",
+          "package": "grm",
+          "signature": "String-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:lowercase"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "lrPoint",
+          "package": "grm",
+          "signature": "[Point] -\u003e Point",
+          "source": "src/Grm-Prims.html#lrPoint",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "lrPoint",
+          "normalized": "[Point]-\u003ePoint",
+          "package": "grm",
+          "partial": "Point",
+          "signature": "[Point]-\u003ePoint",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:lrPoint"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "lrPointList",
+          "package": "grm",
+          "signature": "[m Point] -\u003e Point",
+          "source": "src/Grm-Prims.html#lrPointList",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "lrPointList",
+          "normalized": "[a Point]-\u003ePoint",
+          "package": "grm",
+          "partial": "Point List",
+          "signature": "[m Point]-\u003ePoint",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:lrPointList"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "meta",
+          "package": "grm",
+          "signature": "t a -\u003e a",
+          "source": "src/Grm-Prims.html#meta",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "meta",
+          "normalized": "a b-\u003eb",
+          "package": "grm",
+          "signature": "t a-\u003ea",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:meta"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "mySystem",
+          "package": "grm",
+          "signature": "String -\u003e IO ()",
+          "source": "src/Grm-Prims.html#mySystem",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "mySystem",
+          "normalized": "String-\u003eIO()",
+          "package": "grm",
+          "partial": "System",
+          "signature": "String-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:mySystem"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "noLoc",
+          "package": "grm",
+          "signature": "Loc",
+          "source": "src/Grm-Prims.html#noLoc",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "noLoc",
+          "package": "grm",
+          "partial": "Loc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:noLoc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "noPoint",
+          "package": "grm",
+          "signature": "Point",
+          "source": "src/Grm-Prims.html#noPoint",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "noPoint",
+          "package": "grm",
+          "partial": "Point",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:noPoint"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "nubSort",
+          "package": "grm",
+          "signature": "[a] -\u003e [a]",
+          "source": "src/Grm-Prims.html#nubSort",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "nubSort",
+          "normalized": "[a]-\u003e[a]",
+          "package": "grm",
+          "partial": "Sort",
+          "signature": "[a]-\u003e[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:nubSort"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "panic",
+          "package": "grm",
+          "signature": "String -\u003e a",
+          "source": "src/Grm-Prims.html#panic",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "panic",
+          "normalized": "String-\u003ea",
+          "package": "grm",
+          "signature": "String-\u003ea",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:panic"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "point",
+          "package": "grm",
+          "signature": "m Point -\u003e Point",
+          "source": "src/Grm-Prims.html#point",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "point",
+          "normalized": "a Point-\u003ePoint",
+          "package": "grm",
+          "signature": "m Point-\u003ePoint",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:point"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "ppChar",
+          "package": "grm",
+          "signature": "Char -\u003e Doc",
+          "source": "src/Grm-Prims.html#ppChar",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "ppChar",
+          "normalized": "Char-\u003eDoc",
+          "package": "grm",
+          "partial": "Char",
+          "signature": "Char-\u003eDoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:ppChar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "ppDouble",
+          "package": "grm",
+          "signature": "Double -\u003e Doc",
+          "source": "src/Grm-Prims.html#ppDouble",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "ppDouble",
+          "normalized": "Double-\u003eDoc",
+          "package": "grm",
+          "partial": "Double",
+          "signature": "Double-\u003eDoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:ppDouble"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "ppErr",
+          "package": "grm",
+          "signature": "Loc -\u003e String -\u003e String",
+          "source": "src/Grm-Prims.html#ppErr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "ppErr",
+          "normalized": "Loc-\u003eString-\u003eString",
+          "package": "grm",
+          "partial": "Err",
+          "signature": "Loc-\u003eString-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:ppErr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "ppInteger",
+          "package": "grm",
+          "signature": "Integer -\u003e Doc",
+          "source": "src/Grm-Prims.html#ppInteger",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "ppInteger",
+          "normalized": "Integer-\u003eDoc",
+          "package": "grm",
+          "partial": "Integer",
+          "signature": "Integer-\u003eDoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:ppInteger"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "ppLident",
+          "package": "grm",
+          "signature": "String -\u003e Doc",
+          "source": "src/Grm-Prims.html#ppLident",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "ppLident",
+          "normalized": "String-\u003eDoc",
+          "package": "grm",
+          "partial": "Lident",
+          "signature": "String-\u003eDoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:ppLident"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "ppList",
+          "package": "grm",
+          "signature": "(a -\u003e Doc) -\u003e Terminator -\u003e String -\u003e Horiz -\u003e [a] -\u003e Doc",
+          "source": "src/Grm-Prims.html#ppList",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "ppList",
+          "normalized": "(a-\u003eDoc)-\u003eTerminator-\u003eString-\u003eHoriz-\u003e[a]-\u003eDoc",
+          "package": "grm",
+          "partial": "List",
+          "signature": "(a-\u003eDoc)-\u003eTerminator-\u003eString-\u003eHoriz-\u003e[a]-\u003eDoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:ppList"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "ppLoc",
+          "package": "grm",
+          "signature": "Loc -\u003e String",
+          "source": "src/Grm-Prims.html#ppLoc",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "ppLoc",
+          "normalized": "Loc-\u003eString",
+          "package": "grm",
+          "partial": "Loc",
+          "signature": "Loc-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:ppLoc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "ppMlcode",
+          "package": "grm",
+          "signature": "String -\u003e Doc",
+          "source": "src/Grm-Prims.html#ppMlcode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "ppMlcode",
+          "normalized": "String-\u003eDoc",
+          "package": "grm",
+          "partial": "Mlcode",
+          "signature": "String-\u003eDoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:ppMlcode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "ppNumber",
+          "package": "grm",
+          "signature": "Number -\u003e Doc",
+          "source": "src/Grm-Prims.html#ppNumber",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "ppNumber",
+          "normalized": "Number-\u003eDoc",
+          "package": "grm",
+          "partial": "Number",
+          "signature": "Number-\u003eDoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:ppNumber"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "ppShow",
+          "package": "grm",
+          "signature": "a -\u003e String",
+          "source": "src/Grm-Prims.html#ppShow",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "ppShow",
+          "normalized": "a-\u003eString",
+          "package": "grm",
+          "partial": "Show",
+          "signature": "a-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:ppShow"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "ppString",
+          "package": "grm",
+          "signature": "String -\u003e Doc",
+          "source": "src/Grm-Prims.html#ppString",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "ppString",
+          "normalized": "String-\u003eDoc",
+          "package": "grm",
+          "partial": "String",
+          "signature": "String-\u003eDoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:ppString"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "ppUident",
+          "package": "grm",
+          "signature": "String -\u003e Doc",
+          "source": "src/Grm-Prims.html#ppUident",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "ppUident",
+          "normalized": "String-\u003eDoc",
+          "package": "grm",
+          "partial": "Uident",
+          "signature": "String-\u003eDoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:ppUident"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "ppUsym",
+          "package": "grm",
+          "signature": "String -\u003e Doc",
+          "source": "src/Grm-Prims.html#ppUsym",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "ppUsym",
+          "normalized": "String-\u003eDoc",
+          "package": "grm",
+          "partial": "Usym",
+          "signature": "String-\u003eDoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:ppUsym"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "readBinary",
+          "package": "grm",
+          "signature": "String -\u003e Integer",
+          "source": "src/Grm-Prims.html#readBinary",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "readBinary",
+          "normalized": "String-\u003eInteger",
+          "package": "grm",
+          "partial": "Binary",
+          "signature": "String-\u003eInteger",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:readBinary"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "readNumber",
+          "package": "grm",
+          "signature": "Number -\u003e a",
+          "source": "src/Grm-Prims.html#readNumber",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "readNumber",
+          "normalized": "Number-\u003ea",
+          "package": "grm",
+          "partial": "Number",
+          "signature": "Number-\u003ea",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:readNumber"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "singleton",
+          "package": "grm",
+          "signature": "a -\u003e [a]",
+          "source": "src/Grm-Prims.html#singleton",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "singleton",
+          "normalized": "a-\u003e[a]",
+          "package": "grm",
+          "signature": "a-\u003e[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:singleton"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "startLoc",
+          "package": "grm",
+          "signature": "m Point -\u003e Loc",
+          "source": "src/Grm-Prims.html#startLoc",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "startLoc",
+          "normalized": "a Point-\u003eLoc",
+          "package": "grm",
+          "partial": "Loc",
+          "signature": "m Point-\u003eLoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:startLoc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "stopLoc",
+          "package": "grm",
+          "signature": "m Point -\u003e Loc",
+          "source": "src/Grm-Prims.html#stopLoc",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "stopLoc",
+          "normalized": "a Point-\u003eLoc",
+          "package": "grm",
+          "partial": "Loc",
+          "signature": "m Point-\u003eLoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:stopLoc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "uId",
+          "package": "grm",
+          "signature": "a -\u003e String -\u003e String",
+          "source": "src/Grm-Prims.html#uId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "uId",
+          "normalized": "a-\u003eString-\u003eString",
+          "package": "grm",
+          "partial": "Id",
+          "signature": "a-\u003eString-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:uId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "unreachable",
+          "package": "grm",
+          "signature": "a",
+          "source": "src/Grm-Prims.html#unreachable",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "unreachable",
+          "package": "grm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:unreachable"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "unused",
+          "package": "grm",
+          "signature": "a",
+          "source": "src/Grm-Prims.html#unused",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "unused",
+          "package": "grm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:unused"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Grm.Prims",
+          "name": "writeFileBinary",
+          "package": "grm",
+          "signature": "FilePath -\u003e String -\u003e IO ()",
+          "source": "src/Grm-Prims.html#writeFileBinary",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Grm Prims",
+          "module": "Grm.Prims",
+          "name": "writeFileBinary",
+          "normalized": "FilePath-\u003eString-\u003eIO()",
+          "package": "grm",
+          "partial": "File Binary",
+          "signature": "FilePath-\u003eString-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grm/docs/Grm-Prims.html#v:writeFileBinary"
+      }
+    }
+  ]
 ]

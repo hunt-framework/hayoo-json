@@ -1,1662 +1,1565 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "module",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html",
-        "fct-type": "module",
-        "title": "AST"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "AST",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "AST",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#t:AST",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "type",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#AST",
-        "fct-type": "type",
-        "title": "AST"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "AST",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "AST",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#t:Expr",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "data",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#Expr",
-        "fct-type": "data",
-        "title": "Expr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "Expr",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "Expr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#t:Forth",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "data",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#Forth",
-        "fct-type": "data",
-        "title": "Forth"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "Forth",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "Forth",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#t:Operator",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "data",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#Operator",
-        "fct-type": "data",
-        "title": "Operator"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "Operator",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "Operator",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#t:UOperator",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "data",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#UOperator",
-        "fct-type": "data",
-        "title": "UOperator"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "UOperator",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "UOperator",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:-33-",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "AST -\u003e AST -\u003e AST",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#%21",
-        "fct-type": "function",
-        "title": "(!)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "(!) !",
-        "normalized": "AST-\u003eAST-\u003eAST",
-        "package": "forth-hll",
-        "partial": "",
-        "signature": "AST-\u003eAST-\u003eAST"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:-47--61-",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "AST -\u003e AST -\u003e AST",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#%2F%3D",
-        "fct-type": "function",
-        "title": "(/=)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "(/=) /=",
-        "normalized": "AST-\u003eAST-\u003eAST",
-        "package": "forth-hll",
-        "partial": "",
-        "signature": "AST-\u003eAST-\u003eAST"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:-60-",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "AST -\u003e AST -\u003e AST",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#%3C",
-        "fct-type": "function",
-        "title": "(\u003c)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "(\u003c) \u003c",
-        "normalized": "AST-\u003eAST-\u003eAST",
-        "package": "forth-hll",
-        "partial": "",
-        "signature": "AST-\u003eAST-\u003eAST"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:-60--61-",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "AST -\u003e AST -\u003e AST",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#%3C%3D",
-        "fct-type": "function",
-        "title": "(\u003c=)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "(\u003c=) \u003c=",
-        "normalized": "AST-\u003eAST-\u003eAST",
-        "package": "forth-hll",
-        "partial": "",
-        "signature": "AST-\u003eAST-\u003eAST"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:-61--61-",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "AST -\u003e AST -\u003e AST",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#%3D%3D",
-        "fct-type": "function",
-        "title": "(==)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "(==) ==",
-        "normalized": "AST-\u003eAST-\u003eAST",
-        "package": "forth-hll",
-        "partial": "",
-        "signature": "AST-\u003eAST-\u003eAST"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:-61-:",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "AST -\u003e AST -\u003e AST",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#%3D%3A",
-        "fct-type": "function",
-        "title": "(=:)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "(=:) =:",
-        "normalized": "AST-\u003eAST-\u003eAST",
-        "package": "forth-hll",
-        "partial": "",
-        "signature": "AST-\u003eAST-\u003eAST"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:-62-",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "AST -\u003e AST -\u003e AST",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#%3E",
-        "fct-type": "function",
-        "title": "(\u003e)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "(\u003e) \u003e",
-        "normalized": "AST-\u003eAST-\u003eAST",
-        "package": "forth-hll",
-        "partial": "",
-        "signature": "AST-\u003eAST-\u003eAST"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:-62--61-",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "AST -\u003e AST -\u003e AST",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#%3E%3D",
-        "fct-type": "function",
-        "title": "(\u003e=)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "(\u003e=) \u003e=",
-        "normalized": "AST-\u003eAST-\u003eAST",
-        "package": "forth-hll",
-        "partial": "",
-        "signature": "AST-\u003eAST-\u003eAST"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:-8800-",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "AST -\u003e AST -\u003e AST",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#%2260",
-        "fct-type": "function",
-        "title": "(≠)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "(≠) ≠",
-        "normalized": "AST-\u003eAST-\u003eAST",
-        "package": "forth-hll",
-        "partial": "",
-        "signature": "AST-\u003eAST-\u003eAST"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:-8804-",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "AST -\u003e AST -\u003e AST",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#%2264",
-        "fct-type": "function",
-        "title": "(≤)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "(≤) ≤",
-        "normalized": "AST-\u003eAST-\u003eAST",
-        "package": "forth-hll",
-        "partial": "",
-        "signature": "AST-\u003eAST-\u003eAST"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:-8805-",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "AST -\u003e AST -\u003e AST",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#%2265",
-        "fct-type": "function",
-        "title": "(≥)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "(≥) ≥",
-        "normalized": "AST-\u003eAST-\u003eAST",
-        "package": "forth-hll",
-        "partial": "",
-        "signature": "AST-\u003eAST-\u003eAST"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Add",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "Add",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#Operator",
-        "fct-type": "function",
-        "title": "Add"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "Add",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "Add",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Array",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "Array String [F18Word]",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#Expr",
-        "fct-type": "function",
-        "title": "Array"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "Array",
-        "normalized": "Array String[F Word]",
-        "package": "forth-hll",
-        "partial": "Array",
-        "signature": "Array String[F Word]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:ArrayRef",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "ArrayRef String",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#Expr",
-        "fct-type": "function",
-        "title": "ArrayRef"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "ArrayRef",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "Array Ref",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Eq",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "Eq",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#Operator",
-        "fct-type": "function",
-        "title": "Eq"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "Eq",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "Eq",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Fold",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "Fold AST AST AST AST",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#Expr",
-        "fct-type": "function",
-        "title": "Fold"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "Fold",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "Fold",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:For",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "For AST AST AST",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#Expr",
-        "fct-type": "function",
-        "title": "For"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "For",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "For",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Forth",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "Forth Expr next",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#Forth",
-        "fct-type": "function",
-        "title": "Forth"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "Forth",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "Forth",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Get",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "Get",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#UOperator",
-        "fct-type": "function",
-        "title": "Get"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "Get",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "Get",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Gt",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "Gt",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#Operator",
-        "fct-type": "function",
-        "title": "Gt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "Gt",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "Gt",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:GtE",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "GtE",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#Operator",
-        "fct-type": "function",
-        "title": "GtE"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "GtE",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "Gt",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:If",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "If AST AST AST",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#Expr",
-        "fct-type": "function",
-        "title": "If"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "If",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "If",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Lt",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "Lt",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#Operator",
-        "fct-type": "function",
-        "title": "Lt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "Lt",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "Lt",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:LtE",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "LtE",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#Operator",
-        "fct-type": "function",
-        "title": "LtE"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "LtE",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "Lt",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Map",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "Map AST AST AST",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#Expr",
-        "fct-type": "function",
-        "title": "Map"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "Map",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "Map",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Mul",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "Mul",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#Operator",
-        "fct-type": "function",
-        "title": "Mul"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "Mul",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "Mul",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:NEq",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "NEq",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#Operator",
-        "fct-type": "function",
-        "title": "NEq"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "NEq",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "NEq",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Neg",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "Neg",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#UOperator",
-        "fct-type": "function",
-        "title": "Neg"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "Neg",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "Neg",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Nil",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "Nil",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#Expr",
-        "fct-type": "function",
-        "title": "Nil"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "Nil",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "Nil",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Not",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "Not",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#UOperator",
-        "fct-type": "function",
-        "title": "Not"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "Not",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "Not",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Num",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "Num F18Word",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#Expr",
-        "fct-type": "function",
-        "title": "Num"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "Num",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "Num",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Op",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "Op Operator AST AST",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#Expr",
-        "fct-type": "function",
-        "title": "Op"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "Op",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "Op",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Set",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "Set",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#Operator",
-        "fct-type": "function",
-        "title": "Set"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "Set",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "Set",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Sub",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "Sub",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#Operator",
-        "fct-type": "function",
-        "title": "Sub"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "Sub",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "Sub",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:UOp",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "UOp UOperator AST",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#Expr",
-        "fct-type": "function",
-        "title": "UOp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "UOp",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "UOp",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:While",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "While AST AST",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#Expr",
-        "fct-type": "function",
-        "title": "While"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "While",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "While",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:array",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "String -\u003e [F18Word] -\u003e AST",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#array",
-        "fct-type": "function",
-        "title": "array"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "array",
-        "normalized": "String-\u003e[F Word]-\u003eAST",
-        "package": "forth-hll",
-        "partial": "",
-        "signature": "String-\u003e[F Word]-\u003eAST"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:fold",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "AST -\u003e AST -\u003e AST -\u003e AST -\u003e AST",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#fold",
-        "fct-type": "function",
-        "title": "fold"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "fold",
-        "normalized": "AST-\u003eAST-\u003eAST-\u003eAST-\u003eAST",
-        "package": "forth-hll",
-        "partial": "",
-        "signature": "AST-\u003eAST-\u003eAST-\u003eAST-\u003eAST"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:for",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "AST -\u003e AST -\u003e AST -\u003e AST",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#for",
-        "fct-type": "function",
-        "title": "for"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "for",
-        "normalized": "AST-\u003eAST-\u003eAST-\u003eAST",
-        "package": "forth-hll",
-        "partial": "",
-        "signature": "AST-\u003eAST-\u003eAST-\u003eAST"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:ifThenElse",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "AST -\u003e AST -\u003e AST -\u003e AST",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#ifThenElse",
-        "fct-type": "function",
-        "title": "ifThenElse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "ifThenElse",
-        "normalized": "AST-\u003eAST-\u003eAST-\u003eAST",
-        "package": "forth-hll",
-        "partial": "Then Else",
-        "signature": "AST-\u003eAST-\u003eAST-\u003eAST"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:liftExpr",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "Expr -\u003e AST",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#liftExpr",
-        "fct-type": "function",
-        "title": "liftExpr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "liftExpr",
-        "normalized": "Expr-\u003eAST",
-        "package": "forth-hll",
-        "partial": "Expr",
-        "signature": "Expr-\u003eAST"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:map",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "AST -\u003e AST -\u003e AST -\u003e AST",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#map",
-        "fct-type": "function",
-        "title": "map"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "map",
-        "normalized": "AST-\u003eAST-\u003eAST-\u003eAST",
-        "package": "forth-hll",
-        "partial": "",
-        "signature": "AST-\u003eAST-\u003eAST-\u003eAST"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:nil",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "AST",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#nil",
-        "fct-type": "function",
-        "title": "nil"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "nil",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:not",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "AST -\u003e AST",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#not",
-        "fct-type": "function",
-        "title": "not"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "not",
-        "normalized": "AST-\u003eAST",
-        "package": "forth-hll",
-        "partial": "",
-        "signature": "AST-\u003eAST"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:op",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "Operator -\u003e AST -\u003e AST -\u003e AST",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#op",
-        "fct-type": "function",
-        "title": "op"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "op",
-        "normalized": "Operator-\u003eAST-\u003eAST-\u003eAST",
-        "package": "forth-hll",
-        "partial": "",
-        "signature": "Operator-\u003eAST-\u003eAST-\u003eAST"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:ref",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "String -\u003e AST",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#ref",
-        "fct-type": "function",
-        "title": "ref"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "ref",
-        "normalized": "String-\u003eAST",
-        "package": "forth-hll",
-        "partial": "",
-        "signature": "String-\u003eAST"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:val",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "AST -\u003e AST",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#val",
-        "fct-type": "function",
-        "title": "val"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "val",
-        "normalized": "AST-\u003eAST",
-        "package": "forth-hll",
-        "partial": "",
-        "signature": "AST-\u003eAST"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:while",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.AST",
-        "fct-package": "forth-hll",
-        "fct-signature": "AST -\u003e AST -\u003e AST",
-        "fct-source": "src/Language-ArrayForth-HLL-AST.html#while",
-        "fct-type": "function",
-        "title": "while"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL AST",
-        "module": "Language.ArrayForth.HLL.AST",
-        "name": "while",
-        "normalized": "AST-\u003eAST-\u003eAST",
-        "package": "forth-hll",
-        "partial": "",
-        "signature": "AST-\u003eAST-\u003eAST"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-Compile.html#",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.Compile",
-        "fct-package": "forth-hll",
-        "fct-signature": "module",
-        "fct-source": "src/Language-ArrayForth-HLL-Compile.html",
-        "fct-type": "module",
-        "title": "Compile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL Compile",
-        "module": "Language.ArrayForth.HLL.Compile",
-        "name": "Compile",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "Compile",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-Compile.html#t:St",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.Compile",
-        "fct-package": "forth-hll",
-        "fct-signature": "data",
-        "fct-source": "src/Language-ArrayForth-HLL-Compile.html#St",
-        "fct-type": "data",
-        "title": "St"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL Compile",
-        "module": "Language.ArrayForth.HLL.Compile",
-        "name": "St",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "St",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-Compile.html#v:St",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.Compile",
-        "fct-package": "forth-hll",
-        "fct-signature": "St",
-        "fct-source": "src/Language-ArrayForth-HLL-Compile.html#St",
-        "fct-type": "function",
-        "title": "St"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL Compile",
-        "module": "Language.ArrayForth.HLL.Compile",
-        "name": "St",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "St",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-Compile.html#v:addArray",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.Compile",
-        "fct-package": "forth-hll",
-        "fct-signature": "String -\u003e [F18Word] -\u003e State St ()",
-        "fct-source": "src/Language-ArrayForth-HLL-Compile.html#addArray",
-        "fct-type": "function",
-        "title": "addArray"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL Compile",
-        "module": "Language.ArrayForth.HLL.Compile",
-        "name": "addArray",
-        "normalized": "String-\u003e[F Word]-\u003eState St()",
-        "package": "forth-hll",
-        "partial": "Array",
-        "signature": "String-\u003e[F Word]-\u003eState St()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-Compile.html#v:compile",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.Compile",
-        "fct-package": "forth-hll",
-        "fct-signature": "AST -\u003e (Program, [F18Word])",
-        "fct-source": "src/Language-ArrayForth-HLL-Compile.html#compile",
-        "fct-type": "function",
-        "title": "compile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL Compile",
-        "module": "Language.ArrayForth.HLL.Compile",
-        "name": "compile",
-        "normalized": "AST-\u003e(Program,[F Word])",
-        "package": "forth-hll",
-        "partial": "",
-        "signature": "AST-\u003e(Program,[F Word])"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-Compile.html#v:counter",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.ArrayForth.HLL.Compile",
-        "fct-package": "forth-hll",
-        "fct-signature": "Int",
-        "fct-source": "src/Language-ArrayForth-HLL-Compile.html#St",
-        "fct-type": "function",
-        "title": "counter"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL Compile",
-        "module": "Language.ArrayForth.HLL.Compile",
-        "name": "counter",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-Compile.html#v:nextName",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.Compile",
-        "fct-package": "forth-hll",
-        "fct-signature": "St -\u003e St",
-        "fct-source": "src/Language-ArrayForth-HLL-Compile.html#nextName",
-        "fct-type": "function",
-        "title": "nextName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL Compile",
-        "module": "Language.ArrayForth.HLL.Compile",
-        "name": "nextName",
-        "normalized": "St-\u003eSt",
-        "package": "forth-hll",
-        "partial": "Name",
-        "signature": "St-\u003eSt"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-Compile.html#v:num",
-      "description": {
-        "fct-descr": "\u003cp\u003eWraps a number into a constant instruction.\n\u003c/p\u003e",
-        "fct-module": "Language.ArrayForth.HLL.Compile",
-        "fct-package": "forth-hll",
-        "fct-signature": "F18Word -\u003e Instruction",
-        "fct-source": "src/Language-ArrayForth-HLL-Compile.html#num",
-        "fct-type": "function",
-        "title": "num"
-      },
-      "index": {
-        "description": "Wraps number into constant instruction",
-        "hierarchy": "Language ArrayForth HLL Compile",
-        "module": "Language.ArrayForth.HLL.Compile",
-        "name": "num",
-        "normalized": "F Word-\u003eInstruction",
-        "package": "forth-hll",
-        "partial": "",
-        "signature": "F Word-\u003eInstruction"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-Compile.html#v:startData",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.ArrayForth.HLL.Compile",
-        "fct-package": "forth-hll",
-        "fct-signature": "[F18Word]",
-        "fct-source": "src/Language-ArrayForth-HLL-Compile.html#St",
-        "fct-type": "function",
-        "title": "startData"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL Compile",
-        "module": "Language.ArrayForth.HLL.Compile",
-        "name": "startData",
-        "normalized": "[F Word]",
-        "package": "forth-hll",
-        "partial": "Data",
-        "signature": "[F Word]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-Compile.html#v:vars",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.ArrayForth.HLL.Compile",
-        "fct-package": "forth-hll",
-        "fct-signature": "[(String, F18Word)]",
-        "fct-source": "src/Language-ArrayForth-HLL-Compile.html#St",
-        "fct-type": "function",
-        "title": "vars"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL Compile",
-        "module": "Language.ArrayForth.HLL.Compile",
-        "name": "vars",
-        "normalized": "[(String,F Word)]",
-        "package": "forth-hll",
-        "partial": "",
-        "signature": "[(String,F Word)]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-Example.html#",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.Example",
-        "fct-package": "forth-hll",
-        "fct-signature": "module",
-        "fct-source": "src/Language-ArrayForth-HLL-Example.html",
-        "fct-type": "module",
-        "title": "Example"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL Example",
-        "module": "Language.ArrayForth.HLL.Example",
-        "name": "Example",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "Example",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-Example.html#v:asBits",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.Example",
-        "fct-package": "forth-hll",
-        "fct-signature": "[F18Word]",
-        "fct-source": "src/Language-ArrayForth-HLL-Example.html#asBits",
-        "fct-type": "function",
-        "title": "asBits"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL Example",
-        "module": "Language.ArrayForth.HLL.Example",
-        "name": "asBits",
-        "normalized": "[F Word]",
-        "package": "forth-hll",
-        "partial": "Bits",
-        "signature": "[F Word]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-Example.html#v:asNative",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.Example",
-        "fct-package": "forth-hll",
-        "fct-signature": "NativeProgram",
-        "fct-source": "src/Language-ArrayForth-HLL-Example.html#asNative",
-        "fct-type": "function",
-        "title": "asNative"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL Example",
-        "module": "Language.ArrayForth.HLL.Example",
-        "name": "asNative",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "Native",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-Example.html#v:compiledToNative",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.Example",
-        "fct-package": "forth-hll",
-        "fct-signature": "(Program, [F18Word]) -\u003e NativeProgram",
-        "fct-source": "src/Language-ArrayForth-HLL-Example.html#compiledToNative",
-        "fct-type": "function",
-        "title": "compiledToNative"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL Example",
-        "module": "Language.ArrayForth.HLL.Example",
-        "name": "compiledToNative",
-        "normalized": "(Program,[F Word])-\u003eNativeProgram",
-        "package": "forth-hll",
-        "partial": "To Native",
-        "signature": "(Program,[F Word])-\u003eNativeProgram"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-Example.html#v:test",
-      "description": {
-        "fct-module": "Language.ArrayForth.HLL.Example",
-        "fct-package": "forth-hll",
-        "fct-signature": "AST",
-        "fct-source": "src/Language-ArrayForth-HLL-Example.html#test",
-        "fct-type": "function",
-        "title": "test"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language ArrayForth HLL Example",
-        "module": "Language.ArrayForth.HLL.Example",
-        "name": "test",
-        "normalized": "",
-        "package": "forth-hll",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  }
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "forth-hll"
+      },
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "AST",
+          "package": "forth-hll",
+          "source": "src/Language-ArrayForth-HLL-AST.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "AST",
+          "package": "forth-hll",
+          "partial": "AST",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "AST",
+          "package": "forth-hll",
+          "source": "src/Language-ArrayForth-HLL-AST.html#AST",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "AST",
+          "package": "forth-hll",
+          "partial": "AST",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#t:AST"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Expr",
+          "package": "forth-hll",
+          "source": "src/Language-ArrayForth-HLL-AST.html#Expr",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Expr",
+          "package": "forth-hll",
+          "partial": "Expr",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#t:Expr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Forth",
+          "package": "forth-hll",
+          "source": "src/Language-ArrayForth-HLL-AST.html#Forth",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Forth",
+          "package": "forth-hll",
+          "partial": "Forth",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#t:Forth"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Operator",
+          "package": "forth-hll",
+          "source": "src/Language-ArrayForth-HLL-AST.html#Operator",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Operator",
+          "package": "forth-hll",
+          "partial": "Operator",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#t:Operator"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "UOperator",
+          "package": "forth-hll",
+          "source": "src/Language-ArrayForth-HLL-AST.html#UOperator",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "UOperator",
+          "package": "forth-hll",
+          "partial": "UOperator",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#t:UOperator"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "(!)",
+          "package": "forth-hll",
+          "signature": "AST -\u003e AST -\u003e AST",
+          "source": "src/Language-ArrayForth-HLL-AST.html#%21",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "(!) !",
+          "normalized": "AST-\u003eAST-\u003eAST",
+          "package": "forth-hll",
+          "signature": "AST-\u003eAST-\u003eAST",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:-33-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "(/=)",
+          "package": "forth-hll",
+          "signature": "AST -\u003e AST -\u003e AST",
+          "source": "src/Language-ArrayForth-HLL-AST.html#%2F%3D",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "(/=) /=",
+          "normalized": "AST-\u003eAST-\u003eAST",
+          "package": "forth-hll",
+          "signature": "AST-\u003eAST-\u003eAST",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:-47--61-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "(\u003c)",
+          "package": "forth-hll",
+          "signature": "AST -\u003e AST -\u003e AST",
+          "source": "src/Language-ArrayForth-HLL-AST.html#%3C",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "(\u003c) \u003c",
+          "normalized": "AST-\u003eAST-\u003eAST",
+          "package": "forth-hll",
+          "signature": "AST-\u003eAST-\u003eAST",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:-60-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "(\u003c=)",
+          "package": "forth-hll",
+          "signature": "AST -\u003e AST -\u003e AST",
+          "source": "src/Language-ArrayForth-HLL-AST.html#%3C%3D",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "(\u003c=) \u003c=",
+          "normalized": "AST-\u003eAST-\u003eAST",
+          "package": "forth-hll",
+          "signature": "AST-\u003eAST-\u003eAST",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:-60--61-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "(==)",
+          "package": "forth-hll",
+          "signature": "AST -\u003e AST -\u003e AST",
+          "source": "src/Language-ArrayForth-HLL-AST.html#%3D%3D",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "(==) ==",
+          "normalized": "AST-\u003eAST-\u003eAST",
+          "package": "forth-hll",
+          "signature": "AST-\u003eAST-\u003eAST",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:-61--61-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "(=:)",
+          "package": "forth-hll",
+          "signature": "AST -\u003e AST -\u003e AST",
+          "source": "src/Language-ArrayForth-HLL-AST.html#%3D%3A",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "(=:) =:",
+          "normalized": "AST-\u003eAST-\u003eAST",
+          "package": "forth-hll",
+          "signature": "AST-\u003eAST-\u003eAST",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:-61-:"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "(\u003e)",
+          "package": "forth-hll",
+          "signature": "AST -\u003e AST -\u003e AST",
+          "source": "src/Language-ArrayForth-HLL-AST.html#%3E",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "(\u003e) \u003e",
+          "normalized": "AST-\u003eAST-\u003eAST",
+          "package": "forth-hll",
+          "signature": "AST-\u003eAST-\u003eAST",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:-62-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "(\u003e=)",
+          "package": "forth-hll",
+          "signature": "AST -\u003e AST -\u003e AST",
+          "source": "src/Language-ArrayForth-HLL-AST.html#%3E%3D",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "(\u003e=) \u003e=",
+          "normalized": "AST-\u003eAST-\u003eAST",
+          "package": "forth-hll",
+          "signature": "AST-\u003eAST-\u003eAST",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:-62--61-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "(≠)",
+          "package": "forth-hll",
+          "signature": "AST -\u003e AST -\u003e AST",
+          "source": "src/Language-ArrayForth-HLL-AST.html#%2260",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "(≠) ≠",
+          "normalized": "AST-\u003eAST-\u003eAST",
+          "package": "forth-hll",
+          "signature": "AST-\u003eAST-\u003eAST",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:-8800-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "(≤)",
+          "package": "forth-hll",
+          "signature": "AST -\u003e AST -\u003e AST",
+          "source": "src/Language-ArrayForth-HLL-AST.html#%2264",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "(≤) ≤",
+          "normalized": "AST-\u003eAST-\u003eAST",
+          "package": "forth-hll",
+          "signature": "AST-\u003eAST-\u003eAST",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:-8804-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "(≥)",
+          "package": "forth-hll",
+          "signature": "AST -\u003e AST -\u003e AST",
+          "source": "src/Language-ArrayForth-HLL-AST.html#%2265",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "(≥) ≥",
+          "normalized": "AST-\u003eAST-\u003eAST",
+          "package": "forth-hll",
+          "signature": "AST-\u003eAST-\u003eAST",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:-8805-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Add",
+          "package": "forth-hll",
+          "signature": "Add",
+          "source": "src/Language-ArrayForth-HLL-AST.html#Operator",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Add",
+          "package": "forth-hll",
+          "partial": "Add",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Add"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Array",
+          "package": "forth-hll",
+          "signature": "Array String [F18Word]",
+          "source": "src/Language-ArrayForth-HLL-AST.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Array",
+          "normalized": "Array String[F Word]",
+          "package": "forth-hll",
+          "partial": "Array",
+          "signature": "Array String[F Word]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Array"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "ArrayRef",
+          "package": "forth-hll",
+          "signature": "ArrayRef String",
+          "source": "src/Language-ArrayForth-HLL-AST.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "ArrayRef",
+          "package": "forth-hll",
+          "partial": "Array Ref",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:ArrayRef"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Eq",
+          "package": "forth-hll",
+          "signature": "Eq",
+          "source": "src/Language-ArrayForth-HLL-AST.html#Operator",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Eq",
+          "package": "forth-hll",
+          "partial": "Eq",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Eq"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Fold",
+          "package": "forth-hll",
+          "signature": "Fold AST AST AST AST",
+          "source": "src/Language-ArrayForth-HLL-AST.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Fold",
+          "package": "forth-hll",
+          "partial": "Fold",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Fold"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "For",
+          "package": "forth-hll",
+          "signature": "For AST AST AST",
+          "source": "src/Language-ArrayForth-HLL-AST.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "For",
+          "package": "forth-hll",
+          "partial": "For",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:For"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Forth",
+          "package": "forth-hll",
+          "signature": "Forth Expr next",
+          "source": "src/Language-ArrayForth-HLL-AST.html#Forth",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Forth",
+          "package": "forth-hll",
+          "partial": "Forth",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Forth"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Get",
+          "package": "forth-hll",
+          "signature": "Get",
+          "source": "src/Language-ArrayForth-HLL-AST.html#UOperator",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Get",
+          "package": "forth-hll",
+          "partial": "Get",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Get"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Gt",
+          "package": "forth-hll",
+          "signature": "Gt",
+          "source": "src/Language-ArrayForth-HLL-AST.html#Operator",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Gt",
+          "package": "forth-hll",
+          "partial": "Gt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Gt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "GtE",
+          "package": "forth-hll",
+          "signature": "GtE",
+          "source": "src/Language-ArrayForth-HLL-AST.html#Operator",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "GtE",
+          "package": "forth-hll",
+          "partial": "Gt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:GtE"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "If",
+          "package": "forth-hll",
+          "signature": "If AST AST AST",
+          "source": "src/Language-ArrayForth-HLL-AST.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "If",
+          "package": "forth-hll",
+          "partial": "If",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:If"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Lt",
+          "package": "forth-hll",
+          "signature": "Lt",
+          "source": "src/Language-ArrayForth-HLL-AST.html#Operator",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Lt",
+          "package": "forth-hll",
+          "partial": "Lt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Lt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "LtE",
+          "package": "forth-hll",
+          "signature": "LtE",
+          "source": "src/Language-ArrayForth-HLL-AST.html#Operator",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "LtE",
+          "package": "forth-hll",
+          "partial": "Lt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:LtE"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Map",
+          "package": "forth-hll",
+          "signature": "Map AST AST AST",
+          "source": "src/Language-ArrayForth-HLL-AST.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Map",
+          "package": "forth-hll",
+          "partial": "Map",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Map"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Mul",
+          "package": "forth-hll",
+          "signature": "Mul",
+          "source": "src/Language-ArrayForth-HLL-AST.html#Operator",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Mul",
+          "package": "forth-hll",
+          "partial": "Mul",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Mul"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "NEq",
+          "package": "forth-hll",
+          "signature": "NEq",
+          "source": "src/Language-ArrayForth-HLL-AST.html#Operator",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "NEq",
+          "package": "forth-hll",
+          "partial": "NEq",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:NEq"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Neg",
+          "package": "forth-hll",
+          "signature": "Neg",
+          "source": "src/Language-ArrayForth-HLL-AST.html#UOperator",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Neg",
+          "package": "forth-hll",
+          "partial": "Neg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Neg"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Nil",
+          "package": "forth-hll",
+          "signature": "Nil",
+          "source": "src/Language-ArrayForth-HLL-AST.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Nil",
+          "package": "forth-hll",
+          "partial": "Nil",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Nil"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Not",
+          "package": "forth-hll",
+          "signature": "Not",
+          "source": "src/Language-ArrayForth-HLL-AST.html#UOperator",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Not",
+          "package": "forth-hll",
+          "partial": "Not",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Not"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Num",
+          "package": "forth-hll",
+          "signature": "Num F18Word",
+          "source": "src/Language-ArrayForth-HLL-AST.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Num",
+          "package": "forth-hll",
+          "partial": "Num",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Num"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Op",
+          "package": "forth-hll",
+          "signature": "Op Operator AST AST",
+          "source": "src/Language-ArrayForth-HLL-AST.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Op",
+          "package": "forth-hll",
+          "partial": "Op",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Op"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Set",
+          "package": "forth-hll",
+          "signature": "Set",
+          "source": "src/Language-ArrayForth-HLL-AST.html#Operator",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Set",
+          "package": "forth-hll",
+          "partial": "Set",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Set"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Sub",
+          "package": "forth-hll",
+          "signature": "Sub",
+          "source": "src/Language-ArrayForth-HLL-AST.html#Operator",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "Sub",
+          "package": "forth-hll",
+          "partial": "Sub",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:Sub"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "UOp",
+          "package": "forth-hll",
+          "signature": "UOp UOperator AST",
+          "source": "src/Language-ArrayForth-HLL-AST.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "UOp",
+          "package": "forth-hll",
+          "partial": "UOp",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:UOp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "While",
+          "package": "forth-hll",
+          "signature": "While AST AST",
+          "source": "src/Language-ArrayForth-HLL-AST.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "While",
+          "package": "forth-hll",
+          "partial": "While",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:While"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "array",
+          "package": "forth-hll",
+          "signature": "String -\u003e [F18Word] -\u003e AST",
+          "source": "src/Language-ArrayForth-HLL-AST.html#array",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "array",
+          "normalized": "String-\u003e[F Word]-\u003eAST",
+          "package": "forth-hll",
+          "signature": "String-\u003e[F Word]-\u003eAST",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:array"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "fold",
+          "package": "forth-hll",
+          "signature": "AST -\u003e AST -\u003e AST -\u003e AST -\u003e AST",
+          "source": "src/Language-ArrayForth-HLL-AST.html#fold",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "fold",
+          "normalized": "AST-\u003eAST-\u003eAST-\u003eAST-\u003eAST",
+          "package": "forth-hll",
+          "signature": "AST-\u003eAST-\u003eAST-\u003eAST-\u003eAST",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:fold"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "for",
+          "package": "forth-hll",
+          "signature": "AST -\u003e AST -\u003e AST -\u003e AST",
+          "source": "src/Language-ArrayForth-HLL-AST.html#for",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "for",
+          "normalized": "AST-\u003eAST-\u003eAST-\u003eAST",
+          "package": "forth-hll",
+          "signature": "AST-\u003eAST-\u003eAST-\u003eAST",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:for"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "ifThenElse",
+          "package": "forth-hll",
+          "signature": "AST -\u003e AST -\u003e AST -\u003e AST",
+          "source": "src/Language-ArrayForth-HLL-AST.html#ifThenElse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "ifThenElse",
+          "normalized": "AST-\u003eAST-\u003eAST-\u003eAST",
+          "package": "forth-hll",
+          "partial": "Then Else",
+          "signature": "AST-\u003eAST-\u003eAST-\u003eAST",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:ifThenElse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "liftExpr",
+          "package": "forth-hll",
+          "signature": "Expr -\u003e AST",
+          "source": "src/Language-ArrayForth-HLL-AST.html#liftExpr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "liftExpr",
+          "normalized": "Expr-\u003eAST",
+          "package": "forth-hll",
+          "partial": "Expr",
+          "signature": "Expr-\u003eAST",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:liftExpr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "map",
+          "package": "forth-hll",
+          "signature": "AST -\u003e AST -\u003e AST -\u003e AST",
+          "source": "src/Language-ArrayForth-HLL-AST.html#map",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "map",
+          "normalized": "AST-\u003eAST-\u003eAST-\u003eAST",
+          "package": "forth-hll",
+          "signature": "AST-\u003eAST-\u003eAST-\u003eAST",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:map"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "nil",
+          "package": "forth-hll",
+          "signature": "AST",
+          "source": "src/Language-ArrayForth-HLL-AST.html#nil",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "nil",
+          "package": "forth-hll",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:nil"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "not",
+          "package": "forth-hll",
+          "signature": "AST -\u003e AST",
+          "source": "src/Language-ArrayForth-HLL-AST.html#not",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "not",
+          "normalized": "AST-\u003eAST",
+          "package": "forth-hll",
+          "signature": "AST-\u003eAST",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:not"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "op",
+          "package": "forth-hll",
+          "signature": "Operator -\u003e AST -\u003e AST -\u003e AST",
+          "source": "src/Language-ArrayForth-HLL-AST.html#op",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "op",
+          "normalized": "Operator-\u003eAST-\u003eAST-\u003eAST",
+          "package": "forth-hll",
+          "signature": "Operator-\u003eAST-\u003eAST-\u003eAST",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:op"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "ref",
+          "package": "forth-hll",
+          "signature": "String -\u003e AST",
+          "source": "src/Language-ArrayForth-HLL-AST.html#ref",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "ref",
+          "normalized": "String-\u003eAST",
+          "package": "forth-hll",
+          "signature": "String-\u003eAST",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:ref"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "val",
+          "package": "forth-hll",
+          "signature": "AST -\u003e AST",
+          "source": "src/Language-ArrayForth-HLL-AST.html#val",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "val",
+          "normalized": "AST-\u003eAST",
+          "package": "forth-hll",
+          "signature": "AST-\u003eAST",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:val"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "while",
+          "package": "forth-hll",
+          "signature": "AST -\u003e AST -\u003e AST",
+          "source": "src/Language-ArrayForth-HLL-AST.html#while",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL AST",
+          "module": "Language.ArrayForth.HLL.AST",
+          "name": "while",
+          "normalized": "AST-\u003eAST-\u003eAST",
+          "package": "forth-hll",
+          "signature": "AST-\u003eAST-\u003eAST",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-AST.html#v:while"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.Compile",
+          "name": "Compile",
+          "package": "forth-hll",
+          "source": "src/Language-ArrayForth-HLL-Compile.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL Compile",
+          "module": "Language.ArrayForth.HLL.Compile",
+          "name": "Compile",
+          "package": "forth-hll",
+          "partial": "Compile",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-Compile.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.Compile",
+          "name": "St",
+          "package": "forth-hll",
+          "source": "src/Language-ArrayForth-HLL-Compile.html#St",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL Compile",
+          "module": "Language.ArrayForth.HLL.Compile",
+          "name": "St",
+          "package": "forth-hll",
+          "partial": "St",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-Compile.html#t:St"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.Compile",
+          "name": "St",
+          "package": "forth-hll",
+          "signature": "St",
+          "source": "src/Language-ArrayForth-HLL-Compile.html#St",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL Compile",
+          "module": "Language.ArrayForth.HLL.Compile",
+          "name": "St",
+          "package": "forth-hll",
+          "partial": "St",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-Compile.html#v:St"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.Compile",
+          "name": "addArray",
+          "package": "forth-hll",
+          "signature": "String -\u003e [F18Word] -\u003e State St ()",
+          "source": "src/Language-ArrayForth-HLL-Compile.html#addArray",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL Compile",
+          "module": "Language.ArrayForth.HLL.Compile",
+          "name": "addArray",
+          "normalized": "String-\u003e[F Word]-\u003eState St()",
+          "package": "forth-hll",
+          "partial": "Array",
+          "signature": "String-\u003e[F Word]-\u003eState St()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-Compile.html#v:addArray"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.Compile",
+          "name": "compile",
+          "package": "forth-hll",
+          "signature": "AST -\u003e (Program, [F18Word])",
+          "source": "src/Language-ArrayForth-HLL-Compile.html#compile",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL Compile",
+          "module": "Language.ArrayForth.HLL.Compile",
+          "name": "compile",
+          "normalized": "AST-\u003e(Program,[F Word])",
+          "package": "forth-hll",
+          "signature": "AST-\u003e(Program,[F Word])",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-Compile.html#v:compile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.Compile",
+          "name": "counter",
+          "package": "forth-hll",
+          "signature": "Int",
+          "source": "src/Language-ArrayForth-HLL-Compile.html#St",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL Compile",
+          "module": "Language.ArrayForth.HLL.Compile",
+          "name": "counter",
+          "package": "forth-hll",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-Compile.html#v:counter"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.Compile",
+          "name": "nextName",
+          "package": "forth-hll",
+          "signature": "St -\u003e St",
+          "source": "src/Language-ArrayForth-HLL-Compile.html#nextName",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL Compile",
+          "module": "Language.ArrayForth.HLL.Compile",
+          "name": "nextName",
+          "normalized": "St-\u003eSt",
+          "package": "forth-hll",
+          "partial": "Name",
+          "signature": "St-\u003eSt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-Compile.html#v:nextName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eWraps a number into a constant instruction.\n\u003c/p\u003e",
+          "module": "Language.ArrayForth.HLL.Compile",
+          "name": "num",
+          "package": "forth-hll",
+          "signature": "F18Word -\u003e Instruction",
+          "source": "src/Language-ArrayForth-HLL-Compile.html#num",
+          "type": "function"
+        },
+        "index": {
+          "description": "Wraps number into constant instruction",
+          "hierarchy": "Language ArrayForth HLL Compile",
+          "module": "Language.ArrayForth.HLL.Compile",
+          "name": "num",
+          "normalized": "F Word-\u003eInstruction",
+          "package": "forth-hll",
+          "signature": "F Word-\u003eInstruction",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-Compile.html#v:num"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.Compile",
+          "name": "startData",
+          "package": "forth-hll",
+          "signature": "[F18Word]",
+          "source": "src/Language-ArrayForth-HLL-Compile.html#St",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL Compile",
+          "module": "Language.ArrayForth.HLL.Compile",
+          "name": "startData",
+          "normalized": "[F Word]",
+          "package": "forth-hll",
+          "partial": "Data",
+          "signature": "[F Word]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-Compile.html#v:startData"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.Compile",
+          "name": "vars",
+          "package": "forth-hll",
+          "signature": "[(String, F18Word)]",
+          "source": "src/Language-ArrayForth-HLL-Compile.html#St",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL Compile",
+          "module": "Language.ArrayForth.HLL.Compile",
+          "name": "vars",
+          "normalized": "[(String,F Word)]",
+          "package": "forth-hll",
+          "signature": "[(String,F Word)]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-Compile.html#v:vars"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.Example",
+          "name": "Example",
+          "package": "forth-hll",
+          "source": "src/Language-ArrayForth-HLL-Example.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL Example",
+          "module": "Language.ArrayForth.HLL.Example",
+          "name": "Example",
+          "package": "forth-hll",
+          "partial": "Example",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-Example.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.Example",
+          "name": "asBits",
+          "package": "forth-hll",
+          "signature": "[F18Word]",
+          "source": "src/Language-ArrayForth-HLL-Example.html#asBits",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL Example",
+          "module": "Language.ArrayForth.HLL.Example",
+          "name": "asBits",
+          "normalized": "[F Word]",
+          "package": "forth-hll",
+          "partial": "Bits",
+          "signature": "[F Word]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-Example.html#v:asBits"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.Example",
+          "name": "asNative",
+          "package": "forth-hll",
+          "signature": "NativeProgram",
+          "source": "src/Language-ArrayForth-HLL-Example.html#asNative",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL Example",
+          "module": "Language.ArrayForth.HLL.Example",
+          "name": "asNative",
+          "package": "forth-hll",
+          "partial": "Native",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-Example.html#v:asNative"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.Example",
+          "name": "compiledToNative",
+          "package": "forth-hll",
+          "signature": "(Program, [F18Word]) -\u003e NativeProgram",
+          "source": "src/Language-ArrayForth-HLL-Example.html#compiledToNative",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL Example",
+          "module": "Language.ArrayForth.HLL.Example",
+          "name": "compiledToNative",
+          "normalized": "(Program,[F Word])-\u003eNativeProgram",
+          "package": "forth-hll",
+          "partial": "To Native",
+          "signature": "(Program,[F Word])-\u003eNativeProgram",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-Example.html#v:compiledToNative"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.ArrayForth.HLL.Example",
+          "name": "test",
+          "package": "forth-hll",
+          "signature": "AST",
+          "source": "src/Language-ArrayForth-HLL-Example.html#test",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language ArrayForth HLL Example",
+          "module": "Language.ArrayForth.HLL.Example",
+          "name": "test",
+          "package": "forth-hll",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/forth-hll/docs/Language-ArrayForth-HLL-Example.html#v:test"
+      }
+    }
+  ]
 ]

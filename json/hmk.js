@@ -1,701 +1,654 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk-Analyze.html#",
-      "description": {
-        "fct-module": "Control.Hmk.Analyze",
-        "fct-package": "hmk",
-        "fct-signature": "module",
-        "fct-source": "src/Control-Hmk-Analyze.html",
-        "fct-type": "module",
-        "title": "Analyze"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "hmk"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Hmk Analyze",
-        "module": "Control.Hmk.Analyze",
-        "name": "Analyze",
-        "normalized": "",
-        "package": "hmk",
-        "partial": "Analyze",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk-Analyze.html#v:coalesce",
-      "description": {
-        "fct-module": "Control.Hmk.Analyze",
-        "fct-package": "hmk",
-        "fct-signature": "[Rule m a] -\u003e [Rule m a]",
-        "fct-source": "src/Control-Hmk-Analyze.html#coalesce",
-        "fct-type": "function",
-        "title": "coalesce"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Hmk Analyze",
-        "module": "Control.Hmk.Analyze",
-        "name": "coalesce",
-        "normalized": "[Rule a b]-\u003e[Rule a b]",
-        "package": "hmk",
-        "partial": "",
-        "signature": "[Rule m a]-\u003e[Rule m a]"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Hmk.Analyze",
+          "name": "Analyze",
+          "package": "hmk",
+          "source": "src/Control-Hmk-Analyze.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Control Hmk Analyze",
+          "module": "Control.Hmk.Analyze",
+          "name": "Analyze",
+          "package": "hmk",
+          "partial": "Analyze",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk-Analyze.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Hmk.Analyze",
+          "name": "coalesce",
+          "package": "hmk",
+          "signature": "[Rule m a] -\u003e [Rule m a]",
+          "source": "src/Control-Hmk-Analyze.html#coalesce",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Hmk Analyze",
+          "module": "Control.Hmk.Analyze",
+          "name": "coalesce",
+          "normalized": "[Rule a b]-\u003e[Rule a b]",
+          "package": "hmk",
+          "signature": "[Rule m a]-\u003e[Rule m a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk-Analyze.html#v:coalesce"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Hmk.Analyze",
+          "name": "complete",
+          "package": "hmk",
+          "signature": "Cmp m a-\u003e [Rule m a]-\u003e [Rule m a]",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Hmk Analyze",
+          "module": "Control.Hmk.Analyze",
+          "name": "complete",
+          "normalized": "Cmp a b-\u003e[Rule a b]-\u003e[Rule a b]",
+          "package": "hmk",
+          "signature": "Cmp m a-\u003e[Rule m a]-\u003e[Rule m a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk-Analyze.html#v:complete"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Hmk.Analyze",
+          "name": "process",
+          "package": "hmk",
+          "signature": "Cmp m a -\u003e [Rule m a] -\u003e [Rule m a]",
+          "source": "src/Control-Hmk-Analyze.html#process",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Hmk Analyze",
+          "module": "Control.Hmk.Analyze",
+          "name": "process",
+          "normalized": "Cmp a b-\u003e[Rule a b]-\u003e[Rule a b]",
+          "package": "hmk",
+          "signature": "Cmp m a-\u003e[Rule m a]-\u003e[Rule m a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk-Analyze.html#v:process"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Hmk.Concurrent",
+          "name": "Concurrent",
+          "package": "hmk",
+          "source": "src/Control-Hmk-Concurrent.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Control Hmk Concurrent",
+          "module": "Control.Hmk.Concurrent",
+          "name": "Concurrent",
+          "package": "hmk",
+          "partial": "Concurrent",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk-Concurrent.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Hmk.Concurrent",
+          "name": "Done",
+          "package": "hmk",
+          "source": "src/Control-Hmk-Concurrent.html#Done",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Control Hmk Concurrent",
+          "module": "Control.Hmk.Concurrent",
+          "name": "Done",
+          "package": "hmk",
+          "partial": "Done",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk-Concurrent.html#t:Done"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Hmk.Concurrent",
+          "name": "Done",
+          "package": "hmk",
+          "signature": "Done",
+          "source": "src/Control-Hmk-Concurrent.html#Done",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Hmk Concurrent",
+          "module": "Control.Hmk.Concurrent",
+          "name": "Done",
+          "package": "hmk",
+          "partial": "Done",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk-Concurrent.html#v:Done"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Hmk.Concurrent",
+          "name": "processTree",
+          "package": "hmk",
+          "signature": "Int -\u003e DepGraph IO a -\u003e IO ()",
+          "source": "src/Control-Hmk-Concurrent.html#processTree",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Hmk Concurrent",
+          "module": "Control.Hmk.Concurrent",
+          "name": "processTree",
+          "normalized": "Int-\u003eDepGraph IO a-\u003eIO()",
+          "package": "hmk",
+          "partial": "Tree",
+          "signature": "Int-\u003eDepGraph IO a-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk-Concurrent.html#v:processTree"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Hmk.IO",
+          "name": "IO",
+          "package": "hmk",
+          "source": "src/Control-Hmk-IO.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Control Hmk IO",
+          "module": "Control.Hmk.IO",
+          "name": "IO",
+          "package": "hmk",
+          "partial": "IO",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk-IO.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Hmk.IO",
+          "name": "isStale",
+          "package": "hmk",
+          "signature": "Cmp IO FilePath",
+          "source": "src/Control-Hmk-IO.html#isStale",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Hmk IO",
+          "module": "Control.Hmk.IO",
+          "name": "isStale",
+          "package": "hmk",
+          "partial": "Stale",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk-IO.html#v:isStale"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Hmk.IO",
+          "name": "testExitCode",
+          "package": "hmk",
+          "signature": "ExitCode -\u003e IO Result",
+          "source": "src/Control-Hmk-IO.html#testExitCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Hmk IO",
+          "module": "Control.Hmk.IO",
+          "name": "testExitCode",
+          "normalized": "ExitCode-\u003eIO Result",
+          "package": "hmk",
+          "partial": "Exit Code",
+          "signature": "ExitCode-\u003eIO Result",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk-IO.html#v:testExitCode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Hmk",
+          "name": "Hmk",
+          "package": "hmk",
+          "source": "src/Control-Hmk.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Control Hmk",
+          "module": "Control.Hmk",
+          "name": "Hmk",
+          "package": "hmk",
+          "partial": "Hmk",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Hmk",
+          "name": "Cmp",
+          "package": "hmk",
+          "source": "src/Control-Hmk.html#Cmp",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Control Hmk",
+          "module": "Control.Hmk",
+          "name": "Cmp",
+          "package": "hmk",
+          "partial": "Cmp",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#t:Cmp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Hmk",
+          "name": "DepGraph",
+          "package": "hmk",
+          "source": "src/Control-Hmk.html#DepGraph",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Control Hmk",
+          "module": "Control.Hmk",
+          "name": "DepGraph",
+          "package": "hmk",
+          "partial": "Dep Graph",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#t:DepGraph"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Hmk",
+          "name": "Result",
+          "package": "hmk",
+          "source": "src/Control-Hmk.html#Result",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Control Hmk",
+          "module": "Control.Hmk",
+          "name": "Result",
+          "package": "hmk",
+          "partial": "Result",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#t:Result"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Hmk",
+          "name": "Rule",
+          "package": "hmk",
+          "source": "src/Control-Hmk.html#Rule",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Control Hmk",
+          "module": "Control.Hmk",
+          "name": "Rule",
+          "package": "hmk",
+          "partial": "Rule",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#t:Rule"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Hmk",
+          "name": "Schedule",
+          "package": "hmk",
+          "source": "src/Control-Hmk.html#Schedule",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Control Hmk",
+          "module": "Control.Hmk",
+          "name": "Schedule",
+          "package": "hmk",
+          "partial": "Schedule",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#t:Schedule"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Hmk",
+          "name": "Task",
+          "package": "hmk",
+          "source": "src/Control-Hmk.html#Task",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Control Hmk",
+          "module": "Control.Hmk",
+          "name": "Task",
+          "package": "hmk",
+          "partial": "Task",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#t:Task"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Hmk",
+          "name": "Tree",
+          "package": "hmk",
+          "source": "src/Control-Hmk.html#Tree",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Control Hmk",
+          "module": "Control.Hmk",
+          "name": "Tree",
+          "package": "hmk",
+          "partial": "Tree",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#t:Tree"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Hmk",
+          "name": "Node",
+          "package": "hmk",
+          "signature": "Node a (DepGraph m a) (Rule m a)",
+          "source": "src/Control-Hmk.html#Tree",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Hmk",
+          "module": "Control.Hmk",
+          "name": "Node",
+          "package": "hmk",
+          "partial": "Node",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#v:Node"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Hmk",
+          "name": "Rule",
+          "package": "hmk",
+          "signature": "Rule",
+          "source": "src/Control-Hmk.html#Rule",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Hmk",
+          "module": "Control.Hmk",
+          "name": "Rule",
+          "package": "hmk",
+          "partial": "Rule",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#v:Rule"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Hmk",
+          "name": "TaskFailure",
+          "package": "hmk",
+          "signature": "TaskFailure",
+          "source": "src/Control-Hmk.html#Result",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Hmk",
+          "module": "Control.Hmk",
+          "name": "TaskFailure",
+          "package": "hmk",
+          "partial": "Task Failure",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#v:TaskFailure"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Hmk",
+          "name": "TaskSuccess",
+          "package": "hmk",
+          "signature": "TaskSuccess",
+          "source": "src/Control-Hmk.html#Result",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Hmk",
+          "module": "Control.Hmk",
+          "name": "TaskSuccess",
+          "package": "hmk",
+          "partial": "Task Success",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#v:TaskSuccess"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Hmk",
+          "name": "isStale",
+          "package": "hmk",
+          "signature": "Cmp m a",
+          "source": "src/Control-Hmk.html#Rule",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Hmk",
+          "module": "Control.Hmk",
+          "name": "isStale",
+          "package": "hmk",
+          "partial": "Stale",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#v:isStale"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Hmk",
+          "name": "mk",
+          "package": "hmk",
+          "signature": "[Rule m a] -\u003e [a] -\u003e m (Schedule m)",
+          "source": "src/Control-Hmk.html#mk",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Hmk",
+          "module": "Control.Hmk",
+          "name": "mk",
+          "normalized": "[Rule a b]-\u003e[b]-\u003ea(Schedule a)",
+          "package": "hmk",
+          "signature": "[Rule m a]-\u003e[a]-\u003em(Schedule m)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#v:mk"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Hmk",
+          "name": "mkConcurrent",
+          "package": "hmk",
+          "signature": "Int -\u003e [Rule IO a] -\u003e [a] -\u003e IO ()",
+          "source": "src/Control-Hmk.html#mkConcurrent",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Hmk",
+          "module": "Control.Hmk",
+          "name": "mkConcurrent",
+          "normalized": "Int-\u003e[Rule IO a]-\u003e[a]-\u003eIO()",
+          "package": "hmk",
+          "partial": "Concurrent",
+          "signature": "Int-\u003e[Rule IO a]-\u003e[a]-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#v:mkConcurrent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Hmk",
+          "name": "prereqs",
+          "package": "hmk",
+          "signature": "[a]",
+          "source": "src/Control-Hmk.html#Rule",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Hmk",
+          "module": "Control.Hmk",
+          "name": "prereqs",
+          "normalized": "[a]",
+          "package": "hmk",
+          "signature": "[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#v:prereqs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Hmk",
+          "name": "recipe",
+          "package": "hmk",
+          "signature": "Maybe ([a] -\u003e Task m)",
+          "source": "src/Control-Hmk.html#Rule",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Hmk",
+          "module": "Control.Hmk",
+          "name": "recipe",
+          "normalized": "Maybe([a]-\u003eTask b)",
+          "package": "hmk",
+          "signature": "Maybe([a]-\u003eTask m)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#v:recipe"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Hmk",
+          "name": "target",
+          "package": "hmk",
+          "signature": "a",
+          "source": "src/Control-Hmk.html#Rule",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Hmk",
+          "module": "Control.Hmk",
+          "name": "target",
+          "package": "hmk",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#v:target"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk-Analyze.html#v:complete",
-      "description": {
-        "fct-module": "Control.Hmk.Analyze",
-        "fct-package": "hmk",
-        "fct-signature": "Cmp m a-\u003e [Rule m a]-\u003e [Rule m a]",
-        "fct-type": "function",
-        "title": "complete"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Hmk Analyze",
-        "module": "Control.Hmk.Analyze",
-        "name": "complete",
-        "normalized": "Cmp a b-\u003e[Rule a b]-\u003e[Rule a b]",
-        "package": "hmk",
-        "partial": "",
-        "signature": "Cmp m a-\u003e[Rule m a]-\u003e[Rule m a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk-Analyze.html#v:process",
-      "description": {
-        "fct-module": "Control.Hmk.Analyze",
-        "fct-package": "hmk",
-        "fct-signature": "Cmp m a -\u003e [Rule m a] -\u003e [Rule m a]",
-        "fct-source": "src/Control-Hmk-Analyze.html#process",
-        "fct-type": "function",
-        "title": "process"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Hmk Analyze",
-        "module": "Control.Hmk.Analyze",
-        "name": "process",
-        "normalized": "Cmp a b-\u003e[Rule a b]-\u003e[Rule a b]",
-        "package": "hmk",
-        "partial": "",
-        "signature": "Cmp m a-\u003e[Rule m a]-\u003e[Rule m a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk-Concurrent.html#",
-      "description": {
-        "fct-module": "Control.Hmk.Concurrent",
-        "fct-package": "hmk",
-        "fct-signature": "module",
-        "fct-source": "src/Control-Hmk-Concurrent.html",
-        "fct-type": "module",
-        "title": "Concurrent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Hmk Concurrent",
-        "module": "Control.Hmk.Concurrent",
-        "name": "Concurrent",
-        "normalized": "",
-        "package": "hmk",
-        "partial": "Concurrent",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk-Concurrent.html#t:Done",
-      "description": {
-        "fct-module": "Control.Hmk.Concurrent",
-        "fct-package": "hmk",
-        "fct-signature": "data",
-        "fct-source": "src/Control-Hmk-Concurrent.html#Done",
-        "fct-type": "data",
-        "title": "Done"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Hmk Concurrent",
-        "module": "Control.Hmk.Concurrent",
-        "name": "Done",
-        "normalized": "",
-        "package": "hmk",
-        "partial": "Done",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk-Concurrent.html#v:Done",
-      "description": {
-        "fct-module": "Control.Hmk.Concurrent",
-        "fct-package": "hmk",
-        "fct-signature": "Done",
-        "fct-source": "src/Control-Hmk-Concurrent.html#Done",
-        "fct-type": "function",
-        "title": "Done"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Hmk Concurrent",
-        "module": "Control.Hmk.Concurrent",
-        "name": "Done",
-        "normalized": "",
-        "package": "hmk",
-        "partial": "Done",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk-Concurrent.html#v:processTree",
-      "description": {
-        "fct-module": "Control.Hmk.Concurrent",
-        "fct-package": "hmk",
-        "fct-signature": "Int -\u003e DepGraph IO a -\u003e IO ()",
-        "fct-source": "src/Control-Hmk-Concurrent.html#processTree",
-        "fct-type": "function",
-        "title": "processTree"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Hmk Concurrent",
-        "module": "Control.Hmk.Concurrent",
-        "name": "processTree",
-        "normalized": "Int-\u003eDepGraph IO a-\u003eIO()",
-        "package": "hmk",
-        "partial": "Tree",
-        "signature": "Int-\u003eDepGraph IO a-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk-IO.html#",
-      "description": {
-        "fct-module": "Control.Hmk.IO",
-        "fct-package": "hmk",
-        "fct-signature": "module",
-        "fct-source": "src/Control-Hmk-IO.html",
-        "fct-type": "module",
-        "title": "IO"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Hmk IO",
-        "module": "Control.Hmk.IO",
-        "name": "IO",
-        "normalized": "",
-        "package": "hmk",
-        "partial": "IO",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk-IO.html#v:isStale",
-      "description": {
-        "fct-module": "Control.Hmk.IO",
-        "fct-package": "hmk",
-        "fct-signature": "Cmp IO FilePath",
-        "fct-source": "src/Control-Hmk-IO.html#isStale",
-        "fct-type": "function",
-        "title": "isStale"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Hmk IO",
-        "module": "Control.Hmk.IO",
-        "name": "isStale",
-        "normalized": "",
-        "package": "hmk",
-        "partial": "Stale",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk-IO.html#v:testExitCode",
-      "description": {
-        "fct-module": "Control.Hmk.IO",
-        "fct-package": "hmk",
-        "fct-signature": "ExitCode -\u003e IO Result",
-        "fct-source": "src/Control-Hmk-IO.html#testExitCode",
-        "fct-type": "function",
-        "title": "testExitCode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Hmk IO",
-        "module": "Control.Hmk.IO",
-        "name": "testExitCode",
-        "normalized": "ExitCode-\u003eIO Result",
-        "package": "hmk",
-        "partial": "Exit Code",
-        "signature": "ExitCode-\u003eIO Result"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#",
-      "description": {
-        "fct-module": "Control.Hmk",
-        "fct-package": "hmk",
-        "fct-signature": "module",
-        "fct-source": "src/Control-Hmk.html",
-        "fct-type": "module",
-        "title": "Hmk"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Hmk",
-        "module": "Control.Hmk",
-        "name": "Hmk",
-        "normalized": "",
-        "package": "hmk",
-        "partial": "Hmk",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#t:Cmp",
-      "description": {
-        "fct-module": "Control.Hmk",
-        "fct-package": "hmk",
-        "fct-signature": "type",
-        "fct-source": "src/Control-Hmk.html#Cmp",
-        "fct-type": "type",
-        "title": "Cmp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Hmk",
-        "module": "Control.Hmk",
-        "name": "Cmp",
-        "normalized": "",
-        "package": "hmk",
-        "partial": "Cmp",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#t:DepGraph",
-      "description": {
-        "fct-module": "Control.Hmk",
-        "fct-package": "hmk",
-        "fct-signature": "type",
-        "fct-source": "src/Control-Hmk.html#DepGraph",
-        "fct-type": "type",
-        "title": "DepGraph"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Hmk",
-        "module": "Control.Hmk",
-        "name": "DepGraph",
-        "normalized": "",
-        "package": "hmk",
-        "partial": "Dep Graph",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#t:Result",
-      "description": {
-        "fct-module": "Control.Hmk",
-        "fct-package": "hmk",
-        "fct-signature": "data",
-        "fct-source": "src/Control-Hmk.html#Result",
-        "fct-type": "data",
-        "title": "Result"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Hmk",
-        "module": "Control.Hmk",
-        "name": "Result",
-        "normalized": "",
-        "package": "hmk",
-        "partial": "Result",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#t:Rule",
-      "description": {
-        "fct-module": "Control.Hmk",
-        "fct-package": "hmk",
-        "fct-signature": "data",
-        "fct-source": "src/Control-Hmk.html#Rule",
-        "fct-type": "data",
-        "title": "Rule"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Hmk",
-        "module": "Control.Hmk",
-        "name": "Rule",
-        "normalized": "",
-        "package": "hmk",
-        "partial": "Rule",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#t:Schedule",
-      "description": {
-        "fct-module": "Control.Hmk",
-        "fct-package": "hmk",
-        "fct-signature": "type",
-        "fct-source": "src/Control-Hmk.html#Schedule",
-        "fct-type": "type",
-        "title": "Schedule"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Hmk",
-        "module": "Control.Hmk",
-        "name": "Schedule",
-        "normalized": "",
-        "package": "hmk",
-        "partial": "Schedule",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#t:Task",
-      "description": {
-        "fct-module": "Control.Hmk",
-        "fct-package": "hmk",
-        "fct-signature": "type",
-        "fct-source": "src/Control-Hmk.html#Task",
-        "fct-type": "type",
-        "title": "Task"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Hmk",
-        "module": "Control.Hmk",
-        "name": "Task",
-        "normalized": "",
-        "package": "hmk",
-        "partial": "Task",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#t:Tree",
-      "description": {
-        "fct-module": "Control.Hmk",
-        "fct-package": "hmk",
-        "fct-signature": "data",
-        "fct-source": "src/Control-Hmk.html#Tree",
-        "fct-type": "data",
-        "title": "Tree"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Hmk",
-        "module": "Control.Hmk",
-        "name": "Tree",
-        "normalized": "",
-        "package": "hmk",
-        "partial": "Tree",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#v:Node",
-      "description": {
-        "fct-module": "Control.Hmk",
-        "fct-package": "hmk",
-        "fct-signature": "Node a (DepGraph m a) (Rule m a)",
-        "fct-source": "src/Control-Hmk.html#Tree",
-        "fct-type": "function",
-        "title": "Node"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Hmk",
-        "module": "Control.Hmk",
-        "name": "Node",
-        "normalized": "",
-        "package": "hmk",
-        "partial": "Node",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#v:Rule",
-      "description": {
-        "fct-module": "Control.Hmk",
-        "fct-package": "hmk",
-        "fct-signature": "Rule",
-        "fct-source": "src/Control-Hmk.html#Rule",
-        "fct-type": "function",
-        "title": "Rule"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Hmk",
-        "module": "Control.Hmk",
-        "name": "Rule",
-        "normalized": "",
-        "package": "hmk",
-        "partial": "Rule",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#v:TaskFailure",
-      "description": {
-        "fct-module": "Control.Hmk",
-        "fct-package": "hmk",
-        "fct-signature": "TaskFailure",
-        "fct-source": "src/Control-Hmk.html#Result",
-        "fct-type": "function",
-        "title": "TaskFailure"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Hmk",
-        "module": "Control.Hmk",
-        "name": "TaskFailure",
-        "normalized": "",
-        "package": "hmk",
-        "partial": "Task Failure",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#v:TaskSuccess",
-      "description": {
-        "fct-module": "Control.Hmk",
-        "fct-package": "hmk",
-        "fct-signature": "TaskSuccess",
-        "fct-source": "src/Control-Hmk.html#Result",
-        "fct-type": "function",
-        "title": "TaskSuccess"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Hmk",
-        "module": "Control.Hmk",
-        "name": "TaskSuccess",
-        "normalized": "",
-        "package": "hmk",
-        "partial": "Task Success",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#v:isStale",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Control.Hmk",
-        "fct-package": "hmk",
-        "fct-signature": "Cmp m a",
-        "fct-source": "src/Control-Hmk.html#Rule",
-        "fct-type": "function",
-        "title": "isStale"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Hmk",
-        "module": "Control.Hmk",
-        "name": "isStale",
-        "normalized": "",
-        "package": "hmk",
-        "partial": "Stale",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#v:mk",
-      "description": {
-        "fct-module": "Control.Hmk",
-        "fct-package": "hmk",
-        "fct-signature": "[Rule m a] -\u003e [a] -\u003e m (Schedule m)",
-        "fct-source": "src/Control-Hmk.html#mk",
-        "fct-type": "function",
-        "title": "mk"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Hmk",
-        "module": "Control.Hmk",
-        "name": "mk",
-        "normalized": "[Rule a b]-\u003e[b]-\u003ea(Schedule a)",
-        "package": "hmk",
-        "partial": "",
-        "signature": "[Rule m a]-\u003e[a]-\u003em(Schedule m)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#v:mkConcurrent",
-      "description": {
-        "fct-module": "Control.Hmk",
-        "fct-package": "hmk",
-        "fct-signature": "Int -\u003e [Rule IO a] -\u003e [a] -\u003e IO ()",
-        "fct-source": "src/Control-Hmk.html#mkConcurrent",
-        "fct-type": "function",
-        "title": "mkConcurrent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Hmk",
-        "module": "Control.Hmk",
-        "name": "mkConcurrent",
-        "normalized": "Int-\u003e[Rule IO a]-\u003e[a]-\u003eIO()",
-        "package": "hmk",
-        "partial": "Concurrent",
-        "signature": "Int-\u003e[Rule IO a]-\u003e[a]-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#v:prereqs",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Control.Hmk",
-        "fct-package": "hmk",
-        "fct-signature": "[a]",
-        "fct-source": "src/Control-Hmk.html#Rule",
-        "fct-type": "function",
-        "title": "prereqs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Hmk",
-        "module": "Control.Hmk",
-        "name": "prereqs",
-        "normalized": "[a]",
-        "package": "hmk",
-        "partial": "",
-        "signature": "[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#v:recipe",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Control.Hmk",
-        "fct-package": "hmk",
-        "fct-signature": "Maybe ([a] -\u003e Task m)",
-        "fct-source": "src/Control-Hmk.html#Rule",
-        "fct-type": "function",
-        "title": "recipe"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Hmk",
-        "module": "Control.Hmk",
-        "name": "recipe",
-        "normalized": "Maybe([a]-\u003eTask b)",
-        "package": "hmk",
-        "partial": "",
-        "signature": "Maybe([a]-\u003eTask m)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hmk/docs/Control-Hmk.html#v:target",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Control.Hmk",
-        "fct-package": "hmk",
-        "fct-signature": "a",
-        "fct-source": "src/Control-Hmk.html#Rule",
-        "fct-type": "function",
-        "title": "target"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Hmk",
-        "module": "Control.Hmk",
-        "name": "target",
-        "normalized": "",
-        "package": "hmk",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

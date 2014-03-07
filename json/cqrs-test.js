@@ -1,50 +1,63 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cqrs-test/docs/Data-CQRS-Test-EventStore-BackendTest.html#",
-      "description": {
-        "fct-module": "Data.CQRS.Test.EventStore.BackendTest",
-        "fct-package": "cqrs-test",
-        "fct-signature": "module",
-        "fct-source": "src/Data-CQRS-Test-EventStore-BackendTest.html",
-        "fct-type": "module",
-        "title": "BackendTest"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "cqrs-test"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Data CQRS Test EventStore BackendTest",
-        "module": "Data.CQRS.Test.EventStore.BackendTest",
-        "name": "BackendTest",
-        "normalized": "",
-        "package": "cqrs-test",
-        "partial": "Backend Test",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cqrs-test/docs/Data-CQRS-Test-EventStore-BackendTest.html#v:testBackend",
-      "description": {
-        "fct-module": "Data.CQRS.Test.EventStore.BackendTest",
-        "fct-package": "cqrs-test",
-        "fct-signature": "IO (Pool b) -\u003e IO () -\u003e Spec",
-        "fct-source": "src/Data-CQRS-Test-EventStore-BackendTest.html#testBackend",
-        "fct-type": "function",
-        "title": "testBackend"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data CQRS Test EventStore BackendTest",
-        "module": "Data.CQRS.Test.EventStore.BackendTest",
-        "name": "testBackend",
-        "normalized": "IO(Pool a)-\u003eIO()-\u003eSpec",
-        "package": "cqrs-test",
-        "partial": "Backend",
-        "signature": "IO(Pool b)-\u003eIO()-\u003eSpec"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.CQRS.Test.EventStore.BackendTest",
+          "name": "BackendTest",
+          "package": "cqrs-test",
+          "source": "src/Data-CQRS-Test-EventStore-BackendTest.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data CQRS Test EventStore BackendTest",
+          "module": "Data.CQRS.Test.EventStore.BackendTest",
+          "name": "BackendTest",
+          "package": "cqrs-test",
+          "partial": "Backend Test",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/cqrs-test/docs/Data-CQRS-Test-EventStore-BackendTest.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.CQRS.Test.EventStore.BackendTest",
+          "name": "testBackend",
+          "package": "cqrs-test",
+          "signature": "IO (Pool b) -\u003e IO () -\u003e Spec",
+          "source": "src/Data-CQRS-Test-EventStore-BackendTest.html#testBackend",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data CQRS Test EventStore BackendTest",
+          "module": "Data.CQRS.Test.EventStore.BackendTest",
+          "name": "testBackend",
+          "normalized": "IO(Pool a)-\u003eIO()-\u003eSpec",
+          "package": "cqrs-test",
+          "partial": "Backend",
+          "signature": "IO(Pool b)-\u003eIO()-\u003eSpec",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cqrs-test/docs/Data-CQRS-Test-EventStore-BackendTest.html#v:testBackend"
       }
     }
-  }
+  ]
 ]

@@ -1,98 +1,104 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/geek-server/docs/Web-Geek-MarkupEngine-Markdown.html#",
-      "description": {
-        "fct-module": "Web.Geek.MarkupEngine.Markdown",
-        "fct-package": "geek-server",
-        "fct-signature": "module",
-        "fct-source": "src/Web-Geek-MarkupEngine-Markdown.html",
-        "fct-type": "module",
-        "title": "Markdown"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "geek-server"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Web Geek MarkupEngine Markdown",
-        "module": "Web.Geek.MarkupEngine.Markdown",
-        "name": "Markdown",
-        "normalized": "",
-        "package": "geek-server",
-        "partial": "Markdown",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/geek-server/docs/Web-Geek-MarkupEngine-Markdown.html#v:markdown",
-      "description": {
-        "fct-module": "Web.Geek.MarkupEngine.Markdown",
-        "fct-package": "geek-server",
-        "fct-signature": "MarkupEngine",
-        "fct-source": "src/Web-Geek-MarkupEngine-Markdown.html#markdown",
-        "fct-type": "function",
-        "title": "markdown"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Web Geek MarkupEngine Markdown",
-        "module": "Web.Geek.MarkupEngine.Markdown",
-        "name": "markdown",
-        "normalized": "",
-        "package": "geek-server",
-        "partial": "",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Web.Geek.MarkupEngine.Markdown",
+          "name": "Markdown",
+          "package": "geek-server",
+          "source": "src/Web-Geek-MarkupEngine-Markdown.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Web Geek MarkupEngine Markdown",
+          "module": "Web.Geek.MarkupEngine.Markdown",
+          "name": "Markdown",
+          "package": "geek-server",
+          "partial": "Markdown",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/geek-server/docs/Web-Geek-MarkupEngine-Markdown.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Web.Geek.MarkupEngine.Markdown",
+          "name": "markdown",
+          "package": "geek-server",
+          "signature": "MarkupEngine",
+          "source": "src/Web-Geek-MarkupEngine-Markdown.html#markdown",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Web Geek MarkupEngine Markdown",
+          "module": "Web.Geek.MarkupEngine.Markdown",
+          "name": "markdown",
+          "package": "geek-server",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/geek-server/docs/Web-Geek-MarkupEngine-Markdown.html#v:markdown"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Web.Geek.ServeWithSnapServer",
+          "name": "ServeWithSnapServer",
+          "package": "geek-server",
+          "source": "src/Web-Geek-ServeWithSnapServer.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Web Geek ServeWithSnapServer",
+          "module": "Web.Geek.ServeWithSnapServer",
+          "name": "ServeWithSnapServer",
+          "package": "geek-server",
+          "partial": "Serve With Snap Server",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/geek-server/docs/Web-Geek-ServeWithSnapServer.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Web.Geek.ServeWithSnapServer",
+          "name": "serve_with_snap_server",
+          "package": "geek-server",
+          "signature": "[MarkupEngine] -\u003e IO ()",
+          "source": "src/Web-Geek-ServeWithSnapServer.html#serve_with_snap_server",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Web Geek ServeWithSnapServer",
+          "module": "Web.Geek.ServeWithSnapServer",
+          "name": "serve_with_snap_server",
+          "normalized": "[MarkupEngine]-\u003eIO()",
+          "package": "geek-server",
+          "signature": "[MarkupEngine]-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/geek-server/docs/Web-Geek-ServeWithSnapServer.html#v:serve_with_snap_server"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/geek-server/docs/Web-Geek-ServeWithSnapServer.html#",
-      "description": {
-        "fct-module": "Web.Geek.ServeWithSnapServer",
-        "fct-package": "geek-server",
-        "fct-signature": "module",
-        "fct-source": "src/Web-Geek-ServeWithSnapServer.html",
-        "fct-type": "module",
-        "title": "ServeWithSnapServer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Web Geek ServeWithSnapServer",
-        "module": "Web.Geek.ServeWithSnapServer",
-        "name": "ServeWithSnapServer",
-        "normalized": "",
-        "package": "geek-server",
-        "partial": "Serve With Snap Server",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/geek-server/docs/Web-Geek-ServeWithSnapServer.html#v:serve_with_snap_server",
-      "description": {
-        "fct-module": "Web.Geek.ServeWithSnapServer",
-        "fct-package": "geek-server",
-        "fct-signature": "[MarkupEngine] -\u003e IO ()",
-        "fct-source": "src/Web-Geek-ServeWithSnapServer.html#serve_with_snap_server",
-        "fct-type": "function",
-        "title": "serve_with_snap_server"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Web Geek ServeWithSnapServer",
-        "module": "Web.Geek.ServeWithSnapServer",
-        "name": "serve_with_snap_server",
-        "normalized": "[MarkupEngine]-\u003eIO()",
-        "package": "geek-server",
-        "partial": "",
-        "signature": "[MarkupEngine]-\u003eIO()"
-      }
-    }
-  }
+  ]
 ]

@@ -1,26 +1,39 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/AbortT-mtl/docs/Control-Monad-Trans-Abort-Instances-MTL.html#",
-      "description": {
-        "fct-module": "Control.Monad.Trans.Abort.Instances.MTL",
-        "fct-package": "AbortT-mtl",
-        "fct-signature": "module",
-        "fct-source": "src/Control-Monad-Trans-Abort-Instances-MTL.html",
-        "fct-type": "module",
-        "title": "MTL"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "AbortT-mtl"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Monad Trans Abort Instances MTL",
-        "module": "Control.Monad.Trans.Abort.Instances.MTL",
-        "name": "MTL",
-        "normalized": "",
-        "package": "AbortT-mtl",
-        "partial": "MTL",
-        "signature": ""
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Monad.Trans.Abort.Instances.MTL",
+          "name": "MTL",
+          "package": "AbortT-mtl",
+          "source": "src/Control-Monad-Trans-Abort-Instances-MTL.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Control Monad Trans Abort Instances MTL",
+          "module": "Control.Monad.Trans.Abort.Instances.MTL",
+          "name": "MTL",
+          "package": "AbortT-mtl",
+          "partial": "MTL",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/AbortT-mtl/docs/Control-Monad-Trans-Abort-Instances-MTL.html#"
       }
     }
-  }
+  ]
 ]

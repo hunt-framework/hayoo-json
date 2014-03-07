@@ -1,74 +1,87 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gsl-random-fu/docs/Data-Random-Source-GSL.html#t:WrappedRNG",
-      "description": {
-        "fct-module": "Data.Random.Source.GSL",
-        "fct-package": "gsl-random-fu",
-        "fct-signature": "data",
-        "fct-source": "http://hackage.haskell.org/package/gsl-random-fu/docs/src/Data-Random-Source-GSL.html#WrappedRNG",
-        "fct-type": "unknown",
-        "title": "WrappedRNG"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "gsl-random-fu"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Random Source GSL",
-        "module": "Data.Random.Source.GSL",
-        "name": "WrappedRNG",
-        "normalized": "",
-        "package": "gsl-random-fu",
-        "partial": "Wrapped RNG",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gsl-random-fu/docs/Data-Random-Source-GSL.html#v:newWrappedRNG",
-      "description": {
-        "fct-module": "Data.Random.Source.GSL",
-        "fct-package": "gsl-random-fu",
-        "fct-signature": "RNGType -\u003e IO WrappedRNG",
-        "fct-source": "http://hackage.haskell.org/package/gsl-random-fu/docs/src/Data-Random-Source-GSL.html#newWrappedRNG",
-        "fct-type": "unknown",
-        "title": "newWrappedRNG"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Random Source GSL",
-        "module": "Data.Random.Source.GSL",
-        "name": "newWrappedRNG",
-        "normalized": "RNGType-\u003eIO WrappedRNG",
-        "package": "gsl-random-fu",
-        "partial": "Wrapped RNG",
-        "signature": "RNGType-\u003eIO WrappedRNG"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Random.Source.GSL",
+          "name": "WrappedRNG",
+          "package": "gsl-random-fu",
+          "source": "http://hackage.haskell.org/package/gsl-random-fu/docs/src/Data-Random-Source-GSL.html#WrappedRNG",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Random Source GSL",
+          "module": "Data.Random.Source.GSL",
+          "name": "WrappedRNG",
+          "package": "gsl-random-fu",
+          "partial": "Wrapped RNG",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/gsl-random-fu/docs/Data-Random-Source-GSL.html#t:WrappedRNG"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Random.Source.GSL",
+          "name": "newWrappedRNG",
+          "package": "gsl-random-fu",
+          "signature": "RNGType -\u003e IO WrappedRNG",
+          "source": "http://hackage.haskell.org/package/gsl-random-fu/docs/src/Data-Random-Source-GSL.html#newWrappedRNG",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Random Source GSL",
+          "module": "Data.Random.Source.GSL",
+          "name": "newWrappedRNG",
+          "normalized": "RNGType-\u003eIO WrappedRNG",
+          "package": "gsl-random-fu",
+          "partial": "Wrapped RNG",
+          "signature": "RNGType-\u003eIO WrappedRNG",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gsl-random-fu/docs/Data-Random-Source-GSL.html#v:newWrappedRNG"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Random.Source.GSL",
+          "name": "wrapRNG",
+          "package": "gsl-random-fu",
+          "signature": "RNG -\u003e IO WrappedRNG",
+          "source": "http://hackage.haskell.org/package/gsl-random-fu/docs/src/Data-Random-Source-GSL.html#wrapRNG",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Random Source GSL",
+          "module": "Data.Random.Source.GSL",
+          "name": "wrapRNG",
+          "normalized": "RNG-\u003eIO WrappedRNG",
+          "package": "gsl-random-fu",
+          "partial": "RNG",
+          "signature": "RNG-\u003eIO WrappedRNG",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gsl-random-fu/docs/Data-Random-Source-GSL.html#v:wrapRNG"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gsl-random-fu/docs/Data-Random-Source-GSL.html#v:wrapRNG",
-      "description": {
-        "fct-module": "Data.Random.Source.GSL",
-        "fct-package": "gsl-random-fu",
-        "fct-signature": "RNG -\u003e IO WrappedRNG",
-        "fct-source": "http://hackage.haskell.org/package/gsl-random-fu/docs/src/Data-Random-Source-GSL.html#wrapRNG",
-        "fct-type": "unknown",
-        "title": "wrapRNG"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Random Source GSL",
-        "module": "Data.Random.Source.GSL",
-        "name": "wrapRNG",
-        "normalized": "RNG-\u003eIO WrappedRNG",
-        "package": "gsl-random-fu",
-        "partial": "RNG",
-        "signature": "RNG-\u003eIO WrappedRNG"
-      }
-    }
-  }
+  ]
 ]

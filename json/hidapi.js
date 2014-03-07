@@ -1,852 +1,794 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#",
-      "description": {
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "module",
-        "fct-source": "src/System-HIDAPI.html",
-        "fct-type": "module",
-        "title": "HIDAPI"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "hidapi"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "HIDAPI",
-        "normalized": "",
-        "package": "hidapi",
-        "partial": "HIDAPI",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#t:Device",
-      "description": {
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "data",
-        "fct-source": "src/System-HIDAPI.html#Device",
-        "fct-type": "data",
-        "title": "Device"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "Device",
-        "normalized": "",
-        "package": "hidapi",
-        "partial": "Device",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "HIDAPI",
+          "package": "hidapi",
+          "source": "src/System-HIDAPI.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "HIDAPI",
+          "package": "hidapi",
+          "partial": "HIDAPI",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "Device",
+          "package": "hidapi",
+          "source": "src/System-HIDAPI.html#Device",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "Device",
+          "package": "hidapi",
+          "partial": "Device",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#t:Device"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "DeviceInfo",
+          "package": "hidapi",
+          "source": "src/System-HIDAPI.html#DeviceInfo",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "DeviceInfo",
+          "package": "hidapi",
+          "partial": "Device Info",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#t:DeviceInfo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "DevicePath",
+          "package": "hidapi",
+          "source": "src/System-HIDAPI.html#DevicePath",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "DevicePath",
+          "package": "hidapi",
+          "partial": "Device Path",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#t:DevicePath"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "HIDAPIException",
+          "package": "hidapi",
+          "source": "src/System-HIDAPI.html#HIDAPIException",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "HIDAPIException",
+          "package": "hidapi",
+          "partial": "HIDAPIException",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#t:HIDAPIException"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "InterfaceNumber",
+          "package": "hidapi",
+          "source": "src/System-HIDAPI.html#InterfaceNumber",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "InterfaceNumber",
+          "package": "hidapi",
+          "partial": "Interface Number",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#t:InterfaceNumber"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "ProductID",
+          "package": "hidapi",
+          "source": "src/System-HIDAPI.html#ProductID",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "ProductID",
+          "package": "hidapi",
+          "partial": "Product ID",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#t:ProductID"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "ReleaseNumber",
+          "package": "hidapi",
+          "source": "src/System-HIDAPI.html#ReleaseNumber",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "ReleaseNumber",
+          "package": "hidapi",
+          "partial": "Release Number",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#t:ReleaseNumber"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "SerialNumber",
+          "package": "hidapi",
+          "source": "src/System-HIDAPI.html#SerialNumber",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "SerialNumber",
+          "package": "hidapi",
+          "partial": "Serial Number",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#t:SerialNumber"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "VendorID",
+          "package": "hidapi",
+          "source": "src/System-HIDAPI.html#VendorID",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "VendorID",
+          "package": "hidapi",
+          "partial": "Vendor ID",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#t:VendorID"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "DeviceInfo",
+          "package": "hidapi",
+          "signature": "DeviceInfo",
+          "source": "src/System-HIDAPI.html#DeviceInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "DeviceInfo",
+          "package": "hidapi",
+          "partial": "Device Info",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:DeviceInfo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "HIDAPIException",
+          "package": "hidapi",
+          "signature": "HIDAPIException String String",
+          "source": "src/System-HIDAPI.html#HIDAPIException",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "HIDAPIException",
+          "package": "hidapi",
+          "partial": "HIDAPIException",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:HIDAPIException"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "close",
+          "package": "hidapi",
+          "signature": "Device -\u003e IO ()",
+          "source": "src/System-HIDAPI.html#close",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "close",
+          "normalized": "Device-\u003eIO()",
+          "package": "hidapi",
+          "signature": "Device-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:close"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "enumerate",
+          "package": "hidapi",
+          "signature": "Maybe VendorID -\u003e Maybe ProductID -\u003e IO [DeviceInfo]",
+          "source": "src/System-HIDAPI.html#enumerate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "enumerate",
+          "normalized": "Maybe VendorID-\u003eMaybe ProductID-\u003eIO[DeviceInfo]",
+          "package": "hidapi",
+          "signature": "Maybe VendorID-\u003eMaybe ProductID-\u003eIO[DeviceInfo]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:enumerate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "enumerateAll",
+          "package": "hidapi",
+          "signature": "IO [DeviceInfo]",
+          "source": "src/System-HIDAPI.html#enumerateAll",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "enumerateAll",
+          "normalized": "IO[DeviceInfo]",
+          "package": "hidapi",
+          "partial": "All",
+          "signature": "IO[DeviceInfo]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:enumerateAll"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "error",
+          "package": "hidapi",
+          "signature": "Device -\u003e IO (Maybe String)",
+          "source": "src/System-HIDAPI.html#error",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "error",
+          "normalized": "Device-\u003eIO(Maybe String)",
+          "package": "hidapi",
+          "signature": "Device-\u003eIO(Maybe String)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:error"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "exit",
+          "package": "hidapi",
+          "signature": "IO ()",
+          "source": "src/System-HIDAPI.html#exit",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "exit",
+          "normalized": "IO()",
+          "package": "hidapi",
+          "signature": "IO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:exit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "getSerialNumberString",
+          "package": "hidapi",
+          "signature": "Device -\u003e IO SerialNumber",
+          "source": "src/System-HIDAPI.html#getSerialNumberString",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "getSerialNumberString",
+          "normalized": "Device-\u003eIO SerialNumber",
+          "package": "hidapi",
+          "partial": "Serial Number String",
+          "signature": "Device-\u003eIO SerialNumber",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:getSerialNumberString"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "init",
+          "package": "hidapi",
+          "signature": "IO ()",
+          "source": "src/System-HIDAPI.html#init",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "init",
+          "normalized": "IO()",
+          "package": "hidapi",
+          "signature": "IO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:init"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "interfaceNumber",
+          "package": "hidapi",
+          "signature": "InterfaceNumber",
+          "source": "src/System-HIDAPI.html#DeviceInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "interfaceNumber",
+          "package": "hidapi",
+          "partial": "Number",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:interfaceNumber"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "manufacturerString",
+          "package": "hidapi",
+          "signature": "Maybe String",
+          "source": "src/System-HIDAPI.html#DeviceInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "manufacturerString",
+          "package": "hidapi",
+          "partial": "String",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:manufacturerString"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "open",
+          "package": "hidapi",
+          "signature": "VendorID -\u003e ProductID -\u003e Maybe SerialNumber -\u003e IO Device",
+          "source": "src/System-HIDAPI.html#open",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "open",
+          "normalized": "VendorID-\u003eProductID-\u003eMaybe SerialNumber-\u003eIO Device",
+          "package": "hidapi",
+          "signature": "VendorID-\u003eProductID-\u003eMaybe SerialNumber-\u003eIO Device",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:open"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "openDeviceInfo",
+          "package": "hidapi",
+          "signature": "DeviceInfo -\u003e IO Device",
+          "source": "src/System-HIDAPI.html#openDeviceInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "openDeviceInfo",
+          "normalized": "DeviceInfo-\u003eIO Device",
+          "package": "hidapi",
+          "partial": "Device Info",
+          "signature": "DeviceInfo-\u003eIO Device",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:openDeviceInfo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "openPath",
+          "package": "hidapi",
+          "signature": "DevicePath -\u003e IO Device",
+          "source": "src/System-HIDAPI.html#openPath",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "openPath",
+          "normalized": "DevicePath-\u003eIO Device",
+          "package": "hidapi",
+          "partial": "Path",
+          "signature": "DevicePath-\u003eIO Device",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:openPath"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "path",
+          "package": "hidapi",
+          "signature": "DevicePath",
+          "source": "src/System-HIDAPI.html#DeviceInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "path",
+          "package": "hidapi",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:path"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "productId",
+          "package": "hidapi",
+          "signature": "ProductID",
+          "source": "src/System-HIDAPI.html#DeviceInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "productId",
+          "package": "hidapi",
+          "partial": "Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:productId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "productString",
+          "package": "hidapi",
+          "signature": "Maybe String",
+          "source": "src/System-HIDAPI.html#DeviceInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "productString",
+          "package": "hidapi",
+          "partial": "String",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:productString"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "read",
+          "package": "hidapi",
+          "signature": "Device -\u003e Int -\u003e IO ByteString",
+          "source": "src/System-HIDAPI.html#read",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "read",
+          "normalized": "Device-\u003eInt-\u003eIO ByteString",
+          "package": "hidapi",
+          "signature": "Device-\u003eInt-\u003eIO ByteString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:read"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "releaseNumber",
+          "package": "hidapi",
+          "signature": "ReleaseNumber",
+          "source": "src/System-HIDAPI.html#DeviceInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "releaseNumber",
+          "package": "hidapi",
+          "partial": "Number",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:releaseNumber"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "serialNumber",
+          "package": "hidapi",
+          "signature": "Maybe SerialNumber",
+          "source": "src/System-HIDAPI.html#DeviceInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "serialNumber",
+          "package": "hidapi",
+          "partial": "Number",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:serialNumber"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "usage",
+          "package": "hidapi",
+          "signature": "Word16",
+          "source": "src/System-HIDAPI.html#DeviceInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "usage",
+          "package": "hidapi",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:usage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "usagePage",
+          "package": "hidapi",
+          "signature": "Word16",
+          "source": "src/System-HIDAPI.html#DeviceInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "usagePage",
+          "package": "hidapi",
+          "partial": "Page",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:usagePage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "vendorId",
+          "package": "hidapi",
+          "signature": "VendorID",
+          "source": "src/System-HIDAPI.html#DeviceInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "vendorId",
+          "package": "hidapi",
+          "partial": "Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:vendorId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "withHIDAPI",
+          "package": "hidapi",
+          "signature": "IO a -\u003e IO a",
+          "source": "src/System-HIDAPI.html#withHIDAPI",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "withHIDAPI",
+          "normalized": "IO a-\u003eIO a",
+          "package": "hidapi",
+          "partial": "HIDAPI",
+          "signature": "IO a-\u003eIO a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:withHIDAPI"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.HIDAPI",
+          "name": "write",
+          "package": "hidapi",
+          "signature": "Device -\u003e ByteString -\u003e IO Int",
+          "source": "src/System-HIDAPI.html#write",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System HIDAPI",
+          "module": "System.HIDAPI",
+          "name": "write",
+          "normalized": "Device-\u003eByteString-\u003eIO Int",
+          "package": "hidapi",
+          "signature": "Device-\u003eByteString-\u003eIO Int",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:write"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#t:DeviceInfo",
-      "description": {
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "data",
-        "fct-source": "src/System-HIDAPI.html#DeviceInfo",
-        "fct-type": "data",
-        "title": "DeviceInfo"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "DeviceInfo",
-        "normalized": "",
-        "package": "hidapi",
-        "partial": "Device Info",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#t:DevicePath",
-      "description": {
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "type",
-        "fct-source": "src/System-HIDAPI.html#DevicePath",
-        "fct-type": "type",
-        "title": "DevicePath"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "DevicePath",
-        "normalized": "",
-        "package": "hidapi",
-        "partial": "Device Path",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#t:HIDAPIException",
-      "description": {
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "data",
-        "fct-source": "src/System-HIDAPI.html#HIDAPIException",
-        "fct-type": "data",
-        "title": "HIDAPIException"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "HIDAPIException",
-        "normalized": "",
-        "package": "hidapi",
-        "partial": "HIDAPIException",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#t:InterfaceNumber",
-      "description": {
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "type",
-        "fct-source": "src/System-HIDAPI.html#InterfaceNumber",
-        "fct-type": "type",
-        "title": "InterfaceNumber"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "InterfaceNumber",
-        "normalized": "",
-        "package": "hidapi",
-        "partial": "Interface Number",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#t:ProductID",
-      "description": {
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "type",
-        "fct-source": "src/System-HIDAPI.html#ProductID",
-        "fct-type": "type",
-        "title": "ProductID"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "ProductID",
-        "normalized": "",
-        "package": "hidapi",
-        "partial": "Product ID",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#t:ReleaseNumber",
-      "description": {
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "type",
-        "fct-source": "src/System-HIDAPI.html#ReleaseNumber",
-        "fct-type": "type",
-        "title": "ReleaseNumber"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "ReleaseNumber",
-        "normalized": "",
-        "package": "hidapi",
-        "partial": "Release Number",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#t:SerialNumber",
-      "description": {
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "type",
-        "fct-source": "src/System-HIDAPI.html#SerialNumber",
-        "fct-type": "type",
-        "title": "SerialNumber"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "SerialNumber",
-        "normalized": "",
-        "package": "hidapi",
-        "partial": "Serial Number",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#t:VendorID",
-      "description": {
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "type",
-        "fct-source": "src/System-HIDAPI.html#VendorID",
-        "fct-type": "type",
-        "title": "VendorID"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "VendorID",
-        "normalized": "",
-        "package": "hidapi",
-        "partial": "Vendor ID",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:DeviceInfo",
-      "description": {
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "DeviceInfo",
-        "fct-source": "src/System-HIDAPI.html#DeviceInfo",
-        "fct-type": "function",
-        "title": "DeviceInfo"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "DeviceInfo",
-        "normalized": "",
-        "package": "hidapi",
-        "partial": "Device Info",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:HIDAPIException",
-      "description": {
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "HIDAPIException String String",
-        "fct-source": "src/System-HIDAPI.html#HIDAPIException",
-        "fct-type": "function",
-        "title": "HIDAPIException"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "HIDAPIException",
-        "normalized": "",
-        "package": "hidapi",
-        "partial": "HIDAPIException",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:close",
-      "description": {
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "Device -\u003e IO ()",
-        "fct-source": "src/System-HIDAPI.html#close",
-        "fct-type": "function",
-        "title": "close"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "close",
-        "normalized": "Device-\u003eIO()",
-        "package": "hidapi",
-        "partial": "",
-        "signature": "Device-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:enumerate",
-      "description": {
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "Maybe VendorID -\u003e Maybe ProductID -\u003e IO [DeviceInfo]",
-        "fct-source": "src/System-HIDAPI.html#enumerate",
-        "fct-type": "function",
-        "title": "enumerate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "enumerate",
-        "normalized": "Maybe VendorID-\u003eMaybe ProductID-\u003eIO[DeviceInfo]",
-        "package": "hidapi",
-        "partial": "",
-        "signature": "Maybe VendorID-\u003eMaybe ProductID-\u003eIO[DeviceInfo]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:enumerateAll",
-      "description": {
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "IO [DeviceInfo]",
-        "fct-source": "src/System-HIDAPI.html#enumerateAll",
-        "fct-type": "function",
-        "title": "enumerateAll"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "enumerateAll",
-        "normalized": "IO[DeviceInfo]",
-        "package": "hidapi",
-        "partial": "All",
-        "signature": "IO[DeviceInfo]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:error",
-      "description": {
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "Device -\u003e IO (Maybe String)",
-        "fct-source": "src/System-HIDAPI.html#error",
-        "fct-type": "function",
-        "title": "error"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "error",
-        "normalized": "Device-\u003eIO(Maybe String)",
-        "package": "hidapi",
-        "partial": "",
-        "signature": "Device-\u003eIO(Maybe String)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:exit",
-      "description": {
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "IO ()",
-        "fct-source": "src/System-HIDAPI.html#exit",
-        "fct-type": "function",
-        "title": "exit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "exit",
-        "normalized": "IO()",
-        "package": "hidapi",
-        "partial": "",
-        "signature": "IO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:getSerialNumberString",
-      "description": {
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "Device -\u003e IO SerialNumber",
-        "fct-source": "src/System-HIDAPI.html#getSerialNumberString",
-        "fct-type": "function",
-        "title": "getSerialNumberString"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "getSerialNumberString",
-        "normalized": "Device-\u003eIO SerialNumber",
-        "package": "hidapi",
-        "partial": "Serial Number String",
-        "signature": "Device-\u003eIO SerialNumber"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:init",
-      "description": {
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "IO ()",
-        "fct-source": "src/System-HIDAPI.html#init",
-        "fct-type": "function",
-        "title": "init"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "init",
-        "normalized": "IO()",
-        "package": "hidapi",
-        "partial": "",
-        "signature": "IO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:interfaceNumber",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "InterfaceNumber",
-        "fct-source": "src/System-HIDAPI.html#DeviceInfo",
-        "fct-type": "function",
-        "title": "interfaceNumber"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "interfaceNumber",
-        "normalized": "",
-        "package": "hidapi",
-        "partial": "Number",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:manufacturerString",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "Maybe String",
-        "fct-source": "src/System-HIDAPI.html#DeviceInfo",
-        "fct-type": "function",
-        "title": "manufacturerString"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "manufacturerString",
-        "normalized": "",
-        "package": "hidapi",
-        "partial": "String",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:open",
-      "description": {
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "VendorID -\u003e ProductID -\u003e Maybe SerialNumber -\u003e IO Device",
-        "fct-source": "src/System-HIDAPI.html#open",
-        "fct-type": "function",
-        "title": "open"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "open",
-        "normalized": "VendorID-\u003eProductID-\u003eMaybe SerialNumber-\u003eIO Device",
-        "package": "hidapi",
-        "partial": "",
-        "signature": "VendorID-\u003eProductID-\u003eMaybe SerialNumber-\u003eIO Device"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:openDeviceInfo",
-      "description": {
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "DeviceInfo -\u003e IO Device",
-        "fct-source": "src/System-HIDAPI.html#openDeviceInfo",
-        "fct-type": "function",
-        "title": "openDeviceInfo"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "openDeviceInfo",
-        "normalized": "DeviceInfo-\u003eIO Device",
-        "package": "hidapi",
-        "partial": "Device Info",
-        "signature": "DeviceInfo-\u003eIO Device"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:openPath",
-      "description": {
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "DevicePath -\u003e IO Device",
-        "fct-source": "src/System-HIDAPI.html#openPath",
-        "fct-type": "function",
-        "title": "openPath"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "openPath",
-        "normalized": "DevicePath-\u003eIO Device",
-        "package": "hidapi",
-        "partial": "Path",
-        "signature": "DevicePath-\u003eIO Device"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:path",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "DevicePath",
-        "fct-source": "src/System-HIDAPI.html#DeviceInfo",
-        "fct-type": "function",
-        "title": "path"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "path",
-        "normalized": "",
-        "package": "hidapi",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:productId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "ProductID",
-        "fct-source": "src/System-HIDAPI.html#DeviceInfo",
-        "fct-type": "function",
-        "title": "productId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "productId",
-        "normalized": "",
-        "package": "hidapi",
-        "partial": "Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:productString",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "Maybe String",
-        "fct-source": "src/System-HIDAPI.html#DeviceInfo",
-        "fct-type": "function",
-        "title": "productString"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "productString",
-        "normalized": "",
-        "package": "hidapi",
-        "partial": "String",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:read",
-      "description": {
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "Device -\u003e Int -\u003e IO ByteString",
-        "fct-source": "src/System-HIDAPI.html#read",
-        "fct-type": "function",
-        "title": "read"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "read",
-        "normalized": "Device-\u003eInt-\u003eIO ByteString",
-        "package": "hidapi",
-        "partial": "",
-        "signature": "Device-\u003eInt-\u003eIO ByteString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:releaseNumber",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "ReleaseNumber",
-        "fct-source": "src/System-HIDAPI.html#DeviceInfo",
-        "fct-type": "function",
-        "title": "releaseNumber"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "releaseNumber",
-        "normalized": "",
-        "package": "hidapi",
-        "partial": "Number",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:serialNumber",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "Maybe SerialNumber",
-        "fct-source": "src/System-HIDAPI.html#DeviceInfo",
-        "fct-type": "function",
-        "title": "serialNumber"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "serialNumber",
-        "normalized": "",
-        "package": "hidapi",
-        "partial": "Number",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:usage",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "Word16",
-        "fct-source": "src/System-HIDAPI.html#DeviceInfo",
-        "fct-type": "function",
-        "title": "usage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "usage",
-        "normalized": "",
-        "package": "hidapi",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:usagePage",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "Word16",
-        "fct-source": "src/System-HIDAPI.html#DeviceInfo",
-        "fct-type": "function",
-        "title": "usagePage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "usagePage",
-        "normalized": "",
-        "package": "hidapi",
-        "partial": "Page",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:vendorId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "VendorID",
-        "fct-source": "src/System-HIDAPI.html#DeviceInfo",
-        "fct-type": "function",
-        "title": "vendorId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "vendorId",
-        "normalized": "",
-        "package": "hidapi",
-        "partial": "Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:withHIDAPI",
-      "description": {
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "IO a -\u003e IO a",
-        "fct-source": "src/System-HIDAPI.html#withHIDAPI",
-        "fct-type": "function",
-        "title": "withHIDAPI"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "withHIDAPI",
-        "normalized": "IO a-\u003eIO a",
-        "package": "hidapi",
-        "partial": "HIDAPI",
-        "signature": "IO a-\u003eIO a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hidapi/docs/System-HIDAPI.html#v:write",
-      "description": {
-        "fct-module": "System.HIDAPI",
-        "fct-package": "hidapi",
-        "fct-signature": "Device -\u003e ByteString -\u003e IO Int",
-        "fct-source": "src/System-HIDAPI.html#write",
-        "fct-type": "function",
-        "title": "write"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System HIDAPI",
-        "module": "System.HIDAPI",
-        "name": "write",
-        "normalized": "Device-\u003eByteString-\u003eIO Int",
-        "package": "hidapi",
-        "partial": "",
-        "signature": "Device-\u003eByteString-\u003eIO Int"
-      }
-    }
-  }
+  ]
 ]

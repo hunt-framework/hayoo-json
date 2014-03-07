@@ -1,272 +1,260 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/atmos-dimensional/docs/Atmosphere-Dimensional.html#",
-      "description": {
-        "fct-module": "Atmosphere.Dimensional",
-        "fct-package": "atmos-dimensional",
-        "fct-signature": "module",
-        "fct-source": "src/Atmosphere-Dimensional.html",
-        "fct-type": "module",
-        "title": "Dimensional"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "atmos-dimensional"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Atmosphere Dimensional",
-        "module": "Atmosphere.Dimensional",
-        "name": "Dimensional",
-        "normalized": "",
-        "package": "atmos-dimensional",
-        "partial": "Dimensional",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/atmos-dimensional/docs/Atmosphere-Dimensional.html#t:Atmos",
-      "description": {
-        "fct-module": "Atmosphere.Dimensional",
-        "fct-package": "atmos-dimensional",
-        "fct-signature": "data",
-        "fct-source": "src/Atmosphere-Dimensional.html#Atmos",
-        "fct-type": "data",
-        "title": "Atmos"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Atmosphere Dimensional",
-        "module": "Atmosphere.Dimensional",
-        "name": "Atmos",
-        "normalized": "",
-        "package": "atmos-dimensional",
-        "partial": "Atmos",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Atmosphere.Dimensional",
+          "name": "Dimensional",
+          "package": "atmos-dimensional",
+          "source": "src/Atmosphere-Dimensional.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Atmosphere Dimensional",
+          "module": "Atmosphere.Dimensional",
+          "name": "Dimensional",
+          "package": "atmos-dimensional",
+          "partial": "Dimensional",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/atmos-dimensional/docs/Atmosphere-Dimensional.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Atmosphere.Dimensional",
+          "name": "Atmos",
+          "package": "atmos-dimensional",
+          "source": "src/Atmosphere-Dimensional.html#Atmos",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Atmosphere Dimensional",
+          "module": "Atmosphere.Dimensional",
+          "name": "Atmos",
+          "package": "atmos-dimensional",
+          "partial": "Atmos",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/atmos-dimensional/docs/Atmosphere-Dimensional.html#t:Atmos"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Atmosphere.Dimensional",
+          "name": "Atmos",
+          "package": "atmos-dimensional",
+          "signature": "Atmos",
+          "source": "src/Atmosphere-Dimensional.html#Atmos",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Atmosphere Dimensional",
+          "module": "Atmosphere.Dimensional",
+          "name": "Atmos",
+          "package": "atmos-dimensional",
+          "partial": "Atmos",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/atmos-dimensional/docs/Atmosphere-Dimensional.html#v:Atmos"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Atmosphere.Dimensional",
+          "name": "atmosDensity",
+          "package": "atmos-dimensional",
+          "signature": "Density a",
+          "source": "src/Atmosphere-Dimensional.html#Atmos",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Atmosphere Dimensional",
+          "module": "Atmosphere.Dimensional",
+          "name": "atmosDensity",
+          "package": "atmos-dimensional",
+          "partial": "Density",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/atmos-dimensional/docs/Atmosphere-Dimensional.html#v:atmosDensity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Atmosphere.Dimensional",
+          "name": "atmosKinematicViscosity",
+          "package": "atmos-dimensional",
+          "signature": "KinematicViscosity a",
+          "source": "src/Atmosphere-Dimensional.html#Atmos",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Atmosphere Dimensional",
+          "module": "Atmosphere.Dimensional",
+          "name": "atmosKinematicViscosity",
+          "package": "atmos-dimensional",
+          "partial": "Kinematic Viscosity",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/atmos-dimensional/docs/Atmosphere-Dimensional.html#v:atmosKinematicViscosity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Atmosphere.Dimensional",
+          "name": "atmosPressure",
+          "package": "atmos-dimensional",
+          "signature": "Pressure a",
+          "source": "src/Atmosphere-Dimensional.html#Atmos",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Atmosphere Dimensional",
+          "module": "Atmosphere.Dimensional",
+          "name": "atmosPressure",
+          "package": "atmos-dimensional",
+          "partial": "Pressure",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/atmos-dimensional/docs/Atmosphere-Dimensional.html#v:atmosPressure"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Atmosphere.Dimensional",
+          "name": "atmosSpeedOfSound",
+          "package": "atmos-dimensional",
+          "signature": "Velocity a",
+          "source": "src/Atmosphere-Dimensional.html#Atmos",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Atmosphere Dimensional",
+          "module": "Atmosphere.Dimensional",
+          "name": "atmosSpeedOfSound",
+          "package": "atmos-dimensional",
+          "partial": "Speed Of Sound",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/atmos-dimensional/docs/Atmosphere-Dimensional.html#v:atmosSpeedOfSound"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Atmosphere.Dimensional",
+          "name": "atmosTemperature",
+          "package": "atmos-dimensional",
+          "signature": "ThermodynamicTemperature a",
+          "source": "src/Atmosphere-Dimensional.html#Atmos",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Atmosphere Dimensional",
+          "module": "Atmosphere.Dimensional",
+          "name": "atmosTemperature",
+          "package": "atmos-dimensional",
+          "partial": "Temperature",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/atmos-dimensional/docs/Atmosphere-Dimensional.html#v:atmosTemperature"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Atmosphere.Dimensional",
+          "name": "atmosViscosity",
+          "package": "atmos-dimensional",
+          "signature": "DynamicViscosity a",
+          "source": "src/Atmosphere-Dimensional.html#Atmos",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Atmosphere Dimensional",
+          "module": "Atmosphere.Dimensional",
+          "name": "atmosViscosity",
+          "package": "atmos-dimensional",
+          "partial": "Viscosity",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/atmos-dimensional/docs/Atmosphere-Dimensional.html#v:atmosViscosity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Atmosphere.Dimensional",
+          "name": "atmosphere",
+          "package": "atmos-dimensional",
+          "signature": "Length a -\u003e (ThermodynamicTemperature a, Pressure a, Density a, Velocity a, DynamicViscosity a, KinematicViscosity a)",
+          "source": "src/Atmosphere-Dimensional.html#atmosphere",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Atmosphere Dimensional",
+          "module": "Atmosphere.Dimensional",
+          "name": "atmosphere",
+          "normalized": "Length a-\u003e(ThermodynamicTemperature a,Pressure a,Density a,Velocity a,DynamicViscosity a,KinematicViscosity a)",
+          "package": "atmos-dimensional",
+          "signature": "Length a-\u003e(ThermodynamicTemperature a,Pressure a,Density a,Velocity a,DynamicViscosity a,KinematicViscosity a)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/atmos-dimensional/docs/Atmosphere-Dimensional.html#v:atmosphere"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Atmosphere.Dimensional",
+          "name": "atmosphere'",
+          "package": "atmos-dimensional",
+          "signature": "Length a -\u003e Atmos a",
+          "source": "src/Atmosphere-Dimensional.html#atmosphere%27",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Atmosphere Dimensional",
+          "module": "Atmosphere.Dimensional",
+          "name": "atmosphere'",
+          "normalized": "Length a-\u003eAtmos a",
+          "package": "atmos-dimensional",
+          "signature": "Length a-\u003eAtmos a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/atmos-dimensional/docs/Atmosphere-Dimensional.html#v:atmosphere-39-"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/atmos-dimensional/docs/Atmosphere-Dimensional.html#v:Atmos",
-      "description": {
-        "fct-module": "Atmosphere.Dimensional",
-        "fct-package": "atmos-dimensional",
-        "fct-signature": "Atmos",
-        "fct-source": "src/Atmosphere-Dimensional.html#Atmos",
-        "fct-type": "function",
-        "title": "Atmos"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Atmosphere Dimensional",
-        "module": "Atmosphere.Dimensional",
-        "name": "Atmos",
-        "normalized": "",
-        "package": "atmos-dimensional",
-        "partial": "Atmos",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/atmos-dimensional/docs/Atmosphere-Dimensional.html#v:atmosDensity",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Atmosphere.Dimensional",
-        "fct-package": "atmos-dimensional",
-        "fct-signature": "Density a",
-        "fct-source": "src/Atmosphere-Dimensional.html#Atmos",
-        "fct-type": "function",
-        "title": "atmosDensity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Atmosphere Dimensional",
-        "module": "Atmosphere.Dimensional",
-        "name": "atmosDensity",
-        "normalized": "",
-        "package": "atmos-dimensional",
-        "partial": "Density",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/atmos-dimensional/docs/Atmosphere-Dimensional.html#v:atmosKinematicViscosity",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Atmosphere.Dimensional",
-        "fct-package": "atmos-dimensional",
-        "fct-signature": "KinematicViscosity a",
-        "fct-source": "src/Atmosphere-Dimensional.html#Atmos",
-        "fct-type": "function",
-        "title": "atmosKinematicViscosity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Atmosphere Dimensional",
-        "module": "Atmosphere.Dimensional",
-        "name": "atmosKinematicViscosity",
-        "normalized": "",
-        "package": "atmos-dimensional",
-        "partial": "Kinematic Viscosity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/atmos-dimensional/docs/Atmosphere-Dimensional.html#v:atmosPressure",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Atmosphere.Dimensional",
-        "fct-package": "atmos-dimensional",
-        "fct-signature": "Pressure a",
-        "fct-source": "src/Atmosphere-Dimensional.html#Atmos",
-        "fct-type": "function",
-        "title": "atmosPressure"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Atmosphere Dimensional",
-        "module": "Atmosphere.Dimensional",
-        "name": "atmosPressure",
-        "normalized": "",
-        "package": "atmos-dimensional",
-        "partial": "Pressure",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/atmos-dimensional/docs/Atmosphere-Dimensional.html#v:atmosSpeedOfSound",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Atmosphere.Dimensional",
-        "fct-package": "atmos-dimensional",
-        "fct-signature": "Velocity a",
-        "fct-source": "src/Atmosphere-Dimensional.html#Atmos",
-        "fct-type": "function",
-        "title": "atmosSpeedOfSound"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Atmosphere Dimensional",
-        "module": "Atmosphere.Dimensional",
-        "name": "atmosSpeedOfSound",
-        "normalized": "",
-        "package": "atmos-dimensional",
-        "partial": "Speed Of Sound",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/atmos-dimensional/docs/Atmosphere-Dimensional.html#v:atmosTemperature",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Atmosphere.Dimensional",
-        "fct-package": "atmos-dimensional",
-        "fct-signature": "ThermodynamicTemperature a",
-        "fct-source": "src/Atmosphere-Dimensional.html#Atmos",
-        "fct-type": "function",
-        "title": "atmosTemperature"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Atmosphere Dimensional",
-        "module": "Atmosphere.Dimensional",
-        "name": "atmosTemperature",
-        "normalized": "",
-        "package": "atmos-dimensional",
-        "partial": "Temperature",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/atmos-dimensional/docs/Atmosphere-Dimensional.html#v:atmosViscosity",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Atmosphere.Dimensional",
-        "fct-package": "atmos-dimensional",
-        "fct-signature": "DynamicViscosity a",
-        "fct-source": "src/Atmosphere-Dimensional.html#Atmos",
-        "fct-type": "function",
-        "title": "atmosViscosity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Atmosphere Dimensional",
-        "module": "Atmosphere.Dimensional",
-        "name": "atmosViscosity",
-        "normalized": "",
-        "package": "atmos-dimensional",
-        "partial": "Viscosity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/atmos-dimensional/docs/Atmosphere-Dimensional.html#v:atmosphere",
-      "description": {
-        "fct-module": "Atmosphere.Dimensional",
-        "fct-package": "atmos-dimensional",
-        "fct-signature": "Length a -\u003e (ThermodynamicTemperature a, Pressure a, Density a, Velocity a, DynamicViscosity a, KinematicViscosity a)",
-        "fct-source": "src/Atmosphere-Dimensional.html#atmosphere",
-        "fct-type": "function",
-        "title": "atmosphere"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Atmosphere Dimensional",
-        "module": "Atmosphere.Dimensional",
-        "name": "atmosphere",
-        "normalized": "Length a-\u003e(ThermodynamicTemperature a,Pressure a,Density a,Velocity a,DynamicViscosity a,KinematicViscosity a)",
-        "package": "atmos-dimensional",
-        "partial": "",
-        "signature": "Length a-\u003e(ThermodynamicTemperature a,Pressure a,Density a,Velocity a,DynamicViscosity a,KinematicViscosity a)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/atmos-dimensional/docs/Atmosphere-Dimensional.html#v:atmosphere-39-",
-      "description": {
-        "fct-module": "Atmosphere.Dimensional",
-        "fct-package": "atmos-dimensional",
-        "fct-signature": "Length a -\u003e Atmos a",
-        "fct-source": "src/Atmosphere-Dimensional.html#atmosphere%27",
-        "fct-type": "function",
-        "title": "atmosphere'"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Atmosphere Dimensional",
-        "module": "Atmosphere.Dimensional",
-        "name": "atmosphere'",
-        "normalized": "Length a-\u003eAtmos a",
-        "package": "atmos-dimensional",
-        "partial": "",
-        "signature": "Length a-\u003eAtmos a"
-      }
-    }
-  }
+  ]
 ]

@@ -1,98 +1,109 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/embroidery/docs/Codec-Binary-Embroidery.html#",
-      "description": {
-        "fct-module": "Codec.Binary.Embroidery",
-        "fct-package": "embroidery",
-        "fct-signature": "module",
-        "fct-source": "src/Codec-Binary-Embroidery.html",
-        "fct-type": "module",
-        "title": "Embroidery"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "embroidery"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Codec Binary Embroidery",
-        "module": "Codec.Binary.Embroidery",
-        "name": "Embroidery",
-        "normalized": "",
-        "package": "embroidery",
-        "partial": "Embroidery",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/embroidery/docs/Codec-Binary-Embroidery.html#v:displayRendering",
-      "description": {
-        "fct-module": "Codec.Binary.Embroidery",
-        "fct-package": "embroidery",
-        "fct-signature": "EmbFile -\u003e IO ()",
-        "fct-source": "src/Codec-Binary-Embroidery.html#displayRendering",
-        "fct-type": "function",
-        "title": "displayRendering"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Codec Binary Embroidery",
-        "module": "Codec.Binary.Embroidery",
-        "name": "displayRendering",
-        "normalized": "EmbFile-\u003eIO()",
-        "package": "embroidery",
-        "partial": "Rendering",
-        "signature": "EmbFile-\u003eIO()"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Codec.Binary.Embroidery",
+          "name": "Embroidery",
+          "package": "embroidery",
+          "source": "src/Codec-Binary-Embroidery.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Codec Binary Embroidery",
+          "module": "Codec.Binary.Embroidery",
+          "name": "Embroidery",
+          "package": "embroidery",
+          "partial": "Embroidery",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/embroidery/docs/Codec-Binary-Embroidery.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Codec.Binary.Embroidery",
+          "name": "displayRendering",
+          "package": "embroidery",
+          "signature": "EmbFile -\u003e IO ()",
+          "source": "src/Codec-Binary-Embroidery.html#displayRendering",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Codec Binary Embroidery",
+          "module": "Codec.Binary.Embroidery",
+          "name": "displayRendering",
+          "normalized": "EmbFile-\u003eIO()",
+          "package": "embroidery",
+          "partial": "Rendering",
+          "signature": "EmbFile-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/embroidery/docs/Codec-Binary-Embroidery.html#v:displayRendering"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Codec.Binary.Embroidery",
+          "name": "importPES",
+          "package": "embroidery",
+          "signature": "FilePath -\u003e IO (Either String EmbFile)",
+          "source": "src/Codec-Binary-Embroidery.html#importPES",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Codec Binary Embroidery",
+          "module": "Codec.Binary.Embroidery",
+          "name": "importPES",
+          "normalized": "FilePath-\u003eIO(Either String EmbFile)",
+          "package": "embroidery",
+          "partial": "PES",
+          "signature": "FilePath-\u003eIO(Either String EmbFile)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/embroidery/docs/Codec-Binary-Embroidery.html#v:importPES"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Codec.Binary.Embroidery",
+          "name": "parsePES",
+          "package": "embroidery",
+          "signature": "Parser EmbFile",
+          "source": "src/Codec-Binary-Embroidery.html#parsePES",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Codec Binary Embroidery",
+          "module": "Codec.Binary.Embroidery",
+          "name": "parsePES",
+          "package": "embroidery",
+          "partial": "PES",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/embroidery/docs/Codec-Binary-Embroidery.html#v:parsePES"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/embroidery/docs/Codec-Binary-Embroidery.html#v:importPES",
-      "description": {
-        "fct-module": "Codec.Binary.Embroidery",
-        "fct-package": "embroidery",
-        "fct-signature": "FilePath -\u003e IO (Either String EmbFile)",
-        "fct-source": "src/Codec-Binary-Embroidery.html#importPES",
-        "fct-type": "function",
-        "title": "importPES"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Codec Binary Embroidery",
-        "module": "Codec.Binary.Embroidery",
-        "name": "importPES",
-        "normalized": "FilePath-\u003eIO(Either String EmbFile)",
-        "package": "embroidery",
-        "partial": "PES",
-        "signature": "FilePath-\u003eIO(Either String EmbFile)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/embroidery/docs/Codec-Binary-Embroidery.html#v:parsePES",
-      "description": {
-        "fct-module": "Codec.Binary.Embroidery",
-        "fct-package": "embroidery",
-        "fct-signature": "Parser EmbFile",
-        "fct-source": "src/Codec-Binary-Embroidery.html#parsePES",
-        "fct-type": "function",
-        "title": "parsePES"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Codec Binary Embroidery",
-        "module": "Codec.Binary.Embroidery",
-        "name": "parsePES",
-        "normalized": "",
-        "package": "embroidery",
-        "partial": "PES",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

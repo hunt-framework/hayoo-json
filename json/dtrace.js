@@ -1,50 +1,62 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dtrace/docs/System-DTrace.html#",
-      "description": {
-        "fct-module": "System.DTrace",
-        "fct-package": "dtrace",
-        "fct-signature": "module",
-        "fct-source": "src/System-DTrace.html",
-        "fct-type": "module",
-        "title": "DTrace"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "dtrace"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "System DTrace",
-        "module": "System.DTrace",
-        "name": "DTrace",
-        "normalized": "",
-        "package": "dtrace",
-        "partial": "DTrace",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dtrace/docs/System-DTrace.html#v:trace",
-      "description": {
-        "fct-module": "System.DTrace",
-        "fct-package": "dtrace",
-        "fct-signature": "String -\u003e IO ()",
-        "fct-source": "src/System-DTrace.html#trace",
-        "fct-type": "function",
-        "title": "trace"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System DTrace",
-        "module": "System.DTrace",
-        "name": "trace",
-        "normalized": "String-\u003eIO()",
-        "package": "dtrace",
-        "partial": "",
-        "signature": "String-\u003eIO()"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.DTrace",
+          "name": "DTrace",
+          "package": "dtrace",
+          "source": "src/System-DTrace.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "System DTrace",
+          "module": "System.DTrace",
+          "name": "DTrace",
+          "package": "dtrace",
+          "partial": "DTrace",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/dtrace/docs/System-DTrace.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.DTrace",
+          "name": "trace",
+          "package": "dtrace",
+          "signature": "String -\u003e IO ()",
+          "source": "src/System-DTrace.html#trace",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System DTrace",
+          "module": "System.DTrace",
+          "name": "trace",
+          "normalized": "String-\u003eIO()",
+          "package": "dtrace",
+          "signature": "String-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dtrace/docs/System-DTrace.html#v:trace"
       }
     }
-  }
+  ]
 ]

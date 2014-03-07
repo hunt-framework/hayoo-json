@@ -1,1615 +1,1499 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "module",
-        "fct-source": "src/Language-Slice-Syntax-AST.html",
-        "fct-type": "module",
-        "title": "AST"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "AST",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "AST",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#t:Annotation",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "data",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#Annotation",
-        "fct-type": "data",
-        "title": "Annotation"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "Annotation",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Annotation",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#t:FieldDecl",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "data",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#FieldDecl",
-        "fct-type": "data",
-        "title": "FieldDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "FieldDecl",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Field Decl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#t:Ident",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "newtype",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#Ident",
-        "fct-type": "newtype",
-        "title": "Ident"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "Ident",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Ident",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#t:IncludeDelimiters",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "data",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#IncludeDelimiters",
-        "fct-type": "data",
-        "title": "IncludeDelimiters"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "IncludeDelimiters",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Include Delimiters",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#t:MethodDecl",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "data",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#MethodDecl",
-        "fct-type": "data",
-        "title": "MethodDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "MethodDecl",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Method Decl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#t:MethodOrFieldDecl",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "data",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#MethodOrFieldDecl",
-        "fct-type": "data",
-        "title": "MethodOrFieldDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "MethodOrFieldDecl",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Method Or Field Decl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#t:NsQualIdent",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "data",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#NsQualIdent",
-        "fct-type": "data",
-        "title": "NsQualIdent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "NsQualIdent",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Ns Qual Ident",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#t:SliceDecl",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "data",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#SliceDecl",
-        "fct-type": "data",
-        "title": "SliceDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "SliceDecl",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Slice Decl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#t:SliceType",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "data",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#SliceType",
-        "fct-type": "data",
-        "title": "SliceType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "SliceType",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Slice Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#t:SliceVal",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "data",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#SliceVal",
-        "fct-type": "data",
-        "title": "SliceVal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "SliceVal",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Slice Val",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:AngleBrackets",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "AngleBrackets",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#IncludeDelimiters",
-        "fct-type": "function",
-        "title": "AngleBrackets"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "AngleBrackets",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Angle Brackets",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:ClassDecl",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "ClassDecl Ident (Maybe NsQualIdent) [MethodOrFieldDecl]",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#SliceDecl",
-        "fct-type": "function",
-        "title": "ClassDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "ClassDecl",
-        "normalized": "ClassDecl Ident(Maybe NsQualIdent)[MethodOrFieldDecl]",
-        "package": "language-slice",
-        "partial": "Class Decl",
-        "signature": "ClassDecl Ident(Maybe NsQualIdent)[MethodOrFieldDecl]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:ConstDecl",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "ConstDecl SliceType Ident SliceVal",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#SliceDecl",
-        "fct-type": "function",
-        "title": "ConstDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "ConstDecl",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Const Decl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:DictionaryDecl",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "DictionaryDecl SliceType SliceType Ident",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#SliceDecl",
-        "fct-type": "function",
-        "title": "DictionaryDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "DictionaryDecl",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Dictionary Decl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:EnumDecl",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "EnumDecl Ident [Ident]",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#SliceDecl",
-        "fct-type": "function",
-        "title": "EnumDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "EnumDecl",
-        "normalized": "EnumDecl Ident[Ident]",
-        "package": "language-slice",
-        "partial": "Enum Decl",
-        "signature": "EnumDecl Ident[Ident]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:ExceptionDecl",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "ExceptionDecl Ident [NsQualIdent] [FieldDecl]",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#SliceDecl",
-        "fct-type": "function",
-        "title": "ExceptionDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "ExceptionDecl",
-        "normalized": "ExceptionDecl Ident[NsQualIdent][FieldDecl]",
-        "package": "language-slice",
-        "partial": "Exception Decl",
-        "signature": "ExceptionDecl Ident[NsQualIdent][FieldDecl]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:FDecl",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "FDecl FieldDecl",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#MethodOrFieldDecl",
-        "fct-type": "function",
-        "title": "FDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "FDecl",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "FDecl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:FieldDecl",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "FieldDecl SliceType Ident (Maybe SliceVal)",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#FieldDecl",
-        "fct-type": "function",
-        "title": "FieldDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "FieldDecl",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Field Decl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:Idempotent",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "Idempotent",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#Annotation",
-        "fct-type": "function",
-        "title": "Idempotent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "Idempotent",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Idempotent",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:Ident",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "Ident String",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#Ident",
-        "fct-type": "function",
-        "title": "Ident"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "Ident",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Ident",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:IncludeDecl",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "IncludeDecl IncludeDelimiters String",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#SliceDecl",
-        "fct-type": "function",
-        "title": "IncludeDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "IncludeDecl",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Include Decl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:InterfaceDecl",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "InterfaceDecl Ident [NsQualIdent] [MethodDecl]",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#SliceDecl",
-        "fct-type": "function",
-        "title": "InterfaceDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "InterfaceDecl",
-        "normalized": "InterfaceDecl Ident[NsQualIdent][MethodDecl]",
-        "package": "language-slice",
-        "partial": "Interface Decl",
-        "signature": "InterfaceDecl Ident[NsQualIdent][MethodDecl]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:InterfaceFDecl",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "InterfaceFDecl NsQualIdent",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#SliceDecl",
-        "fct-type": "function",
-        "title": "InterfaceFDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "InterfaceFDecl",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Interface FDecl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:MDecl",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "MDecl MethodDecl",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#MethodOrFieldDecl",
-        "fct-type": "function",
-        "title": "MDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "MDecl",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "MDecl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:MethodDecl",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "MethodDecl SliceType Ident [FieldDecl] [NsQualIdent] (Maybe Annotation)",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#MethodDecl",
-        "fct-type": "function",
-        "title": "MethodDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "MethodDecl",
-        "normalized": "MethodDecl SliceType Ident[FieldDecl][NsQualIdent](Maybe Annotation)",
-        "package": "language-slice",
-        "partial": "Method Decl",
-        "signature": "MethodDecl SliceType Ident[FieldDecl][NsQualIdent](Maybe Annotation)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:ModuleDecl",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "ModuleDecl Ident [SliceDecl]",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#SliceDecl",
-        "fct-type": "function",
-        "title": "ModuleDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "ModuleDecl",
-        "normalized": "ModuleDecl Ident[SliceDecl]",
-        "package": "language-slice",
-        "partial": "Module Decl",
-        "signature": "ModuleDecl Ident[SliceDecl]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:NsQualIdent",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "NsQualIdent",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#NsQualIdent",
-        "fct-type": "function",
-        "title": "NsQualIdent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "NsQualIdent",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Ns Qual Ident",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:Quotes",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "Quotes",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#IncludeDelimiters",
-        "fct-type": "function",
-        "title": "Quotes"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "Quotes",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Quotes",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:STBool",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "STBool",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#SliceType",
-        "fct-type": "function",
-        "title": "STBool"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "STBool",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "STBool",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:STByte",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "STByte",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#SliceType",
-        "fct-type": "function",
-        "title": "STByte"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "STByte",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "STByte",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:STDouble",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "STDouble",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#SliceType",
-        "fct-type": "function",
-        "title": "STDouble"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "STDouble",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "STDouble",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:STFloat",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "STFloat",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#SliceType",
-        "fct-type": "function",
-        "title": "STFloat"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "STFloat",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "STFloat",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:STInt",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "STInt",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#SliceType",
-        "fct-type": "function",
-        "title": "STInt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "STInt",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "STInt",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:STLong",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "STLong",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#SliceType",
-        "fct-type": "function",
-        "title": "STLong"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "STLong",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "STLong",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:STShort",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "STShort",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#SliceType",
-        "fct-type": "function",
-        "title": "STShort"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "STShort",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "STShort",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:STString",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "STString",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#SliceType",
-        "fct-type": "function",
-        "title": "STString"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "STString",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "STString",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:STUserDefined",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "STUserDefined NsQualIdent",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#SliceType",
-        "fct-type": "function",
-        "title": "STUserDefined"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "STUserDefined",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "STUser Defined",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:STUserDefinedPrx",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "STUserDefinedPrx NsQualIdent",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#SliceType",
-        "fct-type": "function",
-        "title": "STUserDefinedPrx"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "STUserDefinedPrx",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "STUser Defined Prx",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:STVoid",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "STVoid",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#SliceType",
-        "fct-type": "function",
-        "title": "STVoid"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "STVoid",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "STVoid",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:SequenceDecl",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "SequenceDecl SliceType Ident",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#SliceDecl",
-        "fct-type": "function",
-        "title": "SequenceDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "SequenceDecl",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Sequence Decl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:SliceBool",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "SliceBool Bool",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#SliceVal",
-        "fct-type": "function",
-        "title": "SliceBool"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "SliceBool",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Slice Bool",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:SliceDouble",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "SliceDouble Double",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#SliceVal",
-        "fct-type": "function",
-        "title": "SliceDouble"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "SliceDouble",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Slice Double",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:SliceIdentifier",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "SliceIdentifier NsQualIdent",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#SliceVal",
-        "fct-type": "function",
-        "title": "SliceIdentifier"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "SliceIdentifier",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Slice Identifier",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:SliceInteger",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "SliceInteger Integer",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#SliceVal",
-        "fct-type": "function",
-        "title": "SliceInteger"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "SliceInteger",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Slice Integer",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:SliceStr",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "SliceStr String",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#SliceVal",
-        "fct-type": "function",
-        "title": "SliceStr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "SliceStr",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Slice Str",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:StructDecl",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "StructDecl Ident [FieldDecl]",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#SliceDecl",
-        "fct-type": "function",
-        "title": "StructDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "StructDecl",
-        "normalized": "StructDecl Ident[FieldDecl]",
-        "package": "language-slice",
-        "partial": "Struct Decl",
-        "signature": "StructDecl Ident[FieldDecl]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:name",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "String",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#NsQualIdent",
-        "fct-type": "function",
-        "title": "name"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "name",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:ns",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.Slice.Syntax.AST",
-        "fct-package": "language-slice",
-        "fct-signature": "[String]",
-        "fct-source": "src/Language-Slice-Syntax-AST.html#NsQualIdent",
-        "fct-type": "function",
-        "title": "ns"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax AST",
-        "module": "Language.Slice.Syntax.AST",
-        "name": "ns",
-        "normalized": "[String]",
-        "package": "language-slice",
-        "partial": "",
-        "signature": "[String]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.Parser",
-        "fct-package": "language-slice",
-        "fct-signature": "module",
-        "fct-source": "src/Language-Slice-Syntax-Parser.html",
-        "fct-type": "module",
-        "title": "Parser"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax Parser",
-        "module": "Language.Slice.Syntax.Parser",
-        "name": "Parser",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Parser",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#t:SyntaxError",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.Parser",
-        "fct-package": "language-slice",
-        "fct-signature": "data",
-        "fct-source": "src/Language-Slice-Syntax-Parser.html#SyntaxError",
-        "fct-type": "data",
-        "title": "SyntaxError"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax Parser",
-        "module": "Language.Slice.Syntax.Parser",
-        "name": "SyntaxError",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Syntax Error",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:SyntaxError",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.Parser",
-        "fct-package": "language-slice",
-        "fct-signature": "SyntaxError",
-        "fct-source": "src/Language-Slice-Syntax-Parser.html#SyntaxError",
-        "fct-type": "function",
-        "title": "SyntaxError"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax Parser",
-        "module": "Language.Slice.Syntax.Parser",
-        "name": "SyntaxError",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Syntax Error",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:ctxt",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.Slice.Syntax.Parser",
-        "fct-package": "language-slice",
-        "fct-signature": "String",
-        "fct-source": "src/Language-Slice-Syntax-Parser.html#SyntaxError",
-        "fct-type": "function",
-        "title": "ctxt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax Parser",
-        "module": "Language.Slice.Syntax.Parser",
-        "name": "ctxt",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:msgs",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.Slice.Syntax.Parser",
-        "fct-package": "language-slice",
-        "fct-signature": "[Message]",
-        "fct-source": "src/Language-Slice-Syntax-Parser.html#SyntaxError",
-        "fct-type": "function",
-        "title": "msgs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax Parser",
-        "module": "Language.Slice.Syntax.Parser",
-        "name": "msgs",
-        "normalized": "[Message]",
-        "package": "language-slice",
-        "partial": "",
-        "signature": "[Message]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:parse",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.Parser",
-        "fct-package": "language-slice",
-        "fct-signature": "Parser a -\u003e SourceName -\u003e ByteString -\u003e Either SyntaxError a",
-        "fct-source": "src/Language-Slice-Syntax-Parser.html#parse",
-        "fct-type": "function",
-        "title": "parse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax Parser",
-        "module": "Language.Slice.Syntax.Parser",
-        "name": "parse",
-        "normalized": "Parser a-\u003eSourceName-\u003eByteString-\u003eEither SyntaxError a",
-        "package": "language-slice",
-        "partial": "",
-        "signature": "Parser a-\u003eSourceName-\u003eByteString-\u003eEither SyntaxError a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:parseConst",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.Parser",
-        "fct-package": "language-slice",
-        "fct-signature": "Parser SliceDecl",
-        "fct-source": "src/Language-Slice-Syntax-Parser.html#parseConst",
-        "fct-type": "function",
-        "title": "parseConst"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax Parser",
-        "module": "Language.Slice.Syntax.Parser",
-        "name": "parseConst",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Const",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:parseField",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.Parser",
-        "fct-package": "language-slice",
-        "fct-signature": "Parser FieldDecl",
-        "fct-source": "src/Language-Slice-Syntax-Parser.html#parseField",
-        "fct-type": "function",
-        "title": "parseField"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax Parser",
-        "module": "Language.Slice.Syntax.Parser",
-        "name": "parseField",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Field",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:parseFile",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.Parser",
-        "fct-package": "language-slice",
-        "fct-signature": "String -\u003e IO (Either SyntaxError [SliceDecl])",
-        "fct-source": "src/Language-Slice-Syntax-Parser.html#parseFile",
-        "fct-type": "function",
-        "title": "parseFile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax Parser",
-        "module": "Language.Slice.Syntax.Parser",
-        "name": "parseFile",
-        "normalized": "String-\u003eIO(Either SyntaxError[SliceDecl])",
-        "package": "language-slice",
-        "partial": "File",
-        "signature": "String-\u003eIO(Either SyntaxError[SliceDecl])"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:parseIdent",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.Parser",
-        "fct-package": "language-slice",
-        "fct-signature": "Parser Ident",
-        "fct-source": "src/Language-Slice-Syntax-Parser.html#parseIdent",
-        "fct-type": "function",
-        "title": "parseIdent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax Parser",
-        "module": "Language.Slice.Syntax.Parser",
-        "name": "parseIdent",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Ident",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:parseIfDef",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.Parser",
-        "fct-package": "language-slice",
-        "fct-signature": "Parser [SliceDecl]",
-        "fct-source": "src/Language-Slice-Syntax-Parser.html#parseIfDef",
-        "fct-type": "function",
-        "title": "parseIfDef"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax Parser",
-        "module": "Language.Slice.Syntax.Parser",
-        "name": "parseIfDef",
-        "normalized": "Parser[SliceDecl]",
-        "package": "language-slice",
-        "partial": "If Def",
-        "signature": "Parser[SliceDecl]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:parseMethod",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.Parser",
-        "fct-package": "language-slice",
-        "fct-signature": "Parser MethodDecl",
-        "fct-source": "src/Language-Slice-Syntax-Parser.html#parseMethod",
-        "fct-type": "function",
-        "title": "parseMethod"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax Parser",
-        "module": "Language.Slice.Syntax.Parser",
-        "name": "parseMethod",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Method",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:parseNsQualIdent",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.Parser",
-        "fct-package": "language-slice",
-        "fct-signature": "Parser NsQualIdent",
-        "fct-source": "src/Language-Slice-Syntax-Parser.html#parseNsQualIdent",
-        "fct-type": "function",
-        "title": "parseNsQualIdent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax Parser",
-        "module": "Language.Slice.Syntax.Parser",
-        "name": "parseNsQualIdent",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Ns Qual Ident",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:parseSemTermField",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.Parser",
-        "fct-package": "language-slice",
-        "fct-signature": "Parser FieldDecl",
-        "fct-source": "src/Language-Slice-Syntax-Parser.html#parseSemTermField",
-        "fct-type": "function",
-        "title": "parseSemTermField"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax Parser",
-        "module": "Language.Slice.Syntax.Parser",
-        "name": "parseSemTermField",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Sem Term Field",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:parseSlice",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.Parser",
-        "fct-package": "language-slice",
-        "fct-signature": "Parser SliceDecl",
-        "fct-source": "src/Language-Slice-Syntax-Parser.html#parseSlice",
-        "fct-type": "function",
-        "title": "parseSlice"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax Parser",
-        "module": "Language.Slice.Syntax.Parser",
-        "name": "parseSlice",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Slice",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:parseSlices",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.Parser",
-        "fct-package": "language-slice",
-        "fct-signature": "Parser [SliceDecl]",
-        "fct-source": "src/Language-Slice-Syntax-Parser.html#parseSlices",
-        "fct-type": "function",
-        "title": "parseSlices"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax Parser",
-        "module": "Language.Slice.Syntax.Parser",
-        "name": "parseSlices",
-        "normalized": "Parser[SliceDecl]",
-        "package": "language-slice",
-        "partial": "Slices",
-        "signature": "Parser[SliceDecl]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:parseType",
-      "description": {
-        "fct-module": "Language.Slice.Syntax.Parser",
-        "fct-package": "language-slice",
-        "fct-signature": "Parser SliceType",
-        "fct-source": "src/Language-Slice-Syntax-Parser.html#parseType",
-        "fct-type": "function",
-        "title": "parseType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax Parser",
-        "module": "Language.Slice.Syntax.Parser",
-        "name": "parseType",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:pos",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.Slice.Syntax.Parser",
-        "fct-package": "language-slice",
-        "fct-signature": "SourcePos",
-        "fct-source": "src/Language-Slice-Syntax-Parser.html#SyntaxError",
-        "fct-type": "function",
-        "title": "pos"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Slice Syntax Parser",
-        "module": "Language.Slice.Syntax.Parser",
-        "name": "pos",
-        "normalized": "",
-        "package": "language-slice",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  }
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "language-slice"
+      },
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "AST",
+          "package": "language-slice",
+          "source": "src/Language-Slice-Syntax-AST.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "AST",
+          "package": "language-slice",
+          "partial": "AST",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "Annotation",
+          "package": "language-slice",
+          "source": "src/Language-Slice-Syntax-AST.html#Annotation",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "Annotation",
+          "package": "language-slice",
+          "partial": "Annotation",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#t:Annotation"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "FieldDecl",
+          "package": "language-slice",
+          "source": "src/Language-Slice-Syntax-AST.html#FieldDecl",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "FieldDecl",
+          "package": "language-slice",
+          "partial": "Field Decl",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#t:FieldDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "Ident",
+          "package": "language-slice",
+          "source": "src/Language-Slice-Syntax-AST.html#Ident",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "Ident",
+          "package": "language-slice",
+          "partial": "Ident",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#t:Ident"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "IncludeDelimiters",
+          "package": "language-slice",
+          "source": "src/Language-Slice-Syntax-AST.html#IncludeDelimiters",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "IncludeDelimiters",
+          "package": "language-slice",
+          "partial": "Include Delimiters",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#t:IncludeDelimiters"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "MethodDecl",
+          "package": "language-slice",
+          "source": "src/Language-Slice-Syntax-AST.html#MethodDecl",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "MethodDecl",
+          "package": "language-slice",
+          "partial": "Method Decl",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#t:MethodDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "MethodOrFieldDecl",
+          "package": "language-slice",
+          "source": "src/Language-Slice-Syntax-AST.html#MethodOrFieldDecl",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "MethodOrFieldDecl",
+          "package": "language-slice",
+          "partial": "Method Or Field Decl",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#t:MethodOrFieldDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "NsQualIdent",
+          "package": "language-slice",
+          "source": "src/Language-Slice-Syntax-AST.html#NsQualIdent",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "NsQualIdent",
+          "package": "language-slice",
+          "partial": "Ns Qual Ident",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#t:NsQualIdent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "SliceDecl",
+          "package": "language-slice",
+          "source": "src/Language-Slice-Syntax-AST.html#SliceDecl",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "SliceDecl",
+          "package": "language-slice",
+          "partial": "Slice Decl",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#t:SliceDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "SliceType",
+          "package": "language-slice",
+          "source": "src/Language-Slice-Syntax-AST.html#SliceType",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "SliceType",
+          "package": "language-slice",
+          "partial": "Slice Type",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#t:SliceType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "SliceVal",
+          "package": "language-slice",
+          "source": "src/Language-Slice-Syntax-AST.html#SliceVal",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "SliceVal",
+          "package": "language-slice",
+          "partial": "Slice Val",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#t:SliceVal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "AngleBrackets",
+          "package": "language-slice",
+          "signature": "AngleBrackets",
+          "source": "src/Language-Slice-Syntax-AST.html#IncludeDelimiters",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "AngleBrackets",
+          "package": "language-slice",
+          "partial": "Angle Brackets",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:AngleBrackets"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "ClassDecl",
+          "package": "language-slice",
+          "signature": "ClassDecl Ident (Maybe NsQualIdent) [MethodOrFieldDecl]",
+          "source": "src/Language-Slice-Syntax-AST.html#SliceDecl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "ClassDecl",
+          "normalized": "ClassDecl Ident(Maybe NsQualIdent)[MethodOrFieldDecl]",
+          "package": "language-slice",
+          "partial": "Class Decl",
+          "signature": "ClassDecl Ident(Maybe NsQualIdent)[MethodOrFieldDecl]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:ClassDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "ConstDecl",
+          "package": "language-slice",
+          "signature": "ConstDecl SliceType Ident SliceVal",
+          "source": "src/Language-Slice-Syntax-AST.html#SliceDecl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "ConstDecl",
+          "package": "language-slice",
+          "partial": "Const Decl",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:ConstDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "DictionaryDecl",
+          "package": "language-slice",
+          "signature": "DictionaryDecl SliceType SliceType Ident",
+          "source": "src/Language-Slice-Syntax-AST.html#SliceDecl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "DictionaryDecl",
+          "package": "language-slice",
+          "partial": "Dictionary Decl",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:DictionaryDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "EnumDecl",
+          "package": "language-slice",
+          "signature": "EnumDecl Ident [Ident]",
+          "source": "src/Language-Slice-Syntax-AST.html#SliceDecl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "EnumDecl",
+          "normalized": "EnumDecl Ident[Ident]",
+          "package": "language-slice",
+          "partial": "Enum Decl",
+          "signature": "EnumDecl Ident[Ident]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:EnumDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "ExceptionDecl",
+          "package": "language-slice",
+          "signature": "ExceptionDecl Ident [NsQualIdent] [FieldDecl]",
+          "source": "src/Language-Slice-Syntax-AST.html#SliceDecl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "ExceptionDecl",
+          "normalized": "ExceptionDecl Ident[NsQualIdent][FieldDecl]",
+          "package": "language-slice",
+          "partial": "Exception Decl",
+          "signature": "ExceptionDecl Ident[NsQualIdent][FieldDecl]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:ExceptionDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "FDecl",
+          "package": "language-slice",
+          "signature": "FDecl FieldDecl",
+          "source": "src/Language-Slice-Syntax-AST.html#MethodOrFieldDecl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "FDecl",
+          "package": "language-slice",
+          "partial": "FDecl",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:FDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "FieldDecl",
+          "package": "language-slice",
+          "signature": "FieldDecl SliceType Ident (Maybe SliceVal)",
+          "source": "src/Language-Slice-Syntax-AST.html#FieldDecl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "FieldDecl",
+          "package": "language-slice",
+          "partial": "Field Decl",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:FieldDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "Idempotent",
+          "package": "language-slice",
+          "signature": "Idempotent",
+          "source": "src/Language-Slice-Syntax-AST.html#Annotation",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "Idempotent",
+          "package": "language-slice",
+          "partial": "Idempotent",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:Idempotent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "Ident",
+          "package": "language-slice",
+          "signature": "Ident String",
+          "source": "src/Language-Slice-Syntax-AST.html#Ident",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "Ident",
+          "package": "language-slice",
+          "partial": "Ident",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:Ident"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "IncludeDecl",
+          "package": "language-slice",
+          "signature": "IncludeDecl IncludeDelimiters String",
+          "source": "src/Language-Slice-Syntax-AST.html#SliceDecl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "IncludeDecl",
+          "package": "language-slice",
+          "partial": "Include Decl",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:IncludeDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "InterfaceDecl",
+          "package": "language-slice",
+          "signature": "InterfaceDecl Ident [NsQualIdent] [MethodDecl]",
+          "source": "src/Language-Slice-Syntax-AST.html#SliceDecl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "InterfaceDecl",
+          "normalized": "InterfaceDecl Ident[NsQualIdent][MethodDecl]",
+          "package": "language-slice",
+          "partial": "Interface Decl",
+          "signature": "InterfaceDecl Ident[NsQualIdent][MethodDecl]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:InterfaceDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "InterfaceFDecl",
+          "package": "language-slice",
+          "signature": "InterfaceFDecl NsQualIdent",
+          "source": "src/Language-Slice-Syntax-AST.html#SliceDecl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "InterfaceFDecl",
+          "package": "language-slice",
+          "partial": "Interface FDecl",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:InterfaceFDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "MDecl",
+          "package": "language-slice",
+          "signature": "MDecl MethodDecl",
+          "source": "src/Language-Slice-Syntax-AST.html#MethodOrFieldDecl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "MDecl",
+          "package": "language-slice",
+          "partial": "MDecl",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:MDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "MethodDecl",
+          "package": "language-slice",
+          "signature": "MethodDecl SliceType Ident [FieldDecl] [NsQualIdent] (Maybe Annotation)",
+          "source": "src/Language-Slice-Syntax-AST.html#MethodDecl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "MethodDecl",
+          "normalized": "MethodDecl SliceType Ident[FieldDecl][NsQualIdent](Maybe Annotation)",
+          "package": "language-slice",
+          "partial": "Method Decl",
+          "signature": "MethodDecl SliceType Ident[FieldDecl][NsQualIdent](Maybe Annotation)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:MethodDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "ModuleDecl",
+          "package": "language-slice",
+          "signature": "ModuleDecl Ident [SliceDecl]",
+          "source": "src/Language-Slice-Syntax-AST.html#SliceDecl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "ModuleDecl",
+          "normalized": "ModuleDecl Ident[SliceDecl]",
+          "package": "language-slice",
+          "partial": "Module Decl",
+          "signature": "ModuleDecl Ident[SliceDecl]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:ModuleDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "NsQualIdent",
+          "package": "language-slice",
+          "signature": "NsQualIdent",
+          "source": "src/Language-Slice-Syntax-AST.html#NsQualIdent",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "NsQualIdent",
+          "package": "language-slice",
+          "partial": "Ns Qual Ident",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:NsQualIdent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "Quotes",
+          "package": "language-slice",
+          "signature": "Quotes",
+          "source": "src/Language-Slice-Syntax-AST.html#IncludeDelimiters",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "Quotes",
+          "package": "language-slice",
+          "partial": "Quotes",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:Quotes"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "STBool",
+          "package": "language-slice",
+          "signature": "STBool",
+          "source": "src/Language-Slice-Syntax-AST.html#SliceType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "STBool",
+          "package": "language-slice",
+          "partial": "STBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:STBool"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "STByte",
+          "package": "language-slice",
+          "signature": "STByte",
+          "source": "src/Language-Slice-Syntax-AST.html#SliceType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "STByte",
+          "package": "language-slice",
+          "partial": "STByte",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:STByte"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "STDouble",
+          "package": "language-slice",
+          "signature": "STDouble",
+          "source": "src/Language-Slice-Syntax-AST.html#SliceType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "STDouble",
+          "package": "language-slice",
+          "partial": "STDouble",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:STDouble"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "STFloat",
+          "package": "language-slice",
+          "signature": "STFloat",
+          "source": "src/Language-Slice-Syntax-AST.html#SliceType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "STFloat",
+          "package": "language-slice",
+          "partial": "STFloat",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:STFloat"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "STInt",
+          "package": "language-slice",
+          "signature": "STInt",
+          "source": "src/Language-Slice-Syntax-AST.html#SliceType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "STInt",
+          "package": "language-slice",
+          "partial": "STInt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:STInt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "STLong",
+          "package": "language-slice",
+          "signature": "STLong",
+          "source": "src/Language-Slice-Syntax-AST.html#SliceType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "STLong",
+          "package": "language-slice",
+          "partial": "STLong",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:STLong"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "STShort",
+          "package": "language-slice",
+          "signature": "STShort",
+          "source": "src/Language-Slice-Syntax-AST.html#SliceType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "STShort",
+          "package": "language-slice",
+          "partial": "STShort",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:STShort"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "STString",
+          "package": "language-slice",
+          "signature": "STString",
+          "source": "src/Language-Slice-Syntax-AST.html#SliceType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "STString",
+          "package": "language-slice",
+          "partial": "STString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:STString"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "STUserDefined",
+          "package": "language-slice",
+          "signature": "STUserDefined NsQualIdent",
+          "source": "src/Language-Slice-Syntax-AST.html#SliceType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "STUserDefined",
+          "package": "language-slice",
+          "partial": "STUser Defined",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:STUserDefined"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "STUserDefinedPrx",
+          "package": "language-slice",
+          "signature": "STUserDefinedPrx NsQualIdent",
+          "source": "src/Language-Slice-Syntax-AST.html#SliceType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "STUserDefinedPrx",
+          "package": "language-slice",
+          "partial": "STUser Defined Prx",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:STUserDefinedPrx"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "STVoid",
+          "package": "language-slice",
+          "signature": "STVoid",
+          "source": "src/Language-Slice-Syntax-AST.html#SliceType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "STVoid",
+          "package": "language-slice",
+          "partial": "STVoid",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:STVoid"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "SequenceDecl",
+          "package": "language-slice",
+          "signature": "SequenceDecl SliceType Ident",
+          "source": "src/Language-Slice-Syntax-AST.html#SliceDecl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "SequenceDecl",
+          "package": "language-slice",
+          "partial": "Sequence Decl",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:SequenceDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "SliceBool",
+          "package": "language-slice",
+          "signature": "SliceBool Bool",
+          "source": "src/Language-Slice-Syntax-AST.html#SliceVal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "SliceBool",
+          "package": "language-slice",
+          "partial": "Slice Bool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:SliceBool"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "SliceDouble",
+          "package": "language-slice",
+          "signature": "SliceDouble Double",
+          "source": "src/Language-Slice-Syntax-AST.html#SliceVal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "SliceDouble",
+          "package": "language-slice",
+          "partial": "Slice Double",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:SliceDouble"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "SliceIdentifier",
+          "package": "language-slice",
+          "signature": "SliceIdentifier NsQualIdent",
+          "source": "src/Language-Slice-Syntax-AST.html#SliceVal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "SliceIdentifier",
+          "package": "language-slice",
+          "partial": "Slice Identifier",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:SliceIdentifier"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "SliceInteger",
+          "package": "language-slice",
+          "signature": "SliceInteger Integer",
+          "source": "src/Language-Slice-Syntax-AST.html#SliceVal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "SliceInteger",
+          "package": "language-slice",
+          "partial": "Slice Integer",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:SliceInteger"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "SliceStr",
+          "package": "language-slice",
+          "signature": "SliceStr String",
+          "source": "src/Language-Slice-Syntax-AST.html#SliceVal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "SliceStr",
+          "package": "language-slice",
+          "partial": "Slice Str",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:SliceStr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "StructDecl",
+          "package": "language-slice",
+          "signature": "StructDecl Ident [FieldDecl]",
+          "source": "src/Language-Slice-Syntax-AST.html#SliceDecl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "StructDecl",
+          "normalized": "StructDecl Ident[FieldDecl]",
+          "package": "language-slice",
+          "partial": "Struct Decl",
+          "signature": "StructDecl Ident[FieldDecl]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:StructDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "name",
+          "package": "language-slice",
+          "signature": "String",
+          "source": "src/Language-Slice-Syntax-AST.html#NsQualIdent",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "name",
+          "package": "language-slice",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:name"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.AST",
+          "name": "ns",
+          "package": "language-slice",
+          "signature": "[String]",
+          "source": "src/Language-Slice-Syntax-AST.html#NsQualIdent",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax AST",
+          "module": "Language.Slice.Syntax.AST",
+          "name": "ns",
+          "normalized": "[String]",
+          "package": "language-slice",
+          "signature": "[String]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-AST.html#v:ns"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "Parser",
+          "package": "language-slice",
+          "source": "src/Language-Slice-Syntax-Parser.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax Parser",
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "Parser",
+          "package": "language-slice",
+          "partial": "Parser",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "SyntaxError",
+          "package": "language-slice",
+          "source": "src/Language-Slice-Syntax-Parser.html#SyntaxError",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax Parser",
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "SyntaxError",
+          "package": "language-slice",
+          "partial": "Syntax Error",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#t:SyntaxError"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "SyntaxError",
+          "package": "language-slice",
+          "signature": "SyntaxError",
+          "source": "src/Language-Slice-Syntax-Parser.html#SyntaxError",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax Parser",
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "SyntaxError",
+          "package": "language-slice",
+          "partial": "Syntax Error",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:SyntaxError"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "ctxt",
+          "package": "language-slice",
+          "signature": "String",
+          "source": "src/Language-Slice-Syntax-Parser.html#SyntaxError",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax Parser",
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "ctxt",
+          "package": "language-slice",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:ctxt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "msgs",
+          "package": "language-slice",
+          "signature": "[Message]",
+          "source": "src/Language-Slice-Syntax-Parser.html#SyntaxError",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax Parser",
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "msgs",
+          "normalized": "[Message]",
+          "package": "language-slice",
+          "signature": "[Message]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:msgs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "parse",
+          "package": "language-slice",
+          "signature": "Parser a -\u003e SourceName -\u003e ByteString -\u003e Either SyntaxError a",
+          "source": "src/Language-Slice-Syntax-Parser.html#parse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax Parser",
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "parse",
+          "normalized": "Parser a-\u003eSourceName-\u003eByteString-\u003eEither SyntaxError a",
+          "package": "language-slice",
+          "signature": "Parser a-\u003eSourceName-\u003eByteString-\u003eEither SyntaxError a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:parse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "parseConst",
+          "package": "language-slice",
+          "signature": "Parser SliceDecl",
+          "source": "src/Language-Slice-Syntax-Parser.html#parseConst",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax Parser",
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "parseConst",
+          "package": "language-slice",
+          "partial": "Const",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:parseConst"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "parseField",
+          "package": "language-slice",
+          "signature": "Parser FieldDecl",
+          "source": "src/Language-Slice-Syntax-Parser.html#parseField",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax Parser",
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "parseField",
+          "package": "language-slice",
+          "partial": "Field",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:parseField"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "parseFile",
+          "package": "language-slice",
+          "signature": "String -\u003e IO (Either SyntaxError [SliceDecl])",
+          "source": "src/Language-Slice-Syntax-Parser.html#parseFile",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax Parser",
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "parseFile",
+          "normalized": "String-\u003eIO(Either SyntaxError[SliceDecl])",
+          "package": "language-slice",
+          "partial": "File",
+          "signature": "String-\u003eIO(Either SyntaxError[SliceDecl])",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:parseFile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "parseIdent",
+          "package": "language-slice",
+          "signature": "Parser Ident",
+          "source": "src/Language-Slice-Syntax-Parser.html#parseIdent",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax Parser",
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "parseIdent",
+          "package": "language-slice",
+          "partial": "Ident",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:parseIdent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "parseIfDef",
+          "package": "language-slice",
+          "signature": "Parser [SliceDecl]",
+          "source": "src/Language-Slice-Syntax-Parser.html#parseIfDef",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax Parser",
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "parseIfDef",
+          "normalized": "Parser[SliceDecl]",
+          "package": "language-slice",
+          "partial": "If Def",
+          "signature": "Parser[SliceDecl]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:parseIfDef"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "parseMethod",
+          "package": "language-slice",
+          "signature": "Parser MethodDecl",
+          "source": "src/Language-Slice-Syntax-Parser.html#parseMethod",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax Parser",
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "parseMethod",
+          "package": "language-slice",
+          "partial": "Method",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:parseMethod"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "parseNsQualIdent",
+          "package": "language-slice",
+          "signature": "Parser NsQualIdent",
+          "source": "src/Language-Slice-Syntax-Parser.html#parseNsQualIdent",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax Parser",
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "parseNsQualIdent",
+          "package": "language-slice",
+          "partial": "Ns Qual Ident",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:parseNsQualIdent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "parseSemTermField",
+          "package": "language-slice",
+          "signature": "Parser FieldDecl",
+          "source": "src/Language-Slice-Syntax-Parser.html#parseSemTermField",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax Parser",
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "parseSemTermField",
+          "package": "language-slice",
+          "partial": "Sem Term Field",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:parseSemTermField"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "parseSlice",
+          "package": "language-slice",
+          "signature": "Parser SliceDecl",
+          "source": "src/Language-Slice-Syntax-Parser.html#parseSlice",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax Parser",
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "parseSlice",
+          "package": "language-slice",
+          "partial": "Slice",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:parseSlice"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "parseSlices",
+          "package": "language-slice",
+          "signature": "Parser [SliceDecl]",
+          "source": "src/Language-Slice-Syntax-Parser.html#parseSlices",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax Parser",
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "parseSlices",
+          "normalized": "Parser[SliceDecl]",
+          "package": "language-slice",
+          "partial": "Slices",
+          "signature": "Parser[SliceDecl]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:parseSlices"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "parseType",
+          "package": "language-slice",
+          "signature": "Parser SliceType",
+          "source": "src/Language-Slice-Syntax-Parser.html#parseType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax Parser",
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "parseType",
+          "package": "language-slice",
+          "partial": "Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:parseType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "pos",
+          "package": "language-slice",
+          "signature": "SourcePos",
+          "source": "src/Language-Slice-Syntax-Parser.html#SyntaxError",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Slice Syntax Parser",
+          "module": "Language.Slice.Syntax.Parser",
+          "name": "pos",
+          "package": "language-slice",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-slice/docs/Language-Slice-Syntax-Parser.html#v:pos"
+      }
+    }
+  ]
 ]

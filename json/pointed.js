@@ -1,147 +1,150 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/pointed/docs/Data-Copointed.html#",
-      "description": {
-        "fct-module": "Data.Copointed",
-        "fct-package": "pointed",
-        "fct-signature": "module",
-        "fct-source": "src/Data-Copointed.html",
-        "fct-type": "module",
-        "title": "Copointed"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "pointed"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Copointed",
-        "module": "Data.Copointed",
-        "name": "Copointed",
-        "normalized": "",
-        "package": "pointed",
-        "partial": "Copointed",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/pointed/docs/Data-Copointed.html#t:Copointed",
-      "description": {
-        "fct-descr": "\u003cp\u003e\u003ccode\u003e\u003ca\u003eCopointed\u003c/a\u003e\u003c/code\u003e does not require a \u003ccode\u003e\u003ca\u003eFunctor\u003c/a\u003e\u003c/code\u003e, as the only relationship\n between \u003ccode\u003e\u003ca\u003ecopoint\u003c/a\u003e\u003c/code\u003e and \u003ccode\u003e\u003ca\u003efmap\u003c/a\u003e\u003c/code\u003e is given by a free theorem.\n\u003c/p\u003e",
-        "fct-module": "Data.Copointed",
-        "fct-package": "pointed",
-        "fct-signature": "class",
-        "fct-source": "src/Data-Copointed.html#Copointed",
-        "fct-type": "class",
-        "title": "Copointed"
-      },
-      "index": {
-        "description": "Copointed does not require Functor as the only relationship between copoint and fmap is given by free theorem",
-        "hierarchy": "Data Copointed",
-        "module": "Data.Copointed",
-        "name": "Copointed",
-        "normalized": "",
-        "package": "pointed",
-        "partial": "Copointed",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Copointed",
+          "name": "Copointed",
+          "package": "pointed",
+          "source": "src/Data-Copointed.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data Copointed",
+          "module": "Data.Copointed",
+          "name": "Copointed",
+          "package": "pointed",
+          "partial": "Copointed",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/pointed/docs/Data-Copointed.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003e\u003ccode\u003e\u003ca\u003eCopointed\u003c/a\u003e\u003c/code\u003e does not require a \u003ccode\u003e\u003ca\u003eFunctor\u003c/a\u003e\u003c/code\u003e, as the only relationship\n between \u003ccode\u003e\u003ca\u003ecopoint\u003c/a\u003e\u003c/code\u003e and \u003ccode\u003e\u003ca\u003efmap\u003c/a\u003e\u003c/code\u003e is given by a free theorem.\n\u003c/p\u003e",
+          "module": "Data.Copointed",
+          "name": "Copointed",
+          "package": "pointed",
+          "source": "src/Data-Copointed.html#Copointed",
+          "type": "class"
+        },
+        "index": {
+          "description": "Copointed does not require Functor as the only relationship between copoint and fmap is given by free theorem",
+          "hierarchy": "Data Copointed",
+          "module": "Data.Copointed",
+          "name": "Copointed",
+          "package": "pointed",
+          "partial": "Copointed",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/pointed/docs/Data-Copointed.html#t:Copointed"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Copointed",
+          "name": "copoint",
+          "package": "pointed",
+          "signature": "p a -\u003e a",
+          "source": "src/Data-Copointed.html#copoint",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Data Copointed",
+          "module": "Data.Copointed",
+          "name": "copoint",
+          "normalized": "a b-\u003eb",
+          "package": "pointed",
+          "signature": "p a-\u003ea",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/pointed/docs/Data-Copointed.html#v:copoint"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Pointed",
+          "name": "Pointed",
+          "package": "pointed",
+          "source": "src/Data-Pointed.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data Pointed",
+          "module": "Data.Pointed",
+          "name": "Pointed",
+          "package": "pointed",
+          "partial": "Pointed",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/pointed/docs/Data-Pointed.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Pointed",
+          "name": "Pointed",
+          "package": "pointed",
+          "source": "src/Data-Pointed.html#Pointed",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Data Pointed",
+          "module": "Data.Pointed",
+          "name": "Pointed",
+          "package": "pointed",
+          "partial": "Pointed",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/pointed/docs/Data-Pointed.html#t:Pointed"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Pointed",
+          "name": "point",
+          "package": "pointed",
+          "signature": "a -\u003e p a",
+          "source": "src/Data-Pointed.html#point",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Data Pointed",
+          "module": "Data.Pointed",
+          "name": "point",
+          "normalized": "a-\u003eb a",
+          "package": "pointed",
+          "signature": "a-\u003ep a",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/pointed/docs/Data-Pointed.html#v:point"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/pointed/docs/Data-Copointed.html#v:copoint",
-      "description": {
-        "fct-module": "Data.Copointed",
-        "fct-package": "pointed",
-        "fct-signature": "p a -\u003e a",
-        "fct-source": "src/Data-Copointed.html#copoint",
-        "fct-type": "method",
-        "title": "copoint"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Copointed",
-        "module": "Data.Copointed",
-        "name": "copoint",
-        "normalized": "a b-\u003eb",
-        "package": "pointed",
-        "partial": "",
-        "signature": "p a-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/pointed/docs/Data-Pointed.html#",
-      "description": {
-        "fct-module": "Data.Pointed",
-        "fct-package": "pointed",
-        "fct-signature": "module",
-        "fct-source": "src/Data-Pointed.html",
-        "fct-type": "module",
-        "title": "Pointed"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Pointed",
-        "module": "Data.Pointed",
-        "name": "Pointed",
-        "normalized": "",
-        "package": "pointed",
-        "partial": "Pointed",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/pointed/docs/Data-Pointed.html#t:Pointed",
-      "description": {
-        "fct-module": "Data.Pointed",
-        "fct-package": "pointed",
-        "fct-signature": "class",
-        "fct-source": "src/Data-Pointed.html#Pointed",
-        "fct-type": "class",
-        "title": "Pointed"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Pointed",
-        "module": "Data.Pointed",
-        "name": "Pointed",
-        "normalized": "",
-        "package": "pointed",
-        "partial": "Pointed",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/pointed/docs/Data-Pointed.html#v:point",
-      "description": {
-        "fct-module": "Data.Pointed",
-        "fct-package": "pointed",
-        "fct-signature": "a -\u003e p a",
-        "fct-source": "src/Data-Pointed.html#point",
-        "fct-type": "method",
-        "title": "point"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Pointed",
-        "module": "Data.Pointed",
-        "name": "point",
-        "normalized": "a-\u003eb a",
-        "package": "pointed",
-        "partial": "",
-        "signature": "a-\u003ep a"
-      }
-    }
-  }
+  ]
 ]

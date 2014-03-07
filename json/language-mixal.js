@@ -1,5067 +1,4666 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "module",
-        "fct-source": "src/Language-MIXAL-AST.html",
-        "fct-type": "module",
-        "title": "AST"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "AST",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "AST",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#t:Address",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "data",
-        "fct-source": "src/Language-MIXAL-AST.html#Address",
-        "fct-type": "data",
-        "title": "Address"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "Address",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Address",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#t:AtomicExpr",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "data",
-        "fct-source": "src/Language-MIXAL-AST.html#AtomicExpr",
-        "fct-type": "data",
-        "title": "AtomicExpr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "AtomicExpr",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Atomic Expr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#t:BinOp",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "data",
-        "fct-source": "src/Language-MIXAL-AST.html#BinOp",
-        "fct-type": "data",
-        "title": "BinOp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "BinOp",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Bin Op",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#t:DefinedSymbol",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "data",
-        "fct-source": "src/Language-MIXAL-AST.html#DefinedSymbol",
-        "fct-type": "data",
-        "title": "DefinedSymbol"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "DefinedSymbol",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Defined Symbol",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#t:Expr",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "data",
-        "fct-source": "src/Language-MIXAL-AST.html#Expr",
-        "fct-type": "data",
-        "title": "Expr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "Expr",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Expr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#t:Field",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "data",
-        "fct-source": "src/Language-MIXAL-AST.html#Field",
-        "fct-type": "data",
-        "title": "Field"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "Field",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Field",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#t:Index",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "newtype",
-        "fct-source": "src/Language-MIXAL-AST.html#Index",
-        "fct-type": "newtype",
-        "title": "Index"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "Index",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Index",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#t:MIXALStmt",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "data",
-        "fct-source": "src/Language-MIXAL-AST.html#MIXALStmt",
-        "fct-type": "data",
-        "title": "MIXALStmt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "MIXALStmt",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "MIXALStmt",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#t:MIXChar",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "newtype",
-        "fct-source": "src/Language-MIXAL-AST.html#MIXChar",
-        "fct-type": "newtype",
-        "title": "MIXChar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "MIXChar",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "MIXChar",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#t:OpCode",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "data",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "data",
-        "title": "OpCode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "OpCode",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Op Code",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#t:Symbol",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "newtype",
-        "fct-source": "src/Language-MIXAL-AST.html#Symbol",
-        "fct-type": "newtype",
-        "title": "Symbol"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "Symbol",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Symbol",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#t:SymbolRef",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "data",
-        "fct-source": "src/Language-MIXAL-AST.html#SymbolRef",
-        "fct-type": "data",
-        "title": "SymbolRef"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "SymbolRef",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Symbol Ref",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#t:WValue",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "data",
-        "fct-source": "src/Language-MIXAL-AST.html#WValue",
-        "fct-type": "data",
-        "title": "WValue"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "WValue",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "WValue",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ADD",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "ADD",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "ADD"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "ADD",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "ADD",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Add",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "Add",
-        "fct-source": "src/Language-MIXAL-AST.html#BinOp",
-        "fct-type": "function",
-        "title": "Add"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "Add",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Add",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:AddrExpr",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "AddrExpr Expr",
-        "fct-source": "src/Language-MIXAL-AST.html#Address",
-        "fct-type": "function",
-        "title": "AddrExpr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "AddrExpr",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Addr Expr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:AddrLiteral",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "AddrLiteral WValue",
-        "fct-source": "src/Language-MIXAL-AST.html#Address",
-        "fct-type": "function",
-        "title": "AddrLiteral"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "AddrLiteral",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Addr Literal",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:AddrRef",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "AddrRef SymbolRef",
-        "fct-source": "src/Language-MIXAL-AST.html#Address",
-        "fct-type": "function",
-        "title": "AddrRef"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "AddrRef",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Addr Ref",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Alf",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "Alf (Maybe DefinedSymbol) (MIXChar, MIXChar, MIXChar, MIXChar, MIXChar)",
-        "fct-source": "src/Language-MIXAL-AST.html#MIXALStmt",
-        "fct-type": "function",
-        "title": "Alf"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "Alf",
-        "normalized": "Alf(Maybe DefinedSymbol)(MIXChar,MIXChar,MIXChar,MIXChar,MIXChar)",
-        "package": "language-mixal",
-        "partial": "Alf",
-        "signature": "Alf(Maybe DefinedSymbol)(MIXChar,MIXChar,MIXChar,MIXChar,MIXChar)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Asterisk",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "Asterisk",
-        "fct-source": "src/Language-MIXAL-AST.html#AtomicExpr",
-        "fct-type": "function",
-        "title": "Asterisk"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "Asterisk",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Asterisk",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:AtExpr",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "AtExpr AtomicExpr",
-        "fct-source": "src/Language-MIXAL-AST.html#Expr",
-        "fct-type": "function",
-        "title": "AtExpr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "AtExpr",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "At Expr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:BinOp",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "BinOp Expr BinOp Expr [(BinOp, Expr)]",
-        "fct-source": "src/Language-MIXAL-AST.html#Expr",
-        "fct-type": "function",
-        "title": "BinOp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "BinOp",
-        "normalized": "BinOp Expr BinOp Expr[(BinOp,Expr)]",
-        "package": "language-mixal",
-        "partial": "Bin Op",
-        "signature": "BinOp Expr BinOp Expr[(BinOp,Expr)]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:CHAR",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "CHAR",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "CHAR"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "CHAR",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "CHAR",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:CMP1",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "CMP1",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "CMP1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "CMP1",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "CMP",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:CMP2",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "CMP2",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "CMP2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "CMP2",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "CMP",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:CMP3",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "CMP3",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "CMP3"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "CMP3",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "CMP",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:CMP4",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "CMP4",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "CMP4"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "CMP4",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "CMP",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:CMP5",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "CMP5",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "CMP5"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "CMP5",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "CMP",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:CMP6",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "CMP6",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "CMP6"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "CMP6",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "CMP",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:CMPA",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "CMPA",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "CMPA"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "CMPA",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "CMPA",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:CMPX",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "CMPX",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "CMPX"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "CMPX",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "CMPX",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Con",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "Con (Maybe DefinedSymbol) WValue",
-        "fct-source": "src/Language-MIXAL-AST.html#MIXALStmt",
-        "fct-type": "function",
-        "title": "Con"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "Con",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Con",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:DEC1",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "DEC1",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "DEC1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "DEC1",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "DEC",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:DEC2",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "DEC2",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "DEC2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "DEC2",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "DEC",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:DEC3",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "DEC3",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "DEC3"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "DEC3",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "DEC",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:DEC4",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "DEC4",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "DEC4"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "DEC4",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "DEC",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:DEC5",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "DEC5",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "DEC5"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "DEC5",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "DEC",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:DEC6",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "DEC6",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "DEC6"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "DEC6",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "DEC",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:DECA",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "DECA",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "DECA"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "DECA",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "DECA",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:DECX",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "DECX",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "DECX"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "DECX",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "DECX",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:DIV",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "DIV",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "DIV"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "DIV",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "DIV",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:DefLocal",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "DefLocal Integer",
-        "fct-source": "src/Language-MIXAL-AST.html#DefinedSymbol",
-        "fct-type": "function",
-        "title": "DefLocal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "DefLocal",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Def Local",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:DefNormal",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "DefNormal Symbol",
-        "fct-source": "src/Language-MIXAL-AST.html#DefinedSymbol",
-        "fct-type": "function",
-        "title": "DefNormal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "DefNormal",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Def Normal",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Divide",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "Divide",
-        "fct-source": "src/Language-MIXAL-AST.html#BinOp",
-        "fct-type": "function",
-        "title": "Divide"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "Divide",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Divide",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENN1",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "ENN1",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "ENN1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "ENN1",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "ENN",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENN2",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "ENN2",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "ENN2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "ENN2",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "ENN",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENN3",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "ENN3",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "ENN3"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "ENN3",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "ENN",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENN4",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "ENN4",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "ENN4"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "ENN4",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "ENN",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENN5",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "ENN5",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "ENN5"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "ENN5",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "ENN",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENN6",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "ENN6",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "ENN6"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "ENN6",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "ENN",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENNA",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "ENNA",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "ENNA"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "ENNA",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "ENNA",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENNX",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "ENNX",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "ENNX"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "ENNX",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "ENNX",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENT1",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "ENT1",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "ENT1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "ENT1",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "ENT",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENT2",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "ENT2",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "ENT2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "ENT2",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "ENT",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENT3",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "ENT3",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "ENT3"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "ENT3",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "ENT",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENT4",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "ENT4",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "ENT4"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "ENT4",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "ENT",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENT5",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "ENT5",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "ENT5"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "ENT5",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "ENT",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENT6",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "ENT6",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "ENT6"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "ENT6",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "ENT",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENTA",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "ENTA",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "ENTA"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "ENTA",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "ENTA",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENTX",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "ENTX",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "ENTX"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "ENTX",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "ENTX",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:End",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "End (Maybe DefinedSymbol) WValue",
-        "fct-source": "src/Language-MIXAL-AST.html#MIXALStmt",
-        "fct-type": "function",
-        "title": "End"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "End",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "End",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Equ",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "Equ (Maybe DefinedSymbol) WValue",
-        "fct-source": "src/Language-MIXAL-AST.html#MIXALStmt",
-        "fct-type": "function",
-        "title": "Equ"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "Equ",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Equ",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Field",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "Field",
-        "fct-source": "src/Language-MIXAL-AST.html#BinOp",
-        "fct-type": "function",
-        "title": "Field"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "Field",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Field",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:FieldExpr",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "FieldExpr Expr",
-        "fct-source": "src/Language-MIXAL-AST.html#Field",
-        "fct-type": "function",
-        "title": "FieldExpr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "FieldExpr",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Field Expr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Frac",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "Frac",
-        "fct-source": "src/Language-MIXAL-AST.html#BinOp",
-        "fct-type": "function",
-        "title": "Frac"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "Frac",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Frac",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:HLT",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "HLT",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "HLT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "HLT",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "HLT",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:IN",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "IN",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "IN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "IN",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "IN",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:INC1",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "INC1",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "INC1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "INC1",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "INC",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:INC2",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "INC2",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "INC2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "INC2",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "INC",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:INC3",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "INC3",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "INC3"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "INC3",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "INC",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:INC4",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "INC4",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "INC4"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "INC4",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "INC",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:INC5",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "INC5",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "INC5"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "INC5",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "INC",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:INC6",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "INC6",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "INC6"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "INC6",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "INC",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:INCA",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "INCA",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "INCA"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "INCA",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "INCA",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:INCX",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "INCX",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "INCX"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "INCX",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "INCX",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:IOC",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "IOC",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "IOC"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "IOC",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "IOC",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Index",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "Index Integer",
-        "fct-source": "src/Language-MIXAL-AST.html#Index",
-        "fct-type": "function",
-        "title": "Index"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "Index",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Index",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Inst",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "Inst (Maybe DefinedSymbol) OpCode (Maybe Address) (Maybe Index) (Maybe Field)",
-        "fct-source": "src/Language-MIXAL-AST.html#MIXALStmt",
-        "fct-type": "function",
-        "title": "Inst"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "Inst",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Inst",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J1N",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J1N",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J1N"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J1N",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J1NN",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J1NN",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J1NN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J1NN",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "NN",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J1NP",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J1NP",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J1NP"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J1NP",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "NP",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J1NZ",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J1NZ",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J1NZ"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J1NZ",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "NZ",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J1P",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J1P",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J1P"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J1P",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J1Z",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J1Z",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J1Z"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J1Z",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J2N",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J2N",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J2N"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J2N",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J2NN",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J2NN",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J2NN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J2NN",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "NN",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J2NP",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J2NP",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J2NP"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J2NP",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "NP",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J2NZ",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J2NZ",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J2NZ"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J2NZ",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "NZ",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J2P",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J2P",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J2P"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J2P",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J2Z",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J2Z",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J2Z"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J2Z",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J3N",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J3N",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J3N"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J3N",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J3NN",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J3NN",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J3NN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J3NN",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "NN",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J3NP",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J3NP",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J3NP"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J3NP",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "NP",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J3NZ",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J3NZ",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J3NZ"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J3NZ",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "NZ",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J3P",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J3P",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J3P"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J3P",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J3Z",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J3Z",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J3Z"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J3Z",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J4N",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J4N",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J4N"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J4N",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J4NN",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J4NN",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J4NN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J4NN",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "NN",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J4NP",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J4NP",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J4NP"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J4NP",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "NP",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J4NZ",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J4NZ",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J4NZ"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J4NZ",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "NZ",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J4P",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J4P",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J4P"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J4P",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J4Z",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J4Z",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J4Z"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J4Z",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J5N",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J5N",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J5N"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J5N",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J5NN",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J5NN",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J5NN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J5NN",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "NN",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J5NP",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J5NP",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J5NP"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J5NP",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "NP",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J5NZ",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J5NZ",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J5NZ"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J5NZ",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "NZ",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J5P",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J5P",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J5P"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J5P",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J5Z",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J5Z",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J5Z"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J5Z",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J6N",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J6N",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J6N"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J6N",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J6NN",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J6NN",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J6NN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J6NN",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "NN",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J6NP",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J6NP",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J6NP"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J6NP",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "NP",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J6NZ",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J6NZ",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J6NZ"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J6NZ",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "NZ",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J6P",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J6P",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J6P"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J6P",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J6Z",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "J6Z",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "J6Z"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "J6Z",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JAN",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "JAN",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "JAN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "JAN",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "JAN",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JANN",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "JANN",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "JANN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "JANN",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "JANN",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JANP",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "JANP",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "JANP"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "JANP",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "JANP",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JANZ",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "JANZ",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "JANZ"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "JANZ",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "JANZ",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JAP",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "JAP",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "JAP"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "JAP",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "JAP",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JAZ",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "JAZ",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "JAZ"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "JAZ",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "JAZ",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JBUS",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "JBUS",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "JBUS"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "JBUS",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "JBUS",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JE",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "JE",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "JE"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "JE",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "JE",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JG",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "JG",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "JG"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "JG",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "JG",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JGE",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "JGE",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "JGE"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "JGE",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "JGE",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JL",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "JL",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "JL"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "JL",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "JL",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JLE",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "JLE",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "JLE"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "JLE",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "JLE",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JMP",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "JMP",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "JMP"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "JMP",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "JMP",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JNE",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "JNE",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "JNE"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "JNE",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "JNE",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JNOV",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "JNOV",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "JNOV"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "JNOV",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "JNOV",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JOV",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "JOV",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "JOV"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "JOV",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "JOV",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JRED",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "JRED",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "JRED"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "JRED",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "JRED",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JSJ",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "JSJ",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "JSJ"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "JSJ",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "JSJ",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JXN",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "JXN",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "JXN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "JXN",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "JXN",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JXNN",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "JXNN",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "JXNN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "JXNN",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "JXNN",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JXNP",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "JXNP",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "JXNP"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "JXNP",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "JXNP",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JXNZ",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "JXNZ",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "JXNZ"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "JXNZ",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "JXNZ",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JXP",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "JXP",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "JXP"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "JXP",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "JXP",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JXZ",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "JXZ",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "JXZ"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "JXZ",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "JXZ",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LD1",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "LD1",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "LD1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "LD1",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "LD",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LD1N",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "LD1N",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "LD1N"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "LD1N",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "LD",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LD2",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "LD2",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "LD2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "LD2",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "LD",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LD2N",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "LD2N",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "LD2N"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "LD2N",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "LD",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LD3",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "LD3",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "LD3"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "LD3",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "LD",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LD3N",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "LD3N",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "LD3N"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "LD3N",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "LD",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LD4",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "LD4",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "LD4"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "LD4",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "LD",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LD4N",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "LD4N",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "LD4N"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "LD4N",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "LD",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LD5",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "LD5",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "LD5"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "LD5",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "LD",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LD5N",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "LD5N",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "LD5N"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "LD5N",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "LD",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LD6",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "LD6",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "LD6"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "LD6",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "LD",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LD6N",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "LD6N",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "LD6N"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "LD6N",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "LD",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LDA",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "LDA",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "LDA"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "LDA",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "LDA",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LDAN",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "LDAN",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "LDAN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "LDAN",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "LDAN",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LDX",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "LDX",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "LDX"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "LDX",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "LDX",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LDXN",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "LDXN",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "LDXN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "LDXN",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "LDXN",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LitConst",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "LitConst WValue",
-        "fct-source": "src/Language-MIXAL-AST.html#Address",
-        "fct-type": "function",
-        "title": "LitConst"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "LitConst",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Lit Const",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:MIXChar",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "MIXChar Char",
-        "fct-source": "src/Language-MIXAL-AST.html#MIXChar",
-        "fct-type": "function",
-        "title": "MIXChar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "MIXChar",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "MIXChar",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:MOVE",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "MOVE",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "MOVE"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "MOVE",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "MOVE",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:MUL",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "MUL",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "MUL"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "MUL",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "MUL",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Multiply",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "Multiply",
-        "fct-source": "src/Language-MIXAL-AST.html#BinOp",
-        "fct-type": "function",
-        "title": "Multiply"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "Multiply",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Multiply",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:NOP",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "NOP",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "NOP"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "NOP",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "NOP",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:NUM",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "NUM",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "NUM"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "NUM",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "NUM",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Num",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "Num Integer",
-        "fct-source": "src/Language-MIXAL-AST.html#AtomicExpr",
-        "fct-type": "function",
-        "title": "Num"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "Num",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Num",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:OUT",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "OUT",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "OUT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "OUT",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "OUT",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Orig",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "Orig (Maybe DefinedSymbol) WValue",
-        "fct-source": "src/Language-MIXAL-AST.html#MIXALStmt",
-        "fct-type": "function",
-        "title": "Orig"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "Orig",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Orig",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:RefBackward",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "RefBackward Integer",
-        "fct-source": "src/Language-MIXAL-AST.html#SymbolRef",
-        "fct-type": "function",
-        "title": "RefBackward"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "RefBackward",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Ref Backward",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:RefForward",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "RefForward Integer",
-        "fct-source": "src/Language-MIXAL-AST.html#SymbolRef",
-        "fct-type": "function",
-        "title": "RefForward"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "RefForward",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Ref Forward",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:RefNormal",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "RefNormal Symbol",
-        "fct-source": "src/Language-MIXAL-AST.html#SymbolRef",
-        "fct-type": "function",
-        "title": "RefNormal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "RefNormal",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Ref Normal",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:SLA",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "SLA",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "SLA"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "SLA",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "SLA",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:SLAX",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "SLAX",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "SLAX"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "SLAX",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "SLAX",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:SLC",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "SLC",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "SLC"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "SLC",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "SLC",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:SRA",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "SRA",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "SRA"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "SRA",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "SRA",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:SRAX",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "SRAX",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "SRAX"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "SRAX",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "SRAX",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:SRC",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "SRC",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "SRC"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "SRC",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "SRC",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ST1",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "ST1",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "ST1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "ST1",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "ST",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ST2",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "ST2",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "ST2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "ST2",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "ST",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ST3",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "ST3",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "ST3"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "ST3",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "ST",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ST4",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "ST4",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "ST4"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "ST4",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "ST",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ST5",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "ST5",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "ST5"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "ST5",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "ST",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ST6",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "ST6",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "ST6"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "ST6",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "ST",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:STA",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "STA",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "STA"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "STA",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "STA",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:STJ",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "STJ",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "STJ"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "STJ",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "STJ",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:STX",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "STX",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "STX"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "STX",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "STX",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:STZ",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "STZ",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "STZ"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "STZ",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "STZ",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:SUB",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "SUB",
-        "fct-source": "src/Language-MIXAL-AST.html#OpCode",
-        "fct-type": "function",
-        "title": "SUB"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "SUB",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "SUB",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Signed",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "Signed Bool AtomicExpr",
-        "fct-source": "src/Language-MIXAL-AST.html#Expr",
-        "fct-type": "function",
-        "title": "Signed"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "Signed",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Signed",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Subtract",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "Subtract",
-        "fct-source": "src/Language-MIXAL-AST.html#BinOp",
-        "fct-type": "function",
-        "title": "Subtract"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "Subtract",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Subtract",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Sym",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "Sym Symbol",
-        "fct-source": "src/Language-MIXAL-AST.html#AtomicExpr",
-        "fct-type": "function",
-        "title": "Sym"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "Sym",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Sym",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Symbol",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "Symbol String",
-        "fct-source": "src/Language-MIXAL-AST.html#Symbol",
-        "fct-type": "function",
-        "title": "Symbol"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "Symbol",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Symbol",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:WValue",
-      "description": {
-        "fct-module": "Language.MIXAL.AST",
-        "fct-package": "language-mixal",
-        "fct-signature": "WValue Expr (Maybe Field) [(Expr, Maybe Field)]",
-        "fct-source": "src/Language-MIXAL-AST.html#WValue",
-        "fct-type": "function",
-        "title": "WValue"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL AST",
-        "module": "Language.MIXAL.AST",
-        "name": "WValue",
-        "normalized": "WValue Expr(Maybe Field)[(Expr,Maybe Field)]",
-        "package": "language-mixal",
-        "partial": "WValue",
-        "signature": "WValue Expr(Maybe Field)[(Expr,Maybe Field)]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-Char.html#",
-      "description": {
-        "fct-module": "Language.MIXAL.Char",
-        "fct-package": "language-mixal",
-        "fct-signature": "module",
-        "fct-source": "src/Language-MIXAL-Char.html",
-        "fct-type": "module",
-        "title": "Char"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL Char",
-        "module": "Language.MIXAL.Char",
-        "name": "Char",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Char",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-Char.html#v:mixChars",
-      "description": {
-        "fct-module": "Language.MIXAL.Char",
-        "fct-package": "language-mixal",
-        "fct-signature": "[Char]",
-        "fct-source": "src/Language-MIXAL-Char.html#mixChars",
-        "fct-type": "function",
-        "title": "mixChars"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL Char",
-        "module": "Language.MIXAL.Char",
-        "name": "mixChars",
-        "normalized": "[Char]",
-        "package": "language-mixal",
-        "partial": "Chars",
-        "signature": "[Char]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-OpCode.html#",
-      "description": {
-        "fct-module": "Language.MIXAL.OpCode",
-        "fct-package": "language-mixal",
-        "fct-signature": "module",
-        "fct-source": "src/Language-MIXAL-OpCode.html",
-        "fct-type": "module",
-        "title": "OpCode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL OpCode",
-        "module": "Language.MIXAL.OpCode",
-        "name": "OpCode",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Op Code",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-OpCode.html#v:opCode",
-      "description": {
-        "fct-descr": "\u003cp\u003eReturn the numeric version of an opcode.  If the opcode\n corresponds to a specific field value, return that too; otherwise\n Nothing.  In the Nothing case, the F value should be supplied by\n the user and assembled into (or extracted from) the binary\n instruction.  In the Just case a specific F-value is required to\n distinguish the opcode based on the instruction involved.\n\u003c/p\u003e",
-        "fct-module": "Language.MIXAL.OpCode",
-        "fct-package": "language-mixal",
-        "fct-signature": "OpCode -\u003e (Integer, Maybe Integer)",
-        "fct-source": "src/Language-MIXAL-OpCode.html#opCode",
-        "fct-type": "function",
-        "title": "opCode"
-      },
-      "index": {
-        "description": "Return the numeric version of an opcode If the opcode corresponds to specific field value return that too otherwise Nothing In the Nothing case the value should be supplied by the user and assembled into or extracted from the binary instruction In the Just case specific F-value is required to distinguish the opcode based on the instruction involved",
-        "hierarchy": "Language MIXAL OpCode",
-        "module": "Language.MIXAL.OpCode",
-        "name": "opCode",
-        "normalized": "OpCode-\u003e(Integer,Maybe Integer)",
-        "package": "language-mixal",
-        "partial": "Code",
-        "signature": "OpCode-\u003e(Integer,Maybe Integer)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-PP.html#",
-      "description": {
-        "fct-module": "Language.MIXAL.PP",
-        "fct-package": "language-mixal",
-        "fct-signature": "module",
-        "fct-source": "src/Language-MIXAL-PP.html",
-        "fct-type": "module",
-        "title": "PP"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL PP",
-        "module": "Language.MIXAL.PP",
-        "name": "PP",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "PP",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-PP.html#v:mppField",
-      "description": {
-        "fct-module": "Language.MIXAL.PP",
-        "fct-package": "language-mixal",
-        "fct-signature": "Maybe Field -\u003e Doc",
-        "fct-source": "src/Language-MIXAL-PP.html#mppField",
-        "fct-type": "function",
-        "title": "mppField"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL PP",
-        "module": "Language.MIXAL.PP",
-        "name": "mppField",
-        "normalized": "Maybe Field-\u003eDoc",
-        "package": "language-mixal",
-        "partial": "Field",
-        "signature": "Maybe Field-\u003eDoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-PP.html#v:mppSymbolDef",
-      "description": {
-        "fct-module": "Language.MIXAL.PP",
-        "fct-package": "language-mixal",
-        "fct-signature": "Maybe DefinedSymbol -\u003e Doc",
-        "fct-source": "src/Language-MIXAL-PP.html#mppSymbolDef",
-        "fct-type": "function",
-        "title": "mppSymbolDef"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL PP",
-        "module": "Language.MIXAL.PP",
-        "name": "mppSymbolDef",
-        "normalized": "Maybe DefinedSymbol-\u003eDoc",
-        "package": "language-mixal",
-        "partial": "Symbol Def",
-        "signature": "Maybe DefinedSymbol-\u003eDoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-PP.html#v:ppAddress",
-      "description": {
-        "fct-module": "Language.MIXAL.PP",
-        "fct-package": "language-mixal",
-        "fct-signature": "Address -\u003e Doc",
-        "fct-source": "src/Language-MIXAL-PP.html#ppAddress",
-        "fct-type": "function",
-        "title": "ppAddress"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL PP",
-        "module": "Language.MIXAL.PP",
-        "name": "ppAddress",
-        "normalized": "Address-\u003eDoc",
-        "package": "language-mixal",
-        "partial": "Address",
-        "signature": "Address-\u003eDoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-PP.html#v:ppAtomicExpr",
-      "description": {
-        "fct-module": "Language.MIXAL.PP",
-        "fct-package": "language-mixal",
-        "fct-signature": "AtomicExpr -\u003e Doc",
-        "fct-source": "src/Language-MIXAL-PP.html#ppAtomicExpr",
-        "fct-type": "function",
-        "title": "ppAtomicExpr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL PP",
-        "module": "Language.MIXAL.PP",
-        "name": "ppAtomicExpr",
-        "normalized": "AtomicExpr-\u003eDoc",
-        "package": "language-mixal",
-        "partial": "Atomic Expr",
-        "signature": "AtomicExpr-\u003eDoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-PP.html#v:ppBinOp",
-      "description": {
-        "fct-module": "Language.MIXAL.PP",
-        "fct-package": "language-mixal",
-        "fct-signature": "BinOp -\u003e Doc",
-        "fct-source": "src/Language-MIXAL-PP.html#ppBinOp",
-        "fct-type": "function",
-        "title": "ppBinOp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL PP",
-        "module": "Language.MIXAL.PP",
-        "name": "ppBinOp",
-        "normalized": "BinOp-\u003eDoc",
-        "package": "language-mixal",
-        "partial": "Bin Op",
-        "signature": "BinOp-\u003eDoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-PP.html#v:ppExpr",
-      "description": {
-        "fct-module": "Language.MIXAL.PP",
-        "fct-package": "language-mixal",
-        "fct-signature": "Expr -\u003e Doc",
-        "fct-source": "src/Language-MIXAL-PP.html#ppExpr",
-        "fct-type": "function",
-        "title": "ppExpr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL PP",
-        "module": "Language.MIXAL.PP",
-        "name": "ppExpr",
-        "normalized": "Expr-\u003eDoc",
-        "package": "language-mixal",
-        "partial": "Expr",
-        "signature": "Expr-\u003eDoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-PP.html#v:ppField",
-      "description": {
-        "fct-module": "Language.MIXAL.PP",
-        "fct-package": "language-mixal",
-        "fct-signature": "Field -\u003e Doc",
-        "fct-source": "src/Language-MIXAL-PP.html#ppField",
-        "fct-type": "function",
-        "title": "ppField"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL PP",
-        "module": "Language.MIXAL.PP",
-        "name": "ppField",
-        "normalized": "Field-\u003eDoc",
-        "package": "language-mixal",
-        "partial": "Field",
-        "signature": "Field-\u003eDoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-PP.html#v:ppIndex",
-      "description": {
-        "fct-module": "Language.MIXAL.PP",
-        "fct-package": "language-mixal",
-        "fct-signature": "Index -\u003e Doc",
-        "fct-source": "src/Language-MIXAL-PP.html#ppIndex",
-        "fct-type": "function",
-        "title": "ppIndex"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL PP",
-        "module": "Language.MIXAL.PP",
-        "name": "ppIndex",
-        "normalized": "Index-\u003eDoc",
-        "package": "language-mixal",
-        "partial": "Index",
-        "signature": "Index-\u003eDoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-PP.html#v:ppMIXALStmt",
-      "description": {
-        "fct-module": "Language.MIXAL.PP",
-        "fct-package": "language-mixal",
-        "fct-signature": "MIXALStmt -\u003e Doc",
-        "fct-source": "src/Language-MIXAL-PP.html#ppMIXALStmt",
-        "fct-type": "function",
-        "title": "ppMIXALStmt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL PP",
-        "module": "Language.MIXAL.PP",
-        "name": "ppMIXALStmt",
-        "normalized": "MIXALStmt-\u003eDoc",
-        "package": "language-mixal",
-        "partial": "MIXALStmt",
-        "signature": "MIXALStmt-\u003eDoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-PP.html#v:ppOpCode",
-      "description": {
-        "fct-module": "Language.MIXAL.PP",
-        "fct-package": "language-mixal",
-        "fct-signature": "OpCode -\u003e Doc",
-        "fct-source": "src/Language-MIXAL-PP.html#ppOpCode",
-        "fct-type": "function",
-        "title": "ppOpCode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL PP",
-        "module": "Language.MIXAL.PP",
-        "name": "ppOpCode",
-        "normalized": "OpCode-\u003eDoc",
-        "package": "language-mixal",
-        "partial": "Op Code",
-        "signature": "OpCode-\u003eDoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-PP.html#v:ppSymbol",
-      "description": {
-        "fct-module": "Language.MIXAL.PP",
-        "fct-package": "language-mixal",
-        "fct-signature": "Symbol -\u003e Doc",
-        "fct-source": "src/Language-MIXAL-PP.html#ppSymbol",
-        "fct-type": "function",
-        "title": "ppSymbol"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL PP",
-        "module": "Language.MIXAL.PP",
-        "name": "ppSymbol",
-        "normalized": "Symbol-\u003eDoc",
-        "package": "language-mixal",
-        "partial": "Symbol",
-        "signature": "Symbol-\u003eDoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-PP.html#v:ppSymbolDef",
-      "description": {
-        "fct-module": "Language.MIXAL.PP",
-        "fct-package": "language-mixal",
-        "fct-signature": "DefinedSymbol -\u003e Doc",
-        "fct-source": "src/Language-MIXAL-PP.html#ppSymbolDef",
-        "fct-type": "function",
-        "title": "ppSymbolDef"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL PP",
-        "module": "Language.MIXAL.PP",
-        "name": "ppSymbolDef",
-        "normalized": "DefinedSymbol-\u003eDoc",
-        "package": "language-mixal",
-        "partial": "Symbol Def",
-        "signature": "DefinedSymbol-\u003eDoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-PP.html#v:ppSymbolRef",
-      "description": {
-        "fct-module": "Language.MIXAL.PP",
-        "fct-package": "language-mixal",
-        "fct-signature": "SymbolRef -\u003e Doc",
-        "fct-source": "src/Language-MIXAL-PP.html#ppSymbolRef",
-        "fct-type": "function",
-        "title": "ppSymbolRef"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL PP",
-        "module": "Language.MIXAL.PP",
-        "name": "ppSymbolRef",
-        "normalized": "SymbolRef-\u003eDoc",
-        "package": "language-mixal",
-        "partial": "Symbol Ref",
-        "signature": "SymbolRef-\u003eDoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-PP.html#v:ppWValue",
-      "description": {
-        "fct-module": "Language.MIXAL.PP",
-        "fct-package": "language-mixal",
-        "fct-signature": "WValue -\u003e Doc",
-        "fct-source": "src/Language-MIXAL-PP.html#ppWValue",
-        "fct-type": "function",
-        "title": "ppWValue"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL PP",
-        "module": "Language.MIXAL.PP",
-        "name": "ppWValue",
-        "normalized": "WValue-\u003eDoc",
-        "package": "language-mixal",
-        "partial": "WValue",
-        "signature": "WValue-\u003eDoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-Parser.html#",
-      "description": {
-        "fct-module": "Language.MIXAL.Parser",
-        "fct-package": "language-mixal",
-        "fct-signature": "module",
-        "fct-source": "src/Language-MIXAL-Parser.html",
-        "fct-type": "module",
-        "title": "Parser"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL Parser",
-        "module": "Language.MIXAL.Parser",
-        "name": "Parser",
-        "normalized": "",
-        "package": "language-mixal",
-        "partial": "Parser",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-Parser.html#v:parseMIXAL",
-      "description": {
-        "fct-module": "Language.MIXAL.Parser",
-        "fct-package": "language-mixal",
-        "fct-signature": "String -\u003e String -\u003e Either ParseError [MIXALStmt]",
-        "fct-source": "src/Language-MIXAL-Parser.html#parseMIXAL",
-        "fct-type": "function",
-        "title": "parseMIXAL"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MIXAL Parser",
-        "module": "Language.MIXAL.Parser",
-        "name": "parseMIXAL",
-        "normalized": "String-\u003eString-\u003eEither ParseError[MIXALStmt]",
-        "package": "language-mixal",
-        "partial": "MIXAL",
-        "signature": "String-\u003eString-\u003eEither ParseError[MIXALStmt]"
-      }
-    }
-  }
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "language-mixal"
+      },
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "AST",
+          "package": "language-mixal",
+          "source": "src/Language-MIXAL-AST.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "AST",
+          "package": "language-mixal",
+          "partial": "AST",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "Address",
+          "package": "language-mixal",
+          "source": "src/Language-MIXAL-AST.html#Address",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "Address",
+          "package": "language-mixal",
+          "partial": "Address",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#t:Address"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "AtomicExpr",
+          "package": "language-mixal",
+          "source": "src/Language-MIXAL-AST.html#AtomicExpr",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "AtomicExpr",
+          "package": "language-mixal",
+          "partial": "Atomic Expr",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#t:AtomicExpr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "BinOp",
+          "package": "language-mixal",
+          "source": "src/Language-MIXAL-AST.html#BinOp",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "BinOp",
+          "package": "language-mixal",
+          "partial": "Bin Op",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#t:BinOp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "DefinedSymbol",
+          "package": "language-mixal",
+          "source": "src/Language-MIXAL-AST.html#DefinedSymbol",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "DefinedSymbol",
+          "package": "language-mixal",
+          "partial": "Defined Symbol",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#t:DefinedSymbol"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "Expr",
+          "package": "language-mixal",
+          "source": "src/Language-MIXAL-AST.html#Expr",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "Expr",
+          "package": "language-mixal",
+          "partial": "Expr",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#t:Expr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "Field",
+          "package": "language-mixal",
+          "source": "src/Language-MIXAL-AST.html#Field",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "Field",
+          "package": "language-mixal",
+          "partial": "Field",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#t:Field"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "Index",
+          "package": "language-mixal",
+          "source": "src/Language-MIXAL-AST.html#Index",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "Index",
+          "package": "language-mixal",
+          "partial": "Index",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#t:Index"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "MIXALStmt",
+          "package": "language-mixal",
+          "source": "src/Language-MIXAL-AST.html#MIXALStmt",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "MIXALStmt",
+          "package": "language-mixal",
+          "partial": "MIXALStmt",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#t:MIXALStmt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "MIXChar",
+          "package": "language-mixal",
+          "source": "src/Language-MIXAL-AST.html#MIXChar",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "MIXChar",
+          "package": "language-mixal",
+          "partial": "MIXChar",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#t:MIXChar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "OpCode",
+          "package": "language-mixal",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "OpCode",
+          "package": "language-mixal",
+          "partial": "Op Code",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#t:OpCode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "Symbol",
+          "package": "language-mixal",
+          "source": "src/Language-MIXAL-AST.html#Symbol",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "Symbol",
+          "package": "language-mixal",
+          "partial": "Symbol",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#t:Symbol"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "SymbolRef",
+          "package": "language-mixal",
+          "source": "src/Language-MIXAL-AST.html#SymbolRef",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "SymbolRef",
+          "package": "language-mixal",
+          "partial": "Symbol Ref",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#t:SymbolRef"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "WValue",
+          "package": "language-mixal",
+          "source": "src/Language-MIXAL-AST.html#WValue",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "WValue",
+          "package": "language-mixal",
+          "partial": "WValue",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#t:WValue"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "ADD",
+          "package": "language-mixal",
+          "signature": "ADD",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "ADD",
+          "package": "language-mixal",
+          "partial": "ADD",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ADD"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "Add",
+          "package": "language-mixal",
+          "signature": "Add",
+          "source": "src/Language-MIXAL-AST.html#BinOp",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "Add",
+          "package": "language-mixal",
+          "partial": "Add",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Add"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "AddrExpr",
+          "package": "language-mixal",
+          "signature": "AddrExpr Expr",
+          "source": "src/Language-MIXAL-AST.html#Address",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "AddrExpr",
+          "package": "language-mixal",
+          "partial": "Addr Expr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:AddrExpr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "AddrLiteral",
+          "package": "language-mixal",
+          "signature": "AddrLiteral WValue",
+          "source": "src/Language-MIXAL-AST.html#Address",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "AddrLiteral",
+          "package": "language-mixal",
+          "partial": "Addr Literal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:AddrLiteral"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "AddrRef",
+          "package": "language-mixal",
+          "signature": "AddrRef SymbolRef",
+          "source": "src/Language-MIXAL-AST.html#Address",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "AddrRef",
+          "package": "language-mixal",
+          "partial": "Addr Ref",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:AddrRef"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "Alf",
+          "package": "language-mixal",
+          "signature": "Alf (Maybe DefinedSymbol) (MIXChar, MIXChar, MIXChar, MIXChar, MIXChar)",
+          "source": "src/Language-MIXAL-AST.html#MIXALStmt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "Alf",
+          "normalized": "Alf(Maybe DefinedSymbol)(MIXChar,MIXChar,MIXChar,MIXChar,MIXChar)",
+          "package": "language-mixal",
+          "partial": "Alf",
+          "signature": "Alf(Maybe DefinedSymbol)(MIXChar,MIXChar,MIXChar,MIXChar,MIXChar)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Alf"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "Asterisk",
+          "package": "language-mixal",
+          "signature": "Asterisk",
+          "source": "src/Language-MIXAL-AST.html#AtomicExpr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "Asterisk",
+          "package": "language-mixal",
+          "partial": "Asterisk",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Asterisk"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "AtExpr",
+          "package": "language-mixal",
+          "signature": "AtExpr AtomicExpr",
+          "source": "src/Language-MIXAL-AST.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "AtExpr",
+          "package": "language-mixal",
+          "partial": "At Expr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:AtExpr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "BinOp",
+          "package": "language-mixal",
+          "signature": "BinOp Expr BinOp Expr [(BinOp, Expr)]",
+          "source": "src/Language-MIXAL-AST.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "BinOp",
+          "normalized": "BinOp Expr BinOp Expr[(BinOp,Expr)]",
+          "package": "language-mixal",
+          "partial": "Bin Op",
+          "signature": "BinOp Expr BinOp Expr[(BinOp,Expr)]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:BinOp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "CHAR",
+          "package": "language-mixal",
+          "signature": "CHAR",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "CHAR",
+          "package": "language-mixal",
+          "partial": "CHAR",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:CHAR"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "CMP1",
+          "package": "language-mixal",
+          "signature": "CMP1",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "CMP1",
+          "package": "language-mixal",
+          "partial": "CMP",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:CMP1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "CMP2",
+          "package": "language-mixal",
+          "signature": "CMP2",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "CMP2",
+          "package": "language-mixal",
+          "partial": "CMP",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:CMP2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "CMP3",
+          "package": "language-mixal",
+          "signature": "CMP3",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "CMP3",
+          "package": "language-mixal",
+          "partial": "CMP",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:CMP3"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "CMP4",
+          "package": "language-mixal",
+          "signature": "CMP4",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "CMP4",
+          "package": "language-mixal",
+          "partial": "CMP",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:CMP4"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "CMP5",
+          "package": "language-mixal",
+          "signature": "CMP5",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "CMP5",
+          "package": "language-mixal",
+          "partial": "CMP",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:CMP5"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "CMP6",
+          "package": "language-mixal",
+          "signature": "CMP6",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "CMP6",
+          "package": "language-mixal",
+          "partial": "CMP",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:CMP6"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "CMPA",
+          "package": "language-mixal",
+          "signature": "CMPA",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "CMPA",
+          "package": "language-mixal",
+          "partial": "CMPA",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:CMPA"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "CMPX",
+          "package": "language-mixal",
+          "signature": "CMPX",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "CMPX",
+          "package": "language-mixal",
+          "partial": "CMPX",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:CMPX"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "Con",
+          "package": "language-mixal",
+          "signature": "Con (Maybe DefinedSymbol) WValue",
+          "source": "src/Language-MIXAL-AST.html#MIXALStmt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "Con",
+          "package": "language-mixal",
+          "partial": "Con",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Con"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "DEC1",
+          "package": "language-mixal",
+          "signature": "DEC1",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "DEC1",
+          "package": "language-mixal",
+          "partial": "DEC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:DEC1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "DEC2",
+          "package": "language-mixal",
+          "signature": "DEC2",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "DEC2",
+          "package": "language-mixal",
+          "partial": "DEC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:DEC2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "DEC3",
+          "package": "language-mixal",
+          "signature": "DEC3",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "DEC3",
+          "package": "language-mixal",
+          "partial": "DEC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:DEC3"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "DEC4",
+          "package": "language-mixal",
+          "signature": "DEC4",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "DEC4",
+          "package": "language-mixal",
+          "partial": "DEC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:DEC4"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "DEC5",
+          "package": "language-mixal",
+          "signature": "DEC5",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "DEC5",
+          "package": "language-mixal",
+          "partial": "DEC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:DEC5"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "DEC6",
+          "package": "language-mixal",
+          "signature": "DEC6",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "DEC6",
+          "package": "language-mixal",
+          "partial": "DEC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:DEC6"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "DECA",
+          "package": "language-mixal",
+          "signature": "DECA",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "DECA",
+          "package": "language-mixal",
+          "partial": "DECA",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:DECA"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "DECX",
+          "package": "language-mixal",
+          "signature": "DECX",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "DECX",
+          "package": "language-mixal",
+          "partial": "DECX",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:DECX"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "DIV",
+          "package": "language-mixal",
+          "signature": "DIV",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "DIV",
+          "package": "language-mixal",
+          "partial": "DIV",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:DIV"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "DefLocal",
+          "package": "language-mixal",
+          "signature": "DefLocal Integer",
+          "source": "src/Language-MIXAL-AST.html#DefinedSymbol",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "DefLocal",
+          "package": "language-mixal",
+          "partial": "Def Local",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:DefLocal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "DefNormal",
+          "package": "language-mixal",
+          "signature": "DefNormal Symbol",
+          "source": "src/Language-MIXAL-AST.html#DefinedSymbol",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "DefNormal",
+          "package": "language-mixal",
+          "partial": "Def Normal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:DefNormal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "Divide",
+          "package": "language-mixal",
+          "signature": "Divide",
+          "source": "src/Language-MIXAL-AST.html#BinOp",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "Divide",
+          "package": "language-mixal",
+          "partial": "Divide",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Divide"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "ENN1",
+          "package": "language-mixal",
+          "signature": "ENN1",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "ENN1",
+          "package": "language-mixal",
+          "partial": "ENN",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENN1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "ENN2",
+          "package": "language-mixal",
+          "signature": "ENN2",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "ENN2",
+          "package": "language-mixal",
+          "partial": "ENN",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENN2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "ENN3",
+          "package": "language-mixal",
+          "signature": "ENN3",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "ENN3",
+          "package": "language-mixal",
+          "partial": "ENN",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENN3"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "ENN4",
+          "package": "language-mixal",
+          "signature": "ENN4",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "ENN4",
+          "package": "language-mixal",
+          "partial": "ENN",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENN4"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "ENN5",
+          "package": "language-mixal",
+          "signature": "ENN5",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "ENN5",
+          "package": "language-mixal",
+          "partial": "ENN",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENN5"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "ENN6",
+          "package": "language-mixal",
+          "signature": "ENN6",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "ENN6",
+          "package": "language-mixal",
+          "partial": "ENN",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENN6"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "ENNA",
+          "package": "language-mixal",
+          "signature": "ENNA",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "ENNA",
+          "package": "language-mixal",
+          "partial": "ENNA",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENNA"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "ENNX",
+          "package": "language-mixal",
+          "signature": "ENNX",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "ENNX",
+          "package": "language-mixal",
+          "partial": "ENNX",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENNX"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "ENT1",
+          "package": "language-mixal",
+          "signature": "ENT1",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "ENT1",
+          "package": "language-mixal",
+          "partial": "ENT",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENT1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "ENT2",
+          "package": "language-mixal",
+          "signature": "ENT2",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "ENT2",
+          "package": "language-mixal",
+          "partial": "ENT",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENT2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "ENT3",
+          "package": "language-mixal",
+          "signature": "ENT3",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "ENT3",
+          "package": "language-mixal",
+          "partial": "ENT",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENT3"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "ENT4",
+          "package": "language-mixal",
+          "signature": "ENT4",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "ENT4",
+          "package": "language-mixal",
+          "partial": "ENT",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENT4"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "ENT5",
+          "package": "language-mixal",
+          "signature": "ENT5",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "ENT5",
+          "package": "language-mixal",
+          "partial": "ENT",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENT5"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "ENT6",
+          "package": "language-mixal",
+          "signature": "ENT6",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "ENT6",
+          "package": "language-mixal",
+          "partial": "ENT",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENT6"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "ENTA",
+          "package": "language-mixal",
+          "signature": "ENTA",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "ENTA",
+          "package": "language-mixal",
+          "partial": "ENTA",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENTA"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "ENTX",
+          "package": "language-mixal",
+          "signature": "ENTX",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "ENTX",
+          "package": "language-mixal",
+          "partial": "ENTX",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ENTX"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "End",
+          "package": "language-mixal",
+          "signature": "End (Maybe DefinedSymbol) WValue",
+          "source": "src/Language-MIXAL-AST.html#MIXALStmt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "End",
+          "package": "language-mixal",
+          "partial": "End",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:End"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "Equ",
+          "package": "language-mixal",
+          "signature": "Equ (Maybe DefinedSymbol) WValue",
+          "source": "src/Language-MIXAL-AST.html#MIXALStmt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "Equ",
+          "package": "language-mixal",
+          "partial": "Equ",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Equ"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "Field",
+          "package": "language-mixal",
+          "signature": "Field",
+          "source": "src/Language-MIXAL-AST.html#BinOp",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "Field",
+          "package": "language-mixal",
+          "partial": "Field",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Field"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "FieldExpr",
+          "package": "language-mixal",
+          "signature": "FieldExpr Expr",
+          "source": "src/Language-MIXAL-AST.html#Field",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "FieldExpr",
+          "package": "language-mixal",
+          "partial": "Field Expr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:FieldExpr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "Frac",
+          "package": "language-mixal",
+          "signature": "Frac",
+          "source": "src/Language-MIXAL-AST.html#BinOp",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "Frac",
+          "package": "language-mixal",
+          "partial": "Frac",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Frac"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "HLT",
+          "package": "language-mixal",
+          "signature": "HLT",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "HLT",
+          "package": "language-mixal",
+          "partial": "HLT",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:HLT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "IN",
+          "package": "language-mixal",
+          "signature": "IN",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "IN",
+          "package": "language-mixal",
+          "partial": "IN",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:IN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "INC1",
+          "package": "language-mixal",
+          "signature": "INC1",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "INC1",
+          "package": "language-mixal",
+          "partial": "INC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:INC1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "INC2",
+          "package": "language-mixal",
+          "signature": "INC2",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "INC2",
+          "package": "language-mixal",
+          "partial": "INC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:INC2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "INC3",
+          "package": "language-mixal",
+          "signature": "INC3",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "INC3",
+          "package": "language-mixal",
+          "partial": "INC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:INC3"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "INC4",
+          "package": "language-mixal",
+          "signature": "INC4",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "INC4",
+          "package": "language-mixal",
+          "partial": "INC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:INC4"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "INC5",
+          "package": "language-mixal",
+          "signature": "INC5",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "INC5",
+          "package": "language-mixal",
+          "partial": "INC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:INC5"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "INC6",
+          "package": "language-mixal",
+          "signature": "INC6",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "INC6",
+          "package": "language-mixal",
+          "partial": "INC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:INC6"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "INCA",
+          "package": "language-mixal",
+          "signature": "INCA",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "INCA",
+          "package": "language-mixal",
+          "partial": "INCA",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:INCA"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "INCX",
+          "package": "language-mixal",
+          "signature": "INCX",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "INCX",
+          "package": "language-mixal",
+          "partial": "INCX",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:INCX"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "IOC",
+          "package": "language-mixal",
+          "signature": "IOC",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "IOC",
+          "package": "language-mixal",
+          "partial": "IOC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:IOC"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "Index",
+          "package": "language-mixal",
+          "signature": "Index Integer",
+          "source": "src/Language-MIXAL-AST.html#Index",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "Index",
+          "package": "language-mixal",
+          "partial": "Index",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Index"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "Inst",
+          "package": "language-mixal",
+          "signature": "Inst (Maybe DefinedSymbol) OpCode (Maybe Address) (Maybe Index) (Maybe Field)",
+          "source": "src/Language-MIXAL-AST.html#MIXALStmt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "Inst",
+          "package": "language-mixal",
+          "partial": "Inst",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Inst"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J1N",
+          "package": "language-mixal",
+          "signature": "J1N",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J1N",
+          "package": "language-mixal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J1N"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J1NN",
+          "package": "language-mixal",
+          "signature": "J1NN",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J1NN",
+          "package": "language-mixal",
+          "partial": "NN",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J1NN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J1NP",
+          "package": "language-mixal",
+          "signature": "J1NP",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J1NP",
+          "package": "language-mixal",
+          "partial": "NP",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J1NP"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J1NZ",
+          "package": "language-mixal",
+          "signature": "J1NZ",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J1NZ",
+          "package": "language-mixal",
+          "partial": "NZ",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J1NZ"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J1P",
+          "package": "language-mixal",
+          "signature": "J1P",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J1P",
+          "package": "language-mixal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J1P"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J1Z",
+          "package": "language-mixal",
+          "signature": "J1Z",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J1Z",
+          "package": "language-mixal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J1Z"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J2N",
+          "package": "language-mixal",
+          "signature": "J2N",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J2N",
+          "package": "language-mixal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J2N"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J2NN",
+          "package": "language-mixal",
+          "signature": "J2NN",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J2NN",
+          "package": "language-mixal",
+          "partial": "NN",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J2NN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J2NP",
+          "package": "language-mixal",
+          "signature": "J2NP",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J2NP",
+          "package": "language-mixal",
+          "partial": "NP",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J2NP"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J2NZ",
+          "package": "language-mixal",
+          "signature": "J2NZ",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J2NZ",
+          "package": "language-mixal",
+          "partial": "NZ",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J2NZ"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J2P",
+          "package": "language-mixal",
+          "signature": "J2P",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J2P",
+          "package": "language-mixal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J2P"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J2Z",
+          "package": "language-mixal",
+          "signature": "J2Z",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J2Z",
+          "package": "language-mixal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J2Z"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J3N",
+          "package": "language-mixal",
+          "signature": "J3N",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J3N",
+          "package": "language-mixal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J3N"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J3NN",
+          "package": "language-mixal",
+          "signature": "J3NN",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J3NN",
+          "package": "language-mixal",
+          "partial": "NN",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J3NN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J3NP",
+          "package": "language-mixal",
+          "signature": "J3NP",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J3NP",
+          "package": "language-mixal",
+          "partial": "NP",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J3NP"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J3NZ",
+          "package": "language-mixal",
+          "signature": "J3NZ",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J3NZ",
+          "package": "language-mixal",
+          "partial": "NZ",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J3NZ"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J3P",
+          "package": "language-mixal",
+          "signature": "J3P",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J3P",
+          "package": "language-mixal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J3P"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J3Z",
+          "package": "language-mixal",
+          "signature": "J3Z",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J3Z",
+          "package": "language-mixal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J3Z"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J4N",
+          "package": "language-mixal",
+          "signature": "J4N",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J4N",
+          "package": "language-mixal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J4N"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J4NN",
+          "package": "language-mixal",
+          "signature": "J4NN",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J4NN",
+          "package": "language-mixal",
+          "partial": "NN",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J4NN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J4NP",
+          "package": "language-mixal",
+          "signature": "J4NP",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J4NP",
+          "package": "language-mixal",
+          "partial": "NP",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J4NP"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J4NZ",
+          "package": "language-mixal",
+          "signature": "J4NZ",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J4NZ",
+          "package": "language-mixal",
+          "partial": "NZ",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J4NZ"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J4P",
+          "package": "language-mixal",
+          "signature": "J4P",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J4P",
+          "package": "language-mixal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J4P"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J4Z",
+          "package": "language-mixal",
+          "signature": "J4Z",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J4Z",
+          "package": "language-mixal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J4Z"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J5N",
+          "package": "language-mixal",
+          "signature": "J5N",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J5N",
+          "package": "language-mixal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J5N"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J5NN",
+          "package": "language-mixal",
+          "signature": "J5NN",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J5NN",
+          "package": "language-mixal",
+          "partial": "NN",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J5NN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J5NP",
+          "package": "language-mixal",
+          "signature": "J5NP",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J5NP",
+          "package": "language-mixal",
+          "partial": "NP",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J5NP"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J5NZ",
+          "package": "language-mixal",
+          "signature": "J5NZ",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J5NZ",
+          "package": "language-mixal",
+          "partial": "NZ",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J5NZ"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J5P",
+          "package": "language-mixal",
+          "signature": "J5P",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J5P",
+          "package": "language-mixal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J5P"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J5Z",
+          "package": "language-mixal",
+          "signature": "J5Z",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J5Z",
+          "package": "language-mixal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J5Z"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J6N",
+          "package": "language-mixal",
+          "signature": "J6N",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J6N",
+          "package": "language-mixal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J6N"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J6NN",
+          "package": "language-mixal",
+          "signature": "J6NN",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J6NN",
+          "package": "language-mixal",
+          "partial": "NN",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J6NN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J6NP",
+          "package": "language-mixal",
+          "signature": "J6NP",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J6NP",
+          "package": "language-mixal",
+          "partial": "NP",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J6NP"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J6NZ",
+          "package": "language-mixal",
+          "signature": "J6NZ",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J6NZ",
+          "package": "language-mixal",
+          "partial": "NZ",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J6NZ"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J6P",
+          "package": "language-mixal",
+          "signature": "J6P",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J6P",
+          "package": "language-mixal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J6P"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "J6Z",
+          "package": "language-mixal",
+          "signature": "J6Z",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "J6Z",
+          "package": "language-mixal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:J6Z"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "JAN",
+          "package": "language-mixal",
+          "signature": "JAN",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "JAN",
+          "package": "language-mixal",
+          "partial": "JAN",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JAN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "JANN",
+          "package": "language-mixal",
+          "signature": "JANN",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "JANN",
+          "package": "language-mixal",
+          "partial": "JANN",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JANN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "JANP",
+          "package": "language-mixal",
+          "signature": "JANP",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "JANP",
+          "package": "language-mixal",
+          "partial": "JANP",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JANP"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "JANZ",
+          "package": "language-mixal",
+          "signature": "JANZ",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "JANZ",
+          "package": "language-mixal",
+          "partial": "JANZ",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JANZ"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "JAP",
+          "package": "language-mixal",
+          "signature": "JAP",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "JAP",
+          "package": "language-mixal",
+          "partial": "JAP",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JAP"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "JAZ",
+          "package": "language-mixal",
+          "signature": "JAZ",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "JAZ",
+          "package": "language-mixal",
+          "partial": "JAZ",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JAZ"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "JBUS",
+          "package": "language-mixal",
+          "signature": "JBUS",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "JBUS",
+          "package": "language-mixal",
+          "partial": "JBUS",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JBUS"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "JE",
+          "package": "language-mixal",
+          "signature": "JE",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "JE",
+          "package": "language-mixal",
+          "partial": "JE",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JE"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "JG",
+          "package": "language-mixal",
+          "signature": "JG",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "JG",
+          "package": "language-mixal",
+          "partial": "JG",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JG"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "JGE",
+          "package": "language-mixal",
+          "signature": "JGE",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "JGE",
+          "package": "language-mixal",
+          "partial": "JGE",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JGE"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "JL",
+          "package": "language-mixal",
+          "signature": "JL",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "JL",
+          "package": "language-mixal",
+          "partial": "JL",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JL"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "JLE",
+          "package": "language-mixal",
+          "signature": "JLE",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "JLE",
+          "package": "language-mixal",
+          "partial": "JLE",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JLE"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "JMP",
+          "package": "language-mixal",
+          "signature": "JMP",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "JMP",
+          "package": "language-mixal",
+          "partial": "JMP",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JMP"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "JNE",
+          "package": "language-mixal",
+          "signature": "JNE",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "JNE",
+          "package": "language-mixal",
+          "partial": "JNE",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JNE"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "JNOV",
+          "package": "language-mixal",
+          "signature": "JNOV",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "JNOV",
+          "package": "language-mixal",
+          "partial": "JNOV",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JNOV"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "JOV",
+          "package": "language-mixal",
+          "signature": "JOV",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "JOV",
+          "package": "language-mixal",
+          "partial": "JOV",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JOV"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "JRED",
+          "package": "language-mixal",
+          "signature": "JRED",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "JRED",
+          "package": "language-mixal",
+          "partial": "JRED",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JRED"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "JSJ",
+          "package": "language-mixal",
+          "signature": "JSJ",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "JSJ",
+          "package": "language-mixal",
+          "partial": "JSJ",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JSJ"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "JXN",
+          "package": "language-mixal",
+          "signature": "JXN",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "JXN",
+          "package": "language-mixal",
+          "partial": "JXN",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JXN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "JXNN",
+          "package": "language-mixal",
+          "signature": "JXNN",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "JXNN",
+          "package": "language-mixal",
+          "partial": "JXNN",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JXNN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "JXNP",
+          "package": "language-mixal",
+          "signature": "JXNP",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "JXNP",
+          "package": "language-mixal",
+          "partial": "JXNP",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JXNP"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "JXNZ",
+          "package": "language-mixal",
+          "signature": "JXNZ",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "JXNZ",
+          "package": "language-mixal",
+          "partial": "JXNZ",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JXNZ"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "JXP",
+          "package": "language-mixal",
+          "signature": "JXP",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "JXP",
+          "package": "language-mixal",
+          "partial": "JXP",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JXP"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "JXZ",
+          "package": "language-mixal",
+          "signature": "JXZ",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "JXZ",
+          "package": "language-mixal",
+          "partial": "JXZ",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:JXZ"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "LD1",
+          "package": "language-mixal",
+          "signature": "LD1",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "LD1",
+          "package": "language-mixal",
+          "partial": "LD",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LD1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "LD1N",
+          "package": "language-mixal",
+          "signature": "LD1N",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "LD1N",
+          "package": "language-mixal",
+          "partial": "LD",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LD1N"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "LD2",
+          "package": "language-mixal",
+          "signature": "LD2",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "LD2",
+          "package": "language-mixal",
+          "partial": "LD",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LD2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "LD2N",
+          "package": "language-mixal",
+          "signature": "LD2N",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "LD2N",
+          "package": "language-mixal",
+          "partial": "LD",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LD2N"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "LD3",
+          "package": "language-mixal",
+          "signature": "LD3",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "LD3",
+          "package": "language-mixal",
+          "partial": "LD",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LD3"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "LD3N",
+          "package": "language-mixal",
+          "signature": "LD3N",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "LD3N",
+          "package": "language-mixal",
+          "partial": "LD",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LD3N"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "LD4",
+          "package": "language-mixal",
+          "signature": "LD4",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "LD4",
+          "package": "language-mixal",
+          "partial": "LD",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LD4"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "LD4N",
+          "package": "language-mixal",
+          "signature": "LD4N",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "LD4N",
+          "package": "language-mixal",
+          "partial": "LD",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LD4N"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "LD5",
+          "package": "language-mixal",
+          "signature": "LD5",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "LD5",
+          "package": "language-mixal",
+          "partial": "LD",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LD5"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "LD5N",
+          "package": "language-mixal",
+          "signature": "LD5N",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "LD5N",
+          "package": "language-mixal",
+          "partial": "LD",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LD5N"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "LD6",
+          "package": "language-mixal",
+          "signature": "LD6",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "LD6",
+          "package": "language-mixal",
+          "partial": "LD",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LD6"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "LD6N",
+          "package": "language-mixal",
+          "signature": "LD6N",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "LD6N",
+          "package": "language-mixal",
+          "partial": "LD",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LD6N"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "LDA",
+          "package": "language-mixal",
+          "signature": "LDA",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "LDA",
+          "package": "language-mixal",
+          "partial": "LDA",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LDA"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "LDAN",
+          "package": "language-mixal",
+          "signature": "LDAN",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "LDAN",
+          "package": "language-mixal",
+          "partial": "LDAN",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LDAN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "LDX",
+          "package": "language-mixal",
+          "signature": "LDX",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "LDX",
+          "package": "language-mixal",
+          "partial": "LDX",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LDX"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "LDXN",
+          "package": "language-mixal",
+          "signature": "LDXN",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "LDXN",
+          "package": "language-mixal",
+          "partial": "LDXN",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LDXN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "LitConst",
+          "package": "language-mixal",
+          "signature": "LitConst WValue",
+          "source": "src/Language-MIXAL-AST.html#Address",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "LitConst",
+          "package": "language-mixal",
+          "partial": "Lit Const",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:LitConst"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "MIXChar",
+          "package": "language-mixal",
+          "signature": "MIXChar Char",
+          "source": "src/Language-MIXAL-AST.html#MIXChar",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "MIXChar",
+          "package": "language-mixal",
+          "partial": "MIXChar",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:MIXChar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "MOVE",
+          "package": "language-mixal",
+          "signature": "MOVE",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "MOVE",
+          "package": "language-mixal",
+          "partial": "MOVE",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:MOVE"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "MUL",
+          "package": "language-mixal",
+          "signature": "MUL",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "MUL",
+          "package": "language-mixal",
+          "partial": "MUL",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:MUL"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "Multiply",
+          "package": "language-mixal",
+          "signature": "Multiply",
+          "source": "src/Language-MIXAL-AST.html#BinOp",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "Multiply",
+          "package": "language-mixal",
+          "partial": "Multiply",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Multiply"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "NOP",
+          "package": "language-mixal",
+          "signature": "NOP",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "NOP",
+          "package": "language-mixal",
+          "partial": "NOP",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:NOP"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "NUM",
+          "package": "language-mixal",
+          "signature": "NUM",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "NUM",
+          "package": "language-mixal",
+          "partial": "NUM",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:NUM"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "Num",
+          "package": "language-mixal",
+          "signature": "Num Integer",
+          "source": "src/Language-MIXAL-AST.html#AtomicExpr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "Num",
+          "package": "language-mixal",
+          "partial": "Num",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Num"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "OUT",
+          "package": "language-mixal",
+          "signature": "OUT",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "OUT",
+          "package": "language-mixal",
+          "partial": "OUT",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:OUT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "Orig",
+          "package": "language-mixal",
+          "signature": "Orig (Maybe DefinedSymbol) WValue",
+          "source": "src/Language-MIXAL-AST.html#MIXALStmt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "Orig",
+          "package": "language-mixal",
+          "partial": "Orig",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Orig"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "RefBackward",
+          "package": "language-mixal",
+          "signature": "RefBackward Integer",
+          "source": "src/Language-MIXAL-AST.html#SymbolRef",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "RefBackward",
+          "package": "language-mixal",
+          "partial": "Ref Backward",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:RefBackward"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "RefForward",
+          "package": "language-mixal",
+          "signature": "RefForward Integer",
+          "source": "src/Language-MIXAL-AST.html#SymbolRef",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "RefForward",
+          "package": "language-mixal",
+          "partial": "Ref Forward",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:RefForward"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "RefNormal",
+          "package": "language-mixal",
+          "signature": "RefNormal Symbol",
+          "source": "src/Language-MIXAL-AST.html#SymbolRef",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "RefNormal",
+          "package": "language-mixal",
+          "partial": "Ref Normal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:RefNormal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "SLA",
+          "package": "language-mixal",
+          "signature": "SLA",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "SLA",
+          "package": "language-mixal",
+          "partial": "SLA",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:SLA"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "SLAX",
+          "package": "language-mixal",
+          "signature": "SLAX",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "SLAX",
+          "package": "language-mixal",
+          "partial": "SLAX",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:SLAX"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "SLC",
+          "package": "language-mixal",
+          "signature": "SLC",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "SLC",
+          "package": "language-mixal",
+          "partial": "SLC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:SLC"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "SRA",
+          "package": "language-mixal",
+          "signature": "SRA",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "SRA",
+          "package": "language-mixal",
+          "partial": "SRA",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:SRA"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "SRAX",
+          "package": "language-mixal",
+          "signature": "SRAX",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "SRAX",
+          "package": "language-mixal",
+          "partial": "SRAX",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:SRAX"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "SRC",
+          "package": "language-mixal",
+          "signature": "SRC",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "SRC",
+          "package": "language-mixal",
+          "partial": "SRC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:SRC"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "ST1",
+          "package": "language-mixal",
+          "signature": "ST1",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "ST1",
+          "package": "language-mixal",
+          "partial": "ST",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ST1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "ST2",
+          "package": "language-mixal",
+          "signature": "ST2",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "ST2",
+          "package": "language-mixal",
+          "partial": "ST",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ST2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "ST3",
+          "package": "language-mixal",
+          "signature": "ST3",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "ST3",
+          "package": "language-mixal",
+          "partial": "ST",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ST3"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "ST4",
+          "package": "language-mixal",
+          "signature": "ST4",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "ST4",
+          "package": "language-mixal",
+          "partial": "ST",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ST4"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "ST5",
+          "package": "language-mixal",
+          "signature": "ST5",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "ST5",
+          "package": "language-mixal",
+          "partial": "ST",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ST5"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "ST6",
+          "package": "language-mixal",
+          "signature": "ST6",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "ST6",
+          "package": "language-mixal",
+          "partial": "ST",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:ST6"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "STA",
+          "package": "language-mixal",
+          "signature": "STA",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "STA",
+          "package": "language-mixal",
+          "partial": "STA",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:STA"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "STJ",
+          "package": "language-mixal",
+          "signature": "STJ",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "STJ",
+          "package": "language-mixal",
+          "partial": "STJ",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:STJ"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "STX",
+          "package": "language-mixal",
+          "signature": "STX",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "STX",
+          "package": "language-mixal",
+          "partial": "STX",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:STX"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "STZ",
+          "package": "language-mixal",
+          "signature": "STZ",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "STZ",
+          "package": "language-mixal",
+          "partial": "STZ",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:STZ"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "SUB",
+          "package": "language-mixal",
+          "signature": "SUB",
+          "source": "src/Language-MIXAL-AST.html#OpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "SUB",
+          "package": "language-mixal",
+          "partial": "SUB",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:SUB"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "Signed",
+          "package": "language-mixal",
+          "signature": "Signed Bool AtomicExpr",
+          "source": "src/Language-MIXAL-AST.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "Signed",
+          "package": "language-mixal",
+          "partial": "Signed",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Signed"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "Subtract",
+          "package": "language-mixal",
+          "signature": "Subtract",
+          "source": "src/Language-MIXAL-AST.html#BinOp",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "Subtract",
+          "package": "language-mixal",
+          "partial": "Subtract",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Subtract"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "Sym",
+          "package": "language-mixal",
+          "signature": "Sym Symbol",
+          "source": "src/Language-MIXAL-AST.html#AtomicExpr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "Sym",
+          "package": "language-mixal",
+          "partial": "Sym",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Sym"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "Symbol",
+          "package": "language-mixal",
+          "signature": "Symbol String",
+          "source": "src/Language-MIXAL-AST.html#Symbol",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "Symbol",
+          "package": "language-mixal",
+          "partial": "Symbol",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:Symbol"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.AST",
+          "name": "WValue",
+          "package": "language-mixal",
+          "signature": "WValue Expr (Maybe Field) [(Expr, Maybe Field)]",
+          "source": "src/Language-MIXAL-AST.html#WValue",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL AST",
+          "module": "Language.MIXAL.AST",
+          "name": "WValue",
+          "normalized": "WValue Expr(Maybe Field)[(Expr,Maybe Field)]",
+          "package": "language-mixal",
+          "partial": "WValue",
+          "signature": "WValue Expr(Maybe Field)[(Expr,Maybe Field)]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-AST.html#v:WValue"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.Char",
+          "name": "Char",
+          "package": "language-mixal",
+          "source": "src/Language-MIXAL-Char.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL Char",
+          "module": "Language.MIXAL.Char",
+          "name": "Char",
+          "package": "language-mixal",
+          "partial": "Char",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-Char.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.Char",
+          "name": "mixChars",
+          "package": "language-mixal",
+          "signature": "[Char]",
+          "source": "src/Language-MIXAL-Char.html#mixChars",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL Char",
+          "module": "Language.MIXAL.Char",
+          "name": "mixChars",
+          "normalized": "[Char]",
+          "package": "language-mixal",
+          "partial": "Chars",
+          "signature": "[Char]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-Char.html#v:mixChars"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.OpCode",
+          "name": "OpCode",
+          "package": "language-mixal",
+          "source": "src/Language-MIXAL-OpCode.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL OpCode",
+          "module": "Language.MIXAL.OpCode",
+          "name": "OpCode",
+          "package": "language-mixal",
+          "partial": "Op Code",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-OpCode.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eReturn the numeric version of an opcode.  If the opcode\n corresponds to a specific field value, return that too; otherwise\n Nothing.  In the Nothing case, the F value should be supplied by\n the user and assembled into (or extracted from) the binary\n instruction.  In the Just case a specific F-value is required to\n distinguish the opcode based on the instruction involved.\n\u003c/p\u003e",
+          "module": "Language.MIXAL.OpCode",
+          "name": "opCode",
+          "package": "language-mixal",
+          "signature": "OpCode -\u003e (Integer, Maybe Integer)",
+          "source": "src/Language-MIXAL-OpCode.html#opCode",
+          "type": "function"
+        },
+        "index": {
+          "description": "Return the numeric version of an opcode If the opcode corresponds to specific field value return that too otherwise Nothing In the Nothing case the value should be supplied by the user and assembled into or extracted from the binary instruction In the Just case specific F-value is required to distinguish the opcode based on the instruction involved",
+          "hierarchy": "Language MIXAL OpCode",
+          "module": "Language.MIXAL.OpCode",
+          "name": "opCode",
+          "normalized": "OpCode-\u003e(Integer,Maybe Integer)",
+          "package": "language-mixal",
+          "partial": "Code",
+          "signature": "OpCode-\u003e(Integer,Maybe Integer)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-OpCode.html#v:opCode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.PP",
+          "name": "PP",
+          "package": "language-mixal",
+          "source": "src/Language-MIXAL-PP.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL PP",
+          "module": "Language.MIXAL.PP",
+          "name": "PP",
+          "package": "language-mixal",
+          "partial": "PP",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-PP.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.PP",
+          "name": "mppField",
+          "package": "language-mixal",
+          "signature": "Maybe Field -\u003e Doc",
+          "source": "src/Language-MIXAL-PP.html#mppField",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL PP",
+          "module": "Language.MIXAL.PP",
+          "name": "mppField",
+          "normalized": "Maybe Field-\u003eDoc",
+          "package": "language-mixal",
+          "partial": "Field",
+          "signature": "Maybe Field-\u003eDoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-PP.html#v:mppField"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.PP",
+          "name": "mppSymbolDef",
+          "package": "language-mixal",
+          "signature": "Maybe DefinedSymbol -\u003e Doc",
+          "source": "src/Language-MIXAL-PP.html#mppSymbolDef",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL PP",
+          "module": "Language.MIXAL.PP",
+          "name": "mppSymbolDef",
+          "normalized": "Maybe DefinedSymbol-\u003eDoc",
+          "package": "language-mixal",
+          "partial": "Symbol Def",
+          "signature": "Maybe DefinedSymbol-\u003eDoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-PP.html#v:mppSymbolDef"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.PP",
+          "name": "ppAddress",
+          "package": "language-mixal",
+          "signature": "Address -\u003e Doc",
+          "source": "src/Language-MIXAL-PP.html#ppAddress",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL PP",
+          "module": "Language.MIXAL.PP",
+          "name": "ppAddress",
+          "normalized": "Address-\u003eDoc",
+          "package": "language-mixal",
+          "partial": "Address",
+          "signature": "Address-\u003eDoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-PP.html#v:ppAddress"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.PP",
+          "name": "ppAtomicExpr",
+          "package": "language-mixal",
+          "signature": "AtomicExpr -\u003e Doc",
+          "source": "src/Language-MIXAL-PP.html#ppAtomicExpr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL PP",
+          "module": "Language.MIXAL.PP",
+          "name": "ppAtomicExpr",
+          "normalized": "AtomicExpr-\u003eDoc",
+          "package": "language-mixal",
+          "partial": "Atomic Expr",
+          "signature": "AtomicExpr-\u003eDoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-PP.html#v:ppAtomicExpr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.PP",
+          "name": "ppBinOp",
+          "package": "language-mixal",
+          "signature": "BinOp -\u003e Doc",
+          "source": "src/Language-MIXAL-PP.html#ppBinOp",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL PP",
+          "module": "Language.MIXAL.PP",
+          "name": "ppBinOp",
+          "normalized": "BinOp-\u003eDoc",
+          "package": "language-mixal",
+          "partial": "Bin Op",
+          "signature": "BinOp-\u003eDoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-PP.html#v:ppBinOp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.PP",
+          "name": "ppExpr",
+          "package": "language-mixal",
+          "signature": "Expr -\u003e Doc",
+          "source": "src/Language-MIXAL-PP.html#ppExpr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL PP",
+          "module": "Language.MIXAL.PP",
+          "name": "ppExpr",
+          "normalized": "Expr-\u003eDoc",
+          "package": "language-mixal",
+          "partial": "Expr",
+          "signature": "Expr-\u003eDoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-PP.html#v:ppExpr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.PP",
+          "name": "ppField",
+          "package": "language-mixal",
+          "signature": "Field -\u003e Doc",
+          "source": "src/Language-MIXAL-PP.html#ppField",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL PP",
+          "module": "Language.MIXAL.PP",
+          "name": "ppField",
+          "normalized": "Field-\u003eDoc",
+          "package": "language-mixal",
+          "partial": "Field",
+          "signature": "Field-\u003eDoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-PP.html#v:ppField"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.PP",
+          "name": "ppIndex",
+          "package": "language-mixal",
+          "signature": "Index -\u003e Doc",
+          "source": "src/Language-MIXAL-PP.html#ppIndex",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL PP",
+          "module": "Language.MIXAL.PP",
+          "name": "ppIndex",
+          "normalized": "Index-\u003eDoc",
+          "package": "language-mixal",
+          "partial": "Index",
+          "signature": "Index-\u003eDoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-PP.html#v:ppIndex"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.PP",
+          "name": "ppMIXALStmt",
+          "package": "language-mixal",
+          "signature": "MIXALStmt -\u003e Doc",
+          "source": "src/Language-MIXAL-PP.html#ppMIXALStmt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL PP",
+          "module": "Language.MIXAL.PP",
+          "name": "ppMIXALStmt",
+          "normalized": "MIXALStmt-\u003eDoc",
+          "package": "language-mixal",
+          "partial": "MIXALStmt",
+          "signature": "MIXALStmt-\u003eDoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-PP.html#v:ppMIXALStmt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.PP",
+          "name": "ppOpCode",
+          "package": "language-mixal",
+          "signature": "OpCode -\u003e Doc",
+          "source": "src/Language-MIXAL-PP.html#ppOpCode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL PP",
+          "module": "Language.MIXAL.PP",
+          "name": "ppOpCode",
+          "normalized": "OpCode-\u003eDoc",
+          "package": "language-mixal",
+          "partial": "Op Code",
+          "signature": "OpCode-\u003eDoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-PP.html#v:ppOpCode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.PP",
+          "name": "ppSymbol",
+          "package": "language-mixal",
+          "signature": "Symbol -\u003e Doc",
+          "source": "src/Language-MIXAL-PP.html#ppSymbol",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL PP",
+          "module": "Language.MIXAL.PP",
+          "name": "ppSymbol",
+          "normalized": "Symbol-\u003eDoc",
+          "package": "language-mixal",
+          "partial": "Symbol",
+          "signature": "Symbol-\u003eDoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-PP.html#v:ppSymbol"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.PP",
+          "name": "ppSymbolDef",
+          "package": "language-mixal",
+          "signature": "DefinedSymbol -\u003e Doc",
+          "source": "src/Language-MIXAL-PP.html#ppSymbolDef",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL PP",
+          "module": "Language.MIXAL.PP",
+          "name": "ppSymbolDef",
+          "normalized": "DefinedSymbol-\u003eDoc",
+          "package": "language-mixal",
+          "partial": "Symbol Def",
+          "signature": "DefinedSymbol-\u003eDoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-PP.html#v:ppSymbolDef"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.PP",
+          "name": "ppSymbolRef",
+          "package": "language-mixal",
+          "signature": "SymbolRef -\u003e Doc",
+          "source": "src/Language-MIXAL-PP.html#ppSymbolRef",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL PP",
+          "module": "Language.MIXAL.PP",
+          "name": "ppSymbolRef",
+          "normalized": "SymbolRef-\u003eDoc",
+          "package": "language-mixal",
+          "partial": "Symbol Ref",
+          "signature": "SymbolRef-\u003eDoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-PP.html#v:ppSymbolRef"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.PP",
+          "name": "ppWValue",
+          "package": "language-mixal",
+          "signature": "WValue -\u003e Doc",
+          "source": "src/Language-MIXAL-PP.html#ppWValue",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL PP",
+          "module": "Language.MIXAL.PP",
+          "name": "ppWValue",
+          "normalized": "WValue-\u003eDoc",
+          "package": "language-mixal",
+          "partial": "WValue",
+          "signature": "WValue-\u003eDoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-PP.html#v:ppWValue"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.Parser",
+          "name": "Parser",
+          "package": "language-mixal",
+          "source": "src/Language-MIXAL-Parser.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL Parser",
+          "module": "Language.MIXAL.Parser",
+          "name": "Parser",
+          "package": "language-mixal",
+          "partial": "Parser",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-Parser.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MIXAL.Parser",
+          "name": "parseMIXAL",
+          "package": "language-mixal",
+          "signature": "String -\u003e String -\u003e Either ParseError [MIXALStmt]",
+          "source": "src/Language-MIXAL-Parser.html#parseMIXAL",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MIXAL Parser",
+          "module": "Language.MIXAL.Parser",
+          "name": "parseMIXAL",
+          "normalized": "String-\u003eString-\u003eEither ParseError[MIXALStmt]",
+          "package": "language-mixal",
+          "partial": "MIXAL",
+          "signature": "String-\u003eString-\u003eEither ParseError[MIXALStmt]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/language-mixal/docs/Language-MIXAL-Parser.html#v:parseMIXAL"
+      }
+    }
+  ]
 ]

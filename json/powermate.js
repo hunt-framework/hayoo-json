@@ -1,727 +1,692 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/powermate/docs/MPD.html#",
-      "description": {
-        "fct-module": "MPD",
-        "fct-package": "powermate",
-        "fct-signature": "module",
-        "fct-source": "src/MPD.html",
-        "fct-type": "module",
-        "title": "MPD"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "powermate"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "MPD",
-        "module": "MPD",
-        "name": "MPD",
-        "normalized": "",
-        "package": "powermate",
-        "partial": "MPD",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/powermate/docs/MPD.html#t:Connection",
-      "description": {
-        "fct-module": "MPD",
-        "fct-package": "powermate",
-        "fct-signature": "type",
-        "fct-source": "src/MPD.html#Connection",
-        "fct-type": "type",
-        "title": "Connection"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MPD",
-        "module": "MPD",
-        "name": "Connection",
-        "normalized": "",
-        "package": "powermate",
-        "partial": "Connection",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MPD",
+          "name": "MPD",
+          "package": "powermate",
+          "source": "src/MPD.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "MPD",
+          "module": "MPD",
+          "name": "MPD",
+          "package": "powermate",
+          "partial": "MPD",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/powermate/docs/MPD.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MPD",
+          "name": "Connection",
+          "package": "powermate",
+          "source": "src/MPD.html#Connection",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "MPD",
+          "module": "MPD",
+          "name": "Connection",
+          "package": "powermate",
+          "partial": "Connection",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/powermate/docs/MPD.html#t:Connection"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MPD",
+          "name": "ReconnectableConnection",
+          "package": "powermate",
+          "source": "src/MPD.html#ReconnectableConnection",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "MPD",
+          "module": "MPD",
+          "name": "ReconnectableConnection",
+          "package": "powermate",
+          "partial": "Reconnectable Connection",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/powermate/docs/MPD.html#t:ReconnectableConnection"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MPD",
+          "name": "connect",
+          "package": "powermate",
+          "signature": "(String, Int) -\u003e IO Connection",
+          "source": "src/MPD.html#connect",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MPD",
+          "module": "MPD",
+          "name": "connect",
+          "normalized": "(String,Int)-\u003eIO Connection",
+          "package": "powermate",
+          "signature": "(String,Int)-\u003eIO Connection",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/powermate/docs/MPD.html#v:connect"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MPD",
+          "name": "getVolume",
+          "package": "powermate",
+          "signature": "Connection -\u003e IO Int",
+          "source": "src/MPD.html#getVolume",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MPD",
+          "module": "MPD",
+          "name": "getVolume",
+          "normalized": "Connection-\u003eIO Int",
+          "package": "powermate",
+          "partial": "Volume",
+          "signature": "Connection-\u003eIO Int",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/powermate/docs/MPD.html#v:getVolume"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MPD",
+          "name": "rcConnect",
+          "package": "powermate",
+          "signature": "(String, Int) -\u003e IO ReconnectableConnection",
+          "source": "src/MPD.html#rcConnect",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MPD",
+          "module": "MPD",
+          "name": "rcConnect",
+          "normalized": "(String,Int)-\u003eIO ReconnectableConnection",
+          "package": "powermate",
+          "partial": "Connect",
+          "signature": "(String,Int)-\u003eIO ReconnectableConnection",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/powermate/docs/MPD.html#v:rcConnect"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MPD",
+          "name": "rcConnection",
+          "package": "powermate",
+          "signature": "ReconnectableConnection -\u003e IO Connection",
+          "source": "src/MPD.html#rcConnection",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MPD",
+          "module": "MPD",
+          "name": "rcConnection",
+          "normalized": "ReconnectableConnection-\u003eIO Connection",
+          "package": "powermate",
+          "partial": "Connection",
+          "signature": "ReconnectableConnection-\u003eIO Connection",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/powermate/docs/MPD.html#v:rcConnection"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MPD",
+          "name": "rcDo",
+          "package": "powermate",
+          "signature": "ReconnectableConnection -\u003e (Connection -\u003e IO a) -\u003e IO a",
+          "source": "src/MPD.html#rcDo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MPD",
+          "module": "MPD",
+          "name": "rcDo",
+          "normalized": "ReconnectableConnection-\u003e(Connection-\u003eIO a)-\u003eIO a",
+          "package": "powermate",
+          "partial": "Do",
+          "signature": "ReconnectableConnection-\u003e(Connection-\u003eIO a)-\u003eIO a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/powermate/docs/MPD.html#v:rcDo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MPD",
+          "name": "runCommand",
+          "package": "powermate",
+          "signature": "Handle -\u003e String -\u003e IO [String]",
+          "source": "src/MPD.html#runCommand",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MPD",
+          "module": "MPD",
+          "name": "runCommand",
+          "normalized": "Handle-\u003eString-\u003eIO[String]",
+          "package": "powermate",
+          "partial": "Command",
+          "signature": "Handle-\u003eString-\u003eIO[String]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/powermate/docs/MPD.html#v:runCommand"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MPD",
+          "name": "runCommand_",
+          "package": "powermate",
+          "signature": "Handle -\u003e String -\u003e IO ()",
+          "source": "src/MPD.html#runCommand_",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MPD",
+          "module": "MPD",
+          "name": "runCommand_",
+          "normalized": "Handle-\u003eString-\u003eIO()",
+          "package": "powermate",
+          "partial": "Command",
+          "signature": "Handle-\u003eString-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/powermate/docs/MPD.html#v:runCommand_"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "MPD",
+          "name": "setVolume",
+          "package": "powermate",
+          "signature": "Connection -\u003e Int -\u003e IO ()",
+          "source": "src/MPD.html#setVolume",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "MPD",
+          "module": "MPD",
+          "name": "setVolume",
+          "normalized": "Connection-\u003eInt-\u003eIO()",
+          "package": "powermate",
+          "partial": "Volume",
+          "signature": "Connection-\u003eInt-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/powermate/docs/MPD.html#v:setVolume"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "PowerMate",
+          "name": "PowerMate",
+          "package": "powermate",
+          "source": "src/PowerMate.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "PowerMate",
+          "module": "PowerMate",
+          "name": "PowerMate",
+          "package": "powermate",
+          "partial": "Power Mate",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "PowerMate",
+          "name": "Event",
+          "package": "powermate",
+          "source": "src/PowerMate.html#Event",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "PowerMate",
+          "module": "PowerMate",
+          "name": "Event",
+          "package": "powermate",
+          "partial": "Event",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#t:Event"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "PowerMate",
+          "name": "Status",
+          "package": "powermate",
+          "source": "src/PowerMate.html#Status",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "PowerMate",
+          "module": "PowerMate",
+          "name": "Status",
+          "package": "powermate",
+          "partial": "Status",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#t:Status"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "PowerMate",
+          "name": "Button",
+          "package": "powermate",
+          "signature": "Button Bool",
+          "source": "src/PowerMate.html#Event",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "PowerMate",
+          "module": "PowerMate",
+          "name": "Button",
+          "package": "powermate",
+          "partial": "Button",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:Button"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "PowerMate",
+          "name": "Rotate",
+          "package": "powermate",
+          "signature": "Rotate Int",
+          "source": "src/PowerMate.html#Event",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "PowerMate",
+          "module": "PowerMate",
+          "name": "Rotate",
+          "package": "powermate",
+          "partial": "Rotate",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:Rotate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "PowerMate",
+          "name": "Status",
+          "package": "powermate",
+          "signature": "Status",
+          "source": "src/PowerMate.html#Status",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "PowerMate",
+          "module": "PowerMate",
+          "name": "Status",
+          "package": "powermate",
+          "partial": "Status",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:Status"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "PowerMate",
+          "name": "StatusChange",
+          "package": "powermate",
+          "signature": "StatusChange Status",
+          "source": "src/PowerMate.html#Event",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "PowerMate",
+          "module": "PowerMate",
+          "name": "StatusChange",
+          "package": "powermate",
+          "partial": "Status Change",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:StatusChange"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "PowerMate",
+          "name": "brightness",
+          "package": "powermate",
+          "signature": "Int",
+          "source": "src/PowerMate.html#Status",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "PowerMate",
+          "module": "PowerMate",
+          "name": "brightness",
+          "package": "powermate",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:brightness"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "PowerMate",
+          "name": "getUSBName",
+          "package": "powermate",
+          "signature": "FilePath -\u003e IO String",
+          "source": "src/PowerMate.html#getUSBName",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "PowerMate",
+          "module": "PowerMate",
+          "name": "getUSBName",
+          "normalized": "FilePath-\u003eIO String",
+          "package": "powermate",
+          "partial": "USBName",
+          "signature": "FilePath-\u003eIO String",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:getUSBName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "PowerMate",
+          "name": "openDevice",
+          "package": "powermate",
+          "signature": "FilePath -\u003e IO Handle",
+          "source": "src/PowerMate.html#openDevice",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "PowerMate",
+          "module": "PowerMate",
+          "name": "openDevice",
+          "normalized": "FilePath-\u003eIO Handle",
+          "package": "powermate",
+          "partial": "Device",
+          "signature": "FilePath-\u003eIO Handle",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:openDevice"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "PowerMate",
+          "name": "pulse_asleep",
+          "package": "powermate",
+          "signature": "Bool",
+          "source": "src/PowerMate.html#Status",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "PowerMate",
+          "module": "PowerMate",
+          "name": "pulse_asleep",
+          "package": "powermate",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:pulse_asleep"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "PowerMate",
+          "name": "pulse_awake",
+          "package": "powermate",
+          "signature": "Bool",
+          "source": "src/PowerMate.html#Status",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "PowerMate",
+          "module": "PowerMate",
+          "name": "pulse_awake",
+          "package": "powermate",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:pulse_awake"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "PowerMate",
+          "name": "pulse_mode",
+          "package": "powermate",
+          "signature": "Int",
+          "source": "src/PowerMate.html#Status",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "PowerMate",
+          "module": "PowerMate",
+          "name": "pulse_mode",
+          "package": "powermate",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:pulse_mode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "PowerMate",
+          "name": "pulse_speed",
+          "package": "powermate",
+          "signature": "Int",
+          "source": "src/PowerMate.html#Status",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "PowerMate",
+          "module": "PowerMate",
+          "name": "pulse_speed",
+          "package": "powermate",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:pulse_speed"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "PowerMate",
+          "name": "readEvent",
+          "package": "powermate",
+          "signature": "Handle -\u003e IO (Maybe Event)",
+          "source": "src/PowerMate.html#readEvent",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "PowerMate",
+          "module": "PowerMate",
+          "name": "readEvent",
+          "normalized": "Handle-\u003eIO(Maybe Event)",
+          "package": "powermate",
+          "partial": "Event",
+          "signature": "Handle-\u003eIO(Maybe Event)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:readEvent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "PowerMate",
+          "name": "readEventWithSkip",
+          "package": "powermate",
+          "signature": "Handle -\u003e Maybe Event -\u003e IO (Maybe Event)",
+          "source": "src/PowerMate.html#readEventWithSkip",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "PowerMate",
+          "module": "PowerMate",
+          "name": "readEventWithSkip",
+          "normalized": "Handle-\u003eMaybe Event-\u003eIO(Maybe Event)",
+          "package": "powermate",
+          "partial": "Event With Skip",
+          "signature": "Handle-\u003eMaybe Event-\u003eIO(Maybe Event)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:readEventWithSkip"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "PowerMate",
+          "name": "searchForDevice",
+          "package": "powermate",
+          "signature": "IO (Maybe FilePath)",
+          "source": "src/PowerMate.html#searchForDevice",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "PowerMate",
+          "module": "PowerMate",
+          "name": "searchForDevice",
+          "package": "powermate",
+          "partial": "For Device",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:searchForDevice"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "PowerMate",
+          "name": "statusInit",
+          "package": "powermate",
+          "signature": "Status",
+          "source": "src/PowerMate.html#statusInit",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "PowerMate",
+          "module": "PowerMate",
+          "name": "statusInit",
+          "package": "powermate",
+          "partial": "Init",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:statusInit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "PowerMate",
+          "name": "writeStatus",
+          "package": "powermate",
+          "signature": "Handle -\u003e Status -\u003e IO ()",
+          "source": "src/PowerMate.html#writeStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "PowerMate",
+          "module": "PowerMate",
+          "name": "writeStatus",
+          "normalized": "Handle-\u003eStatus-\u003eIO()",
+          "package": "powermate",
+          "partial": "Status",
+          "signature": "Handle-\u003eStatus-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:writeStatus"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/powermate/docs/MPD.html#t:ReconnectableConnection",
-      "description": {
-        "fct-module": "MPD",
-        "fct-package": "powermate",
-        "fct-signature": "type",
-        "fct-source": "src/MPD.html#ReconnectableConnection",
-        "fct-type": "type",
-        "title": "ReconnectableConnection"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MPD",
-        "module": "MPD",
-        "name": "ReconnectableConnection",
-        "normalized": "",
-        "package": "powermate",
-        "partial": "Reconnectable Connection",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/powermate/docs/MPD.html#v:connect",
-      "description": {
-        "fct-module": "MPD",
-        "fct-package": "powermate",
-        "fct-signature": "(String, Int) -\u003e IO Connection",
-        "fct-source": "src/MPD.html#connect",
-        "fct-type": "function",
-        "title": "connect"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MPD",
-        "module": "MPD",
-        "name": "connect",
-        "normalized": "(String,Int)-\u003eIO Connection",
-        "package": "powermate",
-        "partial": "",
-        "signature": "(String,Int)-\u003eIO Connection"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/powermate/docs/MPD.html#v:getVolume",
-      "description": {
-        "fct-module": "MPD",
-        "fct-package": "powermate",
-        "fct-signature": "Connection -\u003e IO Int",
-        "fct-source": "src/MPD.html#getVolume",
-        "fct-type": "function",
-        "title": "getVolume"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MPD",
-        "module": "MPD",
-        "name": "getVolume",
-        "normalized": "Connection-\u003eIO Int",
-        "package": "powermate",
-        "partial": "Volume",
-        "signature": "Connection-\u003eIO Int"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/powermate/docs/MPD.html#v:rcConnect",
-      "description": {
-        "fct-module": "MPD",
-        "fct-package": "powermate",
-        "fct-signature": "(String, Int) -\u003e IO ReconnectableConnection",
-        "fct-source": "src/MPD.html#rcConnect",
-        "fct-type": "function",
-        "title": "rcConnect"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MPD",
-        "module": "MPD",
-        "name": "rcConnect",
-        "normalized": "(String,Int)-\u003eIO ReconnectableConnection",
-        "package": "powermate",
-        "partial": "Connect",
-        "signature": "(String,Int)-\u003eIO ReconnectableConnection"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/powermate/docs/MPD.html#v:rcConnection",
-      "description": {
-        "fct-module": "MPD",
-        "fct-package": "powermate",
-        "fct-signature": "ReconnectableConnection -\u003e IO Connection",
-        "fct-source": "src/MPD.html#rcConnection",
-        "fct-type": "function",
-        "title": "rcConnection"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MPD",
-        "module": "MPD",
-        "name": "rcConnection",
-        "normalized": "ReconnectableConnection-\u003eIO Connection",
-        "package": "powermate",
-        "partial": "Connection",
-        "signature": "ReconnectableConnection-\u003eIO Connection"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/powermate/docs/MPD.html#v:rcDo",
-      "description": {
-        "fct-module": "MPD",
-        "fct-package": "powermate",
-        "fct-signature": "ReconnectableConnection -\u003e (Connection -\u003e IO a) -\u003e IO a",
-        "fct-source": "src/MPD.html#rcDo",
-        "fct-type": "function",
-        "title": "rcDo"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MPD",
-        "module": "MPD",
-        "name": "rcDo",
-        "normalized": "ReconnectableConnection-\u003e(Connection-\u003eIO a)-\u003eIO a",
-        "package": "powermate",
-        "partial": "Do",
-        "signature": "ReconnectableConnection-\u003e(Connection-\u003eIO a)-\u003eIO a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/powermate/docs/MPD.html#v:runCommand",
-      "description": {
-        "fct-module": "MPD",
-        "fct-package": "powermate",
-        "fct-signature": "Handle -\u003e String -\u003e IO [String]",
-        "fct-source": "src/MPD.html#runCommand",
-        "fct-type": "function",
-        "title": "runCommand"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MPD",
-        "module": "MPD",
-        "name": "runCommand",
-        "normalized": "Handle-\u003eString-\u003eIO[String]",
-        "package": "powermate",
-        "partial": "Command",
-        "signature": "Handle-\u003eString-\u003eIO[String]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/powermate/docs/MPD.html#v:runCommand_",
-      "description": {
-        "fct-module": "MPD",
-        "fct-package": "powermate",
-        "fct-signature": "Handle -\u003e String -\u003e IO ()",
-        "fct-source": "src/MPD.html#runCommand_",
-        "fct-type": "function",
-        "title": "runCommand_"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MPD",
-        "module": "MPD",
-        "name": "runCommand_",
-        "normalized": "Handle-\u003eString-\u003eIO()",
-        "package": "powermate",
-        "partial": "Command",
-        "signature": "Handle-\u003eString-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/powermate/docs/MPD.html#v:setVolume",
-      "description": {
-        "fct-module": "MPD",
-        "fct-package": "powermate",
-        "fct-signature": "Connection -\u003e Int -\u003e IO ()",
-        "fct-source": "src/MPD.html#setVolume",
-        "fct-type": "function",
-        "title": "setVolume"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "MPD",
-        "module": "MPD",
-        "name": "setVolume",
-        "normalized": "Connection-\u003eInt-\u003eIO()",
-        "package": "powermate",
-        "partial": "Volume",
-        "signature": "Connection-\u003eInt-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#",
-      "description": {
-        "fct-module": "PowerMate",
-        "fct-package": "powermate",
-        "fct-signature": "module",
-        "fct-source": "src/PowerMate.html",
-        "fct-type": "module",
-        "title": "PowerMate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "PowerMate",
-        "module": "PowerMate",
-        "name": "PowerMate",
-        "normalized": "",
-        "package": "powermate",
-        "partial": "Power Mate",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#t:Event",
-      "description": {
-        "fct-module": "PowerMate",
-        "fct-package": "powermate",
-        "fct-signature": "data",
-        "fct-source": "src/PowerMate.html#Event",
-        "fct-type": "data",
-        "title": "Event"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "PowerMate",
-        "module": "PowerMate",
-        "name": "Event",
-        "normalized": "",
-        "package": "powermate",
-        "partial": "Event",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#t:Status",
-      "description": {
-        "fct-module": "PowerMate",
-        "fct-package": "powermate",
-        "fct-signature": "data",
-        "fct-source": "src/PowerMate.html#Status",
-        "fct-type": "data",
-        "title": "Status"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "PowerMate",
-        "module": "PowerMate",
-        "name": "Status",
-        "normalized": "",
-        "package": "powermate",
-        "partial": "Status",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:Button",
-      "description": {
-        "fct-module": "PowerMate",
-        "fct-package": "powermate",
-        "fct-signature": "Button Bool",
-        "fct-source": "src/PowerMate.html#Event",
-        "fct-type": "function",
-        "title": "Button"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "PowerMate",
-        "module": "PowerMate",
-        "name": "Button",
-        "normalized": "",
-        "package": "powermate",
-        "partial": "Button",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:Rotate",
-      "description": {
-        "fct-module": "PowerMate",
-        "fct-package": "powermate",
-        "fct-signature": "Rotate Int",
-        "fct-source": "src/PowerMate.html#Event",
-        "fct-type": "function",
-        "title": "Rotate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "PowerMate",
-        "module": "PowerMate",
-        "name": "Rotate",
-        "normalized": "",
-        "package": "powermate",
-        "partial": "Rotate",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:Status",
-      "description": {
-        "fct-module": "PowerMate",
-        "fct-package": "powermate",
-        "fct-signature": "Status",
-        "fct-source": "src/PowerMate.html#Status",
-        "fct-type": "function",
-        "title": "Status"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "PowerMate",
-        "module": "PowerMate",
-        "name": "Status",
-        "normalized": "",
-        "package": "powermate",
-        "partial": "Status",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:StatusChange",
-      "description": {
-        "fct-module": "PowerMate",
-        "fct-package": "powermate",
-        "fct-signature": "StatusChange Status",
-        "fct-source": "src/PowerMate.html#Event",
-        "fct-type": "function",
-        "title": "StatusChange"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "PowerMate",
-        "module": "PowerMate",
-        "name": "StatusChange",
-        "normalized": "",
-        "package": "powermate",
-        "partial": "Status Change",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:brightness",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "PowerMate",
-        "fct-package": "powermate",
-        "fct-signature": "Int",
-        "fct-source": "src/PowerMate.html#Status",
-        "fct-type": "function",
-        "title": "brightness"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "PowerMate",
-        "module": "PowerMate",
-        "name": "brightness",
-        "normalized": "",
-        "package": "powermate",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:getUSBName",
-      "description": {
-        "fct-module": "PowerMate",
-        "fct-package": "powermate",
-        "fct-signature": "FilePath -\u003e IO String",
-        "fct-source": "src/PowerMate.html#getUSBName",
-        "fct-type": "function",
-        "title": "getUSBName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "PowerMate",
-        "module": "PowerMate",
-        "name": "getUSBName",
-        "normalized": "FilePath-\u003eIO String",
-        "package": "powermate",
-        "partial": "USBName",
-        "signature": "FilePath-\u003eIO String"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:openDevice",
-      "description": {
-        "fct-module": "PowerMate",
-        "fct-package": "powermate",
-        "fct-signature": "FilePath -\u003e IO Handle",
-        "fct-source": "src/PowerMate.html#openDevice",
-        "fct-type": "function",
-        "title": "openDevice"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "PowerMate",
-        "module": "PowerMate",
-        "name": "openDevice",
-        "normalized": "FilePath-\u003eIO Handle",
-        "package": "powermate",
-        "partial": "Device",
-        "signature": "FilePath-\u003eIO Handle"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:pulse_asleep",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "PowerMate",
-        "fct-package": "powermate",
-        "fct-signature": "Bool",
-        "fct-source": "src/PowerMate.html#Status",
-        "fct-type": "function",
-        "title": "pulse_asleep"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "PowerMate",
-        "module": "PowerMate",
-        "name": "pulse_asleep",
-        "normalized": "",
-        "package": "powermate",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:pulse_awake",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "PowerMate",
-        "fct-package": "powermate",
-        "fct-signature": "Bool",
-        "fct-source": "src/PowerMate.html#Status",
-        "fct-type": "function",
-        "title": "pulse_awake"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "PowerMate",
-        "module": "PowerMate",
-        "name": "pulse_awake",
-        "normalized": "",
-        "package": "powermate",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:pulse_mode",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "PowerMate",
-        "fct-package": "powermate",
-        "fct-signature": "Int",
-        "fct-source": "src/PowerMate.html#Status",
-        "fct-type": "function",
-        "title": "pulse_mode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "PowerMate",
-        "module": "PowerMate",
-        "name": "pulse_mode",
-        "normalized": "",
-        "package": "powermate",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:pulse_speed",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "PowerMate",
-        "fct-package": "powermate",
-        "fct-signature": "Int",
-        "fct-source": "src/PowerMate.html#Status",
-        "fct-type": "function",
-        "title": "pulse_speed"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "PowerMate",
-        "module": "PowerMate",
-        "name": "pulse_speed",
-        "normalized": "",
-        "package": "powermate",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:readEvent",
-      "description": {
-        "fct-module": "PowerMate",
-        "fct-package": "powermate",
-        "fct-signature": "Handle -\u003e IO (Maybe Event)",
-        "fct-source": "src/PowerMate.html#readEvent",
-        "fct-type": "function",
-        "title": "readEvent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "PowerMate",
-        "module": "PowerMate",
-        "name": "readEvent",
-        "normalized": "Handle-\u003eIO(Maybe Event)",
-        "package": "powermate",
-        "partial": "Event",
-        "signature": "Handle-\u003eIO(Maybe Event)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:readEventWithSkip",
-      "description": {
-        "fct-module": "PowerMate",
-        "fct-package": "powermate",
-        "fct-signature": "Handle -\u003e Maybe Event -\u003e IO (Maybe Event)",
-        "fct-source": "src/PowerMate.html#readEventWithSkip",
-        "fct-type": "function",
-        "title": "readEventWithSkip"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "PowerMate",
-        "module": "PowerMate",
-        "name": "readEventWithSkip",
-        "normalized": "Handle-\u003eMaybe Event-\u003eIO(Maybe Event)",
-        "package": "powermate",
-        "partial": "Event With Skip",
-        "signature": "Handle-\u003eMaybe Event-\u003eIO(Maybe Event)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:searchForDevice",
-      "description": {
-        "fct-module": "PowerMate",
-        "fct-package": "powermate",
-        "fct-signature": "IO (Maybe FilePath)",
-        "fct-source": "src/PowerMate.html#searchForDevice",
-        "fct-type": "function",
-        "title": "searchForDevice"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "PowerMate",
-        "module": "PowerMate",
-        "name": "searchForDevice",
-        "normalized": "",
-        "package": "powermate",
-        "partial": "For Device",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:statusInit",
-      "description": {
-        "fct-module": "PowerMate",
-        "fct-package": "powermate",
-        "fct-signature": "Status",
-        "fct-source": "src/PowerMate.html#statusInit",
-        "fct-type": "function",
-        "title": "statusInit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "PowerMate",
-        "module": "PowerMate",
-        "name": "statusInit",
-        "normalized": "",
-        "package": "powermate",
-        "partial": "Init",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/powermate/docs/PowerMate.html#v:writeStatus",
-      "description": {
-        "fct-module": "PowerMate",
-        "fct-package": "powermate",
-        "fct-signature": "Handle -\u003e Status -\u003e IO ()",
-        "fct-source": "src/PowerMate.html#writeStatus",
-        "fct-type": "function",
-        "title": "writeStatus"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "PowerMate",
-        "module": "PowerMate",
-        "name": "writeStatus",
-        "normalized": "Handle-\u003eStatus-\u003eIO()",
-        "package": "powermate",
-        "partial": "Status",
-        "signature": "Handle-\u003eStatus-\u003eIO()"
-      }
-    }
-  }
+  ]
 ]

@@ -1,26 +1,39 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hcheat/docs/Web-HCheat.html#",
-      "description": {
-        "fct-module": "Web.HCheat",
-        "fct-package": "hcheat",
-        "fct-signature": "module",
-        "fct-source": "src/Web-HCheat.html",
-        "fct-type": "module",
-        "title": "HCheat"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "hcheat"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Web HCheat",
-        "module": "Web.HCheat",
-        "name": "HCheat",
-        "normalized": "",
-        "package": "hcheat",
-        "partial": "HCheat",
-        "signature": ""
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Web.HCheat",
+          "name": "HCheat",
+          "package": "hcheat",
+          "source": "src/Web-HCheat.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Web HCheat",
+          "module": "Web.HCheat",
+          "name": "HCheat",
+          "package": "hcheat",
+          "partial": "HCheat",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/hcheat/docs/Web-HCheat.html#"
       }
     }
-  }
+  ]
 ]

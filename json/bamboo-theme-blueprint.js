@@ -1,50 +1,60 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bamboo-theme-blueprint/docs/Bamboo-Theme-Blueprint.html#",
-      "description": {
-        "fct-module": "Bamboo.Theme.Blueprint",
-        "fct-package": "bamboo-theme-blueprint",
-        "fct-signature": "module",
-        "fct-source": "src/Bamboo-Theme-Blueprint.html",
-        "fct-type": "module",
-        "title": "Blueprint"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "bamboo-theme-blueprint"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Bamboo Theme Blueprint",
-        "module": "Bamboo.Theme.Blueprint",
-        "name": "Blueprint",
-        "normalized": "",
-        "package": "bamboo-theme-blueprint",
-        "partial": "Blueprint",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bamboo-theme-blueprint/docs/Bamboo-Theme-Blueprint.html#v:blueprint",
-      "description": {
-        "fct-module": "Bamboo.Theme.Blueprint",
-        "fct-package": "bamboo-theme-blueprint",
-        "fct-signature": "Theme",
-        "fct-source": "src/Bamboo-Theme-Blueprint.html#blueprint",
-        "fct-type": "function",
-        "title": "blueprint"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Bamboo Theme Blueprint",
-        "module": "Bamboo.Theme.Blueprint",
-        "name": "blueprint",
-        "normalized": "",
-        "package": "bamboo-theme-blueprint",
-        "partial": "",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Bamboo.Theme.Blueprint",
+          "name": "Blueprint",
+          "package": "bamboo-theme-blueprint",
+          "source": "src/Bamboo-Theme-Blueprint.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Bamboo Theme Blueprint",
+          "module": "Bamboo.Theme.Blueprint",
+          "name": "Blueprint",
+          "package": "bamboo-theme-blueprint",
+          "partial": "Blueprint",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/bamboo-theme-blueprint/docs/Bamboo-Theme-Blueprint.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Bamboo.Theme.Blueprint",
+          "name": "blueprint",
+          "package": "bamboo-theme-blueprint",
+          "signature": "Theme",
+          "source": "src/Bamboo-Theme-Blueprint.html#blueprint",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Bamboo Theme Blueprint",
+          "module": "Bamboo.Theme.Blueprint",
+          "name": "blueprint",
+          "package": "bamboo-theme-blueprint",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/bamboo-theme-blueprint/docs/Bamboo-Theme-Blueprint.html#v:blueprint"
       }
     }
-  }
+  ]
 ]

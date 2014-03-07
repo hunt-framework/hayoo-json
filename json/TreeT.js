@@ -1,74 +1,82 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TreeT/docs/Control-TreeT.html#",
-      "description": {
-        "fct-module": "Control.TreeT",
-        "fct-package": "TreeT",
-        "fct-signature": "module",
-        "fct-source": "src/Control-TreeT.html",
-        "fct-type": "module",
-        "title": "TreeT"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "TreeT"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Control TreeT",
-        "module": "Control.TreeT",
-        "name": "TreeT",
-        "normalized": "",
-        "package": "TreeT",
-        "partial": "Tree",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TreeT/docs/Control-TreeT.html#t:TreeT",
-      "description": {
-        "fct-module": "Control.TreeT",
-        "fct-package": "TreeT",
-        "fct-signature": "data",
-        "fct-source": "src/Control-TreeT.html#TreeT",
-        "fct-type": "data",
-        "title": "TreeT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control TreeT",
-        "module": "Control.TreeT",
-        "name": "TreeT",
-        "normalized": "",
-        "package": "TreeT",
-        "partial": "Tree",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.TreeT",
+          "name": "TreeT",
+          "package": "TreeT",
+          "source": "src/Control-TreeT.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Control TreeT",
+          "module": "Control.TreeT",
+          "name": "TreeT",
+          "package": "TreeT",
+          "partial": "Tree",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/TreeT/docs/Control-TreeT.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.TreeT",
+          "name": "TreeT",
+          "package": "TreeT",
+          "source": "src/Control-TreeT.html#TreeT",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Control TreeT",
+          "module": "Control.TreeT",
+          "name": "TreeT",
+          "package": "TreeT",
+          "partial": "Tree",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/TreeT/docs/Control-TreeT.html#t:TreeT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.TreeT",
+          "name": "TreeT",
+          "package": "TreeT",
+          "signature": "TreeT (m (Tree a))",
+          "source": "src/Control-TreeT.html#TreeT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control TreeT",
+          "module": "Control.TreeT",
+          "name": "TreeT",
+          "package": "TreeT",
+          "partial": "Tree",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/TreeT/docs/Control-TreeT.html#v:TreeT"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TreeT/docs/Control-TreeT.html#v:TreeT",
-      "description": {
-        "fct-module": "Control.TreeT",
-        "fct-package": "TreeT",
-        "fct-signature": "TreeT (m (Tree a))",
-        "fct-source": "src/Control-TreeT.html#TreeT",
-        "fct-type": "function",
-        "title": "TreeT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control TreeT",
-        "module": "Control.TreeT",
-        "name": "TreeT",
-        "normalized": "",
-        "package": "TreeT",
-        "partial": "Tree",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

@@ -1,266 +1,260 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/xml-to-json/docs/XmlToJson.html#",
-      "description": {
-        "fct-module": "XmlToJson",
-        "fct-package": "xml-to-json",
-        "fct-signature": "module",
-        "fct-source": "src/XmlToJson.html",
-        "fct-type": "module",
-        "title": "XmlToJson"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "xml-to-json"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "XmlToJson",
-        "module": "XmlToJson",
-        "name": "XmlToJson",
-        "normalized": "",
-        "package": "xml-to-json",
-        "partial": "Xml To Json",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/xml-to-json/docs/XmlToJson.html#t:Flag",
-      "description": {
-        "fct-module": "XmlToJson",
-        "fct-package": "xml-to-json",
-        "fct-signature": "data",
-        "fct-source": "src/XmlToJson.html#Flag",
-        "fct-type": "data",
-        "title": "Flag"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "XmlToJson",
-        "module": "XmlToJson",
-        "name": "Flag",
-        "normalized": "",
-        "package": "xml-to-json",
-        "partial": "Flag",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "XmlToJson",
+          "name": "XmlToJson",
+          "package": "xml-to-json",
+          "source": "src/XmlToJson.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "XmlToJson",
+          "module": "XmlToJson",
+          "name": "XmlToJson",
+          "package": "xml-to-json",
+          "partial": "Xml To Json",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/xml-to-json/docs/XmlToJson.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "XmlToJson",
+          "name": "Flag",
+          "package": "xml-to-json",
+          "source": "src/XmlToJson.html#Flag",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "XmlToJson",
+          "module": "XmlToJson",
+          "name": "Flag",
+          "package": "xml-to-json",
+          "partial": "Flag",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/xml-to-json/docs/XmlToJson.html#t:Flag"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "XmlToJson",
+          "name": "Input",
+          "package": "xml-to-json",
+          "signature": "Input String",
+          "source": "src/XmlToJson.html#Flag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "XmlToJson",
+          "module": "XmlToJson",
+          "name": "Input",
+          "package": "xml-to-json",
+          "partial": "Input",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/xml-to-json/docs/XmlToJson.html#v:Input"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "XmlToJson",
+          "name": "Multiline",
+          "package": "xml-to-json",
+          "signature": "Multiline",
+          "source": "src/XmlToJson.html#Flag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "XmlToJson",
+          "module": "XmlToJson",
+          "name": "Multiline",
+          "package": "xml-to-json",
+          "partial": "Multiline",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/xml-to-json/docs/XmlToJson.html#v:Multiline"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "XmlToJson",
+          "name": "NoCollapseText",
+          "package": "xml-to-json",
+          "signature": "NoCollapseText String",
+          "source": "src/XmlToJson.html#Flag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "XmlToJson",
+          "module": "XmlToJson",
+          "name": "NoCollapseText",
+          "package": "xml-to-json",
+          "partial": "No Collapse Text",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/xml-to-json/docs/XmlToJson.html#v:NoCollapseText"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "XmlToJson",
+          "name": "NoIgnoreNulls",
+          "package": "xml-to-json",
+          "signature": "NoIgnoreNulls",
+          "source": "src/XmlToJson.html#Flag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "XmlToJson",
+          "module": "XmlToJson",
+          "name": "NoIgnoreNulls",
+          "package": "xml-to-json",
+          "partial": "No Ignore Nulls",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/xml-to-json/docs/XmlToJson.html#v:NoIgnoreNulls"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "XmlToJson",
+          "name": "ShowHelp",
+          "package": "xml-to-json",
+          "signature": "ShowHelp",
+          "source": "src/XmlToJson.html#Flag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "XmlToJson",
+          "module": "XmlToJson",
+          "name": "ShowHelp",
+          "package": "xml-to-json",
+          "partial": "Show Help",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/xml-to-json/docs/XmlToJson.html#v:ShowHelp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "XmlToJson",
+          "name": "SkipRoots",
+          "package": "xml-to-json",
+          "signature": "SkipRoots",
+          "source": "src/XmlToJson.html#Flag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "XmlToJson",
+          "module": "XmlToJson",
+          "name": "SkipRoots",
+          "package": "xml-to-json",
+          "partial": "Skip Roots",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/xml-to-json/docs/XmlToJson.html#v:SkipRoots"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "XmlToJson",
+          "name": "StartFrom",
+          "package": "xml-to-json",
+          "signature": "StartFrom String",
+          "source": "src/XmlToJson.html#Flag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "XmlToJson",
+          "module": "XmlToJson",
+          "name": "StartFrom",
+          "package": "xml-to-json",
+          "partial": "Start From",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/xml-to-json/docs/XmlToJson.html#v:StartFrom"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "XmlToJson",
+          "name": "WrapArray",
+          "package": "xml-to-json",
+          "signature": "WrapArray",
+          "source": "src/XmlToJson.html#Flag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "XmlToJson",
+          "module": "XmlToJson",
+          "name": "WrapArray",
+          "package": "xml-to-json",
+          "partial": "Wrap Array",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/xml-to-json/docs/XmlToJson.html#v:WrapArray"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "XmlToJson",
+          "name": "xmlToJson",
+          "package": "xml-to-json",
+          "signature": "[Flag] -\u003e [String] -\u003e IO ()",
+          "source": "src/XmlToJson.html#xmlToJson",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "XmlToJson",
+          "module": "XmlToJson",
+          "name": "xmlToJson",
+          "normalized": "[Flag]-\u003e[String]-\u003eIO()",
+          "package": "xml-to-json",
+          "partial": "To Json",
+          "signature": "[Flag]-\u003e[String]-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/xml-to-json/docs/XmlToJson.html#v:xmlToJson"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/xml-to-json/docs/XmlToJson.html#v:Input",
-      "description": {
-        "fct-module": "XmlToJson",
-        "fct-package": "xml-to-json",
-        "fct-signature": "Input String",
-        "fct-source": "src/XmlToJson.html#Flag",
-        "fct-type": "function",
-        "title": "Input"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "XmlToJson",
-        "module": "XmlToJson",
-        "name": "Input",
-        "normalized": "",
-        "package": "xml-to-json",
-        "partial": "Input",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/xml-to-json/docs/XmlToJson.html#v:Multiline",
-      "description": {
-        "fct-module": "XmlToJson",
-        "fct-package": "xml-to-json",
-        "fct-signature": "Multiline",
-        "fct-source": "src/XmlToJson.html#Flag",
-        "fct-type": "function",
-        "title": "Multiline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "XmlToJson",
-        "module": "XmlToJson",
-        "name": "Multiline",
-        "normalized": "",
-        "package": "xml-to-json",
-        "partial": "Multiline",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/xml-to-json/docs/XmlToJson.html#v:NoCollapseText",
-      "description": {
-        "fct-module": "XmlToJson",
-        "fct-package": "xml-to-json",
-        "fct-signature": "NoCollapseText String",
-        "fct-source": "src/XmlToJson.html#Flag",
-        "fct-type": "function",
-        "title": "NoCollapseText"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "XmlToJson",
-        "module": "XmlToJson",
-        "name": "NoCollapseText",
-        "normalized": "",
-        "package": "xml-to-json",
-        "partial": "No Collapse Text",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/xml-to-json/docs/XmlToJson.html#v:NoIgnoreNulls",
-      "description": {
-        "fct-module": "XmlToJson",
-        "fct-package": "xml-to-json",
-        "fct-signature": "NoIgnoreNulls",
-        "fct-source": "src/XmlToJson.html#Flag",
-        "fct-type": "function",
-        "title": "NoIgnoreNulls"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "XmlToJson",
-        "module": "XmlToJson",
-        "name": "NoIgnoreNulls",
-        "normalized": "",
-        "package": "xml-to-json",
-        "partial": "No Ignore Nulls",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/xml-to-json/docs/XmlToJson.html#v:ShowHelp",
-      "description": {
-        "fct-module": "XmlToJson",
-        "fct-package": "xml-to-json",
-        "fct-signature": "ShowHelp",
-        "fct-source": "src/XmlToJson.html#Flag",
-        "fct-type": "function",
-        "title": "ShowHelp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "XmlToJson",
-        "module": "XmlToJson",
-        "name": "ShowHelp",
-        "normalized": "",
-        "package": "xml-to-json",
-        "partial": "Show Help",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/xml-to-json/docs/XmlToJson.html#v:SkipRoots",
-      "description": {
-        "fct-module": "XmlToJson",
-        "fct-package": "xml-to-json",
-        "fct-signature": "SkipRoots",
-        "fct-source": "src/XmlToJson.html#Flag",
-        "fct-type": "function",
-        "title": "SkipRoots"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "XmlToJson",
-        "module": "XmlToJson",
-        "name": "SkipRoots",
-        "normalized": "",
-        "package": "xml-to-json",
-        "partial": "Skip Roots",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/xml-to-json/docs/XmlToJson.html#v:StartFrom",
-      "description": {
-        "fct-module": "XmlToJson",
-        "fct-package": "xml-to-json",
-        "fct-signature": "StartFrom String",
-        "fct-source": "src/XmlToJson.html#Flag",
-        "fct-type": "function",
-        "title": "StartFrom"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "XmlToJson",
-        "module": "XmlToJson",
-        "name": "StartFrom",
-        "normalized": "",
-        "package": "xml-to-json",
-        "partial": "Start From",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/xml-to-json/docs/XmlToJson.html#v:WrapArray",
-      "description": {
-        "fct-module": "XmlToJson",
-        "fct-package": "xml-to-json",
-        "fct-signature": "WrapArray",
-        "fct-source": "src/XmlToJson.html#Flag",
-        "fct-type": "function",
-        "title": "WrapArray"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "XmlToJson",
-        "module": "XmlToJson",
-        "name": "WrapArray",
-        "normalized": "",
-        "package": "xml-to-json",
-        "partial": "Wrap Array",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/xml-to-json/docs/XmlToJson.html#v:xmlToJson",
-      "description": {
-        "fct-module": "XmlToJson",
-        "fct-package": "xml-to-json",
-        "fct-signature": "[Flag] -\u003e [String] -\u003e IO ()",
-        "fct-source": "src/XmlToJson.html#xmlToJson",
-        "fct-type": "function",
-        "title": "xmlToJson"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "XmlToJson",
-        "module": "XmlToJson",
-        "name": "xmlToJson",
-        "normalized": "[Flag]-\u003e[String]-\u003eIO()",
-        "package": "xml-to-json",
-        "partial": "To Json",
-        "signature": "[Flag]-\u003e[String]-\u003eIO()"
-      }
-    }
-  }
+  ]
 ]

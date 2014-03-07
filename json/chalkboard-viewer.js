@@ -1,51 +1,65 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/chalkboard-viewer/docs/Graphics-Chalkboard-Viewer.html#t:BoardViewerInit",
-      "description": {
-        "fct-module": "Graphics.Chalkboard.Viewer",
-        "fct-package": "chalkboard-viewer",
-        "fct-signature": "data",
-        "fct-source": "http://hackage.haskell.org/package/chalkboard-viewer/docs/src/Graphics-Chalkboard-Viewer.html#BoardViewerInit",
-        "fct-type": "unknown",
-        "title": "BoardViewerInit"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "chalkboard-viewer"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Chalkboard Viewer",
-        "module": "Graphics.Chalkboard.Viewer",
-        "name": "BoardViewerInit",
-        "normalized": "",
-        "package": "chalkboard-viewer",
-        "partial": "Board Viewer Init",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/chalkboard-viewer/docs/Graphics-Chalkboard-Viewer.html#v:initBoardViewer",
-      "description": {
-        "fct-descr": "\u003ctt\u003e\u003ca\u003einitBoardViewer\u003c/a\u003e\u003c/tt\u003e never returns, and must be run from the main thread.\n Two arguments should be provided; the inital window setup, and the MVar that\n will contain the Board to be displayed.\n",
-        "fct-module": "Graphics.Chalkboard.Viewer",
-        "fct-package": "chalkboard-viewer",
-        "fct-signature": "[BoardViewerInit] -\u003e MVar (Board RGB) -\u003e IO ()",
-        "fct-source": "http://hackage.haskell.org/package/chalkboard-viewer/docs/src/Graphics-Chalkboard-Viewer.html#initBoardViewer",
-        "fct-type": "unknown",
-        "title": "initBoardViewer"
-      },
-      "index": {
-        "description": "initBoardViewer never returns and must be run from the main thread Two arguments should be provided the inital window setup and the MVar that will contain the Board to be displayed",
-        "hierarchy": "Graphics Chalkboard Viewer",
-        "module": "Graphics.Chalkboard.Viewer",
-        "name": "initBoardViewer",
-        "normalized": "[BoardViewerInit]-\u003eMVar(Board RGB)-\u003eIO()",
-        "package": "chalkboard-viewer",
-        "partial": "Board Viewer",
-        "signature": "[BoardViewerInit]-\u003eMVar(Board RGB)-\u003eIO()"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Chalkboard.Viewer",
+          "name": "BoardViewerInit",
+          "package": "chalkboard-viewer",
+          "source": "http://hackage.haskell.org/package/chalkboard-viewer/docs/src/Graphics-Chalkboard-Viewer.html#BoardViewerInit",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Graphics Chalkboard Viewer",
+          "module": "Graphics.Chalkboard.Viewer",
+          "name": "BoardViewerInit",
+          "package": "chalkboard-viewer",
+          "partial": "Board Viewer Init",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/chalkboard-viewer/docs/Graphics-Chalkboard-Viewer.html#t:BoardViewerInit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003ctt\u003e\u003ca\u003einitBoardViewer\u003c/a\u003e\u003c/tt\u003e never returns, and must be run from the main thread.\n Two arguments should be provided; the inital window setup, and the MVar that\n will contain the Board to be displayed.\n",
+          "module": "Graphics.Chalkboard.Viewer",
+          "name": "initBoardViewer",
+          "package": "chalkboard-viewer",
+          "signature": "[BoardViewerInit] -\u003e MVar (Board RGB) -\u003e IO ()",
+          "source": "http://hackage.haskell.org/package/chalkboard-viewer/docs/src/Graphics-Chalkboard-Viewer.html#initBoardViewer",
+          "type": "function"
+        },
+        "index": {
+          "description": "initBoardViewer never returns and must be run from the main thread Two arguments should be provided the inital window setup and the MVar that will contain the Board to be displayed",
+          "hierarchy": "Graphics Chalkboard Viewer",
+          "module": "Graphics.Chalkboard.Viewer",
+          "name": "initBoardViewer",
+          "normalized": "[BoardViewerInit]-\u003eMVar(Board RGB)-\u003eIO()",
+          "package": "chalkboard-viewer",
+          "partial": "Board Viewer",
+          "signature": "[BoardViewerInit]-\u003eMVar(Board RGB)-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/chalkboard-viewer/docs/Graphics-Chalkboard-Viewer.html#v:initBoardViewer"
       }
     }
-  }
+  ]
 ]

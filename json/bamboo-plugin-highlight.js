@@ -1,50 +1,60 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bamboo-plugin-highlight/docs/Bamboo-Plugin-Highlight.html#",
-      "description": {
-        "fct-module": "Bamboo.Plugin.Highlight",
-        "fct-package": "bamboo-plugin-highlight",
-        "fct-signature": "module",
-        "fct-source": "src/Bamboo-Plugin-Highlight.html",
-        "fct-type": "module",
-        "title": "Highlight"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "bamboo-plugin-highlight"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Bamboo Plugin Highlight",
-        "module": "Bamboo.Plugin.Highlight",
-        "name": "Highlight",
-        "normalized": "",
-        "package": "bamboo-plugin-highlight",
-        "partial": "Highlight",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bamboo-plugin-highlight/docs/Bamboo-Plugin-Highlight.html#v:highlight",
-      "description": {
-        "fct-module": "Bamboo.Plugin.Highlight",
-        "fct-package": "bamboo-plugin-highlight",
-        "fct-signature": "Middleware",
-        "fct-source": "src/Bamboo-Plugin-Highlight.html#highlight",
-        "fct-type": "function",
-        "title": "highlight"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Bamboo Plugin Highlight",
-        "module": "Bamboo.Plugin.Highlight",
-        "name": "highlight",
-        "normalized": "",
-        "package": "bamboo-plugin-highlight",
-        "partial": "",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Bamboo.Plugin.Highlight",
+          "name": "Highlight",
+          "package": "bamboo-plugin-highlight",
+          "source": "src/Bamboo-Plugin-Highlight.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Bamboo Plugin Highlight",
+          "module": "Bamboo.Plugin.Highlight",
+          "name": "Highlight",
+          "package": "bamboo-plugin-highlight",
+          "partial": "Highlight",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/bamboo-plugin-highlight/docs/Bamboo-Plugin-Highlight.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Bamboo.Plugin.Highlight",
+          "name": "highlight",
+          "package": "bamboo-plugin-highlight",
+          "signature": "Middleware",
+          "source": "src/Bamboo-Plugin-Highlight.html#highlight",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Bamboo Plugin Highlight",
+          "module": "Bamboo.Plugin.Highlight",
+          "name": "highlight",
+          "package": "bamboo-plugin-highlight",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/bamboo-plugin-highlight/docs/Bamboo-Plugin-Highlight.html#v:highlight"
       }
     }
-  }
+  ]
 ]

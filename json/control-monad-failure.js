@@ -1,96 +1,102 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/control-monad-failure/docs/Control-Monad-Failure-Transformers.html#",
-      "description": {
-        "fct-module": "Control.Monad.Failure.Transformers",
-        "fct-package": "control-monad-failure",
-        "fct-signature": "module",
-        "fct-source": "src/Control-Monad-Failure-Transformers.html",
-        "fct-type": "module",
-        "title": "Transformers"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "control-monad-failure"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Monad Failure Transformers",
-        "module": "Control.Monad.Failure.Transformers",
-        "name": "Transformers",
-        "normalized": "",
-        "package": "control-monad-failure",
-        "partial": "Transformers",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/control-monad-failure/docs/Control-Monad-Failure-Transformers.html#t:Failure",
-      "description": {
-        "fct-module": "Control.Monad.Failure.Transformers",
-        "fct-package": "control-monad-failure",
-        "fct-signature": "class",
-        "fct-type": "class",
-        "title": "Failure"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Monad Failure Transformers",
-        "module": "Control.Monad.Failure.Transformers",
-        "name": "Failure",
-        "normalized": "",
-        "package": "control-monad-failure",
-        "partial": "Failure",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Monad.Failure.Transformers",
+          "name": "Transformers",
+          "package": "control-monad-failure",
+          "source": "src/Control-Monad-Failure-Transformers.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Control Monad Failure Transformers",
+          "module": "Control.Monad.Failure.Transformers",
+          "name": "Transformers",
+          "package": "control-monad-failure",
+          "partial": "Transformers",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/control-monad-failure/docs/Control-Monad-Failure-Transformers.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Monad.Failure.Transformers",
+          "name": "Failure",
+          "package": "control-monad-failure",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Control Monad Failure Transformers",
+          "module": "Control.Monad.Failure.Transformers",
+          "name": "Failure",
+          "package": "control-monad-failure",
+          "partial": "Failure",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/control-monad-failure/docs/Control-Monad-Failure-Transformers.html#t:Failure"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Monad.Failure.Transformers",
+          "name": "failure",
+          "package": "control-monad-failure",
+          "signature": "e -\u003e f v",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Control Monad Failure Transformers",
+          "module": "Control.Monad.Failure.Transformers",
+          "name": "failure",
+          "normalized": "a-\u003eb c",
+          "package": "control-monad-failure",
+          "signature": "e-\u003ef v",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/control-monad-failure/docs/Control-Monad-Failure-Transformers.html#v:failure"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Monad.Failure",
+          "name": "Failure",
+          "package": "control-monad-failure",
+          "source": "src/Control-Monad-Failure.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Control Monad Failure",
+          "module": "Control.Monad.Failure",
+          "name": "Failure",
+          "package": "control-monad-failure",
+          "partial": "Failure",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/control-monad-failure/docs/Control-Monad-Failure.html#"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/control-monad-failure/docs/Control-Monad-Failure-Transformers.html#v:failure",
-      "description": {
-        "fct-module": "Control.Monad.Failure.Transformers",
-        "fct-package": "control-monad-failure",
-        "fct-signature": "e -\u003e f v",
-        "fct-type": "method",
-        "title": "failure"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Monad Failure Transformers",
-        "module": "Control.Monad.Failure.Transformers",
-        "name": "failure",
-        "normalized": "a-\u003eb c",
-        "package": "control-monad-failure",
-        "partial": "",
-        "signature": "e-\u003ef v"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/control-monad-failure/docs/Control-Monad-Failure.html#",
-      "description": {
-        "fct-module": "Control.Monad.Failure",
-        "fct-package": "control-monad-failure",
-        "fct-signature": "module",
-        "fct-source": "src/Control-Monad-Failure.html",
-        "fct-type": "module",
-        "title": "Failure"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Monad Failure",
-        "module": "Control.Monad.Failure",
-        "name": "Failure",
-        "normalized": "",
-        "package": "control-monad-failure",
-        "partial": "Failure",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

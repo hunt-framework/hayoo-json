@@ -1,727 +1,701 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Lexer.html#",
-      "description": {
-        "fct-module": "Data.BEncode.Lexer",
-        "fct-package": "bencode",
-        "fct-signature": "module",
-        "fct-source": "src/Data-BEncode-Lexer.html",
-        "fct-type": "module",
-        "title": "Lexer"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "bencode"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Data BEncode Lexer",
-        "module": "Data.BEncode.Lexer",
-        "name": "Lexer",
-        "normalized": "",
-        "package": "bencode",
-        "partial": "Lexer",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Lexer.html#t:Token",
-      "description": {
-        "fct-module": "Data.BEncode.Lexer",
-        "fct-package": "bencode",
-        "fct-signature": "data",
-        "fct-source": "src/Data-BEncode-Lexer.html#Token",
-        "fct-type": "data",
-        "title": "Token"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data BEncode Lexer",
-        "module": "Data.BEncode.Lexer",
-        "name": "Token",
-        "normalized": "",
-        "package": "bencode",
-        "partial": "Token",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.BEncode.Lexer",
+          "name": "Lexer",
+          "package": "bencode",
+          "source": "src/Data-BEncode-Lexer.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data BEncode Lexer",
+          "module": "Data.BEncode.Lexer",
+          "name": "Lexer",
+          "package": "bencode",
+          "partial": "Lexer",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Lexer.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.BEncode.Lexer",
+          "name": "Token",
+          "package": "bencode",
+          "source": "src/Data-BEncode-Lexer.html#Token",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data BEncode Lexer",
+          "module": "Data.BEncode.Lexer",
+          "name": "Token",
+          "package": "bencode",
+          "partial": "Token",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Lexer.html#t:Token"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.BEncode.Lexer",
+          "name": "TDict",
+          "package": "bencode",
+          "signature": "TDict",
+          "source": "src/Data-BEncode-Lexer.html#Token",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data BEncode Lexer",
+          "module": "Data.BEncode.Lexer",
+          "name": "TDict",
+          "package": "bencode",
+          "partial": "TDict",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Lexer.html#v:TDict"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.BEncode.Lexer",
+          "name": "TEnd",
+          "package": "bencode",
+          "signature": "TEnd",
+          "source": "src/Data-BEncode-Lexer.html#Token",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data BEncode Lexer",
+          "module": "Data.BEncode.Lexer",
+          "name": "TEnd",
+          "package": "bencode",
+          "partial": "TEnd",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Lexer.html#v:TEnd"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.BEncode.Lexer",
+          "name": "TInt",
+          "package": "bencode",
+          "signature": "TInt",
+          "source": "src/Data-BEncode-Lexer.html#Token",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data BEncode Lexer",
+          "module": "Data.BEncode.Lexer",
+          "name": "TInt",
+          "package": "bencode",
+          "partial": "TInt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Lexer.html#v:TInt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.BEncode.Lexer",
+          "name": "TList",
+          "package": "bencode",
+          "signature": "TList",
+          "source": "src/Data-BEncode-Lexer.html#Token",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data BEncode Lexer",
+          "module": "Data.BEncode.Lexer",
+          "name": "TList",
+          "package": "bencode",
+          "partial": "TList",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Lexer.html#v:TList"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.BEncode.Lexer",
+          "name": "TNumber",
+          "package": "bencode",
+          "signature": "TNumber Integer",
+          "source": "src/Data-BEncode-Lexer.html#Token",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data BEncode Lexer",
+          "module": "Data.BEncode.Lexer",
+          "name": "TNumber",
+          "package": "bencode",
+          "partial": "TNumber",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Lexer.html#v:TNumber"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.BEncode.Lexer",
+          "name": "TString",
+          "package": "bencode",
+          "signature": "TString ByteString",
+          "source": "src/Data-BEncode-Lexer.html#Token",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data BEncode Lexer",
+          "module": "Data.BEncode.Lexer",
+          "name": "TString",
+          "package": "bencode",
+          "partial": "TString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Lexer.html#v:TString"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.BEncode.Lexer",
+          "name": "lexer",
+          "package": "bencode",
+          "signature": "ByteString -\u003e [Token]",
+          "source": "src/Data-BEncode-Lexer.html#lexer",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data BEncode Lexer",
+          "module": "Data.BEncode.Lexer",
+          "name": "lexer",
+          "normalized": "ByteString-\u003e[Token]",
+          "package": "bencode",
+          "signature": "ByteString-\u003e[Token]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Lexer.html#v:lexer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eA parsec style parser for BEncoded data\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Data.BEncode.Parser",
+          "name": "Parser",
+          "package": "bencode",
+          "source": "src/Data-BEncode-Parser.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "parsec style parser for BEncoded data",
+          "hierarchy": "Data BEncode Parser",
+          "module": "Data.BEncode.Parser",
+          "name": "Parser",
+          "package": "bencode",
+          "partial": "Parser",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Parser.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.BEncode.Parser",
+          "name": "BParser",
+          "package": "bencode",
+          "source": "src/Data-BEncode-Parser.html#BParser",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data BEncode Parser",
+          "module": "Data.BEncode.Parser",
+          "name": "BParser",
+          "package": "bencode",
+          "partial": "BParser",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Parser.html#t:BParser"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.BEncode.Parser",
+          "name": "(\u003c|\u003e)",
+          "package": "bencode",
+          "signature": "BParser a -\u003e BParser a -\u003e BParser a",
+          "source": "src/Data-BEncode-Parser.html#%3C%7C%3E",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data BEncode Parser",
+          "module": "Data.BEncode.Parser",
+          "name": "(\u003c|\u003e) \u003c|\u003e",
+          "normalized": "BParser a-\u003eBParser a-\u003eBParser a",
+          "package": "bencode",
+          "signature": "BParser a-\u003eBParser a-\u003eBParser a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Parser.html#v:-60--124--62-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.BEncode.Parser",
+          "name": "bbytestring",
+          "package": "bencode",
+          "signature": "BParser BEncode -\u003e BParser ByteString",
+          "source": "src/Data-BEncode-Parser.html#bbytestring",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data BEncode Parser",
+          "module": "Data.BEncode.Parser",
+          "name": "bbytestring",
+          "normalized": "BParser BEncode-\u003eBParser ByteString",
+          "package": "bencode",
+          "signature": "BParser BEncode-\u003eBParser ByteString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Parser.html#v:bbytestring"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.BEncode.Parser",
+          "name": "bint",
+          "package": "bencode",
+          "signature": "BParser BEncode -\u003e BParser Integer",
+          "source": "src/Data-BEncode-Parser.html#bint",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data BEncode Parser",
+          "module": "Data.BEncode.Parser",
+          "name": "bint",
+          "normalized": "BParser BEncode-\u003eBParser Integer",
+          "package": "bencode",
+          "signature": "BParser BEncode-\u003eBParser Integer",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Parser.html#v:bint"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.BEncode.Parser",
+          "name": "bstring",
+          "package": "bencode",
+          "signature": "BParser BEncode -\u003e BParser String",
+          "source": "src/Data-BEncode-Parser.html#bstring",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data BEncode Parser",
+          "module": "Data.BEncode.Parser",
+          "name": "bstring",
+          "normalized": "BParser BEncode-\u003eBParser String",
+          "package": "bencode",
+          "signature": "BParser BEncode-\u003eBParser String",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Parser.html#v:bstring"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.BEncode.Parser",
+          "name": "dict",
+          "package": "bencode",
+          "signature": "String -\u003e BParser BEncode",
+          "source": "src/Data-BEncode-Parser.html#dict",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data BEncode Parser",
+          "module": "Data.BEncode.Parser",
+          "name": "dict",
+          "normalized": "String-\u003eBParser BEncode",
+          "package": "bencode",
+          "signature": "String-\u003eBParser BEncode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Parser.html#v:dict"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.BEncode.Parser",
+          "name": "list",
+          "package": "bencode",
+          "signature": "String -\u003e BParser a -\u003e BParser [a]",
+          "source": "src/Data-BEncode-Parser.html#list",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data BEncode Parser",
+          "module": "Data.BEncode.Parser",
+          "name": "list",
+          "normalized": "String-\u003eBParser a-\u003eBParser[a]",
+          "package": "bencode",
+          "signature": "String-\u003eBParser a-\u003eBParser[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Parser.html#v:list"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.BEncode.Parser",
+          "name": "optional",
+          "package": "bencode",
+          "signature": "BParser a -\u003e BParser (Maybe a)",
+          "source": "src/Data-BEncode-Parser.html#optional",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data BEncode Parser",
+          "module": "Data.BEncode.Parser",
+          "name": "optional",
+          "normalized": "BParser a-\u003eBParser(Maybe a)",
+          "package": "bencode",
+          "signature": "BParser a-\u003eBParser(Maybe a)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Parser.html#v:optional"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.BEncode.Parser",
+          "name": "runParser",
+          "package": "bencode",
+          "signature": "BParser a -\u003e BEncode -\u003e Either String a",
+          "source": "src/Data-BEncode-Parser.html#runParser",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data BEncode Parser",
+          "module": "Data.BEncode.Parser",
+          "name": "runParser",
+          "normalized": "BParser a-\u003eBEncode-\u003eEither String a",
+          "package": "bencode",
+          "partial": "Parser",
+          "signature": "BParser a-\u003eBEncode-\u003eEither String a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Parser.html#v:runParser"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.BEncode.Parser",
+          "name": "setInput",
+          "package": "bencode",
+          "signature": "BEncode -\u003e BParser ()",
+          "source": "src/Data-BEncode-Parser.html#setInput",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data BEncode Parser",
+          "module": "Data.BEncode.Parser",
+          "name": "setInput",
+          "normalized": "BEncode-\u003eBParser()",
+          "package": "bencode",
+          "partial": "Input",
+          "signature": "BEncode-\u003eBParser()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Parser.html#v:setInput"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.BEncode.Parser",
+          "name": "token",
+          "package": "bencode",
+          "signature": "BParser BEncode",
+          "source": "src/Data-BEncode-Parser.html#token",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data BEncode Parser",
+          "module": "Data.BEncode.Parser",
+          "name": "token",
+          "package": "bencode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Parser.html#v:token"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eProvides a BEncode data type is well as functions for converting this\n data type to and from a String.\n\u003c/p\u003e\u003cp\u003eAlso supplies a number of properties which the module must satisfy.\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Data.BEncode",
+          "name": "BEncode",
+          "package": "bencode",
+          "source": "src/Data-BEncode.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "Provides BEncode data type is well as functions for converting this data type to and from String Also supplies number of properties which the module must satisfy",
+          "hierarchy": "Data BEncode",
+          "module": "Data.BEncode",
+          "name": "BEncode",
+          "package": "bencode",
+          "partial": "BEncode",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eThe B-coding defines an abstract syntax tree given as a simple\n     data type here\n\u003c/p\u003e",
+          "module": "Data.BEncode",
+          "name": "BEncode",
+          "package": "bencode",
+          "source": "src/Data-BEncode.html#BEncode",
+          "type": "data"
+        },
+        "index": {
+          "description": "The B-coding defines an abstract syntax tree given as simple data type here",
+          "hierarchy": "Data BEncode",
+          "module": "Data.BEncode",
+          "name": "BEncode",
+          "package": "bencode",
+          "partial": "BEncode",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode.html#t:BEncode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.BEncode",
+          "name": "BDict",
+          "package": "bencode",
+          "signature": "BDict (Map String BEncode)",
+          "source": "src/Data-BEncode.html#BEncode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data BEncode",
+          "module": "Data.BEncode",
+          "name": "BDict",
+          "package": "bencode",
+          "partial": "BDict",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode.html#v:BDict"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.BEncode",
+          "name": "BInt",
+          "package": "bencode",
+          "signature": "BInt Integer",
+          "source": "src/Data-BEncode.html#BEncode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data BEncode",
+          "module": "Data.BEncode",
+          "name": "BInt",
+          "package": "bencode",
+          "partial": "BInt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode.html#v:BInt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.BEncode",
+          "name": "BList",
+          "package": "bencode",
+          "signature": "BList [BEncode]",
+          "source": "src/Data-BEncode.html#BEncode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data BEncode",
+          "module": "Data.BEncode",
+          "name": "BList",
+          "normalized": "BList[BEncode]",
+          "package": "bencode",
+          "partial": "BList",
+          "signature": "BList[BEncode]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode.html#v:BList"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.BEncode",
+          "name": "BString",
+          "package": "bencode",
+          "signature": "BString ByteString",
+          "source": "src/Data-BEncode.html#BEncode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data BEncode",
+          "module": "Data.BEncode",
+          "name": "BString",
+          "package": "bencode",
+          "partial": "BString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode.html#v:BString"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.BEncode",
+          "name": "bPack",
+          "package": "bencode",
+          "signature": "BEncode -\u003e ByteString",
+          "source": "src/Data-BEncode.html#bPack",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data BEncode",
+          "module": "Data.BEncode",
+          "name": "bPack",
+          "normalized": "BEncode-\u003eByteString",
+          "package": "bencode",
+          "partial": "Pack",
+          "signature": "BEncode-\u003eByteString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode.html#v:bPack"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ebRead is a conversion routine. It assumes a B-coded string as input\n     and attempts a parse of it into a BEncode data type\n\u003c/p\u003e",
+          "module": "Data.BEncode",
+          "name": "bRead",
+          "package": "bencode",
+          "signature": "ByteString -\u003e Maybe BEncode",
+          "source": "src/Data-BEncode.html#bRead",
+          "type": "function"
+        },
+        "index": {
+          "description": "bRead is conversion routine It assumes B-coded string as input and attempts parse of it into BEncode data type",
+          "hierarchy": "Data BEncode",
+          "module": "Data.BEncode",
+          "name": "bRead",
+          "normalized": "ByteString-\u003eMaybe BEncode",
+          "package": "bencode",
+          "partial": "Read",
+          "signature": "ByteString-\u003eMaybe BEncode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode.html#v:bRead"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eRender a BEncode structure to a B-coded string\n\u003c/p\u003e",
+          "module": "Data.BEncode",
+          "name": "bShow",
+          "package": "bencode",
+          "signature": "BEncode -\u003e ShowS",
+          "source": "src/Data-BEncode.html#bShow",
+          "type": "function"
+        },
+        "index": {
+          "description": "Render BEncode structure to B-coded string",
+          "hierarchy": "Data BEncode",
+          "module": "Data.BEncode",
+          "name": "bShow",
+          "normalized": "BEncode-\u003eShowS",
+          "package": "bencode",
+          "partial": "Show",
+          "signature": "BEncode-\u003eShowS",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode.html#v:bShow"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Lexer.html#v:TDict",
-      "description": {
-        "fct-module": "Data.BEncode.Lexer",
-        "fct-package": "bencode",
-        "fct-signature": "TDict",
-        "fct-source": "src/Data-BEncode-Lexer.html#Token",
-        "fct-type": "function",
-        "title": "TDict"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data BEncode Lexer",
-        "module": "Data.BEncode.Lexer",
-        "name": "TDict",
-        "normalized": "",
-        "package": "bencode",
-        "partial": "TDict",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Lexer.html#v:TEnd",
-      "description": {
-        "fct-module": "Data.BEncode.Lexer",
-        "fct-package": "bencode",
-        "fct-signature": "TEnd",
-        "fct-source": "src/Data-BEncode-Lexer.html#Token",
-        "fct-type": "function",
-        "title": "TEnd"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data BEncode Lexer",
-        "module": "Data.BEncode.Lexer",
-        "name": "TEnd",
-        "normalized": "",
-        "package": "bencode",
-        "partial": "TEnd",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Lexer.html#v:TInt",
-      "description": {
-        "fct-module": "Data.BEncode.Lexer",
-        "fct-package": "bencode",
-        "fct-signature": "TInt",
-        "fct-source": "src/Data-BEncode-Lexer.html#Token",
-        "fct-type": "function",
-        "title": "TInt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data BEncode Lexer",
-        "module": "Data.BEncode.Lexer",
-        "name": "TInt",
-        "normalized": "",
-        "package": "bencode",
-        "partial": "TInt",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Lexer.html#v:TList",
-      "description": {
-        "fct-module": "Data.BEncode.Lexer",
-        "fct-package": "bencode",
-        "fct-signature": "TList",
-        "fct-source": "src/Data-BEncode-Lexer.html#Token",
-        "fct-type": "function",
-        "title": "TList"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data BEncode Lexer",
-        "module": "Data.BEncode.Lexer",
-        "name": "TList",
-        "normalized": "",
-        "package": "bencode",
-        "partial": "TList",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Lexer.html#v:TNumber",
-      "description": {
-        "fct-module": "Data.BEncode.Lexer",
-        "fct-package": "bencode",
-        "fct-signature": "TNumber Integer",
-        "fct-source": "src/Data-BEncode-Lexer.html#Token",
-        "fct-type": "function",
-        "title": "TNumber"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data BEncode Lexer",
-        "module": "Data.BEncode.Lexer",
-        "name": "TNumber",
-        "normalized": "",
-        "package": "bencode",
-        "partial": "TNumber",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Lexer.html#v:TString",
-      "description": {
-        "fct-module": "Data.BEncode.Lexer",
-        "fct-package": "bencode",
-        "fct-signature": "TString ByteString",
-        "fct-source": "src/Data-BEncode-Lexer.html#Token",
-        "fct-type": "function",
-        "title": "TString"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data BEncode Lexer",
-        "module": "Data.BEncode.Lexer",
-        "name": "TString",
-        "normalized": "",
-        "package": "bencode",
-        "partial": "TString",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Lexer.html#v:lexer",
-      "description": {
-        "fct-module": "Data.BEncode.Lexer",
-        "fct-package": "bencode",
-        "fct-signature": "ByteString -\u003e [Token]",
-        "fct-source": "src/Data-BEncode-Lexer.html#lexer",
-        "fct-type": "function",
-        "title": "lexer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data BEncode Lexer",
-        "module": "Data.BEncode.Lexer",
-        "name": "lexer",
-        "normalized": "ByteString-\u003e[Token]",
-        "package": "bencode",
-        "partial": "",
-        "signature": "ByteString-\u003e[Token]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Parser.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eA parsec style parser for BEncoded data\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Data.BEncode.Parser",
-        "fct-package": "bencode",
-        "fct-signature": "module",
-        "fct-source": "src/Data-BEncode-Parser.html",
-        "fct-type": "module",
-        "title": "Parser"
-      },
-      "index": {
-        "description": "parsec style parser for BEncoded data",
-        "hierarchy": "Data BEncode Parser",
-        "module": "Data.BEncode.Parser",
-        "name": "Parser",
-        "normalized": "",
-        "package": "bencode",
-        "partial": "Parser",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Parser.html#t:BParser",
-      "description": {
-        "fct-module": "Data.BEncode.Parser",
-        "fct-package": "bencode",
-        "fct-signature": "data",
-        "fct-source": "src/Data-BEncode-Parser.html#BParser",
-        "fct-type": "data",
-        "title": "BParser"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data BEncode Parser",
-        "module": "Data.BEncode.Parser",
-        "name": "BParser",
-        "normalized": "",
-        "package": "bencode",
-        "partial": "BParser",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Parser.html#v:-60--124--62-",
-      "description": {
-        "fct-module": "Data.BEncode.Parser",
-        "fct-package": "bencode",
-        "fct-signature": "BParser a -\u003e BParser a -\u003e BParser a",
-        "fct-source": "src/Data-BEncode-Parser.html#%3C%7C%3E",
-        "fct-type": "function",
-        "title": "(\u003c|\u003e)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data BEncode Parser",
-        "module": "Data.BEncode.Parser",
-        "name": "(\u003c|\u003e) \u003c|\u003e",
-        "normalized": "BParser a-\u003eBParser a-\u003eBParser a",
-        "package": "bencode",
-        "partial": "",
-        "signature": "BParser a-\u003eBParser a-\u003eBParser a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Parser.html#v:bbytestring",
-      "description": {
-        "fct-module": "Data.BEncode.Parser",
-        "fct-package": "bencode",
-        "fct-signature": "BParser BEncode -\u003e BParser ByteString",
-        "fct-source": "src/Data-BEncode-Parser.html#bbytestring",
-        "fct-type": "function",
-        "title": "bbytestring"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data BEncode Parser",
-        "module": "Data.BEncode.Parser",
-        "name": "bbytestring",
-        "normalized": "BParser BEncode-\u003eBParser ByteString",
-        "package": "bencode",
-        "partial": "",
-        "signature": "BParser BEncode-\u003eBParser ByteString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Parser.html#v:bint",
-      "description": {
-        "fct-module": "Data.BEncode.Parser",
-        "fct-package": "bencode",
-        "fct-signature": "BParser BEncode -\u003e BParser Integer",
-        "fct-source": "src/Data-BEncode-Parser.html#bint",
-        "fct-type": "function",
-        "title": "bint"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data BEncode Parser",
-        "module": "Data.BEncode.Parser",
-        "name": "bint",
-        "normalized": "BParser BEncode-\u003eBParser Integer",
-        "package": "bencode",
-        "partial": "",
-        "signature": "BParser BEncode-\u003eBParser Integer"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Parser.html#v:bstring",
-      "description": {
-        "fct-module": "Data.BEncode.Parser",
-        "fct-package": "bencode",
-        "fct-signature": "BParser BEncode -\u003e BParser String",
-        "fct-source": "src/Data-BEncode-Parser.html#bstring",
-        "fct-type": "function",
-        "title": "bstring"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data BEncode Parser",
-        "module": "Data.BEncode.Parser",
-        "name": "bstring",
-        "normalized": "BParser BEncode-\u003eBParser String",
-        "package": "bencode",
-        "partial": "",
-        "signature": "BParser BEncode-\u003eBParser String"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Parser.html#v:dict",
-      "description": {
-        "fct-module": "Data.BEncode.Parser",
-        "fct-package": "bencode",
-        "fct-signature": "String -\u003e BParser BEncode",
-        "fct-source": "src/Data-BEncode-Parser.html#dict",
-        "fct-type": "function",
-        "title": "dict"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data BEncode Parser",
-        "module": "Data.BEncode.Parser",
-        "name": "dict",
-        "normalized": "String-\u003eBParser BEncode",
-        "package": "bencode",
-        "partial": "",
-        "signature": "String-\u003eBParser BEncode"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Parser.html#v:list",
-      "description": {
-        "fct-module": "Data.BEncode.Parser",
-        "fct-package": "bencode",
-        "fct-signature": "String -\u003e BParser a -\u003e BParser [a]",
-        "fct-source": "src/Data-BEncode-Parser.html#list",
-        "fct-type": "function",
-        "title": "list"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data BEncode Parser",
-        "module": "Data.BEncode.Parser",
-        "name": "list",
-        "normalized": "String-\u003eBParser a-\u003eBParser[a]",
-        "package": "bencode",
-        "partial": "",
-        "signature": "String-\u003eBParser a-\u003eBParser[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Parser.html#v:optional",
-      "description": {
-        "fct-module": "Data.BEncode.Parser",
-        "fct-package": "bencode",
-        "fct-signature": "BParser a -\u003e BParser (Maybe a)",
-        "fct-source": "src/Data-BEncode-Parser.html#optional",
-        "fct-type": "function",
-        "title": "optional"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data BEncode Parser",
-        "module": "Data.BEncode.Parser",
-        "name": "optional",
-        "normalized": "BParser a-\u003eBParser(Maybe a)",
-        "package": "bencode",
-        "partial": "",
-        "signature": "BParser a-\u003eBParser(Maybe a)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Parser.html#v:runParser",
-      "description": {
-        "fct-module": "Data.BEncode.Parser",
-        "fct-package": "bencode",
-        "fct-signature": "BParser a -\u003e BEncode -\u003e Either String a",
-        "fct-source": "src/Data-BEncode-Parser.html#runParser",
-        "fct-type": "function",
-        "title": "runParser"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data BEncode Parser",
-        "module": "Data.BEncode.Parser",
-        "name": "runParser",
-        "normalized": "BParser a-\u003eBEncode-\u003eEither String a",
-        "package": "bencode",
-        "partial": "Parser",
-        "signature": "BParser a-\u003eBEncode-\u003eEither String a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Parser.html#v:setInput",
-      "description": {
-        "fct-module": "Data.BEncode.Parser",
-        "fct-package": "bencode",
-        "fct-signature": "BEncode -\u003e BParser ()",
-        "fct-source": "src/Data-BEncode-Parser.html#setInput",
-        "fct-type": "function",
-        "title": "setInput"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data BEncode Parser",
-        "module": "Data.BEncode.Parser",
-        "name": "setInput",
-        "normalized": "BEncode-\u003eBParser()",
-        "package": "bencode",
-        "partial": "Input",
-        "signature": "BEncode-\u003eBParser()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode-Parser.html#v:token",
-      "description": {
-        "fct-module": "Data.BEncode.Parser",
-        "fct-package": "bencode",
-        "fct-signature": "BParser BEncode",
-        "fct-source": "src/Data-BEncode-Parser.html#token",
-        "fct-type": "function",
-        "title": "token"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data BEncode Parser",
-        "module": "Data.BEncode.Parser",
-        "name": "token",
-        "normalized": "",
-        "package": "bencode",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eProvides a BEncode data type is well as functions for converting this\n data type to and from a String.\n\u003c/p\u003e\u003cp\u003eAlso supplies a number of properties which the module must satisfy.\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Data.BEncode",
-        "fct-package": "bencode",
-        "fct-signature": "module",
-        "fct-source": "src/Data-BEncode.html",
-        "fct-type": "module",
-        "title": "BEncode"
-      },
-      "index": {
-        "description": "Provides BEncode data type is well as functions for converting this data type to and from String Also supplies number of properties which the module must satisfy",
-        "hierarchy": "Data BEncode",
-        "module": "Data.BEncode",
-        "name": "BEncode",
-        "normalized": "",
-        "package": "bencode",
-        "partial": "BEncode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode.html#t:BEncode",
-      "description": {
-        "fct-descr": "\u003cp\u003eThe B-coding defines an abstract syntax tree given as a simple\n     data type here\n\u003c/p\u003e",
-        "fct-module": "Data.BEncode",
-        "fct-package": "bencode",
-        "fct-signature": "data",
-        "fct-source": "src/Data-BEncode.html#BEncode",
-        "fct-type": "data",
-        "title": "BEncode"
-      },
-      "index": {
-        "description": "The B-coding defines an abstract syntax tree given as simple data type here",
-        "hierarchy": "Data BEncode",
-        "module": "Data.BEncode",
-        "name": "BEncode",
-        "normalized": "",
-        "package": "bencode",
-        "partial": "BEncode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode.html#v:BDict",
-      "description": {
-        "fct-module": "Data.BEncode",
-        "fct-package": "bencode",
-        "fct-signature": "BDict (Map String BEncode)",
-        "fct-source": "src/Data-BEncode.html#BEncode",
-        "fct-type": "function",
-        "title": "BDict"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data BEncode",
-        "module": "Data.BEncode",
-        "name": "BDict",
-        "normalized": "",
-        "package": "bencode",
-        "partial": "BDict",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode.html#v:BInt",
-      "description": {
-        "fct-module": "Data.BEncode",
-        "fct-package": "bencode",
-        "fct-signature": "BInt Integer",
-        "fct-source": "src/Data-BEncode.html#BEncode",
-        "fct-type": "function",
-        "title": "BInt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data BEncode",
-        "module": "Data.BEncode",
-        "name": "BInt",
-        "normalized": "",
-        "package": "bencode",
-        "partial": "BInt",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode.html#v:BList",
-      "description": {
-        "fct-module": "Data.BEncode",
-        "fct-package": "bencode",
-        "fct-signature": "BList [BEncode]",
-        "fct-source": "src/Data-BEncode.html#BEncode",
-        "fct-type": "function",
-        "title": "BList"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data BEncode",
-        "module": "Data.BEncode",
-        "name": "BList",
-        "normalized": "BList[BEncode]",
-        "package": "bencode",
-        "partial": "BList",
-        "signature": "BList[BEncode]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode.html#v:BString",
-      "description": {
-        "fct-module": "Data.BEncode",
-        "fct-package": "bencode",
-        "fct-signature": "BString ByteString",
-        "fct-source": "src/Data-BEncode.html#BEncode",
-        "fct-type": "function",
-        "title": "BString"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data BEncode",
-        "module": "Data.BEncode",
-        "name": "BString",
-        "normalized": "",
-        "package": "bencode",
-        "partial": "BString",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode.html#v:bPack",
-      "description": {
-        "fct-module": "Data.BEncode",
-        "fct-package": "bencode",
-        "fct-signature": "BEncode -\u003e ByteString",
-        "fct-source": "src/Data-BEncode.html#bPack",
-        "fct-type": "function",
-        "title": "bPack"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data BEncode",
-        "module": "Data.BEncode",
-        "name": "bPack",
-        "normalized": "BEncode-\u003eByteString",
-        "package": "bencode",
-        "partial": "Pack",
-        "signature": "BEncode-\u003eByteString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode.html#v:bRead",
-      "description": {
-        "fct-descr": "\u003cp\u003ebRead is a conversion routine. It assumes a B-coded string as input\n     and attempts a parse of it into a BEncode data type\n\u003c/p\u003e",
-        "fct-module": "Data.BEncode",
-        "fct-package": "bencode",
-        "fct-signature": "ByteString -\u003e Maybe BEncode",
-        "fct-source": "src/Data-BEncode.html#bRead",
-        "fct-type": "function",
-        "title": "bRead"
-      },
-      "index": {
-        "description": "bRead is conversion routine It assumes B-coded string as input and attempts parse of it into BEncode data type",
-        "hierarchy": "Data BEncode",
-        "module": "Data.BEncode",
-        "name": "bRead",
-        "normalized": "ByteString-\u003eMaybe BEncode",
-        "package": "bencode",
-        "partial": "Read",
-        "signature": "ByteString-\u003eMaybe BEncode"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bencode/docs/Data-BEncode.html#v:bShow",
-      "description": {
-        "fct-descr": "\u003cp\u003eRender a BEncode structure to a B-coded string\n\u003c/p\u003e",
-        "fct-module": "Data.BEncode",
-        "fct-package": "bencode",
-        "fct-signature": "BEncode -\u003e ShowS",
-        "fct-source": "src/Data-BEncode.html#bShow",
-        "fct-type": "function",
-        "title": "bShow"
-      },
-      "index": {
-        "description": "Render BEncode structure to B-coded string",
-        "hierarchy": "Data BEncode",
-        "module": "Data.BEncode",
-        "name": "bShow",
-        "normalized": "BEncode-\u003eShowS",
-        "package": "bencode",
-        "partial": "Show",
-        "signature": "BEncode-\u003eShowS"
-      }
-    }
-  }
+  ]
 ]

@@ -1,2133 +1,1931 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "module",
-        "fct-source": "src/System-Linux-ProcStat.html",
-        "fct-type": "module",
-        "title": "ProcStat"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "ProcStat",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Proc Stat",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#t:Pid",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "type",
-        "fct-source": "src/System-Linux-ProcStat.html#Pid",
-        "fct-type": "type",
-        "title": "Pid"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "Pid",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Pid",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#t:ProcFlag",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "data",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "data",
-        "title": "ProcFlag"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "ProcFlag",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Proc Flag",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#t:ProcInfo",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "data",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "data",
-        "title": "ProcInfo"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "ProcInfo",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Proc Info",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#t:ProcState",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "data",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcState",
-        "fct-type": "data",
-        "title": "ProcState"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "ProcState",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Proc State",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:DiskSleeping",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "DiskSleeping",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcState",
-        "fct-type": "function",
-        "title": "DiskSleeping"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "DiskSleeping",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Disk Sleeping",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:DumpCore",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "DumpCore",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "DumpCore"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "DumpCore",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Dump Core",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:ExitPidDone",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "ExitPidDone",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "ExitPidDone"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "ExitPidDone",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Exit Pid Done",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:Exiting",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Exiting",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "Exiting"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "Exiting",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Exiting",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:ForkNoExec",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "ForkNoExec",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "ForkNoExec"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "ForkNoExec",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Fork No Exec",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:FreezerNoSig",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "FreezerNoSig",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "FreezerNoSig"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "FreezerNoSig",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Freezer No Sig",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:FreezerSkip",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "FreezerSkip",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "FreezerSkip"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "FreezerSkip",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Freezer Skip",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:Freezing",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Freezing",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "Freezing"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "Freezing",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Freezing",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:Frozen",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Frozen",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "Frozen"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "Frozen",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Frozen",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:FsTrans",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "FsTrans",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "FsTrans"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "FsTrans",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Fs Trans",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:KSoftIrqD",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "KSoftIrqD",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "KSoftIrqD"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "KSoftIrqD",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "KSoft Irq",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:KSwapD",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "KSwapD",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "KSwapD"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "KSwapD",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "KSwap",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:KThread",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "KThread",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "KThread"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "KThread",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "KThread",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:LessThrottle",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "LessThrottle",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "LessThrottle"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "LessThrottle",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Less Throttle",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:MceEarly",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "MceEarly",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "MceEarly"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "MceEarly",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Mce Early",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:MceProcess",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "MceProcess",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "MceProcess"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "MceProcess",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Mce Process",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:MemAlloc",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "MemAlloc",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "MemAlloc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "MemAlloc",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Mem Alloc",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:MemPolicy",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "MemPolicy",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "MemPolicy"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "MemPolicy",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Mem Policy",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:MutexTester",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "MutexTester",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "MutexTester"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "MutexTester",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Mutex Tester",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:NoFreeze",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "NoFreeze",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "NoFreeze"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "NoFreeze",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "No Freeze",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:OomOrigin",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "OomOrigin",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "OomOrigin"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "OomOrigin",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Oom Origin",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:Paging",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Paging",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcState",
-        "fct-type": "function",
-        "title": "Paging"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "Paging",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Paging",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:ProcInfo",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "ProcInfo",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "ProcInfo"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "ProcInfo",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Proc Info",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:Randomize",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Randomize",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "Randomize"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "Randomize",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Randomize",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:Running",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Running",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcState",
-        "fct-type": "function",
-        "title": "Running"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "Running",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Running",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:Signaled",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Signaled",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "Signaled"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "Signaled",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Signaled",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:Sleeping",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Sleeping",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcState",
-        "fct-type": "function",
-        "title": "Sleeping"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "Sleeping",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Sleeping",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:SpreadPage",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "SpreadPage",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "SpreadPage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "SpreadPage",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Spread Page",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:SpreadSlab",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "SpreadSlab",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "SpreadSlab"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "SpreadSlab",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Spread Slab",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:Starting",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Starting",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "Starting"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "Starting",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Starting",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:SuperPriv",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "SuperPriv",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "SuperPriv"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "SuperPriv",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Super Priv",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:SwapWrite",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "SwapWrite",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "SwapWrite"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "SwapWrite",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Swap Write",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:ThreadBound",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "ThreadBound",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "ThreadBound"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "ThreadBound",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Thread Bound",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:Traced",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Traced",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcState",
-        "fct-type": "function",
-        "title": "Traced"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "Traced",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Traced",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:UsedMath",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "UsedMath",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "UsedMath"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "UsedMath",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Used Math",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:VCpu",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "VCpu",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "VCpu"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "VCpu",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "VCpu",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:WqWorker",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "WqWorker",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcFlag",
-        "fct-type": "function",
-        "title": "WqWorker"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "WqWorker",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Wq Worker",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:Zombie",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Zombie",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcState",
-        "fct-type": "function",
-        "title": "Zombie"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "Zombie",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Zombie",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procBlkIoTicks",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Word64",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procBlkIoTicks"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procBlkIoTicks",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Blk Io Ticks",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procBlocked",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Word",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procBlocked"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procBlocked",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Blocked",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procCGuestTime",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Int",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procCGuestTime"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procCGuestTime",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "CGuest Time",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procCMajFlt",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Word",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procCMajFlt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procCMajFlt",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "CMaj Flt",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procCMinFlt",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Word",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procCMinFlt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procCMinFlt",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "CMin Flt",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procCNSwap",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Word",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procCNSwap"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procCNSwap",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "CNSwap",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procCSTime",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Int",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procCSTime"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procCSTime",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "CSTime",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procCUTime",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Int",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procCUTime"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procCUTime",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "CUTime",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procCpuNum",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Int",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procCpuNum"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procCpuNum",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Cpu Num",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procEip",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Word",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procEip"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procEip",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Eip",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procEndCode",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Word",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procEndCode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procEndCode",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "End Code",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procEsp",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Word",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procEsp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procEsp",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Esp",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procExitSignal",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Int",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procExitSignal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procExitSignal",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Exit Signal",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procFlags",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "[ProcFlag]",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procFlags"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procFlags",
-        "normalized": "[ProcFlag]",
-        "package": "procstat",
-        "partial": "Flags",
-        "signature": "[ProcFlag]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procGId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Int",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procGId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procGId",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "GId",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procGuestTime",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Word",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procGuestTime"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procGuestTime",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Guest Time",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procMajFlt",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Word",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procMajFlt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procMajFlt",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Maj Flt",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procMinFlt",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Word",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procMinFlt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procMinFlt",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Min Flt",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procNSwap",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Word",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procNSwap"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procNSwap",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "NSwap",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "ByteString",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procName",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procNice",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Int",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procNice"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procNice",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Nice",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procNumThreads",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Int",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procNumThreads"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procNumThreads",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Num Threads",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procPPid",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Int",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procPPid"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procPPid",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "PPid",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procPid",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Pid",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procPid"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procPid",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Pid",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procPolicy",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Word",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procPolicy"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procPolicy",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Policy",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procPriority",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Int",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procPriority"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procPriority",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Priority",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procRss",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Int",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procRss"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procRss",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Rss",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procRssLim",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Word",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procRssLim"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procRssLim",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Rss Lim",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procRtPriority",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Word",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procRtPriority"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procRtPriority",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Rt Priority",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procSId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Int",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procSId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procSId",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "SId",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procSTime",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Word",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procSTime"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procSTime",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "STime",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procSigCatch",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Word",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procSigCatch"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procSigCatch",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Sig Catch",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procSigIgnore",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Word",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procSigIgnore"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procSigIgnore",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Sig Ignore",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procSignal",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Word",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procSignal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procSignal",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Signal",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procStartCode",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Word",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procStartCode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procStartCode",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Start Code",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procStartStack",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Word",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procStartStack"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procStartStack",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Start Stack",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procStartTime",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Word64",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procStartTime"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procStartTime",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Start Time",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procStat",
-      "description": {
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Pid -\u003e IO (Maybe ProcInfo)",
-        "fct-source": "src/System-Linux-ProcStat.html#procStat",
-        "fct-type": "function",
-        "title": "procStat"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procStat",
-        "normalized": "Pid-\u003eIO(Maybe ProcInfo)",
-        "package": "procstat",
-        "partial": "Stat",
-        "signature": "Pid-\u003eIO(Maybe ProcInfo)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procState",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "ProcState",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procState"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procState",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "State",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procTty",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Int",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procTty"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procTty",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Tty",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procTtyGid",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Int",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procTtyGid"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procTtyGid",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "Tty Gid",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procUTime",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Word",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procUTime"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procUTime",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "UTime",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procVSize",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Word",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procVSize"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procVSize",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "VSize",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procWChan",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Linux.ProcStat",
-        "fct-package": "procstat",
-        "fct-signature": "Word",
-        "fct-source": "src/System-Linux-ProcStat.html#ProcInfo",
-        "fct-type": "function",
-        "title": "procWChan"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Linux ProcStat",
-        "module": "System.Linux.ProcStat",
-        "name": "procWChan",
-        "normalized": "",
-        "package": "procstat",
-        "partial": "WChan",
-        "signature": ""
-      }
-    }
-  }
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "procstat"
+      },
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "ProcStat",
+          "package": "procstat",
+          "source": "src/System-Linux-ProcStat.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "ProcStat",
+          "package": "procstat",
+          "partial": "Proc Stat",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "Pid",
+          "package": "procstat",
+          "source": "src/System-Linux-ProcStat.html#Pid",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "Pid",
+          "package": "procstat",
+          "partial": "Pid",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#t:Pid"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "ProcFlag",
+          "package": "procstat",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "ProcFlag",
+          "package": "procstat",
+          "partial": "Proc Flag",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#t:ProcFlag"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "ProcInfo",
+          "package": "procstat",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "ProcInfo",
+          "package": "procstat",
+          "partial": "Proc Info",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#t:ProcInfo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "ProcState",
+          "package": "procstat",
+          "source": "src/System-Linux-ProcStat.html#ProcState",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "ProcState",
+          "package": "procstat",
+          "partial": "Proc State",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#t:ProcState"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "DiskSleeping",
+          "package": "procstat",
+          "signature": "DiskSleeping",
+          "source": "src/System-Linux-ProcStat.html#ProcState",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "DiskSleeping",
+          "package": "procstat",
+          "partial": "Disk Sleeping",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:DiskSleeping"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "DumpCore",
+          "package": "procstat",
+          "signature": "DumpCore",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "DumpCore",
+          "package": "procstat",
+          "partial": "Dump Core",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:DumpCore"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "ExitPidDone",
+          "package": "procstat",
+          "signature": "ExitPidDone",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "ExitPidDone",
+          "package": "procstat",
+          "partial": "Exit Pid Done",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:ExitPidDone"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "Exiting",
+          "package": "procstat",
+          "signature": "Exiting",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "Exiting",
+          "package": "procstat",
+          "partial": "Exiting",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:Exiting"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "ForkNoExec",
+          "package": "procstat",
+          "signature": "ForkNoExec",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "ForkNoExec",
+          "package": "procstat",
+          "partial": "Fork No Exec",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:ForkNoExec"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "FreezerNoSig",
+          "package": "procstat",
+          "signature": "FreezerNoSig",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "FreezerNoSig",
+          "package": "procstat",
+          "partial": "Freezer No Sig",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:FreezerNoSig"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "FreezerSkip",
+          "package": "procstat",
+          "signature": "FreezerSkip",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "FreezerSkip",
+          "package": "procstat",
+          "partial": "Freezer Skip",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:FreezerSkip"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "Freezing",
+          "package": "procstat",
+          "signature": "Freezing",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "Freezing",
+          "package": "procstat",
+          "partial": "Freezing",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:Freezing"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "Frozen",
+          "package": "procstat",
+          "signature": "Frozen",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "Frozen",
+          "package": "procstat",
+          "partial": "Frozen",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:Frozen"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "FsTrans",
+          "package": "procstat",
+          "signature": "FsTrans",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "FsTrans",
+          "package": "procstat",
+          "partial": "Fs Trans",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:FsTrans"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "KSoftIrqD",
+          "package": "procstat",
+          "signature": "KSoftIrqD",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "KSoftIrqD",
+          "package": "procstat",
+          "partial": "KSoft Irq",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:KSoftIrqD"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "KSwapD",
+          "package": "procstat",
+          "signature": "KSwapD",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "KSwapD",
+          "package": "procstat",
+          "partial": "KSwap",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:KSwapD"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "KThread",
+          "package": "procstat",
+          "signature": "KThread",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "KThread",
+          "package": "procstat",
+          "partial": "KThread",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:KThread"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "LessThrottle",
+          "package": "procstat",
+          "signature": "LessThrottle",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "LessThrottle",
+          "package": "procstat",
+          "partial": "Less Throttle",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:LessThrottle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "MceEarly",
+          "package": "procstat",
+          "signature": "MceEarly",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "MceEarly",
+          "package": "procstat",
+          "partial": "Mce Early",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:MceEarly"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "MceProcess",
+          "package": "procstat",
+          "signature": "MceProcess",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "MceProcess",
+          "package": "procstat",
+          "partial": "Mce Process",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:MceProcess"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "MemAlloc",
+          "package": "procstat",
+          "signature": "MemAlloc",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "MemAlloc",
+          "package": "procstat",
+          "partial": "Mem Alloc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:MemAlloc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "MemPolicy",
+          "package": "procstat",
+          "signature": "MemPolicy",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "MemPolicy",
+          "package": "procstat",
+          "partial": "Mem Policy",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:MemPolicy"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "MutexTester",
+          "package": "procstat",
+          "signature": "MutexTester",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "MutexTester",
+          "package": "procstat",
+          "partial": "Mutex Tester",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:MutexTester"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "NoFreeze",
+          "package": "procstat",
+          "signature": "NoFreeze",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "NoFreeze",
+          "package": "procstat",
+          "partial": "No Freeze",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:NoFreeze"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "OomOrigin",
+          "package": "procstat",
+          "signature": "OomOrigin",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "OomOrigin",
+          "package": "procstat",
+          "partial": "Oom Origin",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:OomOrigin"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "Paging",
+          "package": "procstat",
+          "signature": "Paging",
+          "source": "src/System-Linux-ProcStat.html#ProcState",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "Paging",
+          "package": "procstat",
+          "partial": "Paging",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:Paging"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "ProcInfo",
+          "package": "procstat",
+          "signature": "ProcInfo",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "ProcInfo",
+          "package": "procstat",
+          "partial": "Proc Info",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:ProcInfo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "Randomize",
+          "package": "procstat",
+          "signature": "Randomize",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "Randomize",
+          "package": "procstat",
+          "partial": "Randomize",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:Randomize"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "Running",
+          "package": "procstat",
+          "signature": "Running",
+          "source": "src/System-Linux-ProcStat.html#ProcState",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "Running",
+          "package": "procstat",
+          "partial": "Running",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:Running"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "Signaled",
+          "package": "procstat",
+          "signature": "Signaled",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "Signaled",
+          "package": "procstat",
+          "partial": "Signaled",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:Signaled"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "Sleeping",
+          "package": "procstat",
+          "signature": "Sleeping",
+          "source": "src/System-Linux-ProcStat.html#ProcState",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "Sleeping",
+          "package": "procstat",
+          "partial": "Sleeping",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:Sleeping"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "SpreadPage",
+          "package": "procstat",
+          "signature": "SpreadPage",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "SpreadPage",
+          "package": "procstat",
+          "partial": "Spread Page",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:SpreadPage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "SpreadSlab",
+          "package": "procstat",
+          "signature": "SpreadSlab",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "SpreadSlab",
+          "package": "procstat",
+          "partial": "Spread Slab",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:SpreadSlab"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "Starting",
+          "package": "procstat",
+          "signature": "Starting",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "Starting",
+          "package": "procstat",
+          "partial": "Starting",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:Starting"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "SuperPriv",
+          "package": "procstat",
+          "signature": "SuperPriv",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "SuperPriv",
+          "package": "procstat",
+          "partial": "Super Priv",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:SuperPriv"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "SwapWrite",
+          "package": "procstat",
+          "signature": "SwapWrite",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "SwapWrite",
+          "package": "procstat",
+          "partial": "Swap Write",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:SwapWrite"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "ThreadBound",
+          "package": "procstat",
+          "signature": "ThreadBound",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "ThreadBound",
+          "package": "procstat",
+          "partial": "Thread Bound",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:ThreadBound"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "Traced",
+          "package": "procstat",
+          "signature": "Traced",
+          "source": "src/System-Linux-ProcStat.html#ProcState",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "Traced",
+          "package": "procstat",
+          "partial": "Traced",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:Traced"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "UsedMath",
+          "package": "procstat",
+          "signature": "UsedMath",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "UsedMath",
+          "package": "procstat",
+          "partial": "Used Math",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:UsedMath"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "VCpu",
+          "package": "procstat",
+          "signature": "VCpu",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "VCpu",
+          "package": "procstat",
+          "partial": "VCpu",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:VCpu"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "WqWorker",
+          "package": "procstat",
+          "signature": "WqWorker",
+          "source": "src/System-Linux-ProcStat.html#ProcFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "WqWorker",
+          "package": "procstat",
+          "partial": "Wq Worker",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:WqWorker"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "Zombie",
+          "package": "procstat",
+          "signature": "Zombie",
+          "source": "src/System-Linux-ProcStat.html#ProcState",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "Zombie",
+          "package": "procstat",
+          "partial": "Zombie",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:Zombie"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procBlkIoTicks",
+          "package": "procstat",
+          "signature": "Word64",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procBlkIoTicks",
+          "package": "procstat",
+          "partial": "Blk Io Ticks",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procBlkIoTicks"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procBlocked",
+          "package": "procstat",
+          "signature": "Word",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procBlocked",
+          "package": "procstat",
+          "partial": "Blocked",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procBlocked"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procCGuestTime",
+          "package": "procstat",
+          "signature": "Int",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procCGuestTime",
+          "package": "procstat",
+          "partial": "CGuest Time",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procCGuestTime"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procCMajFlt",
+          "package": "procstat",
+          "signature": "Word",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procCMajFlt",
+          "package": "procstat",
+          "partial": "CMaj Flt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procCMajFlt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procCMinFlt",
+          "package": "procstat",
+          "signature": "Word",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procCMinFlt",
+          "package": "procstat",
+          "partial": "CMin Flt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procCMinFlt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procCNSwap",
+          "package": "procstat",
+          "signature": "Word",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procCNSwap",
+          "package": "procstat",
+          "partial": "CNSwap",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procCNSwap"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procCSTime",
+          "package": "procstat",
+          "signature": "Int",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procCSTime",
+          "package": "procstat",
+          "partial": "CSTime",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procCSTime"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procCUTime",
+          "package": "procstat",
+          "signature": "Int",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procCUTime",
+          "package": "procstat",
+          "partial": "CUTime",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procCUTime"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procCpuNum",
+          "package": "procstat",
+          "signature": "Int",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procCpuNum",
+          "package": "procstat",
+          "partial": "Cpu Num",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procCpuNum"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procEip",
+          "package": "procstat",
+          "signature": "Word",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procEip",
+          "package": "procstat",
+          "partial": "Eip",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procEip"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procEndCode",
+          "package": "procstat",
+          "signature": "Word",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procEndCode",
+          "package": "procstat",
+          "partial": "End Code",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procEndCode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procEsp",
+          "package": "procstat",
+          "signature": "Word",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procEsp",
+          "package": "procstat",
+          "partial": "Esp",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procEsp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procExitSignal",
+          "package": "procstat",
+          "signature": "Int",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procExitSignal",
+          "package": "procstat",
+          "partial": "Exit Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procExitSignal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procFlags",
+          "package": "procstat",
+          "signature": "[ProcFlag]",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procFlags",
+          "normalized": "[ProcFlag]",
+          "package": "procstat",
+          "partial": "Flags",
+          "signature": "[ProcFlag]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procFlags"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procGId",
+          "package": "procstat",
+          "signature": "Int",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procGId",
+          "package": "procstat",
+          "partial": "GId",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procGId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procGuestTime",
+          "package": "procstat",
+          "signature": "Word",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procGuestTime",
+          "package": "procstat",
+          "partial": "Guest Time",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procGuestTime"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procMajFlt",
+          "package": "procstat",
+          "signature": "Word",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procMajFlt",
+          "package": "procstat",
+          "partial": "Maj Flt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procMajFlt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procMinFlt",
+          "package": "procstat",
+          "signature": "Word",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procMinFlt",
+          "package": "procstat",
+          "partial": "Min Flt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procMinFlt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procNSwap",
+          "package": "procstat",
+          "signature": "Word",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procNSwap",
+          "package": "procstat",
+          "partial": "NSwap",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procNSwap"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procName",
+          "package": "procstat",
+          "signature": "ByteString",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procName",
+          "package": "procstat",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procNice",
+          "package": "procstat",
+          "signature": "Int",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procNice",
+          "package": "procstat",
+          "partial": "Nice",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procNice"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procNumThreads",
+          "package": "procstat",
+          "signature": "Int",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procNumThreads",
+          "package": "procstat",
+          "partial": "Num Threads",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procNumThreads"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procPPid",
+          "package": "procstat",
+          "signature": "Int",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procPPid",
+          "package": "procstat",
+          "partial": "PPid",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procPPid"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procPid",
+          "package": "procstat",
+          "signature": "Pid",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procPid",
+          "package": "procstat",
+          "partial": "Pid",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procPid"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procPolicy",
+          "package": "procstat",
+          "signature": "Word",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procPolicy",
+          "package": "procstat",
+          "partial": "Policy",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procPolicy"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procPriority",
+          "package": "procstat",
+          "signature": "Int",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procPriority",
+          "package": "procstat",
+          "partial": "Priority",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procPriority"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procRss",
+          "package": "procstat",
+          "signature": "Int",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procRss",
+          "package": "procstat",
+          "partial": "Rss",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procRss"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procRssLim",
+          "package": "procstat",
+          "signature": "Word",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procRssLim",
+          "package": "procstat",
+          "partial": "Rss Lim",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procRssLim"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procRtPriority",
+          "package": "procstat",
+          "signature": "Word",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procRtPriority",
+          "package": "procstat",
+          "partial": "Rt Priority",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procRtPriority"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procSId",
+          "package": "procstat",
+          "signature": "Int",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procSId",
+          "package": "procstat",
+          "partial": "SId",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procSId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procSTime",
+          "package": "procstat",
+          "signature": "Word",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procSTime",
+          "package": "procstat",
+          "partial": "STime",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procSTime"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procSigCatch",
+          "package": "procstat",
+          "signature": "Word",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procSigCatch",
+          "package": "procstat",
+          "partial": "Sig Catch",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procSigCatch"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procSigIgnore",
+          "package": "procstat",
+          "signature": "Word",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procSigIgnore",
+          "package": "procstat",
+          "partial": "Sig Ignore",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procSigIgnore"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procSignal",
+          "package": "procstat",
+          "signature": "Word",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procSignal",
+          "package": "procstat",
+          "partial": "Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procSignal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procStartCode",
+          "package": "procstat",
+          "signature": "Word",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procStartCode",
+          "package": "procstat",
+          "partial": "Start Code",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procStartCode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procStartStack",
+          "package": "procstat",
+          "signature": "Word",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procStartStack",
+          "package": "procstat",
+          "partial": "Start Stack",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procStartStack"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procStartTime",
+          "package": "procstat",
+          "signature": "Word64",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procStartTime",
+          "package": "procstat",
+          "partial": "Start Time",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procStartTime"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procStat",
+          "package": "procstat",
+          "signature": "Pid -\u003e IO (Maybe ProcInfo)",
+          "source": "src/System-Linux-ProcStat.html#procStat",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procStat",
+          "normalized": "Pid-\u003eIO(Maybe ProcInfo)",
+          "package": "procstat",
+          "partial": "Stat",
+          "signature": "Pid-\u003eIO(Maybe ProcInfo)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procStat"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procState",
+          "package": "procstat",
+          "signature": "ProcState",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procState",
+          "package": "procstat",
+          "partial": "State",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procState"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procTty",
+          "package": "procstat",
+          "signature": "Int",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procTty",
+          "package": "procstat",
+          "partial": "Tty",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procTty"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procTtyGid",
+          "package": "procstat",
+          "signature": "Int",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procTtyGid",
+          "package": "procstat",
+          "partial": "Tty Gid",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procTtyGid"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procUTime",
+          "package": "procstat",
+          "signature": "Word",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procUTime",
+          "package": "procstat",
+          "partial": "UTime",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procUTime"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procVSize",
+          "package": "procstat",
+          "signature": "Word",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procVSize",
+          "package": "procstat",
+          "partial": "VSize",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procVSize"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Linux.ProcStat",
+          "name": "procWChan",
+          "package": "procstat",
+          "signature": "Word",
+          "source": "src/System-Linux-ProcStat.html#ProcInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Linux ProcStat",
+          "module": "System.Linux.ProcStat",
+          "name": "procWChan",
+          "package": "procstat",
+          "partial": "WChan",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/procstat/docs/System-Linux-ProcStat.html#v:procWChan"
+      }
+    }
+  ]
 ]

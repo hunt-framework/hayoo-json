@@ -1,74 +1,85 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porter/docs/Language-Porter.html#",
-      "description": {
-        "fct-module": "Language.Porter",
-        "fct-package": "porter",
-        "fct-signature": "module",
-        "fct-source": "src/Language-Porter.html",
-        "fct-type": "module",
-        "title": "Porter"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "porter"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Porter",
-        "module": "Language.Porter",
-        "name": "Porter",
-        "normalized": "",
-        "package": "porter",
-        "partial": "Porter",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porter/docs/Language-Porter.html#v:fixstem",
-      "description": {
-        "fct-module": "Language.Porter",
-        "fct-package": "porter",
-        "fct-signature": "[Char] -\u003e [Char]",
-        "fct-source": "src/Language-Porter.html#fixstem",
-        "fct-type": "function",
-        "title": "fixstem"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Porter",
-        "module": "Language.Porter",
-        "name": "fixstem",
-        "normalized": "[Char]-\u003e[Char]",
-        "package": "porter",
-        "partial": "",
-        "signature": "[Char]-\u003e[Char]"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Porter",
+          "name": "Porter",
+          "package": "porter",
+          "source": "src/Language-Porter.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language Porter",
+          "module": "Language.Porter",
+          "name": "Porter",
+          "package": "porter",
+          "partial": "Porter",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/porter/docs/Language-Porter.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Porter",
+          "name": "fixstem",
+          "package": "porter",
+          "signature": "[Char] -\u003e [Char]",
+          "source": "src/Language-Porter.html#fixstem",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Porter",
+          "module": "Language.Porter",
+          "name": "fixstem",
+          "normalized": "[Char]-\u003e[Char]",
+          "package": "porter",
+          "signature": "[Char]-\u003e[Char]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/porter/docs/Language-Porter.html#v:fixstem"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Porter",
+          "name": "stem",
+          "package": "porter",
+          "signature": "[Char] -\u003e [Char]",
+          "source": "src/Language-Porter.html#stem",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Porter",
+          "module": "Language.Porter",
+          "name": "stem",
+          "normalized": "[Char]-\u003e[Char]",
+          "package": "porter",
+          "signature": "[Char]-\u003e[Char]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/porter/docs/Language-Porter.html#v:stem"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porter/docs/Language-Porter.html#v:stem",
-      "description": {
-        "fct-module": "Language.Porter",
-        "fct-package": "porter",
-        "fct-signature": "[Char] -\u003e [Char]",
-        "fct-source": "src/Language-Porter.html#stem",
-        "fct-type": "function",
-        "title": "stem"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Porter",
-        "module": "Language.Porter",
-        "name": "stem",
-        "normalized": "[Char]-\u003e[Char]",
-        "package": "porter",
-        "partial": "",
-        "signature": "[Char]-\u003e[Char]"
-      }
-    }
-  }
+  ]
 ]

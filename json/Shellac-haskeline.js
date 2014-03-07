@@ -1,74 +1,82 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Shellac-haskeline/docs/System-Console-Shell-Backend-Haskeline.html#",
-      "description": {
-        "fct-module": "System.Console.Shell.Backend.Haskeline",
-        "fct-package": "Shellac-haskeline",
-        "fct-signature": "module",
-        "fct-source": "src/System-Console-Shell-Backend-Haskeline.html",
-        "fct-type": "module",
-        "title": "Haskeline"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "Shellac-haskeline"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "System Console Shell Backend Haskeline",
-        "module": "System.Console.Shell.Backend.Haskeline",
-        "name": "Haskeline",
-        "normalized": "",
-        "package": "Shellac-haskeline",
-        "partial": "Haskeline",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Shellac-haskeline/docs/System-Console-Shell-Backend-Haskeline.html#t:ShellacState",
-      "description": {
-        "fct-module": "System.Console.Shell.Backend.Haskeline",
-        "fct-package": "Shellac-haskeline",
-        "fct-signature": "data",
-        "fct-source": "src/System-Console-Shell-Backend-Haskeline.html#ShellacState",
-        "fct-type": "data",
-        "title": "ShellacState"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Console Shell Backend Haskeline",
-        "module": "System.Console.Shell.Backend.Haskeline",
-        "name": "ShellacState",
-        "normalized": "",
-        "package": "Shellac-haskeline",
-        "partial": "Shellac State",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Console.Shell.Backend.Haskeline",
+          "name": "Haskeline",
+          "package": "Shellac-haskeline",
+          "source": "src/System-Console-Shell-Backend-Haskeline.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "System Console Shell Backend Haskeline",
+          "module": "System.Console.Shell.Backend.Haskeline",
+          "name": "Haskeline",
+          "package": "Shellac-haskeline",
+          "partial": "Haskeline",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/Shellac-haskeline/docs/System-Console-Shell-Backend-Haskeline.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Console.Shell.Backend.Haskeline",
+          "name": "ShellacState",
+          "package": "Shellac-haskeline",
+          "source": "src/System-Console-Shell-Backend-Haskeline.html#ShellacState",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "System Console Shell Backend Haskeline",
+          "module": "System.Console.Shell.Backend.Haskeline",
+          "name": "ShellacState",
+          "package": "Shellac-haskeline",
+          "partial": "Shellac State",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Shellac-haskeline/docs/System-Console-Shell-Backend-Haskeline.html#t:ShellacState"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Console.Shell.Backend.Haskeline",
+          "name": "haskelineBackend",
+          "package": "Shellac-haskeline",
+          "signature": "ShellBackend ShellacState",
+          "source": "src/System-Console-Shell-Backend-Haskeline.html#haskelineBackend",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Console Shell Backend Haskeline",
+          "module": "System.Console.Shell.Backend.Haskeline",
+          "name": "haskelineBackend",
+          "package": "Shellac-haskeline",
+          "partial": "Backend",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Shellac-haskeline/docs/System-Console-Shell-Backend-Haskeline.html#v:haskelineBackend"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Shellac-haskeline/docs/System-Console-Shell-Backend-Haskeline.html#v:haskelineBackend",
-      "description": {
-        "fct-module": "System.Console.Shell.Backend.Haskeline",
-        "fct-package": "Shellac-haskeline",
-        "fct-signature": "ShellBackend ShellacState",
-        "fct-source": "src/System-Console-Shell-Backend-Haskeline.html#haskelineBackend",
-        "fct-type": "function",
-        "title": "haskelineBackend"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Console Shell Backend Haskeline",
-        "module": "System.Console.Shell.Backend.Haskeline",
-        "name": "haskelineBackend",
-        "normalized": "",
-        "package": "Shellac-haskeline",
-        "partial": "Backend",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

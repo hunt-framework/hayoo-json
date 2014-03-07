@@ -1,2433 +1,2262 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Class.html#",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Class",
-        "fct-package": "lin-alg",
-        "fct-signature": "module",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Class.html",
-        "fct-type": "module",
-        "title": "Class"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Class",
-        "module": "Numeric.LinearAlgebra.Matrix.Class",
-        "name": "Class",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "Class",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Class.html#t:Matrix",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Class",
-        "fct-package": "lin-alg",
-        "fct-signature": "class",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Class.html#Matrix",
-        "fct-type": "class",
-        "title": "Matrix"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Class",
-        "module": "Numeric.LinearAlgebra.Matrix.Class",
-        "name": "Matrix",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "Matrix",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Class.html#v:.-43-.",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Class",
-        "fct-package": "lin-alg",
-        "fct-signature": "m k -\u003e m k -\u003e m k",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Class.html#.%2B.",
-        "fct-type": "function",
-        "title": "(.+.)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Class",
-        "module": "Numeric.LinearAlgebra.Matrix.Class",
-        "name": "(.+.) .+.",
-        "normalized": "a b-\u003ea b-\u003ea b",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": "m k-\u003em k-\u003em k"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Class.html#v:.-45-.",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Class",
-        "fct-package": "lin-alg",
-        "fct-signature": "m k -\u003e m k -\u003e m k",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Class.html#.-.",
-        "fct-type": "function",
-        "title": "(.-.)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Class",
-        "module": "Numeric.LinearAlgebra.Matrix.Class",
-        "name": "(.-.) .-.",
-        "normalized": "a b-\u003ea b-\u003ea b",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": "m k-\u003em k-\u003em k"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Class.html#v:det",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Class",
-        "fct-package": "lin-alg",
-        "fct-signature": "m a -\u003e a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Class.html#det",
-        "fct-type": "method",
-        "title": "det"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Class",
-        "module": "Numeric.LinearAlgebra.Matrix.Class",
-        "name": "det",
-        "normalized": "a b-\u003eb",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": "m a-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Class.html#v:mApply",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Class",
-        "fct-package": "lin-alg",
-        "fct-signature": "f (a -\u003e b) -\u003e a -\u003e f b",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Class.html#mApply",
-        "fct-type": "function",
-        "title": "mApply"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Class",
-        "module": "Numeric.LinearAlgebra.Matrix.Class",
-        "name": "mApply",
-        "normalized": "a(b-\u003ec)-\u003eb-\u003ea c",
-        "package": "lin-alg",
-        "partial": "Apply",
-        "signature": "f(a-\u003eb)-\u003ea-\u003ef b"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Class.html#v:mDim",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Class",
-        "fct-package": "lin-alg",
-        "fct-signature": "m a -\u003e Int",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Class.html#mDim",
-        "fct-type": "method",
-        "title": "mDim"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Class",
-        "module": "Numeric.LinearAlgebra.Matrix.Class",
-        "name": "mDim",
-        "normalized": "a b-\u003eInt",
-        "package": "lin-alg",
-        "partial": "Dim",
-        "signature": "m a-\u003eInt"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Class.html#v:mElement",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Class",
-        "fct-package": "lin-alg",
-        "fct-signature": "m a -\u003e Int -\u003e Int -\u003e a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Class.html#mElement",
-        "fct-type": "method",
-        "title": "mElement"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Class",
-        "module": "Numeric.LinearAlgebra.Matrix.Class",
-        "name": "mElement",
-        "normalized": "a b-\u003eInt-\u003eInt-\u003eb",
-        "package": "lin-alg",
-        "partial": "Element",
-        "signature": "m a-\u003eInt-\u003eInt-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Class.html#v:mFold",
-      "description": {
-        "fct-descr": "\u003cp\u003emFold is foldl1'\n\u003c/p\u003e",
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Class",
-        "fct-package": "lin-alg",
-        "fct-signature": "(a -\u003e a -\u003e a) -\u003e m a -\u003e a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Class.html#mFold",
-        "fct-type": "method",
-        "title": "mFold"
-      },
-      "index": {
-        "description": "mFold is foldl1",
-        "hierarchy": "Numeric LinearAlgebra Matrix Class",
-        "module": "Numeric.LinearAlgebra.Matrix.Class",
-        "name": "mFold",
-        "normalized": "(a-\u003ea-\u003ea)-\u003eb a-\u003ea",
-        "package": "lin-alg",
-        "partial": "Fold",
-        "signature": "(a-\u003ea-\u003ea)-\u003em a-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Class.html#v:mIndexOf",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Class",
-        "fct-package": "lin-alg",
-        "fct-signature": "(a -\u003e a -\u003e Bool) -\u003e m a -\u003e (Int, Int)",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Class.html#mIndexOf",
-        "fct-type": "method",
-        "title": "mIndexOf"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Class",
-        "module": "Numeric.LinearAlgebra.Matrix.Class",
-        "name": "mIndexOf",
-        "normalized": "(a-\u003ea-\u003eBool)-\u003eb a-\u003e(Int,Int)",
-        "package": "lin-alg",
-        "partial": "Index Of",
-        "signature": "(a-\u003ea-\u003eBool)-\u003em a-\u003e(Int,Int)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Class.html#v:mZip",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Class",
-        "fct-package": "lin-alg",
-        "fct-signature": "(a -\u003e b -\u003e c) -\u003e m a -\u003e m b -\u003e m c",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Class.html#mZip",
-        "fct-type": "method",
-        "title": "mZip"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Class",
-        "module": "Numeric.LinearAlgebra.Matrix.Class",
-        "name": "mZip",
-        "normalized": "(a-\u003eb-\u003ec)-\u003ed a-\u003ed b-\u003ed c",
-        "package": "lin-alg",
-        "partial": "Zip",
-        "signature": "(a-\u003eb-\u003ec)-\u003em a-\u003em b-\u003em c"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat33.html#",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat33",
-        "fct-package": "lin-alg",
-        "fct-signature": "module",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat33.html",
-        "fct-type": "module",
-        "title": "Mat33"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat33",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat33",
-        "name": "Mat33",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "Mat",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat33.html#t:Mat33",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat33",
-        "fct-package": "lin-alg",
-        "fct-signature": "data",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat33.html#Mat33",
-        "fct-type": "data",
-        "title": "Mat33"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat33",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat33",
-        "name": "Mat33",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "Mat",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat33.html#v:Mat33",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat33",
-        "fct-package": "lin-alg",
-        "fct-signature": "Mat33",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat33.html#Mat33",
-        "fct-type": "function",
-        "title": "Mat33"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat33",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat33",
-        "name": "Mat33",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "Mat",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat33.html#v:det33",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat33",
-        "fct-package": "lin-alg",
-        "fct-signature": "a -\u003e a -\u003e a -\u003e a -\u003e a -\u003e a -\u003e a -\u003e a -\u003e a -\u003e a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat33.html#det33",
-        "fct-type": "function",
-        "title": "det33"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat33",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat33",
-        "name": "det33",
-        "normalized": "a-\u003ea-\u003ea-\u003ea-\u003ea-\u003ea-\u003ea-\u003ea-\u003ea-\u003ea",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": "a-\u003ea-\u003ea-\u003ea-\u003ea-\u003ea-\u003ea-\u003ea-\u003ea-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat33.html#v:m00",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat33",
-        "fct-package": "lin-alg",
-        "fct-signature": "!a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat33.html#Mat33",
-        "fct-type": "function",
-        "title": "m00"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat33",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat33",
-        "name": "m00",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat33.html#v:m01",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat33",
-        "fct-package": "lin-alg",
-        "fct-signature": "!a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat33.html#Mat33",
-        "fct-type": "function",
-        "title": "m01"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat33",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat33",
-        "name": "m01",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat33.html#v:m02",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat33",
-        "fct-package": "lin-alg",
-        "fct-signature": "!a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat33.html#Mat33",
-        "fct-type": "function",
-        "title": "m02"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat33",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat33",
-        "name": "m02",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat33.html#v:m10",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat33",
-        "fct-package": "lin-alg",
-        "fct-signature": "!a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat33.html#Mat33",
-        "fct-type": "function",
-        "title": "m10"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat33",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat33",
-        "name": "m10",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat33.html#v:m11",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat33",
-        "fct-package": "lin-alg",
-        "fct-signature": "!a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat33.html#Mat33",
-        "fct-type": "function",
-        "title": "m11"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat33",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat33",
-        "name": "m11",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat33.html#v:m12",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat33",
-        "fct-package": "lin-alg",
-        "fct-signature": "!a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat33.html#Mat33",
-        "fct-type": "function",
-        "title": "m12"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat33",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat33",
-        "name": "m12",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat33.html#v:m20",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat33",
-        "fct-package": "lin-alg",
-        "fct-signature": "!a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat33.html#Mat33",
-        "fct-type": "function",
-        "title": "m20"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat33",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat33",
-        "name": "m20",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat33.html#v:m21",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat33",
-        "fct-package": "lin-alg",
-        "fct-signature": "!a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat33.html#Mat33",
-        "fct-type": "function",
-        "title": "m21"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat33",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat33",
-        "name": "m21",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat33.html#v:m22",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat33",
-        "fct-package": "lin-alg",
-        "fct-signature": "!a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat33.html#Mat33",
-        "fct-type": "function",
-        "title": "m22"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat33",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat33",
-        "name": "m22",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "fct-package": "lin-alg",
-        "fct-signature": "module",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html",
-        "fct-type": "module",
-        "title": "Mat44"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "name": "Mat44",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "Mat",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#t:Mat44",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "fct-package": "lin-alg",
-        "fct-signature": "data",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
-        "fct-type": "data",
-        "title": "Mat44"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "name": "Mat44",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "Mat",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:Mat44",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "fct-package": "lin-alg",
-        "fct-signature": "Mat44",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
-        "fct-type": "function",
-        "title": "Mat44"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "name": "Mat44",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "Mat",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:det44",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "fct-package": "lin-alg",
-        "fct-signature": "Mat44 a -\u003e a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#det44",
-        "fct-type": "function",
-        "title": "det44"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "name": "det44",
-        "normalized": "Mat a-\u003ea",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": "Mat a-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:inv44",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "fct-package": "lin-alg",
-        "fct-signature": "Mat44 a -\u003e Mat44 a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#inv44",
-        "fct-type": "function",
-        "title": "inv44"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "name": "inv44",
-        "normalized": "Mat a-\u003eMat a",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": "Mat a-\u003eMat a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m00",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "fct-package": "lin-alg",
-        "fct-signature": "!a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
-        "fct-type": "function",
-        "title": "m00"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "name": "m00",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m01",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "fct-package": "lin-alg",
-        "fct-signature": "!a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
-        "fct-type": "function",
-        "title": "m01"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "name": "m01",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m02",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "fct-package": "lin-alg",
-        "fct-signature": "!a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
-        "fct-type": "function",
-        "title": "m02"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "name": "m02",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m03",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "fct-package": "lin-alg",
-        "fct-signature": "!a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
-        "fct-type": "function",
-        "title": "m03"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "name": "m03",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m10",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "fct-package": "lin-alg",
-        "fct-signature": "!a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
-        "fct-type": "function",
-        "title": "m10"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "name": "m10",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m11",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "fct-package": "lin-alg",
-        "fct-signature": "!a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
-        "fct-type": "function",
-        "title": "m11"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "name": "m11",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m12",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "fct-package": "lin-alg",
-        "fct-signature": "!a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
-        "fct-type": "function",
-        "title": "m12"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "name": "m12",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m13",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "fct-package": "lin-alg",
-        "fct-signature": "!a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
-        "fct-type": "function",
-        "title": "m13"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "name": "m13",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m20",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "fct-package": "lin-alg",
-        "fct-signature": "!a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
-        "fct-type": "function",
-        "title": "m20"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "name": "m20",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m21",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "fct-package": "lin-alg",
-        "fct-signature": "!a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
-        "fct-type": "function",
-        "title": "m21"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "name": "m21",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m22",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "fct-package": "lin-alg",
-        "fct-signature": "!a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
-        "fct-type": "function",
-        "title": "m22"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "name": "m22",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m23",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "fct-package": "lin-alg",
-        "fct-signature": "!a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
-        "fct-type": "function",
-        "title": "m23"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "name": "m23",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m30",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "fct-package": "lin-alg",
-        "fct-signature": "!a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
-        "fct-type": "function",
-        "title": "m30"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "name": "m30",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m31",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "fct-package": "lin-alg",
-        "fct-signature": "!a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
-        "fct-type": "function",
-        "title": "m31"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "name": "m31",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m32",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "fct-package": "lin-alg",
-        "fct-signature": "!a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
-        "fct-type": "function",
-        "title": "m32"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "name": "m32",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m33",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "fct-package": "lin-alg",
-        "fct-signature": "!a",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
-        "fct-type": "function",
-        "title": "m33"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
-        "module": "Numeric.LinearAlgebra.Matrix.Mat44",
-        "name": "m33",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix.html#",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Matrix",
-        "fct-package": "lin-alg",
-        "fct-signature": "module",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix.html",
-        "fct-type": "module",
-        "title": "Matrix"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix",
-        "module": "Numeric.LinearAlgebra.Matrix",
-        "name": "Matrix",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "Matrix",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix.html#t:Mat33",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Matrix",
-        "fct-package": "lin-alg",
-        "fct-signature": "data",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat33.html#Mat33",
-        "fct-type": "data",
-        "title": "Mat33"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix",
-        "module": "Numeric.LinearAlgebra.Matrix",
-        "name": "Mat33",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "Mat",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix.html#t:Mat44",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Matrix",
-        "fct-package": "lin-alg",
-        "fct-signature": "data",
-        "fct-source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
-        "fct-type": "data",
-        "title": "Mat44"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Matrix",
-        "module": "Numeric.LinearAlgebra.Matrix",
-        "name": "Mat44",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "Mat",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "fct-package": "lin-alg",
-        "fct-signature": "module",
-        "fct-source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html",
-        "fct-type": "module",
-        "title": "OrthoNormalBasis"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
-        "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "name": "OrthoNormalBasis",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "Ortho Normal Basis",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#t:ONB",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "fct-package": "lin-alg",
-        "fct-signature": "data",
-        "fct-source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html#ONB",
-        "fct-type": "data",
-        "title": "ONB"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
-        "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "name": "ONB",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "ONB",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#v:ONB",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "fct-package": "lin-alg",
-        "fct-signature": "ONB",
-        "fct-source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html#ONB",
-        "fct-type": "function",
-        "title": "ONB"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
-        "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "name": "ONB",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "ONB",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#v:epsilon",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "fct-package": "lin-alg",
-        "fct-signature": "a",
-        "fct-source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html#epsilon",
-        "fct-type": "function",
-        "title": "epsilon"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
-        "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "name": "epsilon",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#v:mkFromU",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "fct-package": "lin-alg",
-        "fct-signature": "Vec3 a -\u003e ONB a",
-        "fct-source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html#mkFromU",
-        "fct-type": "function",
-        "title": "mkFromU"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
-        "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "name": "mkFromU",
-        "normalized": "Vec a-\u003eONB a",
-        "package": "lin-alg",
-        "partial": "From",
-        "signature": "Vec a-\u003eONB a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#v:mkFromUV",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "fct-package": "lin-alg",
-        "fct-signature": "Vec3 a -\u003e Vec3 a -\u003e ONB a",
-        "fct-source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html#mkFromUV",
-        "fct-type": "function",
-        "title": "mkFromUV"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
-        "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "name": "mkFromUV",
-        "normalized": "Vec a-\u003eVec a-\u003eONB a",
-        "package": "lin-alg",
-        "partial": "From UV",
-        "signature": "Vec a-\u003eVec a-\u003eONB a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#v:mkFromUW",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "fct-package": "lin-alg",
-        "fct-signature": "Vec3 a -\u003e Vec3 a -\u003e ONB a",
-        "fct-source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html#mkFromUW",
-        "fct-type": "function",
-        "title": "mkFromUW"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
-        "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "name": "mkFromUW",
-        "normalized": "Vec a-\u003eVec a-\u003eONB a",
-        "package": "lin-alg",
-        "partial": "From UW",
-        "signature": "Vec a-\u003eVec a-\u003eONB a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#v:mkFromV",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "fct-package": "lin-alg",
-        "fct-signature": "Vec3 a -\u003e ONB a",
-        "fct-source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html#mkFromV",
-        "fct-type": "function",
-        "title": "mkFromV"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
-        "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "name": "mkFromV",
-        "normalized": "Vec a-\u003eONB a",
-        "package": "lin-alg",
-        "partial": "From",
-        "signature": "Vec a-\u003eONB a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#v:mkFromVU",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "fct-package": "lin-alg",
-        "fct-signature": "Vec3 a -\u003e Vec3 a -\u003e ONB a",
-        "fct-source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html#mkFromVU",
-        "fct-type": "function",
-        "title": "mkFromVU"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
-        "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "name": "mkFromVU",
-        "normalized": "Vec a-\u003eVec a-\u003eONB a",
-        "package": "lin-alg",
-        "partial": "From VU",
-        "signature": "Vec a-\u003eVec a-\u003eONB a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#v:mkFromVW",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "fct-package": "lin-alg",
-        "fct-signature": "Vec3 a -\u003e Vec3 a -\u003e ONB a",
-        "fct-source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html#mkFromVW",
-        "fct-type": "function",
-        "title": "mkFromVW"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
-        "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "name": "mkFromVW",
-        "normalized": "Vec a-\u003eVec a-\u003eONB a",
-        "package": "lin-alg",
-        "partial": "From VW",
-        "signature": "Vec a-\u003eVec a-\u003eONB a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#v:mkFromW",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "fct-package": "lin-alg",
-        "fct-signature": "Vec3 a -\u003e ONB a",
-        "fct-source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html#mkFromW",
-        "fct-type": "function",
-        "title": "mkFromW"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
-        "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "name": "mkFromW",
-        "normalized": "Vec a-\u003eONB a",
-        "package": "lin-alg",
-        "partial": "From",
-        "signature": "Vec a-\u003eONB a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#v:mkFromWU",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "fct-package": "lin-alg",
-        "fct-signature": "Vec3 a -\u003e Vec3 a -\u003e ONB a",
-        "fct-source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html#mkFromWU",
-        "fct-type": "function",
-        "title": "mkFromWU"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
-        "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "name": "mkFromWU",
-        "normalized": "Vec a-\u003eVec a-\u003eONB a",
-        "package": "lin-alg",
-        "partial": "From WU",
-        "signature": "Vec a-\u003eVec a-\u003eONB a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#v:mkFromWV",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "fct-package": "lin-alg",
-        "fct-signature": "Vec3 a -\u003e Vec3 a -\u003e ONB a",
-        "fct-source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html#mkFromWV",
-        "fct-type": "function",
-        "title": "mkFromWV"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
-        "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "name": "mkFromWV",
-        "normalized": "Vec a-\u003eVec a-\u003eONB a",
-        "package": "lin-alg",
-        "partial": "From WV",
-        "signature": "Vec a-\u003eVec a-\u003eONB a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#v:onbU",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "fct-package": "lin-alg",
-        "fct-signature": "Vec3 a",
-        "fct-source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html#ONB",
-        "fct-type": "function",
-        "title": "onbU"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
-        "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "name": "onbU",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#v:onbV",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "fct-package": "lin-alg",
-        "fct-signature": "Vec3 a",
-        "fct-source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html#ONB",
-        "fct-type": "function",
-        "title": "onbV"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
-        "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "name": "onbV",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#v:onbW",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "fct-package": "lin-alg",
-        "fct-signature": "Vec3 a",
-        "fct-source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html#ONB",
-        "fct-type": "function",
-        "title": "onbW"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
-        "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
-        "name": "onbW",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "module",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html",
-        "fct-type": "module",
-        "title": "Vector"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "Vector",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "Vector",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#t:Vec2",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "data",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#Vec2",
-        "fct-type": "data",
-        "title": "Vec2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "Vec2",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "Vec",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#t:Vec3",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "data",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#Vec3",
-        "fct-type": "data",
-        "title": "Vec3"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "Vec3",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "Vec",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#t:Vec4",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "data",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#Vec4",
-        "fct-type": "data",
-        "title": "Vec4"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "Vec4",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "Vec",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#t:Vector",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "class",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#Vector",
-        "fct-type": "class",
-        "title": "Vector"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "Vector",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "Vector",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:-42--62-",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "a -\u003e v a -\u003e v a",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#%2A%3E",
-        "fct-type": "function",
-        "title": "(*\u003e)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "(*\u003e) *\u003e",
-        "normalized": "a-\u003eb a-\u003eb a",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": "a-\u003ev a-\u003ev a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:-60--37--62-",
-      "description": {
-        "fct-descr": "\u003cp\u003eCross product\n\u003c/p\u003e",
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "Vec3 a -\u003e Vec3 a -\u003e Vec3 a",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#%3C%25%3E",
-        "fct-type": "function",
-        "title": "(\u003c%\u003e)"
-      },
-      "index": {
-        "description": "Cross product",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "(\u003c%\u003e) \u003c%\u003e",
-        "normalized": "Vec a-\u003eVec a-\u003eVec a",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": "Vec a-\u003eVec a-\u003eVec a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:-60--42--62-",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "v a -\u003e v a -\u003e v a",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#%3C%2A%3E",
-        "fct-type": "function",
-        "title": "(\u003c*\u003e)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "(\u003c*\u003e) \u003c*\u003e",
-        "normalized": "a b-\u003ea b-\u003ea b",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": "v a-\u003ev a-\u003ev a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:-60--43--62-",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "v a -\u003e v a -\u003e v a",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#%3C%2B%3E",
-        "fct-type": "function",
-        "title": "(\u003c+\u003e)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "(\u003c+\u003e) \u003c+\u003e",
-        "normalized": "a b-\u003ea b-\u003ea b",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": "v a-\u003ev a-\u003ev a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:-60--45--62-",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "v a -\u003e v a -\u003e v a",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#%3C-%3E",
-        "fct-type": "function",
-        "title": "(\u003c-\u003e)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "(\u003c-\u003e) \u003c-\u003e",
-        "normalized": "a b-\u003ea b-\u003ea b",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": "v a-\u003ev a-\u003ev a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:-60--47-",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "v a -\u003e a -\u003e v a",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#%3C%2F",
-        "fct-type": "function",
-        "title": "(\u003c/)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "(\u003c/) \u003c/",
-        "normalized": "a b-\u003eb-\u003ea b",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": "v a-\u003ea-\u003ev a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:-60--47--62-",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "v a -\u003e v a -\u003e v a",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#%3C%2F%3E",
-        "fct-type": "function",
-        "title": "(\u003c/\u003e)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "(\u003c/\u003e) \u003c/\u003e",
-        "normalized": "a b-\u003ea b-\u003ea b",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": "v a-\u003ev a-\u003ev a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:-60-.-62-",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "v a -\u003e v a -\u003e a",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#%3C.%3E",
-        "fct-type": "function",
-        "title": "(\u003c.\u003e)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "(\u003c.\u003e) \u003c.\u003e",
-        "normalized": "a b-\u003ea b-\u003eb",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": "v a-\u003ev a-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:Vec2",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "Vec2 !a !a",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#Vec2",
-        "fct-type": "function",
-        "title": "Vec2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "Vec2",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "Vec",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:Vec3",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "Vec3 !a !a !a",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#Vec3",
-        "fct-type": "function",
-        "title": "Vec3"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "Vec3",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "Vec",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:Vec4",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "Vec4 !a !a !a !a",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#Vec4",
-        "fct-type": "function",
-        "title": "Vec4"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "Vec4",
-        "normalized": "",
-        "package": "lin-alg",
-        "partial": "Vec",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:len",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "v a -\u003e a",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#len",
-        "fct-type": "function",
-        "title": "len"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "len",
-        "normalized": "a b-\u003eb",
-        "package": "lin-alg",
-        "partial": "",
-        "signature": "v a-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:lenSquared",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "v a -\u003e a",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#lenSquared",
-        "fct-type": "function",
-        "title": "lenSquared"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "lenSquared",
-        "normalized": "a b-\u003eb",
-        "package": "lin-alg",
-        "partial": "Squared",
-        "signature": "v a-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:maxAbsComponent",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "v k -\u003e k",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#maxAbsComponent",
-        "fct-type": "function",
-        "title": "maxAbsComponent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "maxAbsComponent",
-        "normalized": "a b-\u003eb",
-        "package": "lin-alg",
-        "partial": "Abs Component",
-        "signature": "v k-\u003ek"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:maxComponent",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "v k -\u003e k",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#maxComponent",
-        "fct-type": "function",
-        "title": "maxComponent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "maxComponent",
-        "normalized": "a b-\u003eb",
-        "package": "lin-alg",
-        "partial": "Component",
-        "signature": "v k-\u003ek"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:maxVec",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "v k -\u003e v k -\u003e v k",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#maxVec",
-        "fct-type": "function",
-        "title": "maxVec"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "maxVec",
-        "normalized": "a b-\u003ea b-\u003ea b",
-        "package": "lin-alg",
-        "partial": "Vec",
-        "signature": "v k-\u003ev k-\u003ev k"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:minAbsComponent",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "v k -\u003e k",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#minAbsComponent",
-        "fct-type": "function",
-        "title": "minAbsComponent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "minAbsComponent",
-        "normalized": "a b-\u003eb",
-        "package": "lin-alg",
-        "partial": "Abs Component",
-        "signature": "v k-\u003ek"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:minComponent",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "v k -\u003e k",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#minComponent",
-        "fct-type": "function",
-        "title": "minComponent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "minComponent",
-        "normalized": "a b-\u003eb",
-        "package": "lin-alg",
-        "partial": "Component",
-        "signature": "v k-\u003ek"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:minVec",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "v k -\u003e v k -\u003e v k",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#minVec",
-        "fct-type": "function",
-        "title": "minVec"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "minVec",
-        "normalized": "a b-\u003ea b-\u003ea b",
-        "package": "lin-alg",
-        "partial": "Vec",
-        "signature": "v k-\u003ev k-\u003ev k"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:tripleProduct",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "Vec3 a -\u003e Vec3 a -\u003e Vec3 a -\u003e a",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#tripleProduct",
-        "fct-type": "function",
-        "title": "tripleProduct"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "tripleProduct",
-        "normalized": "Vec a-\u003eVec a-\u003eVec a-\u003ea",
-        "package": "lin-alg",
-        "partial": "Product",
-        "signature": "Vec a-\u003eVec a-\u003eVec a-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:unitVector",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "v a -\u003e v a",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#unitVector",
-        "fct-type": "function",
-        "title": "unitVector"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "unitVector",
-        "normalized": "a b-\u003ea b",
-        "package": "lin-alg",
-        "partial": "Vector",
-        "signature": "v a-\u003ev a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:vDim",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "v a -\u003e Int",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#vDim",
-        "fct-type": "method",
-        "title": "vDim"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "vDim",
-        "normalized": "a b-\u003eInt",
-        "package": "lin-alg",
-        "partial": "Dim",
-        "signature": "v a-\u003eInt"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:vElement",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "v a -\u003e Int -\u003e a",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#vElement",
-        "fct-type": "method",
-        "title": "vElement"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "vElement",
-        "normalized": "a b-\u003eInt-\u003eb",
-        "package": "lin-alg",
-        "partial": "Element",
-        "signature": "v a-\u003eInt-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:vFold",
-      "description": {
-        "fct-descr": "\u003cp\u003evFold is foldl1'\n\u003c/p\u003e",
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "(a -\u003e a -\u003e a) -\u003e v a -\u003e a",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#vFold",
-        "fct-type": "method",
-        "title": "vFold"
-      },
-      "index": {
-        "description": "vFold is foldl1",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "vFold",
-        "normalized": "(a-\u003ea-\u003ea)-\u003eb a-\u003ea",
-        "package": "lin-alg",
-        "partial": "Fold",
-        "signature": "(a-\u003ea-\u003ea)-\u003ev a-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:vIndexOf",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "(a -\u003e a -\u003e Bool) -\u003e v a -\u003e Int",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#vIndexOf",
-        "fct-type": "method",
-        "title": "vIndexOf"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "vIndexOf",
-        "normalized": "(a-\u003ea-\u003eBool)-\u003eb a-\u003eInt",
-        "package": "lin-alg",
-        "partial": "Index Of",
-        "signature": "(a-\u003ea-\u003eBool)-\u003ev a-\u003eInt"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:vIndexOfMaxAbsComponent",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "v k -\u003e Int",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#vIndexOfMaxAbsComponent",
-        "fct-type": "function",
-        "title": "vIndexOfMaxAbsComponent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "vIndexOfMaxAbsComponent",
-        "normalized": "a b-\u003eInt",
-        "package": "lin-alg",
-        "partial": "Index Of Max Abs Component",
-        "signature": "v k-\u003eInt"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:vIndexOfMaxComponent",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "v k -\u003e Int",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#vIndexOfMaxComponent",
-        "fct-type": "function",
-        "title": "vIndexOfMaxComponent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "vIndexOfMaxComponent",
-        "normalized": "a b-\u003eInt",
-        "package": "lin-alg",
-        "partial": "Index Of Max Component",
-        "signature": "v k-\u003eInt"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:vIndexOfMinAbsComponent",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "v k -\u003e Int",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#vIndexOfMinAbsComponent",
-        "fct-type": "function",
-        "title": "vIndexOfMinAbsComponent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "vIndexOfMinAbsComponent",
-        "normalized": "a b-\u003eInt",
-        "package": "lin-alg",
-        "partial": "Index Of Min Abs Component",
-        "signature": "v k-\u003eInt"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:vIndexOfMinComponent",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "v k -\u003e Int",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#vIndexOfMinComponent",
-        "fct-type": "function",
-        "title": "vIndexOfMinComponent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "vIndexOfMinComponent",
-        "normalized": "a b-\u003eInt",
-        "package": "lin-alg",
-        "partial": "Index Of Min Component",
-        "signature": "v k-\u003eInt"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:vNegate",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "v a -\u003e v a",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#vNegate",
-        "fct-type": "function",
-        "title": "vNegate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "vNegate",
-        "normalized": "a b-\u003ea b",
-        "package": "lin-alg",
-        "partial": "Negate",
-        "signature": "v a-\u003ev a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:vZip",
-      "description": {
-        "fct-module": "Numeric.LinearAlgebra.Vector",
-        "fct-package": "lin-alg",
-        "fct-signature": "(a -\u003e b -\u003e c) -\u003e v a -\u003e v b -\u003e v c",
-        "fct-source": "src/Numeric-LinearAlgebra-Vector.html#vZip",
-        "fct-type": "method",
-        "title": "vZip"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LinearAlgebra Vector",
-        "module": "Numeric.LinearAlgebra.Vector",
-        "name": "vZip",
-        "normalized": "(a-\u003eb-\u003ec)-\u003ed a-\u003ed b-\u003ed c",
-        "package": "lin-alg",
-        "partial": "Zip",
-        "signature": "(a-\u003eb-\u003ec)-\u003ev a-\u003ev b-\u003ev c"
-      }
-    }
-  }
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "lin-alg"
+      },
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Class",
+          "name": "Class",
+          "package": "lin-alg",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Class.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Class",
+          "module": "Numeric.LinearAlgebra.Matrix.Class",
+          "name": "Class",
+          "package": "lin-alg",
+          "partial": "Class",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Class.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Class",
+          "name": "Matrix",
+          "package": "lin-alg",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Class.html#Matrix",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Class",
+          "module": "Numeric.LinearAlgebra.Matrix.Class",
+          "name": "Matrix",
+          "package": "lin-alg",
+          "partial": "Matrix",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Class.html#t:Matrix"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Class",
+          "name": "(.+.)",
+          "package": "lin-alg",
+          "signature": "m k -\u003e m k -\u003e m k",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Class.html#.%2B.",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Class",
+          "module": "Numeric.LinearAlgebra.Matrix.Class",
+          "name": "(.+.) .+.",
+          "normalized": "a b-\u003ea b-\u003ea b",
+          "package": "lin-alg",
+          "signature": "m k-\u003em k-\u003em k",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Class.html#v:.-43-."
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Class",
+          "name": "(.-.)",
+          "package": "lin-alg",
+          "signature": "m k -\u003e m k -\u003e m k",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Class.html#.-.",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Class",
+          "module": "Numeric.LinearAlgebra.Matrix.Class",
+          "name": "(.-.) .-.",
+          "normalized": "a b-\u003ea b-\u003ea b",
+          "package": "lin-alg",
+          "signature": "m k-\u003em k-\u003em k",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Class.html#v:.-45-."
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Class",
+          "name": "det",
+          "package": "lin-alg",
+          "signature": "m a -\u003e a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Class.html#det",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Class",
+          "module": "Numeric.LinearAlgebra.Matrix.Class",
+          "name": "det",
+          "normalized": "a b-\u003eb",
+          "package": "lin-alg",
+          "signature": "m a-\u003ea",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Class.html#v:det"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Class",
+          "name": "mApply",
+          "package": "lin-alg",
+          "signature": "f (a -\u003e b) -\u003e a -\u003e f b",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Class.html#mApply",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Class",
+          "module": "Numeric.LinearAlgebra.Matrix.Class",
+          "name": "mApply",
+          "normalized": "a(b-\u003ec)-\u003eb-\u003ea c",
+          "package": "lin-alg",
+          "partial": "Apply",
+          "signature": "f(a-\u003eb)-\u003ea-\u003ef b",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Class.html#v:mApply"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Class",
+          "name": "mDim",
+          "package": "lin-alg",
+          "signature": "m a -\u003e Int",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Class.html#mDim",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Class",
+          "module": "Numeric.LinearAlgebra.Matrix.Class",
+          "name": "mDim",
+          "normalized": "a b-\u003eInt",
+          "package": "lin-alg",
+          "partial": "Dim",
+          "signature": "m a-\u003eInt",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Class.html#v:mDim"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Class",
+          "name": "mElement",
+          "package": "lin-alg",
+          "signature": "m a -\u003e Int -\u003e Int -\u003e a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Class.html#mElement",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Class",
+          "module": "Numeric.LinearAlgebra.Matrix.Class",
+          "name": "mElement",
+          "normalized": "a b-\u003eInt-\u003eInt-\u003eb",
+          "package": "lin-alg",
+          "partial": "Element",
+          "signature": "m a-\u003eInt-\u003eInt-\u003ea",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Class.html#v:mElement"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003emFold is foldl1'\n\u003c/p\u003e",
+          "module": "Numeric.LinearAlgebra.Matrix.Class",
+          "name": "mFold",
+          "package": "lin-alg",
+          "signature": "(a -\u003e a -\u003e a) -\u003e m a -\u003e a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Class.html#mFold",
+          "type": "method"
+        },
+        "index": {
+          "description": "mFold is foldl1",
+          "hierarchy": "Numeric LinearAlgebra Matrix Class",
+          "module": "Numeric.LinearAlgebra.Matrix.Class",
+          "name": "mFold",
+          "normalized": "(a-\u003ea-\u003ea)-\u003eb a-\u003ea",
+          "package": "lin-alg",
+          "partial": "Fold",
+          "signature": "(a-\u003ea-\u003ea)-\u003em a-\u003ea",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Class.html#v:mFold"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Class",
+          "name": "mIndexOf",
+          "package": "lin-alg",
+          "signature": "(a -\u003e a -\u003e Bool) -\u003e m a -\u003e (Int, Int)",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Class.html#mIndexOf",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Class",
+          "module": "Numeric.LinearAlgebra.Matrix.Class",
+          "name": "mIndexOf",
+          "normalized": "(a-\u003ea-\u003eBool)-\u003eb a-\u003e(Int,Int)",
+          "package": "lin-alg",
+          "partial": "Index Of",
+          "signature": "(a-\u003ea-\u003eBool)-\u003em a-\u003e(Int,Int)",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Class.html#v:mIndexOf"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Class",
+          "name": "mZip",
+          "package": "lin-alg",
+          "signature": "(a -\u003e b -\u003e c) -\u003e m a -\u003e m b -\u003e m c",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Class.html#mZip",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Class",
+          "module": "Numeric.LinearAlgebra.Matrix.Class",
+          "name": "mZip",
+          "normalized": "(a-\u003eb-\u003ec)-\u003ed a-\u003ed b-\u003ed c",
+          "package": "lin-alg",
+          "partial": "Zip",
+          "signature": "(a-\u003eb-\u003ec)-\u003em a-\u003em b-\u003em c",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Class.html#v:mZip"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat33",
+          "name": "Mat33",
+          "package": "lin-alg",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat33.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat33",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat33",
+          "name": "Mat33",
+          "package": "lin-alg",
+          "partial": "Mat",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat33.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat33",
+          "name": "Mat33",
+          "package": "lin-alg",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat33.html#Mat33",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat33",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat33",
+          "name": "Mat33",
+          "package": "lin-alg",
+          "partial": "Mat",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat33.html#t:Mat33"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat33",
+          "name": "Mat33",
+          "package": "lin-alg",
+          "signature": "Mat33",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat33.html#Mat33",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat33",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat33",
+          "name": "Mat33",
+          "package": "lin-alg",
+          "partial": "Mat",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat33.html#v:Mat33"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat33",
+          "name": "det33",
+          "package": "lin-alg",
+          "signature": "a -\u003e a -\u003e a -\u003e a -\u003e a -\u003e a -\u003e a -\u003e a -\u003e a -\u003e a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat33.html#det33",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat33",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat33",
+          "name": "det33",
+          "normalized": "a-\u003ea-\u003ea-\u003ea-\u003ea-\u003ea-\u003ea-\u003ea-\u003ea-\u003ea",
+          "package": "lin-alg",
+          "signature": "a-\u003ea-\u003ea-\u003ea-\u003ea-\u003ea-\u003ea-\u003ea-\u003ea-\u003ea",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat33.html#v:det33"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat33",
+          "name": "m00",
+          "package": "lin-alg",
+          "signature": "a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat33.html#Mat33",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat33",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat33",
+          "name": "m00",
+          "package": "lin-alg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat33.html#v:m00"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat33",
+          "name": "m01",
+          "package": "lin-alg",
+          "signature": "a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat33.html#Mat33",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat33",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat33",
+          "name": "m01",
+          "package": "lin-alg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat33.html#v:m01"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat33",
+          "name": "m02",
+          "package": "lin-alg",
+          "signature": "a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat33.html#Mat33",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat33",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat33",
+          "name": "m02",
+          "package": "lin-alg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat33.html#v:m02"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat33",
+          "name": "m10",
+          "package": "lin-alg",
+          "signature": "a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat33.html#Mat33",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat33",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat33",
+          "name": "m10",
+          "package": "lin-alg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat33.html#v:m10"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat33",
+          "name": "m11",
+          "package": "lin-alg",
+          "signature": "a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat33.html#Mat33",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat33",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat33",
+          "name": "m11",
+          "package": "lin-alg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat33.html#v:m11"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat33",
+          "name": "m12",
+          "package": "lin-alg",
+          "signature": "a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat33.html#Mat33",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat33",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat33",
+          "name": "m12",
+          "package": "lin-alg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat33.html#v:m12"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat33",
+          "name": "m20",
+          "package": "lin-alg",
+          "signature": "a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat33.html#Mat33",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat33",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat33",
+          "name": "m20",
+          "package": "lin-alg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat33.html#v:m20"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat33",
+          "name": "m21",
+          "package": "lin-alg",
+          "signature": "a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat33.html#Mat33",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat33",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat33",
+          "name": "m21",
+          "package": "lin-alg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat33.html#v:m21"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat33",
+          "name": "m22",
+          "package": "lin-alg",
+          "signature": "a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat33.html#Mat33",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat33",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat33",
+          "name": "m22",
+          "package": "lin-alg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat33.html#v:m22"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "Mat44",
+          "package": "lin-alg",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "Mat44",
+          "package": "lin-alg",
+          "partial": "Mat",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "Mat44",
+          "package": "lin-alg",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "Mat44",
+          "package": "lin-alg",
+          "partial": "Mat",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#t:Mat44"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "Mat44",
+          "package": "lin-alg",
+          "signature": "Mat44",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "Mat44",
+          "package": "lin-alg",
+          "partial": "Mat",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:Mat44"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "det44",
+          "package": "lin-alg",
+          "signature": "Mat44 a -\u003e a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#det44",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "det44",
+          "normalized": "Mat a-\u003ea",
+          "package": "lin-alg",
+          "signature": "Mat a-\u003ea",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:det44"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "inv44",
+          "package": "lin-alg",
+          "signature": "Mat44 a -\u003e Mat44 a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#inv44",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "inv44",
+          "normalized": "Mat a-\u003eMat a",
+          "package": "lin-alg",
+          "signature": "Mat a-\u003eMat a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:inv44"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m00",
+          "package": "lin-alg",
+          "signature": "a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m00",
+          "package": "lin-alg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m00"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m01",
+          "package": "lin-alg",
+          "signature": "a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m01",
+          "package": "lin-alg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m01"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m02",
+          "package": "lin-alg",
+          "signature": "a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m02",
+          "package": "lin-alg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m02"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m03",
+          "package": "lin-alg",
+          "signature": "a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m03",
+          "package": "lin-alg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m03"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m10",
+          "package": "lin-alg",
+          "signature": "a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m10",
+          "package": "lin-alg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m10"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m11",
+          "package": "lin-alg",
+          "signature": "a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m11",
+          "package": "lin-alg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m11"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m12",
+          "package": "lin-alg",
+          "signature": "a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m12",
+          "package": "lin-alg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m12"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m13",
+          "package": "lin-alg",
+          "signature": "a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m13",
+          "package": "lin-alg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m13"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m20",
+          "package": "lin-alg",
+          "signature": "a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m20",
+          "package": "lin-alg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m20"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m21",
+          "package": "lin-alg",
+          "signature": "a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m21",
+          "package": "lin-alg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m21"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m22",
+          "package": "lin-alg",
+          "signature": "a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m22",
+          "package": "lin-alg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m22"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m23",
+          "package": "lin-alg",
+          "signature": "a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m23",
+          "package": "lin-alg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m23"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m30",
+          "package": "lin-alg",
+          "signature": "a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m30",
+          "package": "lin-alg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m30"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m31",
+          "package": "lin-alg",
+          "signature": "a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m31",
+          "package": "lin-alg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m31"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m32",
+          "package": "lin-alg",
+          "signature": "a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m32",
+          "package": "lin-alg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m32"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m33",
+          "package": "lin-alg",
+          "signature": "a",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix Mat44",
+          "module": "Numeric.LinearAlgebra.Matrix.Mat44",
+          "name": "m33",
+          "package": "lin-alg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix-Mat44.html#v:m33"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix",
+          "name": "Matrix",
+          "package": "lin-alg",
+          "source": "src/Numeric-LinearAlgebra-Matrix.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix",
+          "module": "Numeric.LinearAlgebra.Matrix",
+          "name": "Matrix",
+          "package": "lin-alg",
+          "partial": "Matrix",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix",
+          "name": "Mat33",
+          "package": "lin-alg",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat33.html#Mat33",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix",
+          "module": "Numeric.LinearAlgebra.Matrix",
+          "name": "Mat33",
+          "package": "lin-alg",
+          "partial": "Mat",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix.html#t:Mat33"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Matrix",
+          "name": "Mat44",
+          "package": "lin-alg",
+          "source": "src/Numeric-LinearAlgebra-Matrix-Mat44.html#Mat44",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Matrix",
+          "module": "Numeric.LinearAlgebra.Matrix",
+          "name": "Mat44",
+          "package": "lin-alg",
+          "partial": "Mat",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Matrix.html#t:Mat44"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "OrthoNormalBasis",
+          "package": "lin-alg",
+          "source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "OrthoNormalBasis",
+          "package": "lin-alg",
+          "partial": "Ortho Normal Basis",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "ONB",
+          "package": "lin-alg",
+          "source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html#ONB",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "ONB",
+          "package": "lin-alg",
+          "partial": "ONB",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#t:ONB"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "ONB",
+          "package": "lin-alg",
+          "signature": "ONB",
+          "source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html#ONB",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "ONB",
+          "package": "lin-alg",
+          "partial": "ONB",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#v:ONB"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "epsilon",
+          "package": "lin-alg",
+          "signature": "a",
+          "source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html#epsilon",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "epsilon",
+          "package": "lin-alg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#v:epsilon"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "mkFromU",
+          "package": "lin-alg",
+          "signature": "Vec3 a -\u003e ONB a",
+          "source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html#mkFromU",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "mkFromU",
+          "normalized": "Vec a-\u003eONB a",
+          "package": "lin-alg",
+          "partial": "From",
+          "signature": "Vec a-\u003eONB a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#v:mkFromU"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "mkFromUV",
+          "package": "lin-alg",
+          "signature": "Vec3 a -\u003e Vec3 a -\u003e ONB a",
+          "source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html#mkFromUV",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "mkFromUV",
+          "normalized": "Vec a-\u003eVec a-\u003eONB a",
+          "package": "lin-alg",
+          "partial": "From UV",
+          "signature": "Vec a-\u003eVec a-\u003eONB a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#v:mkFromUV"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "mkFromUW",
+          "package": "lin-alg",
+          "signature": "Vec3 a -\u003e Vec3 a -\u003e ONB a",
+          "source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html#mkFromUW",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "mkFromUW",
+          "normalized": "Vec a-\u003eVec a-\u003eONB a",
+          "package": "lin-alg",
+          "partial": "From UW",
+          "signature": "Vec a-\u003eVec a-\u003eONB a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#v:mkFromUW"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "mkFromV",
+          "package": "lin-alg",
+          "signature": "Vec3 a -\u003e ONB a",
+          "source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html#mkFromV",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "mkFromV",
+          "normalized": "Vec a-\u003eONB a",
+          "package": "lin-alg",
+          "partial": "From",
+          "signature": "Vec a-\u003eONB a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#v:mkFromV"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "mkFromVU",
+          "package": "lin-alg",
+          "signature": "Vec3 a -\u003e Vec3 a -\u003e ONB a",
+          "source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html#mkFromVU",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "mkFromVU",
+          "normalized": "Vec a-\u003eVec a-\u003eONB a",
+          "package": "lin-alg",
+          "partial": "From VU",
+          "signature": "Vec a-\u003eVec a-\u003eONB a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#v:mkFromVU"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "mkFromVW",
+          "package": "lin-alg",
+          "signature": "Vec3 a -\u003e Vec3 a -\u003e ONB a",
+          "source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html#mkFromVW",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "mkFromVW",
+          "normalized": "Vec a-\u003eVec a-\u003eONB a",
+          "package": "lin-alg",
+          "partial": "From VW",
+          "signature": "Vec a-\u003eVec a-\u003eONB a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#v:mkFromVW"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "mkFromW",
+          "package": "lin-alg",
+          "signature": "Vec3 a -\u003e ONB a",
+          "source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html#mkFromW",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "mkFromW",
+          "normalized": "Vec a-\u003eONB a",
+          "package": "lin-alg",
+          "partial": "From",
+          "signature": "Vec a-\u003eONB a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#v:mkFromW"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "mkFromWU",
+          "package": "lin-alg",
+          "signature": "Vec3 a -\u003e Vec3 a -\u003e ONB a",
+          "source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html#mkFromWU",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "mkFromWU",
+          "normalized": "Vec a-\u003eVec a-\u003eONB a",
+          "package": "lin-alg",
+          "partial": "From WU",
+          "signature": "Vec a-\u003eVec a-\u003eONB a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#v:mkFromWU"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "mkFromWV",
+          "package": "lin-alg",
+          "signature": "Vec3 a -\u003e Vec3 a -\u003e ONB a",
+          "source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html#mkFromWV",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "mkFromWV",
+          "normalized": "Vec a-\u003eVec a-\u003eONB a",
+          "package": "lin-alg",
+          "partial": "From WV",
+          "signature": "Vec a-\u003eVec a-\u003eONB a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#v:mkFromWV"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "onbU",
+          "package": "lin-alg",
+          "signature": "Vec3 a",
+          "source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html#ONB",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "onbU",
+          "package": "lin-alg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#v:onbU"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "onbV",
+          "package": "lin-alg",
+          "signature": "Vec3 a",
+          "source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html#ONB",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "onbV",
+          "package": "lin-alg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#v:onbV"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "onbW",
+          "package": "lin-alg",
+          "signature": "Vec3 a",
+          "source": "src/Numeric-LinearAlgebra-OrthoNormalBasis.html#ONB",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra OrthoNormalBasis",
+          "module": "Numeric.LinearAlgebra.OrthoNormalBasis",
+          "name": "onbW",
+          "package": "lin-alg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-OrthoNormalBasis.html#v:onbW"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "Vector",
+          "package": "lin-alg",
+          "source": "src/Numeric-LinearAlgebra-Vector.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "Vector",
+          "package": "lin-alg",
+          "partial": "Vector",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "Vec2",
+          "package": "lin-alg",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#Vec2",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "Vec2",
+          "package": "lin-alg",
+          "partial": "Vec",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#t:Vec2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "Vec3",
+          "package": "lin-alg",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#Vec3",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "Vec3",
+          "package": "lin-alg",
+          "partial": "Vec",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#t:Vec3"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "Vec4",
+          "package": "lin-alg",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#Vec4",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "Vec4",
+          "package": "lin-alg",
+          "partial": "Vec",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#t:Vec4"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "Vector",
+          "package": "lin-alg",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#Vector",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "Vector",
+          "package": "lin-alg",
+          "partial": "Vector",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#t:Vector"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "(*\u003e)",
+          "package": "lin-alg",
+          "signature": "a -\u003e v a -\u003e v a",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#%2A%3E",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "(*\u003e) *\u003e",
+          "normalized": "a-\u003eb a-\u003eb a",
+          "package": "lin-alg",
+          "signature": "a-\u003ev a-\u003ev a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:-42--62-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eCross product\n\u003c/p\u003e",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "(\u003c%\u003e)",
+          "package": "lin-alg",
+          "signature": "Vec3 a -\u003e Vec3 a -\u003e Vec3 a",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#%3C%25%3E",
+          "type": "function"
+        },
+        "index": {
+          "description": "Cross product",
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "(\u003c%\u003e) \u003c%\u003e",
+          "normalized": "Vec a-\u003eVec a-\u003eVec a",
+          "package": "lin-alg",
+          "signature": "Vec a-\u003eVec a-\u003eVec a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:-60--37--62-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "(\u003c*\u003e)",
+          "package": "lin-alg",
+          "signature": "v a -\u003e v a -\u003e v a",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#%3C%2A%3E",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "(\u003c*\u003e) \u003c*\u003e",
+          "normalized": "a b-\u003ea b-\u003ea b",
+          "package": "lin-alg",
+          "signature": "v a-\u003ev a-\u003ev a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:-60--42--62-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "(\u003c+\u003e)",
+          "package": "lin-alg",
+          "signature": "v a -\u003e v a -\u003e v a",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#%3C%2B%3E",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "(\u003c+\u003e) \u003c+\u003e",
+          "normalized": "a b-\u003ea b-\u003ea b",
+          "package": "lin-alg",
+          "signature": "v a-\u003ev a-\u003ev a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:-60--43--62-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "(\u003c-\u003e)",
+          "package": "lin-alg",
+          "signature": "v a -\u003e v a -\u003e v a",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#%3C-%3E",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "(\u003c-\u003e) \u003c-\u003e",
+          "normalized": "a b-\u003ea b-\u003ea b",
+          "package": "lin-alg",
+          "signature": "v a-\u003ev a-\u003ev a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:-60--45--62-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "(\u003c/)",
+          "package": "lin-alg",
+          "signature": "v a -\u003e a -\u003e v a",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#%3C%2F",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "(\u003c/) \u003c/",
+          "normalized": "a b-\u003eb-\u003ea b",
+          "package": "lin-alg",
+          "signature": "v a-\u003ea-\u003ev a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:-60--47-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "(\u003c/\u003e)",
+          "package": "lin-alg",
+          "signature": "v a -\u003e v a -\u003e v a",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#%3C%2F%3E",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "(\u003c/\u003e) \u003c/\u003e",
+          "normalized": "a b-\u003ea b-\u003ea b",
+          "package": "lin-alg",
+          "signature": "v a-\u003ev a-\u003ev a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:-60--47--62-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "(\u003c.\u003e)",
+          "package": "lin-alg",
+          "signature": "v a -\u003e v a -\u003e a",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#%3C.%3E",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "(\u003c.\u003e) \u003c.\u003e",
+          "normalized": "a b-\u003ea b-\u003eb",
+          "package": "lin-alg",
+          "signature": "v a-\u003ev a-\u003ea",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:-60-.-62-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "Vec2",
+          "package": "lin-alg",
+          "signature": "Vec2 !a !a",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#Vec2",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "Vec2",
+          "package": "lin-alg",
+          "partial": "Vec",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:Vec2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "Vec3",
+          "package": "lin-alg",
+          "signature": "Vec3 !a !a !a",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#Vec3",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "Vec3",
+          "package": "lin-alg",
+          "partial": "Vec",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:Vec3"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "Vec4",
+          "package": "lin-alg",
+          "signature": "Vec4 !a !a !a !a",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#Vec4",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "Vec4",
+          "package": "lin-alg",
+          "partial": "Vec",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:Vec4"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "len",
+          "package": "lin-alg",
+          "signature": "v a -\u003e a",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#len",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "len",
+          "normalized": "a b-\u003eb",
+          "package": "lin-alg",
+          "signature": "v a-\u003ea",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:len"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "lenSquared",
+          "package": "lin-alg",
+          "signature": "v a -\u003e a",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#lenSquared",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "lenSquared",
+          "normalized": "a b-\u003eb",
+          "package": "lin-alg",
+          "partial": "Squared",
+          "signature": "v a-\u003ea",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:lenSquared"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "maxAbsComponent",
+          "package": "lin-alg",
+          "signature": "v k -\u003e k",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#maxAbsComponent",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "maxAbsComponent",
+          "normalized": "a b-\u003eb",
+          "package": "lin-alg",
+          "partial": "Abs Component",
+          "signature": "v k-\u003ek",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:maxAbsComponent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "maxComponent",
+          "package": "lin-alg",
+          "signature": "v k -\u003e k",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#maxComponent",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "maxComponent",
+          "normalized": "a b-\u003eb",
+          "package": "lin-alg",
+          "partial": "Component",
+          "signature": "v k-\u003ek",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:maxComponent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "maxVec",
+          "package": "lin-alg",
+          "signature": "v k -\u003e v k -\u003e v k",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#maxVec",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "maxVec",
+          "normalized": "a b-\u003ea b-\u003ea b",
+          "package": "lin-alg",
+          "partial": "Vec",
+          "signature": "v k-\u003ev k-\u003ev k",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:maxVec"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "minAbsComponent",
+          "package": "lin-alg",
+          "signature": "v k -\u003e k",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#minAbsComponent",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "minAbsComponent",
+          "normalized": "a b-\u003eb",
+          "package": "lin-alg",
+          "partial": "Abs Component",
+          "signature": "v k-\u003ek",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:minAbsComponent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "minComponent",
+          "package": "lin-alg",
+          "signature": "v k -\u003e k",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#minComponent",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "minComponent",
+          "normalized": "a b-\u003eb",
+          "package": "lin-alg",
+          "partial": "Component",
+          "signature": "v k-\u003ek",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:minComponent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "minVec",
+          "package": "lin-alg",
+          "signature": "v k -\u003e v k -\u003e v k",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#minVec",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "minVec",
+          "normalized": "a b-\u003ea b-\u003ea b",
+          "package": "lin-alg",
+          "partial": "Vec",
+          "signature": "v k-\u003ev k-\u003ev k",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:minVec"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "tripleProduct",
+          "package": "lin-alg",
+          "signature": "Vec3 a -\u003e Vec3 a -\u003e Vec3 a -\u003e a",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#tripleProduct",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "tripleProduct",
+          "normalized": "Vec a-\u003eVec a-\u003eVec a-\u003ea",
+          "package": "lin-alg",
+          "partial": "Product",
+          "signature": "Vec a-\u003eVec a-\u003eVec a-\u003ea",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:tripleProduct"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "unitVector",
+          "package": "lin-alg",
+          "signature": "v a -\u003e v a",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#unitVector",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "unitVector",
+          "normalized": "a b-\u003ea b",
+          "package": "lin-alg",
+          "partial": "Vector",
+          "signature": "v a-\u003ev a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:unitVector"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "vDim",
+          "package": "lin-alg",
+          "signature": "v a -\u003e Int",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#vDim",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "vDim",
+          "normalized": "a b-\u003eInt",
+          "package": "lin-alg",
+          "partial": "Dim",
+          "signature": "v a-\u003eInt",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:vDim"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "vElement",
+          "package": "lin-alg",
+          "signature": "v a -\u003e Int -\u003e a",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#vElement",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "vElement",
+          "normalized": "a b-\u003eInt-\u003eb",
+          "package": "lin-alg",
+          "partial": "Element",
+          "signature": "v a-\u003eInt-\u003ea",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:vElement"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003evFold is foldl1'\n\u003c/p\u003e",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "vFold",
+          "package": "lin-alg",
+          "signature": "(a -\u003e a -\u003e a) -\u003e v a -\u003e a",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#vFold",
+          "type": "method"
+        },
+        "index": {
+          "description": "vFold is foldl1",
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "vFold",
+          "normalized": "(a-\u003ea-\u003ea)-\u003eb a-\u003ea",
+          "package": "lin-alg",
+          "partial": "Fold",
+          "signature": "(a-\u003ea-\u003ea)-\u003ev a-\u003ea",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:vFold"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "vIndexOf",
+          "package": "lin-alg",
+          "signature": "(a -\u003e a -\u003e Bool) -\u003e v a -\u003e Int",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#vIndexOf",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "vIndexOf",
+          "normalized": "(a-\u003ea-\u003eBool)-\u003eb a-\u003eInt",
+          "package": "lin-alg",
+          "partial": "Index Of",
+          "signature": "(a-\u003ea-\u003eBool)-\u003ev a-\u003eInt",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:vIndexOf"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "vIndexOfMaxAbsComponent",
+          "package": "lin-alg",
+          "signature": "v k -\u003e Int",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#vIndexOfMaxAbsComponent",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "vIndexOfMaxAbsComponent",
+          "normalized": "a b-\u003eInt",
+          "package": "lin-alg",
+          "partial": "Index Of Max Abs Component",
+          "signature": "v k-\u003eInt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:vIndexOfMaxAbsComponent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "vIndexOfMaxComponent",
+          "package": "lin-alg",
+          "signature": "v k -\u003e Int",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#vIndexOfMaxComponent",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "vIndexOfMaxComponent",
+          "normalized": "a b-\u003eInt",
+          "package": "lin-alg",
+          "partial": "Index Of Max Component",
+          "signature": "v k-\u003eInt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:vIndexOfMaxComponent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "vIndexOfMinAbsComponent",
+          "package": "lin-alg",
+          "signature": "v k -\u003e Int",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#vIndexOfMinAbsComponent",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "vIndexOfMinAbsComponent",
+          "normalized": "a b-\u003eInt",
+          "package": "lin-alg",
+          "partial": "Index Of Min Abs Component",
+          "signature": "v k-\u003eInt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:vIndexOfMinAbsComponent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "vIndexOfMinComponent",
+          "package": "lin-alg",
+          "signature": "v k -\u003e Int",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#vIndexOfMinComponent",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "vIndexOfMinComponent",
+          "normalized": "a b-\u003eInt",
+          "package": "lin-alg",
+          "partial": "Index Of Min Component",
+          "signature": "v k-\u003eInt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:vIndexOfMinComponent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "vNegate",
+          "package": "lin-alg",
+          "signature": "v a -\u003e v a",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#vNegate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "vNegate",
+          "normalized": "a b-\u003ea b",
+          "package": "lin-alg",
+          "partial": "Negate",
+          "signature": "v a-\u003ev a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:vNegate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "vZip",
+          "package": "lin-alg",
+          "signature": "(a -\u003e b -\u003e c) -\u003e v a -\u003e v b -\u003e v c",
+          "source": "src/Numeric-LinearAlgebra-Vector.html#vZip",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Numeric LinearAlgebra Vector",
+          "module": "Numeric.LinearAlgebra.Vector",
+          "name": "vZip",
+          "normalized": "(a-\u003eb-\u003ec)-\u003ed a-\u003ed b-\u003ed c",
+          "package": "lin-alg",
+          "partial": "Zip",
+          "signature": "(a-\u003eb-\u003ec)-\u003ev a-\u003ev b-\u003ev c",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/lin-alg/docs/Numeric-LinearAlgebra-Vector.html#v:vZip"
+      }
+    }
+  ]
 ]

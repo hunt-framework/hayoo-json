@@ -1,255 +1,266 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cabalmdvrpm/docs/Distribution-MDV-Rpm.html#t:3ASpecOpts",
-      "description": {
-        "fct-module": "Distribution.MDV.Rpm",
-        "fct-package": "cabalmdvrpm",
-        "fct-signature": "data",
-        "fct-type": "unknown",
-        "title": "3ASpecOpts"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "cabalmdvrpm"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Distribution MDV Rpm",
-        "module": "Distribution.MDV.Rpm",
-        "name": "3ASpecOpts",
-        "normalized": "",
-        "package": "cabalmdvrpm",
-        "partial": "ASpec Opts",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cabalmdvrpm/docs/Distribution-MDV-Rpm.html#v:3AbuildSpec",
-      "description": {
-        "fct-module": "Distribution.MDV.Rpm",
-        "fct-package": "cabalmdvrpm",
-        "fct-signature": "SpecOpts -\u003e PackageDescription -\u003e String",
-        "fct-type": "unknown",
-        "title": "3AbuildSpec"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Distribution MDV Rpm",
-        "module": "Distribution.MDV.Rpm",
-        "name": "3AbuildSpec",
-        "normalized": "SpecOpts-\u003ePackageDescription-\u003eString",
-        "package": "cabalmdvrpm",
-        "partial": "Abuild Spec",
-        "signature": "SpecOpts-\u003ePackageDescription-\u003eString"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Distribution.MDV.Rpm",
+          "name": "3ASpecOpts",
+          "package": "cabalmdvrpm",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Distribution MDV Rpm",
+          "module": "Distribution.MDV.Rpm",
+          "name": "3ASpecOpts",
+          "package": "cabalmdvrpm",
+          "partial": "ASpec Opts",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/cabalmdvrpm/docs/Distribution-MDV-Rpm.html#t:3ASpecOpts"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Distribution.MDV.Rpm",
+          "name": "3AbuildSpec",
+          "package": "cabalmdvrpm",
+          "signature": "SpecOpts -\u003e PackageDescription -\u003e String",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Distribution MDV Rpm",
+          "module": "Distribution.MDV.Rpm",
+          "name": "3AbuildSpec",
+          "normalized": "SpecOpts-\u003ePackageDescription-\u003eString",
+          "package": "cabalmdvrpm",
+          "partial": "Abuild Spec",
+          "signature": "SpecOpts-\u003ePackageDescription-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cabalmdvrpm/docs/Distribution-MDV-Rpm.html#v:3AbuildSpec"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Distribution.MDV.Rpm",
+          "name": "3AbuildSpecBuild",
+          "package": "cabalmdvrpm",
+          "signature": "SpecOpts -\u003e PackageDescription -\u003e String",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Distribution MDV Rpm",
+          "module": "Distribution.MDV.Rpm",
+          "name": "3AbuildSpecBuild",
+          "normalized": "SpecOpts-\u003ePackageDescription-\u003eString",
+          "package": "cabalmdvrpm",
+          "partial": "Abuild Spec Build",
+          "signature": "SpecOpts-\u003ePackageDescription-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cabalmdvrpm/docs/Distribution-MDV-Rpm.html#v:3AbuildSpecBuild"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Distribution.MDV.Rpm",
+          "name": "3AbuildSpecCheck",
+          "package": "cabalmdvrpm",
+          "signature": "SpecOpts -\u003e PackageDescription -\u003e String",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Distribution MDV Rpm",
+          "module": "Distribution.MDV.Rpm",
+          "name": "3AbuildSpecCheck",
+          "normalized": "SpecOpts-\u003ePackageDescription-\u003eString",
+          "package": "cabalmdvrpm",
+          "partial": "Abuild Spec Check",
+          "signature": "SpecOpts-\u003ePackageDescription-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cabalmdvrpm/docs/Distribution-MDV-Rpm.html#v:3AbuildSpecCheck"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Distribution.MDV.Rpm",
+          "name": "3AbuildSpecClean",
+          "package": "cabalmdvrpm",
+          "signature": "SpecOpts -\u003e PackageDescription -\u003e String",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Distribution MDV Rpm",
+          "module": "Distribution.MDV.Rpm",
+          "name": "3AbuildSpecClean",
+          "normalized": "SpecOpts-\u003ePackageDescription-\u003eString",
+          "package": "cabalmdvrpm",
+          "partial": "Abuild Spec Clean",
+          "signature": "SpecOpts-\u003ePackageDescription-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cabalmdvrpm/docs/Distribution-MDV-Rpm.html#v:3AbuildSpecClean"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Distribution.MDV.Rpm",
+          "name": "3AbuildSpecFiles",
+          "package": "cabalmdvrpm",
+          "signature": "SpecOpts -\u003e PackageDescription -\u003e String",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Distribution MDV Rpm",
+          "module": "Distribution.MDV.Rpm",
+          "name": "3AbuildSpecFiles",
+          "normalized": "SpecOpts-\u003ePackageDescription-\u003eString",
+          "package": "cabalmdvrpm",
+          "partial": "Abuild Spec Files",
+          "signature": "SpecOpts-\u003ePackageDescription-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cabalmdvrpm/docs/Distribution-MDV-Rpm.html#v:3AbuildSpecFiles"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Distribution.MDV.Rpm",
+          "name": "3AbuildSpecHeader",
+          "package": "cabalmdvrpm",
+          "signature": "SpecOpts -\u003e PackageDescription -\u003e String",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Distribution MDV Rpm",
+          "module": "Distribution.MDV.Rpm",
+          "name": "3AbuildSpecHeader",
+          "normalized": "SpecOpts-\u003ePackageDescription-\u003eString",
+          "package": "cabalmdvrpm",
+          "partial": "Abuild Spec Header",
+          "signature": "SpecOpts-\u003ePackageDescription-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cabalmdvrpm/docs/Distribution-MDV-Rpm.html#v:3AbuildSpecHeader"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Distribution.MDV.Rpm",
+          "name": "3AbuildSpecInstall",
+          "package": "cabalmdvrpm",
+          "signature": "SpecOpts -\u003e PackageDescription -\u003e String",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Distribution MDV Rpm",
+          "module": "Distribution.MDV.Rpm",
+          "name": "3AbuildSpecInstall",
+          "normalized": "SpecOpts-\u003ePackageDescription-\u003eString",
+          "package": "cabalmdvrpm",
+          "partial": "Abuild Spec Install",
+          "signature": "SpecOpts-\u003ePackageDescription-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cabalmdvrpm/docs/Distribution-MDV-Rpm.html#v:3AbuildSpecInstall"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Distribution.MDV.Rpm",
+          "name": "3AbuildSpecPrep",
+          "package": "cabalmdvrpm",
+          "signature": "SpecOpts -\u003e PackageDescription -\u003e String",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Distribution MDV Rpm",
+          "module": "Distribution.MDV.Rpm",
+          "name": "3AbuildSpecPrep",
+          "normalized": "SpecOpts-\u003ePackageDescription-\u003eString",
+          "package": "cabalmdvrpm",
+          "partial": "Abuild Spec Prep",
+          "signature": "SpecOpts-\u003ePackageDescription-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cabalmdvrpm/docs/Distribution-MDV-Rpm.html#v:3AbuildSpecPrep"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Distribution.MDV.Rpm",
+          "name": "3AdefaultsSpecOptions",
+          "package": "cabalmdvrpm",
+          "signature": "SpecOpts",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Distribution MDV Rpm",
+          "module": "Distribution.MDV.Rpm",
+          "name": "3AdefaultsSpecOptions",
+          "package": "cabalmdvrpm",
+          "partial": "Adefaults Spec Options",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cabalmdvrpm/docs/Distribution-MDV-Rpm.html#v:3AdefaultsSpecOptions"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Distribution.MDV.Rpm",
+          "name": "3ArpmpkgName",
+          "package": "cabalmdvrpm",
+          "signature": "SpecOpts -\u003e PackageDescription -\u003e String",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Distribution MDV Rpm",
+          "module": "Distribution.MDV.Rpm",
+          "name": "3ArpmpkgName",
+          "normalized": "SpecOpts-\u003ePackageDescription-\u003eString",
+          "package": "cabalmdvrpm",
+          "partial": "Arpmpkg Name",
+          "signature": "SpecOpts-\u003ePackageDescription-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cabalmdvrpm/docs/Distribution-MDV-Rpm.html#v:3ArpmpkgName"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cabalmdvrpm/docs/Distribution-MDV-Rpm.html#v:3AbuildSpecBuild",
-      "description": {
-        "fct-module": "Distribution.MDV.Rpm",
-        "fct-package": "cabalmdvrpm",
-        "fct-signature": "SpecOpts -\u003e PackageDescription -\u003e String",
-        "fct-type": "unknown",
-        "title": "3AbuildSpecBuild"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Distribution MDV Rpm",
-        "module": "Distribution.MDV.Rpm",
-        "name": "3AbuildSpecBuild",
-        "normalized": "SpecOpts-\u003ePackageDescription-\u003eString",
-        "package": "cabalmdvrpm",
-        "partial": "Abuild Spec Build",
-        "signature": "SpecOpts-\u003ePackageDescription-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cabalmdvrpm/docs/Distribution-MDV-Rpm.html#v:3AbuildSpecCheck",
-      "description": {
-        "fct-module": "Distribution.MDV.Rpm",
-        "fct-package": "cabalmdvrpm",
-        "fct-signature": "SpecOpts -\u003e PackageDescription -\u003e String",
-        "fct-type": "unknown",
-        "title": "3AbuildSpecCheck"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Distribution MDV Rpm",
-        "module": "Distribution.MDV.Rpm",
-        "name": "3AbuildSpecCheck",
-        "normalized": "SpecOpts-\u003ePackageDescription-\u003eString",
-        "package": "cabalmdvrpm",
-        "partial": "Abuild Spec Check",
-        "signature": "SpecOpts-\u003ePackageDescription-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cabalmdvrpm/docs/Distribution-MDV-Rpm.html#v:3AbuildSpecClean",
-      "description": {
-        "fct-module": "Distribution.MDV.Rpm",
-        "fct-package": "cabalmdvrpm",
-        "fct-signature": "SpecOpts -\u003e PackageDescription -\u003e String",
-        "fct-type": "unknown",
-        "title": "3AbuildSpecClean"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Distribution MDV Rpm",
-        "module": "Distribution.MDV.Rpm",
-        "name": "3AbuildSpecClean",
-        "normalized": "SpecOpts-\u003ePackageDescription-\u003eString",
-        "package": "cabalmdvrpm",
-        "partial": "Abuild Spec Clean",
-        "signature": "SpecOpts-\u003ePackageDescription-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cabalmdvrpm/docs/Distribution-MDV-Rpm.html#v:3AbuildSpecFiles",
-      "description": {
-        "fct-module": "Distribution.MDV.Rpm",
-        "fct-package": "cabalmdvrpm",
-        "fct-signature": "SpecOpts -\u003e PackageDescription -\u003e String",
-        "fct-type": "unknown",
-        "title": "3AbuildSpecFiles"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Distribution MDV Rpm",
-        "module": "Distribution.MDV.Rpm",
-        "name": "3AbuildSpecFiles",
-        "normalized": "SpecOpts-\u003ePackageDescription-\u003eString",
-        "package": "cabalmdvrpm",
-        "partial": "Abuild Spec Files",
-        "signature": "SpecOpts-\u003ePackageDescription-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cabalmdvrpm/docs/Distribution-MDV-Rpm.html#v:3AbuildSpecHeader",
-      "description": {
-        "fct-module": "Distribution.MDV.Rpm",
-        "fct-package": "cabalmdvrpm",
-        "fct-signature": "SpecOpts -\u003e PackageDescription -\u003e String",
-        "fct-type": "unknown",
-        "title": "3AbuildSpecHeader"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Distribution MDV Rpm",
-        "module": "Distribution.MDV.Rpm",
-        "name": "3AbuildSpecHeader",
-        "normalized": "SpecOpts-\u003ePackageDescription-\u003eString",
-        "package": "cabalmdvrpm",
-        "partial": "Abuild Spec Header",
-        "signature": "SpecOpts-\u003ePackageDescription-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cabalmdvrpm/docs/Distribution-MDV-Rpm.html#v:3AbuildSpecInstall",
-      "description": {
-        "fct-module": "Distribution.MDV.Rpm",
-        "fct-package": "cabalmdvrpm",
-        "fct-signature": "SpecOpts -\u003e PackageDescription -\u003e String",
-        "fct-type": "unknown",
-        "title": "3AbuildSpecInstall"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Distribution MDV Rpm",
-        "module": "Distribution.MDV.Rpm",
-        "name": "3AbuildSpecInstall",
-        "normalized": "SpecOpts-\u003ePackageDescription-\u003eString",
-        "package": "cabalmdvrpm",
-        "partial": "Abuild Spec Install",
-        "signature": "SpecOpts-\u003ePackageDescription-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cabalmdvrpm/docs/Distribution-MDV-Rpm.html#v:3AbuildSpecPrep",
-      "description": {
-        "fct-module": "Distribution.MDV.Rpm",
-        "fct-package": "cabalmdvrpm",
-        "fct-signature": "SpecOpts -\u003e PackageDescription -\u003e String",
-        "fct-type": "unknown",
-        "title": "3AbuildSpecPrep"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Distribution MDV Rpm",
-        "module": "Distribution.MDV.Rpm",
-        "name": "3AbuildSpecPrep",
-        "normalized": "SpecOpts-\u003ePackageDescription-\u003eString",
-        "package": "cabalmdvrpm",
-        "partial": "Abuild Spec Prep",
-        "signature": "SpecOpts-\u003ePackageDescription-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cabalmdvrpm/docs/Distribution-MDV-Rpm.html#v:3AdefaultsSpecOptions",
-      "description": {
-        "fct-module": "Distribution.MDV.Rpm",
-        "fct-package": "cabalmdvrpm",
-        "fct-signature": "SpecOpts",
-        "fct-type": "unknown",
-        "title": "3AdefaultsSpecOptions"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Distribution MDV Rpm",
-        "module": "Distribution.MDV.Rpm",
-        "name": "3AdefaultsSpecOptions",
-        "normalized": "",
-        "package": "cabalmdvrpm",
-        "partial": "Adefaults Spec Options",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cabalmdvrpm/docs/Distribution-MDV-Rpm.html#v:3ArpmpkgName",
-      "description": {
-        "fct-module": "Distribution.MDV.Rpm",
-        "fct-package": "cabalmdvrpm",
-        "fct-signature": "SpecOpts -\u003e PackageDescription -\u003e String",
-        "fct-type": "unknown",
-        "title": "3ArpmpkgName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Distribution MDV Rpm",
-        "module": "Distribution.MDV.Rpm",
-        "name": "3ArpmpkgName",
-        "normalized": "SpecOpts-\u003ePackageDescription-\u003eString",
-        "package": "cabalmdvrpm",
-        "partial": "Arpmpkg Name",
-        "signature": "SpecOpts-\u003ePackageDescription-\u003eString"
-      }
-    }
-  }
+  ]
 ]

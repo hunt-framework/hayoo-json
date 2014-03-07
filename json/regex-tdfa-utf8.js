@@ -1,99 +1,103 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/regex-tdfa-utf8/docs/Text-Regex-TDFA-UTF8.html#",
-      "description": {
-        "fct-module": "Text.Regex.TDFA.UTF8",
-        "fct-package": "regex-tdfa-utf8",
-        "fct-signature": "module",
-        "fct-source": "src/Text-Regex-TDFA-UTF8.html",
-        "fct-type": "module",
-        "title": "UTF8"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "regex-tdfa-utf8"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Text Regex TDFA UTF8",
-        "module": "Text.Regex.TDFA.UTF8",
-        "name": "UTF8",
-        "normalized": "",
-        "package": "regex-tdfa-utf8",
-        "partial": "UTF",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/regex-tdfa-utf8/docs/Text-Regex-TDFA-UTF8.html#t:Utf8",
-      "description": {
-        "fct-module": "Text.Regex.TDFA.UTF8",
-        "fct-package": "regex-tdfa-utf8",
-        "fct-signature": "newtype",
-        "fct-source": "src/Text-Regex-TDFA-UTF8.html#Utf8",
-        "fct-type": "newtype",
-        "title": "Utf8"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text Regex TDFA UTF8",
-        "module": "Text.Regex.TDFA.UTF8",
-        "name": "Utf8",
-        "normalized": "",
-        "package": "regex-tdfa-utf8",
-        "partial": "Utf",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.Regex.TDFA.UTF8",
+          "name": "UTF8",
+          "package": "regex-tdfa-utf8",
+          "source": "src/Text-Regex-TDFA-UTF8.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Text Regex TDFA UTF8",
+          "module": "Text.Regex.TDFA.UTF8",
+          "name": "UTF8",
+          "package": "regex-tdfa-utf8",
+          "partial": "UTF",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/regex-tdfa-utf8/docs/Text-Regex-TDFA-UTF8.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.Regex.TDFA.UTF8",
+          "name": "Utf8",
+          "package": "regex-tdfa-utf8",
+          "source": "src/Text-Regex-TDFA-UTF8.html#Utf8",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Text Regex TDFA UTF8",
+          "module": "Text.Regex.TDFA.UTF8",
+          "name": "Utf8",
+          "package": "regex-tdfa-utf8",
+          "partial": "Utf",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/regex-tdfa-utf8/docs/Text-Regex-TDFA-UTF8.html#t:Utf8"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.Regex.TDFA.UTF8",
+          "name": "Utf8",
+          "package": "regex-tdfa-utf8",
+          "signature": "Utf8",
+          "source": "src/Text-Regex-TDFA-UTF8.html#Utf8",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text Regex TDFA UTF8",
+          "module": "Text.Regex.TDFA.UTF8",
+          "name": "Utf8",
+          "package": "regex-tdfa-utf8",
+          "partial": "Utf",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/regex-tdfa-utf8/docs/Text-Regex-TDFA-UTF8.html#v:Utf8"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.Regex.TDFA.UTF8",
+          "name": "utf8",
+          "package": "regex-tdfa-utf8",
+          "signature": "ByteString",
+          "source": "src/Text-Regex-TDFA-UTF8.html#Utf8",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text Regex TDFA UTF8",
+          "module": "Text.Regex.TDFA.UTF8",
+          "name": "utf8",
+          "package": "regex-tdfa-utf8",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/regex-tdfa-utf8/docs/Text-Regex-TDFA-UTF8.html#v:utf8"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/regex-tdfa-utf8/docs/Text-Regex-TDFA-UTF8.html#v:Utf8",
-      "description": {
-        "fct-module": "Text.Regex.TDFA.UTF8",
-        "fct-package": "regex-tdfa-utf8",
-        "fct-signature": "Utf8",
-        "fct-source": "src/Text-Regex-TDFA-UTF8.html#Utf8",
-        "fct-type": "function",
-        "title": "Utf8"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text Regex TDFA UTF8",
-        "module": "Text.Regex.TDFA.UTF8",
-        "name": "Utf8",
-        "normalized": "",
-        "package": "regex-tdfa-utf8",
-        "partial": "Utf",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/regex-tdfa-utf8/docs/Text-Regex-TDFA-UTF8.html#v:utf8",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.Regex.TDFA.UTF8",
-        "fct-package": "regex-tdfa-utf8",
-        "fct-signature": "ByteString",
-        "fct-source": "src/Text-Regex-TDFA-UTF8.html#Utf8",
-        "fct-type": "function",
-        "title": "utf8"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text Regex TDFA UTF8",
-        "module": "Text.Regex.TDFA.UTF8",
-        "name": "utf8",
-        "normalized": "",
-        "package": "regex-tdfa-utf8",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

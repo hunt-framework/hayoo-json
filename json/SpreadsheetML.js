@@ -1,2693 +1,2491 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Builder",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "module",
-        "fct-source": "src/Text-XML-SpreadsheetML-Builder.html",
-        "fct-type": "module",
-        "title": "Builder"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Builder",
-        "module": "Text.XML.SpreadsheetML.Builder",
-        "name": "Builder",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Builder",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:bool",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Builder",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Bool -\u003e Cell",
-        "fct-source": "src/Text-XML-SpreadsheetML-Builder.html#bool",
-        "fct-type": "function",
-        "title": "bool"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Builder",
-        "module": "Text.XML.SpreadsheetML.Builder",
-        "name": "bool",
-        "normalized": "Bool-\u003eCell",
-        "package": "SpreadsheetML",
-        "partial": "",
-        "signature": "Bool-\u003eCell"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:emptyCell",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Builder",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Cell",
-        "fct-source": "src/Text-XML-SpreadsheetML-Builder.html#emptyCell",
-        "fct-type": "function",
-        "title": "emptyCell"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Builder",
-        "module": "Text.XML.SpreadsheetML.Builder",
-        "name": "emptyCell",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Cell",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:emptyColumn",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Builder",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Column",
-        "fct-source": "src/Text-XML-SpreadsheetML-Builder.html#emptyColumn",
-        "fct-type": "function",
-        "title": "emptyColumn"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Builder",
-        "module": "Text.XML.SpreadsheetML.Builder",
-        "name": "emptyColumn",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Column",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:emptyDocumentProperties",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Builder",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "DocumentProperties",
-        "fct-source": "src/Text-XML-SpreadsheetML-Builder.html#emptyDocumentProperties",
-        "fct-type": "function",
-        "title": "emptyDocumentProperties"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Builder",
-        "module": "Text.XML.SpreadsheetML.Builder",
-        "name": "emptyDocumentProperties",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Document Properties",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:emptyRow",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Builder",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Row",
-        "fct-source": "src/Text-XML-SpreadsheetML-Builder.html#emptyRow",
-        "fct-type": "function",
-        "title": "emptyRow"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Builder",
-        "module": "Text.XML.SpreadsheetML.Builder",
-        "name": "emptyRow",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Row",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:emptyTable",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Builder",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Table",
-        "fct-source": "src/Text-XML-SpreadsheetML-Builder.html#emptyTable",
-        "fct-type": "function",
-        "title": "emptyTable"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Builder",
-        "module": "Text.XML.SpreadsheetML.Builder",
-        "name": "emptyTable",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Table",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:emptyWorkbook",
-      "description": {
-        "fct-descr": "\u003cp\u003eConstruct empty values\n\u003c/p\u003e",
-        "fct-module": "Text.XML.SpreadsheetML.Builder",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Workbook",
-        "fct-source": "src/Text-XML-SpreadsheetML-Builder.html#emptyWorkbook",
-        "fct-type": "function",
-        "title": "emptyWorkbook"
-      },
-      "index": {
-        "description": "Construct empty values",
-        "hierarchy": "Text XML SpreadsheetML Builder",
-        "module": "Text.XML.SpreadsheetML.Builder",
-        "name": "emptyWorkbook",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Workbook",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:emptyWorksheet",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Builder",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Name -\u003e Worksheet",
-        "fct-source": "src/Text-XML-SpreadsheetML-Builder.html#emptyWorksheet",
-        "fct-type": "function",
-        "title": "emptyWorksheet"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Builder",
-        "module": "Text.XML.SpreadsheetML.Builder",
-        "name": "emptyWorksheet",
-        "normalized": "Name-\u003eWorksheet",
-        "package": "SpreadsheetML",
-        "partial": "Worksheet",
-        "signature": "Name-\u003eWorksheet"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:formula",
-      "description": {
-        "fct-descr": "\u003cp\u003eThis function may change in future versions, if a real formula type is\n created.\n\u003c/p\u003e",
-        "fct-module": "Text.XML.SpreadsheetML.Builder",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "String -\u003e Cell",
-        "fct-source": "src/Text-XML-SpreadsheetML-Builder.html#formula",
-        "fct-type": "function",
-        "title": "formula"
-      },
-      "index": {
-        "description": "This function may change in future versions if real formula type is created",
-        "hierarchy": "Text XML SpreadsheetML Builder",
-        "module": "Text.XML.SpreadsheetML.Builder",
-        "name": "formula",
-        "normalized": "String-\u003eCell",
-        "package": "SpreadsheetML",
-        "partial": "",
-        "signature": "String-\u003eCell"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:mkRow",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Builder",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "[Cell] -\u003e Row",
-        "fct-source": "src/Text-XML-SpreadsheetML-Builder.html#mkRow",
-        "fct-type": "function",
-        "title": "mkRow"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Builder",
-        "module": "Text.XML.SpreadsheetML.Builder",
-        "name": "mkRow",
-        "normalized": "[Cell]-\u003eRow",
-        "package": "SpreadsheetML",
-        "partial": "Row",
-        "signature": "[Cell]-\u003eRow"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:mkTable",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Builder",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "[Row] -\u003e Table",
-        "fct-source": "src/Text-XML-SpreadsheetML-Builder.html#mkTable",
-        "fct-type": "function",
-        "title": "mkTable"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Builder",
-        "module": "Text.XML.SpreadsheetML.Builder",
-        "name": "mkTable",
-        "normalized": "[Row]-\u003eTable",
-        "package": "SpreadsheetML",
-        "partial": "Table",
-        "signature": "[Row]-\u003eTable"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:mkWorkbook",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Builder",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "[Worksheet] -\u003e Workbook",
-        "fct-source": "src/Text-XML-SpreadsheetML-Builder.html#mkWorkbook",
-        "fct-type": "function",
-        "title": "mkWorkbook"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Builder",
-        "module": "Text.XML.SpreadsheetML.Builder",
-        "name": "mkWorkbook",
-        "normalized": "[Worksheet]-\u003eWorkbook",
-        "package": "SpreadsheetML",
-        "partial": "Workbook",
-        "signature": "[Worksheet]-\u003eWorkbook"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:mkWorksheet",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Builder",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Name -\u003e Table -\u003e Worksheet",
-        "fct-source": "src/Text-XML-SpreadsheetML-Builder.html#mkWorksheet",
-        "fct-type": "function",
-        "title": "mkWorksheet"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Builder",
-        "module": "Text.XML.SpreadsheetML.Builder",
-        "name": "mkWorksheet",
-        "normalized": "Name-\u003eTable-\u003eWorksheet",
-        "package": "SpreadsheetML",
-        "partial": "Worksheet",
-        "signature": "Name-\u003eTable-\u003eWorksheet"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:number",
-      "description": {
-        "fct-descr": "\u003cp\u003eConvenience constructors\n\u003c/p\u003e",
-        "fct-module": "Text.XML.SpreadsheetML.Builder",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Double -\u003e Cell",
-        "fct-source": "src/Text-XML-SpreadsheetML-Builder.html#number",
-        "fct-type": "function",
-        "title": "number"
-      },
-      "index": {
-        "description": "Convenience constructors",
-        "hierarchy": "Text XML SpreadsheetML Builder",
-        "module": "Text.XML.SpreadsheetML.Builder",
-        "name": "number",
-        "normalized": "Double-\u003eCell",
-        "package": "SpreadsheetML",
-        "partial": "",
-        "signature": "Double-\u003eCell"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:string",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Builder",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "String -\u003e Cell",
-        "fct-source": "src/Text-XML-SpreadsheetML-Builder.html#string",
-        "fct-type": "function",
-        "title": "string"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Builder",
-        "module": "Text.XML.SpreadsheetML.Builder",
-        "name": "string",
-        "normalized": "String-\u003eCell",
-        "package": "SpreadsheetML",
-        "partial": "",
-        "signature": "String-\u003eCell"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:tableFromCells",
-      "description": {
-        "fct-descr": "\u003cp\u003eMost of the time this is the easiest way to make a table\n\u003c/p\u003e",
-        "fct-module": "Text.XML.SpreadsheetML.Builder",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "[[Cell]] -\u003e Table",
-        "fct-source": "src/Text-XML-SpreadsheetML-Builder.html#tableFromCells",
-        "fct-type": "function",
-        "title": "tableFromCells"
-      },
-      "index": {
-        "description": "Most of the time this is the easiest way to make table",
-        "hierarchy": "Text XML SpreadsheetML Builder",
-        "module": "Text.XML.SpreadsheetML.Builder",
-        "name": "tableFromCells",
-        "normalized": "[[Cell]]-\u003eTable",
-        "package": "SpreadsheetML",
-        "partial": "From Cells",
-        "signature": "[[Cell]]-\u003eTable"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "module",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html",
-        "fct-type": "module",
-        "title": "Types"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "Types",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Types",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#t:AutoFitHeight",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "data",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#AutoFitHeight",
-        "fct-type": "data",
-        "title": "AutoFitHeight"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "AutoFitHeight",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Auto Fit Height",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#t:AutoFitWidth",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "data",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#AutoFitWidth",
-        "fct-type": "data",
-        "title": "AutoFitWidth"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "AutoFitWidth",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Auto Fit Width",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#t:Caption",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "newtype",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Caption",
-        "fct-type": "newtype",
-        "title": "Caption"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "Caption",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Caption",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#t:Cell",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "data",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Cell",
-        "fct-type": "data",
-        "title": "Cell"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "Cell",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Cell",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#t:Column",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "data",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Column",
-        "fct-type": "data",
-        "title": "Column"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "Column",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Column",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#t:DocumentProperties",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "data",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#DocumentProperties",
-        "fct-type": "data",
-        "title": "DocumentProperties"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "DocumentProperties",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Document Properties",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#t:ExcelValue",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "data",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#ExcelValue",
-        "fct-type": "data",
-        "title": "ExcelValue"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "ExcelValue",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Excel Value",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#t:Formula",
-      "description": {
-        "fct-descr": "\u003cp\u003eTODO: Currently just a string, but we could model excel formulas and\n use that type here instead.\n\u003c/p\u003e",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "newtype",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Formula",
-        "fct-type": "newtype",
-        "title": "Formula"
-      },
-      "index": {
-        "description": "TODO Currently just string but we could model excel formulas and use that type here instead",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "Formula",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Formula",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#t:Hidden",
-      "description": {
-        "fct-descr": "\u003cp\u003eAttribute for hidden things\n\u003c/p\u003e",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "data",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Hidden",
-        "fct-type": "data",
-        "title": "Hidden"
-      },
-      "index": {
-        "description": "Attribute for hidden things",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "Hidden",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Hidden",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#t:Name",
-      "description": {
-        "fct-descr": "\u003cp\u003eFor now this is just a string, but we could model excel's names\n\u003c/p\u003e",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "newtype",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Name",
-        "fct-type": "newtype",
-        "title": "Name"
-      },
-      "index": {
-        "description": "For now this is just string but we could model excel names",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "Name",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#t:Row",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "data",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Row",
-        "fct-type": "data",
-        "title": "Row"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "Row",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Row",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#t:Table",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "data",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Table",
-        "fct-type": "data",
-        "title": "Table"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "Table",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Table",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#t:Workbook",
-      "description": {
-        "fct-descr": "\u003cp\u003eOnly implement what we need\n\u003c/p\u003e",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "data",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Workbook",
-        "fct-type": "data",
-        "title": "Workbook"
-      },
-      "index": {
-        "description": "Only implement what we need",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "Workbook",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Workbook",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#t:Worksheet",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "data",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Worksheet",
-        "fct-type": "data",
-        "title": "Worksheet"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "Worksheet",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Worksheet",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:AutoFitHeight",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "AutoFitHeight",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#AutoFitHeight",
-        "fct-type": "function",
-        "title": "AutoFitHeight"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "AutoFitHeight",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Auto Fit Height",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:AutoFitWidth",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "AutoFitWidth",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#AutoFitWidth",
-        "fct-type": "function",
-        "title": "AutoFitWidth"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "AutoFitWidth",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Auto Fit Width",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:Boolean",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Boolean Bool",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#ExcelValue",
-        "fct-type": "function",
-        "title": "Boolean"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "Boolean",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Boolean",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:Caption",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Caption String",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Caption",
-        "fct-type": "function",
-        "title": "Caption"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "Caption",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Caption",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:Cell",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Cell",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Cell",
-        "fct-type": "function",
-        "title": "Cell"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "Cell",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Cell",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:Column",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Column",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Column",
-        "fct-type": "function",
-        "title": "Column"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "Column",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Column",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:DoNotAutoFitHeight",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "DoNotAutoFitHeight",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#AutoFitHeight",
-        "fct-type": "function",
-        "title": "DoNotAutoFitHeight"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "DoNotAutoFitHeight",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Do Not Auto Fit Height",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:DoNotAutoFitWidth",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "DoNotAutoFitWidth",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#AutoFitWidth",
-        "fct-type": "function",
-        "title": "DoNotAutoFitWidth"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "DoNotAutoFitWidth",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Do Not Auto Fit Width",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:DocumentProperties",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "DocumentProperties",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#DocumentProperties",
-        "fct-type": "function",
-        "title": "DocumentProperties"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "DocumentProperties",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Document Properties",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:Formula",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Formula String",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Formula",
-        "fct-type": "function",
-        "title": "Formula"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "Formula",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Formula",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:Hidden",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Hidden",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Hidden",
-        "fct-type": "function",
-        "title": "Hidden"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "Hidden",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Hidden",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:Name",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Name String",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Name",
-        "fct-type": "function",
-        "title": "Name"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "Name",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:Number",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Number Double",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#ExcelValue",
-        "fct-type": "function",
-        "title": "Number"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "Number",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Number",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:Row",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Row",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Row",
-        "fct-type": "function",
-        "title": "Row"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "Row",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Row",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:Shown",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Shown",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Hidden",
-        "fct-type": "function",
-        "title": "Shown"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "Shown",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Shown",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:StringType",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "StringType String",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#ExcelValue",
-        "fct-type": "function",
-        "title": "StringType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "StringType",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "String Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:Table",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Table",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Table",
-        "fct-type": "function",
-        "title": "Table"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "Table",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Table",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:Workbook",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Workbook",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Workbook",
-        "fct-type": "function",
-        "title": "Workbook"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "Workbook",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Workbook",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:Worksheet",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Worksheet",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Worksheet",
-        "fct-type": "function",
-        "title": "Worksheet"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "Worksheet",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Worksheet",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:cellData",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe ExcelValue",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Cell",
-        "fct-type": "function",
-        "title": "cellData"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "cellData",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Data",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:cellFormula",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe Formula",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Cell",
-        "fct-type": "function",
-        "title": "cellFormula"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "cellFormula",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Formula",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:cellIndex",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe Word64",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Cell",
-        "fct-type": "function",
-        "title": "cellIndex"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "cellIndex",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Index",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:cellMergeAcross",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe Word64",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Cell",
-        "fct-type": "function",
-        "title": "cellMergeAcross"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "cellMergeAcross",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Merge Across",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:cellMergeDown",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe Word64",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Cell",
-        "fct-type": "function",
-        "title": "cellMergeDown"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "cellMergeDown",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Merge Down",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:columnAutoFitWidth",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe AutoFitWidth",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Column",
-        "fct-type": "function",
-        "title": "columnAutoFitWidth"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "columnAutoFitWidth",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Auto Fit Width",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:columnCaption",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe Caption",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Column",
-        "fct-type": "function",
-        "title": "columnCaption"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "columnCaption",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Caption",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:columnHidden",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe Hidden",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Column",
-        "fct-type": "function",
-        "title": "columnHidden"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "columnHidden",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Hidden",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:columnIndex",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe Word64",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Column",
-        "fct-type": "function",
-        "title": "columnIndex"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "columnIndex",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Index",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:columnSpan",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe Word64",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Column",
-        "fct-type": "function",
-        "title": "columnSpan"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "columnSpan",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Span",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:columnWidth",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe Double",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Column",
-        "fct-type": "function",
-        "title": "columnWidth"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "columnWidth",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Width",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:documentPropertiesAppName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe String",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#DocumentProperties",
-        "fct-type": "function",
-        "title": "documentPropertiesAppName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "documentPropertiesAppName",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Properties App Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:documentPropertiesCreated",
-      "description": {
-        "fct-descr": "\u003cp\u003eActually, this should be a date time\n\u003c/p\u003e",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe String",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#DocumentProperties",
-        "fct-type": "function",
-        "title": "documentPropertiesCreated"
-      },
-      "index": {
-        "description": "Actually this should be date time",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "documentPropertiesCreated",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Properties Created",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:documentPropertiesDescription",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe String",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#DocumentProperties",
-        "fct-type": "function",
-        "title": "documentPropertiesDescription"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "documentPropertiesDescription",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Properties Description",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:documentPropertiesKeywords",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe String",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#DocumentProperties",
-        "fct-type": "function",
-        "title": "documentPropertiesKeywords"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "documentPropertiesKeywords",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Properties Keywords",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:documentPropertiesRevision",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe Word64",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#DocumentProperties",
-        "fct-type": "function",
-        "title": "documentPropertiesRevision"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "documentPropertiesRevision",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Properties Revision",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:documentPropertiesSubject",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe String",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#DocumentProperties",
-        "fct-type": "function",
-        "title": "documentPropertiesSubject"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "documentPropertiesSubject",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Properties Subject",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:documentPropertiesTitle",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe String",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#DocumentProperties",
-        "fct-type": "function",
-        "title": "documentPropertiesTitle"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "documentPropertiesTitle",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Properties Title",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:rowAutoFitHeight",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe AutoFitHeight",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Row",
-        "fct-type": "function",
-        "title": "rowAutoFitHeight"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "rowAutoFitHeight",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Auto Fit Height",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:rowCaption",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe Caption",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Row",
-        "fct-type": "function",
-        "title": "rowCaption"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "rowCaption",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Caption",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:rowCells",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "[Cell]",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Row",
-        "fct-type": "function",
-        "title": "rowCells"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "rowCells",
-        "normalized": "[Cell]",
-        "package": "SpreadsheetML",
-        "partial": "Cells",
-        "signature": "[Cell]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:rowHeight",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe Double",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Row",
-        "fct-type": "function",
-        "title": "rowHeight"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "rowHeight",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Height",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:rowHidden",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe Hidden",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Row",
-        "fct-type": "function",
-        "title": "rowHidden"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "rowHidden",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Hidden",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:rowIndex",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe Word64",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Row",
-        "fct-type": "function",
-        "title": "rowIndex"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "rowIndex",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Index",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:rowSpan",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe Word64",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Row",
-        "fct-type": "function",
-        "title": "rowSpan"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "rowSpan",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Span",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:tableColumns",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "[Column]",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Table",
-        "fct-type": "function",
-        "title": "tableColumns"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "tableColumns",
-        "normalized": "[Column]",
-        "package": "SpreadsheetML",
-        "partial": "Columns",
-        "signature": "[Column]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:tableDefaultColumnWidth",
-      "description": {
-        "fct-descr": "\u003cp\u003eDefault is 48\n\u003c/p\u003e",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe Double",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Table",
-        "fct-type": "function",
-        "title": "tableDefaultColumnWidth"
-      },
-      "index": {
-        "description": "Default is",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "tableDefaultColumnWidth",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Default Column Width",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:tableDefaultRowHeight",
-      "description": {
-        "fct-descr": "\u003cp\u003eDefault is 12.75\n\u003c/p\u003e",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe Double",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Table",
-        "fct-type": "function",
-        "title": "tableDefaultRowHeight"
-      },
-      "index": {
-        "description": "Default is",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "tableDefaultRowHeight",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Default Row Height",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:tableExpandedColumnCount",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe Word64",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Table",
-        "fct-type": "function",
-        "title": "tableExpandedColumnCount"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "tableExpandedColumnCount",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Expanded Column Count",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:tableExpandedRowCount",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe Word64",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Table",
-        "fct-type": "function",
-        "title": "tableExpandedRowCount"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "tableExpandedRowCount",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Expanded Row Count",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:tableFullColumns",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe Bool",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Table",
-        "fct-type": "function",
-        "title": "tableFullColumns"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "tableFullColumns",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Full Columns",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:tableFullRows",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe Bool",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Table",
-        "fct-type": "function",
-        "title": "tableFullRows"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "tableFullRows",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Full Rows",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:tableLeftCell",
-      "description": {
-        "fct-descr": "\u003cp\u003eDefault is 1\n\u003c/p\u003e",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe Word64",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Table",
-        "fct-type": "function",
-        "title": "tableLeftCell"
-      },
-      "index": {
-        "description": "Default is",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "tableLeftCell",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Left Cell",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:tableRows",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "[Row]",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Table",
-        "fct-type": "function",
-        "title": "tableRows"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "tableRows",
-        "normalized": "[Row]",
-        "package": "SpreadsheetML",
-        "partial": "Rows",
-        "signature": "[Row]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:tableTopCell",
-      "description": {
-        "fct-descr": "\u003cp\u003eDefault is 1\n\u003c/p\u003e",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe Word64",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Table",
-        "fct-type": "function",
-        "title": "tableTopCell"
-      },
-      "index": {
-        "description": "Default is",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "tableTopCell",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Top Cell",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:workbookDocumentProperties",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe DocumentProperties",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Workbook",
-        "fct-type": "function",
-        "title": "workbookDocumentProperties"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "workbookDocumentProperties",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Document Properties",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:workbookWorksheets",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "[Worksheet]",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Workbook",
-        "fct-type": "function",
-        "title": "workbookWorksheets"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "workbookWorksheets",
-        "normalized": "[Worksheet]",
-        "package": "SpreadsheetML",
-        "partial": "Worksheets",
-        "signature": "[Worksheet]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:worksheetName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Name",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Worksheet",
-        "fct-type": "function",
-        "title": "worksheetName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "worksheetName",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:worksheetTable",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.SpreadsheetML.Types",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Maybe Table",
-        "fct-source": "src/Text-XML-SpreadsheetML-Types.html#Worksheet",
-        "fct-type": "function",
-        "title": "worksheetTable"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Types",
-        "module": "Text.XML.SpreadsheetML.Types",
-        "name": "worksheetTable",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Table",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Writer",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "module",
-        "fct-source": "src/Text-XML-SpreadsheetML-Writer.html",
-        "fct-type": "module",
-        "title": "Writer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Writer",
-        "module": "Text.XML.SpreadsheetML.Writer",
-        "name": "Writer",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Writer",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#t:ToElement",
-      "description": {
-        "fct-descr": "\u003cp\u003eXML Conversion Class\n\u003c/p\u003e",
-        "fct-module": "Text.XML.SpreadsheetML.Writer",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "class",
-        "fct-source": "src/Text-XML-SpreadsheetML-Writer.html#ToElement",
-        "fct-type": "class",
-        "title": "ToElement"
-      },
-      "index": {
-        "description": "XML Conversion Class",
-        "hierarchy": "Text XML SpreadsheetML Writer",
-        "module": "Text.XML.SpreadsheetML.Writer",
-        "name": "ToElement",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "To Element",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:emptyCell",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Writer",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Element",
-        "fct-source": "src/Text-XML-SpreadsheetML-Writer.html#emptyCell",
-        "fct-type": "function",
-        "title": "emptyCell"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Writer",
-        "module": "Text.XML.SpreadsheetML.Writer",
-        "name": "emptyCell",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Cell",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:emptyColumn",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Writer",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Element",
-        "fct-source": "src/Text-XML-SpreadsheetML-Writer.html#emptyColumn",
-        "fct-type": "function",
-        "title": "emptyColumn"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Writer",
-        "module": "Text.XML.SpreadsheetML.Writer",
-        "name": "emptyColumn",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Column",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:emptyDocumentProperties",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Writer",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Element",
-        "fct-source": "src/Text-XML-SpreadsheetML-Writer.html#emptyDocumentProperties",
-        "fct-type": "function",
-        "title": "emptyDocumentProperties"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Writer",
-        "module": "Text.XML.SpreadsheetML.Writer",
-        "name": "emptyDocumentProperties",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Document Properties",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:emptyRow",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Writer",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Element",
-        "fct-source": "src/Text-XML-SpreadsheetML-Writer.html#emptyRow",
-        "fct-type": "function",
-        "title": "emptyRow"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Writer",
-        "module": "Text.XML.SpreadsheetML.Writer",
-        "name": "emptyRow",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Row",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:emptyTable",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Writer",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Element",
-        "fct-source": "src/Text-XML-SpreadsheetML-Writer.html#emptyTable",
-        "fct-type": "function",
-        "title": "emptyTable"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Writer",
-        "module": "Text.XML.SpreadsheetML.Writer",
-        "name": "emptyTable",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Table",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:emptyWorkbook",
-      "description": {
-        "fct-descr": "\u003cp\u003eEmpty Elements\n\u003c/p\u003e",
-        "fct-module": "Text.XML.SpreadsheetML.Writer",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Element",
-        "fct-source": "src/Text-XML-SpreadsheetML-Writer.html#emptyWorkbook",
-        "fct-type": "function",
-        "title": "emptyWorkbook"
-      },
-      "index": {
-        "description": "Empty Elements",
-        "hierarchy": "Text XML SpreadsheetML Writer",
-        "module": "Text.XML.SpreadsheetML.Writer",
-        "name": "emptyWorkbook",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Workbook",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:emptyWorksheet",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Writer",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Name -\u003e Element",
-        "fct-source": "src/Text-XML-SpreadsheetML-Writer.html#emptyWorksheet",
-        "fct-type": "function",
-        "title": "emptyWorksheet"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Writer",
-        "module": "Text.XML.SpreadsheetML.Writer",
-        "name": "emptyWorksheet",
-        "normalized": "Name-\u003eElement",
-        "package": "SpreadsheetML",
-        "partial": "Worksheet",
-        "signature": "Name-\u003eElement"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:htmlNamespace",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Writer",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "QName",
-        "fct-source": "src/Text-XML-SpreadsheetML-Writer.html#htmlNamespace",
-        "fct-type": "function",
-        "title": "htmlNamespace"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Writer",
-        "module": "Text.XML.SpreadsheetML.Writer",
-        "name": "htmlNamespace",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Namespace",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:mkData",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Writer",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "ExcelValue -\u003e Element",
-        "fct-source": "src/Text-XML-SpreadsheetML-Writer.html#mkData",
-        "fct-type": "function",
-        "title": "mkData"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Writer",
-        "module": "Text.XML.SpreadsheetML.Writer",
-        "name": "mkData",
-        "normalized": "ExcelValue-\u003eElement",
-        "package": "SpreadsheetML",
-        "partial": "Data",
-        "signature": "ExcelValue-\u003eElement"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:namespace",
-      "description": {
-        "fct-descr": "\u003cp\u003eNamespaces\n\u003c/p\u003e",
-        "fct-module": "Text.XML.SpreadsheetML.Writer",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "QName",
-        "fct-source": "src/Text-XML-SpreadsheetML-Writer.html#namespace",
-        "fct-type": "function",
-        "title": "namespace"
-      },
-      "index": {
-        "description": "Namespaces",
-        "hierarchy": "Text XML SpreadsheetML Writer",
-        "module": "Text.XML.SpreadsheetML.Writer",
-        "name": "namespace",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:oNamespace",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Writer",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "QName",
-        "fct-source": "src/Text-XML-SpreadsheetML-Writer.html#oNamespace",
-        "fct-type": "function",
-        "title": "oNamespace"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Writer",
-        "module": "Text.XML.SpreadsheetML.Writer",
-        "name": "oNamespace",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Namespace",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:showBoolean",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Writer",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Bool -\u003e [Char]",
-        "fct-source": "src/Text-XML-SpreadsheetML-Writer.html#showBoolean",
-        "fct-type": "function",
-        "title": "showBoolean"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Writer",
-        "module": "Text.XML.SpreadsheetML.Writer",
-        "name": "showBoolean",
-        "normalized": "Bool-\u003e[Char]",
-        "package": "SpreadsheetML",
-        "partial": "Boolean",
-        "signature": "Bool-\u003e[Char]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:showCaption",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Writer",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Caption -\u003e String",
-        "fct-source": "src/Text-XML-SpreadsheetML-Writer.html#showCaption",
-        "fct-type": "function",
-        "title": "showCaption"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Writer",
-        "module": "Text.XML.SpreadsheetML.Writer",
-        "name": "showCaption",
-        "normalized": "Caption-\u003eString",
-        "package": "SpreadsheetML",
-        "partial": "Caption",
-        "signature": "Caption-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:showHidden",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Writer",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Hidden -\u003e String",
-        "fct-source": "src/Text-XML-SpreadsheetML-Writer.html#showHidden",
-        "fct-type": "function",
-        "title": "showHidden"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Writer",
-        "module": "Text.XML.SpreadsheetML.Writer",
-        "name": "showHidden",
-        "normalized": "Hidden-\u003eString",
-        "package": "SpreadsheetML",
-        "partial": "Hidden",
-        "signature": "Hidden-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:showSpreadsheet",
-      "description": {
-        "fct-descr": "\u003cp\u003eConvert a workbook to a string.  Write this string to a \u003ca\u003e.xls\u003c/a\u003e file\n and Excel will know how to open it.\n\u003c/p\u003e",
-        "fct-module": "Text.XML.SpreadsheetML.Writer",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "Workbook -\u003e String",
-        "fct-source": "src/Text-XML-SpreadsheetML-Writer.html#showSpreadsheet",
-        "fct-type": "function",
-        "title": "showSpreadsheet"
-      },
-      "index": {
-        "description": "Convert workbook to string Write this string to xls file and Excel will know how to open it",
-        "hierarchy": "Text XML SpreadsheetML Writer",
-        "module": "Text.XML.SpreadsheetML.Writer",
-        "name": "showSpreadsheet",
-        "normalized": "Workbook-\u003eString",
-        "package": "SpreadsheetML",
-        "partial": "Spreadsheet",
-        "signature": "Workbook-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:ssNamespace",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Writer",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "QName",
-        "fct-source": "src/Text-XML-SpreadsheetML-Writer.html#ssNamespace",
-        "fct-type": "function",
-        "title": "ssNamespace"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Writer",
-        "module": "Text.XML.SpreadsheetML.Writer",
-        "name": "ssNamespace",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Namespace",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:toElement",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Writer",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "a -\u003e Element",
-        "fct-source": "src/Text-XML-SpreadsheetML-Writer.html#toElement",
-        "fct-type": "method",
-        "title": "toElement"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Writer",
-        "module": "Text.XML.SpreadsheetML.Writer",
-        "name": "toElement",
-        "normalized": "a-\u003eElement",
-        "package": "SpreadsheetML",
-        "partial": "Element",
-        "signature": "a-\u003eElement"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:xNamespace",
-      "description": {
-        "fct-module": "Text.XML.SpreadsheetML.Writer",
-        "fct-package": "SpreadsheetML",
-        "fct-signature": "QName",
-        "fct-source": "src/Text-XML-SpreadsheetML-Writer.html#xNamespace",
-        "fct-type": "function",
-        "title": "xNamespace"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML SpreadsheetML Writer",
-        "module": "Text.XML.SpreadsheetML.Writer",
-        "name": "xNamespace",
-        "normalized": "",
-        "package": "SpreadsheetML",
-        "partial": "Namespace",
-        "signature": ""
-      }
-    }
-  }
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "SpreadsheetML"
+      },
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "Builder",
+          "package": "SpreadsheetML",
+          "source": "src/Text-XML-SpreadsheetML-Builder.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Builder",
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "Builder",
+          "package": "SpreadsheetML",
+          "partial": "Builder",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "bool",
+          "package": "SpreadsheetML",
+          "signature": "Bool -\u003e Cell",
+          "source": "src/Text-XML-SpreadsheetML-Builder.html#bool",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Builder",
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "bool",
+          "normalized": "Bool-\u003eCell",
+          "package": "SpreadsheetML",
+          "signature": "Bool-\u003eCell",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:bool"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "emptyCell",
+          "package": "SpreadsheetML",
+          "signature": "Cell",
+          "source": "src/Text-XML-SpreadsheetML-Builder.html#emptyCell",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Builder",
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "emptyCell",
+          "package": "SpreadsheetML",
+          "partial": "Cell",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:emptyCell"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "emptyColumn",
+          "package": "SpreadsheetML",
+          "signature": "Column",
+          "source": "src/Text-XML-SpreadsheetML-Builder.html#emptyColumn",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Builder",
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "emptyColumn",
+          "package": "SpreadsheetML",
+          "partial": "Column",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:emptyColumn"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "emptyDocumentProperties",
+          "package": "SpreadsheetML",
+          "signature": "DocumentProperties",
+          "source": "src/Text-XML-SpreadsheetML-Builder.html#emptyDocumentProperties",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Builder",
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "emptyDocumentProperties",
+          "package": "SpreadsheetML",
+          "partial": "Document Properties",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:emptyDocumentProperties"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "emptyRow",
+          "package": "SpreadsheetML",
+          "signature": "Row",
+          "source": "src/Text-XML-SpreadsheetML-Builder.html#emptyRow",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Builder",
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "emptyRow",
+          "package": "SpreadsheetML",
+          "partial": "Row",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:emptyRow"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "emptyTable",
+          "package": "SpreadsheetML",
+          "signature": "Table",
+          "source": "src/Text-XML-SpreadsheetML-Builder.html#emptyTable",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Builder",
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "emptyTable",
+          "package": "SpreadsheetML",
+          "partial": "Table",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:emptyTable"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eConstruct empty values\n\u003c/p\u003e",
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "emptyWorkbook",
+          "package": "SpreadsheetML",
+          "signature": "Workbook",
+          "source": "src/Text-XML-SpreadsheetML-Builder.html#emptyWorkbook",
+          "type": "function"
+        },
+        "index": {
+          "description": "Construct empty values",
+          "hierarchy": "Text XML SpreadsheetML Builder",
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "emptyWorkbook",
+          "package": "SpreadsheetML",
+          "partial": "Workbook",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:emptyWorkbook"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "emptyWorksheet",
+          "package": "SpreadsheetML",
+          "signature": "Name -\u003e Worksheet",
+          "source": "src/Text-XML-SpreadsheetML-Builder.html#emptyWorksheet",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Builder",
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "emptyWorksheet",
+          "normalized": "Name-\u003eWorksheet",
+          "package": "SpreadsheetML",
+          "partial": "Worksheet",
+          "signature": "Name-\u003eWorksheet",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:emptyWorksheet"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eThis function may change in future versions, if a real formula type is\n created.\n\u003c/p\u003e",
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "formula",
+          "package": "SpreadsheetML",
+          "signature": "String -\u003e Cell",
+          "source": "src/Text-XML-SpreadsheetML-Builder.html#formula",
+          "type": "function"
+        },
+        "index": {
+          "description": "This function may change in future versions if real formula type is created",
+          "hierarchy": "Text XML SpreadsheetML Builder",
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "formula",
+          "normalized": "String-\u003eCell",
+          "package": "SpreadsheetML",
+          "signature": "String-\u003eCell",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:formula"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "mkRow",
+          "package": "SpreadsheetML",
+          "signature": "[Cell] -\u003e Row",
+          "source": "src/Text-XML-SpreadsheetML-Builder.html#mkRow",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Builder",
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "mkRow",
+          "normalized": "[Cell]-\u003eRow",
+          "package": "SpreadsheetML",
+          "partial": "Row",
+          "signature": "[Cell]-\u003eRow",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:mkRow"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "mkTable",
+          "package": "SpreadsheetML",
+          "signature": "[Row] -\u003e Table",
+          "source": "src/Text-XML-SpreadsheetML-Builder.html#mkTable",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Builder",
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "mkTable",
+          "normalized": "[Row]-\u003eTable",
+          "package": "SpreadsheetML",
+          "partial": "Table",
+          "signature": "[Row]-\u003eTable",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:mkTable"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "mkWorkbook",
+          "package": "SpreadsheetML",
+          "signature": "[Worksheet] -\u003e Workbook",
+          "source": "src/Text-XML-SpreadsheetML-Builder.html#mkWorkbook",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Builder",
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "mkWorkbook",
+          "normalized": "[Worksheet]-\u003eWorkbook",
+          "package": "SpreadsheetML",
+          "partial": "Workbook",
+          "signature": "[Worksheet]-\u003eWorkbook",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:mkWorkbook"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "mkWorksheet",
+          "package": "SpreadsheetML",
+          "signature": "Name -\u003e Table -\u003e Worksheet",
+          "source": "src/Text-XML-SpreadsheetML-Builder.html#mkWorksheet",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Builder",
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "mkWorksheet",
+          "normalized": "Name-\u003eTable-\u003eWorksheet",
+          "package": "SpreadsheetML",
+          "partial": "Worksheet",
+          "signature": "Name-\u003eTable-\u003eWorksheet",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:mkWorksheet"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eConvenience constructors\n\u003c/p\u003e",
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "number",
+          "package": "SpreadsheetML",
+          "signature": "Double -\u003e Cell",
+          "source": "src/Text-XML-SpreadsheetML-Builder.html#number",
+          "type": "function"
+        },
+        "index": {
+          "description": "Convenience constructors",
+          "hierarchy": "Text XML SpreadsheetML Builder",
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "number",
+          "normalized": "Double-\u003eCell",
+          "package": "SpreadsheetML",
+          "signature": "Double-\u003eCell",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:number"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "string",
+          "package": "SpreadsheetML",
+          "signature": "String -\u003e Cell",
+          "source": "src/Text-XML-SpreadsheetML-Builder.html#string",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Builder",
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "string",
+          "normalized": "String-\u003eCell",
+          "package": "SpreadsheetML",
+          "signature": "String-\u003eCell",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:string"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eMost of the time this is the easiest way to make a table\n\u003c/p\u003e",
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "tableFromCells",
+          "package": "SpreadsheetML",
+          "signature": "[[Cell]] -\u003e Table",
+          "source": "src/Text-XML-SpreadsheetML-Builder.html#tableFromCells",
+          "type": "function"
+        },
+        "index": {
+          "description": "Most of the time this is the easiest way to make table",
+          "hierarchy": "Text XML SpreadsheetML Builder",
+          "module": "Text.XML.SpreadsheetML.Builder",
+          "name": "tableFromCells",
+          "normalized": "[[Cell]]-\u003eTable",
+          "package": "SpreadsheetML",
+          "partial": "From Cells",
+          "signature": "[[Cell]]-\u003eTable",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Builder.html#v:tableFromCells"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Types",
+          "package": "SpreadsheetML",
+          "source": "src/Text-XML-SpreadsheetML-Types.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Types",
+          "package": "SpreadsheetML",
+          "partial": "Types",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "AutoFitHeight",
+          "package": "SpreadsheetML",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#AutoFitHeight",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "AutoFitHeight",
+          "package": "SpreadsheetML",
+          "partial": "Auto Fit Height",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#t:AutoFitHeight"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "AutoFitWidth",
+          "package": "SpreadsheetML",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#AutoFitWidth",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "AutoFitWidth",
+          "package": "SpreadsheetML",
+          "partial": "Auto Fit Width",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#t:AutoFitWidth"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Caption",
+          "package": "SpreadsheetML",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Caption",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Caption",
+          "package": "SpreadsheetML",
+          "partial": "Caption",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#t:Caption"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Cell",
+          "package": "SpreadsheetML",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Cell",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Cell",
+          "package": "SpreadsheetML",
+          "partial": "Cell",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#t:Cell"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Column",
+          "package": "SpreadsheetML",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Column",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Column",
+          "package": "SpreadsheetML",
+          "partial": "Column",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#t:Column"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "DocumentProperties",
+          "package": "SpreadsheetML",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#DocumentProperties",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "DocumentProperties",
+          "package": "SpreadsheetML",
+          "partial": "Document Properties",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#t:DocumentProperties"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "ExcelValue",
+          "package": "SpreadsheetML",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#ExcelValue",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "ExcelValue",
+          "package": "SpreadsheetML",
+          "partial": "Excel Value",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#t:ExcelValue"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eTODO: Currently just a string, but we could model excel formulas and\n use that type here instead.\n\u003c/p\u003e",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Formula",
+          "package": "SpreadsheetML",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Formula",
+          "type": "newtype"
+        },
+        "index": {
+          "description": "TODO Currently just string but we could model excel formulas and use that type here instead",
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Formula",
+          "package": "SpreadsheetML",
+          "partial": "Formula",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#t:Formula"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eAttribute for hidden things\n\u003c/p\u003e",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Hidden",
+          "package": "SpreadsheetML",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Hidden",
+          "type": "data"
+        },
+        "index": {
+          "description": "Attribute for hidden things",
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Hidden",
+          "package": "SpreadsheetML",
+          "partial": "Hidden",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#t:Hidden"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eFor now this is just a string, but we could model excel's names\n\u003c/p\u003e",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Name",
+          "package": "SpreadsheetML",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Name",
+          "type": "newtype"
+        },
+        "index": {
+          "description": "For now this is just string but we could model excel names",
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Name",
+          "package": "SpreadsheetML",
+          "partial": "Name",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#t:Name"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Row",
+          "package": "SpreadsheetML",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Row",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Row",
+          "package": "SpreadsheetML",
+          "partial": "Row",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#t:Row"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Table",
+          "package": "SpreadsheetML",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Table",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Table",
+          "package": "SpreadsheetML",
+          "partial": "Table",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#t:Table"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eOnly implement what we need\n\u003c/p\u003e",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Workbook",
+          "package": "SpreadsheetML",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Workbook",
+          "type": "data"
+        },
+        "index": {
+          "description": "Only implement what we need",
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Workbook",
+          "package": "SpreadsheetML",
+          "partial": "Workbook",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#t:Workbook"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Worksheet",
+          "package": "SpreadsheetML",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Worksheet",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Worksheet",
+          "package": "SpreadsheetML",
+          "partial": "Worksheet",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#t:Worksheet"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "AutoFitHeight",
+          "package": "SpreadsheetML",
+          "signature": "AutoFitHeight",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#AutoFitHeight",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "AutoFitHeight",
+          "package": "SpreadsheetML",
+          "partial": "Auto Fit Height",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:AutoFitHeight"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "AutoFitWidth",
+          "package": "SpreadsheetML",
+          "signature": "AutoFitWidth",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#AutoFitWidth",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "AutoFitWidth",
+          "package": "SpreadsheetML",
+          "partial": "Auto Fit Width",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:AutoFitWidth"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Boolean",
+          "package": "SpreadsheetML",
+          "signature": "Boolean Bool",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#ExcelValue",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Boolean",
+          "package": "SpreadsheetML",
+          "partial": "Boolean",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:Boolean"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Caption",
+          "package": "SpreadsheetML",
+          "signature": "Caption String",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Caption",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Caption",
+          "package": "SpreadsheetML",
+          "partial": "Caption",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:Caption"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Cell",
+          "package": "SpreadsheetML",
+          "signature": "Cell",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Cell",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Cell",
+          "package": "SpreadsheetML",
+          "partial": "Cell",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:Cell"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Column",
+          "package": "SpreadsheetML",
+          "signature": "Column",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Column",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Column",
+          "package": "SpreadsheetML",
+          "partial": "Column",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:Column"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "DoNotAutoFitHeight",
+          "package": "SpreadsheetML",
+          "signature": "DoNotAutoFitHeight",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#AutoFitHeight",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "DoNotAutoFitHeight",
+          "package": "SpreadsheetML",
+          "partial": "Do Not Auto Fit Height",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:DoNotAutoFitHeight"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "DoNotAutoFitWidth",
+          "package": "SpreadsheetML",
+          "signature": "DoNotAutoFitWidth",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#AutoFitWidth",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "DoNotAutoFitWidth",
+          "package": "SpreadsheetML",
+          "partial": "Do Not Auto Fit Width",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:DoNotAutoFitWidth"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "DocumentProperties",
+          "package": "SpreadsheetML",
+          "signature": "DocumentProperties",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#DocumentProperties",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "DocumentProperties",
+          "package": "SpreadsheetML",
+          "partial": "Document Properties",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:DocumentProperties"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Formula",
+          "package": "SpreadsheetML",
+          "signature": "Formula String",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Formula",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Formula",
+          "package": "SpreadsheetML",
+          "partial": "Formula",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:Formula"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Hidden",
+          "package": "SpreadsheetML",
+          "signature": "Hidden",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Hidden",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Hidden",
+          "package": "SpreadsheetML",
+          "partial": "Hidden",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:Hidden"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Name",
+          "package": "SpreadsheetML",
+          "signature": "Name String",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Name",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Name",
+          "package": "SpreadsheetML",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:Name"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Number",
+          "package": "SpreadsheetML",
+          "signature": "Number Double",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#ExcelValue",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Number",
+          "package": "SpreadsheetML",
+          "partial": "Number",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:Number"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Row",
+          "package": "SpreadsheetML",
+          "signature": "Row",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Row",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Row",
+          "package": "SpreadsheetML",
+          "partial": "Row",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:Row"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Shown",
+          "package": "SpreadsheetML",
+          "signature": "Shown",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Hidden",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Shown",
+          "package": "SpreadsheetML",
+          "partial": "Shown",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:Shown"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "StringType",
+          "package": "SpreadsheetML",
+          "signature": "StringType String",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#ExcelValue",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "StringType",
+          "package": "SpreadsheetML",
+          "partial": "String Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:StringType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Table",
+          "package": "SpreadsheetML",
+          "signature": "Table",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Table",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Table",
+          "package": "SpreadsheetML",
+          "partial": "Table",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:Table"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Workbook",
+          "package": "SpreadsheetML",
+          "signature": "Workbook",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Workbook",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Workbook",
+          "package": "SpreadsheetML",
+          "partial": "Workbook",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:Workbook"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Worksheet",
+          "package": "SpreadsheetML",
+          "signature": "Worksheet",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Worksheet",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "Worksheet",
+          "package": "SpreadsheetML",
+          "partial": "Worksheet",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:Worksheet"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "cellData",
+          "package": "SpreadsheetML",
+          "signature": "Maybe ExcelValue",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Cell",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "cellData",
+          "package": "SpreadsheetML",
+          "partial": "Data",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:cellData"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "cellFormula",
+          "package": "SpreadsheetML",
+          "signature": "Maybe Formula",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Cell",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "cellFormula",
+          "package": "SpreadsheetML",
+          "partial": "Formula",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:cellFormula"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "cellIndex",
+          "package": "SpreadsheetML",
+          "signature": "Maybe Word64",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Cell",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "cellIndex",
+          "package": "SpreadsheetML",
+          "partial": "Index",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:cellIndex"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "cellMergeAcross",
+          "package": "SpreadsheetML",
+          "signature": "Maybe Word64",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Cell",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "cellMergeAcross",
+          "package": "SpreadsheetML",
+          "partial": "Merge Across",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:cellMergeAcross"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "cellMergeDown",
+          "package": "SpreadsheetML",
+          "signature": "Maybe Word64",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Cell",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "cellMergeDown",
+          "package": "SpreadsheetML",
+          "partial": "Merge Down",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:cellMergeDown"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "columnAutoFitWidth",
+          "package": "SpreadsheetML",
+          "signature": "Maybe AutoFitWidth",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Column",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "columnAutoFitWidth",
+          "package": "SpreadsheetML",
+          "partial": "Auto Fit Width",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:columnAutoFitWidth"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "columnCaption",
+          "package": "SpreadsheetML",
+          "signature": "Maybe Caption",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Column",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "columnCaption",
+          "package": "SpreadsheetML",
+          "partial": "Caption",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:columnCaption"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "columnHidden",
+          "package": "SpreadsheetML",
+          "signature": "Maybe Hidden",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Column",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "columnHidden",
+          "package": "SpreadsheetML",
+          "partial": "Hidden",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:columnHidden"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "columnIndex",
+          "package": "SpreadsheetML",
+          "signature": "Maybe Word64",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Column",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "columnIndex",
+          "package": "SpreadsheetML",
+          "partial": "Index",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:columnIndex"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "columnSpan",
+          "package": "SpreadsheetML",
+          "signature": "Maybe Word64",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Column",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "columnSpan",
+          "package": "SpreadsheetML",
+          "partial": "Span",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:columnSpan"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "columnWidth",
+          "package": "SpreadsheetML",
+          "signature": "Maybe Double",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Column",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "columnWidth",
+          "package": "SpreadsheetML",
+          "partial": "Width",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:columnWidth"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "documentPropertiesAppName",
+          "package": "SpreadsheetML",
+          "signature": "Maybe String",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#DocumentProperties",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "documentPropertiesAppName",
+          "package": "SpreadsheetML",
+          "partial": "Properties App Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:documentPropertiesAppName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eActually, this should be a date time\n\u003c/p\u003e",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "documentPropertiesCreated",
+          "package": "SpreadsheetML",
+          "signature": "Maybe String",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#DocumentProperties",
+          "type": "function"
+        },
+        "index": {
+          "description": "Actually this should be date time",
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "documentPropertiesCreated",
+          "package": "SpreadsheetML",
+          "partial": "Properties Created",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:documentPropertiesCreated"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "documentPropertiesDescription",
+          "package": "SpreadsheetML",
+          "signature": "Maybe String",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#DocumentProperties",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "documentPropertiesDescription",
+          "package": "SpreadsheetML",
+          "partial": "Properties Description",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:documentPropertiesDescription"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "documentPropertiesKeywords",
+          "package": "SpreadsheetML",
+          "signature": "Maybe String",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#DocumentProperties",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "documentPropertiesKeywords",
+          "package": "SpreadsheetML",
+          "partial": "Properties Keywords",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:documentPropertiesKeywords"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "documentPropertiesRevision",
+          "package": "SpreadsheetML",
+          "signature": "Maybe Word64",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#DocumentProperties",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "documentPropertiesRevision",
+          "package": "SpreadsheetML",
+          "partial": "Properties Revision",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:documentPropertiesRevision"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "documentPropertiesSubject",
+          "package": "SpreadsheetML",
+          "signature": "Maybe String",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#DocumentProperties",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "documentPropertiesSubject",
+          "package": "SpreadsheetML",
+          "partial": "Properties Subject",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:documentPropertiesSubject"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "documentPropertiesTitle",
+          "package": "SpreadsheetML",
+          "signature": "Maybe String",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#DocumentProperties",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "documentPropertiesTitle",
+          "package": "SpreadsheetML",
+          "partial": "Properties Title",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:documentPropertiesTitle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "rowAutoFitHeight",
+          "package": "SpreadsheetML",
+          "signature": "Maybe AutoFitHeight",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Row",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "rowAutoFitHeight",
+          "package": "SpreadsheetML",
+          "partial": "Auto Fit Height",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:rowAutoFitHeight"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "rowCaption",
+          "package": "SpreadsheetML",
+          "signature": "Maybe Caption",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Row",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "rowCaption",
+          "package": "SpreadsheetML",
+          "partial": "Caption",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:rowCaption"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "rowCells",
+          "package": "SpreadsheetML",
+          "signature": "[Cell]",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Row",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "rowCells",
+          "normalized": "[Cell]",
+          "package": "SpreadsheetML",
+          "partial": "Cells",
+          "signature": "[Cell]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:rowCells"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "rowHeight",
+          "package": "SpreadsheetML",
+          "signature": "Maybe Double",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Row",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "rowHeight",
+          "package": "SpreadsheetML",
+          "partial": "Height",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:rowHeight"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "rowHidden",
+          "package": "SpreadsheetML",
+          "signature": "Maybe Hidden",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Row",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "rowHidden",
+          "package": "SpreadsheetML",
+          "partial": "Hidden",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:rowHidden"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "rowIndex",
+          "package": "SpreadsheetML",
+          "signature": "Maybe Word64",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Row",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "rowIndex",
+          "package": "SpreadsheetML",
+          "partial": "Index",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:rowIndex"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "rowSpan",
+          "package": "SpreadsheetML",
+          "signature": "Maybe Word64",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Row",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "rowSpan",
+          "package": "SpreadsheetML",
+          "partial": "Span",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:rowSpan"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "tableColumns",
+          "package": "SpreadsheetML",
+          "signature": "[Column]",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Table",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "tableColumns",
+          "normalized": "[Column]",
+          "package": "SpreadsheetML",
+          "partial": "Columns",
+          "signature": "[Column]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:tableColumns"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eDefault is 48\n\u003c/p\u003e",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "tableDefaultColumnWidth",
+          "package": "SpreadsheetML",
+          "signature": "Maybe Double",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Table",
+          "type": "function"
+        },
+        "index": {
+          "description": "Default is",
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "tableDefaultColumnWidth",
+          "package": "SpreadsheetML",
+          "partial": "Default Column Width",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:tableDefaultColumnWidth"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eDefault is 12.75\n\u003c/p\u003e",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "tableDefaultRowHeight",
+          "package": "SpreadsheetML",
+          "signature": "Maybe Double",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Table",
+          "type": "function"
+        },
+        "index": {
+          "description": "Default is",
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "tableDefaultRowHeight",
+          "package": "SpreadsheetML",
+          "partial": "Default Row Height",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:tableDefaultRowHeight"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "tableExpandedColumnCount",
+          "package": "SpreadsheetML",
+          "signature": "Maybe Word64",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Table",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "tableExpandedColumnCount",
+          "package": "SpreadsheetML",
+          "partial": "Expanded Column Count",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:tableExpandedColumnCount"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "tableExpandedRowCount",
+          "package": "SpreadsheetML",
+          "signature": "Maybe Word64",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Table",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "tableExpandedRowCount",
+          "package": "SpreadsheetML",
+          "partial": "Expanded Row Count",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:tableExpandedRowCount"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "tableFullColumns",
+          "package": "SpreadsheetML",
+          "signature": "Maybe Bool",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Table",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "tableFullColumns",
+          "package": "SpreadsheetML",
+          "partial": "Full Columns",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:tableFullColumns"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "tableFullRows",
+          "package": "SpreadsheetML",
+          "signature": "Maybe Bool",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Table",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "tableFullRows",
+          "package": "SpreadsheetML",
+          "partial": "Full Rows",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:tableFullRows"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eDefault is 1\n\u003c/p\u003e",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "tableLeftCell",
+          "package": "SpreadsheetML",
+          "signature": "Maybe Word64",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Table",
+          "type": "function"
+        },
+        "index": {
+          "description": "Default is",
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "tableLeftCell",
+          "package": "SpreadsheetML",
+          "partial": "Left Cell",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:tableLeftCell"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "tableRows",
+          "package": "SpreadsheetML",
+          "signature": "[Row]",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Table",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "tableRows",
+          "normalized": "[Row]",
+          "package": "SpreadsheetML",
+          "partial": "Rows",
+          "signature": "[Row]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:tableRows"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eDefault is 1\n\u003c/p\u003e",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "tableTopCell",
+          "package": "SpreadsheetML",
+          "signature": "Maybe Word64",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Table",
+          "type": "function"
+        },
+        "index": {
+          "description": "Default is",
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "tableTopCell",
+          "package": "SpreadsheetML",
+          "partial": "Top Cell",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:tableTopCell"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "workbookDocumentProperties",
+          "package": "SpreadsheetML",
+          "signature": "Maybe DocumentProperties",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Workbook",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "workbookDocumentProperties",
+          "package": "SpreadsheetML",
+          "partial": "Document Properties",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:workbookDocumentProperties"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "workbookWorksheets",
+          "package": "SpreadsheetML",
+          "signature": "[Worksheet]",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Workbook",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "workbookWorksheets",
+          "normalized": "[Worksheet]",
+          "package": "SpreadsheetML",
+          "partial": "Worksheets",
+          "signature": "[Worksheet]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:workbookWorksheets"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "worksheetName",
+          "package": "SpreadsheetML",
+          "signature": "Name",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Worksheet",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "worksheetName",
+          "package": "SpreadsheetML",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:worksheetName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "worksheetTable",
+          "package": "SpreadsheetML",
+          "signature": "Maybe Table",
+          "source": "src/Text-XML-SpreadsheetML-Types.html#Worksheet",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Types",
+          "module": "Text.XML.SpreadsheetML.Types",
+          "name": "worksheetTable",
+          "package": "SpreadsheetML",
+          "partial": "Table",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Types.html#v:worksheetTable"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "Writer",
+          "package": "SpreadsheetML",
+          "source": "src/Text-XML-SpreadsheetML-Writer.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Writer",
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "Writer",
+          "package": "SpreadsheetML",
+          "partial": "Writer",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eXML Conversion Class\n\u003c/p\u003e",
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "ToElement",
+          "package": "SpreadsheetML",
+          "source": "src/Text-XML-SpreadsheetML-Writer.html#ToElement",
+          "type": "class"
+        },
+        "index": {
+          "description": "XML Conversion Class",
+          "hierarchy": "Text XML SpreadsheetML Writer",
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "ToElement",
+          "package": "SpreadsheetML",
+          "partial": "To Element",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#t:ToElement"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "emptyCell",
+          "package": "SpreadsheetML",
+          "signature": "Element",
+          "source": "src/Text-XML-SpreadsheetML-Writer.html#emptyCell",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Writer",
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "emptyCell",
+          "package": "SpreadsheetML",
+          "partial": "Cell",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:emptyCell"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "emptyColumn",
+          "package": "SpreadsheetML",
+          "signature": "Element",
+          "source": "src/Text-XML-SpreadsheetML-Writer.html#emptyColumn",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Writer",
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "emptyColumn",
+          "package": "SpreadsheetML",
+          "partial": "Column",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:emptyColumn"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "emptyDocumentProperties",
+          "package": "SpreadsheetML",
+          "signature": "Element",
+          "source": "src/Text-XML-SpreadsheetML-Writer.html#emptyDocumentProperties",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Writer",
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "emptyDocumentProperties",
+          "package": "SpreadsheetML",
+          "partial": "Document Properties",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:emptyDocumentProperties"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "emptyRow",
+          "package": "SpreadsheetML",
+          "signature": "Element",
+          "source": "src/Text-XML-SpreadsheetML-Writer.html#emptyRow",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Writer",
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "emptyRow",
+          "package": "SpreadsheetML",
+          "partial": "Row",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:emptyRow"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "emptyTable",
+          "package": "SpreadsheetML",
+          "signature": "Element",
+          "source": "src/Text-XML-SpreadsheetML-Writer.html#emptyTable",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Writer",
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "emptyTable",
+          "package": "SpreadsheetML",
+          "partial": "Table",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:emptyTable"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eEmpty Elements\n\u003c/p\u003e",
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "emptyWorkbook",
+          "package": "SpreadsheetML",
+          "signature": "Element",
+          "source": "src/Text-XML-SpreadsheetML-Writer.html#emptyWorkbook",
+          "type": "function"
+        },
+        "index": {
+          "description": "Empty Elements",
+          "hierarchy": "Text XML SpreadsheetML Writer",
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "emptyWorkbook",
+          "package": "SpreadsheetML",
+          "partial": "Workbook",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:emptyWorkbook"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "emptyWorksheet",
+          "package": "SpreadsheetML",
+          "signature": "Name -\u003e Element",
+          "source": "src/Text-XML-SpreadsheetML-Writer.html#emptyWorksheet",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Writer",
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "emptyWorksheet",
+          "normalized": "Name-\u003eElement",
+          "package": "SpreadsheetML",
+          "partial": "Worksheet",
+          "signature": "Name-\u003eElement",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:emptyWorksheet"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "htmlNamespace",
+          "package": "SpreadsheetML",
+          "signature": "QName",
+          "source": "src/Text-XML-SpreadsheetML-Writer.html#htmlNamespace",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Writer",
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "htmlNamespace",
+          "package": "SpreadsheetML",
+          "partial": "Namespace",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:htmlNamespace"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "mkData",
+          "package": "SpreadsheetML",
+          "signature": "ExcelValue -\u003e Element",
+          "source": "src/Text-XML-SpreadsheetML-Writer.html#mkData",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Writer",
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "mkData",
+          "normalized": "ExcelValue-\u003eElement",
+          "package": "SpreadsheetML",
+          "partial": "Data",
+          "signature": "ExcelValue-\u003eElement",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:mkData"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eNamespaces\n\u003c/p\u003e",
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "namespace",
+          "package": "SpreadsheetML",
+          "signature": "QName",
+          "source": "src/Text-XML-SpreadsheetML-Writer.html#namespace",
+          "type": "function"
+        },
+        "index": {
+          "description": "Namespaces",
+          "hierarchy": "Text XML SpreadsheetML Writer",
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "namespace",
+          "package": "SpreadsheetML",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:namespace"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "oNamespace",
+          "package": "SpreadsheetML",
+          "signature": "QName",
+          "source": "src/Text-XML-SpreadsheetML-Writer.html#oNamespace",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Writer",
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "oNamespace",
+          "package": "SpreadsheetML",
+          "partial": "Namespace",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:oNamespace"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "showBoolean",
+          "package": "SpreadsheetML",
+          "signature": "Bool -\u003e [Char]",
+          "source": "src/Text-XML-SpreadsheetML-Writer.html#showBoolean",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Writer",
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "showBoolean",
+          "normalized": "Bool-\u003e[Char]",
+          "package": "SpreadsheetML",
+          "partial": "Boolean",
+          "signature": "Bool-\u003e[Char]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:showBoolean"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "showCaption",
+          "package": "SpreadsheetML",
+          "signature": "Caption -\u003e String",
+          "source": "src/Text-XML-SpreadsheetML-Writer.html#showCaption",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Writer",
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "showCaption",
+          "normalized": "Caption-\u003eString",
+          "package": "SpreadsheetML",
+          "partial": "Caption",
+          "signature": "Caption-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:showCaption"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "showHidden",
+          "package": "SpreadsheetML",
+          "signature": "Hidden -\u003e String",
+          "source": "src/Text-XML-SpreadsheetML-Writer.html#showHidden",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Writer",
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "showHidden",
+          "normalized": "Hidden-\u003eString",
+          "package": "SpreadsheetML",
+          "partial": "Hidden",
+          "signature": "Hidden-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:showHidden"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eConvert a workbook to a string.  Write this string to a \u003ca\u003e.xls\u003c/a\u003e file\n and Excel will know how to open it.\n\u003c/p\u003e",
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "showSpreadsheet",
+          "package": "SpreadsheetML",
+          "signature": "Workbook -\u003e String",
+          "source": "src/Text-XML-SpreadsheetML-Writer.html#showSpreadsheet",
+          "type": "function"
+        },
+        "index": {
+          "description": "Convert workbook to string Write this string to xls file and Excel will know how to open it",
+          "hierarchy": "Text XML SpreadsheetML Writer",
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "showSpreadsheet",
+          "normalized": "Workbook-\u003eString",
+          "package": "SpreadsheetML",
+          "partial": "Spreadsheet",
+          "signature": "Workbook-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:showSpreadsheet"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "ssNamespace",
+          "package": "SpreadsheetML",
+          "signature": "QName",
+          "source": "src/Text-XML-SpreadsheetML-Writer.html#ssNamespace",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Writer",
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "ssNamespace",
+          "package": "SpreadsheetML",
+          "partial": "Namespace",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:ssNamespace"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "toElement",
+          "package": "SpreadsheetML",
+          "signature": "a -\u003e Element",
+          "source": "src/Text-XML-SpreadsheetML-Writer.html#toElement",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Writer",
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "toElement",
+          "normalized": "a-\u003eElement",
+          "package": "SpreadsheetML",
+          "partial": "Element",
+          "signature": "a-\u003eElement",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:toElement"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "xNamespace",
+          "package": "SpreadsheetML",
+          "signature": "QName",
+          "source": "src/Text-XML-SpreadsheetML-Writer.html#xNamespace",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML SpreadsheetML Writer",
+          "module": "Text.XML.SpreadsheetML.Writer",
+          "name": "xNamespace",
+          "package": "SpreadsheetML",
+          "partial": "Namespace",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/SpreadsheetML/docs/Text-XML-SpreadsheetML-Writer.html#v:xNamespace"
+      }
+    }
+  ]
 ]

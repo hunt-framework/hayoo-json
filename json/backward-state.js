@@ -1,316 +1,316 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/backward-state/docs/Control-Monad-Trans-BackwardState.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eBackward state monad and transformer, in which \u003ccode\u003em \u003e\u003e n\u003c/code\u003e passes the incoming\n state to n, then passes \u003ccode\u003en\u003c/code\u003e's resulting state to \u003ccode\u003em\u003c/code\u003e.  This can only work\n lazily.\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Control.Monad.Trans.BackwardState",
-        "fct-package": "backward-state",
-        "fct-signature": "module",
-        "fct-source": "src/Control-Monad-Trans-BackwardState.html",
-        "fct-type": "module",
-        "title": "BackwardState"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "backward-state"
       },
-      "index": {
-        "description": "Backward state monad and transformer in which passes the incoming state to then passes resulting state to This can only work lazily",
-        "hierarchy": "Control Monad Trans BackwardState",
-        "module": "Control.Monad.Trans.BackwardState",
-        "name": "BackwardState",
-        "normalized": "",
-        "package": "backward-state",
-        "partial": "Backward State",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/backward-state/docs/Control-Monad-Trans-BackwardState.html#t:BackwardState",
-      "description": {
-        "fct-module": "Control.Monad.Trans.BackwardState",
-        "fct-package": "backward-state",
-        "fct-signature": "type",
-        "fct-source": "src/Control-Monad-Trans-BackwardState.html#BackwardState",
-        "fct-type": "type",
-        "title": "BackwardState"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Monad Trans BackwardState",
-        "module": "Control.Monad.Trans.BackwardState",
-        "name": "BackwardState",
-        "normalized": "",
-        "package": "backward-state",
-        "partial": "Backward State",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eBackward state monad and transformer, in which \u003ccode\u003em \u003e\u003e n\u003c/code\u003e passes the incoming\n state to n, then passes \u003ccode\u003en\u003c/code\u003e's resulting state to \u003ccode\u003em\u003c/code\u003e.  This can only work\n lazily.\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Control.Monad.Trans.BackwardState",
+          "name": "BackwardState",
+          "package": "backward-state",
+          "source": "src/Control-Monad-Trans-BackwardState.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "Backward state monad and transformer in which passes the incoming state to then passes resulting state to This can only work lazily",
+          "hierarchy": "Control Monad Trans BackwardState",
+          "module": "Control.Monad.Trans.BackwardState",
+          "name": "BackwardState",
+          "package": "backward-state",
+          "partial": "Backward State",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/backward-state/docs/Control-Monad-Trans-BackwardState.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Monad.Trans.BackwardState",
+          "name": "BackwardState",
+          "package": "backward-state",
+          "source": "src/Control-Monad-Trans-BackwardState.html#BackwardState",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Control Monad Trans BackwardState",
+          "module": "Control.Monad.Trans.BackwardState",
+          "name": "BackwardState",
+          "package": "backward-state",
+          "partial": "Backward State",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/backward-state/docs/Control-Monad-Trans-BackwardState.html#t:BackwardState"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Monad.Trans.BackwardState",
+          "name": "BackwardStateT",
+          "package": "backward-state",
+          "source": "src/Control-Monad-Trans-BackwardState.html#BackwardStateT",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Control Monad Trans BackwardState",
+          "module": "Control.Monad.Trans.BackwardState",
+          "name": "BackwardStateT",
+          "package": "backward-state",
+          "partial": "Backward State",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/backward-state/docs/Control-Monad-Trans-BackwardState.html#t:BackwardStateT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Monad.Trans.BackwardState",
+          "name": "BackwardStateT",
+          "package": "backward-state",
+          "signature": "BackwardStateT",
+          "source": "src/Control-Monad-Trans-BackwardState.html#BackwardStateT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Monad Trans BackwardState",
+          "module": "Control.Monad.Trans.BackwardState",
+          "name": "BackwardStateT",
+          "package": "backward-state",
+          "partial": "Backward State",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/backward-state/docs/Control-Monad-Trans-BackwardState.html#v:BackwardStateT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Monad.Trans.BackwardState",
+          "name": "evalBackwardState",
+          "package": "backward-state",
+          "signature": "BackwardState s a -\u003e s -\u003e a",
+          "source": "src/Control-Monad-Trans-BackwardState.html#evalBackwardState",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Monad Trans BackwardState",
+          "module": "Control.Monad.Trans.BackwardState",
+          "name": "evalBackwardState",
+          "normalized": "BackwardState a b-\u003ea-\u003eb",
+          "package": "backward-state",
+          "partial": "Backward State",
+          "signature": "BackwardState s a-\u003es-\u003ea",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/backward-state/docs/Control-Monad-Trans-BackwardState.html#v:evalBackwardState"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Monad.Trans.BackwardState",
+          "name": "evalBackwardStateT",
+          "package": "backward-state",
+          "signature": "BackwardStateT s m a -\u003e s -\u003e m a",
+          "source": "src/Control-Monad-Trans-BackwardState.html#evalBackwardStateT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Monad Trans BackwardState",
+          "module": "Control.Monad.Trans.BackwardState",
+          "name": "evalBackwardStateT",
+          "normalized": "BackwardStateT a b c-\u003ea-\u003eb c",
+          "package": "backward-state",
+          "partial": "Backward State",
+          "signature": "BackwardStateT s m a-\u003es-\u003em a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/backward-state/docs/Control-Monad-Trans-BackwardState.html#v:evalBackwardStateT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Monad.Trans.BackwardState",
+          "name": "execBackwardState",
+          "package": "backward-state",
+          "signature": "BackwardState s a -\u003e s -\u003e s",
+          "source": "src/Control-Monad-Trans-BackwardState.html#execBackwardState",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Monad Trans BackwardState",
+          "module": "Control.Monad.Trans.BackwardState",
+          "name": "execBackwardState",
+          "normalized": "BackwardState a b-\u003ea-\u003ea",
+          "package": "backward-state",
+          "partial": "Backward State",
+          "signature": "BackwardState s a-\u003es-\u003es",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/backward-state/docs/Control-Monad-Trans-BackwardState.html#v:execBackwardState"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Monad.Trans.BackwardState",
+          "name": "execBackwardStateT",
+          "package": "backward-state",
+          "signature": "BackwardStateT s m a -\u003e s -\u003e m s",
+          "source": "src/Control-Monad-Trans-BackwardState.html#execBackwardStateT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Monad Trans BackwardState",
+          "module": "Control.Monad.Trans.BackwardState",
+          "name": "execBackwardStateT",
+          "normalized": "BackwardStateT a b c-\u003ea-\u003eb a",
+          "package": "backward-state",
+          "partial": "Backward State",
+          "signature": "BackwardStateT s m a-\u003es-\u003em s",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/backward-state/docs/Control-Monad-Trans-BackwardState.html#v:execBackwardStateT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Monad.Trans.BackwardState",
+          "name": "get",
+          "package": "backward-state",
+          "signature": "BackwardStateT s m s",
+          "source": "src/Control-Monad-Trans-BackwardState.html#get",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Monad Trans BackwardState",
+          "module": "Control.Monad.Trans.BackwardState",
+          "name": "get",
+          "package": "backward-state",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/backward-state/docs/Control-Monad-Trans-BackwardState.html#v:get"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Monad.Trans.BackwardState",
+          "name": "modify",
+          "package": "backward-state",
+          "signature": "(s -\u003e s) -\u003e BackwardStateT s m ()",
+          "source": "src/Control-Monad-Trans-BackwardState.html#modify",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Monad Trans BackwardState",
+          "module": "Control.Monad.Trans.BackwardState",
+          "name": "modify",
+          "normalized": "(a-\u003ea)-\u003eBackwardStateT a b()",
+          "package": "backward-state",
+          "signature": "(s-\u003es)-\u003eBackwardStateT s m()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/backward-state/docs/Control-Monad-Trans-BackwardState.html#v:modify"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Monad.Trans.BackwardState",
+          "name": "put",
+          "package": "backward-state",
+          "signature": "s -\u003e BackwardStateT s m ()",
+          "source": "src/Control-Monad-Trans-BackwardState.html#put",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Monad Trans BackwardState",
+          "module": "Control.Monad.Trans.BackwardState",
+          "name": "put",
+          "normalized": "a-\u003eBackwardStateT a b()",
+          "package": "backward-state",
+          "signature": "s-\u003eBackwardStateT s m()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/backward-state/docs/Control-Monad-Trans-BackwardState.html#v:put"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Monad.Trans.BackwardState",
+          "name": "runBackwardState",
+          "package": "backward-state",
+          "signature": "BackwardState s a -\u003e s -\u003e (a, s)",
+          "source": "src/Control-Monad-Trans-BackwardState.html#runBackwardState",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Monad Trans BackwardState",
+          "module": "Control.Monad.Trans.BackwardState",
+          "name": "runBackwardState",
+          "normalized": "BackwardState a b-\u003ea-\u003e(b,a)",
+          "package": "backward-state",
+          "partial": "Backward State",
+          "signature": "BackwardState s a-\u003es-\u003e(a,s)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/backward-state/docs/Control-Monad-Trans-BackwardState.html#v:runBackwardState"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Monad.Trans.BackwardState",
+          "name": "runBackwardStateT",
+          "package": "backward-state",
+          "signature": "s -\u003e m (a, s)",
+          "source": "src/Control-Monad-Trans-BackwardState.html#BackwardStateT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Monad Trans BackwardState",
+          "module": "Control.Monad.Trans.BackwardState",
+          "name": "runBackwardStateT",
+          "normalized": "a-\u003eb(c,a)",
+          "package": "backward-state",
+          "partial": "Backward State",
+          "signature": "s-\u003em(a,s)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/backward-state/docs/Control-Monad-Trans-BackwardState.html#v:runBackwardStateT"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/backward-state/docs/Control-Monad-Trans-BackwardState.html#t:BackwardStateT",
-      "description": {
-        "fct-module": "Control.Monad.Trans.BackwardState",
-        "fct-package": "backward-state",
-        "fct-signature": "newtype",
-        "fct-source": "src/Control-Monad-Trans-BackwardState.html#BackwardStateT",
-        "fct-type": "newtype",
-        "title": "BackwardStateT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Monad Trans BackwardState",
-        "module": "Control.Monad.Trans.BackwardState",
-        "name": "BackwardStateT",
-        "normalized": "",
-        "package": "backward-state",
-        "partial": "Backward State",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/backward-state/docs/Control-Monad-Trans-BackwardState.html#v:BackwardStateT",
-      "description": {
-        "fct-module": "Control.Monad.Trans.BackwardState",
-        "fct-package": "backward-state",
-        "fct-signature": "BackwardStateT",
-        "fct-source": "src/Control-Monad-Trans-BackwardState.html#BackwardStateT",
-        "fct-type": "function",
-        "title": "BackwardStateT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Monad Trans BackwardState",
-        "module": "Control.Monad.Trans.BackwardState",
-        "name": "BackwardStateT",
-        "normalized": "",
-        "package": "backward-state",
-        "partial": "Backward State",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/backward-state/docs/Control-Monad-Trans-BackwardState.html#v:evalBackwardState",
-      "description": {
-        "fct-module": "Control.Monad.Trans.BackwardState",
-        "fct-package": "backward-state",
-        "fct-signature": "BackwardState s a -\u003e s -\u003e a",
-        "fct-source": "src/Control-Monad-Trans-BackwardState.html#evalBackwardState",
-        "fct-type": "function",
-        "title": "evalBackwardState"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Monad Trans BackwardState",
-        "module": "Control.Monad.Trans.BackwardState",
-        "name": "evalBackwardState",
-        "normalized": "BackwardState a b-\u003ea-\u003eb",
-        "package": "backward-state",
-        "partial": "Backward State",
-        "signature": "BackwardState s a-\u003es-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/backward-state/docs/Control-Monad-Trans-BackwardState.html#v:evalBackwardStateT",
-      "description": {
-        "fct-module": "Control.Monad.Trans.BackwardState",
-        "fct-package": "backward-state",
-        "fct-signature": "BackwardStateT s m a -\u003e s -\u003e m a",
-        "fct-source": "src/Control-Monad-Trans-BackwardState.html#evalBackwardStateT",
-        "fct-type": "function",
-        "title": "evalBackwardStateT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Monad Trans BackwardState",
-        "module": "Control.Monad.Trans.BackwardState",
-        "name": "evalBackwardStateT",
-        "normalized": "BackwardStateT a b c-\u003ea-\u003eb c",
-        "package": "backward-state",
-        "partial": "Backward State",
-        "signature": "BackwardStateT s m a-\u003es-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/backward-state/docs/Control-Monad-Trans-BackwardState.html#v:execBackwardState",
-      "description": {
-        "fct-module": "Control.Monad.Trans.BackwardState",
-        "fct-package": "backward-state",
-        "fct-signature": "BackwardState s a -\u003e s -\u003e s",
-        "fct-source": "src/Control-Monad-Trans-BackwardState.html#execBackwardState",
-        "fct-type": "function",
-        "title": "execBackwardState"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Monad Trans BackwardState",
-        "module": "Control.Monad.Trans.BackwardState",
-        "name": "execBackwardState",
-        "normalized": "BackwardState a b-\u003ea-\u003ea",
-        "package": "backward-state",
-        "partial": "Backward State",
-        "signature": "BackwardState s a-\u003es-\u003es"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/backward-state/docs/Control-Monad-Trans-BackwardState.html#v:execBackwardStateT",
-      "description": {
-        "fct-module": "Control.Monad.Trans.BackwardState",
-        "fct-package": "backward-state",
-        "fct-signature": "BackwardStateT s m a -\u003e s -\u003e m s",
-        "fct-source": "src/Control-Monad-Trans-BackwardState.html#execBackwardStateT",
-        "fct-type": "function",
-        "title": "execBackwardStateT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Monad Trans BackwardState",
-        "module": "Control.Monad.Trans.BackwardState",
-        "name": "execBackwardStateT",
-        "normalized": "BackwardStateT a b c-\u003ea-\u003eb a",
-        "package": "backward-state",
-        "partial": "Backward State",
-        "signature": "BackwardStateT s m a-\u003es-\u003em s"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/backward-state/docs/Control-Monad-Trans-BackwardState.html#v:get",
-      "description": {
-        "fct-module": "Control.Monad.Trans.BackwardState",
-        "fct-package": "backward-state",
-        "fct-signature": "BackwardStateT s m s",
-        "fct-source": "src/Control-Monad-Trans-BackwardState.html#get",
-        "fct-type": "function",
-        "title": "get"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Monad Trans BackwardState",
-        "module": "Control.Monad.Trans.BackwardState",
-        "name": "get",
-        "normalized": "",
-        "package": "backward-state",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/backward-state/docs/Control-Monad-Trans-BackwardState.html#v:modify",
-      "description": {
-        "fct-module": "Control.Monad.Trans.BackwardState",
-        "fct-package": "backward-state",
-        "fct-signature": "(s -\u003e s) -\u003e BackwardStateT s m ()",
-        "fct-source": "src/Control-Monad-Trans-BackwardState.html#modify",
-        "fct-type": "function",
-        "title": "modify"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Monad Trans BackwardState",
-        "module": "Control.Monad.Trans.BackwardState",
-        "name": "modify",
-        "normalized": "(a-\u003ea)-\u003eBackwardStateT a b()",
-        "package": "backward-state",
-        "partial": "",
-        "signature": "(s-\u003es)-\u003eBackwardStateT s m()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/backward-state/docs/Control-Monad-Trans-BackwardState.html#v:put",
-      "description": {
-        "fct-module": "Control.Monad.Trans.BackwardState",
-        "fct-package": "backward-state",
-        "fct-signature": "s -\u003e BackwardStateT s m ()",
-        "fct-source": "src/Control-Monad-Trans-BackwardState.html#put",
-        "fct-type": "function",
-        "title": "put"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Monad Trans BackwardState",
-        "module": "Control.Monad.Trans.BackwardState",
-        "name": "put",
-        "normalized": "a-\u003eBackwardStateT a b()",
-        "package": "backward-state",
-        "partial": "",
-        "signature": "s-\u003eBackwardStateT s m()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/backward-state/docs/Control-Monad-Trans-BackwardState.html#v:runBackwardState",
-      "description": {
-        "fct-module": "Control.Monad.Trans.BackwardState",
-        "fct-package": "backward-state",
-        "fct-signature": "BackwardState s a -\u003e s -\u003e (a, s)",
-        "fct-source": "src/Control-Monad-Trans-BackwardState.html#runBackwardState",
-        "fct-type": "function",
-        "title": "runBackwardState"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Monad Trans BackwardState",
-        "module": "Control.Monad.Trans.BackwardState",
-        "name": "runBackwardState",
-        "normalized": "BackwardState a b-\u003ea-\u003e(b,a)",
-        "package": "backward-state",
-        "partial": "Backward State",
-        "signature": "BackwardState s a-\u003es-\u003e(a,s)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/backward-state/docs/Control-Monad-Trans-BackwardState.html#v:runBackwardStateT",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Control.Monad.Trans.BackwardState",
-        "fct-package": "backward-state",
-        "fct-signature": "s -\u003e m (a, s)",
-        "fct-source": "src/Control-Monad-Trans-BackwardState.html#BackwardStateT",
-        "fct-type": "function",
-        "title": "runBackwardStateT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Monad Trans BackwardState",
-        "module": "Control.Monad.Trans.BackwardState",
-        "name": "runBackwardStateT",
-        "normalized": "a-\u003eb(c,a)",
-        "package": "backward-state",
-        "partial": "Backward State",
-        "signature": "s-\u003em(a,s)"
-      }
-    }
-  }
+  ]
 ]

@@ -1,417 +1,396 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#",
-      "description": {
-        "fct-module": "Network.IRC.ByteString.Parser",
-        "fct-package": "irc-bytestring",
-        "fct-signature": "module",
-        "fct-source": "src/Network-IRC-ByteString-Parser.html",
-        "fct-type": "module",
-        "title": "Parser"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "irc-bytestring"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Network IRC ByteString Parser",
-        "module": "Network.IRC.ByteString.Parser",
-        "name": "Parser",
-        "normalized": "",
-        "package": "irc-bytestring",
-        "partial": "Parser",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#t:IRCMsg",
-      "description": {
-        "fct-module": "Network.IRC.ByteString.Parser",
-        "fct-package": "irc-bytestring",
-        "fct-signature": "data",
-        "fct-source": "src/Network-IRC-ByteString-Parser.html#IRCMsg",
-        "fct-type": "data",
-        "title": "IRCMsg"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network IRC ByteString Parser",
-        "module": "Network.IRC.ByteString.Parser",
-        "name": "IRCMsg",
-        "normalized": "",
-        "package": "irc-bytestring",
-        "partial": "IRCMsg",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "Parser",
+          "package": "irc-bytestring",
+          "source": "src/Network-IRC-ByteString-Parser.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Network IRC ByteString Parser",
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "Parser",
+          "package": "irc-bytestring",
+          "partial": "Parser",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "IRCMsg",
+          "package": "irc-bytestring",
+          "source": "src/Network-IRC-ByteString-Parser.html#IRCMsg",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Network IRC ByteString Parser",
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "IRCMsg",
+          "package": "irc-bytestring",
+          "partial": "IRCMsg",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#t:IRCMsg"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "ServerName",
+          "package": "irc-bytestring",
+          "source": "src/Network-IRC-ByteString-Parser.html#ServerName",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Network IRC ByteString Parser",
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "ServerName",
+          "package": "irc-bytestring",
+          "partial": "Server Name",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#t:ServerName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "UserInfo",
+          "package": "irc-bytestring",
+          "source": "src/Network-IRC-ByteString-Parser.html#UserInfo",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Network IRC ByteString Parser",
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "UserInfo",
+          "package": "irc-bytestring",
+          "partial": "User Info",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#t:UserInfo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "IRCMsg",
+          "package": "irc-bytestring",
+          "signature": "IRCMsg",
+          "source": "src/Network-IRC-ByteString-Parser.html#IRCMsg",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network IRC ByteString Parser",
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "IRCMsg",
+          "package": "irc-bytestring",
+          "partial": "IRCMsg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#v:IRCMsg"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "UserInfo",
+          "package": "irc-bytestring",
+          "signature": "UserInfo",
+          "source": "src/Network-IRC-ByteString-Parser.html#UserInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network IRC ByteString Parser",
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "UserInfo",
+          "package": "irc-bytestring",
+          "partial": "User Info",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#v:UserInfo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "fromIRCMsg",
+          "package": "irc-bytestring",
+          "signature": "IRCMsg -\u003e ByteString",
+          "source": "src/Network-IRC-ByteString-Parser.html#fromIRCMsg",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network IRC ByteString Parser",
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "fromIRCMsg",
+          "normalized": "IRCMsg-\u003eByteString",
+          "package": "irc-bytestring",
+          "partial": "IRCMsg",
+          "signature": "IRCMsg-\u003eByteString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#v:fromIRCMsg"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "ircLine",
+          "package": "irc-bytestring",
+          "signature": "Parser IRCMsg",
+          "source": "src/Network-IRC-ByteString-Parser.html#ircLine",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network IRC ByteString Parser",
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "ircLine",
+          "package": "irc-bytestring",
+          "partial": "Line",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#v:ircLine"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "ircMsg",
+          "package": "irc-bytestring",
+          "signature": "ByteString -\u003e [ByteString] -\u003e ByteString -\u003e IRCMsg",
+          "source": "src/Network-IRC-ByteString-Parser.html#ircMsg",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network IRC ByteString Parser",
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "ircMsg",
+          "normalized": "ByteString-\u003e[ByteString]-\u003eByteString-\u003eIRCMsg",
+          "package": "irc-bytestring",
+          "partial": "Msg",
+          "signature": "ByteString-\u003e[ByteString]-\u003eByteString-\u003eIRCMsg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#v:ircMsg"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "msgCmd",
+          "package": "irc-bytestring",
+          "signature": "ByteString",
+          "source": "src/Network-IRC-ByteString-Parser.html#IRCMsg",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network IRC ByteString Parser",
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "msgCmd",
+          "package": "irc-bytestring",
+          "partial": "Cmd",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#v:msgCmd"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "msgParams",
+          "package": "irc-bytestring",
+          "signature": "[ByteString]",
+          "source": "src/Network-IRC-ByteString-Parser.html#IRCMsg",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network IRC ByteString Parser",
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "msgParams",
+          "normalized": "[ByteString]",
+          "package": "irc-bytestring",
+          "partial": "Params",
+          "signature": "[ByteString]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#v:msgParams"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "msgPrefix",
+          "package": "irc-bytestring",
+          "signature": "Maybe (Either UserInfo ServerName)",
+          "source": "src/Network-IRC-ByteString-Parser.html#IRCMsg",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network IRC ByteString Parser",
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "msgPrefix",
+          "package": "irc-bytestring",
+          "partial": "Prefix",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#v:msgPrefix"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "msgTrail",
+          "package": "irc-bytestring",
+          "signature": "ByteString",
+          "source": "src/Network-IRC-ByteString-Parser.html#IRCMsg",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network IRC ByteString Parser",
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "msgTrail",
+          "package": "irc-bytestring",
+          "partial": "Trail",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#v:msgTrail"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "toIRCMsg",
+          "package": "irc-bytestring",
+          "signature": "ByteString -\u003e Result IRCMsg",
+          "source": "src/Network-IRC-ByteString-Parser.html#toIRCMsg",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network IRC ByteString Parser",
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "toIRCMsg",
+          "normalized": "ByteString-\u003eResult IRCMsg",
+          "package": "irc-bytestring",
+          "partial": "IRCMsg",
+          "signature": "ByteString-\u003eResult IRCMsg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#v:toIRCMsg"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "userHost",
+          "package": "irc-bytestring",
+          "signature": "Maybe ByteString",
+          "source": "src/Network-IRC-ByteString-Parser.html#UserInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network IRC ByteString Parser",
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "userHost",
+          "package": "irc-bytestring",
+          "partial": "Host",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#v:userHost"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "userName",
+          "package": "irc-bytestring",
+          "signature": "Maybe ByteString",
+          "source": "src/Network-IRC-ByteString-Parser.html#UserInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network IRC ByteString Parser",
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "userName",
+          "package": "irc-bytestring",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#v:userName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "userNick",
+          "package": "irc-bytestring",
+          "signature": "ByteString",
+          "source": "src/Network-IRC-ByteString-Parser.html#UserInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network IRC ByteString Parser",
+          "module": "Network.IRC.ByteString.Parser",
+          "name": "userNick",
+          "package": "irc-bytestring",
+          "partial": "Nick",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#v:userNick"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#t:ServerName",
-      "description": {
-        "fct-module": "Network.IRC.ByteString.Parser",
-        "fct-package": "irc-bytestring",
-        "fct-signature": "type",
-        "fct-source": "src/Network-IRC-ByteString-Parser.html#ServerName",
-        "fct-type": "type",
-        "title": "ServerName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network IRC ByteString Parser",
-        "module": "Network.IRC.ByteString.Parser",
-        "name": "ServerName",
-        "normalized": "",
-        "package": "irc-bytestring",
-        "partial": "Server Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#t:UserInfo",
-      "description": {
-        "fct-module": "Network.IRC.ByteString.Parser",
-        "fct-package": "irc-bytestring",
-        "fct-signature": "data",
-        "fct-source": "src/Network-IRC-ByteString-Parser.html#UserInfo",
-        "fct-type": "data",
-        "title": "UserInfo"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network IRC ByteString Parser",
-        "module": "Network.IRC.ByteString.Parser",
-        "name": "UserInfo",
-        "normalized": "",
-        "package": "irc-bytestring",
-        "partial": "User Info",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#v:IRCMsg",
-      "description": {
-        "fct-module": "Network.IRC.ByteString.Parser",
-        "fct-package": "irc-bytestring",
-        "fct-signature": "IRCMsg",
-        "fct-source": "src/Network-IRC-ByteString-Parser.html#IRCMsg",
-        "fct-type": "function",
-        "title": "IRCMsg"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network IRC ByteString Parser",
-        "module": "Network.IRC.ByteString.Parser",
-        "name": "IRCMsg",
-        "normalized": "",
-        "package": "irc-bytestring",
-        "partial": "IRCMsg",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#v:UserInfo",
-      "description": {
-        "fct-module": "Network.IRC.ByteString.Parser",
-        "fct-package": "irc-bytestring",
-        "fct-signature": "UserInfo",
-        "fct-source": "src/Network-IRC-ByteString-Parser.html#UserInfo",
-        "fct-type": "function",
-        "title": "UserInfo"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network IRC ByteString Parser",
-        "module": "Network.IRC.ByteString.Parser",
-        "name": "UserInfo",
-        "normalized": "",
-        "package": "irc-bytestring",
-        "partial": "User Info",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#v:fromIRCMsg",
-      "description": {
-        "fct-module": "Network.IRC.ByteString.Parser",
-        "fct-package": "irc-bytestring",
-        "fct-signature": "IRCMsg -\u003e ByteString",
-        "fct-source": "src/Network-IRC-ByteString-Parser.html#fromIRCMsg",
-        "fct-type": "function",
-        "title": "fromIRCMsg"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network IRC ByteString Parser",
-        "module": "Network.IRC.ByteString.Parser",
-        "name": "fromIRCMsg",
-        "normalized": "IRCMsg-\u003eByteString",
-        "package": "irc-bytestring",
-        "partial": "IRCMsg",
-        "signature": "IRCMsg-\u003eByteString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#v:ircLine",
-      "description": {
-        "fct-module": "Network.IRC.ByteString.Parser",
-        "fct-package": "irc-bytestring",
-        "fct-signature": "Parser IRCMsg",
-        "fct-source": "src/Network-IRC-ByteString-Parser.html#ircLine",
-        "fct-type": "function",
-        "title": "ircLine"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network IRC ByteString Parser",
-        "module": "Network.IRC.ByteString.Parser",
-        "name": "ircLine",
-        "normalized": "",
-        "package": "irc-bytestring",
-        "partial": "Line",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#v:ircMsg",
-      "description": {
-        "fct-module": "Network.IRC.ByteString.Parser",
-        "fct-package": "irc-bytestring",
-        "fct-signature": "ByteString -\u003e [ByteString] -\u003e ByteString -\u003e IRCMsg",
-        "fct-source": "src/Network-IRC-ByteString-Parser.html#ircMsg",
-        "fct-type": "function",
-        "title": "ircMsg"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network IRC ByteString Parser",
-        "module": "Network.IRC.ByteString.Parser",
-        "name": "ircMsg",
-        "normalized": "ByteString-\u003e[ByteString]-\u003eByteString-\u003eIRCMsg",
-        "package": "irc-bytestring",
-        "partial": "Msg",
-        "signature": "ByteString-\u003e[ByteString]-\u003eByteString-\u003eIRCMsg"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#v:msgCmd",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.IRC.ByteString.Parser",
-        "fct-package": "irc-bytestring",
-        "fct-signature": "ByteString",
-        "fct-source": "src/Network-IRC-ByteString-Parser.html#IRCMsg",
-        "fct-type": "function",
-        "title": "msgCmd"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network IRC ByteString Parser",
-        "module": "Network.IRC.ByteString.Parser",
-        "name": "msgCmd",
-        "normalized": "",
-        "package": "irc-bytestring",
-        "partial": "Cmd",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#v:msgParams",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.IRC.ByteString.Parser",
-        "fct-package": "irc-bytestring",
-        "fct-signature": "[ByteString]",
-        "fct-source": "src/Network-IRC-ByteString-Parser.html#IRCMsg",
-        "fct-type": "function",
-        "title": "msgParams"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network IRC ByteString Parser",
-        "module": "Network.IRC.ByteString.Parser",
-        "name": "msgParams",
-        "normalized": "[ByteString]",
-        "package": "irc-bytestring",
-        "partial": "Params",
-        "signature": "[ByteString]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#v:msgPrefix",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.IRC.ByteString.Parser",
-        "fct-package": "irc-bytestring",
-        "fct-signature": "Maybe (Either UserInfo ServerName)",
-        "fct-source": "src/Network-IRC-ByteString-Parser.html#IRCMsg",
-        "fct-type": "function",
-        "title": "msgPrefix"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network IRC ByteString Parser",
-        "module": "Network.IRC.ByteString.Parser",
-        "name": "msgPrefix",
-        "normalized": "",
-        "package": "irc-bytestring",
-        "partial": "Prefix",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#v:msgTrail",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.IRC.ByteString.Parser",
-        "fct-package": "irc-bytestring",
-        "fct-signature": "ByteString",
-        "fct-source": "src/Network-IRC-ByteString-Parser.html#IRCMsg",
-        "fct-type": "function",
-        "title": "msgTrail"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network IRC ByteString Parser",
-        "module": "Network.IRC.ByteString.Parser",
-        "name": "msgTrail",
-        "normalized": "",
-        "package": "irc-bytestring",
-        "partial": "Trail",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#v:toIRCMsg",
-      "description": {
-        "fct-module": "Network.IRC.ByteString.Parser",
-        "fct-package": "irc-bytestring",
-        "fct-signature": "ByteString -\u003e Result IRCMsg",
-        "fct-source": "src/Network-IRC-ByteString-Parser.html#toIRCMsg",
-        "fct-type": "function",
-        "title": "toIRCMsg"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network IRC ByteString Parser",
-        "module": "Network.IRC.ByteString.Parser",
-        "name": "toIRCMsg",
-        "normalized": "ByteString-\u003eResult IRCMsg",
-        "package": "irc-bytestring",
-        "partial": "IRCMsg",
-        "signature": "ByteString-\u003eResult IRCMsg"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#v:userHost",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.IRC.ByteString.Parser",
-        "fct-package": "irc-bytestring",
-        "fct-signature": "Maybe ByteString",
-        "fct-source": "src/Network-IRC-ByteString-Parser.html#UserInfo",
-        "fct-type": "function",
-        "title": "userHost"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network IRC ByteString Parser",
-        "module": "Network.IRC.ByteString.Parser",
-        "name": "userHost",
-        "normalized": "",
-        "package": "irc-bytestring",
-        "partial": "Host",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#v:userName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.IRC.ByteString.Parser",
-        "fct-package": "irc-bytestring",
-        "fct-signature": "Maybe ByteString",
-        "fct-source": "src/Network-IRC-ByteString-Parser.html#UserInfo",
-        "fct-type": "function",
-        "title": "userName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network IRC ByteString Parser",
-        "module": "Network.IRC.ByteString.Parser",
-        "name": "userName",
-        "normalized": "",
-        "package": "irc-bytestring",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/irc-bytestring/docs/Network-IRC-ByteString-Parser.html#v:userNick",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.IRC.ByteString.Parser",
-        "fct-package": "irc-bytestring",
-        "fct-signature": "ByteString",
-        "fct-source": "src/Network-IRC-ByteString-Parser.html#UserInfo",
-        "fct-type": "function",
-        "title": "userNick"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network IRC ByteString Parser",
-        "module": "Network.IRC.ByteString.Parser",
-        "name": "userNick",
-        "normalized": "",
-        "package": "irc-bytestring",
-        "partial": "Nick",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

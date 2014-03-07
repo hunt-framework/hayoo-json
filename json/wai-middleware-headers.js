@@ -1,74 +1,84 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-middleware-headers/docs/Network-Wai-Middleware-Headers.html#",
-      "description": {
-        "fct-module": "Network.Wai.Middleware.Headers",
-        "fct-package": "wai-middleware-headers",
-        "fct-signature": "module",
-        "fct-source": "src/Network-Wai-Middleware-Headers.html",
-        "fct-type": "module",
-        "title": "Headers"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "wai-middleware-headers"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Wai Middleware Headers",
-        "module": "Network.Wai.Middleware.Headers",
-        "name": "Headers",
-        "normalized": "",
-        "package": "wai-middleware-headers",
-        "partial": "Headers",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-middleware-headers/docs/Network-Wai-Middleware-Headers.html#v:addHeaders",
-      "description": {
-        "fct-module": "Network.Wai.Middleware.Headers",
-        "fct-package": "wai-middleware-headers",
-        "fct-signature": "[Header] -\u003e Middleware",
-        "fct-source": "src/Network-Wai-Middleware-Headers.html#addHeaders",
-        "fct-type": "function",
-        "title": "addHeaders"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Wai Middleware Headers",
-        "module": "Network.Wai.Middleware.Headers",
-        "name": "addHeaders",
-        "normalized": "[Header]-\u003eMiddleware",
-        "package": "wai-middleware-headers",
-        "partial": "Headers",
-        "signature": "[Header]-\u003eMiddleware"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Wai.Middleware.Headers",
+          "name": "Headers",
+          "package": "wai-middleware-headers",
+          "source": "src/Network-Wai-Middleware-Headers.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Network Wai Middleware Headers",
+          "module": "Network.Wai.Middleware.Headers",
+          "name": "Headers",
+          "package": "wai-middleware-headers",
+          "partial": "Headers",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-middleware-headers/docs/Network-Wai-Middleware-Headers.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Wai.Middleware.Headers",
+          "name": "addHeaders",
+          "package": "wai-middleware-headers",
+          "signature": "[Header] -\u003e Middleware",
+          "source": "src/Network-Wai-Middleware-Headers.html#addHeaders",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network Wai Middleware Headers",
+          "module": "Network.Wai.Middleware.Headers",
+          "name": "addHeaders",
+          "normalized": "[Header]-\u003eMiddleware",
+          "package": "wai-middleware-headers",
+          "partial": "Headers",
+          "signature": "[Header]-\u003eMiddleware",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-middleware-headers/docs/Network-Wai-Middleware-Headers.html#v:addHeaders"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Wai.Middleware.Headers",
+          "name": "cors",
+          "package": "wai-middleware-headers",
+          "signature": "Middleware",
+          "source": "src/Network-Wai-Middleware-Headers.html#cors",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network Wai Middleware Headers",
+          "module": "Network.Wai.Middleware.Headers",
+          "name": "cors",
+          "package": "wai-middleware-headers",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-middleware-headers/docs/Network-Wai-Middleware-Headers.html#v:cors"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-middleware-headers/docs/Network-Wai-Middleware-Headers.html#v:cors",
-      "description": {
-        "fct-module": "Network.Wai.Middleware.Headers",
-        "fct-package": "wai-middleware-headers",
-        "fct-signature": "Middleware",
-        "fct-source": "src/Network-Wai-Middleware-Headers.html#cors",
-        "fct-type": "function",
-        "title": "cors"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Wai Middleware Headers",
-        "module": "Network.Wai.Middleware.Headers",
-        "name": "cors",
-        "normalized": "",
-        "package": "wai-middleware-headers",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

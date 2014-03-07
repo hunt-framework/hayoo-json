@@ -1,218 +1,211 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/DarcsHelpers/docs/Darcs-Helpers-Parse.html#t:3APatch",
-      "description": {
-        "fct-module": "Darcs.Helpers.Parse",
-        "fct-package": "DarcsHelpers",
-        "fct-signature": "data",
-        "fct-source": "http://hackage.haskell.org/package/DarcsHelpers/docs/src/Darcs-Helpers-Parse.html#Patch",
-        "fct-type": "unknown",
-        "title": "3APatch"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "DarcsHelpers"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Darcs Helpers Parse",
-        "module": "Darcs.Helpers.Parse",
-        "name": "3APatch",
-        "normalized": "",
-        "package": "DarcsHelpers",
-        "partial": "APatch",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/DarcsHelpers/docs/Darcs-Helpers-Parse.html#t:3APatchAuthor",
-      "description": {
-        "fct-module": "Darcs.Helpers.Parse",
-        "fct-package": "DarcsHelpers",
-        "fct-signature": "newtype",
-        "fct-source": "http://hackage.haskell.org/package/DarcsHelpers/docs/src/Darcs-Helpers-Parse.html#PatchAuthor",
-        "fct-type": "unknown",
-        "title": "3APatchAuthor"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Darcs Helpers Parse",
-        "module": "Darcs.Helpers.Parse",
-        "name": "3APatchAuthor",
-        "normalized": "",
-        "package": "DarcsHelpers",
-        "partial": "APatch Author",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Darcs.Helpers.Parse",
+          "name": "3APatch",
+          "package": "DarcsHelpers",
+          "source": "http://hackage.haskell.org/package/DarcsHelpers/docs/src/Darcs-Helpers-Parse.html#Patch",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Darcs Helpers Parse",
+          "module": "Darcs.Helpers.Parse",
+          "name": "3APatch",
+          "package": "DarcsHelpers",
+          "partial": "APatch",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/DarcsHelpers/docs/Darcs-Helpers-Parse.html#t:3APatch"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Darcs.Helpers.Parse",
+          "name": "3APatchAuthor",
+          "package": "DarcsHelpers",
+          "source": "http://hackage.haskell.org/package/DarcsHelpers/docs/src/Darcs-Helpers-Parse.html#PatchAuthor",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Darcs Helpers Parse",
+          "module": "Darcs.Helpers.Parse",
+          "name": "3APatchAuthor",
+          "package": "DarcsHelpers",
+          "partial": "APatch Author",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/DarcsHelpers/docs/Darcs-Helpers-Parse.html#t:3APatchAuthor"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Darcs.Helpers.Parse",
+          "name": "3APatchContents",
+          "package": "DarcsHelpers",
+          "source": "http://hackage.haskell.org/package/DarcsHelpers/docs/src/Darcs-Helpers-Parse.html#PatchContents",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Darcs Helpers Parse",
+          "module": "Darcs.Helpers.Parse",
+          "name": "3APatchContents",
+          "package": "DarcsHelpers",
+          "partial": "APatch Contents",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/DarcsHelpers/docs/Darcs-Helpers-Parse.html#t:3APatchContents"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Darcs.Helpers.Parse",
+          "name": "3APatchDate",
+          "package": "DarcsHelpers",
+          "source": "http://hackage.haskell.org/package/DarcsHelpers/docs/src/Darcs-Helpers-Parse.html#PatchDate",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Darcs Helpers Parse",
+          "module": "Darcs.Helpers.Parse",
+          "name": "3APatchDate",
+          "package": "DarcsHelpers",
+          "partial": "APatch Date",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/DarcsHelpers/docs/Darcs-Helpers-Parse.html#t:3APatchDate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Darcs.Helpers.Parse",
+          "name": "3APatchHash",
+          "package": "DarcsHelpers",
+          "source": "http://hackage.haskell.org/package/DarcsHelpers/docs/src/Darcs-Helpers-Parse.html#PatchHash",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Darcs Helpers Parse",
+          "module": "Darcs.Helpers.Parse",
+          "name": "3APatchHash",
+          "package": "DarcsHelpers",
+          "partial": "APatch Hash",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/DarcsHelpers/docs/Darcs-Helpers-Parse.html#t:3APatchHash"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Darcs.Helpers.Parse",
+          "name": "3APatchInverted",
+          "package": "DarcsHelpers",
+          "source": "http://hackage.haskell.org/package/DarcsHelpers/docs/src/Darcs-Helpers-Parse.html#PatchInverted",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Darcs Helpers Parse",
+          "module": "Darcs.Helpers.Parse",
+          "name": "3APatchInverted",
+          "package": "DarcsHelpers",
+          "partial": "APatch Inverted",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/DarcsHelpers/docs/Darcs-Helpers-Parse.html#t:3APatchInverted"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Darcs.Helpers.Parse",
+          "name": "3APatchLocalDate",
+          "package": "DarcsHelpers",
+          "source": "http://hackage.haskell.org/package/DarcsHelpers/docs/src/Darcs-Helpers-Parse.html#PatchLocalDate",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Darcs Helpers Parse",
+          "module": "Darcs.Helpers.Parse",
+          "name": "3APatchLocalDate",
+          "package": "DarcsHelpers",
+          "partial": "APatch Local Date",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/DarcsHelpers/docs/Darcs-Helpers-Parse.html#t:3APatchLocalDate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Darcs.Helpers.Parse",
+          "name": "3AprsPatch",
+          "package": "DarcsHelpers",
+          "signature": "XMLParser Patch",
+          "source": "http://hackage.haskell.org/package/DarcsHelpers/docs/src/Darcs-Helpers-Parse.html#prsPatch",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Darcs Helpers Parse",
+          "module": "Darcs.Helpers.Parse",
+          "name": "3AprsPatch",
+          "package": "DarcsHelpers",
+          "partial": "Aprs Patch",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/DarcsHelpers/docs/Darcs-Helpers-Parse.html#v:3AprsPatch"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Darcs.Helpers.Parse",
+          "name": "3AxmlParseTidy",
+          "package": "DarcsHelpers",
+          "signature": "[Char] -\u003e Either String (Document Posn)",
+          "source": "http://hackage.haskell.org/package/DarcsHelpers/docs/src/Darcs-Helpers-Parse.html#xmlParseTidy",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Darcs Helpers Parse",
+          "module": "Darcs.Helpers.Parse",
+          "name": "3AxmlParseTidy",
+          "normalized": "[Char]-\u003eEither String(Document Posn)",
+          "package": "DarcsHelpers",
+          "partial": "Axml Parse Tidy",
+          "signature": "[Char]-\u003eEither String(Document Posn)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/DarcsHelpers/docs/Darcs-Helpers-Parse.html#v:3AxmlParseTidy"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/DarcsHelpers/docs/Darcs-Helpers-Parse.html#t:3APatchContents",
-      "description": {
-        "fct-module": "Darcs.Helpers.Parse",
-        "fct-package": "DarcsHelpers",
-        "fct-signature": "newtype",
-        "fct-source": "http://hackage.haskell.org/package/DarcsHelpers/docs/src/Darcs-Helpers-Parse.html#PatchContents",
-        "fct-type": "unknown",
-        "title": "3APatchContents"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Darcs Helpers Parse",
-        "module": "Darcs.Helpers.Parse",
-        "name": "3APatchContents",
-        "normalized": "",
-        "package": "DarcsHelpers",
-        "partial": "APatch Contents",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/DarcsHelpers/docs/Darcs-Helpers-Parse.html#t:3APatchDate",
-      "description": {
-        "fct-module": "Darcs.Helpers.Parse",
-        "fct-package": "DarcsHelpers",
-        "fct-signature": "newtype",
-        "fct-source": "http://hackage.haskell.org/package/DarcsHelpers/docs/src/Darcs-Helpers-Parse.html#PatchDate",
-        "fct-type": "unknown",
-        "title": "3APatchDate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Darcs Helpers Parse",
-        "module": "Darcs.Helpers.Parse",
-        "name": "3APatchDate",
-        "normalized": "",
-        "package": "DarcsHelpers",
-        "partial": "APatch Date",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/DarcsHelpers/docs/Darcs-Helpers-Parse.html#t:3APatchHash",
-      "description": {
-        "fct-module": "Darcs.Helpers.Parse",
-        "fct-package": "DarcsHelpers",
-        "fct-signature": "newtype",
-        "fct-source": "http://hackage.haskell.org/package/DarcsHelpers/docs/src/Darcs-Helpers-Parse.html#PatchHash",
-        "fct-type": "unknown",
-        "title": "3APatchHash"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Darcs Helpers Parse",
-        "module": "Darcs.Helpers.Parse",
-        "name": "3APatchHash",
-        "normalized": "",
-        "package": "DarcsHelpers",
-        "partial": "APatch Hash",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/DarcsHelpers/docs/Darcs-Helpers-Parse.html#t:3APatchInverted",
-      "description": {
-        "fct-module": "Darcs.Helpers.Parse",
-        "fct-package": "DarcsHelpers",
-        "fct-signature": "newtype",
-        "fct-source": "http://hackage.haskell.org/package/DarcsHelpers/docs/src/Darcs-Helpers-Parse.html#PatchInverted",
-        "fct-type": "unknown",
-        "title": "3APatchInverted"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Darcs Helpers Parse",
-        "module": "Darcs.Helpers.Parse",
-        "name": "3APatchInverted",
-        "normalized": "",
-        "package": "DarcsHelpers",
-        "partial": "APatch Inverted",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/DarcsHelpers/docs/Darcs-Helpers-Parse.html#t:3APatchLocalDate",
-      "description": {
-        "fct-module": "Darcs.Helpers.Parse",
-        "fct-package": "DarcsHelpers",
-        "fct-signature": "newtype",
-        "fct-source": "http://hackage.haskell.org/package/DarcsHelpers/docs/src/Darcs-Helpers-Parse.html#PatchLocalDate",
-        "fct-type": "unknown",
-        "title": "3APatchLocalDate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Darcs Helpers Parse",
-        "module": "Darcs.Helpers.Parse",
-        "name": "3APatchLocalDate",
-        "normalized": "",
-        "package": "DarcsHelpers",
-        "partial": "APatch Local Date",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/DarcsHelpers/docs/Darcs-Helpers-Parse.html#v:3AprsPatch",
-      "description": {
-        "fct-module": "Darcs.Helpers.Parse",
-        "fct-package": "DarcsHelpers",
-        "fct-signature": "XMLParser Patch",
-        "fct-source": "http://hackage.haskell.org/package/DarcsHelpers/docs/src/Darcs-Helpers-Parse.html#prsPatch",
-        "fct-type": "unknown",
-        "title": "3AprsPatch"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Darcs Helpers Parse",
-        "module": "Darcs.Helpers.Parse",
-        "name": "3AprsPatch",
-        "normalized": "",
-        "package": "DarcsHelpers",
-        "partial": "Aprs Patch",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/DarcsHelpers/docs/Darcs-Helpers-Parse.html#v:3AxmlParseTidy",
-      "description": {
-        "fct-module": "Darcs.Helpers.Parse",
-        "fct-package": "DarcsHelpers",
-        "fct-signature": "[Char] -\u003e Either String (Document Posn)",
-        "fct-source": "http://hackage.haskell.org/package/DarcsHelpers/docs/src/Darcs-Helpers-Parse.html#xmlParseTidy",
-        "fct-type": "unknown",
-        "title": "3AxmlParseTidy"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Darcs Helpers Parse",
-        "module": "Darcs.Helpers.Parse",
-        "name": "3AxmlParseTidy",
-        "normalized": "[Char]-\u003eEither String(Document Posn)",
-        "package": "DarcsHelpers",
-        "partial": "Axml Parse Tidy",
-        "signature": "[Char]-\u003eEither String(Document Posn)"
-      }
-    }
-  }
+  ]
 ]

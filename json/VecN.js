@@ -1,147 +1,153 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/VecN/docs/Data-VecN.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eA simple peano-indexed vector type, some instances and functions\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Data.VecN",
-        "fct-package": "VecN",
-        "fct-signature": "module",
-        "fct-source": "src/Data-VecN.html",
-        "fct-type": "module",
-        "title": "VecN"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "VecN"
       },
-      "index": {
-        "description": "simple peano-indexed vector type some instances and functions",
-        "hierarchy": "Data VecN",
-        "module": "Data.VecN",
-        "name": "VecN",
-        "normalized": "",
-        "package": "VecN",
-        "partial": "Vec",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/VecN/docs/Data-VecN.html#t:VecN",
-      "description": {
-        "fct-module": "Data.VecN",
-        "fct-package": "VecN",
-        "fct-signature": "data",
-        "fct-source": "src/Data-VecN.html#VecN",
-        "fct-type": "data",
-        "title": "VecN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data VecN",
-        "module": "Data.VecN",
-        "name": "VecN",
-        "normalized": "",
-        "package": "VecN",
-        "partial": "Vec",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eA simple peano-indexed vector type, some instances and functions\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Data.VecN",
+          "name": "VecN",
+          "package": "VecN",
+          "source": "src/Data-VecN.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "simple peano-indexed vector type some instances and functions",
+          "hierarchy": "Data VecN",
+          "module": "Data.VecN",
+          "name": "VecN",
+          "package": "VecN",
+          "partial": "Vec",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/VecN/docs/Data-VecN.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.VecN",
+          "name": "VecN",
+          "package": "VecN",
+          "source": "src/Data-VecN.html#VecN",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data VecN",
+          "module": "Data.VecN",
+          "name": "VecN",
+          "package": "VecN",
+          "partial": "Vec",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/VecN/docs/Data-VecN.html#t:VecN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.VecN",
+          "name": ":\u003e",
+          "package": "VecN",
+          "signature": "a -\u003e VecN p a -\u003e VecN (Succ p) a",
+          "source": "src/Data-VecN.html#VecN",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data VecN",
+          "module": "Data.VecN",
+          "name": ":\u003e",
+          "normalized": "a-\u003eVecN b a-\u003eVecN(Succ b)a",
+          "package": "VecN",
+          "signature": "a-\u003eVecN p a-\u003eVecN(Succ p)a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/VecN/docs/Data-VecN.html#v::-62-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.VecN",
+          "name": "VecZero",
+          "package": "VecN",
+          "signature": "VecN Zero a",
+          "source": "src/Data-VecN.html#VecN",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data VecN",
+          "module": "Data.VecN",
+          "name": "VecZero",
+          "package": "VecN",
+          "partial": "Vec Zero",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/VecN/docs/Data-VecN.html#v:VecZero"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.VecN",
+          "name": "head",
+          "package": "VecN",
+          "signature": "VecN (Succ p) a -\u003e a",
+          "source": "src/Data-VecN.html#head",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data VecN",
+          "module": "Data.VecN",
+          "name": "head",
+          "normalized": "VecN(Succ a)b-\u003eb",
+          "package": "VecN",
+          "signature": "VecN(Succ p)a-\u003ea",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/VecN/docs/Data-VecN.html#v:head"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.VecN",
+          "name": "tail",
+          "package": "VecN",
+          "signature": "VecN (Succ p) a -\u003e VecN p a",
+          "source": "src/Data-VecN.html#tail",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data VecN",
+          "module": "Data.VecN",
+          "name": "tail",
+          "normalized": "VecN(Succ a)b-\u003eVecN a b",
+          "package": "VecN",
+          "signature": "VecN(Succ p)a-\u003eVecN p a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/VecN/docs/Data-VecN.html#v:tail"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/VecN/docs/Data-VecN.html#v::-62-",
-      "description": {
-        "fct-module": "Data.VecN",
-        "fct-package": "VecN",
-        "fct-signature": "a -\u003e VecN p a -\u003e VecN (Succ p) a",
-        "fct-source": "src/Data-VecN.html#VecN",
-        "fct-type": "function",
-        "title": ":\u003e"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data VecN",
-        "module": "Data.VecN",
-        "name": ":\u003e",
-        "normalized": "a-\u003eVecN b a-\u003eVecN(Succ b)a",
-        "package": "VecN",
-        "partial": "",
-        "signature": "a-\u003eVecN p a-\u003eVecN(Succ p)a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/VecN/docs/Data-VecN.html#v:VecZero",
-      "description": {
-        "fct-module": "Data.VecN",
-        "fct-package": "VecN",
-        "fct-signature": "VecN Zero a",
-        "fct-source": "src/Data-VecN.html#VecN",
-        "fct-type": "function",
-        "title": "VecZero"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data VecN",
-        "module": "Data.VecN",
-        "name": "VecZero",
-        "normalized": "",
-        "package": "VecN",
-        "partial": "Vec Zero",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/VecN/docs/Data-VecN.html#v:head",
-      "description": {
-        "fct-module": "Data.VecN",
-        "fct-package": "VecN",
-        "fct-signature": "VecN (Succ p) a -\u003e a",
-        "fct-source": "src/Data-VecN.html#head",
-        "fct-type": "function",
-        "title": "head"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data VecN",
-        "module": "Data.VecN",
-        "name": "head",
-        "normalized": "VecN(Succ a)b-\u003eb",
-        "package": "VecN",
-        "partial": "",
-        "signature": "VecN(Succ p)a-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/VecN/docs/Data-VecN.html#v:tail",
-      "description": {
-        "fct-module": "Data.VecN",
-        "fct-package": "VecN",
-        "fct-signature": "VecN (Succ p) a -\u003e VecN p a",
-        "fct-source": "src/Data-VecN.html#tail",
-        "fct-type": "function",
-        "title": "tail"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data VecN",
-        "module": "Data.VecN",
-        "name": "tail",
-        "normalized": "VecN(Succ a)b-\u003eVecN a b",
-        "package": "VecN",
-        "partial": "",
-        "signature": "VecN(Succ p)a-\u003eVecN p a"
-      }
-    }
-  }
+  ]
 ]

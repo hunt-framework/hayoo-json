@@ -1,386 +1,369 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable-ControversialFunctionEquality.html#",
-      "description": {
-        "fct-module": "Data.Enumerable.ControversialFunctionEquality",
-        "fct-package": "enumerable",
-        "fct-signature": "module",
-        "fct-source": "src/Data-Enumerable-ControversialFunctionEquality.html",
-        "fct-type": "module",
-        "title": "ControversialFunctionEquality"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "enumerable"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Enumerable ControversialFunctionEquality",
-        "module": "Data.Enumerable.ControversialFunctionEquality",
-        "name": "ControversialFunctionEquality",
-        "normalized": "",
-        "package": "enumerable",
-        "partial": "Controversial Function Equality",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable-FunctionEquality.html#",
-      "description": {
-        "fct-module": "Data.Enumerable.FunctionEquality",
-        "fct-package": "enumerable",
-        "fct-signature": "module",
-        "fct-source": "src/Data-Enumerable-FunctionEquality.html",
-        "fct-type": "module",
-        "title": "FunctionEquality"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Enumerable FunctionEquality",
-        "module": "Data.Enumerable.FunctionEquality",
-        "name": "FunctionEquality",
-        "normalized": "",
-        "package": "enumerable",
-        "partial": "Function Equality",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Enumerable.ControversialFunctionEquality",
+          "name": "ControversialFunctionEquality",
+          "package": "enumerable",
+          "source": "src/Data-Enumerable-ControversialFunctionEquality.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data Enumerable ControversialFunctionEquality",
+          "module": "Data.Enumerable.ControversialFunctionEquality",
+          "name": "ControversialFunctionEquality",
+          "package": "enumerable",
+          "partial": "Controversial Function Equality",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable-ControversialFunctionEquality.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Enumerable.FunctionEquality",
+          "name": "FunctionEquality",
+          "package": "enumerable",
+          "source": "src/Data-Enumerable-FunctionEquality.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data Enumerable FunctionEquality",
+          "module": "Data.Enumerable.FunctionEquality",
+          "name": "FunctionEquality",
+          "package": "enumerable",
+          "partial": "Function Equality",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable-FunctionEquality.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Enumerable",
+          "name": "Enumerable",
+          "package": "enumerable",
+          "source": "src/Data-Enumerable.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data Enumerable",
+          "module": "Data.Enumerable",
+          "name": "Enumerable",
+          "package": "enumerable",
+          "partial": "Enumerable",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Enumerable",
+          "name": "Cardinal",
+          "package": "enumerable",
+          "source": "src/Data-Enumerable.html#Cardinal",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Enumerable",
+          "module": "Data.Enumerable",
+          "name": "Cardinal",
+          "package": "enumerable",
+          "partial": "Cardinal",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable.html#t:Cardinal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Enumerable",
+          "name": "Enumerable",
+          "package": "enumerable",
+          "source": "src/Data-Enumerable.html#Enumerable",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Data Enumerable",
+          "module": "Data.Enumerable",
+          "name": "Enumerable",
+          "package": "enumerable",
+          "partial": "Enumerable",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable.html#t:Enumerable"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Enumerable",
+          "name": "FinitelyEnumerable",
+          "package": "enumerable",
+          "source": "src/Data-Enumerable.html#FinitelyEnumerable",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Data Enumerable",
+          "module": "Data.Enumerable",
+          "name": "FinitelyEnumerable",
+          "package": "enumerable",
+          "partial": "Finitely Enumerable",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable.html#t:FinitelyEnumerable"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Enumerable",
+          "name": "Partial",
+          "package": "enumerable",
+          "source": "src/Data-Enumerable.html#Partial",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Data Enumerable",
+          "module": "Data.Enumerable",
+          "name": "Partial",
+          "package": "enumerable",
+          "partial": "Partial",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable.html#t:Partial"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Enumerable",
+          "name": "Aleph",
+          "package": "enumerable",
+          "signature": "Aleph Integer",
+          "source": "src/Data-Enumerable.html#Cardinal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Enumerable",
+          "module": "Data.Enumerable",
+          "name": "Aleph",
+          "package": "enumerable",
+          "partial": "Aleph",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable.html#v:Aleph"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Enumerable",
+          "name": "Finite",
+          "package": "enumerable",
+          "signature": "Finite Integer",
+          "source": "src/Data-Enumerable.html#Cardinal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Enumerable",
+          "module": "Data.Enumerable",
+          "name": "Finite",
+          "package": "enumerable",
+          "partial": "Finite",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable.html#v:Finite"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Enumerable",
+          "name": "Partial",
+          "package": "enumerable",
+          "signature": "Partial a",
+          "source": "src/Data-Enumerable.html#Partial",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Enumerable",
+          "module": "Data.Enumerable",
+          "name": "Partial",
+          "package": "enumerable",
+          "partial": "Partial",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable.html#v:Partial"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Enumerable",
+          "name": "cardinality",
+          "package": "enumerable",
+          "signature": "Tagged a Integer",
+          "source": "src/Data-Enumerable.html#cardinality",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Data Enumerable",
+          "module": "Data.Enumerable",
+          "name": "cardinality",
+          "package": "enumerable",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable.html#v:cardinality"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Enumerable",
+          "name": "enumerate",
+          "package": "enumerable",
+          "signature": "[a]",
+          "source": "src/Data-Enumerable.html#enumerate",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Data Enumerable",
+          "module": "Data.Enumerable",
+          "name": "enumerate",
+          "normalized": "[a]",
+          "package": "enumerable",
+          "signature": "[a]",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable.html#v:enumerate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Enumerable",
+          "name": "enumerateInterleaved",
+          "package": "enumerable",
+          "signature": "[a]",
+          "source": "src/Data-Enumerable.html#enumerateInterleaved",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Enumerable",
+          "module": "Data.Enumerable",
+          "name": "enumerateInterleaved",
+          "normalized": "[a]",
+          "package": "enumerable",
+          "partial": "Interleaved",
+          "signature": "[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable.html#v:enumerateInterleaved"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Enumerable",
+          "name": "enumeratePartial",
+          "package": "enumerable",
+          "signature": "[a]",
+          "source": "src/Data-Enumerable.html#enumeratePartial",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Data Enumerable",
+          "module": "Data.Enumerable",
+          "name": "enumeratePartial",
+          "normalized": "[a]",
+          "package": "enumerable",
+          "partial": "Partial",
+          "signature": "[a]",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable.html#v:enumeratePartial"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Enumerable",
+          "name": "enumerateTotal",
+          "package": "enumerable",
+          "signature": "[a]",
+          "source": "src/Data-Enumerable.html#enumerateTotal",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Data Enumerable",
+          "module": "Data.Enumerable",
+          "name": "enumerateTotal",
+          "normalized": "[a]",
+          "package": "enumerable",
+          "partial": "Total",
+          "signature": "[a]",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable.html#v:enumerateTotal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Enumerable",
+          "name": "isPartial",
+          "package": "enumerable",
+          "signature": "Tagged a Bool",
+          "source": "src/Data-Enumerable.html#isPartial",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Data Enumerable",
+          "module": "Data.Enumerable",
+          "name": "isPartial",
+          "package": "enumerable",
+          "partial": "Partial",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable.html#v:isPartial"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable.html#",
-      "description": {
-        "fct-module": "Data.Enumerable",
-        "fct-package": "enumerable",
-        "fct-signature": "module",
-        "fct-source": "src/Data-Enumerable.html",
-        "fct-type": "module",
-        "title": "Enumerable"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Enumerable",
-        "module": "Data.Enumerable",
-        "name": "Enumerable",
-        "normalized": "",
-        "package": "enumerable",
-        "partial": "Enumerable",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable.html#t:Cardinal",
-      "description": {
-        "fct-module": "Data.Enumerable",
-        "fct-package": "enumerable",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Enumerable.html#Cardinal",
-        "fct-type": "data",
-        "title": "Cardinal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Enumerable",
-        "module": "Data.Enumerable",
-        "name": "Cardinal",
-        "normalized": "",
-        "package": "enumerable",
-        "partial": "Cardinal",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable.html#t:Enumerable",
-      "description": {
-        "fct-module": "Data.Enumerable",
-        "fct-package": "enumerable",
-        "fct-signature": "class",
-        "fct-source": "src/Data-Enumerable.html#Enumerable",
-        "fct-type": "class",
-        "title": "Enumerable"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Enumerable",
-        "module": "Data.Enumerable",
-        "name": "Enumerable",
-        "normalized": "",
-        "package": "enumerable",
-        "partial": "Enumerable",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable.html#t:FinitelyEnumerable",
-      "description": {
-        "fct-module": "Data.Enumerable",
-        "fct-package": "enumerable",
-        "fct-signature": "class",
-        "fct-source": "src/Data-Enumerable.html#FinitelyEnumerable",
-        "fct-type": "class",
-        "title": "FinitelyEnumerable"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Enumerable",
-        "module": "Data.Enumerable",
-        "name": "FinitelyEnumerable",
-        "normalized": "",
-        "package": "enumerable",
-        "partial": "Finitely Enumerable",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable.html#t:Partial",
-      "description": {
-        "fct-module": "Data.Enumerable",
-        "fct-package": "enumerable",
-        "fct-signature": "newtype",
-        "fct-source": "src/Data-Enumerable.html#Partial",
-        "fct-type": "newtype",
-        "title": "Partial"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Enumerable",
-        "module": "Data.Enumerable",
-        "name": "Partial",
-        "normalized": "",
-        "package": "enumerable",
-        "partial": "Partial",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable.html#v:Aleph",
-      "description": {
-        "fct-module": "Data.Enumerable",
-        "fct-package": "enumerable",
-        "fct-signature": "Aleph Integer",
-        "fct-source": "src/Data-Enumerable.html#Cardinal",
-        "fct-type": "function",
-        "title": "Aleph"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Enumerable",
-        "module": "Data.Enumerable",
-        "name": "Aleph",
-        "normalized": "",
-        "package": "enumerable",
-        "partial": "Aleph",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable.html#v:Finite",
-      "description": {
-        "fct-module": "Data.Enumerable",
-        "fct-package": "enumerable",
-        "fct-signature": "Finite Integer",
-        "fct-source": "src/Data-Enumerable.html#Cardinal",
-        "fct-type": "function",
-        "title": "Finite"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Enumerable",
-        "module": "Data.Enumerable",
-        "name": "Finite",
-        "normalized": "",
-        "package": "enumerable",
-        "partial": "Finite",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable.html#v:Partial",
-      "description": {
-        "fct-module": "Data.Enumerable",
-        "fct-package": "enumerable",
-        "fct-signature": "Partial a",
-        "fct-source": "src/Data-Enumerable.html#Partial",
-        "fct-type": "function",
-        "title": "Partial"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Enumerable",
-        "module": "Data.Enumerable",
-        "name": "Partial",
-        "normalized": "",
-        "package": "enumerable",
-        "partial": "Partial",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable.html#v:cardinality",
-      "description": {
-        "fct-module": "Data.Enumerable",
-        "fct-package": "enumerable",
-        "fct-signature": "Tagged a Integer",
-        "fct-source": "src/Data-Enumerable.html#cardinality",
-        "fct-type": "method",
-        "title": "cardinality"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Enumerable",
-        "module": "Data.Enumerable",
-        "name": "cardinality",
-        "normalized": "",
-        "package": "enumerable",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable.html#v:enumerate",
-      "description": {
-        "fct-module": "Data.Enumerable",
-        "fct-package": "enumerable",
-        "fct-signature": "[a]",
-        "fct-source": "src/Data-Enumerable.html#enumerate",
-        "fct-type": "method",
-        "title": "enumerate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Enumerable",
-        "module": "Data.Enumerable",
-        "name": "enumerate",
-        "normalized": "[a]",
-        "package": "enumerable",
-        "partial": "",
-        "signature": "[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable.html#v:enumerateInterleaved",
-      "description": {
-        "fct-module": "Data.Enumerable",
-        "fct-package": "enumerable",
-        "fct-signature": "[a]",
-        "fct-source": "src/Data-Enumerable.html#enumerateInterleaved",
-        "fct-type": "function",
-        "title": "enumerateInterleaved"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Enumerable",
-        "module": "Data.Enumerable",
-        "name": "enumerateInterleaved",
-        "normalized": "[a]",
-        "package": "enumerable",
-        "partial": "Interleaved",
-        "signature": "[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable.html#v:enumeratePartial",
-      "description": {
-        "fct-module": "Data.Enumerable",
-        "fct-package": "enumerable",
-        "fct-signature": "[a]",
-        "fct-source": "src/Data-Enumerable.html#enumeratePartial",
-        "fct-type": "method",
-        "title": "enumeratePartial"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Enumerable",
-        "module": "Data.Enumerable",
-        "name": "enumeratePartial",
-        "normalized": "[a]",
-        "package": "enumerable",
-        "partial": "Partial",
-        "signature": "[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable.html#v:enumerateTotal",
-      "description": {
-        "fct-module": "Data.Enumerable",
-        "fct-package": "enumerable",
-        "fct-signature": "[a]",
-        "fct-source": "src/Data-Enumerable.html#enumerateTotal",
-        "fct-type": "method",
-        "title": "enumerateTotal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Enumerable",
-        "module": "Data.Enumerable",
-        "name": "enumerateTotal",
-        "normalized": "[a]",
-        "package": "enumerable",
-        "partial": "Total",
-        "signature": "[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/enumerable/docs/Data-Enumerable.html#v:isPartial",
-      "description": {
-        "fct-module": "Data.Enumerable",
-        "fct-package": "enumerable",
-        "fct-signature": "Tagged a Bool",
-        "fct-source": "src/Data-Enumerable.html#isPartial",
-        "fct-type": "method",
-        "title": "isPartial"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Enumerable",
-        "module": "Data.Enumerable",
-        "name": "isPartial",
-        "normalized": "",
-        "package": "enumerable",
-        "partial": "Partial",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

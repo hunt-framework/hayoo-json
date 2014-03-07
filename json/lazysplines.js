@@ -1,795 +1,763 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines-Examples.html#",
-      "description": {
-        "fct-module": "Numeric.LazySplines.Examples",
-        "fct-package": "lazysplines",
-        "fct-signature": "module",
-        "fct-source": "src/Numeric-LazySplines-Examples.html",
-        "fct-type": "module",
-        "title": "Examples"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "lazysplines"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines Examples",
-        "module": "Numeric.LazySplines.Examples",
-        "name": "Examples",
-        "normalized": "",
-        "package": "lazysplines",
-        "partial": "Examples",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines-Examples.html#v:flame",
-      "description": {
-        "fct-module": "Numeric.LazySplines.Examples",
-        "fct-package": "lazysplines",
-        "fct-signature": "Spline",
-        "fct-source": "src/Numeric-LazySplines-Examples.html#flame",
-        "fct-type": "function",
-        "title": "flame"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines Examples",
-        "module": "Numeric.LazySplines.Examples",
-        "name": "flame",
-        "normalized": "",
-        "package": "lazysplines",
-        "partial": "",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines.Examples",
+          "name": "Examples",
+          "package": "lazysplines",
+          "source": "src/Numeric-LazySplines-Examples.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines Examples",
+          "module": "Numeric.LazySplines.Examples",
+          "name": "Examples",
+          "package": "lazysplines",
+          "partial": "Examples",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines-Examples.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines.Examples",
+          "name": "flame",
+          "package": "lazysplines",
+          "signature": "Spline",
+          "source": "src/Numeric-LazySplines-Examples.html#flame",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines Examples",
+          "module": "Numeric.LazySplines.Examples",
+          "name": "flame",
+          "package": "lazysplines",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines-Examples.html#v:flame"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines.Examples",
+          "name": "flame2",
+          "package": "lazysplines",
+          "signature": "Spline",
+          "source": "src/Numeric-LazySplines-Examples.html#flame2",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines Examples",
+          "module": "Numeric.LazySplines.Examples",
+          "name": "flame2",
+          "package": "lazysplines",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines-Examples.html#v:flame2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines.Examples",
+          "name": "flame3",
+          "package": "lazysplines",
+          "signature": "Spline",
+          "source": "src/Numeric-LazySplines-Examples.html#flame3",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines Examples",
+          "module": "Numeric.LazySplines.Examples",
+          "name": "flame3",
+          "package": "lazysplines",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines-Examples.html#v:flame3"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines.Examples",
+          "name": "flame4",
+          "package": "lazysplines",
+          "signature": "Spline",
+          "source": "src/Numeric-LazySplines-Examples.html#flame4",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines Examples",
+          "module": "Numeric.LazySplines.Examples",
+          "name": "flame4",
+          "package": "lazysplines",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines-Examples.html#v:flame4"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines.Examples",
+          "name": "flame5",
+          "package": "lazysplines",
+          "signature": "Spline",
+          "source": "src/Numeric-LazySplines-Examples.html#flame5",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines Examples",
+          "module": "Numeric.LazySplines.Examples",
+          "name": "flame5",
+          "package": "lazysplines",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines-Examples.html#v:flame5"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines.Examples",
+          "name": "flamePred",
+          "package": "lazysplines",
+          "signature": "SplinePredicate",
+          "source": "src/Numeric-LazySplines-Examples.html#flamePred",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines Examples",
+          "module": "Numeric.LazySplines.Examples",
+          "name": "flamePred",
+          "package": "lazysplines",
+          "partial": "Pred",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines-Examples.html#v:flamePred"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines.Examples",
+          "name": "spring",
+          "package": "lazysplines",
+          "signature": "Spline",
+          "source": "src/Numeric-LazySplines-Examples.html#spring",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines Examples",
+          "module": "Numeric.LazySplines.Examples",
+          "name": "spring",
+          "package": "lazysplines",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines-Examples.html#v:spring"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines.Examples",
+          "name": "survival",
+          "package": "lazysplines",
+          "signature": "Spline",
+          "source": "src/Numeric-LazySplines-Examples.html#survival",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines Examples",
+          "module": "Numeric.LazySplines.Examples",
+          "name": "survival",
+          "package": "lazysplines",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines-Examples.html#v:survival"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines",
+          "name": "LazySplines",
+          "package": "lazysplines",
+          "source": "src/Numeric-LazySplines.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines",
+          "module": "Numeric.LazySplines",
+          "name": "LazySplines",
+          "package": "lazysplines",
+          "partial": "Lazy Splines",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines",
+          "name": "Poly",
+          "package": "lazysplines",
+          "source": "src/Numeric-LazySplines.html#Poly",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines",
+          "module": "Numeric.LazySplines",
+          "name": "Poly",
+          "package": "lazysplines",
+          "partial": "Poly",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#t:Poly"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines",
+          "name": "PolySegment",
+          "package": "lazysplines",
+          "source": "src/Numeric-LazySplines.html#PolySegment",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines",
+          "module": "Numeric.LazySplines",
+          "name": "PolySegment",
+          "package": "lazysplines",
+          "partial": "Poly Segment",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#t:PolySegment"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eSomething that can be sampled.\n\u003c/p\u003e",
+          "module": "Numeric.LazySplines",
+          "name": "Sampleable",
+          "package": "lazysplines",
+          "source": "src/Numeric-LazySplines.html#Sampleable",
+          "type": "class"
+        },
+        "index": {
+          "description": "Something that can be sampled",
+          "hierarchy": "Numeric LazySplines",
+          "module": "Numeric.LazySplines",
+          "name": "Sampleable",
+          "package": "lazysplines",
+          "partial": "Sampleable",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#t:Sampleable"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines",
+          "name": "Spline",
+          "package": "lazysplines",
+          "source": "src/Numeric-LazySplines.html#Spline",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines",
+          "module": "Numeric.LazySplines",
+          "name": "Spline",
+          "package": "lazysplines",
+          "partial": "Spline",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#t:Spline"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines",
+          "name": "SplinePredicate",
+          "package": "lazysplines",
+          "source": "src/Numeric-LazySplines.html#SplinePredicate",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines",
+          "module": "Numeric.LazySplines",
+          "name": "SplinePredicate",
+          "package": "lazysplines",
+          "partial": "Spline Predicate",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#t:SplinePredicate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines",
+          "name": "at",
+          "package": "lazysplines",
+          "signature": "a -\u003e Double -\u003e Double",
+          "source": "src/Numeric-LazySplines.html#at",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines",
+          "module": "Numeric.LazySplines",
+          "name": "at",
+          "normalized": "a-\u003eDouble-\u003eDouble",
+          "package": "lazysplines",
+          "signature": "a-\u003eDouble-\u003eDouble",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:at"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines",
+          "name": "deriveSpline",
+          "package": "lazysplines",
+          "signature": "Spline -\u003e Spline",
+          "source": "src/Numeric-LazySplines.html#deriveSpline",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines",
+          "module": "Numeric.LazySplines",
+          "name": "deriveSpline",
+          "normalized": "Spline-\u003eSpline",
+          "package": "lazysplines",
+          "partial": "Spline",
+          "signature": "Spline-\u003eSpline",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:deriveSpline"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines",
+          "name": "duration",
+          "package": "lazysplines",
+          "signature": "Spline -\u003e Double",
+          "source": "src/Numeric-LazySplines.html#duration",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines",
+          "module": "Numeric.LazySplines",
+          "name": "duration",
+          "normalized": "Spline-\u003eDouble",
+          "package": "lazysplines",
+          "signature": "Spline-\u003eDouble",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:duration"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines",
+          "name": "extendWhen",
+          "package": "lazysplines",
+          "signature": "Spline -\u003e (Double, Double, SplinePredicate) -\u003e Spline",
+          "source": "src/Numeric-LazySplines.html#extendWhen",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines",
+          "module": "Numeric.LazySplines",
+          "name": "extendWhen",
+          "normalized": "Spline-\u003e(Double,Double,SplinePredicate)-\u003eSpline",
+          "package": "lazysplines",
+          "partial": "When",
+          "signature": "Spline-\u003e(Double,Double,SplinePredicate)-\u003eSpline",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:extendWhen"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines",
+          "name": "extrapForward",
+          "package": "lazysplines",
+          "signature": "Spline -\u003e Double -\u003e Spline",
+          "source": "src/Numeric-LazySplines.html#extrapForward",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines",
+          "module": "Numeric.LazySplines",
+          "name": "extrapForward",
+          "normalized": "Spline-\u003eDouble-\u003eSpline",
+          "package": "lazysplines",
+          "partial": "Forward",
+          "signature": "Spline-\u003eDouble-\u003eSpline",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:extrapForward"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines",
+          "name": "findValue",
+          "package": "lazysplines",
+          "signature": "Double -\u003e (a -\u003e Double) -\u003e (Double -\u003e a) -\u003e a",
+          "source": "src/Numeric-LazySplines.html#findValue",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines",
+          "module": "Numeric.LazySplines",
+          "name": "findValue",
+          "normalized": "Double-\u003e(a-\u003eDouble)-\u003e(Double-\u003ea)-\u003ea",
+          "package": "lazysplines",
+          "partial": "Value",
+          "signature": "Double-\u003e(a-\u003eDouble)-\u003e(Double-\u003ea)-\u003ea",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:findValue"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines",
+          "name": "inSpline2",
+          "package": "lazysplines",
+          "signature": "(Poly -\u003e Poly -\u003e Poly) -\u003e Spline -\u003e Spline -\u003e Spline",
+          "source": "src/Numeric-LazySplines.html#inSpline2",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines",
+          "module": "Numeric.LazySplines",
+          "name": "inSpline2",
+          "normalized": "(Poly-\u003ePoly-\u003ePoly)-\u003eSpline-\u003eSpline-\u003eSpline",
+          "package": "lazysplines",
+          "partial": "Spline",
+          "signature": "(Poly-\u003ePoly-\u003ePoly)-\u003eSpline-\u003eSpline-\u003eSpline",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:inSpline2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines",
+          "name": "integrateSpline",
+          "package": "lazysplines",
+          "signature": "Spline -\u003e Spline",
+          "source": "src/Numeric-LazySplines.html#integrateSpline",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines",
+          "module": "Numeric.LazySplines",
+          "name": "integrateSpline",
+          "normalized": "Spline-\u003eSpline",
+          "package": "lazysplines",
+          "partial": "Spline",
+          "signature": "Spline-\u003eSpline",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:integrateSpline"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines",
+          "name": "liftS",
+          "package": "lazysplines",
+          "signature": "Double -\u003e Spline",
+          "source": "src/Numeric-LazySplines.html#liftS",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines",
+          "module": "Numeric.LazySplines",
+          "name": "liftS",
+          "normalized": "Double-\u003eSpline",
+          "package": "lazysplines",
+          "signature": "Double-\u003eSpline",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:liftS"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines",
+          "name": "mapSpline",
+          "package": "lazysplines",
+          "signature": "Bool -\u003e (Double -\u003e Double -\u003e Poly -\u003e Poly) -\u003e Spline -\u003e Spline",
+          "source": "src/Numeric-LazySplines.html#mapSpline",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines",
+          "module": "Numeric.LazySplines",
+          "name": "mapSpline",
+          "normalized": "Bool-\u003e(Double-\u003eDouble-\u003ePoly-\u003ePoly)-\u003eSpline-\u003eSpline",
+          "package": "lazysplines",
+          "partial": "Spline",
+          "signature": "Bool-\u003e(Double-\u003eDouble-\u003ePoly-\u003ePoly)-\u003eSpline-\u003eSpline",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:mapSpline"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines",
+          "name": "newton",
+          "package": "lazysplines",
+          "signature": "Double -\u003e (Double -\u003e Double) -\u003e [Double]",
+          "source": "src/Numeric-LazySplines.html#newton",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines",
+          "module": "Numeric.LazySplines",
+          "name": "newton",
+          "normalized": "Double-\u003e(Double-\u003eDouble)-\u003e[Double]",
+          "package": "lazysplines",
+          "signature": "Double-\u003e(Double-\u003eDouble)-\u003e[Double]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:newton"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines",
+          "name": "pickValue",
+          "package": "lazysplines",
+          "signature": "Double -\u003e (a -\u003e Double) -\u003e [a] -\u003e a",
+          "source": "src/Numeric-LazySplines.html#pickValue",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines",
+          "module": "Numeric.LazySplines",
+          "name": "pickValue",
+          "normalized": "Double-\u003e(a-\u003eDouble)-\u003e[a]-\u003ea",
+          "package": "lazysplines",
+          "partial": "Value",
+          "signature": "Double-\u003e(a-\u003eDouble)-\u003e[a]-\u003ea",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:pickValue"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines",
+          "name": "satisfying",
+          "package": "lazysplines",
+          "signature": "Spline -\u003e (Double, SplinePredicate) -\u003e Spline",
+          "source": "src/Numeric-LazySplines.html#satisfying",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines",
+          "module": "Numeric.LazySplines",
+          "name": "satisfying",
+          "normalized": "Spline-\u003e(Double,SplinePredicate)-\u003eSpline",
+          "package": "lazysplines",
+          "signature": "Spline-\u003e(Double,SplinePredicate)-\u003eSpline",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:satisfying"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines",
+          "name": "scaleRest",
+          "package": "lazysplines",
+          "signature": "Poly -\u003e Double -\u003e Poly",
+          "source": "src/Numeric-LazySplines.html#scaleRest",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines",
+          "module": "Numeric.LazySplines",
+          "name": "scaleRest",
+          "normalized": "Poly-\u003eDouble-\u003ePoly",
+          "package": "lazysplines",
+          "partial": "Rest",
+          "signature": "Poly-\u003eDouble-\u003ePoly",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:scaleRest"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines",
+          "name": "shiftBy",
+          "package": "lazysplines",
+          "signature": "Double -\u003e Poly -\u003e Poly",
+          "source": "src/Numeric-LazySplines.html#shiftBy",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines",
+          "module": "Numeric.LazySplines",
+          "name": "shiftBy",
+          "normalized": "Double-\u003ePoly-\u003ePoly",
+          "package": "lazysplines",
+          "partial": "By",
+          "signature": "Double-\u003ePoly-\u003ePoly",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:shiftBy"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines",
+          "name": "splitWhen",
+          "package": "lazysplines",
+          "signature": "Spline -\u003e (Double, Double, SplinePredicate) -\u003e Spline",
+          "source": "src/Numeric-LazySplines.html#splitWhen",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines",
+          "module": "Numeric.LazySplines",
+          "name": "splitWhen",
+          "normalized": "Spline-\u003e(Double,Double,SplinePredicate)-\u003eSpline",
+          "package": "lazysplines",
+          "partial": "When",
+          "signature": "Spline-\u003e(Double,Double,SplinePredicate)-\u003eSpline",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:splitWhen"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines",
+          "name": "trimSmart",
+          "package": "lazysplines",
+          "signature": "Spline -\u003e SplinePredicate -\u003e Spline",
+          "source": "src/Numeric-LazySplines.html#trimSmart",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines",
+          "module": "Numeric.LazySplines",
+          "name": "trimSmart",
+          "normalized": "Spline-\u003eSplinePredicate-\u003eSpline",
+          "package": "lazysplines",
+          "partial": "Smart",
+          "signature": "Spline-\u003eSplinePredicate-\u003eSpline",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:trimSmart"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.LazySplines",
+          "name": "trimmingTo",
+          "package": "lazysplines",
+          "signature": "Spline -\u003e Int -\u003e Spline",
+          "source": "src/Numeric-LazySplines.html#trimmingTo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric LazySplines",
+          "module": "Numeric.LazySplines",
+          "name": "trimmingTo",
+          "normalized": "Spline-\u003eInt-\u003eSpline",
+          "package": "lazysplines",
+          "partial": "To",
+          "signature": "Spline-\u003eInt-\u003eSpline",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:trimmingTo"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines-Examples.html#v:flame2",
-      "description": {
-        "fct-module": "Numeric.LazySplines.Examples",
-        "fct-package": "lazysplines",
-        "fct-signature": "Spline",
-        "fct-source": "src/Numeric-LazySplines-Examples.html#flame2",
-        "fct-type": "function",
-        "title": "flame2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines Examples",
-        "module": "Numeric.LazySplines.Examples",
-        "name": "flame2",
-        "normalized": "",
-        "package": "lazysplines",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines-Examples.html#v:flame3",
-      "description": {
-        "fct-module": "Numeric.LazySplines.Examples",
-        "fct-package": "lazysplines",
-        "fct-signature": "Spline",
-        "fct-source": "src/Numeric-LazySplines-Examples.html#flame3",
-        "fct-type": "function",
-        "title": "flame3"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines Examples",
-        "module": "Numeric.LazySplines.Examples",
-        "name": "flame3",
-        "normalized": "",
-        "package": "lazysplines",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines-Examples.html#v:flame4",
-      "description": {
-        "fct-module": "Numeric.LazySplines.Examples",
-        "fct-package": "lazysplines",
-        "fct-signature": "Spline",
-        "fct-source": "src/Numeric-LazySplines-Examples.html#flame4",
-        "fct-type": "function",
-        "title": "flame4"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines Examples",
-        "module": "Numeric.LazySplines.Examples",
-        "name": "flame4",
-        "normalized": "",
-        "package": "lazysplines",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines-Examples.html#v:flame5",
-      "description": {
-        "fct-module": "Numeric.LazySplines.Examples",
-        "fct-package": "lazysplines",
-        "fct-signature": "Spline",
-        "fct-source": "src/Numeric-LazySplines-Examples.html#flame5",
-        "fct-type": "function",
-        "title": "flame5"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines Examples",
-        "module": "Numeric.LazySplines.Examples",
-        "name": "flame5",
-        "normalized": "",
-        "package": "lazysplines",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines-Examples.html#v:flamePred",
-      "description": {
-        "fct-module": "Numeric.LazySplines.Examples",
-        "fct-package": "lazysplines",
-        "fct-signature": "SplinePredicate",
-        "fct-source": "src/Numeric-LazySplines-Examples.html#flamePred",
-        "fct-type": "function",
-        "title": "flamePred"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines Examples",
-        "module": "Numeric.LazySplines.Examples",
-        "name": "flamePred",
-        "normalized": "",
-        "package": "lazysplines",
-        "partial": "Pred",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines-Examples.html#v:spring",
-      "description": {
-        "fct-module": "Numeric.LazySplines.Examples",
-        "fct-package": "lazysplines",
-        "fct-signature": "Spline",
-        "fct-source": "src/Numeric-LazySplines-Examples.html#spring",
-        "fct-type": "function",
-        "title": "spring"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines Examples",
-        "module": "Numeric.LazySplines.Examples",
-        "name": "spring",
-        "normalized": "",
-        "package": "lazysplines",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines-Examples.html#v:survival",
-      "description": {
-        "fct-module": "Numeric.LazySplines.Examples",
-        "fct-package": "lazysplines",
-        "fct-signature": "Spline",
-        "fct-source": "src/Numeric-LazySplines-Examples.html#survival",
-        "fct-type": "function",
-        "title": "survival"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines Examples",
-        "module": "Numeric.LazySplines.Examples",
-        "name": "survival",
-        "normalized": "",
-        "package": "lazysplines",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#",
-      "description": {
-        "fct-module": "Numeric.LazySplines",
-        "fct-package": "lazysplines",
-        "fct-signature": "module",
-        "fct-source": "src/Numeric-LazySplines.html",
-        "fct-type": "module",
-        "title": "LazySplines"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines",
-        "module": "Numeric.LazySplines",
-        "name": "LazySplines",
-        "normalized": "",
-        "package": "lazysplines",
-        "partial": "Lazy Splines",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#t:Poly",
-      "description": {
-        "fct-module": "Numeric.LazySplines",
-        "fct-package": "lazysplines",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-LazySplines.html#Poly",
-        "fct-type": "type",
-        "title": "Poly"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines",
-        "module": "Numeric.LazySplines",
-        "name": "Poly",
-        "normalized": "",
-        "package": "lazysplines",
-        "partial": "Poly",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#t:PolySegment",
-      "description": {
-        "fct-module": "Numeric.LazySplines",
-        "fct-package": "lazysplines",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-LazySplines.html#PolySegment",
-        "fct-type": "type",
-        "title": "PolySegment"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines",
-        "module": "Numeric.LazySplines",
-        "name": "PolySegment",
-        "normalized": "",
-        "package": "lazysplines",
-        "partial": "Poly Segment",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#t:Sampleable",
-      "description": {
-        "fct-descr": "\u003cp\u003eSomething that can be sampled.\n\u003c/p\u003e",
-        "fct-module": "Numeric.LazySplines",
-        "fct-package": "lazysplines",
-        "fct-signature": "class",
-        "fct-source": "src/Numeric-LazySplines.html#Sampleable",
-        "fct-type": "class",
-        "title": "Sampleable"
-      },
-      "index": {
-        "description": "Something that can be sampled",
-        "hierarchy": "Numeric LazySplines",
-        "module": "Numeric.LazySplines",
-        "name": "Sampleable",
-        "normalized": "",
-        "package": "lazysplines",
-        "partial": "Sampleable",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#t:Spline",
-      "description": {
-        "fct-module": "Numeric.LazySplines",
-        "fct-package": "lazysplines",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-LazySplines.html#Spline",
-        "fct-type": "type",
-        "title": "Spline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines",
-        "module": "Numeric.LazySplines",
-        "name": "Spline",
-        "normalized": "",
-        "package": "lazysplines",
-        "partial": "Spline",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#t:SplinePredicate",
-      "description": {
-        "fct-module": "Numeric.LazySplines",
-        "fct-package": "lazysplines",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-LazySplines.html#SplinePredicate",
-        "fct-type": "type",
-        "title": "SplinePredicate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines",
-        "module": "Numeric.LazySplines",
-        "name": "SplinePredicate",
-        "normalized": "",
-        "package": "lazysplines",
-        "partial": "Spline Predicate",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:at",
-      "description": {
-        "fct-module": "Numeric.LazySplines",
-        "fct-package": "lazysplines",
-        "fct-signature": "a -\u003e Double -\u003e Double",
-        "fct-source": "src/Numeric-LazySplines.html#at",
-        "fct-type": "method",
-        "title": "at"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines",
-        "module": "Numeric.LazySplines",
-        "name": "at",
-        "normalized": "a-\u003eDouble-\u003eDouble",
-        "package": "lazysplines",
-        "partial": "",
-        "signature": "a-\u003eDouble-\u003eDouble"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:deriveSpline",
-      "description": {
-        "fct-module": "Numeric.LazySplines",
-        "fct-package": "lazysplines",
-        "fct-signature": "Spline -\u003e Spline",
-        "fct-source": "src/Numeric-LazySplines.html#deriveSpline",
-        "fct-type": "function",
-        "title": "deriveSpline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines",
-        "module": "Numeric.LazySplines",
-        "name": "deriveSpline",
-        "normalized": "Spline-\u003eSpline",
-        "package": "lazysplines",
-        "partial": "Spline",
-        "signature": "Spline-\u003eSpline"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:duration",
-      "description": {
-        "fct-module": "Numeric.LazySplines",
-        "fct-package": "lazysplines",
-        "fct-signature": "Spline -\u003e Double",
-        "fct-source": "src/Numeric-LazySplines.html#duration",
-        "fct-type": "function",
-        "title": "duration"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines",
-        "module": "Numeric.LazySplines",
-        "name": "duration",
-        "normalized": "Spline-\u003eDouble",
-        "package": "lazysplines",
-        "partial": "",
-        "signature": "Spline-\u003eDouble"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:extendWhen",
-      "description": {
-        "fct-module": "Numeric.LazySplines",
-        "fct-package": "lazysplines",
-        "fct-signature": "Spline -\u003e (Double, Double, SplinePredicate) -\u003e Spline",
-        "fct-source": "src/Numeric-LazySplines.html#extendWhen",
-        "fct-type": "function",
-        "title": "extendWhen"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines",
-        "module": "Numeric.LazySplines",
-        "name": "extendWhen",
-        "normalized": "Spline-\u003e(Double,Double,SplinePredicate)-\u003eSpline",
-        "package": "lazysplines",
-        "partial": "When",
-        "signature": "Spline-\u003e(Double,Double,SplinePredicate)-\u003eSpline"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:extrapForward",
-      "description": {
-        "fct-module": "Numeric.LazySplines",
-        "fct-package": "lazysplines",
-        "fct-signature": "Spline -\u003e Double -\u003e Spline",
-        "fct-source": "src/Numeric-LazySplines.html#extrapForward",
-        "fct-type": "function",
-        "title": "extrapForward"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines",
-        "module": "Numeric.LazySplines",
-        "name": "extrapForward",
-        "normalized": "Spline-\u003eDouble-\u003eSpline",
-        "package": "lazysplines",
-        "partial": "Forward",
-        "signature": "Spline-\u003eDouble-\u003eSpline"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:findValue",
-      "description": {
-        "fct-module": "Numeric.LazySplines",
-        "fct-package": "lazysplines",
-        "fct-signature": "Double -\u003e (a -\u003e Double) -\u003e (Double -\u003e a) -\u003e a",
-        "fct-source": "src/Numeric-LazySplines.html#findValue",
-        "fct-type": "function",
-        "title": "findValue"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines",
-        "module": "Numeric.LazySplines",
-        "name": "findValue",
-        "normalized": "Double-\u003e(a-\u003eDouble)-\u003e(Double-\u003ea)-\u003ea",
-        "package": "lazysplines",
-        "partial": "Value",
-        "signature": "Double-\u003e(a-\u003eDouble)-\u003e(Double-\u003ea)-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:inSpline2",
-      "description": {
-        "fct-module": "Numeric.LazySplines",
-        "fct-package": "lazysplines",
-        "fct-signature": "(Poly -\u003e Poly -\u003e Poly) -\u003e Spline -\u003e Spline -\u003e Spline",
-        "fct-source": "src/Numeric-LazySplines.html#inSpline2",
-        "fct-type": "function",
-        "title": "inSpline2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines",
-        "module": "Numeric.LazySplines",
-        "name": "inSpline2",
-        "normalized": "(Poly-\u003ePoly-\u003ePoly)-\u003eSpline-\u003eSpline-\u003eSpline",
-        "package": "lazysplines",
-        "partial": "Spline",
-        "signature": "(Poly-\u003ePoly-\u003ePoly)-\u003eSpline-\u003eSpline-\u003eSpline"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:integrateSpline",
-      "description": {
-        "fct-module": "Numeric.LazySplines",
-        "fct-package": "lazysplines",
-        "fct-signature": "Spline -\u003e Spline",
-        "fct-source": "src/Numeric-LazySplines.html#integrateSpline",
-        "fct-type": "function",
-        "title": "integrateSpline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines",
-        "module": "Numeric.LazySplines",
-        "name": "integrateSpline",
-        "normalized": "Spline-\u003eSpline",
-        "package": "lazysplines",
-        "partial": "Spline",
-        "signature": "Spline-\u003eSpline"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:liftS",
-      "description": {
-        "fct-module": "Numeric.LazySplines",
-        "fct-package": "lazysplines",
-        "fct-signature": "Double -\u003e Spline",
-        "fct-source": "src/Numeric-LazySplines.html#liftS",
-        "fct-type": "function",
-        "title": "liftS"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines",
-        "module": "Numeric.LazySplines",
-        "name": "liftS",
-        "normalized": "Double-\u003eSpline",
-        "package": "lazysplines",
-        "partial": "",
-        "signature": "Double-\u003eSpline"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:mapSpline",
-      "description": {
-        "fct-module": "Numeric.LazySplines",
-        "fct-package": "lazysplines",
-        "fct-signature": "Bool -\u003e (Double -\u003e Double -\u003e Poly -\u003e Poly) -\u003e Spline -\u003e Spline",
-        "fct-source": "src/Numeric-LazySplines.html#mapSpline",
-        "fct-type": "function",
-        "title": "mapSpline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines",
-        "module": "Numeric.LazySplines",
-        "name": "mapSpline",
-        "normalized": "Bool-\u003e(Double-\u003eDouble-\u003ePoly-\u003ePoly)-\u003eSpline-\u003eSpline",
-        "package": "lazysplines",
-        "partial": "Spline",
-        "signature": "Bool-\u003e(Double-\u003eDouble-\u003ePoly-\u003ePoly)-\u003eSpline-\u003eSpline"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:newton",
-      "description": {
-        "fct-module": "Numeric.LazySplines",
-        "fct-package": "lazysplines",
-        "fct-signature": "Double -\u003e (Double -\u003e Double) -\u003e [Double]",
-        "fct-source": "src/Numeric-LazySplines.html#newton",
-        "fct-type": "function",
-        "title": "newton"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines",
-        "module": "Numeric.LazySplines",
-        "name": "newton",
-        "normalized": "Double-\u003e(Double-\u003eDouble)-\u003e[Double]",
-        "package": "lazysplines",
-        "partial": "",
-        "signature": "Double-\u003e(Double-\u003eDouble)-\u003e[Double]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:pickValue",
-      "description": {
-        "fct-module": "Numeric.LazySplines",
-        "fct-package": "lazysplines",
-        "fct-signature": "Double -\u003e (a -\u003e Double) -\u003e [a] -\u003e a",
-        "fct-source": "src/Numeric-LazySplines.html#pickValue",
-        "fct-type": "function",
-        "title": "pickValue"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines",
-        "module": "Numeric.LazySplines",
-        "name": "pickValue",
-        "normalized": "Double-\u003e(a-\u003eDouble)-\u003e[a]-\u003ea",
-        "package": "lazysplines",
-        "partial": "Value",
-        "signature": "Double-\u003e(a-\u003eDouble)-\u003e[a]-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:satisfying",
-      "description": {
-        "fct-module": "Numeric.LazySplines",
-        "fct-package": "lazysplines",
-        "fct-signature": "Spline -\u003e (Double, SplinePredicate) -\u003e Spline",
-        "fct-source": "src/Numeric-LazySplines.html#satisfying",
-        "fct-type": "function",
-        "title": "satisfying"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines",
-        "module": "Numeric.LazySplines",
-        "name": "satisfying",
-        "normalized": "Spline-\u003e(Double,SplinePredicate)-\u003eSpline",
-        "package": "lazysplines",
-        "partial": "",
-        "signature": "Spline-\u003e(Double,SplinePredicate)-\u003eSpline"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:scaleRest",
-      "description": {
-        "fct-module": "Numeric.LazySplines",
-        "fct-package": "lazysplines",
-        "fct-signature": "Poly -\u003e Double -\u003e Poly",
-        "fct-source": "src/Numeric-LazySplines.html#scaleRest",
-        "fct-type": "function",
-        "title": "scaleRest"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines",
-        "module": "Numeric.LazySplines",
-        "name": "scaleRest",
-        "normalized": "Poly-\u003eDouble-\u003ePoly",
-        "package": "lazysplines",
-        "partial": "Rest",
-        "signature": "Poly-\u003eDouble-\u003ePoly"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:shiftBy",
-      "description": {
-        "fct-module": "Numeric.LazySplines",
-        "fct-package": "lazysplines",
-        "fct-signature": "Double -\u003e Poly -\u003e Poly",
-        "fct-source": "src/Numeric-LazySplines.html#shiftBy",
-        "fct-type": "function",
-        "title": "shiftBy"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines",
-        "module": "Numeric.LazySplines",
-        "name": "shiftBy",
-        "normalized": "Double-\u003ePoly-\u003ePoly",
-        "package": "lazysplines",
-        "partial": "By",
-        "signature": "Double-\u003ePoly-\u003ePoly"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:splitWhen",
-      "description": {
-        "fct-module": "Numeric.LazySplines",
-        "fct-package": "lazysplines",
-        "fct-signature": "Spline -\u003e (Double, Double, SplinePredicate) -\u003e Spline",
-        "fct-source": "src/Numeric-LazySplines.html#splitWhen",
-        "fct-type": "function",
-        "title": "splitWhen"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines",
-        "module": "Numeric.LazySplines",
-        "name": "splitWhen",
-        "normalized": "Spline-\u003e(Double,Double,SplinePredicate)-\u003eSpline",
-        "package": "lazysplines",
-        "partial": "When",
-        "signature": "Spline-\u003e(Double,Double,SplinePredicate)-\u003eSpline"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:trimSmart",
-      "description": {
-        "fct-module": "Numeric.LazySplines",
-        "fct-package": "lazysplines",
-        "fct-signature": "Spline -\u003e SplinePredicate -\u003e Spline",
-        "fct-source": "src/Numeric-LazySplines.html#trimSmart",
-        "fct-type": "function",
-        "title": "trimSmart"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines",
-        "module": "Numeric.LazySplines",
-        "name": "trimSmart",
-        "normalized": "Spline-\u003eSplinePredicate-\u003eSpline",
-        "package": "lazysplines",
-        "partial": "Smart",
-        "signature": "Spline-\u003eSplinePredicate-\u003eSpline"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lazysplines/docs/Numeric-LazySplines.html#v:trimmingTo",
-      "description": {
-        "fct-module": "Numeric.LazySplines",
-        "fct-package": "lazysplines",
-        "fct-signature": "Spline -\u003e Int -\u003e Spline",
-        "fct-source": "src/Numeric-LazySplines.html#trimmingTo",
-        "fct-type": "function",
-        "title": "trimmingTo"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric LazySplines",
-        "module": "Numeric.LazySplines",
-        "name": "trimmingTo",
-        "normalized": "Spline-\u003eInt-\u003eSpline",
-        "package": "lazysplines",
-        "partial": "To",
-        "signature": "Spline-\u003eInt-\u003eSpline"
-      }
-    }
-  }
+  ]
 ]

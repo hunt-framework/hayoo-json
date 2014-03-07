@@ -1,50 +1,62 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/email-postmark/docs/Network-Mail-Postmark.html#",
-      "description": {
-        "fct-module": "Network.Mail.Postmark",
-        "fct-package": "email-postmark",
-        "fct-signature": "module",
-        "fct-source": "src/Network-Mail-Postmark.html",
-        "fct-type": "module",
-        "title": "Postmark"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "email-postmark"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Mail Postmark",
-        "module": "Network.Mail.Postmark",
-        "name": "Postmark",
-        "normalized": "",
-        "package": "email-postmark",
-        "partial": "Postmark",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/email-postmark/docs/Network-Mail-Postmark.html#v:postmark",
-      "description": {
-        "fct-module": "Network.Mail.Postmark",
-        "fct-package": "email-postmark",
-        "fct-signature": "String -\u003e a -\u003e a -\u003e a -\u003e a -\u003e a -\u003e IO Bool",
-        "fct-source": "src/Network-Mail-Postmark.html#postmark",
-        "fct-type": "function",
-        "title": "postmark"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Mail Postmark",
-        "module": "Network.Mail.Postmark",
-        "name": "postmark",
-        "normalized": "String-\u003ea-\u003ea-\u003ea-\u003ea-\u003ea-\u003eIO Bool",
-        "package": "email-postmark",
-        "partial": "",
-        "signature": "String-\u003ea-\u003ea-\u003ea-\u003ea-\u003ea-\u003eIO Bool"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Mail.Postmark",
+          "name": "Postmark",
+          "package": "email-postmark",
+          "source": "src/Network-Mail-Postmark.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Network Mail Postmark",
+          "module": "Network.Mail.Postmark",
+          "name": "Postmark",
+          "package": "email-postmark",
+          "partial": "Postmark",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/email-postmark/docs/Network-Mail-Postmark.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Mail.Postmark",
+          "name": "postmark",
+          "package": "email-postmark",
+          "signature": "String -\u003e a -\u003e a -\u003e a -\u003e a -\u003e a -\u003e IO Bool",
+          "source": "src/Network-Mail-Postmark.html#postmark",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network Mail Postmark",
+          "module": "Network.Mail.Postmark",
+          "name": "postmark",
+          "normalized": "String-\u003ea-\u003ea-\u003ea-\u003ea-\u003ea-\u003eIO Bool",
+          "package": "email-postmark",
+          "signature": "String-\u003ea-\u003ea-\u003ea-\u003ea-\u003ea-\u003eIO Bool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/email-postmark/docs/Network-Mail-Postmark.html#v:postmark"
       }
     }
-  }
+  ]
 ]

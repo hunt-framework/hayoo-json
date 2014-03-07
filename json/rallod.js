@@ -1,50 +1,62 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/rallod/docs/Rallod.html#",
-      "description": {
-        "fct-module": "Rallod",
-        "fct-package": "rallod",
-        "fct-signature": "module",
-        "fct-source": "src/Rallod.html",
-        "fct-type": "module",
-        "title": "Rallod"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "rallod"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Rallod",
-        "module": "Rallod",
-        "name": "Rallod",
-        "normalized": "",
-        "package": "rallod",
-        "partial": "Rallod",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/rallod/docs/Rallod.html#v:-61--61--62-",
-      "description": {
-        "fct-module": "Rallod",
-        "fct-package": "rallod",
-        "fct-signature": "a -\u003e (a -\u003e b) -\u003e b",
-        "fct-source": "src/Rallod.html#%3D%3D%3E",
-        "fct-type": "function",
-        "title": "(==\u003e)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Rallod",
-        "module": "Rallod",
-        "name": "(==\u003e) ==\u003e",
-        "normalized": "a-\u003e(a-\u003eb)-\u003eb",
-        "package": "rallod",
-        "partial": "",
-        "signature": "a-\u003e(a-\u003eb)-\u003eb"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Rallod",
+          "name": "Rallod",
+          "package": "rallod",
+          "source": "src/Rallod.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Rallod",
+          "module": "Rallod",
+          "name": "Rallod",
+          "package": "rallod",
+          "partial": "Rallod",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/rallod/docs/Rallod.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Rallod",
+          "name": "(==\u003e)",
+          "package": "rallod",
+          "signature": "a -\u003e (a -\u003e b) -\u003e b",
+          "source": "src/Rallod.html#%3D%3D%3E",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Rallod",
+          "module": "Rallod",
+          "name": "(==\u003e) ==\u003e",
+          "normalized": "a-\u003e(a-\u003eb)-\u003eb",
+          "package": "rallod",
+          "signature": "a-\u003e(a-\u003eb)-\u003eb",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/rallod/docs/Rallod.html#v:-61--61--62-"
       }
     }
-  }
+  ]
 ]

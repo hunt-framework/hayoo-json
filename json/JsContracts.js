@@ -1,867 +1,568 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts.Interface",
-        "fct-package": "JsContracts",
-        "fct-signature": "module",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Interface.html",
-        "fct-type": "module",
-        "title": "Interface"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "JsContracts"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts Interface",
-        "module": "BrownPLT.JavaScript.Contracts.Interface",
-        "name": "Interface",
-        "normalized": "",
-        "package": "JsContracts",
-        "partial": "Interface",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#t:Contract",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts.Interface",
-        "fct-package": "JsContracts",
-        "fct-signature": "data",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Types.html#Contract",
-        "fct-type": "data",
-        "title": "Contract"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts Interface",
-        "module": "BrownPLT.JavaScript.Contracts.Interface",
-        "name": "Contract",
-        "normalized": "",
-        "package": "JsContracts",
-        "partial": "Contract",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.JavaScript.Contracts.Interface",
+          "name": "Interface",
+          "package": "JsContracts",
+          "source": "src/BrownPLT-JavaScript-Contracts-Interface.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "BrownPLT JavaScript Contracts Interface",
+          "module": "BrownPLT.JavaScript.Contracts.Interface",
+          "name": "Interface",
+          "package": "JsContracts",
+          "partial": "Interface",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.JavaScript.Contracts.Interface",
+          "name": "Contract",
+          "package": "JsContracts",
+          "source": "src/BrownPLT-JavaScript-Contracts-Types.html#Contract",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "BrownPLT JavaScript Contracts Interface",
+          "module": "BrownPLT.JavaScript.Contracts.Interface",
+          "name": "Contract",
+          "package": "JsContracts",
+          "partial": "Contract",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#t:Contract"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.JavaScript.Contracts.Interface",
+          "name": "InterfaceItem",
+          "package": "JsContracts",
+          "source": "src/BrownPLT-JavaScript-Contracts-Types.html#InterfaceItem",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "BrownPLT JavaScript Contracts Interface",
+          "module": "BrownPLT.JavaScript.Contracts.Interface",
+          "name": "InterfaceItem",
+          "package": "JsContracts",
+          "partial": "Interface Item",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#t:InterfaceItem"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"BrownPLT.JavaScript.Contracts.Interface\",\"BrownPLT.JavaScript.Contracts\"]",
+          "name": "ArrayContract",
+          "package": "JsContracts",
+          "signature": "ArrayContract SourcePos Contract",
+          "source": "src/BrownPLT-JavaScript-Contracts-Types.html#Contract",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:ArrayContract\",\"http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:ArrayContract\"]"
+        },
+        "index": {
+          "hierarchy": "BrownPLT JavaScript Contracts Interface",
+          "module": "BrownPLT.JavaScript.Contracts.Interface",
+          "name": "ArrayContract",
+          "package": "JsContracts",
+          "partial": "Array Contract",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:ArrayContract"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"BrownPLT.JavaScript.Contracts.Interface\",\"BrownPLT.JavaScript.Contracts\"]",
+          "name": "ConstructorContract",
+          "package": "JsContracts",
+          "signature": "ConstructorContract SourcePos String [Contract]",
+          "source": "src/BrownPLT-JavaScript-Contracts-Types.html#Contract",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:ConstructorContract\",\"http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:ConstructorContract\"]"
+        },
+        "index": {
+          "hierarchy": "BrownPLT JavaScript Contracts Interface",
+          "module": "BrownPLT.JavaScript.Contracts.Interface",
+          "name": "ConstructorContract",
+          "normalized": "ConstructorContract SourcePos String[Contract]",
+          "package": "JsContracts",
+          "partial": "Constructor Contract",
+          "signature": "ConstructorContract SourcePos String[Contract]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:ConstructorContract"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"BrownPLT.JavaScript.Contracts.Interface\",\"BrownPLT.JavaScript.Contracts\"]",
+          "name": "FixedArrayContract",
+          "package": "JsContracts",
+          "signature": "FixedArrayContract SourcePos [Contract]",
+          "source": "src/BrownPLT-JavaScript-Contracts-Types.html#Contract",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:FixedArrayContract\",\"http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:FixedArrayContract\"]"
+        },
+        "index": {
+          "hierarchy": "BrownPLT JavaScript Contracts Interface",
+          "module": "BrownPLT.JavaScript.Contracts.Interface",
+          "name": "FixedArrayContract",
+          "normalized": "FixedArrayContract SourcePos[Contract]",
+          "package": "JsContracts",
+          "partial": "Fixed Array Contract",
+          "signature": "FixedArrayContract SourcePos[Contract]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:FixedArrayContract"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"BrownPLT.JavaScript.Contracts.Interface\",\"BrownPLT.JavaScript.Contracts\"]",
+          "name": "FlatContract",
+          "package": "JsContracts",
+          "signature": "FlatContract SourcePos ParsedExpression",
+          "source": "src/BrownPLT-JavaScript-Contracts-Types.html#Contract",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:FlatContract\",\"http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:FlatContract\"]"
+        },
+        "index": {
+          "hierarchy": "BrownPLT JavaScript Contracts Interface",
+          "module": "BrownPLT.JavaScript.Contracts.Interface",
+          "name": "FlatContract",
+          "package": "JsContracts",
+          "partial": "Flat Contract",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:FlatContract"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"BrownPLT.JavaScript.Contracts.Interface\",\"BrownPLT.JavaScript.Contracts\"]",
+          "name": "FunctionContract",
+          "package": "JsContracts",
+          "signature": "FunctionContract SourcePos [Contract] (Maybe Contract) Contract",
+          "source": "src/BrownPLT-JavaScript-Contracts-Types.html#Contract",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:FunctionContract\",\"http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:FunctionContract\"]"
+        },
+        "index": {
+          "hierarchy": "BrownPLT JavaScript Contracts Interface",
+          "module": "BrownPLT.JavaScript.Contracts.Interface",
+          "name": "FunctionContract",
+          "normalized": "FunctionContract SourcePos[Contract](Maybe Contract)Contract",
+          "package": "JsContracts",
+          "partial": "Function Contract",
+          "signature": "FunctionContract SourcePos[Contract](Maybe Contract)Contract",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:FunctionContract"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"BrownPLT.JavaScript.Contracts.Interface\",\"BrownPLT.JavaScript.Contracts\"]",
+          "name": "InterfaceAlias",
+          "package": "JsContracts",
+          "signature": "InterfaceAlias String Contract",
+          "source": "src/BrownPLT-JavaScript-Contracts-Types.html#InterfaceItem",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:InterfaceAlias\",\"http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:InterfaceAlias\"]"
+        },
+        "index": {
+          "hierarchy": "BrownPLT JavaScript Contracts Interface",
+          "module": "BrownPLT.JavaScript.Contracts.Interface",
+          "name": "InterfaceAlias",
+          "package": "JsContracts",
+          "partial": "Interface Alias",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:InterfaceAlias"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"BrownPLT.JavaScript.Contracts.Interface\",\"BrownPLT.JavaScript.Contracts\"]",
+          "name": "InterfaceExport",
+          "package": "JsContracts",
+          "signature": "InterfaceExport String SourcePos Contract",
+          "source": "src/BrownPLT-JavaScript-Contracts-Types.html#InterfaceItem",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:InterfaceExport\",\"http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:InterfaceExport\"]"
+        },
+        "index": {
+          "hierarchy": "BrownPLT JavaScript Contracts Interface",
+          "module": "BrownPLT.JavaScript.Contracts.Interface",
+          "name": "InterfaceExport",
+          "package": "JsContracts",
+          "partial": "Interface Export",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:InterfaceExport"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ealways an object contract\n\u003c/p\u003e",
+          "module": "[\"BrownPLT.JavaScript.Contracts.Interface\",\"BrownPLT.JavaScript.Contracts\"]",
+          "name": "InterfaceInstance",
+          "package": "JsContracts",
+          "signature": "InterfaceInstance String SourcePos Contract",
+          "source": "src/BrownPLT-JavaScript-Contracts-Types.html#InterfaceItem",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:InterfaceInstance\",\"http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:InterfaceInstance\"]"
+        },
+        "index": {
+          "description": "always an object contract",
+          "hierarchy": "BrownPLT JavaScript Contracts Interface",
+          "module": "BrownPLT.JavaScript.Contracts.Interface",
+          "name": "InterfaceInstance",
+          "package": "JsContracts",
+          "partial": "Interface Instance",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:InterfaceInstance"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"BrownPLT.JavaScript.Contracts.Interface\",\"BrownPLT.JavaScript.Contracts\"]",
+          "name": "InterfaceStatement",
+          "package": "JsContracts",
+          "signature": "InterfaceStatement",
+          "source": "src/BrownPLT-JavaScript-Contracts-Types.html#InterfaceItem",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:InterfaceStatement\",\"http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:InterfaceStatement\"]"
+        },
+        "index": {
+          "hierarchy": "BrownPLT JavaScript Contracts Interface",
+          "module": "BrownPLT.JavaScript.Contracts.Interface",
+          "name": "InterfaceStatement",
+          "package": "JsContracts",
+          "partial": "Interface Statement",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:InterfaceStatement"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"BrownPLT.JavaScript.Contracts.Interface\",\"BrownPLT.JavaScript.Contracts\"]",
+          "name": "NamedContract",
+          "package": "JsContracts",
+          "signature": "NamedContract SourcePos String",
+          "source": "src/BrownPLT-JavaScript-Contracts-Types.html#Contract",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:NamedContract\",\"http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:NamedContract\"]"
+        },
+        "index": {
+          "hierarchy": "BrownPLT JavaScript Contracts Interface",
+          "module": "BrownPLT.JavaScript.Contracts.Interface",
+          "name": "NamedContract",
+          "package": "JsContracts",
+          "partial": "Named Contract",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:NamedContract"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"BrownPLT.JavaScript.Contracts.Interface\",\"BrownPLT.JavaScript.Contracts\"]",
+          "name": "ObjectContract",
+          "package": "JsContracts",
+          "signature": "ObjectContract SourcePos [(String, Contract)]",
+          "source": "src/BrownPLT-JavaScript-Contracts-Types.html#Contract",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:ObjectContract\",\"http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:ObjectContract\"]"
+        },
+        "index": {
+          "hierarchy": "BrownPLT JavaScript Contracts Interface",
+          "module": "BrownPLT.JavaScript.Contracts.Interface",
+          "name": "ObjectContract",
+          "normalized": "ObjectContract SourcePos[(String,Contract)]",
+          "package": "JsContracts",
+          "partial": "Object Contract",
+          "signature": "ObjectContract SourcePos[(String,Contract)]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:ObjectContract"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.JavaScript.Contracts.Interface",
+          "name": "contractPos",
+          "package": "JsContracts",
+          "signature": "Contract -\u003e SourcePos",
+          "source": "src/BrownPLT-JavaScript-Contracts-Types.html#contractPos",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "BrownPLT JavaScript Contracts Interface",
+          "module": "BrownPLT.JavaScript.Contracts.Interface",
+          "name": "contractPos",
+          "normalized": "Contract-\u003eSourcePos",
+          "package": "JsContracts",
+          "partial": "Pos",
+          "signature": "Contract-\u003eSourcePos",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:contractPos"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"BrownPLT.JavaScript.Contracts.Interface\",\"BrownPLT.JavaScript.Contracts\"]",
+          "name": "interfaceStatement",
+          "package": "JsContracts",
+          "signature": "ParsedStatement",
+          "source": "src/BrownPLT-JavaScript-Contracts-Types.html#InterfaceItem",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:interfaceStatement\",\"http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:interfaceStatement\"]"
+        },
+        "index": {
+          "hierarchy": "BrownPLT JavaScript Contracts Interface",
+          "module": "BrownPLT.JavaScript.Contracts.Interface",
+          "name": "interfaceStatement",
+          "package": "JsContracts",
+          "partial": "Statement",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:interfaceStatement"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.JavaScript.Contracts",
+          "name": "Contracts",
+          "package": "JsContracts",
+          "source": "src/BrownPLT-JavaScript-Contracts.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "BrownPLT JavaScript Contracts",
+          "module": "BrownPLT.JavaScript.Contracts",
+          "name": "Contracts",
+          "package": "JsContracts",
+          "partial": "Contracts",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.JavaScript.Contracts",
+          "name": "Contract",
+          "package": "JsContracts",
+          "source": "src/BrownPLT-JavaScript-Contracts-Types.html#Contract",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "BrownPLT JavaScript Contracts",
+          "module": "BrownPLT.JavaScript.Contracts",
+          "name": "Contract",
+          "package": "JsContracts",
+          "partial": "Contract",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#t:Contract"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.JavaScript.Contracts",
+          "name": "InterfaceItem",
+          "package": "JsContracts",
+          "source": "src/BrownPLT-JavaScript-Contracts-Types.html#InterfaceItem",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "BrownPLT JavaScript Contracts",
+          "module": "BrownPLT.JavaScript.Contracts",
+          "name": "InterfaceItem",
+          "package": "JsContracts",
+          "partial": "Interface Item",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#t:InterfaceItem"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.JavaScript.Contracts",
+          "name": "compile",
+          "package": "JsContracts",
+          "signature": "[ParsedStatement]-\u003e [InterfaceItem]-\u003e [ParsedStatement]-\u003e ParsedStatement",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "BrownPLT JavaScript Contracts",
+          "module": "BrownPLT.JavaScript.Contracts",
+          "name": "compile",
+          "normalized": "[ParsedStatement]-\u003e[InterfaceItem]-\u003e[ParsedStatement]-\u003eParsedStatement",
+          "package": "JsContracts",
+          "signature": "[ParsedStatement]-\u003e[InterfaceItem]-\u003e[ParsedStatement]-\u003eParsedStatement",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:compile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.JavaScript.Contracts",
+          "name": "compileFormatted",
+          "package": "JsContracts",
+          "signature": "String-\u003e String-\u003e String-\u003e Bool-\u003e [InterfaceItem]-\u003e String",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "BrownPLT JavaScript Contracts",
+          "module": "BrownPLT.JavaScript.Contracts",
+          "name": "compileFormatted",
+          "normalized": "String-\u003eString-\u003eString-\u003eBool-\u003e[InterfaceItem]-\u003eString",
+          "package": "JsContracts",
+          "partial": "Formatted",
+          "signature": "String-\u003eString-\u003eString-\u003eBool-\u003e[InterfaceItem]-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:compileFormatted"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.JavaScript.Contracts",
+          "name": "compileRelease",
+          "package": "JsContracts",
+          "signature": "String-\u003e String-\u003e String-\u003e Bool-\u003e [InterfaceItem]-\u003e Maybe String-\u003e String",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "BrownPLT JavaScript Contracts",
+          "module": "BrownPLT.JavaScript.Contracts",
+          "name": "compileRelease",
+          "normalized": "String-\u003eString-\u003eString-\u003eBool-\u003e[InterfaceItem]-\u003eMaybe String-\u003eString",
+          "package": "JsContracts",
+          "partial": "Release",
+          "signature": "String-\u003eString-\u003eString-\u003eBool-\u003e[InterfaceItem]-\u003eMaybe String-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:compileRelease"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.JavaScript.Contracts",
+          "name": "getContractLibraryPath",
+          "package": "JsContracts",
+          "signature": "IO FilePath",
+          "source": "src/BrownPLT-JavaScript-Contracts.html#getContractLibraryPath",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "BrownPLT JavaScript Contracts",
+          "module": "BrownPLT.JavaScript.Contracts",
+          "name": "getContractLibraryPath",
+          "package": "JsContracts",
+          "partial": "Contract Library Path",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:getContractLibraryPath"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.JavaScript.Contracts",
+          "name": "parseInterface",
+          "package": "JsContracts",
+          "signature": "String -\u003e IO [InterfaceItem]",
+          "source": "src/BrownPLT-JavaScript-Contracts-Parser.html#parseInterface",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "BrownPLT JavaScript Contracts",
+          "module": "BrownPLT.JavaScript.Contracts",
+          "name": "parseInterface",
+          "normalized": "String-\u003eIO[InterfaceItem]",
+          "package": "JsContracts",
+          "partial": "Interface",
+          "signature": "String-\u003eIO[InterfaceItem]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:parseInterface"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#t:InterfaceItem",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts.Interface",
-        "fct-package": "JsContracts",
-        "fct-signature": "data",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Types.html#InterfaceItem",
-        "fct-type": "data",
-        "title": "InterfaceItem"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts Interface",
-        "module": "BrownPLT.JavaScript.Contracts.Interface",
-        "name": "InterfaceItem",
-        "normalized": "",
-        "package": "JsContracts",
-        "partial": "Interface Item",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:ArrayContract",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts.Interface",
-        "fct-package": "JsContracts",
-        "fct-signature": "ArrayContract SourcePos Contract",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Types.html#Contract",
-        "fct-type": "function",
-        "title": "ArrayContract"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts Interface",
-        "module": "BrownPLT.JavaScript.Contracts.Interface",
-        "name": "ArrayContract",
-        "normalized": "",
-        "package": "JsContracts",
-        "partial": "Array Contract",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:ConstructorContract",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts.Interface",
-        "fct-package": "JsContracts",
-        "fct-signature": "ConstructorContract SourcePos String [Contract]",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Types.html#Contract",
-        "fct-type": "function",
-        "title": "ConstructorContract"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts Interface",
-        "module": "BrownPLT.JavaScript.Contracts.Interface",
-        "name": "ConstructorContract",
-        "normalized": "ConstructorContract SourcePos String[Contract]",
-        "package": "JsContracts",
-        "partial": "Constructor Contract",
-        "signature": "ConstructorContract SourcePos String[Contract]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:FixedArrayContract",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts.Interface",
-        "fct-package": "JsContracts",
-        "fct-signature": "FixedArrayContract SourcePos [Contract]",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Types.html#Contract",
-        "fct-type": "function",
-        "title": "FixedArrayContract"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts Interface",
-        "module": "BrownPLT.JavaScript.Contracts.Interface",
-        "name": "FixedArrayContract",
-        "normalized": "FixedArrayContract SourcePos[Contract]",
-        "package": "JsContracts",
-        "partial": "Fixed Array Contract",
-        "signature": "FixedArrayContract SourcePos[Contract]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:FlatContract",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts.Interface",
-        "fct-package": "JsContracts",
-        "fct-signature": "FlatContract SourcePos ParsedExpression",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Types.html#Contract",
-        "fct-type": "function",
-        "title": "FlatContract"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts Interface",
-        "module": "BrownPLT.JavaScript.Contracts.Interface",
-        "name": "FlatContract",
-        "normalized": "",
-        "package": "JsContracts",
-        "partial": "Flat Contract",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:FunctionContract",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts.Interface",
-        "fct-package": "JsContracts",
-        "fct-signature": "FunctionContract SourcePos [Contract] (Maybe Contract) Contract",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Types.html#Contract",
-        "fct-type": "function",
-        "title": "FunctionContract"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts Interface",
-        "module": "BrownPLT.JavaScript.Contracts.Interface",
-        "name": "FunctionContract",
-        "normalized": "FunctionContract SourcePos[Contract](Maybe Contract)Contract",
-        "package": "JsContracts",
-        "partial": "Function Contract",
-        "signature": "FunctionContract SourcePos[Contract](Maybe Contract)Contract"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:InterfaceAlias",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts.Interface",
-        "fct-package": "JsContracts",
-        "fct-signature": "InterfaceAlias String Contract",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Types.html#InterfaceItem",
-        "fct-type": "function",
-        "title": "InterfaceAlias"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts Interface",
-        "module": "BrownPLT.JavaScript.Contracts.Interface",
-        "name": "InterfaceAlias",
-        "normalized": "",
-        "package": "JsContracts",
-        "partial": "Interface Alias",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:InterfaceExport",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts.Interface",
-        "fct-package": "JsContracts",
-        "fct-signature": "InterfaceExport String SourcePos Contract",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Types.html#InterfaceItem",
-        "fct-type": "function",
-        "title": "InterfaceExport"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts Interface",
-        "module": "BrownPLT.JavaScript.Contracts.Interface",
-        "name": "InterfaceExport",
-        "normalized": "",
-        "package": "JsContracts",
-        "partial": "Interface Export",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:InterfaceInstance",
-      "description": {
-        "fct-descr": "\u003cp\u003ealways an object contract\n\u003c/p\u003e",
-        "fct-module": "BrownPLT.JavaScript.Contracts.Interface",
-        "fct-package": "JsContracts",
-        "fct-signature": "InterfaceInstance String SourcePos Contract",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Types.html#InterfaceItem",
-        "fct-type": "function",
-        "title": "InterfaceInstance"
-      },
-      "index": {
-        "description": "always an object contract",
-        "hierarchy": "BrownPLT JavaScript Contracts Interface",
-        "module": "BrownPLT.JavaScript.Contracts.Interface",
-        "name": "InterfaceInstance",
-        "normalized": "",
-        "package": "JsContracts",
-        "partial": "Interface Instance",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:InterfaceStatement",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts.Interface",
-        "fct-package": "JsContracts",
-        "fct-signature": "InterfaceStatement",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Types.html#InterfaceItem",
-        "fct-type": "function",
-        "title": "InterfaceStatement"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts Interface",
-        "module": "BrownPLT.JavaScript.Contracts.Interface",
-        "name": "InterfaceStatement",
-        "normalized": "",
-        "package": "JsContracts",
-        "partial": "Interface Statement",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:NamedContract",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts.Interface",
-        "fct-package": "JsContracts",
-        "fct-signature": "NamedContract SourcePos String",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Types.html#Contract",
-        "fct-type": "function",
-        "title": "NamedContract"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts Interface",
-        "module": "BrownPLT.JavaScript.Contracts.Interface",
-        "name": "NamedContract",
-        "normalized": "",
-        "package": "JsContracts",
-        "partial": "Named Contract",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:ObjectContract",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts.Interface",
-        "fct-package": "JsContracts",
-        "fct-signature": "ObjectContract SourcePos [(String, Contract)]",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Types.html#Contract",
-        "fct-type": "function",
-        "title": "ObjectContract"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts Interface",
-        "module": "BrownPLT.JavaScript.Contracts.Interface",
-        "name": "ObjectContract",
-        "normalized": "ObjectContract SourcePos[(String,Contract)]",
-        "package": "JsContracts",
-        "partial": "Object Contract",
-        "signature": "ObjectContract SourcePos[(String,Contract)]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:contractPos",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts.Interface",
-        "fct-package": "JsContracts",
-        "fct-signature": "Contract -\u003e SourcePos",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Types.html#contractPos",
-        "fct-type": "function",
-        "title": "contractPos"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts Interface",
-        "module": "BrownPLT.JavaScript.Contracts.Interface",
-        "name": "contractPos",
-        "normalized": "Contract-\u003eSourcePos",
-        "package": "JsContracts",
-        "partial": "Pos",
-        "signature": "Contract-\u003eSourcePos"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts-Interface.html#v:interfaceStatement",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "BrownPLT.JavaScript.Contracts.Interface",
-        "fct-package": "JsContracts",
-        "fct-signature": "ParsedStatement",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Types.html#InterfaceItem",
-        "fct-type": "function",
-        "title": "interfaceStatement"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts Interface",
-        "module": "BrownPLT.JavaScript.Contracts.Interface",
-        "name": "interfaceStatement",
-        "normalized": "",
-        "package": "JsContracts",
-        "partial": "Statement",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts",
-        "fct-package": "JsContracts",
-        "fct-signature": "module",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts.html",
-        "fct-type": "module",
-        "title": "Contracts"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts",
-        "module": "BrownPLT.JavaScript.Contracts",
-        "name": "Contracts",
-        "normalized": "",
-        "package": "JsContracts",
-        "partial": "Contracts",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#t:Contract",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts",
-        "fct-package": "JsContracts",
-        "fct-signature": "data",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Types.html#Contract",
-        "fct-type": "data",
-        "title": "Contract"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts",
-        "module": "BrownPLT.JavaScript.Contracts",
-        "name": "Contract",
-        "normalized": "",
-        "package": "JsContracts",
-        "partial": "Contract",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#t:InterfaceItem",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts",
-        "fct-package": "JsContracts",
-        "fct-signature": "data",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Types.html#InterfaceItem",
-        "fct-type": "data",
-        "title": "InterfaceItem"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts",
-        "module": "BrownPLT.JavaScript.Contracts",
-        "name": "InterfaceItem",
-        "normalized": "",
-        "package": "JsContracts",
-        "partial": "Interface Item",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:ArrayContract",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts",
-        "fct-package": "JsContracts",
-        "fct-signature": "ArrayContract SourcePos Contract",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Types.html#Contract",
-        "fct-type": "function",
-        "title": "ArrayContract"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts",
-        "module": "BrownPLT.JavaScript.Contracts",
-        "name": "ArrayContract",
-        "normalized": "",
-        "package": "JsContracts",
-        "partial": "Array Contract",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:ConstructorContract",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts",
-        "fct-package": "JsContracts",
-        "fct-signature": "ConstructorContract SourcePos String [Contract]",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Types.html#Contract",
-        "fct-type": "function",
-        "title": "ConstructorContract"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts",
-        "module": "BrownPLT.JavaScript.Contracts",
-        "name": "ConstructorContract",
-        "normalized": "ConstructorContract SourcePos String[Contract]",
-        "package": "JsContracts",
-        "partial": "Constructor Contract",
-        "signature": "ConstructorContract SourcePos String[Contract]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:FixedArrayContract",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts",
-        "fct-package": "JsContracts",
-        "fct-signature": "FixedArrayContract SourcePos [Contract]",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Types.html#Contract",
-        "fct-type": "function",
-        "title": "FixedArrayContract"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts",
-        "module": "BrownPLT.JavaScript.Contracts",
-        "name": "FixedArrayContract",
-        "normalized": "FixedArrayContract SourcePos[Contract]",
-        "package": "JsContracts",
-        "partial": "Fixed Array Contract",
-        "signature": "FixedArrayContract SourcePos[Contract]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:FlatContract",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts",
-        "fct-package": "JsContracts",
-        "fct-signature": "FlatContract SourcePos ParsedExpression",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Types.html#Contract",
-        "fct-type": "function",
-        "title": "FlatContract"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts",
-        "module": "BrownPLT.JavaScript.Contracts",
-        "name": "FlatContract",
-        "normalized": "",
-        "package": "JsContracts",
-        "partial": "Flat Contract",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:FunctionContract",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts",
-        "fct-package": "JsContracts",
-        "fct-signature": "FunctionContract SourcePos [Contract] (Maybe Contract) Contract",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Types.html#Contract",
-        "fct-type": "function",
-        "title": "FunctionContract"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts",
-        "module": "BrownPLT.JavaScript.Contracts",
-        "name": "FunctionContract",
-        "normalized": "FunctionContract SourcePos[Contract](Maybe Contract)Contract",
-        "package": "JsContracts",
-        "partial": "Function Contract",
-        "signature": "FunctionContract SourcePos[Contract](Maybe Contract)Contract"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:InterfaceAlias",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts",
-        "fct-package": "JsContracts",
-        "fct-signature": "InterfaceAlias String Contract",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Types.html#InterfaceItem",
-        "fct-type": "function",
-        "title": "InterfaceAlias"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts",
-        "module": "BrownPLT.JavaScript.Contracts",
-        "name": "InterfaceAlias",
-        "normalized": "",
-        "package": "JsContracts",
-        "partial": "Interface Alias",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:InterfaceExport",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts",
-        "fct-package": "JsContracts",
-        "fct-signature": "InterfaceExport String SourcePos Contract",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Types.html#InterfaceItem",
-        "fct-type": "function",
-        "title": "InterfaceExport"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts",
-        "module": "BrownPLT.JavaScript.Contracts",
-        "name": "InterfaceExport",
-        "normalized": "",
-        "package": "JsContracts",
-        "partial": "Interface Export",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:InterfaceInstance",
-      "description": {
-        "fct-descr": "\u003cp\u003ealways an object contract\n\u003c/p\u003e",
-        "fct-module": "BrownPLT.JavaScript.Contracts",
-        "fct-package": "JsContracts",
-        "fct-signature": "InterfaceInstance String SourcePos Contract",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Types.html#InterfaceItem",
-        "fct-type": "function",
-        "title": "InterfaceInstance"
-      },
-      "index": {
-        "description": "always an object contract",
-        "hierarchy": "BrownPLT JavaScript Contracts",
-        "module": "BrownPLT.JavaScript.Contracts",
-        "name": "InterfaceInstance",
-        "normalized": "",
-        "package": "JsContracts",
-        "partial": "Interface Instance",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:InterfaceStatement",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts",
-        "fct-package": "JsContracts",
-        "fct-signature": "InterfaceStatement",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Types.html#InterfaceItem",
-        "fct-type": "function",
-        "title": "InterfaceStatement"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts",
-        "module": "BrownPLT.JavaScript.Contracts",
-        "name": "InterfaceStatement",
-        "normalized": "",
-        "package": "JsContracts",
-        "partial": "Interface Statement",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:NamedContract",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts",
-        "fct-package": "JsContracts",
-        "fct-signature": "NamedContract SourcePos String",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Types.html#Contract",
-        "fct-type": "function",
-        "title": "NamedContract"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts",
-        "module": "BrownPLT.JavaScript.Contracts",
-        "name": "NamedContract",
-        "normalized": "",
-        "package": "JsContracts",
-        "partial": "Named Contract",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:ObjectContract",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts",
-        "fct-package": "JsContracts",
-        "fct-signature": "ObjectContract SourcePos [(String, Contract)]",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Types.html#Contract",
-        "fct-type": "function",
-        "title": "ObjectContract"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts",
-        "module": "BrownPLT.JavaScript.Contracts",
-        "name": "ObjectContract",
-        "normalized": "ObjectContract SourcePos[(String,Contract)]",
-        "package": "JsContracts",
-        "partial": "Object Contract",
-        "signature": "ObjectContract SourcePos[(String,Contract)]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:compile",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts",
-        "fct-package": "JsContracts",
-        "fct-signature": "[ParsedStatement]-\u003e [InterfaceItem]-\u003e [ParsedStatement]-\u003e ParsedStatement",
-        "fct-type": "function",
-        "title": "compile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts",
-        "module": "BrownPLT.JavaScript.Contracts",
-        "name": "compile",
-        "normalized": "[ParsedStatement]-\u003e[InterfaceItem]-\u003e[ParsedStatement]-\u003eParsedStatement",
-        "package": "JsContracts",
-        "partial": "",
-        "signature": "[ParsedStatement]-\u003e[InterfaceItem]-\u003e[ParsedStatement]-\u003eParsedStatement"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:compileFormatted",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts",
-        "fct-package": "JsContracts",
-        "fct-signature": "String-\u003e String-\u003e String-\u003e Bool-\u003e [InterfaceItem]-\u003e String",
-        "fct-type": "function",
-        "title": "compileFormatted"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts",
-        "module": "BrownPLT.JavaScript.Contracts",
-        "name": "compileFormatted",
-        "normalized": "String-\u003eString-\u003eString-\u003eBool-\u003e[InterfaceItem]-\u003eString",
-        "package": "JsContracts",
-        "partial": "Formatted",
-        "signature": "String-\u003eString-\u003eString-\u003eBool-\u003e[InterfaceItem]-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:compileRelease",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts",
-        "fct-package": "JsContracts",
-        "fct-signature": "String-\u003e String-\u003e String-\u003e Bool-\u003e [InterfaceItem]-\u003e Maybe String-\u003e String",
-        "fct-type": "function",
-        "title": "compileRelease"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts",
-        "module": "BrownPLT.JavaScript.Contracts",
-        "name": "compileRelease",
-        "normalized": "String-\u003eString-\u003eString-\u003eBool-\u003e[InterfaceItem]-\u003eMaybe String-\u003eString",
-        "package": "JsContracts",
-        "partial": "Release",
-        "signature": "String-\u003eString-\u003eString-\u003eBool-\u003e[InterfaceItem]-\u003eMaybe String-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:getContractLibraryPath",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts",
-        "fct-package": "JsContracts",
-        "fct-signature": "IO FilePath",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts.html#getContractLibraryPath",
-        "fct-type": "function",
-        "title": "getContractLibraryPath"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts",
-        "module": "BrownPLT.JavaScript.Contracts",
-        "name": "getContractLibraryPath",
-        "normalized": "",
-        "package": "JsContracts",
-        "partial": "Contract Library Path",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:interfaceStatement",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "BrownPLT.JavaScript.Contracts",
-        "fct-package": "JsContracts",
-        "fct-signature": "ParsedStatement",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Types.html#InterfaceItem",
-        "fct-type": "function",
-        "title": "interfaceStatement"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts",
-        "module": "BrownPLT.JavaScript.Contracts",
-        "name": "interfaceStatement",
-        "normalized": "",
-        "package": "JsContracts",
-        "partial": "Statement",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/JsContracts/docs/BrownPLT-JavaScript-Contracts.html#v:parseInterface",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Contracts",
-        "fct-package": "JsContracts",
-        "fct-signature": "String -\u003e IO [InterfaceItem]",
-        "fct-source": "src/BrownPLT-JavaScript-Contracts-Parser.html#parseInterface",
-        "fct-type": "function",
-        "title": "parseInterface"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Contracts",
-        "module": "BrownPLT.JavaScript.Contracts",
-        "name": "parseInterface",
-        "normalized": "String-\u003eIO[InterfaceItem]",
-        "package": "JsContracts",
-        "partial": "Interface",
-        "signature": "String-\u003eIO[InterfaceItem]"
-      }
-    }
-  }
+  ]
 ]

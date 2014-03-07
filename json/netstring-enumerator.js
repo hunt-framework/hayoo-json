@@ -1,50 +1,60 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/netstring-enumerator/docs/Codec-Netstring-Enumerator.html#",
-      "description": {
-        "fct-module": "Codec.Netstring.Enumerator",
-        "fct-package": "netstring-enumerator",
-        "fct-signature": "module",
-        "fct-source": "src/Codec-Netstring-Enumerator.html",
-        "fct-type": "module",
-        "title": "Enumerator"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "netstring-enumerator"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Codec Netstring Enumerator",
-        "module": "Codec.Netstring.Enumerator",
-        "name": "Enumerator",
-        "normalized": "",
-        "package": "netstring-enumerator",
-        "partial": "Enumerator",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/netstring-enumerator/docs/Codec-Netstring-Enumerator.html#v:decode",
-      "description": {
-        "fct-module": "Codec.Netstring.Enumerator",
-        "fct-package": "netstring-enumerator",
-        "fct-signature": "Enumeratee ByteString ByteString m b",
-        "fct-source": "src/Codec-Netstring-Enumerator.html#decode",
-        "fct-type": "function",
-        "title": "decode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Codec Netstring Enumerator",
-        "module": "Codec.Netstring.Enumerator",
-        "name": "decode",
-        "normalized": "",
-        "package": "netstring-enumerator",
-        "partial": "",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Codec.Netstring.Enumerator",
+          "name": "Enumerator",
+          "package": "netstring-enumerator",
+          "source": "src/Codec-Netstring-Enumerator.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Codec Netstring Enumerator",
+          "module": "Codec.Netstring.Enumerator",
+          "name": "Enumerator",
+          "package": "netstring-enumerator",
+          "partial": "Enumerator",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/netstring-enumerator/docs/Codec-Netstring-Enumerator.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Codec.Netstring.Enumerator",
+          "name": "decode",
+          "package": "netstring-enumerator",
+          "signature": "Enumeratee ByteString ByteString m b",
+          "source": "src/Codec-Netstring-Enumerator.html#decode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Codec Netstring Enumerator",
+          "module": "Codec.Netstring.Enumerator",
+          "name": "decode",
+          "package": "netstring-enumerator",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/netstring-enumerator/docs/Codec-Netstring-Enumerator.html#v:decode"
       }
     }
-  }
+  ]
 ]

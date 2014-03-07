@@ -1,652 +1,612 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#",
-      "description": {
-        "fct-module": "Text.WikimediaParser",
-        "fct-package": "WikimediaParser",
-        "fct-signature": "module",
-        "fct-source": "src/Text-WikimediaParser.html",
-        "fct-type": "module",
-        "title": "WikimediaParser"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "WikimediaParser"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Text WikimediaParser",
-        "module": "Text.WikimediaParser",
-        "name": "WikimediaParser",
-        "normalized": "",
-        "package": "WikimediaParser",
-        "partial": "Wikimedia Parser",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#t:Page",
-      "description": {
-        "fct-module": "Text.WikimediaParser",
-        "fct-package": "WikimediaParser",
-        "fct-signature": "data",
-        "fct-source": "src/Text-WikimediaParser.html#Page",
-        "fct-type": "data",
-        "title": "Page"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text WikimediaParser",
-        "module": "Text.WikimediaParser",
-        "name": "Page",
-        "normalized": "",
-        "package": "WikimediaParser",
-        "partial": "Page",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.WikimediaParser",
+          "name": "WikimediaParser",
+          "package": "WikimediaParser",
+          "source": "src/Text-WikimediaParser.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Text WikimediaParser",
+          "module": "Text.WikimediaParser",
+          "name": "WikimediaParser",
+          "package": "WikimediaParser",
+          "partial": "Wikimedia Parser",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.WikimediaParser",
+          "name": "Page",
+          "package": "WikimediaParser",
+          "source": "src/Text-WikimediaParser.html#Page",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Text WikimediaParser",
+          "module": "Text.WikimediaParser",
+          "name": "Page",
+          "package": "WikimediaParser",
+          "partial": "Page",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#t:Page"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.WikimediaParser",
+          "name": "WikiMarkup",
+          "package": "WikimediaParser",
+          "source": "src/Text-WikimediaParser.html#WikiMarkup",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Text WikimediaParser",
+          "module": "Text.WikimediaParser",
+          "name": "WikiMarkup",
+          "package": "WikimediaParser",
+          "partial": "Wiki Markup",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#t:WikiMarkup"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.WikimediaParser",
+          "name": "Link",
+          "package": "WikimediaParser",
+          "signature": "Link",
+          "source": "src/Text-WikimediaParser.html#WikiMarkup",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text WikimediaParser",
+          "module": "Text.WikimediaParser",
+          "name": "Link",
+          "package": "WikimediaParser",
+          "partial": "Link",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:Link"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.WikimediaParser",
+          "name": "Page",
+          "package": "WikimediaParser",
+          "signature": "Page [WikiMarkup]",
+          "source": "src/Text-WikimediaParser.html#Page",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text WikimediaParser",
+          "module": "Text.WikimediaParser",
+          "name": "Page",
+          "normalized": "Page[WikiMarkup]",
+          "package": "WikimediaParser",
+          "partial": "Page",
+          "signature": "Page[WikiMarkup]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:Page"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.WikimediaParser",
+          "name": "Text",
+          "package": "WikimediaParser",
+          "signature": "Text String",
+          "source": "src/Text-WikimediaParser.html#WikiMarkup",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text WikimediaParser",
+          "module": "Text.WikimediaParser",
+          "name": "Text",
+          "package": "WikimediaParser",
+          "partial": "Text",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:Text"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.WikimediaParser",
+          "name": "betweenMatching",
+          "package": "WikimediaParser",
+          "signature": "Char -\u003e GenParser Char st [Char]",
+          "source": "src/Text-WikimediaParser.html#betweenMatching",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text WikimediaParser",
+          "module": "Text.WikimediaParser",
+          "name": "betweenMatching",
+          "normalized": "Char-\u003eGenParser Char a[Char]",
+          "package": "WikimediaParser",
+          "partial": "Matching",
+          "signature": "Char-\u003eGenParser Char st[Char]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:betweenMatching"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.WikimediaParser",
+          "name": "concatText",
+          "package": "WikimediaParser",
+          "signature": "[WikiMarkup] -\u003e [WikiMarkup]",
+          "source": "src/Text-WikimediaParser.html#concatText",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text WikimediaParser",
+          "module": "Text.WikimediaParser",
+          "name": "concatText",
+          "normalized": "[WikiMarkup]-\u003e[WikiMarkup]",
+          "package": "WikimediaParser",
+          "partial": "Text",
+          "signature": "[WikiMarkup]-\u003e[WikiMarkup]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:concatText"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.WikimediaParser",
+          "name": "parseArticle",
+          "package": "WikimediaParser",
+          "signature": "Parser [WikiMarkup]",
+          "source": "src/Text-WikimediaParser.html#parseArticle",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text WikimediaParser",
+          "module": "Text.WikimediaParser",
+          "name": "parseArticle",
+          "normalized": "Parser[WikiMarkup]",
+          "package": "WikimediaParser",
+          "partial": "Article",
+          "signature": "Parser[WikiMarkup]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:parseArticle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.WikimediaParser",
+          "name": "parseBrackets",
+          "package": "WikimediaParser",
+          "signature": "Parser WikiMarkup",
+          "source": "src/Text-WikimediaParser.html#parseBrackets",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text WikimediaParser",
+          "module": "Text.WikimediaParser",
+          "name": "parseBrackets",
+          "package": "WikimediaParser",
+          "partial": "Brackets",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:parseBrackets"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.WikimediaParser",
+          "name": "parseCategory",
+          "package": "WikimediaParser",
+          "signature": "Parser WikiMarkup",
+          "source": "src/Text-WikimediaParser.html#parseCategory",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text WikimediaParser",
+          "module": "Text.WikimediaParser",
+          "name": "parseCategory",
+          "package": "WikimediaParser",
+          "partial": "Category",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:parseCategory"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.WikimediaParser",
+          "name": "parseHTMLComment",
+          "package": "WikimediaParser",
+          "signature": "Parser WikiMarkup",
+          "source": "src/Text-WikimediaParser.html#parseHTMLComment",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text WikimediaParser",
+          "module": "Text.WikimediaParser",
+          "name": "parseHTMLComment",
+          "package": "WikimediaParser",
+          "partial": "HTMLComment",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:parseHTMLComment"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.WikimediaParser",
+          "name": "parseHeading",
+          "package": "WikimediaParser",
+          "signature": "Parser WikiMarkup",
+          "source": "src/Text-WikimediaParser.html#parseHeading",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text WikimediaParser",
+          "module": "Text.WikimediaParser",
+          "name": "parseHeading",
+          "package": "WikimediaParser",
+          "partial": "Heading",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:parseHeading"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.WikimediaParser",
+          "name": "parseLine",
+          "package": "WikimediaParser",
+          "signature": "Parser WikiMarkup",
+          "source": "src/Text-WikimediaParser.html#parseLine",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text WikimediaParser",
+          "module": "Text.WikimediaParser",
+          "name": "parseLine",
+          "package": "WikimediaParser",
+          "partial": "Line",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:parseLine"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.WikimediaParser",
+          "name": "parseLink",
+          "package": "WikimediaParser",
+          "signature": "Parser WikiMarkup",
+          "source": "src/Text-WikimediaParser.html#parseLink",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text WikimediaParser",
+          "module": "Text.WikimediaParser",
+          "name": "parseLink",
+          "package": "WikimediaParser",
+          "partial": "Link",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:parseLink"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.WikimediaParser",
+          "name": "parseLinkNameSpace",
+          "package": "WikimediaParser",
+          "signature": "Parser WikiMarkup",
+          "source": "src/Text-WikimediaParser.html#parseLinkNameSpace",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text WikimediaParser",
+          "module": "Text.WikimediaParser",
+          "name": "parseLinkNameSpace",
+          "package": "WikimediaParser",
+          "partial": "Link Name Space",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:parseLinkNameSpace"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.WikimediaParser",
+          "name": "parseLinkOtherLanguage",
+          "package": "WikimediaParser",
+          "signature": "Parser WikiMarkup",
+          "source": "src/Text-WikimediaParser.html#parseLinkOtherLanguage",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text WikimediaParser",
+          "module": "Text.WikimediaParser",
+          "name": "parseLinkOtherLanguage",
+          "package": "WikimediaParser",
+          "partial": "Link Other Language",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:parseLinkOtherLanguage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.WikimediaParser",
+          "name": "parseNoWiki",
+          "package": "WikimediaParser",
+          "signature": "Parser WikiMarkup",
+          "source": "src/Text-WikimediaParser.html#parseNoWiki",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text WikimediaParser",
+          "module": "Text.WikimediaParser",
+          "name": "parseNoWiki",
+          "package": "WikimediaParser",
+          "partial": "No Wiki",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:parseNoWiki"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.WikimediaParser",
+          "name": "parseOrderedList",
+          "package": "WikimediaParser",
+          "signature": "Parser WikiMarkup",
+          "source": "src/Text-WikimediaParser.html#parseOrderedList",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text WikimediaParser",
+          "module": "Text.WikimediaParser",
+          "name": "parseOrderedList",
+          "package": "WikimediaParser",
+          "partial": "Ordered List",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:parseOrderedList"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.WikimediaParser",
+          "name": "parseText",
+          "package": "WikimediaParser",
+          "signature": "Parser WikiMarkup",
+          "source": "src/Text-WikimediaParser.html#parseText",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text WikimediaParser",
+          "module": "Text.WikimediaParser",
+          "name": "parseText",
+          "package": "WikimediaParser",
+          "partial": "Text",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:parseText"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.WikimediaParser",
+          "name": "parseUnnamedLink",
+          "package": "WikimediaParser",
+          "signature": "Parser WikiMarkup",
+          "source": "src/Text-WikimediaParser.html#parseUnnamedLink",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text WikimediaParser",
+          "module": "Text.WikimediaParser",
+          "name": "parseUnnamedLink",
+          "package": "WikimediaParser",
+          "partial": "Unnamed Link",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:parseUnnamedLink"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.WikimediaParser",
+          "name": "parseUnorderedList",
+          "package": "WikimediaParser",
+          "signature": "Parser WikiMarkup",
+          "source": "src/Text-WikimediaParser.html#parseUnorderedList",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text WikimediaParser",
+          "module": "Text.WikimediaParser",
+          "name": "parseUnorderedList",
+          "package": "WikimediaParser",
+          "partial": "Unordered List",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:parseUnorderedList"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.WikimediaParser",
+          "name": "symbol",
+          "package": "WikimediaParser",
+          "signature": "Parser Char",
+          "source": "src/Text-WikimediaParser.html#symbol",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text WikimediaParser",
+          "module": "Text.WikimediaParser",
+          "name": "symbol",
+          "package": "WikimediaParser",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:symbol"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.WikimediaParser",
+          "name": "symbolW",
+          "package": "WikimediaParser",
+          "signature": "Parser WikiMarkup",
+          "source": "src/Text-WikimediaParser.html#symbolW",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text WikimediaParser",
+          "module": "Text.WikimediaParser",
+          "name": "symbolW",
+          "package": "WikimediaParser",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:symbolW"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.WikimediaParser",
+          "name": "symbols",
+          "package": "WikimediaParser",
+          "signature": "String",
+          "source": "src/Text-WikimediaParser.html#symbols",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text WikimediaParser",
+          "module": "Text.WikimediaParser",
+          "name": "symbols",
+          "package": "WikimediaParser",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:symbols"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.WikimediaParser",
+          "name": "target",
+          "package": "WikimediaParser",
+          "signature": "String",
+          "source": "src/Text-WikimediaParser.html#WikiMarkup",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text WikimediaParser",
+          "module": "Text.WikimediaParser",
+          "name": "target",
+          "package": "WikimediaParser",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:target"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.WikimediaParser",
+          "name": "text",
+          "package": "WikimediaParser",
+          "signature": "String",
+          "source": "src/Text-WikimediaParser.html#WikiMarkup",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text WikimediaParser",
+          "module": "Text.WikimediaParser",
+          "name": "text",
+          "package": "WikimediaParser",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:text"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#t:WikiMarkup",
-      "description": {
-        "fct-module": "Text.WikimediaParser",
-        "fct-package": "WikimediaParser",
-        "fct-signature": "data",
-        "fct-source": "src/Text-WikimediaParser.html#WikiMarkup",
-        "fct-type": "data",
-        "title": "WikiMarkup"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text WikimediaParser",
-        "module": "Text.WikimediaParser",
-        "name": "WikiMarkup",
-        "normalized": "",
-        "package": "WikimediaParser",
-        "partial": "Wiki Markup",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:Link",
-      "description": {
-        "fct-module": "Text.WikimediaParser",
-        "fct-package": "WikimediaParser",
-        "fct-signature": "Link",
-        "fct-source": "src/Text-WikimediaParser.html#WikiMarkup",
-        "fct-type": "function",
-        "title": "Link"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text WikimediaParser",
-        "module": "Text.WikimediaParser",
-        "name": "Link",
-        "normalized": "",
-        "package": "WikimediaParser",
-        "partial": "Link",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:Page",
-      "description": {
-        "fct-module": "Text.WikimediaParser",
-        "fct-package": "WikimediaParser",
-        "fct-signature": "Page [WikiMarkup]",
-        "fct-source": "src/Text-WikimediaParser.html#Page",
-        "fct-type": "function",
-        "title": "Page"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text WikimediaParser",
-        "module": "Text.WikimediaParser",
-        "name": "Page",
-        "normalized": "Page[WikiMarkup]",
-        "package": "WikimediaParser",
-        "partial": "Page",
-        "signature": "Page[WikiMarkup]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:Text",
-      "description": {
-        "fct-module": "Text.WikimediaParser",
-        "fct-package": "WikimediaParser",
-        "fct-signature": "Text String",
-        "fct-source": "src/Text-WikimediaParser.html#WikiMarkup",
-        "fct-type": "function",
-        "title": "Text"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text WikimediaParser",
-        "module": "Text.WikimediaParser",
-        "name": "Text",
-        "normalized": "",
-        "package": "WikimediaParser",
-        "partial": "Text",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:betweenMatching",
-      "description": {
-        "fct-module": "Text.WikimediaParser",
-        "fct-package": "WikimediaParser",
-        "fct-signature": "Char -\u003e GenParser Char st [Char]",
-        "fct-source": "src/Text-WikimediaParser.html#betweenMatching",
-        "fct-type": "function",
-        "title": "betweenMatching"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text WikimediaParser",
-        "module": "Text.WikimediaParser",
-        "name": "betweenMatching",
-        "normalized": "Char-\u003eGenParser Char a[Char]",
-        "package": "WikimediaParser",
-        "partial": "Matching",
-        "signature": "Char-\u003eGenParser Char st[Char]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:concatText",
-      "description": {
-        "fct-module": "Text.WikimediaParser",
-        "fct-package": "WikimediaParser",
-        "fct-signature": "[WikiMarkup] -\u003e [WikiMarkup]",
-        "fct-source": "src/Text-WikimediaParser.html#concatText",
-        "fct-type": "function",
-        "title": "concatText"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text WikimediaParser",
-        "module": "Text.WikimediaParser",
-        "name": "concatText",
-        "normalized": "[WikiMarkup]-\u003e[WikiMarkup]",
-        "package": "WikimediaParser",
-        "partial": "Text",
-        "signature": "[WikiMarkup]-\u003e[WikiMarkup]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:parseArticle",
-      "description": {
-        "fct-module": "Text.WikimediaParser",
-        "fct-package": "WikimediaParser",
-        "fct-signature": "Parser [WikiMarkup]",
-        "fct-source": "src/Text-WikimediaParser.html#parseArticle",
-        "fct-type": "function",
-        "title": "parseArticle"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text WikimediaParser",
-        "module": "Text.WikimediaParser",
-        "name": "parseArticle",
-        "normalized": "Parser[WikiMarkup]",
-        "package": "WikimediaParser",
-        "partial": "Article",
-        "signature": "Parser[WikiMarkup]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:parseBrackets",
-      "description": {
-        "fct-module": "Text.WikimediaParser",
-        "fct-package": "WikimediaParser",
-        "fct-signature": "Parser WikiMarkup",
-        "fct-source": "src/Text-WikimediaParser.html#parseBrackets",
-        "fct-type": "function",
-        "title": "parseBrackets"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text WikimediaParser",
-        "module": "Text.WikimediaParser",
-        "name": "parseBrackets",
-        "normalized": "",
-        "package": "WikimediaParser",
-        "partial": "Brackets",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:parseCategory",
-      "description": {
-        "fct-module": "Text.WikimediaParser",
-        "fct-package": "WikimediaParser",
-        "fct-signature": "Parser WikiMarkup",
-        "fct-source": "src/Text-WikimediaParser.html#parseCategory",
-        "fct-type": "function",
-        "title": "parseCategory"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text WikimediaParser",
-        "module": "Text.WikimediaParser",
-        "name": "parseCategory",
-        "normalized": "",
-        "package": "WikimediaParser",
-        "partial": "Category",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:parseHTMLComment",
-      "description": {
-        "fct-module": "Text.WikimediaParser",
-        "fct-package": "WikimediaParser",
-        "fct-signature": "Parser WikiMarkup",
-        "fct-source": "src/Text-WikimediaParser.html#parseHTMLComment",
-        "fct-type": "function",
-        "title": "parseHTMLComment"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text WikimediaParser",
-        "module": "Text.WikimediaParser",
-        "name": "parseHTMLComment",
-        "normalized": "",
-        "package": "WikimediaParser",
-        "partial": "HTMLComment",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:parseHeading",
-      "description": {
-        "fct-module": "Text.WikimediaParser",
-        "fct-package": "WikimediaParser",
-        "fct-signature": "Parser WikiMarkup",
-        "fct-source": "src/Text-WikimediaParser.html#parseHeading",
-        "fct-type": "function",
-        "title": "parseHeading"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text WikimediaParser",
-        "module": "Text.WikimediaParser",
-        "name": "parseHeading",
-        "normalized": "",
-        "package": "WikimediaParser",
-        "partial": "Heading",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:parseLine",
-      "description": {
-        "fct-module": "Text.WikimediaParser",
-        "fct-package": "WikimediaParser",
-        "fct-signature": "Parser WikiMarkup",
-        "fct-source": "src/Text-WikimediaParser.html#parseLine",
-        "fct-type": "function",
-        "title": "parseLine"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text WikimediaParser",
-        "module": "Text.WikimediaParser",
-        "name": "parseLine",
-        "normalized": "",
-        "package": "WikimediaParser",
-        "partial": "Line",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:parseLink",
-      "description": {
-        "fct-module": "Text.WikimediaParser",
-        "fct-package": "WikimediaParser",
-        "fct-signature": "Parser WikiMarkup",
-        "fct-source": "src/Text-WikimediaParser.html#parseLink",
-        "fct-type": "function",
-        "title": "parseLink"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text WikimediaParser",
-        "module": "Text.WikimediaParser",
-        "name": "parseLink",
-        "normalized": "",
-        "package": "WikimediaParser",
-        "partial": "Link",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:parseLinkNameSpace",
-      "description": {
-        "fct-module": "Text.WikimediaParser",
-        "fct-package": "WikimediaParser",
-        "fct-signature": "Parser WikiMarkup",
-        "fct-source": "src/Text-WikimediaParser.html#parseLinkNameSpace",
-        "fct-type": "function",
-        "title": "parseLinkNameSpace"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text WikimediaParser",
-        "module": "Text.WikimediaParser",
-        "name": "parseLinkNameSpace",
-        "normalized": "",
-        "package": "WikimediaParser",
-        "partial": "Link Name Space",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:parseLinkOtherLanguage",
-      "description": {
-        "fct-module": "Text.WikimediaParser",
-        "fct-package": "WikimediaParser",
-        "fct-signature": "Parser WikiMarkup",
-        "fct-source": "src/Text-WikimediaParser.html#parseLinkOtherLanguage",
-        "fct-type": "function",
-        "title": "parseLinkOtherLanguage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text WikimediaParser",
-        "module": "Text.WikimediaParser",
-        "name": "parseLinkOtherLanguage",
-        "normalized": "",
-        "package": "WikimediaParser",
-        "partial": "Link Other Language",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:parseNoWiki",
-      "description": {
-        "fct-module": "Text.WikimediaParser",
-        "fct-package": "WikimediaParser",
-        "fct-signature": "Parser WikiMarkup",
-        "fct-source": "src/Text-WikimediaParser.html#parseNoWiki",
-        "fct-type": "function",
-        "title": "parseNoWiki"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text WikimediaParser",
-        "module": "Text.WikimediaParser",
-        "name": "parseNoWiki",
-        "normalized": "",
-        "package": "WikimediaParser",
-        "partial": "No Wiki",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:parseOrderedList",
-      "description": {
-        "fct-module": "Text.WikimediaParser",
-        "fct-package": "WikimediaParser",
-        "fct-signature": "Parser WikiMarkup",
-        "fct-source": "src/Text-WikimediaParser.html#parseOrderedList",
-        "fct-type": "function",
-        "title": "parseOrderedList"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text WikimediaParser",
-        "module": "Text.WikimediaParser",
-        "name": "parseOrderedList",
-        "normalized": "",
-        "package": "WikimediaParser",
-        "partial": "Ordered List",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:parseText",
-      "description": {
-        "fct-module": "Text.WikimediaParser",
-        "fct-package": "WikimediaParser",
-        "fct-signature": "Parser WikiMarkup",
-        "fct-source": "src/Text-WikimediaParser.html#parseText",
-        "fct-type": "function",
-        "title": "parseText"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text WikimediaParser",
-        "module": "Text.WikimediaParser",
-        "name": "parseText",
-        "normalized": "",
-        "package": "WikimediaParser",
-        "partial": "Text",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:parseUnnamedLink",
-      "description": {
-        "fct-module": "Text.WikimediaParser",
-        "fct-package": "WikimediaParser",
-        "fct-signature": "Parser WikiMarkup",
-        "fct-source": "src/Text-WikimediaParser.html#parseUnnamedLink",
-        "fct-type": "function",
-        "title": "parseUnnamedLink"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text WikimediaParser",
-        "module": "Text.WikimediaParser",
-        "name": "parseUnnamedLink",
-        "normalized": "",
-        "package": "WikimediaParser",
-        "partial": "Unnamed Link",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:parseUnorderedList",
-      "description": {
-        "fct-module": "Text.WikimediaParser",
-        "fct-package": "WikimediaParser",
-        "fct-signature": "Parser WikiMarkup",
-        "fct-source": "src/Text-WikimediaParser.html#parseUnorderedList",
-        "fct-type": "function",
-        "title": "parseUnorderedList"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text WikimediaParser",
-        "module": "Text.WikimediaParser",
-        "name": "parseUnorderedList",
-        "normalized": "",
-        "package": "WikimediaParser",
-        "partial": "Unordered List",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:symbol",
-      "description": {
-        "fct-module": "Text.WikimediaParser",
-        "fct-package": "WikimediaParser",
-        "fct-signature": "Parser Char",
-        "fct-source": "src/Text-WikimediaParser.html#symbol",
-        "fct-type": "function",
-        "title": "symbol"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text WikimediaParser",
-        "module": "Text.WikimediaParser",
-        "name": "symbol",
-        "normalized": "",
-        "package": "WikimediaParser",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:symbolW",
-      "description": {
-        "fct-module": "Text.WikimediaParser",
-        "fct-package": "WikimediaParser",
-        "fct-signature": "Parser WikiMarkup",
-        "fct-source": "src/Text-WikimediaParser.html#symbolW",
-        "fct-type": "function",
-        "title": "symbolW"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text WikimediaParser",
-        "module": "Text.WikimediaParser",
-        "name": "symbolW",
-        "normalized": "",
-        "package": "WikimediaParser",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:symbols",
-      "description": {
-        "fct-module": "Text.WikimediaParser",
-        "fct-package": "WikimediaParser",
-        "fct-signature": "String",
-        "fct-source": "src/Text-WikimediaParser.html#symbols",
-        "fct-type": "function",
-        "title": "symbols"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text WikimediaParser",
-        "module": "Text.WikimediaParser",
-        "name": "symbols",
-        "normalized": "",
-        "package": "WikimediaParser",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:target",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.WikimediaParser",
-        "fct-package": "WikimediaParser",
-        "fct-signature": "String",
-        "fct-source": "src/Text-WikimediaParser.html#WikiMarkup",
-        "fct-type": "function",
-        "title": "target"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text WikimediaParser",
-        "module": "Text.WikimediaParser",
-        "name": "target",
-        "normalized": "",
-        "package": "WikimediaParser",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WikimediaParser/docs/Text-WikimediaParser.html#v:text",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.WikimediaParser",
-        "fct-package": "WikimediaParser",
-        "fct-signature": "String",
-        "fct-source": "src/Text-WikimediaParser.html#WikiMarkup",
-        "fct-type": "function",
-        "title": "text"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text WikimediaParser",
-        "module": "Text.WikimediaParser",
-        "name": "text",
-        "normalized": "",
-        "package": "WikimediaParser",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

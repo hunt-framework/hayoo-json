@@ -1,71 +1,84 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/functorm/docs/Data-FunctorM.html#v:3AFunctorM",
-      "description": {
-        "fct-module": "Data.FunctorM",
-        "fct-package": "functorm",
-        "fct-signature": "class",
-        "fct-type": "unknown",
-        "title": "3AFunctorM"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "functorm"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Data FunctorM",
-        "module": "Data.FunctorM",
-        "name": "3AFunctorM",
-        "normalized": "",
-        "package": "functorm",
-        "partial": "AFunctor",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/functorm/docs/Data-FunctorM.html#v:3AfmapM",
-      "description": {
-        "fct-module": "Data.FunctorM",
-        "fct-package": "functorm",
-        "fct-signature": "(a -\u003e m b) -\u003e f a -\u003e m (f b)",
-        "fct-type": "unknown",
-        "title": "3AfmapM"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data FunctorM",
-        "module": "Data.FunctorM",
-        "name": "3AfmapM",
-        "normalized": "(a-\u003eb c)-\u003ed a-\u003eb(d c)",
-        "package": "functorm",
-        "partial": "Afmap",
-        "signature": "(a-\u003em b)-\u003ef a-\u003em(f b)"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.FunctorM",
+          "name": "3AFunctorM",
+          "package": "functorm",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Data FunctorM",
+          "module": "Data.FunctorM",
+          "name": "3AFunctorM",
+          "package": "functorm",
+          "partial": "AFunctor",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/functorm/docs/Data-FunctorM.html#v:3AFunctorM"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.FunctorM",
+          "name": "3AfmapM",
+          "package": "functorm",
+          "signature": "(a -\u003e m b) -\u003e f a -\u003e m (f b)",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data FunctorM",
+          "module": "Data.FunctorM",
+          "name": "3AfmapM",
+          "normalized": "(a-\u003eb c)-\u003ed a-\u003eb(d c)",
+          "package": "functorm",
+          "partial": "Afmap",
+          "signature": "(a-\u003em b)-\u003ef a-\u003em(f b)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/functorm/docs/Data-FunctorM.html#v:3AfmapM"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.FunctorM",
+          "name": "3AfmapM_",
+          "package": "functorm",
+          "signature": "(a -\u003e m b) -\u003e f a -\u003e m ()",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data FunctorM",
+          "module": "Data.FunctorM",
+          "name": "3AfmapM_",
+          "normalized": "(a-\u003eb c)-\u003ed a-\u003eb()",
+          "package": "functorm",
+          "partial": "Afmap",
+          "signature": "(a-\u003em b)-\u003ef a-\u003em()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/functorm/docs/Data-FunctorM.html#v:3AfmapM_"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/functorm/docs/Data-FunctorM.html#v:3AfmapM_",
-      "description": {
-        "fct-module": "Data.FunctorM",
-        "fct-package": "functorm",
-        "fct-signature": "(a -\u003e m b) -\u003e f a -\u003e m ()",
-        "fct-type": "unknown",
-        "title": "3AfmapM_"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data FunctorM",
-        "module": "Data.FunctorM",
-        "name": "3AfmapM_",
-        "normalized": "(a-\u003eb c)-\u003ed a-\u003eb()",
-        "package": "functorm",
-        "partial": "Afmap",
-        "signature": "(a-\u003em b)-\u003ef a-\u003em()"
-      }
-    }
-  }
+  ]
 ]

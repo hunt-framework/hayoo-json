@@ -1,1827 +1,1709 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "module",
-        "fct-source": "src/Graphics-Ubigraph-Base.html",
-        "fct-type": "module",
-        "title": "Base"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "Base",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "Base",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#t:Attr",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "class",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#Attr",
-        "fct-type": "class",
-        "title": "Attr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "Attr",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "Attr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#t:Color",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "type",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#Color",
-        "fct-type": "type",
-        "title": "Color"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "Color",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "Color",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#t:EAttr",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "data",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#EAttr",
-        "fct-type": "data",
-        "title": "EAttr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "EAttr",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "EAttr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#t:Edge",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "type",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#Edge",
-        "fct-type": "type",
-        "title": "Edge"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "Edge",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "Edge",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#t:EdgeID",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "type",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#EdgeID",
-        "fct-type": "type",
-        "title": "EdgeID"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "EdgeID",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "Edge ID",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#t:Hubigraph",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "type",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#Hubigraph",
-        "fct-type": "type",
-        "title": "Hubigraph"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "Hubigraph",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "Hubigraph",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#t:Shape",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "data",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#Shape",
-        "fct-type": "data",
-        "title": "Shape"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "Shape",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "Shape",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#t:Stroke",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "data",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#Stroke",
-        "fct-type": "data",
-        "title": "Stroke"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "Stroke",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "Stroke",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#t:StyleID",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "type",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#StyleID",
-        "fct-type": "type",
-        "title": "StyleID"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "StyleID",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "Style ID",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#t:Ubigraph",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "data",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#Ubigraph",
-        "fct-type": "data",
-        "title": "Ubigraph"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "Ubigraph",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "Ubigraph",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#t:VAttr",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "data",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#VAttr",
-        "fct-type": "data",
-        "title": "VAttr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "VAttr",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "VAttr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#t:VertexID",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "type",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#VertexID",
-        "fct-type": "type",
-        "title": "VertexID"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "VertexID",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "Vertex ID",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:Cone",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "Cone",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#Shape",
-        "fct-type": "function",
-        "title": "Cone"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "Cone",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "Cone",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:Cube",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "Cube",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#Shape",
-        "fct-type": "function",
-        "title": "Cube"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "Cube",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "Cube",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:Dashed",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "Dashed",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#Stroke",
-        "fct-type": "function",
-        "title": "Dashed"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "Dashed",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "Dashed",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:Dodecahedron",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "Dodecahedron",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#Shape",
-        "fct-type": "function",
-        "title": "Dodecahedron"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "Dodecahedron",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "Dodecahedron",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:Dotted",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "Dotted",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#Stroke",
-        "fct-type": "function",
-        "title": "Dotted"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "Dotted",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "Dotted",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:EArrow",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "EArrow Bool",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#EAttr",
-        "fct-type": "function",
-        "title": "EArrow"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "EArrow",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "EArrow",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:EArrowLength",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "EArrowLength Float",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#EAttr",
-        "fct-type": "function",
-        "title": "EArrowLength"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "EArrowLength",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "EArrow Length",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:EArrowPosition",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "EArrowPosition Float",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#EAttr",
-        "fct-type": "function",
-        "title": "EArrowPosition"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "EArrowPosition",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "EArrow Position",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:EArrowRadius",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "EArrowRadius Float",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#EAttr",
-        "fct-type": "function",
-        "title": "EArrowRadius"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "EArrowRadius",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "EArrow Radius",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:EArrowReverse",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "EArrowReverse Bool",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#EAttr",
-        "fct-type": "function",
-        "title": "EArrowReverse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "EArrowReverse",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "EArrow Reverse",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:EColor",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "EColor Color",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#EAttr",
-        "fct-type": "function",
-        "title": "EColor"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "EColor",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "EColor",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:EFontcolor",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "EFontcolor Color",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#EAttr",
-        "fct-type": "function",
-        "title": "EFontcolor"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "EFontcolor",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "EFontcolor",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:EFontfamily",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "EFontfamily String",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#EAttr",
-        "fct-type": "function",
-        "title": "EFontfamily"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "EFontfamily",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "EFontfamily",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:EFontsize",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "EFontsize Int",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#EAttr",
-        "fct-type": "function",
-        "title": "EFontsize"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "EFontsize",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "EFontsize",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:ELabel",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "ELabel String",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#EAttr",
-        "fct-type": "function",
-        "title": "ELabel"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "ELabel",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "ELabel",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:EOriented",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "EOriented Bool",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#EAttr",
-        "fct-type": "function",
-        "title": "EOriented"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "EOriented",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "EOriented",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:EShowstrain",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "EShowstrain Bool",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#EAttr",
-        "fct-type": "function",
-        "title": "EShowstrain"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "EShowstrain",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "EShowstrain",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:ESpline",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "ESpline Bool",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#EAttr",
-        "fct-type": "function",
-        "title": "ESpline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "ESpline",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "ESpline",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:EStrength",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "EStrength Float",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#EAttr",
-        "fct-type": "function",
-        "title": "EStrength"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "EStrength",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "EStrength",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:EStroke",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "EStroke Stroke",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#EAttr",
-        "fct-type": "function",
-        "title": "EStroke"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "EStroke",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "EStroke",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:EVisible",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "EVisible Bool",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#EAttr",
-        "fct-type": "function",
-        "title": "EVisible"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "EVisible",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "EVisible",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:EWidth",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "EWidth Float",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#EAttr",
-        "fct-type": "function",
-        "title": "EWidth"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "EWidth",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "EWidth",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:Icosahedron",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "Icosahedron",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#Shape",
-        "fct-type": "function",
-        "title": "Icosahedron"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "Icosahedron",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "Icosahedron",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:None",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "None",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#Stroke",
-        "fct-type": "function",
-        "title": "None"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "None",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "None",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:Octahedron",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "Octahedron",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#Shape",
-        "fct-type": "function",
-        "title": "Octahedron"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "Octahedron",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "Octahedron",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:Solid",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "Solid",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#Stroke",
-        "fct-type": "function",
-        "title": "Solid"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "Solid",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "Solid",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:Sphere",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "Sphere",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#Shape",
-        "fct-type": "function",
-        "title": "Sphere"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "Sphere",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "Sphere",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:Tetrahedron",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "Tetrahedron",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#Shape",
-        "fct-type": "function",
-        "title": "Tetrahedron"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "Tetrahedron",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "Tetrahedron",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:Torus",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "Torus",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#Shape",
-        "fct-type": "function",
-        "title": "Torus"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "Torus",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "Torus",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:Ubigraph",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "Ubigraph",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#Ubigraph",
-        "fct-type": "function",
-        "title": "Ubigraph"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "Ubigraph",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "Ubigraph",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:VCallback",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "VCallback String",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#VAttr",
-        "fct-type": "function",
-        "title": "VCallback"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "VCallback",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "VCallback",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:VColor",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "VColor Color",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#VAttr",
-        "fct-type": "function",
-        "title": "VColor"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "VColor",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "VColor",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:VFontcolor",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "VFontcolor Color",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#VAttr",
-        "fct-type": "function",
-        "title": "VFontcolor"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "VFontcolor",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "VFontcolor",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:VFontfamily",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "VFontfamily String",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#VAttr",
-        "fct-type": "function",
-        "title": "VFontfamily"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "VFontfamily",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "VFontfamily",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:VFontsize",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "VFontsize Int",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#VAttr",
-        "fct-type": "function",
-        "title": "VFontsize"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "VFontsize",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "VFontsize",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:VLabel",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "VLabel String",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#VAttr",
-        "fct-type": "function",
-        "title": "VLabel"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "VLabel",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "VLabel",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:VShape",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "VShape Shape",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#VAttr",
-        "fct-type": "function",
-        "title": "VShape"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "VShape",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "VShape",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:VShapedetail",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "VShapedetail Int",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#VAttr",
-        "fct-type": "function",
-        "title": "VShapedetail"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "VShapedetail",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "VShapedetail",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:VSize",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "VSize Float",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#VAttr",
-        "fct-type": "function",
-        "title": "VSize"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "VSize",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "VSize",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:VVisible",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "VVisible Bool",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#VAttr",
-        "fct-type": "function",
-        "title": "VVisible"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "VVisible",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "VVisible",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:initHubigraph",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "String -\u003e m Ubigraph",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#initHubigraph",
-        "fct-type": "function",
-        "title": "initHubigraph"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "initHubigraph",
-        "normalized": "String-\u003ea Ubigraph",
-        "package": "hubigraph",
-        "partial": "Hubigraph",
-        "signature": "String-\u003em Ubigraph"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:runHubigraph",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "ReaderT r m a -\u003e r -\u003e m a",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#runHubigraph",
-        "fct-type": "function",
-        "title": "runHubigraph"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "runHubigraph",
-        "normalized": "ReaderT a b c-\u003ea-\u003eb c",
-        "package": "hubigraph",
-        "partial": "Hubigraph",
-        "signature": "ReaderT r m a-\u003er-\u003em a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:server",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "String",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#Ubigraph",
-        "fct-type": "function",
-        "title": "server"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "server",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:toPair",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Base",
-        "fct-package": "hubigraph",
-        "fct-signature": "a -\u003e (String, String)",
-        "fct-source": "src/Graphics-Ubigraph-Base.html#toPair",
-        "fct-type": "method",
-        "title": "toPair"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Base",
-        "module": "Graphics.Ubigraph.Base",
-        "name": "toPair",
-        "normalized": "a-\u003e(String,String)",
-        "package": "hubigraph",
-        "partial": "Pair",
-        "signature": "a-\u003e(String,String)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Style.html#",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Style",
-        "fct-package": "hubigraph",
-        "fct-signature": "module",
-        "fct-source": "src/Graphics-Ubigraph-Style.html",
-        "fct-type": "module",
-        "title": "Style"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Style",
-        "module": "Graphics.Ubigraph.Style",
-        "name": "Style",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "Style",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Style.html#v:changeEStyle",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Style",
-        "fct-package": "hubigraph",
-        "fct-signature": "StyleID -\u003e EdgeID -\u003e Hubigraph Bool",
-        "fct-source": "src/Graphics-Ubigraph-Style.html#changeEStyle",
-        "fct-type": "function",
-        "title": "changeEStyle"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Style",
-        "module": "Graphics.Ubigraph.Style",
-        "name": "changeEStyle",
-        "normalized": "StyleID-\u003eEdgeID-\u003eHubigraph Bool",
-        "package": "hubigraph",
-        "partial": "EStyle",
-        "signature": "StyleID-\u003eEdgeID-\u003eHubigraph Bool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Style.html#v:changeVStyle",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Style",
-        "fct-package": "hubigraph",
-        "fct-signature": "StyleID -\u003e VertexID -\u003e Hubigraph Bool",
-        "fct-source": "src/Graphics-Ubigraph-Style.html#changeVStyle",
-        "fct-type": "function",
-        "title": "changeVStyle"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Style",
-        "module": "Graphics.Ubigraph.Style",
-        "name": "changeVStyle",
-        "normalized": "StyleID-\u003eVertexID-\u003eHubigraph Bool",
-        "package": "hubigraph",
-        "partial": "VStyle",
-        "signature": "StyleID-\u003eVertexID-\u003eHubigraph Bool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Style.html#v:newEStyle",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Style",
-        "fct-package": "hubigraph",
-        "fct-signature": "StyleID -\u003e Hubigraph StyleID",
-        "fct-source": "src/Graphics-Ubigraph-Style.html#newEStyle",
-        "fct-type": "function",
-        "title": "newEStyle"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Style",
-        "module": "Graphics.Ubigraph.Style",
-        "name": "newEStyle",
-        "normalized": "StyleID-\u003eHubigraph StyleID",
-        "package": "hubigraph",
-        "partial": "EStyle",
-        "signature": "StyleID-\u003eHubigraph StyleID"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Style.html#v:newEStyleWithID",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Style",
-        "fct-package": "hubigraph",
-        "fct-signature": "StyleID -\u003e StyleID -\u003e Hubigraph Bool",
-        "fct-source": "src/Graphics-Ubigraph-Style.html#newEStyleWithID",
-        "fct-type": "function",
-        "title": "newEStyleWithID"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Style",
-        "module": "Graphics.Ubigraph.Style",
-        "name": "newEStyleWithID",
-        "normalized": "StyleID-\u003eStyleID-\u003eHubigraph Bool",
-        "package": "hubigraph",
-        "partial": "EStyle With ID",
-        "signature": "StyleID-\u003eStyleID-\u003eHubigraph Bool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Style.html#v:newVStyle",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Style",
-        "fct-package": "hubigraph",
-        "fct-signature": "StyleID -\u003e Hubigraph StyleID",
-        "fct-source": "src/Graphics-Ubigraph-Style.html#newVStyle",
-        "fct-type": "function",
-        "title": "newVStyle"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Style",
-        "module": "Graphics.Ubigraph.Style",
-        "name": "newVStyle",
-        "normalized": "StyleID-\u003eHubigraph StyleID",
-        "package": "hubigraph",
-        "partial": "VStyle",
-        "signature": "StyleID-\u003eHubigraph StyleID"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Style.html#v:newVStyleWithID",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Style",
-        "fct-package": "hubigraph",
-        "fct-signature": "StyleID -\u003e StyleID -\u003e Hubigraph Bool",
-        "fct-source": "src/Graphics-Ubigraph-Style.html#newVStyleWithID",
-        "fct-type": "function",
-        "title": "newVStyleWithID"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Style",
-        "module": "Graphics.Ubigraph.Style",
-        "name": "newVStyleWithID",
-        "normalized": "StyleID-\u003eStyleID-\u003eHubigraph Bool",
-        "package": "hubigraph",
-        "partial": "VStyle With ID",
-        "signature": "StyleID-\u003eStyleID-\u003eHubigraph Bool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Style.html#v:setEStyleAttr",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Style",
-        "fct-package": "hubigraph",
-        "fct-signature": "EAttr -\u003e StyleID -\u003e Hubigraph Bool",
-        "fct-source": "src/Graphics-Ubigraph-Style.html#setEStyleAttr",
-        "fct-type": "function",
-        "title": "setEStyleAttr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Style",
-        "module": "Graphics.Ubigraph.Style",
-        "name": "setEStyleAttr",
-        "normalized": "EAttr-\u003eStyleID-\u003eHubigraph Bool",
-        "package": "hubigraph",
-        "partial": "EStyle Attr",
-        "signature": "EAttr-\u003eStyleID-\u003eHubigraph Bool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Style.html#v:setVStyleAttr",
-      "description": {
-        "fct-module": "Graphics.Ubigraph.Style",
-        "fct-package": "hubigraph",
-        "fct-signature": "VAttr -\u003e StyleID -\u003e Hubigraph Bool",
-        "fct-source": "src/Graphics-Ubigraph-Style.html#setVStyleAttr",
-        "fct-type": "function",
-        "title": "setVStyleAttr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph Style",
-        "module": "Graphics.Ubigraph.Style",
-        "name": "setVStyleAttr",
-        "normalized": "VAttr-\u003eStyleID-\u003eHubigraph Bool",
-        "package": "hubigraph",
-        "partial": "VStyle Attr",
-        "signature": "VAttr-\u003eStyleID-\u003eHubigraph Bool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph.html#",
-      "description": {
-        "fct-module": "Graphics.Ubigraph",
-        "fct-package": "hubigraph",
-        "fct-signature": "module",
-        "fct-source": "src/Graphics-Ubigraph.html",
-        "fct-type": "module",
-        "title": "Ubigraph"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph",
-        "module": "Graphics.Ubigraph",
-        "name": "Ubigraph",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "Ubigraph",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph.html#v:clear",
-      "description": {
-        "fct-module": "Graphics.Ubigraph",
-        "fct-package": "hubigraph",
-        "fct-signature": "Hubigraph Bool",
-        "fct-source": "src/Graphics-Ubigraph.html#clear",
-        "fct-type": "function",
-        "title": "clear"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph",
-        "module": "Graphics.Ubigraph",
-        "name": "clear",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph.html#v:newEdge",
-      "description": {
-        "fct-module": "Graphics.Ubigraph",
-        "fct-package": "hubigraph",
-        "fct-signature": "Edge -\u003e Hubigraph EdgeID",
-        "fct-source": "src/Graphics-Ubigraph.html#newEdge",
-        "fct-type": "function",
-        "title": "newEdge"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph",
-        "module": "Graphics.Ubigraph",
-        "name": "newEdge",
-        "normalized": "Edge-\u003eHubigraph EdgeID",
-        "package": "hubigraph",
-        "partial": "Edge",
-        "signature": "Edge-\u003eHubigraph EdgeID"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph.html#v:newEdgeWithID",
-      "description": {
-        "fct-module": "Graphics.Ubigraph",
-        "fct-package": "hubigraph",
-        "fct-signature": "EdgeID -\u003e Edge -\u003e Hubigraph Bool",
-        "fct-source": "src/Graphics-Ubigraph.html#newEdgeWithID",
-        "fct-type": "function",
-        "title": "newEdgeWithID"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph",
-        "module": "Graphics.Ubigraph",
-        "name": "newEdgeWithID",
-        "normalized": "EdgeID-\u003eEdge-\u003eHubigraph Bool",
-        "package": "hubigraph",
-        "partial": "Edge With ID",
-        "signature": "EdgeID-\u003eEdge-\u003eHubigraph Bool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph.html#v:newVertex",
-      "description": {
-        "fct-module": "Graphics.Ubigraph",
-        "fct-package": "hubigraph",
-        "fct-signature": "Hubigraph VertexID",
-        "fct-source": "src/Graphics-Ubigraph.html#newVertex",
-        "fct-type": "function",
-        "title": "newVertex"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph",
-        "module": "Graphics.Ubigraph",
-        "name": "newVertex",
-        "normalized": "",
-        "package": "hubigraph",
-        "partial": "Vertex",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph.html#v:newVertexWithID",
-      "description": {
-        "fct-module": "Graphics.Ubigraph",
-        "fct-package": "hubigraph",
-        "fct-signature": "VertexID -\u003e Hubigraph Bool",
-        "fct-source": "src/Graphics-Ubigraph.html#newVertexWithID",
-        "fct-type": "function",
-        "title": "newVertexWithID"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph",
-        "module": "Graphics.Ubigraph",
-        "name": "newVertexWithID",
-        "normalized": "VertexID-\u003eHubigraph Bool",
-        "package": "hubigraph",
-        "partial": "Vertex With ID",
-        "signature": "VertexID-\u003eHubigraph Bool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph.html#v:removeEdge",
-      "description": {
-        "fct-module": "Graphics.Ubigraph",
-        "fct-package": "hubigraph",
-        "fct-signature": "EdgeID -\u003e Hubigraph Bool",
-        "fct-source": "src/Graphics-Ubigraph.html#removeEdge",
-        "fct-type": "function",
-        "title": "removeEdge"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph",
-        "module": "Graphics.Ubigraph",
-        "name": "removeEdge",
-        "normalized": "EdgeID-\u003eHubigraph Bool",
-        "package": "hubigraph",
-        "partial": "Edge",
-        "signature": "EdgeID-\u003eHubigraph Bool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph.html#v:removeVertex",
-      "description": {
-        "fct-module": "Graphics.Ubigraph",
-        "fct-package": "hubigraph",
-        "fct-signature": "VertexID -\u003e Hubigraph Bool",
-        "fct-source": "src/Graphics-Ubigraph.html#removeVertex",
-        "fct-type": "function",
-        "title": "removeVertex"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph",
-        "module": "Graphics.Ubigraph",
-        "name": "removeVertex",
-        "normalized": "VertexID-\u003eHubigraph Bool",
-        "package": "hubigraph",
-        "partial": "Vertex",
-        "signature": "VertexID-\u003eHubigraph Bool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph.html#v:setEAttr",
-      "description": {
-        "fct-module": "Graphics.Ubigraph",
-        "fct-package": "hubigraph",
-        "fct-signature": "EAttr -\u003e EdgeID -\u003e Hubigraph Bool",
-        "fct-source": "src/Graphics-Ubigraph.html#setEAttr",
-        "fct-type": "function",
-        "title": "setEAttr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph",
-        "module": "Graphics.Ubigraph",
-        "name": "setEAttr",
-        "normalized": "EAttr-\u003eEdgeID-\u003eHubigraph Bool",
-        "package": "hubigraph",
-        "partial": "EAttr",
-        "signature": "EAttr-\u003eEdgeID-\u003eHubigraph Bool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph.html#v:setVAttr",
-      "description": {
-        "fct-module": "Graphics.Ubigraph",
-        "fct-package": "hubigraph",
-        "fct-signature": "VAttr -\u003e VertexID -\u003e Hubigraph Bool",
-        "fct-source": "src/Graphics-Ubigraph.html#setVAttr",
-        "fct-type": "function",
-        "title": "setVAttr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Ubigraph",
-        "module": "Graphics.Ubigraph",
-        "name": "setVAttr",
-        "normalized": "VAttr-\u003eVertexID-\u003eHubigraph Bool",
-        "package": "hubigraph",
-        "partial": "VAttr",
-        "signature": "VAttr-\u003eVertexID-\u003eHubigraph Bool"
-      }
-    }
-  }
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "hubigraph"
+      },
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Base",
+          "package": "hubigraph",
+          "source": "src/Graphics-Ubigraph-Base.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Base",
+          "package": "hubigraph",
+          "partial": "Base",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Attr",
+          "package": "hubigraph",
+          "source": "src/Graphics-Ubigraph-Base.html#Attr",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Attr",
+          "package": "hubigraph",
+          "partial": "Attr",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#t:Attr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Color",
+          "package": "hubigraph",
+          "source": "src/Graphics-Ubigraph-Base.html#Color",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Color",
+          "package": "hubigraph",
+          "partial": "Color",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#t:Color"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EAttr",
+          "package": "hubigraph",
+          "source": "src/Graphics-Ubigraph-Base.html#EAttr",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EAttr",
+          "package": "hubigraph",
+          "partial": "EAttr",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#t:EAttr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Edge",
+          "package": "hubigraph",
+          "source": "src/Graphics-Ubigraph-Base.html#Edge",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Edge",
+          "package": "hubigraph",
+          "partial": "Edge",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#t:Edge"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EdgeID",
+          "package": "hubigraph",
+          "source": "src/Graphics-Ubigraph-Base.html#EdgeID",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EdgeID",
+          "package": "hubigraph",
+          "partial": "Edge ID",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#t:EdgeID"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Hubigraph",
+          "package": "hubigraph",
+          "source": "src/Graphics-Ubigraph-Base.html#Hubigraph",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Hubigraph",
+          "package": "hubigraph",
+          "partial": "Hubigraph",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#t:Hubigraph"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Shape",
+          "package": "hubigraph",
+          "source": "src/Graphics-Ubigraph-Base.html#Shape",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Shape",
+          "package": "hubigraph",
+          "partial": "Shape",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#t:Shape"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Stroke",
+          "package": "hubigraph",
+          "source": "src/Graphics-Ubigraph-Base.html#Stroke",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Stroke",
+          "package": "hubigraph",
+          "partial": "Stroke",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#t:Stroke"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "StyleID",
+          "package": "hubigraph",
+          "source": "src/Graphics-Ubigraph-Base.html#StyleID",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "StyleID",
+          "package": "hubigraph",
+          "partial": "Style ID",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#t:StyleID"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Ubigraph",
+          "package": "hubigraph",
+          "source": "src/Graphics-Ubigraph-Base.html#Ubigraph",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Ubigraph",
+          "package": "hubigraph",
+          "partial": "Ubigraph",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#t:Ubigraph"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "VAttr",
+          "package": "hubigraph",
+          "source": "src/Graphics-Ubigraph-Base.html#VAttr",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "VAttr",
+          "package": "hubigraph",
+          "partial": "VAttr",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#t:VAttr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "VertexID",
+          "package": "hubigraph",
+          "source": "src/Graphics-Ubigraph-Base.html#VertexID",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "VertexID",
+          "package": "hubigraph",
+          "partial": "Vertex ID",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#t:VertexID"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Cone",
+          "package": "hubigraph",
+          "signature": "Cone",
+          "source": "src/Graphics-Ubigraph-Base.html#Shape",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Cone",
+          "package": "hubigraph",
+          "partial": "Cone",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:Cone"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Cube",
+          "package": "hubigraph",
+          "signature": "Cube",
+          "source": "src/Graphics-Ubigraph-Base.html#Shape",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Cube",
+          "package": "hubigraph",
+          "partial": "Cube",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:Cube"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Dashed",
+          "package": "hubigraph",
+          "signature": "Dashed",
+          "source": "src/Graphics-Ubigraph-Base.html#Stroke",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Dashed",
+          "package": "hubigraph",
+          "partial": "Dashed",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:Dashed"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Dodecahedron",
+          "package": "hubigraph",
+          "signature": "Dodecahedron",
+          "source": "src/Graphics-Ubigraph-Base.html#Shape",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Dodecahedron",
+          "package": "hubigraph",
+          "partial": "Dodecahedron",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:Dodecahedron"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Dotted",
+          "package": "hubigraph",
+          "signature": "Dotted",
+          "source": "src/Graphics-Ubigraph-Base.html#Stroke",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Dotted",
+          "package": "hubigraph",
+          "partial": "Dotted",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:Dotted"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EArrow",
+          "package": "hubigraph",
+          "signature": "EArrow Bool",
+          "source": "src/Graphics-Ubigraph-Base.html#EAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EArrow",
+          "package": "hubigraph",
+          "partial": "EArrow",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:EArrow"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EArrowLength",
+          "package": "hubigraph",
+          "signature": "EArrowLength Float",
+          "source": "src/Graphics-Ubigraph-Base.html#EAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EArrowLength",
+          "package": "hubigraph",
+          "partial": "EArrow Length",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:EArrowLength"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EArrowPosition",
+          "package": "hubigraph",
+          "signature": "EArrowPosition Float",
+          "source": "src/Graphics-Ubigraph-Base.html#EAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EArrowPosition",
+          "package": "hubigraph",
+          "partial": "EArrow Position",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:EArrowPosition"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EArrowRadius",
+          "package": "hubigraph",
+          "signature": "EArrowRadius Float",
+          "source": "src/Graphics-Ubigraph-Base.html#EAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EArrowRadius",
+          "package": "hubigraph",
+          "partial": "EArrow Radius",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:EArrowRadius"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EArrowReverse",
+          "package": "hubigraph",
+          "signature": "EArrowReverse Bool",
+          "source": "src/Graphics-Ubigraph-Base.html#EAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EArrowReverse",
+          "package": "hubigraph",
+          "partial": "EArrow Reverse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:EArrowReverse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EColor",
+          "package": "hubigraph",
+          "signature": "EColor Color",
+          "source": "src/Graphics-Ubigraph-Base.html#EAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EColor",
+          "package": "hubigraph",
+          "partial": "EColor",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:EColor"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EFontcolor",
+          "package": "hubigraph",
+          "signature": "EFontcolor Color",
+          "source": "src/Graphics-Ubigraph-Base.html#EAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EFontcolor",
+          "package": "hubigraph",
+          "partial": "EFontcolor",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:EFontcolor"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EFontfamily",
+          "package": "hubigraph",
+          "signature": "EFontfamily String",
+          "source": "src/Graphics-Ubigraph-Base.html#EAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EFontfamily",
+          "package": "hubigraph",
+          "partial": "EFontfamily",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:EFontfamily"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EFontsize",
+          "package": "hubigraph",
+          "signature": "EFontsize Int",
+          "source": "src/Graphics-Ubigraph-Base.html#EAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EFontsize",
+          "package": "hubigraph",
+          "partial": "EFontsize",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:EFontsize"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "ELabel",
+          "package": "hubigraph",
+          "signature": "ELabel String",
+          "source": "src/Graphics-Ubigraph-Base.html#EAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "ELabel",
+          "package": "hubigraph",
+          "partial": "ELabel",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:ELabel"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EOriented",
+          "package": "hubigraph",
+          "signature": "EOriented Bool",
+          "source": "src/Graphics-Ubigraph-Base.html#EAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EOriented",
+          "package": "hubigraph",
+          "partial": "EOriented",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:EOriented"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EShowstrain",
+          "package": "hubigraph",
+          "signature": "EShowstrain Bool",
+          "source": "src/Graphics-Ubigraph-Base.html#EAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EShowstrain",
+          "package": "hubigraph",
+          "partial": "EShowstrain",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:EShowstrain"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "ESpline",
+          "package": "hubigraph",
+          "signature": "ESpline Bool",
+          "source": "src/Graphics-Ubigraph-Base.html#EAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "ESpline",
+          "package": "hubigraph",
+          "partial": "ESpline",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:ESpline"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EStrength",
+          "package": "hubigraph",
+          "signature": "EStrength Float",
+          "source": "src/Graphics-Ubigraph-Base.html#EAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EStrength",
+          "package": "hubigraph",
+          "partial": "EStrength",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:EStrength"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EStroke",
+          "package": "hubigraph",
+          "signature": "EStroke Stroke",
+          "source": "src/Graphics-Ubigraph-Base.html#EAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EStroke",
+          "package": "hubigraph",
+          "partial": "EStroke",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:EStroke"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EVisible",
+          "package": "hubigraph",
+          "signature": "EVisible Bool",
+          "source": "src/Graphics-Ubigraph-Base.html#EAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EVisible",
+          "package": "hubigraph",
+          "partial": "EVisible",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:EVisible"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EWidth",
+          "package": "hubigraph",
+          "signature": "EWidth Float",
+          "source": "src/Graphics-Ubigraph-Base.html#EAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "EWidth",
+          "package": "hubigraph",
+          "partial": "EWidth",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:EWidth"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Icosahedron",
+          "package": "hubigraph",
+          "signature": "Icosahedron",
+          "source": "src/Graphics-Ubigraph-Base.html#Shape",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Icosahedron",
+          "package": "hubigraph",
+          "partial": "Icosahedron",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:Icosahedron"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "None",
+          "package": "hubigraph",
+          "signature": "None",
+          "source": "src/Graphics-Ubigraph-Base.html#Stroke",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "None",
+          "package": "hubigraph",
+          "partial": "None",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:None"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Octahedron",
+          "package": "hubigraph",
+          "signature": "Octahedron",
+          "source": "src/Graphics-Ubigraph-Base.html#Shape",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Octahedron",
+          "package": "hubigraph",
+          "partial": "Octahedron",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:Octahedron"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Solid",
+          "package": "hubigraph",
+          "signature": "Solid",
+          "source": "src/Graphics-Ubigraph-Base.html#Stroke",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Solid",
+          "package": "hubigraph",
+          "partial": "Solid",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:Solid"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Sphere",
+          "package": "hubigraph",
+          "signature": "Sphere",
+          "source": "src/Graphics-Ubigraph-Base.html#Shape",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Sphere",
+          "package": "hubigraph",
+          "partial": "Sphere",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:Sphere"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Tetrahedron",
+          "package": "hubigraph",
+          "signature": "Tetrahedron",
+          "source": "src/Graphics-Ubigraph-Base.html#Shape",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Tetrahedron",
+          "package": "hubigraph",
+          "partial": "Tetrahedron",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:Tetrahedron"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Torus",
+          "package": "hubigraph",
+          "signature": "Torus",
+          "source": "src/Graphics-Ubigraph-Base.html#Shape",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Torus",
+          "package": "hubigraph",
+          "partial": "Torus",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:Torus"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Ubigraph",
+          "package": "hubigraph",
+          "signature": "Ubigraph",
+          "source": "src/Graphics-Ubigraph-Base.html#Ubigraph",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "Ubigraph",
+          "package": "hubigraph",
+          "partial": "Ubigraph",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:Ubigraph"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "VCallback",
+          "package": "hubigraph",
+          "signature": "VCallback String",
+          "source": "src/Graphics-Ubigraph-Base.html#VAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "VCallback",
+          "package": "hubigraph",
+          "partial": "VCallback",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:VCallback"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "VColor",
+          "package": "hubigraph",
+          "signature": "VColor Color",
+          "source": "src/Graphics-Ubigraph-Base.html#VAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "VColor",
+          "package": "hubigraph",
+          "partial": "VColor",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:VColor"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "VFontcolor",
+          "package": "hubigraph",
+          "signature": "VFontcolor Color",
+          "source": "src/Graphics-Ubigraph-Base.html#VAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "VFontcolor",
+          "package": "hubigraph",
+          "partial": "VFontcolor",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:VFontcolor"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "VFontfamily",
+          "package": "hubigraph",
+          "signature": "VFontfamily String",
+          "source": "src/Graphics-Ubigraph-Base.html#VAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "VFontfamily",
+          "package": "hubigraph",
+          "partial": "VFontfamily",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:VFontfamily"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "VFontsize",
+          "package": "hubigraph",
+          "signature": "VFontsize Int",
+          "source": "src/Graphics-Ubigraph-Base.html#VAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "VFontsize",
+          "package": "hubigraph",
+          "partial": "VFontsize",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:VFontsize"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "VLabel",
+          "package": "hubigraph",
+          "signature": "VLabel String",
+          "source": "src/Graphics-Ubigraph-Base.html#VAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "VLabel",
+          "package": "hubigraph",
+          "partial": "VLabel",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:VLabel"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "VShape",
+          "package": "hubigraph",
+          "signature": "VShape Shape",
+          "source": "src/Graphics-Ubigraph-Base.html#VAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "VShape",
+          "package": "hubigraph",
+          "partial": "VShape",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:VShape"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "VShapedetail",
+          "package": "hubigraph",
+          "signature": "VShapedetail Int",
+          "source": "src/Graphics-Ubigraph-Base.html#VAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "VShapedetail",
+          "package": "hubigraph",
+          "partial": "VShapedetail",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:VShapedetail"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "VSize",
+          "package": "hubigraph",
+          "signature": "VSize Float",
+          "source": "src/Graphics-Ubigraph-Base.html#VAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "VSize",
+          "package": "hubigraph",
+          "partial": "VSize",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:VSize"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "VVisible",
+          "package": "hubigraph",
+          "signature": "VVisible Bool",
+          "source": "src/Graphics-Ubigraph-Base.html#VAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "VVisible",
+          "package": "hubigraph",
+          "partial": "VVisible",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:VVisible"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "initHubigraph",
+          "package": "hubigraph",
+          "signature": "String -\u003e m Ubigraph",
+          "source": "src/Graphics-Ubigraph-Base.html#initHubigraph",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "initHubigraph",
+          "normalized": "String-\u003ea Ubigraph",
+          "package": "hubigraph",
+          "partial": "Hubigraph",
+          "signature": "String-\u003em Ubigraph",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:initHubigraph"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "runHubigraph",
+          "package": "hubigraph",
+          "signature": "ReaderT r m a -\u003e r -\u003e m a",
+          "source": "src/Graphics-Ubigraph-Base.html#runHubigraph",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "runHubigraph",
+          "normalized": "ReaderT a b c-\u003ea-\u003eb c",
+          "package": "hubigraph",
+          "partial": "Hubigraph",
+          "signature": "ReaderT r m a-\u003er-\u003em a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:runHubigraph"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "server",
+          "package": "hubigraph",
+          "signature": "String",
+          "source": "src/Graphics-Ubigraph-Base.html#Ubigraph",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "server",
+          "package": "hubigraph",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:server"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Base",
+          "name": "toPair",
+          "package": "hubigraph",
+          "signature": "a -\u003e (String, String)",
+          "source": "src/Graphics-Ubigraph-Base.html#toPair",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Base",
+          "module": "Graphics.Ubigraph.Base",
+          "name": "toPair",
+          "normalized": "a-\u003e(String,String)",
+          "package": "hubigraph",
+          "partial": "Pair",
+          "signature": "a-\u003e(String,String)",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Base.html#v:toPair"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Style",
+          "name": "Style",
+          "package": "hubigraph",
+          "source": "src/Graphics-Ubigraph-Style.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Style",
+          "module": "Graphics.Ubigraph.Style",
+          "name": "Style",
+          "package": "hubigraph",
+          "partial": "Style",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Style.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Style",
+          "name": "changeEStyle",
+          "package": "hubigraph",
+          "signature": "StyleID -\u003e EdgeID -\u003e Hubigraph Bool",
+          "source": "src/Graphics-Ubigraph-Style.html#changeEStyle",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Style",
+          "module": "Graphics.Ubigraph.Style",
+          "name": "changeEStyle",
+          "normalized": "StyleID-\u003eEdgeID-\u003eHubigraph Bool",
+          "package": "hubigraph",
+          "partial": "EStyle",
+          "signature": "StyleID-\u003eEdgeID-\u003eHubigraph Bool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Style.html#v:changeEStyle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Style",
+          "name": "changeVStyle",
+          "package": "hubigraph",
+          "signature": "StyleID -\u003e VertexID -\u003e Hubigraph Bool",
+          "source": "src/Graphics-Ubigraph-Style.html#changeVStyle",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Style",
+          "module": "Graphics.Ubigraph.Style",
+          "name": "changeVStyle",
+          "normalized": "StyleID-\u003eVertexID-\u003eHubigraph Bool",
+          "package": "hubigraph",
+          "partial": "VStyle",
+          "signature": "StyleID-\u003eVertexID-\u003eHubigraph Bool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Style.html#v:changeVStyle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Style",
+          "name": "newEStyle",
+          "package": "hubigraph",
+          "signature": "StyleID -\u003e Hubigraph StyleID",
+          "source": "src/Graphics-Ubigraph-Style.html#newEStyle",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Style",
+          "module": "Graphics.Ubigraph.Style",
+          "name": "newEStyle",
+          "normalized": "StyleID-\u003eHubigraph StyleID",
+          "package": "hubigraph",
+          "partial": "EStyle",
+          "signature": "StyleID-\u003eHubigraph StyleID",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Style.html#v:newEStyle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Style",
+          "name": "newEStyleWithID",
+          "package": "hubigraph",
+          "signature": "StyleID -\u003e StyleID -\u003e Hubigraph Bool",
+          "source": "src/Graphics-Ubigraph-Style.html#newEStyleWithID",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Style",
+          "module": "Graphics.Ubigraph.Style",
+          "name": "newEStyleWithID",
+          "normalized": "StyleID-\u003eStyleID-\u003eHubigraph Bool",
+          "package": "hubigraph",
+          "partial": "EStyle With ID",
+          "signature": "StyleID-\u003eStyleID-\u003eHubigraph Bool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Style.html#v:newEStyleWithID"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Style",
+          "name": "newVStyle",
+          "package": "hubigraph",
+          "signature": "StyleID -\u003e Hubigraph StyleID",
+          "source": "src/Graphics-Ubigraph-Style.html#newVStyle",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Style",
+          "module": "Graphics.Ubigraph.Style",
+          "name": "newVStyle",
+          "normalized": "StyleID-\u003eHubigraph StyleID",
+          "package": "hubigraph",
+          "partial": "VStyle",
+          "signature": "StyleID-\u003eHubigraph StyleID",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Style.html#v:newVStyle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Style",
+          "name": "newVStyleWithID",
+          "package": "hubigraph",
+          "signature": "StyleID -\u003e StyleID -\u003e Hubigraph Bool",
+          "source": "src/Graphics-Ubigraph-Style.html#newVStyleWithID",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Style",
+          "module": "Graphics.Ubigraph.Style",
+          "name": "newVStyleWithID",
+          "normalized": "StyleID-\u003eStyleID-\u003eHubigraph Bool",
+          "package": "hubigraph",
+          "partial": "VStyle With ID",
+          "signature": "StyleID-\u003eStyleID-\u003eHubigraph Bool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Style.html#v:newVStyleWithID"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Style",
+          "name": "setEStyleAttr",
+          "package": "hubigraph",
+          "signature": "EAttr -\u003e StyleID -\u003e Hubigraph Bool",
+          "source": "src/Graphics-Ubigraph-Style.html#setEStyleAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Style",
+          "module": "Graphics.Ubigraph.Style",
+          "name": "setEStyleAttr",
+          "normalized": "EAttr-\u003eStyleID-\u003eHubigraph Bool",
+          "package": "hubigraph",
+          "partial": "EStyle Attr",
+          "signature": "EAttr-\u003eStyleID-\u003eHubigraph Bool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Style.html#v:setEStyleAttr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph.Style",
+          "name": "setVStyleAttr",
+          "package": "hubigraph",
+          "signature": "VAttr -\u003e StyleID -\u003e Hubigraph Bool",
+          "source": "src/Graphics-Ubigraph-Style.html#setVStyleAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph Style",
+          "module": "Graphics.Ubigraph.Style",
+          "name": "setVStyleAttr",
+          "normalized": "VAttr-\u003eStyleID-\u003eHubigraph Bool",
+          "package": "hubigraph",
+          "partial": "VStyle Attr",
+          "signature": "VAttr-\u003eStyleID-\u003eHubigraph Bool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph-Style.html#v:setVStyleAttr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph",
+          "name": "Ubigraph",
+          "package": "hubigraph",
+          "source": "src/Graphics-Ubigraph.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph",
+          "module": "Graphics.Ubigraph",
+          "name": "Ubigraph",
+          "package": "hubigraph",
+          "partial": "Ubigraph",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph",
+          "name": "clear",
+          "package": "hubigraph",
+          "signature": "Hubigraph Bool",
+          "source": "src/Graphics-Ubigraph.html#clear",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph",
+          "module": "Graphics.Ubigraph",
+          "name": "clear",
+          "package": "hubigraph",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph.html#v:clear"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph",
+          "name": "newEdge",
+          "package": "hubigraph",
+          "signature": "Edge -\u003e Hubigraph EdgeID",
+          "source": "src/Graphics-Ubigraph.html#newEdge",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph",
+          "module": "Graphics.Ubigraph",
+          "name": "newEdge",
+          "normalized": "Edge-\u003eHubigraph EdgeID",
+          "package": "hubigraph",
+          "partial": "Edge",
+          "signature": "Edge-\u003eHubigraph EdgeID",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph.html#v:newEdge"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph",
+          "name": "newEdgeWithID",
+          "package": "hubigraph",
+          "signature": "EdgeID -\u003e Edge -\u003e Hubigraph Bool",
+          "source": "src/Graphics-Ubigraph.html#newEdgeWithID",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph",
+          "module": "Graphics.Ubigraph",
+          "name": "newEdgeWithID",
+          "normalized": "EdgeID-\u003eEdge-\u003eHubigraph Bool",
+          "package": "hubigraph",
+          "partial": "Edge With ID",
+          "signature": "EdgeID-\u003eEdge-\u003eHubigraph Bool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph.html#v:newEdgeWithID"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph",
+          "name": "newVertex",
+          "package": "hubigraph",
+          "signature": "Hubigraph VertexID",
+          "source": "src/Graphics-Ubigraph.html#newVertex",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph",
+          "module": "Graphics.Ubigraph",
+          "name": "newVertex",
+          "package": "hubigraph",
+          "partial": "Vertex",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph.html#v:newVertex"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph",
+          "name": "newVertexWithID",
+          "package": "hubigraph",
+          "signature": "VertexID -\u003e Hubigraph Bool",
+          "source": "src/Graphics-Ubigraph.html#newVertexWithID",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph",
+          "module": "Graphics.Ubigraph",
+          "name": "newVertexWithID",
+          "normalized": "VertexID-\u003eHubigraph Bool",
+          "package": "hubigraph",
+          "partial": "Vertex With ID",
+          "signature": "VertexID-\u003eHubigraph Bool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph.html#v:newVertexWithID"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph",
+          "name": "removeEdge",
+          "package": "hubigraph",
+          "signature": "EdgeID -\u003e Hubigraph Bool",
+          "source": "src/Graphics-Ubigraph.html#removeEdge",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph",
+          "module": "Graphics.Ubigraph",
+          "name": "removeEdge",
+          "normalized": "EdgeID-\u003eHubigraph Bool",
+          "package": "hubigraph",
+          "partial": "Edge",
+          "signature": "EdgeID-\u003eHubigraph Bool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph.html#v:removeEdge"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph",
+          "name": "removeVertex",
+          "package": "hubigraph",
+          "signature": "VertexID -\u003e Hubigraph Bool",
+          "source": "src/Graphics-Ubigraph.html#removeVertex",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph",
+          "module": "Graphics.Ubigraph",
+          "name": "removeVertex",
+          "normalized": "VertexID-\u003eHubigraph Bool",
+          "package": "hubigraph",
+          "partial": "Vertex",
+          "signature": "VertexID-\u003eHubigraph Bool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph.html#v:removeVertex"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph",
+          "name": "setEAttr",
+          "package": "hubigraph",
+          "signature": "EAttr -\u003e EdgeID -\u003e Hubigraph Bool",
+          "source": "src/Graphics-Ubigraph.html#setEAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph",
+          "module": "Graphics.Ubigraph",
+          "name": "setEAttr",
+          "normalized": "EAttr-\u003eEdgeID-\u003eHubigraph Bool",
+          "package": "hubigraph",
+          "partial": "EAttr",
+          "signature": "EAttr-\u003eEdgeID-\u003eHubigraph Bool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph.html#v:setEAttr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Ubigraph",
+          "name": "setVAttr",
+          "package": "hubigraph",
+          "signature": "VAttr -\u003e VertexID -\u003e Hubigraph Bool",
+          "source": "src/Graphics-Ubigraph.html#setVAttr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Ubigraph",
+          "module": "Graphics.Ubigraph",
+          "name": "setVAttr",
+          "normalized": "VAttr-\u003eVertexID-\u003eHubigraph Bool",
+          "package": "hubigraph",
+          "partial": "VAttr",
+          "signature": "VAttr-\u003eVertexID-\u003eHubigraph Bool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hubigraph/docs/Graphics-Ubigraph.html#v:setVAttr"
+      }
+    }
+  ]
 ]

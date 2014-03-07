@@ -1,338 +1,330 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/json-enumerator/docs/Text-JSON-Enumerator.html#",
-      "description": {
-        "fct-module": "Text.JSON.Enumerator",
-        "fct-package": "json-enumerator",
-        "fct-signature": "module",
-        "fct-source": "src/Text-JSON-Enumerator.html",
-        "fct-type": "module",
-        "title": "Enumerator"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "json-enumerator"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Text JSON Enumerator",
-        "module": "Text.JSON.Enumerator",
-        "name": "Enumerator",
-        "normalized": "",
-        "package": "json-enumerator",
-        "partial": "Enumerator",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/json-enumerator/docs/Text-JSON-Enumerator.html#t:JsonException",
-      "description": {
-        "fct-module": "Text.JSON.Enumerator",
-        "fct-package": "json-enumerator",
-        "fct-signature": "data",
-        "fct-source": "src/Text-JSON-Enumerator.html#JsonException",
-        "fct-type": "data",
-        "title": "JsonException"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text JSON Enumerator",
-        "module": "Text.JSON.Enumerator",
-        "name": "JsonException",
-        "normalized": "",
-        "package": "json-enumerator",
-        "partial": "Json Exception",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.JSON.Enumerator",
+          "name": "Enumerator",
+          "package": "json-enumerator",
+          "source": "src/Text-JSON-Enumerator.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Text JSON Enumerator",
+          "module": "Text.JSON.Enumerator",
+          "name": "Enumerator",
+          "package": "json-enumerator",
+          "partial": "Enumerator",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/json-enumerator/docs/Text-JSON-Enumerator.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.JSON.Enumerator",
+          "name": "JsonException",
+          "package": "json-enumerator",
+          "source": "src/Text-JSON-Enumerator.html#JsonException",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Text JSON Enumerator",
+          "module": "Text.JSON.Enumerator",
+          "name": "JsonException",
+          "package": "json-enumerator",
+          "partial": "Json Exception",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/json-enumerator/docs/Text-JSON-Enumerator.html#t:JsonException"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.JSON.Enumerator",
+          "name": "ExpectedAttributeName",
+          "package": "json-enumerator",
+          "signature": "ExpectedAttributeName GState",
+          "source": "src/Text-JSON-Enumerator.html#JsonException",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text JSON Enumerator",
+          "module": "Text.JSON.Enumerator",
+          "name": "ExpectedAttributeName",
+          "package": "json-enumerator",
+          "partial": "Expected Attribute Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/json-enumerator/docs/Text-JSON-Enumerator.html#v:ExpectedAttributeName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.JSON.Enumerator",
+          "name": "UnexpectedAttributeName",
+          "package": "json-enumerator",
+          "signature": "UnexpectedAttributeName Text GState",
+          "source": "src/Text-JSON-Enumerator.html#JsonException",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text JSON Enumerator",
+          "module": "Text.JSON.Enumerator",
+          "name": "UnexpectedAttributeName",
+          "package": "json-enumerator",
+          "partial": "Unexpected Attribute Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/json-enumerator/docs/Text-JSON-Enumerator.html#v:UnexpectedAttributeName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.JSON.Enumerator",
+          "name": "UnexpectedEndArray",
+          "package": "json-enumerator",
+          "signature": "UnexpectedEndArray GState",
+          "source": "src/Text-JSON-Enumerator.html#JsonException",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text JSON Enumerator",
+          "module": "Text.JSON.Enumerator",
+          "name": "UnexpectedEndArray",
+          "package": "json-enumerator",
+          "partial": "Unexpected End Array",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/json-enumerator/docs/Text-JSON-Enumerator.html#v:UnexpectedEndArray"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.JSON.Enumerator",
+          "name": "UnexpectedEndObject",
+          "package": "json-enumerator",
+          "signature": "UnexpectedEndObject GState",
+          "source": "src/Text-JSON-Enumerator.html#JsonException",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text JSON Enumerator",
+          "module": "Text.JSON.Enumerator",
+          "name": "UnexpectedEndObject",
+          "package": "json-enumerator",
+          "partial": "Unexpected End Object",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/json-enumerator/docs/Text-JSON-Enumerator.html#v:UnexpectedEndObject"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.JSON.Enumerator",
+          "name": "renderAtom",
+          "package": "json-enumerator",
+          "signature": "Atom -\u003e Builder",
+          "source": "src/Text-JSON-Enumerator.html#renderAtom",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text JSON Enumerator",
+          "module": "Text.JSON.Enumerator",
+          "name": "renderAtom",
+          "normalized": "Atom-\u003eBuilder",
+          "package": "json-enumerator",
+          "partial": "Atom",
+          "signature": "Atom-\u003eBuilder",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/json-enumerator/docs/Text-JSON-Enumerator.html#v:renderAtom"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.JSON.Enumerator",
+          "name": "renderEvents",
+          "package": "json-enumerator",
+          "signature": "Enumeratee Event Builder m b",
+          "source": "src/Text-JSON-Enumerator.html#renderEvents",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text JSON Enumerator",
+          "module": "Text.JSON.Enumerator",
+          "name": "renderEvents",
+          "package": "json-enumerator",
+          "partial": "Events",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/json-enumerator/docs/Text-JSON-Enumerator.html#v:renderEvents"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.JSON.Enumerator",
+          "name": "renderEventsToBytes",
+          "package": "json-enumerator",
+          "signature": "Enumeratee Event ByteString m b",
+          "source": "src/Text-JSON-Enumerator.html#renderEventsToBytes",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text JSON Enumerator",
+          "module": "Text.JSON.Enumerator",
+          "name": "renderEventsToBytes",
+          "package": "json-enumerator",
+          "partial": "Events To Bytes",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/json-enumerator/docs/Text-JSON-Enumerator.html#v:renderEventsToBytes"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.JSON.Enumerator",
+          "name": "renderValue",
+          "package": "json-enumerator",
+          "signature": "Value -\u003e Builder",
+          "source": "src/Text-JSON-Enumerator.html#renderValue",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text JSON Enumerator",
+          "module": "Text.JSON.Enumerator",
+          "name": "renderValue",
+          "normalized": "Value-\u003eBuilder",
+          "package": "json-enumerator",
+          "partial": "Value",
+          "signature": "Value-\u003eBuilder",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/json-enumerator/docs/Text-JSON-Enumerator.html#v:renderValue"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.JSON.ToJson",
+          "name": "ToJson",
+          "package": "json-enumerator",
+          "source": "src/Text-JSON-ToJson.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Text JSON ToJson",
+          "module": "Text.JSON.ToJson",
+          "name": "ToJson",
+          "package": "json-enumerator",
+          "partial": "To Json",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/json-enumerator/docs/Text-JSON-ToJson.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.JSON.ToJson",
+          "name": "ToJson",
+          "package": "json-enumerator",
+          "source": "src/Text-JSON-ToJson.html#ToJson",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Text JSON ToJson",
+          "module": "Text.JSON.ToJson",
+          "name": "ToJson",
+          "package": "json-enumerator",
+          "partial": "To Json",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/json-enumerator/docs/Text-JSON-ToJson.html#t:ToJson"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.JSON.ToJson",
+          "name": "toJson",
+          "package": "json-enumerator",
+          "signature": "a -\u003e Value",
+          "source": "src/Text-JSON-ToJson.html#toJson",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Text JSON ToJson",
+          "module": "Text.JSON.ToJson",
+          "name": "toJson",
+          "normalized": "a-\u003eValue",
+          "package": "json-enumerator",
+          "partial": "Json",
+          "signature": "a-\u003eValue",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/json-enumerator/docs/Text-JSON-ToJson.html#v:toJson"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.JSON.ToJson",
+          "name": "toJsons",
+          "package": "json-enumerator",
+          "signature": "[a] -\u003e Value",
+          "source": "src/Text-JSON-ToJson.html#toJsons",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Text JSON ToJson",
+          "module": "Text.JSON.ToJson",
+          "name": "toJsons",
+          "normalized": "[a]-\u003eValue",
+          "package": "json-enumerator",
+          "partial": "Jsons",
+          "signature": "[a]-\u003eValue",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/json-enumerator/docs/Text-JSON-ToJson.html#v:toJsons"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/json-enumerator/docs/Text-JSON-Enumerator.html#v:ExpectedAttributeName",
-      "description": {
-        "fct-module": "Text.JSON.Enumerator",
-        "fct-package": "json-enumerator",
-        "fct-signature": "ExpectedAttributeName GState",
-        "fct-source": "src/Text-JSON-Enumerator.html#JsonException",
-        "fct-type": "function",
-        "title": "ExpectedAttributeName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text JSON Enumerator",
-        "module": "Text.JSON.Enumerator",
-        "name": "ExpectedAttributeName",
-        "normalized": "",
-        "package": "json-enumerator",
-        "partial": "Expected Attribute Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/json-enumerator/docs/Text-JSON-Enumerator.html#v:UnexpectedAttributeName",
-      "description": {
-        "fct-module": "Text.JSON.Enumerator",
-        "fct-package": "json-enumerator",
-        "fct-signature": "UnexpectedAttributeName Text GState",
-        "fct-source": "src/Text-JSON-Enumerator.html#JsonException",
-        "fct-type": "function",
-        "title": "UnexpectedAttributeName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text JSON Enumerator",
-        "module": "Text.JSON.Enumerator",
-        "name": "UnexpectedAttributeName",
-        "normalized": "",
-        "package": "json-enumerator",
-        "partial": "Unexpected Attribute Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/json-enumerator/docs/Text-JSON-Enumerator.html#v:UnexpectedEndArray",
-      "description": {
-        "fct-module": "Text.JSON.Enumerator",
-        "fct-package": "json-enumerator",
-        "fct-signature": "UnexpectedEndArray GState",
-        "fct-source": "src/Text-JSON-Enumerator.html#JsonException",
-        "fct-type": "function",
-        "title": "UnexpectedEndArray"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text JSON Enumerator",
-        "module": "Text.JSON.Enumerator",
-        "name": "UnexpectedEndArray",
-        "normalized": "",
-        "package": "json-enumerator",
-        "partial": "Unexpected End Array",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/json-enumerator/docs/Text-JSON-Enumerator.html#v:UnexpectedEndObject",
-      "description": {
-        "fct-module": "Text.JSON.Enumerator",
-        "fct-package": "json-enumerator",
-        "fct-signature": "UnexpectedEndObject GState",
-        "fct-source": "src/Text-JSON-Enumerator.html#JsonException",
-        "fct-type": "function",
-        "title": "UnexpectedEndObject"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text JSON Enumerator",
-        "module": "Text.JSON.Enumerator",
-        "name": "UnexpectedEndObject",
-        "normalized": "",
-        "package": "json-enumerator",
-        "partial": "Unexpected End Object",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/json-enumerator/docs/Text-JSON-Enumerator.html#v:renderAtom",
-      "description": {
-        "fct-module": "Text.JSON.Enumerator",
-        "fct-package": "json-enumerator",
-        "fct-signature": "Atom -\u003e Builder",
-        "fct-source": "src/Text-JSON-Enumerator.html#renderAtom",
-        "fct-type": "function",
-        "title": "renderAtom"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text JSON Enumerator",
-        "module": "Text.JSON.Enumerator",
-        "name": "renderAtom",
-        "normalized": "Atom-\u003eBuilder",
-        "package": "json-enumerator",
-        "partial": "Atom",
-        "signature": "Atom-\u003eBuilder"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/json-enumerator/docs/Text-JSON-Enumerator.html#v:renderEvents",
-      "description": {
-        "fct-module": "Text.JSON.Enumerator",
-        "fct-package": "json-enumerator",
-        "fct-signature": "Enumeratee Event Builder m b",
-        "fct-source": "src/Text-JSON-Enumerator.html#renderEvents",
-        "fct-type": "function",
-        "title": "renderEvents"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text JSON Enumerator",
-        "module": "Text.JSON.Enumerator",
-        "name": "renderEvents",
-        "normalized": "",
-        "package": "json-enumerator",
-        "partial": "Events",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/json-enumerator/docs/Text-JSON-Enumerator.html#v:renderEventsToBytes",
-      "description": {
-        "fct-module": "Text.JSON.Enumerator",
-        "fct-package": "json-enumerator",
-        "fct-signature": "Enumeratee Event ByteString m b",
-        "fct-source": "src/Text-JSON-Enumerator.html#renderEventsToBytes",
-        "fct-type": "function",
-        "title": "renderEventsToBytes"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text JSON Enumerator",
-        "module": "Text.JSON.Enumerator",
-        "name": "renderEventsToBytes",
-        "normalized": "",
-        "package": "json-enumerator",
-        "partial": "Events To Bytes",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/json-enumerator/docs/Text-JSON-Enumerator.html#v:renderValue",
-      "description": {
-        "fct-module": "Text.JSON.Enumerator",
-        "fct-package": "json-enumerator",
-        "fct-signature": "Value -\u003e Builder",
-        "fct-source": "src/Text-JSON-Enumerator.html#renderValue",
-        "fct-type": "function",
-        "title": "renderValue"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text JSON Enumerator",
-        "module": "Text.JSON.Enumerator",
-        "name": "renderValue",
-        "normalized": "Value-\u003eBuilder",
-        "package": "json-enumerator",
-        "partial": "Value",
-        "signature": "Value-\u003eBuilder"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/json-enumerator/docs/Text-JSON-ToJson.html#",
-      "description": {
-        "fct-module": "Text.JSON.ToJson",
-        "fct-package": "json-enumerator",
-        "fct-signature": "module",
-        "fct-source": "src/Text-JSON-ToJson.html",
-        "fct-type": "module",
-        "title": "ToJson"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text JSON ToJson",
-        "module": "Text.JSON.ToJson",
-        "name": "ToJson",
-        "normalized": "",
-        "package": "json-enumerator",
-        "partial": "To Json",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/json-enumerator/docs/Text-JSON-ToJson.html#t:ToJson",
-      "description": {
-        "fct-module": "Text.JSON.ToJson",
-        "fct-package": "json-enumerator",
-        "fct-signature": "class",
-        "fct-source": "src/Text-JSON-ToJson.html#ToJson",
-        "fct-type": "class",
-        "title": "ToJson"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text JSON ToJson",
-        "module": "Text.JSON.ToJson",
-        "name": "ToJson",
-        "normalized": "",
-        "package": "json-enumerator",
-        "partial": "To Json",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/json-enumerator/docs/Text-JSON-ToJson.html#v:toJson",
-      "description": {
-        "fct-module": "Text.JSON.ToJson",
-        "fct-package": "json-enumerator",
-        "fct-signature": "a -\u003e Value",
-        "fct-source": "src/Text-JSON-ToJson.html#toJson",
-        "fct-type": "method",
-        "title": "toJson"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text JSON ToJson",
-        "module": "Text.JSON.ToJson",
-        "name": "toJson",
-        "normalized": "a-\u003eValue",
-        "package": "json-enumerator",
-        "partial": "Json",
-        "signature": "a-\u003eValue"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/json-enumerator/docs/Text-JSON-ToJson.html#v:toJsons",
-      "description": {
-        "fct-module": "Text.JSON.ToJson",
-        "fct-package": "json-enumerator",
-        "fct-signature": "[a] -\u003e Value",
-        "fct-source": "src/Text-JSON-ToJson.html#toJsons",
-        "fct-type": "method",
-        "title": "toJsons"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text JSON ToJson",
-        "module": "Text.JSON.ToJson",
-        "name": "toJsons",
-        "normalized": "[a]-\u003eValue",
-        "package": "json-enumerator",
-        "partial": "Jsons",
-        "signature": "[a]-\u003eValue"
-      }
-    }
-  }
+  ]
 ]

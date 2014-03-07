@@ -1,50 +1,63 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ac-machine-conduit/docs/Data-AhoCorasick-Conduit.html#",
-      "description": {
-        "fct-module": "Data.AhoCorasick.Conduit",
-        "fct-package": "ac-machine-conduit",
-        "fct-signature": "module",
-        "fct-source": "src/Data-AhoCorasick-Conduit.html",
-        "fct-type": "module",
-        "title": "Conduit"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "ac-machine-conduit"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Data AhoCorasick Conduit",
-        "module": "Data.AhoCorasick.Conduit",
-        "name": "Conduit",
-        "normalized": "",
-        "package": "ac-machine-conduit",
-        "partial": "Conduit",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ac-machine-conduit/docs/Data-AhoCorasick-Conduit.html#v:conduitACMachineText",
-      "description": {
-        "fct-module": "Data.AhoCorasick.Conduit",
-        "fct-package": "ac-machine-conduit",
-        "fct-signature": "ACMachine Char v -\u003e Conduit Text m (Match v)",
-        "fct-source": "src/Data-AhoCorasick-Conduit.html#conduitACMachineText",
-        "fct-type": "function",
-        "title": "conduitACMachineText"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data AhoCorasick Conduit",
-        "module": "Data.AhoCorasick.Conduit",
-        "name": "conduitACMachineText",
-        "normalized": "ACMachine Char a-\u003eConduit Text b(Match a)",
-        "package": "ac-machine-conduit",
-        "partial": "ACMachine Text",
-        "signature": "ACMachine Char v-\u003eConduit Text m(Match v)"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.AhoCorasick.Conduit",
+          "name": "Conduit",
+          "package": "ac-machine-conduit",
+          "source": "src/Data-AhoCorasick-Conduit.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data AhoCorasick Conduit",
+          "module": "Data.AhoCorasick.Conduit",
+          "name": "Conduit",
+          "package": "ac-machine-conduit",
+          "partial": "Conduit",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/ac-machine-conduit/docs/Data-AhoCorasick-Conduit.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.AhoCorasick.Conduit",
+          "name": "conduitACMachineText",
+          "package": "ac-machine-conduit",
+          "signature": "ACMachine Char v -\u003e Conduit Text m (Match v)",
+          "source": "src/Data-AhoCorasick-Conduit.html#conduitACMachineText",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data AhoCorasick Conduit",
+          "module": "Data.AhoCorasick.Conduit",
+          "name": "conduitACMachineText",
+          "normalized": "ACMachine Char a-\u003eConduit Text b(Match a)",
+          "package": "ac-machine-conduit",
+          "partial": "ACMachine Text",
+          "signature": "ACMachine Char v-\u003eConduit Text m(Match v)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ac-machine-conduit/docs/Data-AhoCorasick-Conduit.html#v:conduitACMachineText"
       }
     }
-  }
+  ]
 ]

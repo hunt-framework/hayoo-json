@@ -1,237 +1,231 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-dispatch/docs/Network-Wai-Dispatch.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eSimple module to wrap yesod-routes for use with WAI\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Network.Wai.Dispatch",
-        "fct-package": "wai-dispatch",
-        "fct-signature": "module",
-        "fct-source": "src/Network-Wai-Dispatch.html",
-        "fct-type": "module",
-        "title": "Dispatch"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "wai-dispatch"
       },
-      "index": {
-        "description": "Simple module to wrap yesod-routes for use with WAI",
-        "hierarchy": "Network Wai Dispatch",
-        "module": "Network.Wai.Dispatch",
-        "name": "Dispatch",
-        "normalized": "",
-        "package": "wai-dispatch",
-        "partial": "Dispatch",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-dispatch/docs/Network-Wai-Dispatch.html#t:Piece",
-      "description": {
-        "fct-module": "Network.Wai.Dispatch",
-        "fct-package": "wai-dispatch",
-        "fct-signature": "data",
-        "fct-type": "data",
-        "title": "Piece"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Wai Dispatch",
-        "module": "Network.Wai.Dispatch",
-        "name": "Piece",
-        "normalized": "",
-        "package": "wai-dispatch",
-        "partial": "Piece",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eSimple module to wrap yesod-routes for use with WAI\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Network.Wai.Dispatch",
+          "name": "Dispatch",
+          "package": "wai-dispatch",
+          "source": "src/Network-Wai-Dispatch.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "Simple module to wrap yesod-routes for use with WAI",
+          "hierarchy": "Network Wai Dispatch",
+          "module": "Network.Wai.Dispatch",
+          "name": "Dispatch",
+          "package": "wai-dispatch",
+          "partial": "Dispatch",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-dispatch/docs/Network-Wai-Dispatch.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Wai.Dispatch",
+          "name": "Piece",
+          "package": "wai-dispatch",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Network Wai Dispatch",
+          "module": "Network.Wai.Dispatch",
+          "name": "Piece",
+          "package": "wai-dispatch",
+          "partial": "Piece",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-dispatch/docs/Network-Wai-Dispatch.html#t:Piece"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Wai.Dispatch",
+          "name": "Route",
+          "package": "wai-dispatch",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Network Wai Dispatch",
+          "module": "Network.Wai.Dispatch",
+          "name": "Route",
+          "package": "wai-dispatch",
+          "partial": "Route",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-dispatch/docs/Network-Wai-Dispatch.html#t:Route"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Wai.Dispatch",
+          "name": "Dynamic",
+          "package": "wai-dispatch",
+          "signature": "Dynamic",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network Wai Dispatch",
+          "module": "Network.Wai.Dispatch",
+          "name": "Dynamic",
+          "package": "wai-dispatch",
+          "partial": "Dynamic",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-dispatch/docs/Network-Wai-Dispatch.html#v:Dynamic"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Wai.Dispatch",
+          "name": "Route",
+          "package": "wai-dispatch",
+          "signature": "Route",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network Wai Dispatch",
+          "module": "Network.Wai.Dispatch",
+          "name": "Route",
+          "package": "wai-dispatch",
+          "partial": "Route",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-dispatch/docs/Network-Wai-Dispatch.html#v:Route"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Wai.Dispatch",
+          "name": "Static",
+          "package": "wai-dispatch",
+          "signature": "Static Text",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network Wai Dispatch",
+          "module": "Network.Wai.Dispatch",
+          "name": "Static",
+          "package": "wai-dispatch",
+          "partial": "Static",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-dispatch/docs/Network-Wai-Dispatch.html#v:Static"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Wai.Dispatch",
+          "name": "dispatch",
+          "package": "wai-dispatch",
+          "signature": "Application-\u003e [Route Application]-\u003e Application",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network Wai Dispatch",
+          "module": "Network.Wai.Dispatch",
+          "name": "dispatch",
+          "normalized": "Application-\u003e[Route Application]-\u003eApplication",
+          "package": "wai-dispatch",
+          "signature": "Application-\u003e[Route Application]-\u003eApplication",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-dispatch/docs/Network-Wai-Dispatch.html#v:dispatch"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Wai.Dispatch",
+          "name": "rhDispatch",
+          "package": "wai-dispatch",
+          "signature": "Dispatch res",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network Wai Dispatch",
+          "module": "Network.Wai.Dispatch",
+          "name": "rhDispatch",
+          "package": "wai-dispatch",
+          "partial": "Dispatch",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-dispatch/docs/Network-Wai-Dispatch.html#v:rhDispatch"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Wai.Dispatch",
+          "name": "rhHasMulti",
+          "package": "wai-dispatch",
+          "signature": "Bool",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network Wai Dispatch",
+          "module": "Network.Wai.Dispatch",
+          "name": "rhHasMulti",
+          "package": "wai-dispatch",
+          "partial": "Has Multi",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-dispatch/docs/Network-Wai-Dispatch.html#v:rhHasMulti"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Wai.Dispatch",
+          "name": "rhPieces",
+          "package": "wai-dispatch",
+          "signature": "[Piece]",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network Wai Dispatch",
+          "module": "Network.Wai.Dispatch",
+          "name": "rhPieces",
+          "normalized": "[Piece]",
+          "package": "wai-dispatch",
+          "partial": "Pieces",
+          "signature": "[Piece]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-dispatch/docs/Network-Wai-Dispatch.html#v:rhPieces"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-dispatch/docs/Network-Wai-Dispatch.html#t:Route",
-      "description": {
-        "fct-module": "Network.Wai.Dispatch",
-        "fct-package": "wai-dispatch",
-        "fct-signature": "data",
-        "fct-type": "data",
-        "title": "Route"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Wai Dispatch",
-        "module": "Network.Wai.Dispatch",
-        "name": "Route",
-        "normalized": "",
-        "package": "wai-dispatch",
-        "partial": "Route",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-dispatch/docs/Network-Wai-Dispatch.html#v:Dynamic",
-      "description": {
-        "fct-module": "Network.Wai.Dispatch",
-        "fct-package": "wai-dispatch",
-        "fct-signature": "Dynamic",
-        "fct-type": "function",
-        "title": "Dynamic"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Wai Dispatch",
-        "module": "Network.Wai.Dispatch",
-        "name": "Dynamic",
-        "normalized": "",
-        "package": "wai-dispatch",
-        "partial": "Dynamic",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-dispatch/docs/Network-Wai-Dispatch.html#v:Route",
-      "description": {
-        "fct-module": "Network.Wai.Dispatch",
-        "fct-package": "wai-dispatch",
-        "fct-signature": "Route",
-        "fct-type": "function",
-        "title": "Route"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Wai Dispatch",
-        "module": "Network.Wai.Dispatch",
-        "name": "Route",
-        "normalized": "",
-        "package": "wai-dispatch",
-        "partial": "Route",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-dispatch/docs/Network-Wai-Dispatch.html#v:Static",
-      "description": {
-        "fct-module": "Network.Wai.Dispatch",
-        "fct-package": "wai-dispatch",
-        "fct-signature": "Static Text",
-        "fct-type": "function",
-        "title": "Static"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Wai Dispatch",
-        "module": "Network.Wai.Dispatch",
-        "name": "Static",
-        "normalized": "",
-        "package": "wai-dispatch",
-        "partial": "Static",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-dispatch/docs/Network-Wai-Dispatch.html#v:dispatch",
-      "description": {
-        "fct-module": "Network.Wai.Dispatch",
-        "fct-package": "wai-dispatch",
-        "fct-signature": "Application-\u003e [Route Application]-\u003e Application",
-        "fct-type": "function",
-        "title": "dispatch"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Wai Dispatch",
-        "module": "Network.Wai.Dispatch",
-        "name": "dispatch",
-        "normalized": "Application-\u003e[Route Application]-\u003eApplication",
-        "package": "wai-dispatch",
-        "partial": "",
-        "signature": "Application-\u003e[Route Application]-\u003eApplication"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-dispatch/docs/Network-Wai-Dispatch.html#v:rhDispatch",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.Wai.Dispatch",
-        "fct-package": "wai-dispatch",
-        "fct-signature": "Dispatch res",
-        "fct-type": "function",
-        "title": "rhDispatch"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Wai Dispatch",
-        "module": "Network.Wai.Dispatch",
-        "name": "rhDispatch",
-        "normalized": "",
-        "package": "wai-dispatch",
-        "partial": "Dispatch",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-dispatch/docs/Network-Wai-Dispatch.html#v:rhHasMulti",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.Wai.Dispatch",
-        "fct-package": "wai-dispatch",
-        "fct-signature": "Bool",
-        "fct-type": "function",
-        "title": "rhHasMulti"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Wai Dispatch",
-        "module": "Network.Wai.Dispatch",
-        "name": "rhHasMulti",
-        "normalized": "",
-        "package": "wai-dispatch",
-        "partial": "Has Multi",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-dispatch/docs/Network-Wai-Dispatch.html#v:rhPieces",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.Wai.Dispatch",
-        "fct-package": "wai-dispatch",
-        "fct-signature": "[Piece]",
-        "fct-type": "function",
-        "title": "rhPieces"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Wai Dispatch",
-        "module": "Network.Wai.Dispatch",
-        "name": "rhPieces",
-        "normalized": "[Piece]",
-        "package": "wai-dispatch",
-        "partial": "Pieces",
-        "signature": "[Piece]"
-      }
-    }
-  }
+  ]
 ]

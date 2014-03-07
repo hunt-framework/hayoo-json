@@ -1,1107 +1,1032 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "module",
-        "fct-source": "src/Text-NME.html",
-        "fct-type": "module",
-        "title": "NME"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "nme"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "NME",
-        "normalized": "",
-        "package": "nme",
-        "partial": "NME",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#t:Err",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "newtype",
-        "fct-source": "src/Text-NME.html#Err",
-        "fct-type": "newtype",
-        "title": "Err"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "Err",
-        "normalized": "",
-        "package": "nme",
-        "partial": "Err",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "NME",
+          "package": "nme",
+          "source": "src/Text-NME.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "NME",
+          "package": "nme",
+          "partial": "NME",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "Err",
+          "package": "nme",
+          "source": "src/Text-NME.html#Err",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "Err",
+          "package": "nme",
+          "partial": "Err",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#t:Err"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "OutputFormat",
+          "package": "nme",
+          "source": "src/Text-NME.html#OutputFormat",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "OutputFormat",
+          "package": "nme",
+          "partial": "Output Format",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#t:OutputFormat"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "ProcessOpt",
+          "package": "nme",
+          "source": "src/Text-NME.html#ProcessOpt",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "ProcessOpt",
+          "package": "nme",
+          "partial": "Process Opt",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#t:ProcessOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "Err",
+          "package": "nme",
+          "signature": "Err CInt",
+          "source": "src/Text-NME.html#Err",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "Err",
+          "package": "nme",
+          "partial": "Err",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:Err"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "OutputFormat",
+          "package": "nme",
+          "signature": "OutputFormat (Ptr OutputFormat)",
+          "source": "src/Text-NME.html#OutputFormat",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "OutputFormat",
+          "package": "nme",
+          "partial": "Output Format",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:OutputFormat"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "ProcessOpt",
+          "package": "nme",
+          "signature": "ProcessOpt CInt",
+          "source": "src/Text-NME.html#ProcessOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "ProcessOpt",
+          "package": "nme",
+          "partial": "Process Opt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:ProcessOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "c_nmeProcess",
+          "package": "nme",
+          "signature": "CString -\u003e CInt -\u003e CString -\u003e CInt -\u003e CInt -\u003e CString -\u003e Ptr OutputFormat -\u003e CInt -\u003e Ptr CString -\u003e Ptr CInt -\u003e Ptr CInt -\u003e IO Err",
+          "source": "src/Text-NME.html#c_nmeProcess",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "c_nmeProcess",
+          "normalized": "CString-\u003eCInt-\u003eCString-\u003eCInt-\u003eCInt-\u003eCString-\u003ePtr OutputFormat-\u003eCInt-\u003ePtr CString-\u003ePtr CInt-\u003ePtr CInt-\u003eIO Err",
+          "package": "nme",
+          "partial": "Process",
+          "signature": "CString-\u003eCInt-\u003eCString-\u003eCInt-\u003eCInt-\u003eCString-\u003ePtr OutputFormat-\u003eCInt-\u003ePtr CString-\u003ePtr CInt-\u003ePtr CInt-\u003eIO Err",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:c_nmeProcess"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "io_process",
+          "package": "nme",
+          "signature": "String -\u003e [ProcessOpt] -\u003e String -\u003e Ptr OutputFormat -\u003e Int -\u003e IO (Either Err String)",
+          "source": "src/Text-NME.html#io_process",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "io_process",
+          "normalized": "String-\u003e[ProcessOpt]-\u003eString-\u003ePtr OutputFormat-\u003eInt-\u003eIO(Either Err String)",
+          "package": "nme",
+          "signature": "String-\u003e[ProcessOpt]-\u003eString-\u003ePtr OutputFormat-\u003eInt-\u003eIO(Either Err String)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:io_process"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "kNMEErr1stNMEOpt",
+          "package": "nme",
+          "signature": "Err",
+          "source": "src/Text-NME.html#kNMEErr1stNMEOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "kNMEErr1stNMEOpt",
+          "package": "nme",
+          "partial": "NMEErr NMEOpt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEErr1stNMEOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "kNMEErr1stUser",
+          "package": "nme",
+          "signature": "Err",
+          "source": "src/Text-NME.html#kNMEErr1stUser",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "kNMEErr1stUser",
+          "package": "nme",
+          "partial": "NMEErr User",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEErr1stUser"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "kNMEErrBadMarkup",
+          "package": "nme",
+          "signature": "Err",
+          "source": "src/Text-NME.html#kNMEErrBadMarkup",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "kNMEErrBadMarkup",
+          "package": "nme",
+          "partial": "NMEErr Bad Markup",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEErrBadMarkup"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "kNMEErrInternal",
+          "package": "nme",
+          "signature": "Err",
+          "source": "src/Text-NME.html#kNMEErrInternal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "kNMEErrInternal",
+          "package": "nme",
+          "partial": "NMEErr Internal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEErrInternal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "kNMEErrNotEnoughMemory",
+          "package": "nme",
+          "signature": "Err",
+          "source": "src/Text-NME.html#kNMEErrNotEnoughMemory",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "kNMEErrNotEnoughMemory",
+          "package": "nme",
+          "partial": "NMEErr Not Enough Memory",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEErrNotEnoughMemory"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "kNMEErrOk",
+          "package": "nme",
+          "signature": "Err",
+          "source": "src/Text-NME.html#kNMEErrOk",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "kNMEErrOk",
+          "package": "nme",
+          "partial": "NMEErr Ok",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEErrOk"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "kNMEProcessOptDefault",
+          "package": "nme",
+          "signature": "ProcessOpt",
+          "source": "src/Text-NME.html#kNMEProcessOptDefault",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "kNMEProcessOptDefault",
+          "package": "nme",
+          "partial": "NMEProcess Opt Default",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptDefault"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "kNMEProcessOptH1Num",
+          "package": "nme",
+          "signature": "ProcessOpt",
+          "source": "src/Text-NME.html#kNMEProcessOptH1Num",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "kNMEProcessOptH1Num",
+          "package": "nme",
+          "partial": "NMEProcess Opt Num",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptH1Num"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "kNMEProcessOptH2Num",
+          "package": "nme",
+          "signature": "ProcessOpt",
+          "source": "src/Text-NME.html#kNMEProcessOptH2Num",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "kNMEProcessOptH2Num",
+          "package": "nme",
+          "partial": "NMEProcess Opt Num",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptH2Num"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoBold",
+          "package": "nme",
+          "signature": "ProcessOpt",
+          "source": "src/Text-NME.html#kNMEProcessOptNoBold",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoBold",
+          "package": "nme",
+          "partial": "NMEProcess Opt No Bold",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoBold"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoDL",
+          "package": "nme",
+          "signature": "ProcessOpt",
+          "source": "src/Text-NME.html#kNMEProcessOptNoDL",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoDL",
+          "package": "nme",
+          "partial": "NMEProcess Opt No DL",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoDL"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoEscape",
+          "package": "nme",
+          "signature": "ProcessOpt",
+          "source": "src/Text-NME.html#kNMEProcessOptNoEscape",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoEscape",
+          "package": "nme",
+          "partial": "NMEProcess Opt No Escape",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoEscape"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoH1",
+          "package": "nme",
+          "signature": "ProcessOpt",
+          "source": "src/Text-NME.html#kNMEProcessOptNoH1",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoH1",
+          "package": "nme",
+          "partial": "NMEProcess Opt No",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoH1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoHRule",
+          "package": "nme",
+          "signature": "ProcessOpt",
+          "source": "src/Text-NME.html#kNMEProcessOptNoHRule",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoHRule",
+          "package": "nme",
+          "partial": "NMEProcess Opt No HRule",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoHRule"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoImage",
+          "package": "nme",
+          "signature": "ProcessOpt",
+          "source": "src/Text-NME.html#kNMEProcessOptNoImage",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoImage",
+          "package": "nme",
+          "partial": "NMEProcess Opt No Image",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoImage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoIndentedPar",
+          "package": "nme",
+          "signature": "ProcessOpt",
+          "source": "src/Text-NME.html#kNMEProcessOptNoIndentedPar",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoIndentedPar",
+          "package": "nme",
+          "partial": "NMEProcess Opt No Indented Par",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoIndentedPar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoItalic",
+          "package": "nme",
+          "signature": "ProcessOpt",
+          "source": "src/Text-NME.html#kNMEProcessOptNoItalic",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoItalic",
+          "package": "nme",
+          "partial": "NMEProcess Opt No Italic",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoItalic"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoLink",
+          "package": "nme",
+          "signature": "ProcessOpt",
+          "source": "src/Text-NME.html#kNMEProcessOptNoLink",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoLink",
+          "package": "nme",
+          "partial": "NMEProcess Opt No Link",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoLink"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoMonospace",
+          "package": "nme",
+          "signature": "ProcessOpt",
+          "source": "src/Text-NME.html#kNMEProcessOptNoMonospace",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoMonospace",
+          "package": "nme",
+          "partial": "NMEProcess Opt No Monospace",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoMonospace"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoMultilinePar",
+          "package": "nme",
+          "signature": "ProcessOpt",
+          "source": "src/Text-NME.html#kNMEProcessOptNoMultilinePar",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoMultilinePar",
+          "package": "nme",
+          "partial": "NMEProcess Opt No Multiline Par",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoMultilinePar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoPlugin",
+          "package": "nme",
+          "signature": "ProcessOpt",
+          "source": "src/Text-NME.html#kNMEProcessOptNoPlugin",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoPlugin",
+          "package": "nme",
+          "partial": "NMEProcess Opt No Plugin",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoPlugin"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoPreAndPost",
+          "package": "nme",
+          "signature": "ProcessOpt",
+          "source": "src/Text-NME.html#kNMEProcessOptNoPreAndPost",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoPreAndPost",
+          "package": "nme",
+          "partial": "NMEProcess Opt No Pre And Post",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoPreAndPost"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoSubSuperscript",
+          "package": "nme",
+          "signature": "ProcessOpt",
+          "source": "src/Text-NME.html#kNMEProcessOptNoSubSuperscript",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoSubSuperscript",
+          "package": "nme",
+          "partial": "NMEProcess Opt No Sub Superscript",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoSubSuperscript"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoTable",
+          "package": "nme",
+          "signature": "ProcessOpt",
+          "source": "src/Text-NME.html#kNMEProcessOptNoTable",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoTable",
+          "package": "nme",
+          "partial": "NMEProcess Opt No Table",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoTable"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoUnderline",
+          "package": "nme",
+          "signature": "ProcessOpt",
+          "source": "src/Text-NME.html#kNMEProcessOptNoUnderline",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "kNMEProcessOptNoUnderline",
+          "package": "nme",
+          "partial": "NMEProcess Opt No Underline",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoUnderline"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "kNMEProcessOptVerbatimMono",
+          "package": "nme",
+          "signature": "ProcessOpt",
+          "source": "src/Text-NME.html#kNMEProcessOptVerbatimMono",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "kNMEProcessOptVerbatimMono",
+          "package": "nme",
+          "partial": "NMEProcess Opt Verbatim Mono",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptVerbatimMono"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "kNMEProcessOptXRef",
+          "package": "nme",
+          "signature": "ProcessOpt",
+          "source": "src/Text-NME.html#kNMEProcessOptXRef",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "kNMEProcessOptXRef",
+          "package": "nme",
+          "partial": "NMEProcess Opt XRef",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptXRef"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "outputFormatDebug",
+          "package": "nme",
+          "signature": "Ptr OutputFormat",
+          "source": "src/Text-NME.html#outputFormatDebug",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "outputFormatDebug",
+          "package": "nme",
+          "partial": "Format Debug",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:outputFormatDebug"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "outputFormatHTML",
+          "package": "nme",
+          "signature": "Ptr OutputFormat",
+          "source": "src/Text-NME.html#outputFormatHTML",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "outputFormatHTML",
+          "package": "nme",
+          "partial": "Format HTML",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:outputFormatHTML"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "outputFormatLaTeX",
+          "package": "nme",
+          "signature": "Ptr OutputFormat",
+          "source": "src/Text-NME.html#outputFormatLaTeX",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "outputFormatLaTeX",
+          "package": "nme",
+          "partial": "Format La Te",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:outputFormatLaTeX"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "outputFormatMan",
+          "package": "nme",
+          "signature": "Ptr OutputFormat",
+          "source": "src/Text-NME.html#outputFormatMan",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "outputFormatMan",
+          "package": "nme",
+          "partial": "Format Man",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:outputFormatMan"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "outputFormatNME",
+          "package": "nme",
+          "signature": "Ptr OutputFormat",
+          "source": "src/Text-NME.html#outputFormatNME",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "outputFormatNME",
+          "package": "nme",
+          "partial": "Format NME",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:outputFormatNME"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "outputFormatNull",
+          "package": "nme",
+          "signature": "Ptr OutputFormat",
+          "source": "src/Text-NME.html#outputFormatNull",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "outputFormatNull",
+          "package": "nme",
+          "partial": "Format Null",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:outputFormatNull"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "outputFormatRTF",
+          "package": "nme",
+          "signature": "Ptr OutputFormat",
+          "source": "src/Text-NME.html#outputFormatRTF",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "outputFormatRTF",
+          "package": "nme",
+          "partial": "Format RTF",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:outputFormatRTF"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "outputFormatText",
+          "package": "nme",
+          "signature": "Ptr OutputFormat",
+          "source": "src/Text-NME.html#outputFormatText",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "outputFormatText",
+          "package": "nme",
+          "partial": "Format Text",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:outputFormatText"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.NME",
+          "name": "outputFormatTextCompact",
+          "package": "nme",
+          "signature": "Ptr OutputFormat",
+          "source": "src/Text-NME.html#outputFormatTextCompact",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "outputFormatTextCompact",
+          "package": "nme",
+          "partial": "Format Text Compact",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:outputFormatTextCompact"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eTakes a string and options, returns Either an error code or a string\n   in the specified format\n\u003c/p\u003e",
+          "module": "Text.NME",
+          "name": "process",
+          "package": "nme",
+          "signature": "String -\u003e [ProcessOpt] -\u003e String -\u003e Ptr OutputFormat -\u003e Int -\u003e Either Err String",
+          "source": "src/Text-NME.html#process",
+          "type": "function"
+        },
+        "index": {
+          "description": "Takes string and options returns Either an error code or string in the specified format",
+          "hierarchy": "Text NME",
+          "module": "Text.NME",
+          "name": "process",
+          "normalized": "String-\u003e[ProcessOpt]-\u003eString-\u003ePtr OutputFormat-\u003eInt-\u003eEither Err String",
+          "package": "nme",
+          "signature": "String-\u003e[ProcessOpt]-\u003eString-\u003ePtr OutputFormat-\u003eInt-\u003eEither Err String",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:process"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#t:OutputFormat",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "newtype",
-        "fct-source": "src/Text-NME.html#OutputFormat",
-        "fct-type": "newtype",
-        "title": "OutputFormat"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "OutputFormat",
-        "normalized": "",
-        "package": "nme",
-        "partial": "Output Format",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#t:ProcessOpt",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "newtype",
-        "fct-source": "src/Text-NME.html#ProcessOpt",
-        "fct-type": "newtype",
-        "title": "ProcessOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "ProcessOpt",
-        "normalized": "",
-        "package": "nme",
-        "partial": "Process Opt",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:Err",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "Err CInt",
-        "fct-source": "src/Text-NME.html#Err",
-        "fct-type": "function",
-        "title": "Err"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "Err",
-        "normalized": "",
-        "package": "nme",
-        "partial": "Err",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:OutputFormat",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "OutputFormat (Ptr OutputFormat)",
-        "fct-source": "src/Text-NME.html#OutputFormat",
-        "fct-type": "function",
-        "title": "OutputFormat"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "OutputFormat",
-        "normalized": "",
-        "package": "nme",
-        "partial": "Output Format",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:ProcessOpt",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "ProcessOpt CInt",
-        "fct-source": "src/Text-NME.html#ProcessOpt",
-        "fct-type": "function",
-        "title": "ProcessOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "ProcessOpt",
-        "normalized": "",
-        "package": "nme",
-        "partial": "Process Opt",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:c_nmeProcess",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "CString -\u003e CInt -\u003e CString -\u003e CInt -\u003e CInt -\u003e CString -\u003e Ptr OutputFormat -\u003e CInt -\u003e Ptr CString -\u003e Ptr CInt -\u003e Ptr CInt -\u003e IO Err",
-        "fct-source": "src/Text-NME.html#c_nmeProcess",
-        "fct-type": "function",
-        "title": "c_nmeProcess"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "c_nmeProcess",
-        "normalized": "CString-\u003eCInt-\u003eCString-\u003eCInt-\u003eCInt-\u003eCString-\u003ePtr OutputFormat-\u003eCInt-\u003ePtr CString-\u003ePtr CInt-\u003ePtr CInt-\u003eIO Err",
-        "package": "nme",
-        "partial": "Process",
-        "signature": "CString-\u003eCInt-\u003eCString-\u003eCInt-\u003eCInt-\u003eCString-\u003ePtr OutputFormat-\u003eCInt-\u003ePtr CString-\u003ePtr CInt-\u003ePtr CInt-\u003eIO Err"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:io_process",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "String -\u003e [ProcessOpt] -\u003e String -\u003e Ptr OutputFormat -\u003e Int -\u003e IO (Either Err String)",
-        "fct-source": "src/Text-NME.html#io_process",
-        "fct-type": "function",
-        "title": "io_process"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "io_process",
-        "normalized": "String-\u003e[ProcessOpt]-\u003eString-\u003ePtr OutputFormat-\u003eInt-\u003eIO(Either Err String)",
-        "package": "nme",
-        "partial": "",
-        "signature": "String-\u003e[ProcessOpt]-\u003eString-\u003ePtr OutputFormat-\u003eInt-\u003eIO(Either Err String)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEErr1stNMEOpt",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "Err",
-        "fct-source": "src/Text-NME.html#kNMEErr1stNMEOpt",
-        "fct-type": "function",
-        "title": "kNMEErr1stNMEOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "kNMEErr1stNMEOpt",
-        "normalized": "",
-        "package": "nme",
-        "partial": "NMEErr NMEOpt",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEErr1stUser",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "Err",
-        "fct-source": "src/Text-NME.html#kNMEErr1stUser",
-        "fct-type": "function",
-        "title": "kNMEErr1stUser"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "kNMEErr1stUser",
-        "normalized": "",
-        "package": "nme",
-        "partial": "NMEErr User",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEErrBadMarkup",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "Err",
-        "fct-source": "src/Text-NME.html#kNMEErrBadMarkup",
-        "fct-type": "function",
-        "title": "kNMEErrBadMarkup"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "kNMEErrBadMarkup",
-        "normalized": "",
-        "package": "nme",
-        "partial": "NMEErr Bad Markup",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEErrInternal",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "Err",
-        "fct-source": "src/Text-NME.html#kNMEErrInternal",
-        "fct-type": "function",
-        "title": "kNMEErrInternal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "kNMEErrInternal",
-        "normalized": "",
-        "package": "nme",
-        "partial": "NMEErr Internal",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEErrNotEnoughMemory",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "Err",
-        "fct-source": "src/Text-NME.html#kNMEErrNotEnoughMemory",
-        "fct-type": "function",
-        "title": "kNMEErrNotEnoughMemory"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "kNMEErrNotEnoughMemory",
-        "normalized": "",
-        "package": "nme",
-        "partial": "NMEErr Not Enough Memory",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEErrOk",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "Err",
-        "fct-source": "src/Text-NME.html#kNMEErrOk",
-        "fct-type": "function",
-        "title": "kNMEErrOk"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "kNMEErrOk",
-        "normalized": "",
-        "package": "nme",
-        "partial": "NMEErr Ok",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptDefault",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "ProcessOpt",
-        "fct-source": "src/Text-NME.html#kNMEProcessOptDefault",
-        "fct-type": "function",
-        "title": "kNMEProcessOptDefault"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "kNMEProcessOptDefault",
-        "normalized": "",
-        "package": "nme",
-        "partial": "NMEProcess Opt Default",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptH1Num",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "ProcessOpt",
-        "fct-source": "src/Text-NME.html#kNMEProcessOptH1Num",
-        "fct-type": "function",
-        "title": "kNMEProcessOptH1Num"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "kNMEProcessOptH1Num",
-        "normalized": "",
-        "package": "nme",
-        "partial": "NMEProcess Opt Num",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptH2Num",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "ProcessOpt",
-        "fct-source": "src/Text-NME.html#kNMEProcessOptH2Num",
-        "fct-type": "function",
-        "title": "kNMEProcessOptH2Num"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "kNMEProcessOptH2Num",
-        "normalized": "",
-        "package": "nme",
-        "partial": "NMEProcess Opt Num",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoBold",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "ProcessOpt",
-        "fct-source": "src/Text-NME.html#kNMEProcessOptNoBold",
-        "fct-type": "function",
-        "title": "kNMEProcessOptNoBold"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "kNMEProcessOptNoBold",
-        "normalized": "",
-        "package": "nme",
-        "partial": "NMEProcess Opt No Bold",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoDL",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "ProcessOpt",
-        "fct-source": "src/Text-NME.html#kNMEProcessOptNoDL",
-        "fct-type": "function",
-        "title": "kNMEProcessOptNoDL"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "kNMEProcessOptNoDL",
-        "normalized": "",
-        "package": "nme",
-        "partial": "NMEProcess Opt No DL",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoEscape",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "ProcessOpt",
-        "fct-source": "src/Text-NME.html#kNMEProcessOptNoEscape",
-        "fct-type": "function",
-        "title": "kNMEProcessOptNoEscape"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "kNMEProcessOptNoEscape",
-        "normalized": "",
-        "package": "nme",
-        "partial": "NMEProcess Opt No Escape",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoH1",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "ProcessOpt",
-        "fct-source": "src/Text-NME.html#kNMEProcessOptNoH1",
-        "fct-type": "function",
-        "title": "kNMEProcessOptNoH1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "kNMEProcessOptNoH1",
-        "normalized": "",
-        "package": "nme",
-        "partial": "NMEProcess Opt No",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoHRule",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "ProcessOpt",
-        "fct-source": "src/Text-NME.html#kNMEProcessOptNoHRule",
-        "fct-type": "function",
-        "title": "kNMEProcessOptNoHRule"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "kNMEProcessOptNoHRule",
-        "normalized": "",
-        "package": "nme",
-        "partial": "NMEProcess Opt No HRule",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoImage",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "ProcessOpt",
-        "fct-source": "src/Text-NME.html#kNMEProcessOptNoImage",
-        "fct-type": "function",
-        "title": "kNMEProcessOptNoImage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "kNMEProcessOptNoImage",
-        "normalized": "",
-        "package": "nme",
-        "partial": "NMEProcess Opt No Image",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoIndentedPar",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "ProcessOpt",
-        "fct-source": "src/Text-NME.html#kNMEProcessOptNoIndentedPar",
-        "fct-type": "function",
-        "title": "kNMEProcessOptNoIndentedPar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "kNMEProcessOptNoIndentedPar",
-        "normalized": "",
-        "package": "nme",
-        "partial": "NMEProcess Opt No Indented Par",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoItalic",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "ProcessOpt",
-        "fct-source": "src/Text-NME.html#kNMEProcessOptNoItalic",
-        "fct-type": "function",
-        "title": "kNMEProcessOptNoItalic"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "kNMEProcessOptNoItalic",
-        "normalized": "",
-        "package": "nme",
-        "partial": "NMEProcess Opt No Italic",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoLink",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "ProcessOpt",
-        "fct-source": "src/Text-NME.html#kNMEProcessOptNoLink",
-        "fct-type": "function",
-        "title": "kNMEProcessOptNoLink"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "kNMEProcessOptNoLink",
-        "normalized": "",
-        "package": "nme",
-        "partial": "NMEProcess Opt No Link",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoMonospace",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "ProcessOpt",
-        "fct-source": "src/Text-NME.html#kNMEProcessOptNoMonospace",
-        "fct-type": "function",
-        "title": "kNMEProcessOptNoMonospace"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "kNMEProcessOptNoMonospace",
-        "normalized": "",
-        "package": "nme",
-        "partial": "NMEProcess Opt No Monospace",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoMultilinePar",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "ProcessOpt",
-        "fct-source": "src/Text-NME.html#kNMEProcessOptNoMultilinePar",
-        "fct-type": "function",
-        "title": "kNMEProcessOptNoMultilinePar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "kNMEProcessOptNoMultilinePar",
-        "normalized": "",
-        "package": "nme",
-        "partial": "NMEProcess Opt No Multiline Par",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoPlugin",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "ProcessOpt",
-        "fct-source": "src/Text-NME.html#kNMEProcessOptNoPlugin",
-        "fct-type": "function",
-        "title": "kNMEProcessOptNoPlugin"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "kNMEProcessOptNoPlugin",
-        "normalized": "",
-        "package": "nme",
-        "partial": "NMEProcess Opt No Plugin",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoPreAndPost",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "ProcessOpt",
-        "fct-source": "src/Text-NME.html#kNMEProcessOptNoPreAndPost",
-        "fct-type": "function",
-        "title": "kNMEProcessOptNoPreAndPost"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "kNMEProcessOptNoPreAndPost",
-        "normalized": "",
-        "package": "nme",
-        "partial": "NMEProcess Opt No Pre And Post",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoSubSuperscript",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "ProcessOpt",
-        "fct-source": "src/Text-NME.html#kNMEProcessOptNoSubSuperscript",
-        "fct-type": "function",
-        "title": "kNMEProcessOptNoSubSuperscript"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "kNMEProcessOptNoSubSuperscript",
-        "normalized": "",
-        "package": "nme",
-        "partial": "NMEProcess Opt No Sub Superscript",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoTable",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "ProcessOpt",
-        "fct-source": "src/Text-NME.html#kNMEProcessOptNoTable",
-        "fct-type": "function",
-        "title": "kNMEProcessOptNoTable"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "kNMEProcessOptNoTable",
-        "normalized": "",
-        "package": "nme",
-        "partial": "NMEProcess Opt No Table",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptNoUnderline",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "ProcessOpt",
-        "fct-source": "src/Text-NME.html#kNMEProcessOptNoUnderline",
-        "fct-type": "function",
-        "title": "kNMEProcessOptNoUnderline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "kNMEProcessOptNoUnderline",
-        "normalized": "",
-        "package": "nme",
-        "partial": "NMEProcess Opt No Underline",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptVerbatimMono",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "ProcessOpt",
-        "fct-source": "src/Text-NME.html#kNMEProcessOptVerbatimMono",
-        "fct-type": "function",
-        "title": "kNMEProcessOptVerbatimMono"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "kNMEProcessOptVerbatimMono",
-        "normalized": "",
-        "package": "nme",
-        "partial": "NMEProcess Opt Verbatim Mono",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:kNMEProcessOptXRef",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "ProcessOpt",
-        "fct-source": "src/Text-NME.html#kNMEProcessOptXRef",
-        "fct-type": "function",
-        "title": "kNMEProcessOptXRef"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "kNMEProcessOptXRef",
-        "normalized": "",
-        "package": "nme",
-        "partial": "NMEProcess Opt XRef",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:outputFormatDebug",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "Ptr OutputFormat",
-        "fct-source": "src/Text-NME.html#outputFormatDebug",
-        "fct-type": "function",
-        "title": "outputFormatDebug"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "outputFormatDebug",
-        "normalized": "",
-        "package": "nme",
-        "partial": "Format Debug",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:outputFormatHTML",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "Ptr OutputFormat",
-        "fct-source": "src/Text-NME.html#outputFormatHTML",
-        "fct-type": "function",
-        "title": "outputFormatHTML"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "outputFormatHTML",
-        "normalized": "",
-        "package": "nme",
-        "partial": "Format HTML",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:outputFormatLaTeX",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "Ptr OutputFormat",
-        "fct-source": "src/Text-NME.html#outputFormatLaTeX",
-        "fct-type": "function",
-        "title": "outputFormatLaTeX"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "outputFormatLaTeX",
-        "normalized": "",
-        "package": "nme",
-        "partial": "Format La Te",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:outputFormatMan",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "Ptr OutputFormat",
-        "fct-source": "src/Text-NME.html#outputFormatMan",
-        "fct-type": "function",
-        "title": "outputFormatMan"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "outputFormatMan",
-        "normalized": "",
-        "package": "nme",
-        "partial": "Format Man",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:outputFormatNME",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "Ptr OutputFormat",
-        "fct-source": "src/Text-NME.html#outputFormatNME",
-        "fct-type": "function",
-        "title": "outputFormatNME"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "outputFormatNME",
-        "normalized": "",
-        "package": "nme",
-        "partial": "Format NME",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:outputFormatNull",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "Ptr OutputFormat",
-        "fct-source": "src/Text-NME.html#outputFormatNull",
-        "fct-type": "function",
-        "title": "outputFormatNull"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "outputFormatNull",
-        "normalized": "",
-        "package": "nme",
-        "partial": "Format Null",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:outputFormatRTF",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "Ptr OutputFormat",
-        "fct-source": "src/Text-NME.html#outputFormatRTF",
-        "fct-type": "function",
-        "title": "outputFormatRTF"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "outputFormatRTF",
-        "normalized": "",
-        "package": "nme",
-        "partial": "Format RTF",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:outputFormatText",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "Ptr OutputFormat",
-        "fct-source": "src/Text-NME.html#outputFormatText",
-        "fct-type": "function",
-        "title": "outputFormatText"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "outputFormatText",
-        "normalized": "",
-        "package": "nme",
-        "partial": "Format Text",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:outputFormatTextCompact",
-      "description": {
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "Ptr OutputFormat",
-        "fct-source": "src/Text-NME.html#outputFormatTextCompact",
-        "fct-type": "function",
-        "title": "outputFormatTextCompact"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "outputFormatTextCompact",
-        "normalized": "",
-        "package": "nme",
-        "partial": "Format Text Compact",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/nme/docs/Text-NME.html#v:process",
-      "description": {
-        "fct-descr": "\u003cp\u003eTakes a string and options, returns Either an error code or a string\n   in the specified format\n\u003c/p\u003e",
-        "fct-module": "Text.NME",
-        "fct-package": "nme",
-        "fct-signature": "String -\u003e [ProcessOpt] -\u003e String -\u003e Ptr OutputFormat -\u003e Int -\u003e Either Err String",
-        "fct-source": "src/Text-NME.html#process",
-        "fct-type": "function",
-        "title": "process"
-      },
-      "index": {
-        "description": "Takes string and options returns Either an error code or string in the specified format",
-        "hierarchy": "Text NME",
-        "module": "Text.NME",
-        "name": "process",
-        "normalized": "String-\u003e[ProcessOpt]-\u003eString-\u003ePtr OutputFormat-\u003eInt-\u003eEither Err String",
-        "package": "nme",
-        "partial": "",
-        "signature": "String-\u003e[ProcessOpt]-\u003eString-\u003ePtr OutputFormat-\u003eInt-\u003eEither Err String"
-      }
-    }
-  }
+  ]
 ]

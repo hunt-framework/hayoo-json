@@ -1,146 +1,151 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/llvm-tools/docs/LLVM-VisualizeGraph.html#",
-      "description": {
-        "fct-module": "LLVM.VisualizeGraph",
-        "fct-package": "llvm-tools",
-        "fct-signature": "module",
-        "fct-source": "src/LLVM-VisualizeGraph.html",
-        "fct-type": "module",
-        "title": "VisualizeGraph"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "llvm-tools"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "LLVM VisualizeGraph",
-        "module": "LLVM.VisualizeGraph",
-        "name": "VisualizeGraph",
-        "normalized": "",
-        "package": "llvm-tools",
-        "partial": "Visualize Graph",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/llvm-tools/docs/LLVM-VisualizeGraph.html#t:OutputType",
-      "description": {
-        "fct-module": "LLVM.VisualizeGraph",
-        "fct-package": "llvm-tools",
-        "fct-signature": "data",
-        "fct-source": "src/LLVM-VisualizeGraph.html#OutputType",
-        "fct-type": "data",
-        "title": "OutputType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "LLVM VisualizeGraph",
-        "module": "LLVM.VisualizeGraph",
-        "name": "OutputType",
-        "normalized": "",
-        "package": "llvm-tools",
-        "partial": "Output Type",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "LLVM.VisualizeGraph",
+          "name": "VisualizeGraph",
+          "package": "llvm-tools",
+          "source": "src/LLVM-VisualizeGraph.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "LLVM VisualizeGraph",
+          "module": "LLVM.VisualizeGraph",
+          "name": "VisualizeGraph",
+          "package": "llvm-tools",
+          "partial": "Visualize Graph",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/llvm-tools/docs/LLVM-VisualizeGraph.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "LLVM.VisualizeGraph",
+          "name": "OutputType",
+          "package": "llvm-tools",
+          "source": "src/LLVM-VisualizeGraph.html#OutputType",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "LLVM VisualizeGraph",
+          "module": "LLVM.VisualizeGraph",
+          "name": "OutputType",
+          "package": "llvm-tools",
+          "partial": "Output Type",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/llvm-tools/docs/LLVM-VisualizeGraph.html#t:OutputType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "LLVM.VisualizeGraph",
+          "name": "CanvasOutput",
+          "package": "llvm-tools",
+          "signature": "CanvasOutput GraphvizCanvas",
+          "source": "src/LLVM-VisualizeGraph.html#OutputType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "LLVM VisualizeGraph",
+          "module": "LLVM.VisualizeGraph",
+          "name": "CanvasOutput",
+          "package": "llvm-tools",
+          "partial": "Canvas Output",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/llvm-tools/docs/LLVM-VisualizeGraph.html#v:CanvasOutput"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "LLVM.VisualizeGraph",
+          "name": "FileOutput",
+          "package": "llvm-tools",
+          "signature": "FileOutput GraphvizOutput",
+          "source": "src/LLVM-VisualizeGraph.html#OutputType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "LLVM VisualizeGraph",
+          "module": "LLVM.VisualizeGraph",
+          "name": "FileOutput",
+          "package": "llvm-tools",
+          "partial": "File Output",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/llvm-tools/docs/LLVM-VisualizeGraph.html#v:FileOutput"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "LLVM.VisualizeGraph",
+          "name": "HtmlOutput",
+          "package": "llvm-tools",
+          "signature": "HtmlOutput",
+          "source": "src/LLVM-VisualizeGraph.html#OutputType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "LLVM VisualizeGraph",
+          "module": "LLVM.VisualizeGraph",
+          "name": "HtmlOutput",
+          "package": "llvm-tools",
+          "partial": "Html Output",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/llvm-tools/docs/LLVM-VisualizeGraph.html#v:HtmlOutput"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eVisualize a graph-based analysis with graphviz.  It handles many\n common options including both file and canvas output.\n\u003c/p\u003e",
+          "module": "LLVM.VisualizeGraph",
+          "name": "visualizeGraph",
+          "package": "llvm-tools",
+          "signature": "FilePath-\u003e Maybe FilePath-\u003e OutputType-\u003e [String]-\u003e (Module -\u003e [(String, a)])-\u003e IO ()",
+          "type": "function"
+        },
+        "index": {
+          "description": "Visualize graph-based analysis with graphviz It handles many common options including both file and canvas output",
+          "hierarchy": "LLVM VisualizeGraph",
+          "module": "LLVM.VisualizeGraph",
+          "name": "visualizeGraph",
+          "normalized": "FilePath-\u003eMaybe FilePath-\u003eOutputType-\u003e[String]-\u003e(Module-\u003e[(String,a)])-\u003eIO()",
+          "package": "llvm-tools",
+          "partial": "Graph",
+          "signature": "FilePath-\u003eMaybe FilePath-\u003eOutputType-\u003e[String]-\u003e(Module-\u003e[(String,a)])-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/llvm-tools/docs/LLVM-VisualizeGraph.html#v:visualizeGraph"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/llvm-tools/docs/LLVM-VisualizeGraph.html#v:CanvasOutput",
-      "description": {
-        "fct-module": "LLVM.VisualizeGraph",
-        "fct-package": "llvm-tools",
-        "fct-signature": "CanvasOutput GraphvizCanvas",
-        "fct-source": "src/LLVM-VisualizeGraph.html#OutputType",
-        "fct-type": "function",
-        "title": "CanvasOutput"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "LLVM VisualizeGraph",
-        "module": "LLVM.VisualizeGraph",
-        "name": "CanvasOutput",
-        "normalized": "",
-        "package": "llvm-tools",
-        "partial": "Canvas Output",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/llvm-tools/docs/LLVM-VisualizeGraph.html#v:FileOutput",
-      "description": {
-        "fct-module": "LLVM.VisualizeGraph",
-        "fct-package": "llvm-tools",
-        "fct-signature": "FileOutput GraphvizOutput",
-        "fct-source": "src/LLVM-VisualizeGraph.html#OutputType",
-        "fct-type": "function",
-        "title": "FileOutput"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "LLVM VisualizeGraph",
-        "module": "LLVM.VisualizeGraph",
-        "name": "FileOutput",
-        "normalized": "",
-        "package": "llvm-tools",
-        "partial": "File Output",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/llvm-tools/docs/LLVM-VisualizeGraph.html#v:HtmlOutput",
-      "description": {
-        "fct-module": "LLVM.VisualizeGraph",
-        "fct-package": "llvm-tools",
-        "fct-signature": "HtmlOutput",
-        "fct-source": "src/LLVM-VisualizeGraph.html#OutputType",
-        "fct-type": "function",
-        "title": "HtmlOutput"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "LLVM VisualizeGraph",
-        "module": "LLVM.VisualizeGraph",
-        "name": "HtmlOutput",
-        "normalized": "",
-        "package": "llvm-tools",
-        "partial": "Html Output",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/llvm-tools/docs/LLVM-VisualizeGraph.html#v:visualizeGraph",
-      "description": {
-        "fct-descr": "\u003cp\u003eVisualize a graph-based analysis with graphviz.  It handles many\n common options including both file and canvas output.\n\u003c/p\u003e",
-        "fct-module": "LLVM.VisualizeGraph",
-        "fct-package": "llvm-tools",
-        "fct-signature": "FilePath-\u003e Maybe FilePath-\u003e OutputType-\u003e [String]-\u003e (Module -\u003e [(String, a)])-\u003e IO ()",
-        "fct-type": "function",
-        "title": "visualizeGraph"
-      },
-      "index": {
-        "description": "Visualize graph-based analysis with graphviz It handles many common options including both file and canvas output",
-        "hierarchy": "LLVM VisualizeGraph",
-        "module": "LLVM.VisualizeGraph",
-        "name": "visualizeGraph",
-        "normalized": "FilePath-\u003eMaybe FilePath-\u003eOutputType-\u003e[String]-\u003e(Module-\u003e[(String,a)])-\u003eIO()",
-        "package": "llvm-tools",
-        "partial": "Graph",
-        "signature": "FilePath-\u003eMaybe FilePath-\u003eOutputType-\u003e[String]-\u003e(Module-\u003e[(String,a)])-\u003eIO()"
-      }
-    }
-  }
+  ]
 ]

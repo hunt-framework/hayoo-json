@@ -1,6290 +1,5044 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eThis modules provides templates and routing functions which can\n be used to integrate authentication into your site.\n\u003c/p\u003e\u003cp\u003eIn most cases, you only need to call the \u003ccode\u003e\u003ca\u003ehandleAuth\u003c/a\u003e\u003c/code\u003e and\n \u003ccode\u003ehanldeProfile\u003c/code\u003e functions. The other functions are exported in case\n you wish to create your own alternatives to \u003ccode\u003e\u003ca\u003ehandleAuth\u003c/a\u003e\u003c/code\u003e /\n \u003ccode\u003e\u003ca\u003ehandleProfile\u003c/a\u003e\u003c/code\u003e\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Happstack.Auth.Blaze.Templates",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "module",
-        "fct-source": "src/Happstack-Auth-Blaze-Templates.html",
-        "fct-type": "module",
-        "title": "Templates"
-      },
-      "index": {
-        "description": "This modules provides templates and routing functions which can be used to integrate authentication into your site In most cases you only need to call the handleAuth and hanldeProfile functions The other functions are exported in case you wish to create your own alternatives to handleAuth handleProfile",
-        "hierarchy": "Happstack Auth Blaze Templates",
-        "module": "Happstack.Auth.Blaze.Templates",
-        "name": "Templates",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Templates",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:addAuthPage",
-      "description": {
-        "fct-module": "Happstack.Auth.Blaze.Templates",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Maybe Credentials -\u003e m Html",
-        "fct-source": "src/Happstack-Auth-Blaze-Templates.html#addAuthPage",
-        "fct-type": "function",
-        "title": "addAuthPage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Blaze Templates",
-        "module": "Happstack.Auth.Blaze.Templates",
-        "name": "addAuthPage",
-        "normalized": "Maybe Credentials-\u003ea Html",
-        "package": "happstack-authenticate",
-        "partial": "Auth Page",
-        "signature": "Maybe Credentials-\u003em Html"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:authPicker",
-      "description": {
-        "fct-module": "Happstack.Auth.Blaze.Templates",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Set AuthId -\u003e m Html",
-        "fct-source": "src/Happstack-Auth-Blaze-Templates.html#authPicker",
-        "fct-type": "function",
-        "title": "authPicker"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Blaze Templates",
-        "module": "Happstack.Auth.Blaze.Templates",
-        "name": "authPicker",
-        "normalized": "Set AuthId-\u003ea Html",
-        "package": "happstack-authenticate",
-        "partial": "Picker",
-        "signature": "Set AuthId-\u003em Html"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:authProfileHandler",
-      "description": {
-        "fct-descr": "\u003cp\u003ethis is a simple entry point into \u003ccode\u003ehappstack-authenticate\u003c/code\u003e that\n provides reasonable default behavior. A majority of the time you\n will just call this function.\n\u003c/p\u003e",
-        "fct-module": "Happstack.Auth.Blaze.Templates",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Text-\u003e Text-\u003e AcidState AuthState-\u003e AcidState ProfileState-\u003e (String -\u003e Html -\u003e Html -\u003e m Response)-\u003e Maybe Credentials-\u003e Maybe Text-\u003e Text-\u003e m Response",
-        "fct-type": "function",
-        "title": "authProfileHandler"
-      },
-      "index": {
-        "description": "this is simple entry point into happstack-authenticate that provides reasonable default behavior majority of the time you will just call this function",
-        "hierarchy": "Happstack Auth Blaze Templates",
-        "module": "Happstack.Auth.Blaze.Templates",
-        "name": "authProfileHandler",
-        "normalized": "Text-\u003eText-\u003eAcidState AuthState-\u003eAcidState ProfileState-\u003e(String-\u003eHtml-\u003eHtml-\u003ea Response)-\u003eMaybe Credentials-\u003eMaybe Text-\u003eText-\u003ea Response",
-        "package": "happstack-authenticate",
-        "partial": "Profile Handler",
-        "signature": "Text-\u003eText-\u003eAcidState AuthState-\u003eAcidState ProfileState-\u003e(String-\u003eHtml-\u003eHtml-\u003em Response)-\u003eMaybe Credentials-\u003eMaybe Text-\u003eText-\u003em Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:changePasswordForm",
-      "description": {
-        "fct-module": "Happstack.Auth.Blaze.Templates",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AcidState AuthState -\u003e UserPass -\u003e AuthForm v Text",
-        "fct-source": "src/Happstack-Auth-Blaze-Templates.html#changePasswordForm",
-        "fct-type": "function",
-        "title": "changePasswordForm"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Blaze Templates",
-        "module": "Happstack.Auth.Blaze.Templates",
-        "name": "changePasswordForm",
-        "normalized": "AcidState AuthState-\u003eUserPass-\u003eAuthForm a Text",
-        "package": "happstack-authenticate",
-        "partial": "Password Form",
-        "signature": "AcidState AuthState-\u003eUserPass-\u003eAuthForm v Text"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:changePasswordPage",
-      "description": {
-        "fct-module": "Happstack.Auth.Blaze.Templates",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AcidState AuthState -\u003e (String -\u003e Html -\u003e Html -\u003e m Response) -\u003e AuthURL -\u003e m Response",
-        "fct-source": "src/Happstack-Auth-Blaze-Templates.html#changePasswordPage",
-        "fct-type": "function",
-        "title": "changePasswordPage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Blaze Templates",
-        "module": "Happstack.Auth.Blaze.Templates",
-        "name": "changePasswordPage",
-        "normalized": "AcidState AuthState-\u003e(String-\u003eHtml-\u003eHtml-\u003ea Response)-\u003eAuthURL-\u003ea Response",
-        "package": "happstack-authenticate",
-        "partial": "Password Page",
-        "signature": "AcidState AuthState-\u003e(String-\u003eHtml-\u003eHtml-\u003em Response)-\u003eAuthURL-\u003em Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:createAccountPage",
-      "description": {
-        "fct-module": "Happstack.Auth.Blaze.Templates",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AcidState AuthState -\u003e (String -\u003e Html -\u003e Html -\u003e m Response) -\u003e Text -\u003e AuthURL -\u003e m Response",
-        "fct-source": "src/Happstack-Auth-Blaze-Templates.html#createAccountPage",
-        "fct-type": "function",
-        "title": "createAccountPage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Blaze Templates",
-        "module": "Happstack.Auth.Blaze.Templates",
-        "name": "createAccountPage",
-        "normalized": "AcidState AuthState-\u003e(String-\u003eHtml-\u003eHtml-\u003ea Response)-\u003eText-\u003eAuthURL-\u003ea Response",
-        "package": "happstack-authenticate",
-        "partial": "Account Page",
-        "signature": "AcidState AuthState-\u003e(String-\u003eHtml-\u003eHtml-\u003em Response)-\u003eText-\u003eAuthURL-\u003em Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:genericOpenIdPage",
-      "description": {
-        "fct-module": "Happstack.Auth.Blaze.Templates",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "(String -\u003e Html -\u003e Html -\u003e m Response) -\u003e AuthURL -\u003e AuthMode -\u003e m Response",
-        "fct-source": "src/Happstack-Auth-Blaze-Templates.html#genericOpenIdPage",
-        "fct-type": "function",
-        "title": "genericOpenIdPage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Blaze Templates",
-        "module": "Happstack.Auth.Blaze.Templates",
-        "name": "genericOpenIdPage",
-        "normalized": "(String-\u003eHtml-\u003eHtml-\u003ea Response)-\u003eAuthURL-\u003eAuthMode-\u003ea Response",
-        "package": "happstack-authenticate",
-        "partial": "Open Id Page",
-        "signature": "(String-\u003eHtml-\u003eHtml-\u003em Response)-\u003eAuthURL-\u003eAuthMode-\u003em Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:googlePage",
-      "description": {
-        "fct-module": "Happstack.Auth.Blaze.Templates",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthURL -\u003e AuthMode -\u003e m Response",
-        "fct-source": "src/Happstack-Auth-Blaze-Templates.html#googlePage",
-        "fct-type": "function",
-        "title": "googlePage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Blaze Templates",
-        "module": "Happstack.Auth.Blaze.Templates",
-        "name": "googlePage",
-        "normalized": "AuthURL-\u003eAuthMode-\u003ea Response",
-        "package": "happstack-authenticate",
-        "partial": "Page",
-        "signature": "AuthURL-\u003eAuthMode-\u003em Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:handleAuth",
-      "description": {
-        "fct-descr": "\u003cp\u003eFunction which takes care of all \u003ccode\u003e\u003ca\u003eAuthURL\u003c/a\u003e\u003c/code\u003e routes.\n\u003c/p\u003e\u003cp\u003eThe caller provides a page template function which will be used to\n render pages. The provided page template function takes three\n arguments:\n\u003c/p\u003e\u003cpre\u003e    String -- ^ string to use in the \u003ctitle\u003e tag\n -\u003e Html   -- ^ extra headers to add to the \u003chead\u003e tag\n -\u003e Html   -- ^ contents to stick in the \u003cbody\u003e tag\n\u003c/pre\u003e",
-        "fct-module": "Happstack.Auth.Blaze.Templates",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AcidState AuthState-\u003e (String -\u003e Html -\u003e Html -\u003e m Response)-\u003e Maybe Credentials-\u003e Maybe Text-\u003e Text-\u003e AuthURL-\u003e m Response",
-        "fct-type": "function",
-        "title": "handleAuth"
-      },
-      "index": {
-        "description": "Function which takes care of all AuthURL routes The caller provides page template function which will be used to render pages The provided page template function takes three arguments String string to use in the title tag Html extra headers to add to the head tag Html contents to stick in the body tag",
-        "hierarchy": "Happstack Auth Blaze Templates",
-        "module": "Happstack.Auth.Blaze.Templates",
-        "name": "handleAuth",
-        "normalized": "AcidState AuthState-\u003e(String-\u003eHtml-\u003eHtml-\u003ea Response)-\u003eMaybe Credentials-\u003eMaybe Text-\u003eText-\u003eAuthURL-\u003ea Response",
-        "package": "happstack-authenticate",
-        "partial": "Auth",
-        "signature": "AcidState AuthState-\u003e(String-\u003eHtml-\u003eHtml-\u003em Response)-\u003eMaybe Credentials-\u003eMaybe Text-\u003eText-\u003eAuthURL-\u003em Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:handleAuthProfile",
-      "description": {
-        "fct-module": "Happstack.Auth.Blaze.Templates",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AcidState AuthState -\u003e AcidState ProfileState -\u003e (String -\u003e Html -\u003e Html -\u003e m Response) -\u003e Maybe Credentials -\u003e Maybe Text -\u003e Text -\u003e AuthProfileURL -\u003e m Response",
-        "fct-source": "src/Happstack-Auth-Blaze-Templates.html#handleAuthProfile",
-        "fct-type": "function",
-        "title": "handleAuthProfile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Blaze Templates",
-        "module": "Happstack.Auth.Blaze.Templates",
-        "name": "handleAuthProfile",
-        "normalized": "AcidState AuthState-\u003eAcidState ProfileState-\u003e(String-\u003eHtml-\u003eHtml-\u003ea Response)-\u003eMaybe Credentials-\u003eMaybe Text-\u003eText-\u003eAuthProfileURL-\u003ea Response",
-        "package": "happstack-authenticate",
-        "partial": "Auth Profile",
-        "signature": "AcidState AuthState-\u003eAcidState ProfileState-\u003e(String-\u003eHtml-\u003eHtml-\u003em Response)-\u003eMaybe Credentials-\u003eMaybe Text-\u003eText-\u003eAuthProfileURL-\u003em Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:handleAuthProfileRouteT",
-      "description": {
-        "fct-module": "Happstack.Auth.Blaze.Templates",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AcidState AuthState -\u003e AcidState ProfileState -\u003e (String -\u003e Html -\u003e Html -\u003e m Response) -\u003e Maybe Credentials -\u003e Maybe Text -\u003e Text -\u003e AuthProfileURL -\u003e RouteT AuthProfileURL m Response",
-        "fct-source": "src/Happstack-Auth-Blaze-Templates.html#handleAuthProfileRouteT",
-        "fct-type": "function",
-        "title": "handleAuthProfileRouteT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Blaze Templates",
-        "module": "Happstack.Auth.Blaze.Templates",
-        "name": "handleAuthProfileRouteT",
-        "normalized": "AcidState AuthState-\u003eAcidState ProfileState-\u003e(String-\u003eHtml-\u003eHtml-\u003ea Response)-\u003eMaybe Credentials-\u003eMaybe Text-\u003eText-\u003eAuthProfileURL-\u003eRouteT AuthProfileURL a Response",
-        "package": "happstack-authenticate",
-        "partial": "Auth Profile Route",
-        "signature": "AcidState AuthState-\u003eAcidState ProfileState-\u003e(String-\u003eHtml-\u003eHtml-\u003em Response)-\u003eMaybe Credentials-\u003eMaybe Text-\u003eText-\u003eAuthProfileURL-\u003eRouteT AuthProfileURL m Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:handleProfile",
-      "description": {
-        "fct-descr": "\u003cp\u003eFunction which takes care of all \u003ccode\u003e\u003ca\u003eProfileURL\u003c/a\u003e\u003c/code\u003e routes.\n\u003c/p\u003e\u003cp\u003eThe caller provides a page template function which will be used to\n render pages. The provided page template function takes three\n arguments:\n\u003c/p\u003e\u003cpre\u003e    String -- ^ string to use in the \u003ctitle\u003e tag\n -\u003e Html   -- ^ extra headers to add to the \u003chead\u003e tag\n -\u003e Html   -- ^ contents to stick in the \u003cbody\u003e tag\n\u003c/pre\u003e",
-        "fct-module": "Happstack.Auth.Blaze.Templates",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AcidState AuthState-\u003e AcidState ProfileState-\u003e (String -\u003e Html -\u003e Html -\u003e m Response)-\u003e Text-\u003e ProfileURL-\u003e m Response",
-        "fct-type": "function",
-        "title": "handleProfile"
-      },
-      "index": {
-        "description": "Function which takes care of all ProfileURL routes The caller provides page template function which will be used to render pages The provided page template function takes three arguments String string to use in the title tag Html extra headers to add to the head tag Html contents to stick in the body tag",
-        "hierarchy": "Happstack Auth Blaze Templates",
-        "module": "Happstack.Auth.Blaze.Templates",
-        "name": "handleProfile",
-        "normalized": "AcidState AuthState-\u003eAcidState ProfileState-\u003e(String-\u003eHtml-\u003eHtml-\u003ea Response)-\u003eText-\u003eProfileURL-\u003ea Response",
-        "package": "happstack-authenticate",
-        "partial": "Profile",
-        "signature": "AcidState AuthState-\u003eAcidState ProfileState-\u003e(String-\u003eHtml-\u003eHtml-\u003em Response)-\u003eText-\u003eProfileURL-\u003em Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:liveJournalForm",
-      "description": {
-        "fct-module": "Happstack.Auth.Blaze.Templates",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthForm m Text",
-        "fct-source": "src/Happstack-Auth-Blaze-Templates.html#liveJournalForm",
-        "fct-type": "function",
-        "title": "liveJournalForm"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Blaze Templates",
-        "module": "Happstack.Auth.Blaze.Templates",
-        "name": "liveJournalForm",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Journal Form",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:liveJournalPage",
-      "description": {
-        "fct-module": "Happstack.Auth.Blaze.Templates",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "(String -\u003e Html -\u003e Html -\u003e m Response) -\u003e AuthURL -\u003e AuthMode -\u003e m Response",
-        "fct-source": "src/Happstack-Auth-Blaze-Templates.html#liveJournalPage",
-        "fct-type": "function",
-        "title": "liveJournalPage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Blaze Templates",
-        "module": "Happstack.Auth.Blaze.Templates",
-        "name": "liveJournalPage",
-        "normalized": "(String-\u003eHtml-\u003eHtml-\u003ea Response)-\u003eAuthURL-\u003eAuthMode-\u003ea Response",
-        "package": "happstack-authenticate",
-        "partial": "Journal Page",
-        "signature": "(String-\u003eHtml-\u003eHtml-\u003em Response)-\u003eAuthURL-\u003eAuthMode-\u003em Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:localLoginPage",
-      "description": {
-        "fct-module": "Happstack.Auth.Blaze.Templates",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AcidState (EventState UserPassIdAuthIds) -\u003e (a -\u003e a1 -\u003e Html -\u003e m Response) -\u003e AuthURL -\u003e Text -\u003e m Response",
-        "fct-source": "src/Happstack-Auth-Blaze-Templates.html#localLoginPage",
-        "fct-type": "function",
-        "title": "localLoginPage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Blaze Templates",
-        "module": "Happstack.Auth.Blaze.Templates",
-        "name": "localLoginPage",
-        "normalized": "AcidState(EventState UserPassIdAuthIds)-\u003e(a-\u003ea-\u003eHtml-\u003eb Response)-\u003eAuthURL-\u003eText-\u003eb Response",
-        "package": "happstack-authenticate",
-        "partial": "Login Page",
-        "signature": "AcidState(EventState UserPassIdAuthIds)-\u003e(a-\u003ea-\u003eHtml-\u003em Response)-\u003eAuthURL-\u003eText-\u003em Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:loginPage",
-      "description": {
-        "fct-module": "Happstack.Auth.Blaze.Templates",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Maybe Credentials -\u003e m Html",
-        "fct-source": "src/Happstack-Auth-Blaze-Templates.html#loginPage",
-        "fct-type": "function",
-        "title": "loginPage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Blaze Templates",
-        "module": "Happstack.Auth.Blaze.Templates",
-        "name": "loginPage",
-        "normalized": "Maybe Credentials-\u003ea Html",
-        "package": "happstack-authenticate",
-        "partial": "Page",
-        "signature": "Maybe Credentials-\u003em Html"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:logoutPage",
-      "description": {
-        "fct-module": "Happstack.Auth.Blaze.Templates",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AcidState AuthState -\u003e m Html",
-        "fct-source": "src/Happstack-Auth-Blaze-Templates.html#logoutPage",
-        "fct-type": "function",
-        "title": "logoutPage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Blaze Templates",
-        "module": "Happstack.Auth.Blaze.Templates",
-        "name": "logoutPage",
-        "normalized": "AcidState AuthState-\u003ea Html",
-        "package": "happstack-authenticate",
-        "partial": "Page",
-        "signature": "AcidState AuthState-\u003em Html"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:myspacePage",
-      "description": {
-        "fct-module": "Happstack.Auth.Blaze.Templates",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "(String -\u003e Html -\u003e Html -\u003e m Response) -\u003e AuthURL -\u003e AuthMode -\u003e m Response",
-        "fct-source": "src/Happstack-Auth-Blaze-Templates.html#myspacePage",
-        "fct-type": "function",
-        "title": "myspacePage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Blaze Templates",
-        "module": "Happstack.Auth.Blaze.Templates",
-        "name": "myspacePage",
-        "normalized": "(String-\u003eHtml-\u003eHtml-\u003ea Response)-\u003eAuthURL-\u003eAuthMode-\u003ea Response",
-        "package": "happstack-authenticate",
-        "partial": "Page",
-        "signature": "(String-\u003eHtml-\u003eHtml-\u003em Response)-\u003eAuthURL-\u003eAuthMode-\u003em Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:newAccountForm",
-      "description": {
-        "fct-module": "Happstack.Auth.Blaze.Templates",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AcidState AuthState -\u003e AuthForm v (AuthId, UserPassId)",
-        "fct-source": "src/Happstack-Auth-Blaze-Templates.html#newAccountForm",
-        "fct-type": "function",
-        "title": "newAccountForm"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Blaze Templates",
-        "module": "Happstack.Auth.Blaze.Templates",
-        "name": "newAccountForm",
-        "normalized": "AcidState AuthState-\u003eAuthForm a(AuthId,UserPassId)",
-        "package": "happstack-authenticate",
-        "partial": "Account Form",
-        "signature": "AcidState AuthState-\u003eAuthForm v(AuthId,UserPassId)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:personalityPicker",
-      "description": {
-        "fct-module": "Happstack.Auth.Blaze.Templates",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Set Profile -\u003e m Html",
-        "fct-source": "src/Happstack-Auth-Blaze-Templates.html#personalityPicker",
-        "fct-type": "function",
-        "title": "personalityPicker"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Blaze Templates",
-        "module": "Happstack.Auth.Blaze.Templates",
-        "name": "personalityPicker",
-        "normalized": "Set Profile-\u003ea Html",
-        "package": "happstack-authenticate",
-        "partial": "Picker",
-        "signature": "Set Profile-\u003em Html"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:providerPage",
-      "description": {
-        "fct-module": "Happstack.Auth.Blaze.Templates",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "(String -\u003e Html -\u003e Html -\u003e m Response) -\u003e OpenIdProvider -\u003e AuthURL -\u003e AuthMode -\u003e m Response",
-        "fct-source": "src/Happstack-Auth-Blaze-Templates.html#providerPage",
-        "fct-type": "function",
-        "title": "providerPage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Blaze Templates",
-        "module": "Happstack.Auth.Blaze.Templates",
-        "name": "providerPage",
-        "normalized": "(String-\u003eHtml-\u003eHtml-\u003ea Response)-\u003eOpenIdProvider-\u003eAuthURL-\u003eAuthMode-\u003ea Response",
-        "package": "happstack-authenticate",
-        "partial": "Page",
-        "signature": "(String-\u003eHtml-\u003eHtml-\u003em Response)-\u003eOpenIdProvider-\u003eAuthURL-\u003eAuthMode-\u003em Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:yahooPage",
-      "description": {
-        "fct-module": "Happstack.Auth.Blaze.Templates",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthURL -\u003e AuthMode -\u003e m Response",
-        "fct-source": "src/Happstack-Auth-Blaze-Templates.html#yahooPage",
-        "fct-type": "function",
-        "title": "yahooPage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Blaze Templates",
-        "module": "Happstack.Auth.Blaze.Templates",
-        "name": "yahooPage",
-        "normalized": "AuthURL-\u003eAuthMode-\u003ea Response",
-        "package": "happstack-authenticate",
-        "partial": "Page",
-        "signature": "AuthURL-\u003eAuthMode-\u003em Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "module",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html",
-        "fct-type": "module",
-        "title": "Auth"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "Auth",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:AddAuthMethod",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AddAuthMethod",
-        "fct-type": "data",
-        "title": "AddAuthMethod"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "AddAuthMethod",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Add Auth Method",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:AddAuthToken",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AddAuthToken",
-        "fct-type": "data",
-        "title": "AddAuthToken"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "AddAuthToken",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Add Auth Token",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:AddAuthUserPassId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AddAuthUserPassId",
-        "fct-type": "data",
-        "title": "AddAuthUserPassId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "AddAuthUserPassId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Add Auth User Pass Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:AskAuthState",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AskAuthState",
-        "fct-type": "data",
-        "title": "AskAuthState"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "AskAuthState",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Ask Auth State",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:AskAuthToken",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AskAuthToken",
-        "fct-type": "data",
-        "title": "AskAuthToken"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "AskAuthToken",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Ask Auth Token",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:AskUserPass",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AskUserPass",
-        "fct-type": "data",
-        "title": "AskUserPass"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "AskUserPass",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Ask User Pass",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:AuthId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "newtype",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthId",
-        "fct-type": "newtype",
-        "title": "AuthId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "AuthId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:AuthMap",
-      "description": {
-        "fct-descr": "\u003cp\u003eThis links an authentication method (such as on OpenId \u003ccode\u003e\u003ca\u003eIdentifier\u003c/a\u003e\u003c/code\u003e, a \u003ccode\u003e\u003ca\u003eFacebookId\u003c/a\u003e\u003c/code\u003e, or \u003ccode\u003e\u003ca\u003eUserPassId\u003c/a\u003e\u003c/code\u003e) to an \u003ccode\u003e\u003ca\u003eAuthId\u003c/a\u003e\u003c/code\u003e.\n\u003c/p\u003e",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthMap",
-        "fct-type": "data",
-        "title": "AuthMap"
-      },
-      "index": {
-        "description": "This links an authentication method such as on OpenId Identifier FacebookId or UserPassId to an AuthId",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "AuthMap",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth Map",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:AuthMethod",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthMethod",
-        "fct-type": "data",
-        "title": "AuthMethod"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "AuthMethod",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth Method",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:AuthMethod_v1",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthMethod_v1",
-        "fct-type": "data",
-        "title": "AuthMethod_v1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "AuthMethod_v1",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth Method",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:AuthState",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthState",
-        "fct-type": "data",
-        "title": "AuthState"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "AuthState",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth State",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:AuthToken",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthToken",
-        "fct-type": "data",
-        "title": "AuthToken"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "AuthToken",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth Token",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:CheckUserPass",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#CheckUserPass",
-        "fct-type": "data",
-        "title": "CheckUserPass"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "CheckUserPass",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Check User Pass",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:CreateUserPass",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#CreateUserPass",
-        "fct-type": "data",
-        "title": "CreateUserPass"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "CreateUserPass",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Create User Pass",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:DeleteAuthToken",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#DeleteAuthToken",
-        "fct-type": "data",
-        "title": "DeleteAuthToken"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "DeleteAuthToken",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Delete Auth Token",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:FacebookAuthIds",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#FacebookAuthIds",
-        "fct-type": "data",
-        "title": "FacebookAuthIds"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "FacebookAuthIds",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Facebook Auth Ids",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:FacebookId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "newtype",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#FacebookId",
-        "fct-type": "newtype",
-        "title": "FacebookId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "FacebookId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Facebook Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:GenAuthId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#GenAuthId",
-        "fct-type": "data",
-        "title": "GenAuthId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "GenAuthId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Gen Auth Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:GetDefaultSessionTimeout",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#GetDefaultSessionTimeout",
-        "fct-type": "data",
-        "title": "GetDefaultSessionTimeout"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "GetDefaultSessionTimeout",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Get Default Session Timeout",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:HashedPass",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "newtype",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#HashedPass",
-        "fct-type": "newtype",
-        "title": "HashedPass"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "HashedPass",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Hashed Pass",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:IdentifierAuthIds",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#IdentifierAuthIds",
-        "fct-type": "data",
-        "title": "IdentifierAuthIds"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "IdentifierAuthIds",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Identifier Auth Ids",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:NewAuthMethod",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#NewAuthMethod",
-        "fct-type": "data",
-        "title": "NewAuthMethod"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "NewAuthMethod",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "New Auth Method",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:RemoveAuthIdentifier",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#RemoveAuthIdentifier",
-        "fct-type": "data",
-        "title": "RemoveAuthIdentifier"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "RemoveAuthIdentifier",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Remove Auth Identifier",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:RemoveAuthUserPassId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#RemoveAuthUserPassId",
-        "fct-type": "data",
-        "title": "RemoveAuthUserPassId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "RemoveAuthUserPassId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Remove Auth User Pass Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:SetDefaultSessionTimeout",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#SetDefaultSessionTimeout",
-        "fct-type": "data",
-        "title": "SetDefaultSessionTimeout"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "SetDefaultSessionTimeout",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Set Default Session Timeout",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:SetPassword",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#SetPassword",
-        "fct-type": "data",
-        "title": "SetPassword"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "SetPassword",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Set Password",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:SetUserName",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#SetUserName",
-        "fct-type": "data",
-        "title": "SetUserName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "SetUserName",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Set User Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:UpdateAuthToken",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#UpdateAuthToken",
-        "fct-type": "data",
-        "title": "UpdateAuthToken"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "UpdateAuthToken",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Update Auth Token",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:UserName",
-      "description": {
-        "fct-descr": "\u003cp\u003eNOTE: The Eq and Ord instances are 'case-insensitive'. They apply \u003ccode\u003etoCaseFold\u003c/code\u003e before comparing.\n\u003c/p\u003e",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "newtype",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#UserName",
-        "fct-type": "newtype",
-        "title": "UserName"
-      },
-      "index": {
-        "description": "NOTE The Eq and Ord instances are case-insensitive They apply toCaseFold before comparing",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "UserName",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "User Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:UserPass",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#UserPass",
-        "fct-type": "data",
-        "title": "UserPass"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "UserPass",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "User Pass",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:UserPassError",
-      "description": {
-        "fct-descr": "\u003cp\u003eerrors that can occur when working with \u003ccode\u003e\u003ca\u003eUserPass\u003c/a\u003e\u003c/code\u003e\n\u003c/p\u003e",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#UserPassError",
-        "fct-type": "data",
-        "title": "UserPassError"
-      },
-      "index": {
-        "description": "errors that can occur when working with UserPass",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "UserPassError",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "User Pass Error",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:UserPassId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "newtype",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#UserPassId",
-        "fct-type": "newtype",
-        "title": "UserPassId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "UserPassId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "User Pass Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:UserPassIdAuthIds",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#UserPassIdAuthIds",
-        "fct-type": "data",
-        "title": "UserPassIdAuthIds"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "UserPassIdAuthIds",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "User Pass Id Auth Ids",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AddAuthMethod",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AddAuthMethod AuthMethod AuthId",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AddAuthMethod",
-        "fct-type": "function",
-        "title": "AddAuthMethod"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "AddAuthMethod",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Add Auth Method",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AddAuthToken",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AddAuthToken AuthToken",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AddAuthToken",
-        "fct-type": "function",
-        "title": "AddAuthToken"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "AddAuthToken",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Add Auth Token",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AddAuthUserPassId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AddAuthUserPassId UserPassId AuthId",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AddAuthUserPassId",
-        "fct-type": "function",
-        "title": "AddAuthUserPassId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "AddAuthUserPassId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Add Auth User Pass Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AskAuthState",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AskAuthState",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AskAuthState",
-        "fct-type": "function",
-        "title": "AskAuthState"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "AskAuthState",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Ask Auth State",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AskAuthToken",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AskAuthToken String",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AskAuthToken",
-        "fct-type": "function",
-        "title": "AskAuthToken"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "AskAuthToken",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Ask Auth Token",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AskUserPass",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AskUserPass UserPassId",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AskUserPass",
-        "fct-type": "function",
-        "title": "AskUserPass"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "AskUserPass",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Ask User Pass",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AuthFacebook",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthFacebook",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthMethod",
-        "fct-type": "function",
-        "title": "AuthFacebook"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "AuthFacebook",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth Facebook",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AuthId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthId",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthId",
-        "fct-type": "function",
-        "title": "AuthId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "AuthId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AuthIdentifier",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthIdentifier",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthMethod",
-        "fct-type": "function",
-        "title": "AuthIdentifier"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "AuthIdentifier",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth Identifier",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AuthIdentifier_v1",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthIdentifier_v1",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthMethod_v1",
-        "fct-type": "function",
-        "title": "AuthIdentifier_v1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "AuthIdentifier_v1",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth Identifier",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AuthMap",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthMap",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthMap",
-        "fct-type": "function",
-        "title": "AuthMap"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "AuthMap",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth Map",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AuthState",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthState",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthState",
-        "fct-type": "function",
-        "title": "AuthState"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "AuthState",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth State",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AuthToken",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthToken",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthToken",
-        "fct-type": "function",
-        "title": "AuthToken"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "AuthToken",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth Token",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AuthUserPassId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthUserPassId",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthMethod",
-        "fct-type": "function",
-        "title": "AuthUserPassId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "AuthUserPassId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth User Pass Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AuthUserPassId_v1",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthUserPassId_v1",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthMethod_v1",
-        "fct-type": "function",
-        "title": "AuthUserPassId_v1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "AuthUserPassId_v1",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth User Pass Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:CheckUserPass",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "CheckUserPass Text Text",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#CheckUserPass",
-        "fct-type": "function",
-        "title": "CheckUserPass"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "CheckUserPass",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Check User Pass",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:CreateUserPass",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "CreateUserPass UserName HashedPass",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#CreateUserPass",
-        "fct-type": "function",
-        "title": "CreateUserPass"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "CreateUserPass",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Create User Pass",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:DeleteAuthToken",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "DeleteAuthToken String",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#DeleteAuthToken",
-        "fct-type": "function",
-        "title": "DeleteAuthToken"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "DeleteAuthToken",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Delete Auth Token",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:FacebookAuthIds",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "FacebookAuthIds FacebookId",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#FacebookAuthIds",
-        "fct-type": "function",
-        "title": "FacebookAuthIds"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "FacebookAuthIds",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Facebook Auth Ids",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:FacebookId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "FacebookId",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#FacebookId",
-        "fct-type": "function",
-        "title": "FacebookId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "FacebookId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Facebook Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:GenAuthId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "GenAuthId",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#GenAuthId",
-        "fct-type": "function",
-        "title": "GenAuthId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "GenAuthId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Gen Auth Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:GetDefaultSessionTimeout",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "GetDefaultSessionTimeout",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#GetDefaultSessionTimeout",
-        "fct-type": "function",
-        "title": "GetDefaultSessionTimeout"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "GetDefaultSessionTimeout",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Get Default Session Timeout",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:HashedPass",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "HashedPass ByteString",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#HashedPass",
-        "fct-type": "function",
-        "title": "HashedPass"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "HashedPass",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Hashed Pass",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:IdentifierAuthIds",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "IdentifierAuthIds Identifier",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#IdentifierAuthIds",
-        "fct-type": "function",
-        "title": "IdentifierAuthIds"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "IdentifierAuthIds",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Identifier Auth Ids",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:InvalidPassword",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "InvalidPassword",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#UserPassError",
-        "fct-type": "function",
-        "title": "InvalidPassword"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "InvalidPassword",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Invalid Password",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:InvalidUserName",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "InvalidUserName UserName",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#UserPassError",
-        "fct-type": "function",
-        "title": "InvalidUserName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "InvalidUserName",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Invalid User Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:InvalidUserPassId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "InvalidUserPassId UserPassId",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#UserPassError",
-        "fct-type": "function",
-        "title": "InvalidUserPassId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "InvalidUserPassId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Invalid User Pass Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:NewAuthMethod",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "NewAuthMethod AuthMethod",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#NewAuthMethod",
-        "fct-type": "function",
-        "title": "NewAuthMethod"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "NewAuthMethod",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "New Auth Method",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:RemoveAuthIdentifier",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "RemoveAuthIdentifier Identifier AuthId",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#RemoveAuthIdentifier",
-        "fct-type": "function",
-        "title": "RemoveAuthIdentifier"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "RemoveAuthIdentifier",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Remove Auth Identifier",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:RemoveAuthUserPassId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "RemoveAuthUserPassId UserPassId AuthId",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#RemoveAuthUserPassId",
-        "fct-type": "function",
-        "title": "RemoveAuthUserPassId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "RemoveAuthUserPassId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Remove Auth User Pass Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:SetDefaultSessionTimeout",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "SetDefaultSessionTimeout Int",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#SetDefaultSessionTimeout",
-        "fct-type": "function",
-        "title": "SetDefaultSessionTimeout"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "SetDefaultSessionTimeout",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Set Default Session Timeout",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:SetPassword",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "SetPassword UserPassId HashedPass",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#SetPassword",
-        "fct-type": "function",
-        "title": "SetPassword"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "SetPassword",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Set Password",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:SetUserName",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "SetUserName UserPassId Text",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#SetUserName",
-        "fct-type": "function",
-        "title": "SetUserName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "SetUserName",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Set User Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:UpdateAuthToken",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "UpdateAuthToken AuthToken",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#UpdateAuthToken",
-        "fct-type": "function",
-        "title": "UpdateAuthToken"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "UpdateAuthToken",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Update Auth Token",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:UserName",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "UserName",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#UserName",
-        "fct-type": "function",
-        "title": "UserName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "UserName",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "User Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:UserPass",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "UserPass",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#UserPass",
-        "fct-type": "function",
-        "title": "UserPass"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "UserPass",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "User Pass",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:UserPassId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "UserPassId",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#UserPassId",
-        "fct-type": "function",
-        "title": "UserPassId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "UserPassId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "User Pass Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:UserPassIdAuthIds",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "UserPassIdAuthIds UserPassId",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#UserPassIdAuthIds",
-        "fct-type": "function",
-        "title": "UserPassIdAuthIds"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "UserPassIdAuthIds",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "User Pass Id Auth Ids",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:UsernameInUse",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "UsernameInUse UserName",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#UserPassError",
-        "fct-type": "function",
-        "title": "UsernameInUse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "UsernameInUse",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Username In Use",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:addAuthCookie",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AcidState AuthState -\u003e Maybe AuthId -\u003e AuthMethod -\u003e m ()",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#addAuthCookie",
-        "fct-type": "function",
-        "title": "addAuthCookie"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "addAuthCookie",
-        "normalized": "AcidState AuthState-\u003eMaybe AuthId-\u003eAuthMethod-\u003ea()",
-        "package": "happstack-authenticate",
-        "partial": "Auth Cookie",
-        "signature": "AcidState AuthState-\u003eMaybe AuthId-\u003eAuthMethod-\u003em()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:amAuthId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthId",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthMap",
-        "fct-type": "function",
-        "title": "amAuthId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "amAuthId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:amFacebookId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "FacebookId",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthMethod",
-        "fct-type": "function",
-        "title": "amFacebookId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "amFacebookId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Facebook Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:amIdentifier",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Identifier",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthMethod",
-        "fct-type": "function",
-        "title": "amIdentifier"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "amIdentifier",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Identifier",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:amIdentifier_v1",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Identifier",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthMethod_v1",
-        "fct-type": "function",
-        "title": "amIdentifier_v1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "amIdentifier_v1",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Identifier",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:amMethod",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthMethod",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthMap",
-        "fct-type": "function",
-        "title": "amMethod"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "amMethod",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Method",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:amUserPassId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "UserPassId",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthMethod",
-        "fct-type": "function",
-        "title": "amUserPassId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "amUserPassId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "User Pass Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:amUserPassId_v1",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "UserPassId",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthMethod_v1",
-        "fct-type": "function",
-        "title": "amUserPassId_v1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "amUserPassId_v1",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "User Pass Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:authMaps",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthMaps",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthState",
-        "fct-type": "function",
-        "title": "authMaps"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "authMaps",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Maps",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:authTokens",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthTokens",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthState",
-        "fct-type": "function",
-        "title": "authTokens"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "authTokens",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Tokens",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:defaultSessionTimeout",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Int",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthState",
-        "fct-type": "function",
-        "title": "defaultSessionTimeout"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "defaultSessionTimeout",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Session Timeout",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:deleteAuthCookie",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AcidState AuthState -\u003e m ()",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#deleteAuthCookie",
-        "fct-type": "function",
-        "title": "deleteAuthCookie"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "deleteAuthCookie",
-        "normalized": "AcidState AuthState-\u003ea()",
-        "package": "happstack-authenticate",
-        "partial": "Auth Cookie",
-        "signature": "AcidState AuthState-\u003em()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:genAuthToken",
-      "description": {
-        "fct-descr": "\u003cp\u003egenerate an new authentication token\n\u003c/p\u003e",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Maybe AuthId -\u003e AuthMethod -\u003e Int -\u003e m AuthToken",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#genAuthToken",
-        "fct-type": "function",
-        "title": "genAuthToken"
-      },
-      "index": {
-        "description": "generate an new authentication token",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "genAuthToken",
-        "normalized": "Maybe AuthId-\u003eAuthMethod-\u003eInt-\u003ea AuthToken",
-        "package": "happstack-authenticate",
-        "partial": "Auth Token",
-        "signature": "Maybe AuthId-\u003eAuthMethod-\u003eInt-\u003em AuthToken"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:getAuthId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AcidState AuthState -\u003e m (Maybe AuthId)",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#getAuthId",
-        "fct-type": "function",
-        "title": "getAuthId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "getAuthId",
-        "normalized": "AcidState AuthState-\u003ea(Maybe AuthId)",
-        "package": "happstack-authenticate",
-        "partial": "Auth Id",
-        "signature": "AcidState AuthState-\u003em(Maybe AuthId)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:getAuthToken",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AcidState AuthState -\u003e m (Maybe AuthToken)",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#getAuthToken",
-        "fct-type": "function",
-        "title": "getAuthToken"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "getAuthToken",
-        "normalized": "AcidState AuthState-\u003ea(Maybe AuthToken)",
-        "package": "happstack-authenticate",
-        "partial": "Auth Token",
-        "signature": "AcidState AuthState-\u003em(Maybe AuthToken)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:initialAuthState",
-      "description": {
-        "fct-descr": "\u003cp\u003ea reasonable initial \u003ccode\u003e\u003ca\u003eAuthState\u003c/a\u003e\u003c/code\u003e\n\u003c/p\u003e",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthState",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#initialAuthState",
-        "fct-type": "function",
-        "title": "initialAuthState"
-      },
-      "index": {
-        "description": "reasonable initial AuthState",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "initialAuthState",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth State",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:mkHashedPass",
-      "description": {
-        "fct-descr": "\u003cp\u003ehash a password string\n\u003c/p\u003e",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Text-\u003e IO HashedPass",
-        "fct-type": "function",
-        "title": "mkHashedPass"
-      },
-      "index": {
-        "description": "hash password string",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "mkHashedPass",
-        "normalized": "Text-\u003eIO HashedPass",
-        "package": "happstack-authenticate",
-        "partial": "Hashed Pass",
-        "signature": "Text-\u003eIO HashedPass"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:nextAuthId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthId",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthState",
-        "fct-type": "function",
-        "title": "nextAuthId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "nextAuthId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:nextUserPassId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "UserPassId",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthState",
-        "fct-type": "function",
-        "title": "nextUserPassId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "nextUserPassId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "User Pass Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:tokenAuthId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Maybe AuthId",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthToken",
-        "fct-type": "function",
-        "title": "tokenAuthId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "tokenAuthId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:tokenAuthMethod",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthMethod",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthToken",
-        "fct-type": "function",
-        "title": "tokenAuthMethod"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "tokenAuthMethod",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth Method",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:tokenExpires",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "UTCTime",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthToken",
-        "fct-type": "function",
-        "title": "tokenExpires"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "tokenExpires",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Expires",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:tokenLifetime",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Int",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthToken",
-        "fct-type": "function",
-        "title": "tokenLifetime"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "tokenLifetime",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Lifetime",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:tokenString",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "String",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthToken",
-        "fct-type": "function",
-        "title": "tokenString"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "tokenString",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "String",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:unAuthId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Integer",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthId",
-        "fct-type": "function",
-        "title": "unAuthId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "unAuthId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:unFacebookId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "UserId",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#FacebookId",
-        "fct-type": "function",
-        "title": "unFacebookId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "unFacebookId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Facebook Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:unUserName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Text",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#UserName",
-        "fct-type": "function",
-        "title": "unUserName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "unUserName",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "User Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:unUserPassId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Integer",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#UserPassId",
-        "fct-type": "function",
-        "title": "unUserPassId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "unUserPassId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "User Pass Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:upId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "UserPassId",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#UserPass",
-        "fct-type": "function",
-        "title": "upId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "upId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:upName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "UserName",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#UserPass",
-        "fct-type": "function",
-        "title": "upName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "upName",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:upPassword",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "HashedPass",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#UserPass",
-        "fct-type": "function",
-        "title": "upPassword"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "upPassword",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Password",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:userPassErrorString",
-      "description": {
-        "fct-descr": "\u003cp\u003ereturn a user-friendly error message string for an \u003ccode\u003eAddAuthError\u003c/code\u003e\n\u003c/p\u003e",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "UserPassError -\u003e String",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#userPassErrorString",
-        "fct-type": "function",
-        "title": "userPassErrorString"
-      },
-      "index": {
-        "description": "return user-friendly error message string for an AddAuthError",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "userPassErrorString",
-        "normalized": "UserPassError-\u003eString",
-        "package": "happstack-authenticate",
-        "partial": "Pass Error String",
-        "signature": "UserPassError-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:userPasses",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "UserPasses",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthState",
-        "fct-type": "function",
-        "title": "userPasses"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Auth",
-        "module": "Happstack.Auth.Core.Auth",
-        "name": "userPasses",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Passes",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthParts.html#",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthParts",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "module",
-        "fct-source": "src/Happstack-Auth-Core-AuthParts.html",
-        "fct-type": "module",
-        "title": "AuthParts"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthParts",
-        "module": "Happstack.Auth.Core.AuthParts",
-        "name": "AuthParts",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth Parts",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthParts.html#v:connect",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthParts",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthMode-\u003e Maybe Text-\u003e Text-\u003e m Response",
-        "fct-type": "function",
-        "title": "connect"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthParts",
-        "module": "Happstack.Auth.Core.AuthParts",
-        "name": "connect",
-        "normalized": "AuthMode-\u003eMaybe Text-\u003eText-\u003ea Response",
-        "package": "happstack-authenticate",
-        "partial": "",
-        "signature": "AuthMode-\u003eMaybe Text-\u003eText-\u003em Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthParts.html#v:facebookAddAuthIdsCookie",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthParts",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AcidState AuthState -\u003e FacebookId -\u003e m (Maybe AuthId)",
-        "fct-source": "src/Happstack-Auth-Core-AuthParts.html#facebookAddAuthIdsCookie",
-        "fct-type": "function",
-        "title": "facebookAddAuthIdsCookie"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthParts",
-        "module": "Happstack.Auth.Core.AuthParts",
-        "name": "facebookAddAuthIdsCookie",
-        "normalized": "AcidState AuthState-\u003eFacebookId-\u003ea(Maybe AuthId)",
-        "package": "happstack-authenticate",
-        "partial": "Add Auth Ids Cookie",
-        "signature": "AcidState AuthState-\u003eFacebookId-\u003em(Maybe AuthId)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthParts.html#v:facebookPage",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthParts",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Credentials -\u003e AuthMode -\u003e m Response",
-        "fct-source": "src/Happstack-Auth-Core-AuthParts.html#facebookPage",
-        "fct-type": "function",
-        "title": "facebookPage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthParts",
-        "module": "Happstack.Auth.Core.AuthParts",
-        "name": "facebookPage",
-        "normalized": "Credentials-\u003eAuthMode-\u003ea Response",
-        "package": "happstack-authenticate",
-        "partial": "Page",
-        "signature": "Credentials-\u003eAuthMode-\u003em Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthParts.html#v:facebookRedirectPage",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthParts",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AcidState AuthState-\u003e Credentials-\u003e Text-\u003e AuthMode-\u003e m Response",
-        "fct-type": "function",
-        "title": "facebookRedirectPage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthParts",
-        "module": "Happstack.Auth.Core.AuthParts",
-        "name": "facebookRedirectPage",
-        "normalized": "AcidState AuthState-\u003eCredentials-\u003eText-\u003eAuthMode-\u003ea Response",
-        "package": "happstack-authenticate",
-        "partial": "Redirect Page",
-        "signature": "AcidState AuthState-\u003eCredentials-\u003eText-\u003eAuthMode-\u003em Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthParts.html#v:getIdentifier",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthParts",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "m Identifier",
-        "fct-source": "src/Happstack-Auth-Core-AuthParts.html#getIdentifier",
-        "fct-type": "function",
-        "title": "getIdentifier"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthParts",
-        "module": "Happstack.Auth.Core.AuthParts",
-        "name": "getIdentifier",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Identifier",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthParts.html#v:handleOpenId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthParts",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AcidState AuthState-\u003e Maybe Text-\u003e Text-\u003e OpenIdURL-\u003e m Response",
-        "fct-type": "function",
-        "title": "handleOpenId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthParts",
-        "module": "Happstack.Auth.Core.AuthParts",
-        "name": "handleOpenId",
-        "normalized": "AcidState AuthState-\u003eMaybe Text-\u003eText-\u003eOpenIdURL-\u003ea Response",
-        "package": "happstack-authenticate",
-        "partial": "Open Id",
-        "signature": "AcidState AuthState-\u003eMaybe Text-\u003eText-\u003eOpenIdURL-\u003em Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthParts.html#v:identifierAddAuthIdsCookie",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthParts",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AcidState AuthState -\u003e Identifier -\u003e m (Maybe AuthId)",
-        "fct-source": "src/Happstack-Auth-Core-AuthParts.html#identifierAddAuthIdsCookie",
-        "fct-type": "function",
-        "title": "identifierAddAuthIdsCookie"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthParts",
-        "module": "Happstack.Auth.Core.AuthParts",
-        "name": "identifierAddAuthIdsCookie",
-        "normalized": "AcidState AuthState-\u003eIdentifier-\u003ea(Maybe AuthId)",
-        "package": "happstack-authenticate",
-        "partial": "Add Auth Ids Cookie",
-        "signature": "AcidState AuthState-\u003eIdentifier-\u003em(Maybe AuthId)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthParts.html#v:openIdPage",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthParts",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AcidState AuthState -\u003e AuthMode -\u003e Text -\u003e m Response",
-        "fct-source": "src/Happstack-Auth-Core-AuthParts.html#openIdPage",
-        "fct-type": "function",
-        "title": "openIdPage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthParts",
-        "module": "Happstack.Auth.Core.AuthParts",
-        "name": "openIdPage",
-        "normalized": "AcidState AuthState-\u003eAuthMode-\u003eText-\u003ea Response",
-        "package": "happstack-authenticate",
-        "partial": "Id Page",
-        "signature": "AcidState AuthState-\u003eAuthMode-\u003eText-\u003em Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthProfileURL.html#",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthProfileURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "module",
-        "fct-source": "src/Happstack-Auth-Core-AuthProfileURL.html",
-        "fct-type": "module",
-        "title": "AuthProfileURL"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthProfileURL",
-        "module": "Happstack.Auth.Core.AuthProfileURL",
-        "name": "AuthProfileURL",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth Profile URL",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthProfileURL.html#t:AuthProfileURL",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthProfileURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-AuthProfileURL.html#AuthProfileURL",
-        "fct-type": "data",
-        "title": "AuthProfileURL"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthProfileURL",
-        "module": "Happstack.Auth.Core.AuthProfileURL",
-        "name": "AuthProfileURL",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth Profile URL",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthProfileURL.html#v:AuthURL",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthProfileURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthURL AuthURL",
-        "fct-source": "src/Happstack-Auth-Core-AuthProfileURL.html#AuthProfileURL",
-        "fct-type": "function",
-        "title": "AuthURL"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthProfileURL",
-        "module": "Happstack.Auth.Core.AuthProfileURL",
-        "name": "AuthURL",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth URL",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthProfileURL.html#v:ProfileURL",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthProfileURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "ProfileURL ProfileURL",
-        "fct-source": "src/Happstack-Auth-Core-AuthProfileURL.html#AuthProfileURL",
-        "fct-type": "function",
-        "title": "ProfileURL"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthProfileURL",
-        "module": "Happstack.Auth.Core.AuthProfileURL",
-        "name": "ProfileURL",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Profile URL",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "module",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html",
-        "fct-type": "module",
-        "title": "AuthURL"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthURL",
-        "module": "Happstack.Auth.Core.AuthURL",
-        "name": "AuthURL",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth URL",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#t:AuthMode",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#AuthMode",
-        "fct-type": "data",
-        "title": "AuthMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthURL",
-        "module": "Happstack.Auth.Core.AuthURL",
-        "name": "AuthMode",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#t:AuthURL",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
-        "fct-type": "data",
-        "title": "AuthURL"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthURL",
-        "module": "Happstack.Auth.Core.AuthURL",
-        "name": "AuthURL",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth URL",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#t:OpenIdProvider",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#OpenIdProvider",
-        "fct-type": "data",
-        "title": "OpenIdProvider"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthURL",
-        "module": "Happstack.Auth.Core.AuthURL",
-        "name": "OpenIdProvider",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Open Id Provider",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#t:OpenIdURL",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#OpenIdURL",
-        "fct-type": "data",
-        "title": "OpenIdURL"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthURL",
-        "module": "Happstack.Auth.Core.AuthURL",
-        "name": "OpenIdURL",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Open Id URL",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_AddAuth",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "A_AddAuth",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
-        "fct-type": "function",
-        "title": "A_AddAuth"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthURL",
-        "module": "Happstack.Auth.Core.AuthURL",
-        "name": "A_AddAuth",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Add Auth",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_ChangePassword",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "A_ChangePassword",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
-        "fct-type": "function",
-        "title": "A_ChangePassword"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthURL",
-        "module": "Happstack.Auth.Core.AuthURL",
-        "name": "A_ChangePassword",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Change Password",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_CreateAccount",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "A_CreateAccount",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
-        "fct-type": "function",
-        "title": "A_CreateAccount"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthURL",
-        "module": "Happstack.Auth.Core.AuthURL",
-        "name": "A_CreateAccount",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Create Account",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_Facebook",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "A_Facebook AuthMode",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
-        "fct-type": "function",
-        "title": "A_Facebook"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthURL",
-        "module": "Happstack.Auth.Core.AuthURL",
-        "name": "A_Facebook",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Facebook",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_FacebookRedirect",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "A_FacebookRedirect AuthMode",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
-        "fct-type": "function",
-        "title": "A_FacebookRedirect"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthURL",
-        "module": "Happstack.Auth.Core.AuthURL",
-        "name": "A_FacebookRedirect",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Facebook Redirect",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_Local",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "A_Local",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
-        "fct-type": "function",
-        "title": "A_Local"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthURL",
-        "module": "Happstack.Auth.Core.AuthURL",
-        "name": "A_Local",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Local",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_Login",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "A_Login",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
-        "fct-type": "function",
-        "title": "A_Login"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthURL",
-        "module": "Happstack.Auth.Core.AuthURL",
-        "name": "A_Login",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Login",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_Logout",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "A_Logout",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
-        "fct-type": "function",
-        "title": "A_Logout"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthURL",
-        "module": "Happstack.Auth.Core.AuthURL",
-        "name": "A_Logout",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Logout",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_OpenId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "A_OpenId OpenIdURL",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
-        "fct-type": "function",
-        "title": "A_OpenId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthURL",
-        "module": "Happstack.Auth.Core.AuthURL",
-        "name": "A_OpenId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Open Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_OpenIdProvider",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "A_OpenIdProvider AuthMode OpenIdProvider",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
-        "fct-type": "function",
-        "title": "A_OpenIdProvider"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthURL",
-        "module": "Happstack.Auth.Core.AuthURL",
-        "name": "A_OpenIdProvider",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Open Id Provider",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_Signup",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "A_Signup",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
-        "fct-type": "function",
-        "title": "A_Signup"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthURL",
-        "module": "Happstack.Auth.Core.AuthURL",
-        "name": "A_Signup",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Signup",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:AddIdentifierMode",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AddIdentifierMode",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#AuthMode",
-        "fct-type": "function",
-        "title": "AddIdentifierMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthURL",
-        "module": "Happstack.Auth.Core.AuthURL",
-        "name": "AddIdentifierMode",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Add Identifier Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:Generic",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Generic",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#OpenIdProvider",
-        "fct-type": "function",
-        "title": "Generic"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthURL",
-        "module": "Happstack.Auth.Core.AuthURL",
-        "name": "Generic",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Generic",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:Google",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Google",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#OpenIdProvider",
-        "fct-type": "function",
-        "title": "Google"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthURL",
-        "module": "Happstack.Auth.Core.AuthURL",
-        "name": "Google",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Google",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:LiveJournal",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "LiveJournal",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#OpenIdProvider",
-        "fct-type": "function",
-        "title": "LiveJournal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthURL",
-        "module": "Happstack.Auth.Core.AuthURL",
-        "name": "LiveJournal",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Live Journal",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:LoginMode",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "LoginMode",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#AuthMode",
-        "fct-type": "function",
-        "title": "LoginMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthURL",
-        "module": "Happstack.Auth.Core.AuthURL",
-        "name": "LoginMode",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Login Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:Myspace",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Myspace",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#OpenIdProvider",
-        "fct-type": "function",
-        "title": "Myspace"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthURL",
-        "module": "Happstack.Auth.Core.AuthURL",
-        "name": "Myspace",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Myspace",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:O_Connect",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "O_Connect AuthMode",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#OpenIdURL",
-        "fct-type": "function",
-        "title": "O_Connect"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthURL",
-        "module": "Happstack.Auth.Core.AuthURL",
-        "name": "O_Connect",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Connect",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:O_OpenId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "O_OpenId AuthMode",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#OpenIdURL",
-        "fct-type": "function",
-        "title": "O_OpenId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthURL",
-        "module": "Happstack.Auth.Core.AuthURL",
-        "name": "O_OpenId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Open Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:Yahoo",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Yahoo",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#OpenIdProvider",
-        "fct-type": "function",
-        "title": "Yahoo"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthURL",
-        "module": "Happstack.Auth.Core.AuthURL",
-        "name": "Yahoo",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Yahoo",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:authUrlInverse",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.AuthURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Property",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#authUrlInverse",
-        "fct-type": "function",
-        "title": "authUrlInverse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core AuthURL",
-        "module": "Happstack.Auth.Core.AuthURL",
-        "name": "authUrlInverse",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Url Inverse",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "module",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html",
-        "fct-type": "module",
-        "title": "Profile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "Profile",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Profile",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#t:AuthIdProfiles",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#AuthIdProfiles",
-        "fct-type": "data",
-        "title": "AuthIdProfiles"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "AuthIdProfiles",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth Id Profiles",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#t:AuthIdUserId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#AuthIdUserId",
-        "fct-type": "data",
-        "title": "AuthIdUserId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "AuthIdUserId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth Id User Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#t:CreateNewProfile",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#CreateNewProfile",
-        "fct-type": "data",
-        "title": "CreateNewProfile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "CreateNewProfile",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Create New Profile",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#t:GenUserId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#GenUserId",
-        "fct-type": "data",
-        "title": "GenUserId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "GenUserId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Gen User Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#t:GetProfileState",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#GetProfileState",
-        "fct-type": "data",
-        "title": "GetProfileState"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "GetProfileState",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Get Profile State",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#t:Profile",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#Profile",
-        "fct-type": "data",
-        "title": "Profile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "Profile",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Profile",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#t:ProfileState",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#ProfileState",
-        "fct-type": "data",
-        "title": "ProfileState"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "ProfileState",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Profile State",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#t:Profiles",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "type",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#Profiles",
-        "fct-type": "type",
-        "title": "Profiles"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "Profiles",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Profiles",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#t:SetAuthIdUserId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#SetAuthIdUserId",
-        "fct-type": "data",
-        "title": "SetAuthIdUserId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "SetAuthIdUserId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Set Auth Id User Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#t:UserId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "newtype",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#UserId",
-        "fct-type": "newtype",
-        "title": "UserId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "UserId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "User Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:AuthIdProfiles",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthIdProfiles AuthId",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#AuthIdProfiles",
-        "fct-type": "function",
-        "title": "AuthIdProfiles"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "AuthIdProfiles",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth Id Profiles",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:AuthIdUserId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthIdUserId AuthId",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#AuthIdUserId",
-        "fct-type": "function",
-        "title": "AuthIdUserId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "AuthIdUserId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth Id User Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:CreateNewProfile",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "CreateNewProfile (Set AuthId)",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#CreateNewProfile",
-        "fct-type": "function",
-        "title": "CreateNewProfile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "CreateNewProfile",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Create New Profile",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:GenUserId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "GenUserId",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#GenUserId",
-        "fct-type": "function",
-        "title": "GenUserId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "GenUserId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Gen User Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:GetProfileState",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "GetProfileState",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#GetProfileState",
-        "fct-type": "function",
-        "title": "GetProfileState"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "GetProfileState",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Get Profile State",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:Profile",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Profile",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#Profile",
-        "fct-type": "function",
-        "title": "Profile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "Profile",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Profile",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:ProfileState",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "ProfileState",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#ProfileState",
-        "fct-type": "function",
-        "title": "ProfileState"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "ProfileState",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Profile State",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:SetAuthIdUserId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "SetAuthIdUserId AuthId UserId",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#SetAuthIdUserId",
-        "fct-type": "function",
-        "title": "SetAuthIdUserId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "SetAuthIdUserId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Set Auth Id User Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:UserId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "UserId",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#UserId",
-        "fct-type": "function",
-        "title": "UserId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "UserId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "User Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:authIdProfiles",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthId -\u003e Query ProfileState (Set Profile)",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#authIdProfiles",
-        "fct-type": "function",
-        "title": "authIdProfiles"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "authIdProfiles",
-        "normalized": "AuthId-\u003eQuery ProfileState(Set Profile)",
-        "package": "happstack-authenticate",
-        "partial": "Id Profiles",
-        "signature": "AuthId-\u003eQuery ProfileState(Set Profile)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:authIdUserId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthId -\u003e Query ProfileState (Maybe UserId)",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#authIdUserId",
-        "fct-type": "function",
-        "title": "authIdUserId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "authIdUserId",
-        "normalized": "AuthId-\u003eQuery ProfileState(Maybe UserId)",
-        "package": "happstack-authenticate",
-        "partial": "Id User Id",
-        "signature": "AuthId-\u003eQuery ProfileState(Maybe UserId)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:authUserMap",
-      "description": {
-        "fct-descr": "\u003cp\u003emap of what \u003ccode\u003e\u003ca\u003eUserId\u003c/a\u003e\u003c/code\u003e an \u003ccode\u003e\u003ca\u003eAuthId\u003c/a\u003e\u003c/code\u003e is currently defaulting to\n\u003c/p\u003e",
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Map AuthId UserId",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#ProfileState",
-        "fct-type": "function",
-        "title": "authUserMap"
-      },
-      "index": {
-        "description": "map of what UserId an AuthId is currently defaulting to",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "authUserMap",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "User Map",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:auths",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Set AuthId",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#Profile",
-        "fct-type": "function",
-        "title": "auths"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "auths",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:createNewProfile",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Set AuthId -\u003e Update ProfileState UserId",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#createNewProfile",
-        "fct-type": "function",
-        "title": "createNewProfile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "createNewProfile",
-        "normalized": "Set AuthId-\u003eUpdate ProfileState UserId",
-        "package": "happstack-authenticate",
-        "partial": "New Profile",
-        "signature": "Set AuthId-\u003eUpdate ProfileState UserId"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:genUserId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Update ProfileState UserId",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#genUserId",
-        "fct-type": "function",
-        "title": "genUserId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "genUserId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "User Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:getProfileState",
-      "description": {
-        "fct-descr": "\u003cp\u003eRetrieve the entire ProfileState\n Warning, this is an admin level function?\n\u003c/p\u003e",
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Query ProfileState ProfileState",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#getProfileState",
-        "fct-type": "function",
-        "title": "getProfileState"
-      },
-      "index": {
-        "description": "Retrieve the entire ProfileState Warning this is an admin level function",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "getProfileState",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Profile State",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:getUserId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AcidState AuthState -\u003e AcidState ProfileState -\u003e m (Maybe UserId)",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#getUserId",
-        "fct-type": "function",
-        "title": "getUserId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "getUserId",
-        "normalized": "AcidState AuthState-\u003eAcidState ProfileState-\u003ea(Maybe UserId)",
-        "package": "happstack-authenticate",
-        "partial": "User Id",
-        "signature": "AcidState AuthState-\u003eAcidState ProfileState-\u003em(Maybe UserId)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:initialProfileState",
-      "description": {
-        "fct-descr": "\u003cp\u003ea reasonable initial \u003ccode\u003e\u003ca\u003eProfileState\u003c/a\u003e\u003c/code\u003e\n\u003c/p\u003e",
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "ProfileState",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#initialProfileState",
-        "fct-type": "function",
-        "title": "initialProfileState"
-      },
-      "index": {
-        "description": "reasonable initial ProfileState",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "initialProfileState",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Profile State",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:nextUserId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "UserId",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#ProfileState",
-        "fct-type": "function",
-        "title": "nextUserId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "nextUserId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "User Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:nickName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Text",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#Profile",
-        "fct-type": "function",
-        "title": "nickName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "nickName",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:profiles",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Profiles",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#ProfileState",
-        "fct-type": "function",
-        "title": "profiles"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "profiles",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:setAuthIdUserId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthId -\u003e UserId -\u003e Update ProfileState ()",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#setAuthIdUserId",
-        "fct-type": "function",
-        "title": "setAuthIdUserId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "setAuthIdUserId",
-        "normalized": "AuthId-\u003eUserId-\u003eUpdate ProfileState()",
-        "package": "happstack-authenticate",
-        "partial": "Auth Id User Id",
-        "signature": "AuthId-\u003eUserId-\u003eUpdate ProfileState()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:succUserId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "UserId -\u003e UserId",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#succUserId",
-        "fct-type": "function",
-        "title": "succUserId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "succUserId",
-        "normalized": "UserId-\u003eUserId",
-        "package": "happstack-authenticate",
-        "partial": "User Id",
-        "signature": "UserId-\u003eUserId"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:unUserId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Integer",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#UserId",
-        "fct-type": "function",
-        "title": "unUserId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "unUserId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "User Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:userId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth.Core.Profile",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "UserId",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#Profile",
-        "fct-type": "function",
-        "title": "userId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core Profile",
-        "module": "Happstack.Auth.Core.Profile",
-        "name": "userId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileParts.html#",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.ProfileParts",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "module",
-        "fct-source": "src/Happstack-Auth-Core-ProfileParts.html",
-        "fct-type": "module",
-        "title": "ProfileParts"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core ProfileParts",
-        "module": "Happstack.Auth.Core.ProfileParts",
-        "name": "ProfileParts",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Profile Parts",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileParts.html#t:PickProfile",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.ProfileParts",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-ProfileParts.html#PickProfile",
-        "fct-type": "data",
-        "title": "PickProfile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core ProfileParts",
-        "module": "Happstack.Auth.Core.ProfileParts",
-        "name": "PickProfile",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Pick Profile",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileParts.html#v:PickAuthId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.ProfileParts",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "PickAuthId (Set AuthId)",
-        "fct-source": "src/Happstack-Auth-Core-ProfileParts.html#PickProfile",
-        "fct-type": "function",
-        "title": "PickAuthId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core ProfileParts",
-        "module": "Happstack.Auth.Core.ProfileParts",
-        "name": "PickAuthId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Pick Auth Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileParts.html#v:PickPersonality",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.ProfileParts",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "PickPersonality (Set Profile)",
-        "fct-source": "src/Happstack-Auth-Core-ProfileParts.html#PickProfile",
-        "fct-type": "function",
-        "title": "PickPersonality"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core ProfileParts",
-        "module": "Happstack.Auth.Core.ProfileParts",
-        "name": "PickPersonality",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Pick Personality",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileParts.html#v:Picked",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.ProfileParts",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Picked UserId",
-        "fct-source": "src/Happstack-Auth-Core-ProfileParts.html#PickProfile",
-        "fct-type": "function",
-        "title": "Picked"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core ProfileParts",
-        "module": "Happstack.Auth.Core.ProfileParts",
-        "name": "Picked",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Picked",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileParts.html#v:pickAuthId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.ProfileParts",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AcidState AuthState -\u003e m (Either (Set AuthId) AuthId)",
-        "fct-source": "src/Happstack-Auth-Core-ProfileParts.html#pickAuthId",
-        "fct-type": "function",
-        "title": "pickAuthId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core ProfileParts",
-        "module": "Happstack.Auth.Core.ProfileParts",
-        "name": "pickAuthId",
-        "normalized": "AcidState AuthState-\u003ea(Either(Set AuthId)AuthId)",
-        "package": "happstack-authenticate",
-        "partial": "Auth Id",
-        "signature": "AcidState AuthState-\u003em(Either(Set AuthId)AuthId)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileParts.html#v:pickProfile",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.ProfileParts",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AcidState AuthState -\u003e AcidState ProfileState -\u003e m PickProfile",
-        "fct-source": "src/Happstack-Auth-Core-ProfileParts.html#pickProfile",
-        "fct-type": "function",
-        "title": "pickProfile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core ProfileParts",
-        "module": "Happstack.Auth.Core.ProfileParts",
-        "name": "pickProfile",
-        "normalized": "AcidState AuthState-\u003eAcidState ProfileState-\u003ea PickProfile",
-        "package": "happstack-authenticate",
-        "partial": "Profile",
-        "signature": "AcidState AuthState-\u003eAcidState ProfileState-\u003em PickProfile"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileParts.html#v:setAuthIdPage",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.ProfileParts",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AcidState AuthState -\u003e AuthId -\u003e m Bool",
-        "fct-source": "src/Happstack-Auth-Core-ProfileParts.html#setAuthIdPage",
-        "fct-type": "function",
-        "title": "setAuthIdPage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core ProfileParts",
-        "module": "Happstack.Auth.Core.ProfileParts",
-        "name": "setAuthIdPage",
-        "normalized": "AcidState AuthState-\u003eAuthId-\u003ea Bool",
-        "package": "happstack-authenticate",
-        "partial": "Auth Id Page",
-        "signature": "AcidState AuthState-\u003eAuthId-\u003em Bool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileURL.html#",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.ProfileURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "module",
-        "fct-source": "src/Happstack-Auth-Core-ProfileURL.html",
-        "fct-type": "module",
-        "title": "ProfileURL"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core ProfileURL",
-        "module": "Happstack.Auth.Core.ProfileURL",
-        "name": "ProfileURL",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Profile URL",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileURL.html#t:ProfileURL",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.ProfileURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-ProfileURL.html#ProfileURL",
-        "fct-type": "data",
-        "title": "ProfileURL"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core ProfileURL",
-        "module": "Happstack.Auth.Core.ProfileURL",
-        "name": "ProfileURL",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Profile URL",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileURL.html#v:P_PickProfile",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.ProfileURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "P_PickProfile",
-        "fct-source": "src/Happstack-Auth-Core-ProfileURL.html#ProfileURL",
-        "fct-type": "function",
-        "title": "P_PickProfile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core ProfileURL",
-        "module": "Happstack.Auth.Core.ProfileURL",
-        "name": "P_PickProfile",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Pick Profile",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileURL.html#v:P_SetAuthId",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.ProfileURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "P_SetAuthId AuthId",
-        "fct-source": "src/Happstack-Auth-Core-ProfileURL.html#ProfileURL",
-        "fct-type": "function",
-        "title": "P_SetAuthId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core ProfileURL",
-        "module": "Happstack.Auth.Core.ProfileURL",
-        "name": "P_SetAuthId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Set Auth Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileURL.html#v:P_SetPersonality",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.ProfileURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "P_SetPersonality UserId",
-        "fct-source": "src/Happstack-Auth-Core-ProfileURL.html#ProfileURL",
-        "fct-type": "function",
-        "title": "P_SetPersonality"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core ProfileURL",
-        "module": "Happstack.Auth.Core.ProfileURL",
-        "name": "P_SetPersonality",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Set Personality",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileURL.html#v:authUrlInverse",
-      "description": {
-        "fct-module": "Happstack.Auth.Core.ProfileURL",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Property",
-        "fct-source": "src/Happstack-Auth-Core-ProfileURL.html#authUrlInverse",
-        "fct-type": "function",
-        "title": "authUrlInverse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth Core ProfileURL",
-        "module": "Happstack.Auth.Core.ProfileURL",
-        "name": "authUrlInverse",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Url Inverse",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#",
-      "description": {
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "module",
-        "fct-source": "src/Happstack-Auth.html",
-        "fct-type": "module",
-        "title": "Auth"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "Auth",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#t:AuthProfileURL",
-      "description": {
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-AuthProfileURL.html#AuthProfileURL",
-        "fct-type": "data",
-        "title": "AuthProfileURL"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "AuthProfileURL",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth Profile URL",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#t:AuthState",
-      "description": {
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthState",
-        "fct-type": "data",
-        "title": "AuthState"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "AuthState",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth State",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#t:AuthURL",
-      "description": {
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
-        "fct-type": "data",
-        "title": "AuthURL"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "AuthURL",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth URL",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#t:ProfileState",
-      "description": {
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#ProfileState",
-        "fct-type": "data",
-        "title": "ProfileState"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "ProfileState",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Profile State",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#t:ProfileURL",
-      "description": {
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "data",
-        "fct-source": "src/Happstack-Auth-Core-ProfileURL.html#ProfileURL",
-        "fct-type": "data",
-        "title": "ProfileURL"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "ProfileURL",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Profile URL",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#t:UserId",
-      "description": {
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "newtype",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#UserId",
-        "fct-type": "newtype",
-        "title": "UserId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "UserId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "User Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:A_AddAuth",
-      "description": {
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "A_AddAuth",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
-        "fct-type": "function",
-        "title": "A_AddAuth"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "A_AddAuth",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Add Auth",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:A_ChangePassword",
-      "description": {
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "A_ChangePassword",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
-        "fct-type": "function",
-        "title": "A_ChangePassword"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "A_ChangePassword",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Change Password",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:A_CreateAccount",
-      "description": {
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "A_CreateAccount",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
-        "fct-type": "function",
-        "title": "A_CreateAccount"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "A_CreateAccount",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Create Account",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:A_Facebook",
-      "description": {
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "A_Facebook AuthMode",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
-        "fct-type": "function",
-        "title": "A_Facebook"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "A_Facebook",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Facebook",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:A_FacebookRedirect",
-      "description": {
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "A_FacebookRedirect AuthMode",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
-        "fct-type": "function",
-        "title": "A_FacebookRedirect"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "A_FacebookRedirect",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Facebook Redirect",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:A_Local",
-      "description": {
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "A_Local",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
-        "fct-type": "function",
-        "title": "A_Local"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "A_Local",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Local",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:A_Login",
-      "description": {
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "A_Login",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
-        "fct-type": "function",
-        "title": "A_Login"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "A_Login",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Login",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:A_Logout",
-      "description": {
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "A_Logout",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
-        "fct-type": "function",
-        "title": "A_Logout"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "A_Logout",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Logout",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:A_OpenId",
-      "description": {
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "A_OpenId OpenIdURL",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
-        "fct-type": "function",
-        "title": "A_OpenId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "A_OpenId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Open Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:A_OpenIdProvider",
-      "description": {
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "A_OpenIdProvider AuthMode OpenIdProvider",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
-        "fct-type": "function",
-        "title": "A_OpenIdProvider"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "A_OpenIdProvider",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Open Id Provider",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:A_Signup",
-      "description": {
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "A_Signup",
-        "fct-source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
-        "fct-type": "function",
-        "title": "A_Signup"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "A_Signup",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Signup",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:AuthState",
-      "description": {
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthState",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthState",
-        "fct-type": "function",
-        "title": "AuthState"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "AuthState",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth State",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:AuthURL",
-      "description": {
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthURL AuthURL",
-        "fct-source": "src/Happstack-Auth-Core-AuthProfileURL.html#AuthProfileURL",
-        "fct-type": "function",
-        "title": "AuthURL"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "AuthURL",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth URL",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:P_PickProfile",
-      "description": {
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "P_PickProfile",
-        "fct-source": "src/Happstack-Auth-Core-ProfileURL.html#ProfileURL",
-        "fct-type": "function",
-        "title": "P_PickProfile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "P_PickProfile",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Pick Profile",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:P_SetAuthId",
-      "description": {
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "P_SetAuthId AuthId",
-        "fct-source": "src/Happstack-Auth-Core-ProfileURL.html#ProfileURL",
-        "fct-type": "function",
-        "title": "P_SetAuthId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "P_SetAuthId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Set Auth Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:P_SetPersonality",
-      "description": {
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "P_SetPersonality UserId",
-        "fct-source": "src/Happstack-Auth-Core-ProfileURL.html#ProfileURL",
-        "fct-type": "function",
-        "title": "P_SetPersonality"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "P_SetPersonality",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Set Personality",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:ProfileState",
-      "description": {
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "ProfileState",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#ProfileState",
-        "fct-type": "function",
-        "title": "ProfileState"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "ProfileState",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Profile State",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:ProfileURL",
-      "description": {
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "ProfileURL ProfileURL",
-        "fct-source": "src/Happstack-Auth-Core-AuthProfileURL.html#AuthProfileURL",
-        "fct-type": "function",
-        "title": "ProfileURL"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "ProfileURL",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Profile URL",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:UserId",
-      "description": {
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "UserId",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#UserId",
-        "fct-type": "function",
-        "title": "UserId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "UserId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "User Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:authMaps",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthMaps",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthState",
-        "fct-type": "function",
-        "title": "authMaps"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "authMaps",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Maps",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:authProfileHandler",
-      "description": {
-        "fct-descr": "\u003cp\u003ethis is a simple entry point into \u003ccode\u003ehappstack-authenticate\u003c/code\u003e that\n provides reasonable default behavior. A majority of the time you\n will just call this function.\n\u003c/p\u003e",
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Text-\u003e Text-\u003e AcidState AuthState-\u003e AcidState ProfileState-\u003e (String -\u003e Html -\u003e Html -\u003e m Response)-\u003e Maybe Credentials-\u003e Maybe Text-\u003e Text-\u003e m Response",
-        "fct-type": "function",
-        "title": "authProfileHandler"
-      },
-      "index": {
-        "description": "this is simple entry point into happstack-authenticate that provides reasonable default behavior majority of the time you will just call this function",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "authProfileHandler",
-        "normalized": "Text-\u003eText-\u003eAcidState AuthState-\u003eAcidState ProfileState-\u003e(String-\u003eHtml-\u003eHtml-\u003ea Response)-\u003eMaybe Credentials-\u003eMaybe Text-\u003eText-\u003ea Response",
-        "package": "happstack-authenticate",
-        "partial": "Profile Handler",
-        "signature": "Text-\u003eText-\u003eAcidState AuthState-\u003eAcidState ProfileState-\u003e(String-\u003eHtml-\u003eHtml-\u003em Response)-\u003eMaybe Credentials-\u003eMaybe Text-\u003eText-\u003em Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:authTokens",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthTokens",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthState",
-        "fct-type": "function",
-        "title": "authTokens"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "authTokens",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Tokens",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:authUserMap",
-      "description": {
-        "fct-descr": "\u003cp\u003emap of what \u003ccode\u003e\u003ca\u003eUserId\u003c/a\u003e\u003c/code\u003e an \u003ccode\u003e\u003ca\u003eAuthId\u003c/a\u003e\u003c/code\u003e is currently defaulting to\n\u003c/p\u003e",
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Map AuthId UserId",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#ProfileState",
-        "fct-type": "function",
-        "title": "authUserMap"
-      },
-      "index": {
-        "description": "map of what UserId an AuthId is currently defaulting to",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "authUserMap",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "User Map",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:defaultSessionTimeout",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Int",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthState",
-        "fct-type": "function",
-        "title": "defaultSessionTimeout"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "defaultSessionTimeout",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Session Timeout",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:getUserId",
-      "description": {
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AcidState AuthState -\u003e AcidState ProfileState -\u003e m (Maybe UserId)",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#getUserId",
-        "fct-type": "function",
-        "title": "getUserId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "getUserId",
-        "normalized": "AcidState AuthState-\u003eAcidState ProfileState-\u003ea(Maybe UserId)",
-        "package": "happstack-authenticate",
-        "partial": "User Id",
-        "signature": "AcidState AuthState-\u003eAcidState ProfileState-\u003em(Maybe UserId)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:handleAuth",
-      "description": {
-        "fct-descr": "\u003cp\u003eFunction which takes care of all \u003ccode\u003e\u003ca\u003eAuthURL\u003c/a\u003e\u003c/code\u003e routes.\n\u003c/p\u003e\u003cp\u003eThe caller provides a page template function which will be used to\n render pages. The provided page template function takes three\n arguments:\n\u003c/p\u003e\u003cpre\u003e    String -- ^ string to use in the \u003ctitle\u003e tag\n -\u003e Html   -- ^ extra headers to add to the \u003chead\u003e tag\n -\u003e Html   -- ^ contents to stick in the \u003cbody\u003e tag\n\u003c/pre\u003e",
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AcidState AuthState-\u003e (String -\u003e Html -\u003e Html -\u003e m Response)-\u003e Maybe Credentials-\u003e Maybe Text-\u003e Text-\u003e AuthURL-\u003e m Response",
-        "fct-type": "function",
-        "title": "handleAuth"
-      },
-      "index": {
-        "description": "Function which takes care of all AuthURL routes The caller provides page template function which will be used to render pages The provided page template function takes three arguments String string to use in the title tag Html extra headers to add to the head tag Html contents to stick in the body tag",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "handleAuth",
-        "normalized": "AcidState AuthState-\u003e(String-\u003eHtml-\u003eHtml-\u003ea Response)-\u003eMaybe Credentials-\u003eMaybe Text-\u003eText-\u003eAuthURL-\u003ea Response",
-        "package": "happstack-authenticate",
-        "partial": "Auth",
-        "signature": "AcidState AuthState-\u003e(String-\u003eHtml-\u003eHtml-\u003em Response)-\u003eMaybe Credentials-\u003eMaybe Text-\u003eText-\u003eAuthURL-\u003em Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:handleAuthProfile",
-      "description": {
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AcidState AuthState -\u003e AcidState ProfileState -\u003e (String -\u003e Html -\u003e Html -\u003e m Response) -\u003e Maybe Credentials -\u003e Maybe Text -\u003e Text -\u003e AuthProfileURL -\u003e m Response",
-        "fct-source": "src/Happstack-Auth-Blaze-Templates.html#handleAuthProfile",
-        "fct-type": "function",
-        "title": "handleAuthProfile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "handleAuthProfile",
-        "normalized": "AcidState AuthState-\u003eAcidState ProfileState-\u003e(String-\u003eHtml-\u003eHtml-\u003ea Response)-\u003eMaybe Credentials-\u003eMaybe Text-\u003eText-\u003eAuthProfileURL-\u003ea Response",
-        "package": "happstack-authenticate",
-        "partial": "Auth Profile",
-        "signature": "AcidState AuthState-\u003eAcidState ProfileState-\u003e(String-\u003eHtml-\u003eHtml-\u003em Response)-\u003eMaybe Credentials-\u003eMaybe Text-\u003eText-\u003eAuthProfileURL-\u003em Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:handleAuthProfileRouteT",
-      "description": {
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AcidState AuthState -\u003e AcidState ProfileState -\u003e (String -\u003e Html -\u003e Html -\u003e m Response) -\u003e Maybe Credentials -\u003e Maybe Text -\u003e Text -\u003e AuthProfileURL -\u003e RouteT AuthProfileURL m Response",
-        "fct-source": "src/Happstack-Auth-Blaze-Templates.html#handleAuthProfileRouteT",
-        "fct-type": "function",
-        "title": "handleAuthProfileRouteT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "handleAuthProfileRouteT",
-        "normalized": "AcidState AuthState-\u003eAcidState ProfileState-\u003e(String-\u003eHtml-\u003eHtml-\u003ea Response)-\u003eMaybe Credentials-\u003eMaybe Text-\u003eText-\u003eAuthProfileURL-\u003eRouteT AuthProfileURL a Response",
-        "package": "happstack-authenticate",
-        "partial": "Auth Profile Route",
-        "signature": "AcidState AuthState-\u003eAcidState ProfileState-\u003e(String-\u003eHtml-\u003eHtml-\u003em Response)-\u003eMaybe Credentials-\u003eMaybe Text-\u003eText-\u003eAuthProfileURL-\u003eRouteT AuthProfileURL m Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:handleProfile",
-      "description": {
-        "fct-descr": "\u003cp\u003eFunction which takes care of all \u003ccode\u003e\u003ca\u003eProfileURL\u003c/a\u003e\u003c/code\u003e routes.\n\u003c/p\u003e\u003cp\u003eThe caller provides a page template function which will be used to\n render pages. The provided page template function takes three\n arguments:\n\u003c/p\u003e\u003cpre\u003e    String -- ^ string to use in the \u003ctitle\u003e tag\n -\u003e Html   -- ^ extra headers to add to the \u003chead\u003e tag\n -\u003e Html   -- ^ contents to stick in the \u003cbody\u003e tag\n\u003c/pre\u003e",
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AcidState AuthState-\u003e AcidState ProfileState-\u003e (String -\u003e Html -\u003e Html -\u003e m Response)-\u003e Text-\u003e ProfileURL-\u003e m Response",
-        "fct-type": "function",
-        "title": "handleProfile"
-      },
-      "index": {
-        "description": "Function which takes care of all ProfileURL routes The caller provides page template function which will be used to render pages The provided page template function takes three arguments String string to use in the title tag Html extra headers to add to the head tag Html contents to stick in the body tag",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "handleProfile",
-        "normalized": "AcidState AuthState-\u003eAcidState ProfileState-\u003e(String-\u003eHtml-\u003eHtml-\u003ea Response)-\u003eText-\u003eProfileURL-\u003ea Response",
-        "package": "happstack-authenticate",
-        "partial": "Profile",
-        "signature": "AcidState AuthState-\u003eAcidState ProfileState-\u003e(String-\u003eHtml-\u003eHtml-\u003em Response)-\u003eText-\u003eProfileURL-\u003em Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:nextAuthId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "AuthId",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthState",
-        "fct-type": "function",
-        "title": "nextAuthId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "nextAuthId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Auth Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:nextUserId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "UserId",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#ProfileState",
-        "fct-type": "function",
-        "title": "nextUserId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "nextUserId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "User Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:nextUserPassId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "UserPassId",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthState",
-        "fct-type": "function",
-        "title": "nextUserPassId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "nextUserPassId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "User Pass Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:profiles",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Profiles",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#ProfileState",
-        "fct-type": "function",
-        "title": "profiles"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "profiles",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:unUserId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "Integer",
-        "fct-source": "src/Happstack-Auth-Core-Profile.html#UserId",
-        "fct-type": "function",
-        "title": "unUserId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "unUserId",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "User Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:userPasses",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Happstack.Auth",
-        "fct-package": "happstack-authenticate",
-        "fct-signature": "UserPasses",
-        "fct-source": "src/Happstack-Auth-Core-Auth.html#AuthState",
-        "fct-type": "function",
-        "title": "userPasses"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Happstack Auth",
-        "module": "Happstack.Auth",
-        "name": "userPasses",
-        "normalized": "",
-        "package": "happstack-authenticate",
-        "partial": "Passes",
-        "signature": ""
-      }
-    }
-  }
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "happstack-authenticate"
+      },
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eThis modules provides templates and routing functions which can\n be used to integrate authentication into your site.\n\u003c/p\u003e\u003cp\u003eIn most cases, you only need to call the \u003ccode\u003e\u003ca\u003ehandleAuth\u003c/a\u003e\u003c/code\u003e and\n \u003ccode\u003ehanldeProfile\u003c/code\u003e functions. The other functions are exported in case\n you wish to create your own alternatives to \u003ccode\u003e\u003ca\u003ehandleAuth\u003c/a\u003e\u003c/code\u003e /\n \u003ccode\u003e\u003ca\u003ehandleProfile\u003c/a\u003e\u003c/code\u003e\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "Templates",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Blaze-Templates.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "This modules provides templates and routing functions which can be used to integrate authentication into your site In most cases you only need to call the handleAuth and hanldeProfile functions The other functions are exported in case you wish to create your own alternatives to handleAuth handleProfile",
+          "hierarchy": "Happstack Auth Blaze Templates",
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "Templates",
+          "package": "happstack-authenticate",
+          "partial": "Templates",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "addAuthPage",
+          "package": "happstack-authenticate",
+          "signature": "Maybe Credentials -\u003e m Html",
+          "source": "src/Happstack-Auth-Blaze-Templates.html#addAuthPage",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Blaze Templates",
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "addAuthPage",
+          "normalized": "Maybe Credentials-\u003ea Html",
+          "package": "happstack-authenticate",
+          "partial": "Auth Page",
+          "signature": "Maybe Credentials-\u003em Html",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:addAuthPage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "authPicker",
+          "package": "happstack-authenticate",
+          "signature": "Set AuthId -\u003e m Html",
+          "source": "src/Happstack-Auth-Blaze-Templates.html#authPicker",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Blaze Templates",
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "authPicker",
+          "normalized": "Set AuthId-\u003ea Html",
+          "package": "happstack-authenticate",
+          "partial": "Picker",
+          "signature": "Set AuthId-\u003em Html",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:authPicker"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ethis is a simple entry point into \u003ccode\u003ehappstack-authenticate\u003c/code\u003e that\n provides reasonable default behavior. A majority of the time you\n will just call this function.\n\u003c/p\u003e",
+          "module": "[\"Happstack.Auth.Blaze.Templates\",\"Happstack.Auth\"]",
+          "name": "authProfileHandler",
+          "package": "happstack-authenticate",
+          "signature": "Text-\u003e Text-\u003e AcidState AuthState-\u003e AcidState ProfileState-\u003e (String -\u003e Html -\u003e Html -\u003e m Response)-\u003e Maybe Credentials-\u003e Maybe Text-\u003e Text-\u003e m Response",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:authProfileHandler\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:authProfileHandler\"]"
+        },
+        "index": {
+          "description": "this is simple entry point into happstack-authenticate that provides reasonable default behavior majority of the time you will just call this function",
+          "hierarchy": "Happstack Auth Blaze Templates",
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "authProfileHandler",
+          "normalized": "Text-\u003eText-\u003eAcidState AuthState-\u003eAcidState ProfileState-\u003e(String-\u003eHtml-\u003eHtml-\u003ea Response)-\u003eMaybe Credentials-\u003eMaybe Text-\u003eText-\u003ea Response",
+          "package": "happstack-authenticate",
+          "partial": "Profile Handler",
+          "signature": "Text-\u003eText-\u003eAcidState AuthState-\u003eAcidState ProfileState-\u003e(String-\u003eHtml-\u003eHtml-\u003em Response)-\u003eMaybe Credentials-\u003eMaybe Text-\u003eText-\u003em Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:authProfileHandler"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "changePasswordForm",
+          "package": "happstack-authenticate",
+          "signature": "AcidState AuthState -\u003e UserPass -\u003e AuthForm v Text",
+          "source": "src/Happstack-Auth-Blaze-Templates.html#changePasswordForm",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Blaze Templates",
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "changePasswordForm",
+          "normalized": "AcidState AuthState-\u003eUserPass-\u003eAuthForm a Text",
+          "package": "happstack-authenticate",
+          "partial": "Password Form",
+          "signature": "AcidState AuthState-\u003eUserPass-\u003eAuthForm v Text",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:changePasswordForm"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "changePasswordPage",
+          "package": "happstack-authenticate",
+          "signature": "AcidState AuthState -\u003e (String -\u003e Html -\u003e Html -\u003e m Response) -\u003e AuthURL -\u003e m Response",
+          "source": "src/Happstack-Auth-Blaze-Templates.html#changePasswordPage",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Blaze Templates",
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "changePasswordPage",
+          "normalized": "AcidState AuthState-\u003e(String-\u003eHtml-\u003eHtml-\u003ea Response)-\u003eAuthURL-\u003ea Response",
+          "package": "happstack-authenticate",
+          "partial": "Password Page",
+          "signature": "AcidState AuthState-\u003e(String-\u003eHtml-\u003eHtml-\u003em Response)-\u003eAuthURL-\u003em Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:changePasswordPage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "createAccountPage",
+          "package": "happstack-authenticate",
+          "signature": "AcidState AuthState -\u003e (String -\u003e Html -\u003e Html -\u003e m Response) -\u003e Text -\u003e AuthURL -\u003e m Response",
+          "source": "src/Happstack-Auth-Blaze-Templates.html#createAccountPage",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Blaze Templates",
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "createAccountPage",
+          "normalized": "AcidState AuthState-\u003e(String-\u003eHtml-\u003eHtml-\u003ea Response)-\u003eText-\u003eAuthURL-\u003ea Response",
+          "package": "happstack-authenticate",
+          "partial": "Account Page",
+          "signature": "AcidState AuthState-\u003e(String-\u003eHtml-\u003eHtml-\u003em Response)-\u003eText-\u003eAuthURL-\u003em Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:createAccountPage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "genericOpenIdPage",
+          "package": "happstack-authenticate",
+          "signature": "(String -\u003e Html -\u003e Html -\u003e m Response) -\u003e AuthURL -\u003e AuthMode -\u003e m Response",
+          "source": "src/Happstack-Auth-Blaze-Templates.html#genericOpenIdPage",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Blaze Templates",
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "genericOpenIdPage",
+          "normalized": "(String-\u003eHtml-\u003eHtml-\u003ea Response)-\u003eAuthURL-\u003eAuthMode-\u003ea Response",
+          "package": "happstack-authenticate",
+          "partial": "Open Id Page",
+          "signature": "(String-\u003eHtml-\u003eHtml-\u003em Response)-\u003eAuthURL-\u003eAuthMode-\u003em Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:genericOpenIdPage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "googlePage",
+          "package": "happstack-authenticate",
+          "signature": "AuthURL -\u003e AuthMode -\u003e m Response",
+          "source": "src/Happstack-Auth-Blaze-Templates.html#googlePage",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Blaze Templates",
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "googlePage",
+          "normalized": "AuthURL-\u003eAuthMode-\u003ea Response",
+          "package": "happstack-authenticate",
+          "partial": "Page",
+          "signature": "AuthURL-\u003eAuthMode-\u003em Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:googlePage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eFunction which takes care of all \u003ccode\u003e\u003ca\u003eAuthURL\u003c/a\u003e\u003c/code\u003e routes.\n\u003c/p\u003e\u003cp\u003eThe caller provides a page template function which will be used to\n render pages. The provided page template function takes three\n arguments:\n\u003c/p\u003e\u003cpre\u003e    String -- ^ string to use in the \u003ctitle\u003e tag\n -\u003e Html   -- ^ extra headers to add to the \u003chead\u003e tag\n -\u003e Html   -- ^ contents to stick in the \u003cbody\u003e tag\n\u003c/pre\u003e",
+          "module": "[\"Happstack.Auth.Blaze.Templates\",\"Happstack.Auth\"]",
+          "name": "handleAuth",
+          "package": "happstack-authenticate",
+          "signature": "AcidState AuthState-\u003e (String -\u003e Html -\u003e Html -\u003e m Response)-\u003e Maybe Credentials-\u003e Maybe Text-\u003e Text-\u003e AuthURL-\u003e m Response",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:handleAuth\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:handleAuth\"]"
+        },
+        "index": {
+          "description": "Function which takes care of all AuthURL routes The caller provides page template function which will be used to render pages The provided page template function takes three arguments String string to use in the title tag Html extra headers to add to the head tag Html contents to stick in the body tag",
+          "hierarchy": "Happstack Auth Blaze Templates",
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "handleAuth",
+          "normalized": "AcidState AuthState-\u003e(String-\u003eHtml-\u003eHtml-\u003ea Response)-\u003eMaybe Credentials-\u003eMaybe Text-\u003eText-\u003eAuthURL-\u003ea Response",
+          "package": "happstack-authenticate",
+          "partial": "Auth",
+          "signature": "AcidState AuthState-\u003e(String-\u003eHtml-\u003eHtml-\u003em Response)-\u003eMaybe Credentials-\u003eMaybe Text-\u003eText-\u003eAuthURL-\u003em Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:handleAuth"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Blaze.Templates\",\"Happstack.Auth\"]",
+          "name": "handleAuthProfile",
+          "package": "happstack-authenticate",
+          "signature": "AcidState AuthState -\u003e AcidState ProfileState -\u003e (String -\u003e Html -\u003e Html -\u003e m Response) -\u003e Maybe Credentials -\u003e Maybe Text -\u003e Text -\u003e AuthProfileURL -\u003e m Response",
+          "source": "src/Happstack-Auth-Blaze-Templates.html#handleAuthProfile",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:handleAuthProfile\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:handleAuthProfile\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Blaze Templates",
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "handleAuthProfile",
+          "normalized": "AcidState AuthState-\u003eAcidState ProfileState-\u003e(String-\u003eHtml-\u003eHtml-\u003ea Response)-\u003eMaybe Credentials-\u003eMaybe Text-\u003eText-\u003eAuthProfileURL-\u003ea Response",
+          "package": "happstack-authenticate",
+          "partial": "Auth Profile",
+          "signature": "AcidState AuthState-\u003eAcidState ProfileState-\u003e(String-\u003eHtml-\u003eHtml-\u003em Response)-\u003eMaybe Credentials-\u003eMaybe Text-\u003eText-\u003eAuthProfileURL-\u003em Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:handleAuthProfile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Blaze.Templates\",\"Happstack.Auth\"]",
+          "name": "handleAuthProfileRouteT",
+          "package": "happstack-authenticate",
+          "signature": "AcidState AuthState -\u003e AcidState ProfileState -\u003e (String -\u003e Html -\u003e Html -\u003e m Response) -\u003e Maybe Credentials -\u003e Maybe Text -\u003e Text -\u003e AuthProfileURL -\u003e RouteT AuthProfileURL m Response",
+          "source": "src/Happstack-Auth-Blaze-Templates.html#handleAuthProfileRouteT",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:handleAuthProfileRouteT\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:handleAuthProfileRouteT\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Blaze Templates",
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "handleAuthProfileRouteT",
+          "normalized": "AcidState AuthState-\u003eAcidState ProfileState-\u003e(String-\u003eHtml-\u003eHtml-\u003ea Response)-\u003eMaybe Credentials-\u003eMaybe Text-\u003eText-\u003eAuthProfileURL-\u003eRouteT AuthProfileURL a Response",
+          "package": "happstack-authenticate",
+          "partial": "Auth Profile Route",
+          "signature": "AcidState AuthState-\u003eAcidState ProfileState-\u003e(String-\u003eHtml-\u003eHtml-\u003em Response)-\u003eMaybe Credentials-\u003eMaybe Text-\u003eText-\u003eAuthProfileURL-\u003eRouteT AuthProfileURL m Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:handleAuthProfileRouteT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eFunction which takes care of all \u003ccode\u003e\u003ca\u003eProfileURL\u003c/a\u003e\u003c/code\u003e routes.\n\u003c/p\u003e\u003cp\u003eThe caller provides a page template function which will be used to\n render pages. The provided page template function takes three\n arguments:\n\u003c/p\u003e\u003cpre\u003e    String -- ^ string to use in the \u003ctitle\u003e tag\n -\u003e Html   -- ^ extra headers to add to the \u003chead\u003e tag\n -\u003e Html   -- ^ contents to stick in the \u003cbody\u003e tag\n\u003c/pre\u003e",
+          "module": "[\"Happstack.Auth.Blaze.Templates\",\"Happstack.Auth\"]",
+          "name": "handleProfile",
+          "package": "happstack-authenticate",
+          "signature": "AcidState AuthState-\u003e AcidState ProfileState-\u003e (String -\u003e Html -\u003e Html -\u003e m Response)-\u003e Text-\u003e ProfileURL-\u003e m Response",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:handleProfile\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:handleProfile\"]"
+        },
+        "index": {
+          "description": "Function which takes care of all ProfileURL routes The caller provides page template function which will be used to render pages The provided page template function takes three arguments String string to use in the title tag Html extra headers to add to the head tag Html contents to stick in the body tag",
+          "hierarchy": "Happstack Auth Blaze Templates",
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "handleProfile",
+          "normalized": "AcidState AuthState-\u003eAcidState ProfileState-\u003e(String-\u003eHtml-\u003eHtml-\u003ea Response)-\u003eText-\u003eProfileURL-\u003ea Response",
+          "package": "happstack-authenticate",
+          "partial": "Profile",
+          "signature": "AcidState AuthState-\u003eAcidState ProfileState-\u003e(String-\u003eHtml-\u003eHtml-\u003em Response)-\u003eText-\u003eProfileURL-\u003em Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:handleProfile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "liveJournalForm",
+          "package": "happstack-authenticate",
+          "signature": "AuthForm m Text",
+          "source": "src/Happstack-Auth-Blaze-Templates.html#liveJournalForm",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Blaze Templates",
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "liveJournalForm",
+          "package": "happstack-authenticate",
+          "partial": "Journal Form",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:liveJournalForm"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "liveJournalPage",
+          "package": "happstack-authenticate",
+          "signature": "(String -\u003e Html -\u003e Html -\u003e m Response) -\u003e AuthURL -\u003e AuthMode -\u003e m Response",
+          "source": "src/Happstack-Auth-Blaze-Templates.html#liveJournalPage",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Blaze Templates",
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "liveJournalPage",
+          "normalized": "(String-\u003eHtml-\u003eHtml-\u003ea Response)-\u003eAuthURL-\u003eAuthMode-\u003ea Response",
+          "package": "happstack-authenticate",
+          "partial": "Journal Page",
+          "signature": "(String-\u003eHtml-\u003eHtml-\u003em Response)-\u003eAuthURL-\u003eAuthMode-\u003em Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:liveJournalPage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "localLoginPage",
+          "package": "happstack-authenticate",
+          "signature": "AcidState (EventState UserPassIdAuthIds) -\u003e (a -\u003e a1 -\u003e Html -\u003e m Response) -\u003e AuthURL -\u003e Text -\u003e m Response",
+          "source": "src/Happstack-Auth-Blaze-Templates.html#localLoginPage",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Blaze Templates",
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "localLoginPage",
+          "normalized": "AcidState(EventState UserPassIdAuthIds)-\u003e(a-\u003ea-\u003eHtml-\u003eb Response)-\u003eAuthURL-\u003eText-\u003eb Response",
+          "package": "happstack-authenticate",
+          "partial": "Login Page",
+          "signature": "AcidState(EventState UserPassIdAuthIds)-\u003e(a-\u003ea-\u003eHtml-\u003em Response)-\u003eAuthURL-\u003eText-\u003em Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:localLoginPage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "loginPage",
+          "package": "happstack-authenticate",
+          "signature": "Maybe Credentials -\u003e m Html",
+          "source": "src/Happstack-Auth-Blaze-Templates.html#loginPage",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Blaze Templates",
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "loginPage",
+          "normalized": "Maybe Credentials-\u003ea Html",
+          "package": "happstack-authenticate",
+          "partial": "Page",
+          "signature": "Maybe Credentials-\u003em Html",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:loginPage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "logoutPage",
+          "package": "happstack-authenticate",
+          "signature": "AcidState AuthState -\u003e m Html",
+          "source": "src/Happstack-Auth-Blaze-Templates.html#logoutPage",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Blaze Templates",
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "logoutPage",
+          "normalized": "AcidState AuthState-\u003ea Html",
+          "package": "happstack-authenticate",
+          "partial": "Page",
+          "signature": "AcidState AuthState-\u003em Html",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:logoutPage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "myspacePage",
+          "package": "happstack-authenticate",
+          "signature": "(String -\u003e Html -\u003e Html -\u003e m Response) -\u003e AuthURL -\u003e AuthMode -\u003e m Response",
+          "source": "src/Happstack-Auth-Blaze-Templates.html#myspacePage",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Blaze Templates",
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "myspacePage",
+          "normalized": "(String-\u003eHtml-\u003eHtml-\u003ea Response)-\u003eAuthURL-\u003eAuthMode-\u003ea Response",
+          "package": "happstack-authenticate",
+          "partial": "Page",
+          "signature": "(String-\u003eHtml-\u003eHtml-\u003em Response)-\u003eAuthURL-\u003eAuthMode-\u003em Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:myspacePage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "newAccountForm",
+          "package": "happstack-authenticate",
+          "signature": "AcidState AuthState -\u003e AuthForm v (AuthId, UserPassId)",
+          "source": "src/Happstack-Auth-Blaze-Templates.html#newAccountForm",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Blaze Templates",
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "newAccountForm",
+          "normalized": "AcidState AuthState-\u003eAuthForm a(AuthId,UserPassId)",
+          "package": "happstack-authenticate",
+          "partial": "Account Form",
+          "signature": "AcidState AuthState-\u003eAuthForm v(AuthId,UserPassId)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:newAccountForm"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "personalityPicker",
+          "package": "happstack-authenticate",
+          "signature": "Set Profile -\u003e m Html",
+          "source": "src/Happstack-Auth-Blaze-Templates.html#personalityPicker",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Blaze Templates",
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "personalityPicker",
+          "normalized": "Set Profile-\u003ea Html",
+          "package": "happstack-authenticate",
+          "partial": "Picker",
+          "signature": "Set Profile-\u003em Html",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:personalityPicker"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "providerPage",
+          "package": "happstack-authenticate",
+          "signature": "(String -\u003e Html -\u003e Html -\u003e m Response) -\u003e OpenIdProvider -\u003e AuthURL -\u003e AuthMode -\u003e m Response",
+          "source": "src/Happstack-Auth-Blaze-Templates.html#providerPage",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Blaze Templates",
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "providerPage",
+          "normalized": "(String-\u003eHtml-\u003eHtml-\u003ea Response)-\u003eOpenIdProvider-\u003eAuthURL-\u003eAuthMode-\u003ea Response",
+          "package": "happstack-authenticate",
+          "partial": "Page",
+          "signature": "(String-\u003eHtml-\u003eHtml-\u003em Response)-\u003eOpenIdProvider-\u003eAuthURL-\u003eAuthMode-\u003em Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:providerPage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "yahooPage",
+          "package": "happstack-authenticate",
+          "signature": "AuthURL -\u003e AuthMode -\u003e m Response",
+          "source": "src/Happstack-Auth-Blaze-Templates.html#yahooPage",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Blaze Templates",
+          "module": "Happstack.Auth.Blaze.Templates",
+          "name": "yahooPage",
+          "normalized": "AuthURL-\u003eAuthMode-\u003ea Response",
+          "package": "happstack-authenticate",
+          "partial": "Page",
+          "signature": "AuthURL-\u003eAuthMode-\u003em Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Blaze-Templates.html#v:yahooPage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "Auth",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "Auth",
+          "package": "happstack-authenticate",
+          "partial": "Auth",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AddAuthMethod",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#AddAuthMethod",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AddAuthMethod",
+          "package": "happstack-authenticate",
+          "partial": "Add Auth Method",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:AddAuthMethod"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AddAuthToken",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#AddAuthToken",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AddAuthToken",
+          "package": "happstack-authenticate",
+          "partial": "Add Auth Token",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:AddAuthToken"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AddAuthUserPassId",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#AddAuthUserPassId",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AddAuthUserPassId",
+          "package": "happstack-authenticate",
+          "partial": "Add Auth User Pass Id",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:AddAuthUserPassId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AskAuthState",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#AskAuthState",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AskAuthState",
+          "package": "happstack-authenticate",
+          "partial": "Ask Auth State",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:AskAuthState"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AskAuthToken",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#AskAuthToken",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AskAuthToken",
+          "package": "happstack-authenticate",
+          "partial": "Ask Auth Token",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:AskAuthToken"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AskUserPass",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#AskUserPass",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AskUserPass",
+          "package": "happstack-authenticate",
+          "partial": "Ask User Pass",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:AskUserPass"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AuthId",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthId",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AuthId",
+          "package": "happstack-authenticate",
+          "partial": "Auth Id",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:AuthId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eThis links an authentication method (such as on OpenId \u003ccode\u003e\u003ca\u003eIdentifier\u003c/a\u003e\u003c/code\u003e, a \u003ccode\u003e\u003ca\u003eFacebookId\u003c/a\u003e\u003c/code\u003e, or \u003ccode\u003e\u003ca\u003eUserPassId\u003c/a\u003e\u003c/code\u003e) to an \u003ccode\u003e\u003ca\u003eAuthId\u003c/a\u003e\u003c/code\u003e.\n\u003c/p\u003e",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AuthMap",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthMap",
+          "type": "data"
+        },
+        "index": {
+          "description": "This links an authentication method such as on OpenId Identifier FacebookId or UserPassId to an AuthId",
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AuthMap",
+          "package": "happstack-authenticate",
+          "partial": "Auth Map",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:AuthMap"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AuthMethod",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthMethod",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AuthMethod",
+          "package": "happstack-authenticate",
+          "partial": "Auth Method",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:AuthMethod"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AuthMethod_v1",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthMethod_v1",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AuthMethod_v1",
+          "package": "happstack-authenticate",
+          "partial": "Auth Method",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:AuthMethod_v1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AuthState",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthState",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AuthState",
+          "package": "happstack-authenticate",
+          "partial": "Auth State",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:AuthState"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AuthToken",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthToken",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AuthToken",
+          "package": "happstack-authenticate",
+          "partial": "Auth Token",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:AuthToken"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "CheckUserPass",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#CheckUserPass",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "CheckUserPass",
+          "package": "happstack-authenticate",
+          "partial": "Check User Pass",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:CheckUserPass"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "CreateUserPass",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#CreateUserPass",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "CreateUserPass",
+          "package": "happstack-authenticate",
+          "partial": "Create User Pass",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:CreateUserPass"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "DeleteAuthToken",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#DeleteAuthToken",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "DeleteAuthToken",
+          "package": "happstack-authenticate",
+          "partial": "Delete Auth Token",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:DeleteAuthToken"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "FacebookAuthIds",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#FacebookAuthIds",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "FacebookAuthIds",
+          "package": "happstack-authenticate",
+          "partial": "Facebook Auth Ids",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:FacebookAuthIds"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "FacebookId",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#FacebookId",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "FacebookId",
+          "package": "happstack-authenticate",
+          "partial": "Facebook Id",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:FacebookId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "GenAuthId",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#GenAuthId",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "GenAuthId",
+          "package": "happstack-authenticate",
+          "partial": "Gen Auth Id",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:GenAuthId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "GetDefaultSessionTimeout",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#GetDefaultSessionTimeout",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "GetDefaultSessionTimeout",
+          "package": "happstack-authenticate",
+          "partial": "Get Default Session Timeout",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:GetDefaultSessionTimeout"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "HashedPass",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#HashedPass",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "HashedPass",
+          "package": "happstack-authenticate",
+          "partial": "Hashed Pass",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:HashedPass"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "IdentifierAuthIds",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#IdentifierAuthIds",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "IdentifierAuthIds",
+          "package": "happstack-authenticate",
+          "partial": "Identifier Auth Ids",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:IdentifierAuthIds"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "NewAuthMethod",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#NewAuthMethod",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "NewAuthMethod",
+          "package": "happstack-authenticate",
+          "partial": "New Auth Method",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:NewAuthMethod"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "RemoveAuthIdentifier",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#RemoveAuthIdentifier",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "RemoveAuthIdentifier",
+          "package": "happstack-authenticate",
+          "partial": "Remove Auth Identifier",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:RemoveAuthIdentifier"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "RemoveAuthUserPassId",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#RemoveAuthUserPassId",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "RemoveAuthUserPassId",
+          "package": "happstack-authenticate",
+          "partial": "Remove Auth User Pass Id",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:RemoveAuthUserPassId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "SetDefaultSessionTimeout",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#SetDefaultSessionTimeout",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "SetDefaultSessionTimeout",
+          "package": "happstack-authenticate",
+          "partial": "Set Default Session Timeout",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:SetDefaultSessionTimeout"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "SetPassword",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#SetPassword",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "SetPassword",
+          "package": "happstack-authenticate",
+          "partial": "Set Password",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:SetPassword"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "SetUserName",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#SetUserName",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "SetUserName",
+          "package": "happstack-authenticate",
+          "partial": "Set User Name",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:SetUserName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "UpdateAuthToken",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#UpdateAuthToken",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "UpdateAuthToken",
+          "package": "happstack-authenticate",
+          "partial": "Update Auth Token",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:UpdateAuthToken"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eNOTE: The Eq and Ord instances are 'case-insensitive'. They apply \u003ccode\u003etoCaseFold\u003c/code\u003e before comparing.\n\u003c/p\u003e",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "UserName",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#UserName",
+          "type": "newtype"
+        },
+        "index": {
+          "description": "NOTE The Eq and Ord instances are case-insensitive They apply toCaseFold before comparing",
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "UserName",
+          "package": "happstack-authenticate",
+          "partial": "User Name",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:UserName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "UserPass",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#UserPass",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "UserPass",
+          "package": "happstack-authenticate",
+          "partial": "User Pass",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:UserPass"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eerrors that can occur when working with \u003ccode\u003e\u003ca\u003eUserPass\u003c/a\u003e\u003c/code\u003e\n\u003c/p\u003e",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "UserPassError",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#UserPassError",
+          "type": "data"
+        },
+        "index": {
+          "description": "errors that can occur when working with UserPass",
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "UserPassError",
+          "package": "happstack-authenticate",
+          "partial": "User Pass Error",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:UserPassError"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "UserPassId",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#UserPassId",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "UserPassId",
+          "package": "happstack-authenticate",
+          "partial": "User Pass Id",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:UserPassId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "UserPassIdAuthIds",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#UserPassIdAuthIds",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "UserPassIdAuthIds",
+          "package": "happstack-authenticate",
+          "partial": "User Pass Id Auth Ids",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#t:UserPassIdAuthIds"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AddAuthMethod",
+          "package": "happstack-authenticate",
+          "signature": "AddAuthMethod AuthMethod AuthId",
+          "source": "src/Happstack-Auth-Core-Auth.html#AddAuthMethod",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AddAuthMethod",
+          "package": "happstack-authenticate",
+          "partial": "Add Auth Method",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AddAuthMethod"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AddAuthToken",
+          "package": "happstack-authenticate",
+          "signature": "AddAuthToken AuthToken",
+          "source": "src/Happstack-Auth-Core-Auth.html#AddAuthToken",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AddAuthToken",
+          "package": "happstack-authenticate",
+          "partial": "Add Auth Token",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AddAuthToken"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AddAuthUserPassId",
+          "package": "happstack-authenticate",
+          "signature": "AddAuthUserPassId UserPassId AuthId",
+          "source": "src/Happstack-Auth-Core-Auth.html#AddAuthUserPassId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AddAuthUserPassId",
+          "package": "happstack-authenticate",
+          "partial": "Add Auth User Pass Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AddAuthUserPassId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AskAuthState",
+          "package": "happstack-authenticate",
+          "signature": "AskAuthState",
+          "source": "src/Happstack-Auth-Core-Auth.html#AskAuthState",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AskAuthState",
+          "package": "happstack-authenticate",
+          "partial": "Ask Auth State",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AskAuthState"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AskAuthToken",
+          "package": "happstack-authenticate",
+          "signature": "AskAuthToken String",
+          "source": "src/Happstack-Auth-Core-Auth.html#AskAuthToken",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AskAuthToken",
+          "package": "happstack-authenticate",
+          "partial": "Ask Auth Token",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AskAuthToken"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AskUserPass",
+          "package": "happstack-authenticate",
+          "signature": "AskUserPass UserPassId",
+          "source": "src/Happstack-Auth-Core-Auth.html#AskUserPass",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AskUserPass",
+          "package": "happstack-authenticate",
+          "partial": "Ask User Pass",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AskUserPass"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AuthFacebook",
+          "package": "happstack-authenticate",
+          "signature": "AuthFacebook",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthMethod",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AuthFacebook",
+          "package": "happstack-authenticate",
+          "partial": "Auth Facebook",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AuthFacebook"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AuthId",
+          "package": "happstack-authenticate",
+          "signature": "AuthId",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AuthId",
+          "package": "happstack-authenticate",
+          "partial": "Auth Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AuthId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AuthIdentifier",
+          "package": "happstack-authenticate",
+          "signature": "AuthIdentifier",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthMethod",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AuthIdentifier",
+          "package": "happstack-authenticate",
+          "partial": "Auth Identifier",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AuthIdentifier"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AuthIdentifier_v1",
+          "package": "happstack-authenticate",
+          "signature": "AuthIdentifier_v1",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthMethod_v1",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AuthIdentifier_v1",
+          "package": "happstack-authenticate",
+          "partial": "Auth Identifier",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AuthIdentifier_v1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AuthMap",
+          "package": "happstack-authenticate",
+          "signature": "AuthMap",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthMap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AuthMap",
+          "package": "happstack-authenticate",
+          "partial": "Auth Map",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AuthMap"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Core.Auth\",\"Happstack.Auth\"]",
+          "name": "AuthState",
+          "package": "happstack-authenticate",
+          "signature": "AuthState",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthState",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AuthState\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:AuthState\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AuthState",
+          "package": "happstack-authenticate",
+          "partial": "Auth State",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AuthState"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AuthToken",
+          "package": "happstack-authenticate",
+          "signature": "AuthToken",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthToken",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AuthToken",
+          "package": "happstack-authenticate",
+          "partial": "Auth Token",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AuthToken"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AuthUserPassId",
+          "package": "happstack-authenticate",
+          "signature": "AuthUserPassId",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthMethod",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AuthUserPassId",
+          "package": "happstack-authenticate",
+          "partial": "Auth User Pass Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AuthUserPassId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AuthUserPassId_v1",
+          "package": "happstack-authenticate",
+          "signature": "AuthUserPassId_v1",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthMethod_v1",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "AuthUserPassId_v1",
+          "package": "happstack-authenticate",
+          "partial": "Auth User Pass Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:AuthUserPassId_v1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "CheckUserPass",
+          "package": "happstack-authenticate",
+          "signature": "CheckUserPass Text Text",
+          "source": "src/Happstack-Auth-Core-Auth.html#CheckUserPass",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "CheckUserPass",
+          "package": "happstack-authenticate",
+          "partial": "Check User Pass",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:CheckUserPass"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "CreateUserPass",
+          "package": "happstack-authenticate",
+          "signature": "CreateUserPass UserName HashedPass",
+          "source": "src/Happstack-Auth-Core-Auth.html#CreateUserPass",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "CreateUserPass",
+          "package": "happstack-authenticate",
+          "partial": "Create User Pass",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:CreateUserPass"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "DeleteAuthToken",
+          "package": "happstack-authenticate",
+          "signature": "DeleteAuthToken String",
+          "source": "src/Happstack-Auth-Core-Auth.html#DeleteAuthToken",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "DeleteAuthToken",
+          "package": "happstack-authenticate",
+          "partial": "Delete Auth Token",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:DeleteAuthToken"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "FacebookAuthIds",
+          "package": "happstack-authenticate",
+          "signature": "FacebookAuthIds FacebookId",
+          "source": "src/Happstack-Auth-Core-Auth.html#FacebookAuthIds",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "FacebookAuthIds",
+          "package": "happstack-authenticate",
+          "partial": "Facebook Auth Ids",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:FacebookAuthIds"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "FacebookId",
+          "package": "happstack-authenticate",
+          "signature": "FacebookId",
+          "source": "src/Happstack-Auth-Core-Auth.html#FacebookId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "FacebookId",
+          "package": "happstack-authenticate",
+          "partial": "Facebook Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:FacebookId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "GenAuthId",
+          "package": "happstack-authenticate",
+          "signature": "GenAuthId",
+          "source": "src/Happstack-Auth-Core-Auth.html#GenAuthId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "GenAuthId",
+          "package": "happstack-authenticate",
+          "partial": "Gen Auth Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:GenAuthId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "GetDefaultSessionTimeout",
+          "package": "happstack-authenticate",
+          "signature": "GetDefaultSessionTimeout",
+          "source": "src/Happstack-Auth-Core-Auth.html#GetDefaultSessionTimeout",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "GetDefaultSessionTimeout",
+          "package": "happstack-authenticate",
+          "partial": "Get Default Session Timeout",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:GetDefaultSessionTimeout"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "HashedPass",
+          "package": "happstack-authenticate",
+          "signature": "HashedPass ByteString",
+          "source": "src/Happstack-Auth-Core-Auth.html#HashedPass",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "HashedPass",
+          "package": "happstack-authenticate",
+          "partial": "Hashed Pass",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:HashedPass"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "IdentifierAuthIds",
+          "package": "happstack-authenticate",
+          "signature": "IdentifierAuthIds Identifier",
+          "source": "src/Happstack-Auth-Core-Auth.html#IdentifierAuthIds",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "IdentifierAuthIds",
+          "package": "happstack-authenticate",
+          "partial": "Identifier Auth Ids",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:IdentifierAuthIds"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "InvalidPassword",
+          "package": "happstack-authenticate",
+          "signature": "InvalidPassword",
+          "source": "src/Happstack-Auth-Core-Auth.html#UserPassError",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "InvalidPassword",
+          "package": "happstack-authenticate",
+          "partial": "Invalid Password",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:InvalidPassword"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "InvalidUserName",
+          "package": "happstack-authenticate",
+          "signature": "InvalidUserName UserName",
+          "source": "src/Happstack-Auth-Core-Auth.html#UserPassError",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "InvalidUserName",
+          "package": "happstack-authenticate",
+          "partial": "Invalid User Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:InvalidUserName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "InvalidUserPassId",
+          "package": "happstack-authenticate",
+          "signature": "InvalidUserPassId UserPassId",
+          "source": "src/Happstack-Auth-Core-Auth.html#UserPassError",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "InvalidUserPassId",
+          "package": "happstack-authenticate",
+          "partial": "Invalid User Pass Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:InvalidUserPassId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "NewAuthMethod",
+          "package": "happstack-authenticate",
+          "signature": "NewAuthMethod AuthMethod",
+          "source": "src/Happstack-Auth-Core-Auth.html#NewAuthMethod",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "NewAuthMethod",
+          "package": "happstack-authenticate",
+          "partial": "New Auth Method",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:NewAuthMethod"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "RemoveAuthIdentifier",
+          "package": "happstack-authenticate",
+          "signature": "RemoveAuthIdentifier Identifier AuthId",
+          "source": "src/Happstack-Auth-Core-Auth.html#RemoveAuthIdentifier",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "RemoveAuthIdentifier",
+          "package": "happstack-authenticate",
+          "partial": "Remove Auth Identifier",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:RemoveAuthIdentifier"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "RemoveAuthUserPassId",
+          "package": "happstack-authenticate",
+          "signature": "RemoveAuthUserPassId UserPassId AuthId",
+          "source": "src/Happstack-Auth-Core-Auth.html#RemoveAuthUserPassId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "RemoveAuthUserPassId",
+          "package": "happstack-authenticate",
+          "partial": "Remove Auth User Pass Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:RemoveAuthUserPassId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "SetDefaultSessionTimeout",
+          "package": "happstack-authenticate",
+          "signature": "SetDefaultSessionTimeout Int",
+          "source": "src/Happstack-Auth-Core-Auth.html#SetDefaultSessionTimeout",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "SetDefaultSessionTimeout",
+          "package": "happstack-authenticate",
+          "partial": "Set Default Session Timeout",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:SetDefaultSessionTimeout"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "SetPassword",
+          "package": "happstack-authenticate",
+          "signature": "SetPassword UserPassId HashedPass",
+          "source": "src/Happstack-Auth-Core-Auth.html#SetPassword",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "SetPassword",
+          "package": "happstack-authenticate",
+          "partial": "Set Password",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:SetPassword"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "SetUserName",
+          "package": "happstack-authenticate",
+          "signature": "SetUserName UserPassId Text",
+          "source": "src/Happstack-Auth-Core-Auth.html#SetUserName",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "SetUserName",
+          "package": "happstack-authenticate",
+          "partial": "Set User Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:SetUserName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "UpdateAuthToken",
+          "package": "happstack-authenticate",
+          "signature": "UpdateAuthToken AuthToken",
+          "source": "src/Happstack-Auth-Core-Auth.html#UpdateAuthToken",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "UpdateAuthToken",
+          "package": "happstack-authenticate",
+          "partial": "Update Auth Token",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:UpdateAuthToken"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "UserName",
+          "package": "happstack-authenticate",
+          "signature": "UserName",
+          "source": "src/Happstack-Auth-Core-Auth.html#UserName",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "UserName",
+          "package": "happstack-authenticate",
+          "partial": "User Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:UserName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "UserPass",
+          "package": "happstack-authenticate",
+          "signature": "UserPass",
+          "source": "src/Happstack-Auth-Core-Auth.html#UserPass",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "UserPass",
+          "package": "happstack-authenticate",
+          "partial": "User Pass",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:UserPass"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "UserPassId",
+          "package": "happstack-authenticate",
+          "signature": "UserPassId",
+          "source": "src/Happstack-Auth-Core-Auth.html#UserPassId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "UserPassId",
+          "package": "happstack-authenticate",
+          "partial": "User Pass Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:UserPassId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "UserPassIdAuthIds",
+          "package": "happstack-authenticate",
+          "signature": "UserPassIdAuthIds UserPassId",
+          "source": "src/Happstack-Auth-Core-Auth.html#UserPassIdAuthIds",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "UserPassIdAuthIds",
+          "package": "happstack-authenticate",
+          "partial": "User Pass Id Auth Ids",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:UserPassIdAuthIds"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "UsernameInUse",
+          "package": "happstack-authenticate",
+          "signature": "UsernameInUse UserName",
+          "source": "src/Happstack-Auth-Core-Auth.html#UserPassError",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "UsernameInUse",
+          "package": "happstack-authenticate",
+          "partial": "Username In Use",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:UsernameInUse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "addAuthCookie",
+          "package": "happstack-authenticate",
+          "signature": "AcidState AuthState -\u003e Maybe AuthId -\u003e AuthMethod -\u003e m ()",
+          "source": "src/Happstack-Auth-Core-Auth.html#addAuthCookie",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "addAuthCookie",
+          "normalized": "AcidState AuthState-\u003eMaybe AuthId-\u003eAuthMethod-\u003ea()",
+          "package": "happstack-authenticate",
+          "partial": "Auth Cookie",
+          "signature": "AcidState AuthState-\u003eMaybe AuthId-\u003eAuthMethod-\u003em()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:addAuthCookie"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "amAuthId",
+          "package": "happstack-authenticate",
+          "signature": "AuthId",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthMap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "amAuthId",
+          "package": "happstack-authenticate",
+          "partial": "Auth Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:amAuthId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "amFacebookId",
+          "package": "happstack-authenticate",
+          "signature": "FacebookId",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthMethod",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "amFacebookId",
+          "package": "happstack-authenticate",
+          "partial": "Facebook Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:amFacebookId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "amIdentifier",
+          "package": "happstack-authenticate",
+          "signature": "Identifier",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthMethod",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "amIdentifier",
+          "package": "happstack-authenticate",
+          "partial": "Identifier",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:amIdentifier"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "amIdentifier_v1",
+          "package": "happstack-authenticate",
+          "signature": "Identifier",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthMethod_v1",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "amIdentifier_v1",
+          "package": "happstack-authenticate",
+          "partial": "Identifier",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:amIdentifier_v1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "amMethod",
+          "package": "happstack-authenticate",
+          "signature": "AuthMethod",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthMap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "amMethod",
+          "package": "happstack-authenticate",
+          "partial": "Method",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:amMethod"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "amUserPassId",
+          "package": "happstack-authenticate",
+          "signature": "UserPassId",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthMethod",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "amUserPassId",
+          "package": "happstack-authenticate",
+          "partial": "User Pass Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:amUserPassId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "amUserPassId_v1",
+          "package": "happstack-authenticate",
+          "signature": "UserPassId",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthMethod_v1",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "amUserPassId_v1",
+          "package": "happstack-authenticate",
+          "partial": "User Pass Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:amUserPassId_v1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Core.Auth\",\"Happstack.Auth\"]",
+          "name": "authMaps",
+          "package": "happstack-authenticate",
+          "signature": "AuthMaps",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthState",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:authMaps\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:authMaps\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "authMaps",
+          "package": "happstack-authenticate",
+          "partial": "Maps",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:authMaps"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Core.Auth\",\"Happstack.Auth\"]",
+          "name": "authTokens",
+          "package": "happstack-authenticate",
+          "signature": "AuthTokens",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthState",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:authTokens\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:authTokens\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "authTokens",
+          "package": "happstack-authenticate",
+          "partial": "Tokens",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:authTokens"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Core.Auth\",\"Happstack.Auth\"]",
+          "name": "defaultSessionTimeout",
+          "package": "happstack-authenticate",
+          "signature": "Int",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthState",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:defaultSessionTimeout\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:defaultSessionTimeout\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "defaultSessionTimeout",
+          "package": "happstack-authenticate",
+          "partial": "Session Timeout",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:defaultSessionTimeout"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "deleteAuthCookie",
+          "package": "happstack-authenticate",
+          "signature": "AcidState AuthState -\u003e m ()",
+          "source": "src/Happstack-Auth-Core-Auth.html#deleteAuthCookie",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "deleteAuthCookie",
+          "normalized": "AcidState AuthState-\u003ea()",
+          "package": "happstack-authenticate",
+          "partial": "Auth Cookie",
+          "signature": "AcidState AuthState-\u003em()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:deleteAuthCookie"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003egenerate an new authentication token\n\u003c/p\u003e",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "genAuthToken",
+          "package": "happstack-authenticate",
+          "signature": "Maybe AuthId -\u003e AuthMethod -\u003e Int -\u003e m AuthToken",
+          "source": "src/Happstack-Auth-Core-Auth.html#genAuthToken",
+          "type": "function"
+        },
+        "index": {
+          "description": "generate an new authentication token",
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "genAuthToken",
+          "normalized": "Maybe AuthId-\u003eAuthMethod-\u003eInt-\u003ea AuthToken",
+          "package": "happstack-authenticate",
+          "partial": "Auth Token",
+          "signature": "Maybe AuthId-\u003eAuthMethod-\u003eInt-\u003em AuthToken",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:genAuthToken"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "getAuthId",
+          "package": "happstack-authenticate",
+          "signature": "AcidState AuthState -\u003e m (Maybe AuthId)",
+          "source": "src/Happstack-Auth-Core-Auth.html#getAuthId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "getAuthId",
+          "normalized": "AcidState AuthState-\u003ea(Maybe AuthId)",
+          "package": "happstack-authenticate",
+          "partial": "Auth Id",
+          "signature": "AcidState AuthState-\u003em(Maybe AuthId)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:getAuthId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "getAuthToken",
+          "package": "happstack-authenticate",
+          "signature": "AcidState AuthState -\u003e m (Maybe AuthToken)",
+          "source": "src/Happstack-Auth-Core-Auth.html#getAuthToken",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "getAuthToken",
+          "normalized": "AcidState AuthState-\u003ea(Maybe AuthToken)",
+          "package": "happstack-authenticate",
+          "partial": "Auth Token",
+          "signature": "AcidState AuthState-\u003em(Maybe AuthToken)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:getAuthToken"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ea reasonable initial \u003ccode\u003e\u003ca\u003eAuthState\u003c/a\u003e\u003c/code\u003e\n\u003c/p\u003e",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "initialAuthState",
+          "package": "happstack-authenticate",
+          "signature": "AuthState",
+          "source": "src/Happstack-Auth-Core-Auth.html#initialAuthState",
+          "type": "function"
+        },
+        "index": {
+          "description": "reasonable initial AuthState",
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "initialAuthState",
+          "package": "happstack-authenticate",
+          "partial": "Auth State",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:initialAuthState"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ehash a password string\n\u003c/p\u003e",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "mkHashedPass",
+          "package": "happstack-authenticate",
+          "signature": "Text-\u003e IO HashedPass",
+          "type": "function"
+        },
+        "index": {
+          "description": "hash password string",
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "mkHashedPass",
+          "normalized": "Text-\u003eIO HashedPass",
+          "package": "happstack-authenticate",
+          "partial": "Hashed Pass",
+          "signature": "Text-\u003eIO HashedPass",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:mkHashedPass"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Core.Auth\",\"Happstack.Auth\"]",
+          "name": "nextAuthId",
+          "package": "happstack-authenticate",
+          "signature": "AuthId",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthState",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:nextAuthId\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:nextAuthId\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "nextAuthId",
+          "package": "happstack-authenticate",
+          "partial": "Auth Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:nextAuthId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Core.Auth\",\"Happstack.Auth\"]",
+          "name": "nextUserPassId",
+          "package": "happstack-authenticate",
+          "signature": "UserPassId",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthState",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:nextUserPassId\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:nextUserPassId\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "nextUserPassId",
+          "package": "happstack-authenticate",
+          "partial": "User Pass Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:nextUserPassId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "tokenAuthId",
+          "package": "happstack-authenticate",
+          "signature": "Maybe AuthId",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthToken",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "tokenAuthId",
+          "package": "happstack-authenticate",
+          "partial": "Auth Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:tokenAuthId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "tokenAuthMethod",
+          "package": "happstack-authenticate",
+          "signature": "AuthMethod",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthToken",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "tokenAuthMethod",
+          "package": "happstack-authenticate",
+          "partial": "Auth Method",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:tokenAuthMethod"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "tokenExpires",
+          "package": "happstack-authenticate",
+          "signature": "UTCTime",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthToken",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "tokenExpires",
+          "package": "happstack-authenticate",
+          "partial": "Expires",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:tokenExpires"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "tokenLifetime",
+          "package": "happstack-authenticate",
+          "signature": "Int",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthToken",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "tokenLifetime",
+          "package": "happstack-authenticate",
+          "partial": "Lifetime",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:tokenLifetime"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "tokenString",
+          "package": "happstack-authenticate",
+          "signature": "String",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthToken",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "tokenString",
+          "package": "happstack-authenticate",
+          "partial": "String",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:tokenString"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "unAuthId",
+          "package": "happstack-authenticate",
+          "signature": "Integer",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "unAuthId",
+          "package": "happstack-authenticate",
+          "partial": "Auth Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:unAuthId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "unFacebookId",
+          "package": "happstack-authenticate",
+          "signature": "UserId",
+          "source": "src/Happstack-Auth-Core-Auth.html#FacebookId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "unFacebookId",
+          "package": "happstack-authenticate",
+          "partial": "Facebook Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:unFacebookId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "unUserName",
+          "package": "happstack-authenticate",
+          "signature": "Text",
+          "source": "src/Happstack-Auth-Core-Auth.html#UserName",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "unUserName",
+          "package": "happstack-authenticate",
+          "partial": "User Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:unUserName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "unUserPassId",
+          "package": "happstack-authenticate",
+          "signature": "Integer",
+          "source": "src/Happstack-Auth-Core-Auth.html#UserPassId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "unUserPassId",
+          "package": "happstack-authenticate",
+          "partial": "User Pass Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:unUserPassId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "upId",
+          "package": "happstack-authenticate",
+          "signature": "UserPassId",
+          "source": "src/Happstack-Auth-Core-Auth.html#UserPass",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "upId",
+          "package": "happstack-authenticate",
+          "partial": "Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:upId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "upName",
+          "package": "happstack-authenticate",
+          "signature": "UserName",
+          "source": "src/Happstack-Auth-Core-Auth.html#UserPass",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "upName",
+          "package": "happstack-authenticate",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:upName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "upPassword",
+          "package": "happstack-authenticate",
+          "signature": "HashedPass",
+          "source": "src/Happstack-Auth-Core-Auth.html#UserPass",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "upPassword",
+          "package": "happstack-authenticate",
+          "partial": "Password",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:upPassword"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ereturn a user-friendly error message string for an \u003ccode\u003eAddAuthError\u003c/code\u003e\n\u003c/p\u003e",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "userPassErrorString",
+          "package": "happstack-authenticate",
+          "signature": "UserPassError -\u003e String",
+          "source": "src/Happstack-Auth-Core-Auth.html#userPassErrorString",
+          "type": "function"
+        },
+        "index": {
+          "description": "return user-friendly error message string for an AddAuthError",
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "userPassErrorString",
+          "normalized": "UserPassError-\u003eString",
+          "package": "happstack-authenticate",
+          "partial": "Pass Error String",
+          "signature": "UserPassError-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:userPassErrorString"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Core.Auth\",\"Happstack.Auth\"]",
+          "name": "userPasses",
+          "package": "happstack-authenticate",
+          "signature": "UserPasses",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthState",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:userPasses\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:userPasses\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Auth",
+          "module": "Happstack.Auth.Core.Auth",
+          "name": "userPasses",
+          "package": "happstack-authenticate",
+          "partial": "Passes",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Auth.html#v:userPasses"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.AuthParts",
+          "name": "AuthParts",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-AuthParts.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthParts",
+          "module": "Happstack.Auth.Core.AuthParts",
+          "name": "AuthParts",
+          "package": "happstack-authenticate",
+          "partial": "Auth Parts",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthParts.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.AuthParts",
+          "name": "connect",
+          "package": "happstack-authenticate",
+          "signature": "AuthMode-\u003e Maybe Text-\u003e Text-\u003e m Response",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthParts",
+          "module": "Happstack.Auth.Core.AuthParts",
+          "name": "connect",
+          "normalized": "AuthMode-\u003eMaybe Text-\u003eText-\u003ea Response",
+          "package": "happstack-authenticate",
+          "signature": "AuthMode-\u003eMaybe Text-\u003eText-\u003em Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthParts.html#v:connect"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.AuthParts",
+          "name": "facebookAddAuthIdsCookie",
+          "package": "happstack-authenticate",
+          "signature": "AcidState AuthState -\u003e FacebookId -\u003e m (Maybe AuthId)",
+          "source": "src/Happstack-Auth-Core-AuthParts.html#facebookAddAuthIdsCookie",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthParts",
+          "module": "Happstack.Auth.Core.AuthParts",
+          "name": "facebookAddAuthIdsCookie",
+          "normalized": "AcidState AuthState-\u003eFacebookId-\u003ea(Maybe AuthId)",
+          "package": "happstack-authenticate",
+          "partial": "Add Auth Ids Cookie",
+          "signature": "AcidState AuthState-\u003eFacebookId-\u003em(Maybe AuthId)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthParts.html#v:facebookAddAuthIdsCookie"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.AuthParts",
+          "name": "facebookPage",
+          "package": "happstack-authenticate",
+          "signature": "Credentials -\u003e AuthMode -\u003e m Response",
+          "source": "src/Happstack-Auth-Core-AuthParts.html#facebookPage",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthParts",
+          "module": "Happstack.Auth.Core.AuthParts",
+          "name": "facebookPage",
+          "normalized": "Credentials-\u003eAuthMode-\u003ea Response",
+          "package": "happstack-authenticate",
+          "partial": "Page",
+          "signature": "Credentials-\u003eAuthMode-\u003em Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthParts.html#v:facebookPage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.AuthParts",
+          "name": "facebookRedirectPage",
+          "package": "happstack-authenticate",
+          "signature": "AcidState AuthState-\u003e Credentials-\u003e Text-\u003e AuthMode-\u003e m Response",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthParts",
+          "module": "Happstack.Auth.Core.AuthParts",
+          "name": "facebookRedirectPage",
+          "normalized": "AcidState AuthState-\u003eCredentials-\u003eText-\u003eAuthMode-\u003ea Response",
+          "package": "happstack-authenticate",
+          "partial": "Redirect Page",
+          "signature": "AcidState AuthState-\u003eCredentials-\u003eText-\u003eAuthMode-\u003em Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthParts.html#v:facebookRedirectPage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.AuthParts",
+          "name": "getIdentifier",
+          "package": "happstack-authenticate",
+          "signature": "m Identifier",
+          "source": "src/Happstack-Auth-Core-AuthParts.html#getIdentifier",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthParts",
+          "module": "Happstack.Auth.Core.AuthParts",
+          "name": "getIdentifier",
+          "package": "happstack-authenticate",
+          "partial": "Identifier",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthParts.html#v:getIdentifier"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.AuthParts",
+          "name": "handleOpenId",
+          "package": "happstack-authenticate",
+          "signature": "AcidState AuthState-\u003e Maybe Text-\u003e Text-\u003e OpenIdURL-\u003e m Response",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthParts",
+          "module": "Happstack.Auth.Core.AuthParts",
+          "name": "handleOpenId",
+          "normalized": "AcidState AuthState-\u003eMaybe Text-\u003eText-\u003eOpenIdURL-\u003ea Response",
+          "package": "happstack-authenticate",
+          "partial": "Open Id",
+          "signature": "AcidState AuthState-\u003eMaybe Text-\u003eText-\u003eOpenIdURL-\u003em Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthParts.html#v:handleOpenId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.AuthParts",
+          "name": "identifierAddAuthIdsCookie",
+          "package": "happstack-authenticate",
+          "signature": "AcidState AuthState -\u003e Identifier -\u003e m (Maybe AuthId)",
+          "source": "src/Happstack-Auth-Core-AuthParts.html#identifierAddAuthIdsCookie",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthParts",
+          "module": "Happstack.Auth.Core.AuthParts",
+          "name": "identifierAddAuthIdsCookie",
+          "normalized": "AcidState AuthState-\u003eIdentifier-\u003ea(Maybe AuthId)",
+          "package": "happstack-authenticate",
+          "partial": "Add Auth Ids Cookie",
+          "signature": "AcidState AuthState-\u003eIdentifier-\u003em(Maybe AuthId)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthParts.html#v:identifierAddAuthIdsCookie"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.AuthParts",
+          "name": "openIdPage",
+          "package": "happstack-authenticate",
+          "signature": "AcidState AuthState -\u003e AuthMode -\u003e Text -\u003e m Response",
+          "source": "src/Happstack-Auth-Core-AuthParts.html#openIdPage",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthParts",
+          "module": "Happstack.Auth.Core.AuthParts",
+          "name": "openIdPage",
+          "normalized": "AcidState AuthState-\u003eAuthMode-\u003eText-\u003ea Response",
+          "package": "happstack-authenticate",
+          "partial": "Id Page",
+          "signature": "AcidState AuthState-\u003eAuthMode-\u003eText-\u003em Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthParts.html#v:openIdPage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.AuthProfileURL",
+          "name": "AuthProfileURL",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-AuthProfileURL.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthProfileURL",
+          "module": "Happstack.Auth.Core.AuthProfileURL",
+          "name": "AuthProfileURL",
+          "package": "happstack-authenticate",
+          "partial": "Auth Profile URL",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthProfileURL.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.AuthProfileURL",
+          "name": "AuthProfileURL",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-AuthProfileURL.html#AuthProfileURL",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthProfileURL",
+          "module": "Happstack.Auth.Core.AuthProfileURL",
+          "name": "AuthProfileURL",
+          "package": "happstack-authenticate",
+          "partial": "Auth Profile URL",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthProfileURL.html#t:AuthProfileURL"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Core.AuthProfileURL\",\"Happstack.Auth\"]",
+          "name": "AuthURL",
+          "package": "happstack-authenticate",
+          "signature": "AuthURL AuthURL",
+          "source": "src/Happstack-Auth-Core-AuthProfileURL.html#AuthProfileURL",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthProfileURL.html#v:AuthURL\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:AuthURL\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthProfileURL",
+          "module": "Happstack.Auth.Core.AuthProfileURL",
+          "name": "AuthURL",
+          "package": "happstack-authenticate",
+          "partial": "Auth URL",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthProfileURL.html#v:AuthURL"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Core.AuthProfileURL\",\"Happstack.Auth\"]",
+          "name": "ProfileURL",
+          "package": "happstack-authenticate",
+          "signature": "ProfileURL ProfileURL",
+          "source": "src/Happstack-Auth-Core-AuthProfileURL.html#AuthProfileURL",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthProfileURL.html#v:ProfileURL\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:ProfileURL\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthProfileURL",
+          "module": "Happstack.Auth.Core.AuthProfileURL",
+          "name": "ProfileURL",
+          "package": "happstack-authenticate",
+          "partial": "Profile URL",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthProfileURL.html#v:ProfileURL"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "AuthURL",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-AuthURL.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthURL",
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "AuthURL",
+          "package": "happstack-authenticate",
+          "partial": "Auth URL",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "AuthMode",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-AuthURL.html#AuthMode",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthURL",
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "AuthMode",
+          "package": "happstack-authenticate",
+          "partial": "Auth Mode",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#t:AuthMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "AuthURL",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthURL",
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "AuthURL",
+          "package": "happstack-authenticate",
+          "partial": "Auth URL",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#t:AuthURL"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "OpenIdProvider",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-AuthURL.html#OpenIdProvider",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthURL",
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "OpenIdProvider",
+          "package": "happstack-authenticate",
+          "partial": "Open Id Provider",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#t:OpenIdProvider"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "OpenIdURL",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-AuthURL.html#OpenIdURL",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthURL",
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "OpenIdURL",
+          "package": "happstack-authenticate",
+          "partial": "Open Id URL",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#t:OpenIdURL"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Core.AuthURL\",\"Happstack.Auth\"]",
+          "name": "A_AddAuth",
+          "package": "happstack-authenticate",
+          "signature": "A_AddAuth",
+          "source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_AddAuth\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:A_AddAuth\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthURL",
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "A_AddAuth",
+          "package": "happstack-authenticate",
+          "partial": "Add Auth",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_AddAuth"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Core.AuthURL\",\"Happstack.Auth\"]",
+          "name": "A_ChangePassword",
+          "package": "happstack-authenticate",
+          "signature": "A_ChangePassword",
+          "source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_ChangePassword\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:A_ChangePassword\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthURL",
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "A_ChangePassword",
+          "package": "happstack-authenticate",
+          "partial": "Change Password",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_ChangePassword"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Core.AuthURL\",\"Happstack.Auth\"]",
+          "name": "A_CreateAccount",
+          "package": "happstack-authenticate",
+          "signature": "A_CreateAccount",
+          "source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_CreateAccount\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:A_CreateAccount\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthURL",
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "A_CreateAccount",
+          "package": "happstack-authenticate",
+          "partial": "Create Account",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_CreateAccount"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Core.AuthURL\",\"Happstack.Auth\"]",
+          "name": "A_Facebook",
+          "package": "happstack-authenticate",
+          "signature": "A_Facebook AuthMode",
+          "source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_Facebook\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:A_Facebook\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthURL",
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "A_Facebook",
+          "package": "happstack-authenticate",
+          "partial": "Facebook",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_Facebook"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Core.AuthURL\",\"Happstack.Auth\"]",
+          "name": "A_FacebookRedirect",
+          "package": "happstack-authenticate",
+          "signature": "A_FacebookRedirect AuthMode",
+          "source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_FacebookRedirect\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:A_FacebookRedirect\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthURL",
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "A_FacebookRedirect",
+          "package": "happstack-authenticate",
+          "partial": "Facebook Redirect",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_FacebookRedirect"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Core.AuthURL\",\"Happstack.Auth\"]",
+          "name": "A_Local",
+          "package": "happstack-authenticate",
+          "signature": "A_Local",
+          "source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_Local\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:A_Local\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthURL",
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "A_Local",
+          "package": "happstack-authenticate",
+          "partial": "Local",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_Local"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Core.AuthURL\",\"Happstack.Auth\"]",
+          "name": "A_Login",
+          "package": "happstack-authenticate",
+          "signature": "A_Login",
+          "source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_Login\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:A_Login\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthURL",
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "A_Login",
+          "package": "happstack-authenticate",
+          "partial": "Login",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_Login"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Core.AuthURL\",\"Happstack.Auth\"]",
+          "name": "A_Logout",
+          "package": "happstack-authenticate",
+          "signature": "A_Logout",
+          "source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_Logout\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:A_Logout\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthURL",
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "A_Logout",
+          "package": "happstack-authenticate",
+          "partial": "Logout",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_Logout"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Core.AuthURL\",\"Happstack.Auth\"]",
+          "name": "A_OpenId",
+          "package": "happstack-authenticate",
+          "signature": "A_OpenId OpenIdURL",
+          "source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_OpenId\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:A_OpenId\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthURL",
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "A_OpenId",
+          "package": "happstack-authenticate",
+          "partial": "Open Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_OpenId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Core.AuthURL\",\"Happstack.Auth\"]",
+          "name": "A_OpenIdProvider",
+          "package": "happstack-authenticate",
+          "signature": "A_OpenIdProvider AuthMode OpenIdProvider",
+          "source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_OpenIdProvider\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:A_OpenIdProvider\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthURL",
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "A_OpenIdProvider",
+          "package": "happstack-authenticate",
+          "partial": "Open Id Provider",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_OpenIdProvider"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Core.AuthURL\",\"Happstack.Auth\"]",
+          "name": "A_Signup",
+          "package": "happstack-authenticate",
+          "signature": "A_Signup",
+          "source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_Signup\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:A_Signup\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthURL",
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "A_Signup",
+          "package": "happstack-authenticate",
+          "partial": "Signup",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:A_Signup"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "AddIdentifierMode",
+          "package": "happstack-authenticate",
+          "signature": "AddIdentifierMode",
+          "source": "src/Happstack-Auth-Core-AuthURL.html#AuthMode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthURL",
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "AddIdentifierMode",
+          "package": "happstack-authenticate",
+          "partial": "Add Identifier Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:AddIdentifierMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "Generic",
+          "package": "happstack-authenticate",
+          "signature": "Generic",
+          "source": "src/Happstack-Auth-Core-AuthURL.html#OpenIdProvider",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthURL",
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "Generic",
+          "package": "happstack-authenticate",
+          "partial": "Generic",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:Generic"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "Google",
+          "package": "happstack-authenticate",
+          "signature": "Google",
+          "source": "src/Happstack-Auth-Core-AuthURL.html#OpenIdProvider",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthURL",
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "Google",
+          "package": "happstack-authenticate",
+          "partial": "Google",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:Google"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "LiveJournal",
+          "package": "happstack-authenticate",
+          "signature": "LiveJournal",
+          "source": "src/Happstack-Auth-Core-AuthURL.html#OpenIdProvider",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthURL",
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "LiveJournal",
+          "package": "happstack-authenticate",
+          "partial": "Live Journal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:LiveJournal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "LoginMode",
+          "package": "happstack-authenticate",
+          "signature": "LoginMode",
+          "source": "src/Happstack-Auth-Core-AuthURL.html#AuthMode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthURL",
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "LoginMode",
+          "package": "happstack-authenticate",
+          "partial": "Login Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:LoginMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "Myspace",
+          "package": "happstack-authenticate",
+          "signature": "Myspace",
+          "source": "src/Happstack-Auth-Core-AuthURL.html#OpenIdProvider",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthURL",
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "Myspace",
+          "package": "happstack-authenticate",
+          "partial": "Myspace",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:Myspace"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "O_Connect",
+          "package": "happstack-authenticate",
+          "signature": "O_Connect AuthMode",
+          "source": "src/Happstack-Auth-Core-AuthURL.html#OpenIdURL",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthURL",
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "O_Connect",
+          "package": "happstack-authenticate",
+          "partial": "Connect",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:O_Connect"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "O_OpenId",
+          "package": "happstack-authenticate",
+          "signature": "O_OpenId AuthMode",
+          "source": "src/Happstack-Auth-Core-AuthURL.html#OpenIdURL",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthURL",
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "O_OpenId",
+          "package": "happstack-authenticate",
+          "partial": "Open Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:O_OpenId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "Yahoo",
+          "package": "happstack-authenticate",
+          "signature": "Yahoo",
+          "source": "src/Happstack-Auth-Core-AuthURL.html#OpenIdProvider",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthURL",
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "Yahoo",
+          "package": "happstack-authenticate",
+          "partial": "Yahoo",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:Yahoo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "authUrlInverse",
+          "package": "happstack-authenticate",
+          "signature": "Property",
+          "source": "src/Happstack-Auth-Core-AuthURL.html#authUrlInverse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core AuthURL",
+          "module": "Happstack.Auth.Core.AuthURL",
+          "name": "authUrlInverse",
+          "package": "happstack-authenticate",
+          "partial": "Url Inverse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-AuthURL.html#v:authUrlInverse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "Profile",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Profile.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "Profile",
+          "package": "happstack-authenticate",
+          "partial": "Profile",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "AuthIdProfiles",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Profile.html#AuthIdProfiles",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "AuthIdProfiles",
+          "package": "happstack-authenticate",
+          "partial": "Auth Id Profiles",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#t:AuthIdProfiles"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "AuthIdUserId",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Profile.html#AuthIdUserId",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "AuthIdUserId",
+          "package": "happstack-authenticate",
+          "partial": "Auth Id User Id",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#t:AuthIdUserId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "CreateNewProfile",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Profile.html#CreateNewProfile",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "CreateNewProfile",
+          "package": "happstack-authenticate",
+          "partial": "Create New Profile",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#t:CreateNewProfile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "GenUserId",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Profile.html#GenUserId",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "GenUserId",
+          "package": "happstack-authenticate",
+          "partial": "Gen User Id",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#t:GenUserId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "GetProfileState",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Profile.html#GetProfileState",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "GetProfileState",
+          "package": "happstack-authenticate",
+          "partial": "Get Profile State",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#t:GetProfileState"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "Profile",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Profile.html#Profile",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "Profile",
+          "package": "happstack-authenticate",
+          "partial": "Profile",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#t:Profile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "ProfileState",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Profile.html#ProfileState",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "ProfileState",
+          "package": "happstack-authenticate",
+          "partial": "Profile State",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#t:ProfileState"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "Profiles",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Profile.html#Profiles",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "Profiles",
+          "package": "happstack-authenticate",
+          "partial": "Profiles",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#t:Profiles"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "SetAuthIdUserId",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Profile.html#SetAuthIdUserId",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "SetAuthIdUserId",
+          "package": "happstack-authenticate",
+          "partial": "Set Auth Id User Id",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#t:SetAuthIdUserId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "UserId",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Profile.html#UserId",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "UserId",
+          "package": "happstack-authenticate",
+          "partial": "User Id",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#t:UserId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "AuthIdProfiles",
+          "package": "happstack-authenticate",
+          "signature": "AuthIdProfiles AuthId",
+          "source": "src/Happstack-Auth-Core-Profile.html#AuthIdProfiles",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "AuthIdProfiles",
+          "package": "happstack-authenticate",
+          "partial": "Auth Id Profiles",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:AuthIdProfiles"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "AuthIdUserId",
+          "package": "happstack-authenticate",
+          "signature": "AuthIdUserId AuthId",
+          "source": "src/Happstack-Auth-Core-Profile.html#AuthIdUserId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "AuthIdUserId",
+          "package": "happstack-authenticate",
+          "partial": "Auth Id User Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:AuthIdUserId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "CreateNewProfile",
+          "package": "happstack-authenticate",
+          "signature": "CreateNewProfile (Set AuthId)",
+          "source": "src/Happstack-Auth-Core-Profile.html#CreateNewProfile",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "CreateNewProfile",
+          "package": "happstack-authenticate",
+          "partial": "Create New Profile",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:CreateNewProfile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "GenUserId",
+          "package": "happstack-authenticate",
+          "signature": "GenUserId",
+          "source": "src/Happstack-Auth-Core-Profile.html#GenUserId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "GenUserId",
+          "package": "happstack-authenticate",
+          "partial": "Gen User Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:GenUserId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "GetProfileState",
+          "package": "happstack-authenticate",
+          "signature": "GetProfileState",
+          "source": "src/Happstack-Auth-Core-Profile.html#GetProfileState",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "GetProfileState",
+          "package": "happstack-authenticate",
+          "partial": "Get Profile State",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:GetProfileState"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "Profile",
+          "package": "happstack-authenticate",
+          "signature": "Profile",
+          "source": "src/Happstack-Auth-Core-Profile.html#Profile",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "Profile",
+          "package": "happstack-authenticate",
+          "partial": "Profile",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:Profile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Core.Profile\",\"Happstack.Auth\"]",
+          "name": "ProfileState",
+          "package": "happstack-authenticate",
+          "signature": "ProfileState",
+          "source": "src/Happstack-Auth-Core-Profile.html#ProfileState",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:ProfileState\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:ProfileState\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "ProfileState",
+          "package": "happstack-authenticate",
+          "partial": "Profile State",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:ProfileState"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "SetAuthIdUserId",
+          "package": "happstack-authenticate",
+          "signature": "SetAuthIdUserId AuthId UserId",
+          "source": "src/Happstack-Auth-Core-Profile.html#SetAuthIdUserId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "SetAuthIdUserId",
+          "package": "happstack-authenticate",
+          "partial": "Set Auth Id User Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:SetAuthIdUserId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Core.Profile\",\"Happstack.Auth\"]",
+          "name": "UserId",
+          "package": "happstack-authenticate",
+          "signature": "UserId",
+          "source": "src/Happstack-Auth-Core-Profile.html#UserId",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:UserId\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:UserId\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "UserId",
+          "package": "happstack-authenticate",
+          "partial": "User Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:UserId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "authIdProfiles",
+          "package": "happstack-authenticate",
+          "signature": "AuthId -\u003e Query ProfileState (Set Profile)",
+          "source": "src/Happstack-Auth-Core-Profile.html#authIdProfiles",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "authIdProfiles",
+          "normalized": "AuthId-\u003eQuery ProfileState(Set Profile)",
+          "package": "happstack-authenticate",
+          "partial": "Id Profiles",
+          "signature": "AuthId-\u003eQuery ProfileState(Set Profile)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:authIdProfiles"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "authIdUserId",
+          "package": "happstack-authenticate",
+          "signature": "AuthId -\u003e Query ProfileState (Maybe UserId)",
+          "source": "src/Happstack-Auth-Core-Profile.html#authIdUserId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "authIdUserId",
+          "normalized": "AuthId-\u003eQuery ProfileState(Maybe UserId)",
+          "package": "happstack-authenticate",
+          "partial": "Id User Id",
+          "signature": "AuthId-\u003eQuery ProfileState(Maybe UserId)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:authIdUserId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003emap of what \u003ccode\u003e\u003ca\u003eUserId\u003c/a\u003e\u003c/code\u003e an \u003ccode\u003e\u003ca\u003eAuthId\u003c/a\u003e\u003c/code\u003e is currently defaulting to\n\u003c/p\u003e",
+          "module": "[\"Happstack.Auth.Core.Profile\",\"Happstack.Auth\"]",
+          "name": "authUserMap",
+          "package": "happstack-authenticate",
+          "signature": "Map AuthId UserId",
+          "source": "src/Happstack-Auth-Core-Profile.html#ProfileState",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:authUserMap\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:authUserMap\"]"
+        },
+        "index": {
+          "description": "map of what UserId an AuthId is currently defaulting to",
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "authUserMap",
+          "package": "happstack-authenticate",
+          "partial": "User Map",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:authUserMap"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "auths",
+          "package": "happstack-authenticate",
+          "signature": "Set AuthId",
+          "source": "src/Happstack-Auth-Core-Profile.html#Profile",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "auths",
+          "package": "happstack-authenticate",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:auths"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "createNewProfile",
+          "package": "happstack-authenticate",
+          "signature": "Set AuthId -\u003e Update ProfileState UserId",
+          "source": "src/Happstack-Auth-Core-Profile.html#createNewProfile",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "createNewProfile",
+          "normalized": "Set AuthId-\u003eUpdate ProfileState UserId",
+          "package": "happstack-authenticate",
+          "partial": "New Profile",
+          "signature": "Set AuthId-\u003eUpdate ProfileState UserId",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:createNewProfile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "genUserId",
+          "package": "happstack-authenticate",
+          "signature": "Update ProfileState UserId",
+          "source": "src/Happstack-Auth-Core-Profile.html#genUserId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "genUserId",
+          "package": "happstack-authenticate",
+          "partial": "User Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:genUserId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eRetrieve the entire ProfileState\n Warning, this is an admin level function?\n\u003c/p\u003e",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "getProfileState",
+          "package": "happstack-authenticate",
+          "signature": "Query ProfileState ProfileState",
+          "source": "src/Happstack-Auth-Core-Profile.html#getProfileState",
+          "type": "function"
+        },
+        "index": {
+          "description": "Retrieve the entire ProfileState Warning this is an admin level function",
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "getProfileState",
+          "package": "happstack-authenticate",
+          "partial": "Profile State",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:getProfileState"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Core.Profile\",\"Happstack.Auth\"]",
+          "name": "getUserId",
+          "package": "happstack-authenticate",
+          "signature": "AcidState AuthState -\u003e AcidState ProfileState -\u003e m (Maybe UserId)",
+          "source": "src/Happstack-Auth-Core-Profile.html#getUserId",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:getUserId\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:getUserId\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "getUserId",
+          "normalized": "AcidState AuthState-\u003eAcidState ProfileState-\u003ea(Maybe UserId)",
+          "package": "happstack-authenticate",
+          "partial": "User Id",
+          "signature": "AcidState AuthState-\u003eAcidState ProfileState-\u003em(Maybe UserId)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:getUserId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ea reasonable initial \u003ccode\u003e\u003ca\u003eProfileState\u003c/a\u003e\u003c/code\u003e\n\u003c/p\u003e",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "initialProfileState",
+          "package": "happstack-authenticate",
+          "signature": "ProfileState",
+          "source": "src/Happstack-Auth-Core-Profile.html#initialProfileState",
+          "type": "function"
+        },
+        "index": {
+          "description": "reasonable initial ProfileState",
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "initialProfileState",
+          "package": "happstack-authenticate",
+          "partial": "Profile State",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:initialProfileState"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Core.Profile\",\"Happstack.Auth\"]",
+          "name": "nextUserId",
+          "package": "happstack-authenticate",
+          "signature": "UserId",
+          "source": "src/Happstack-Auth-Core-Profile.html#ProfileState",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:nextUserId\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:nextUserId\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "nextUserId",
+          "package": "happstack-authenticate",
+          "partial": "User Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:nextUserId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "nickName",
+          "package": "happstack-authenticate",
+          "signature": "Text",
+          "source": "src/Happstack-Auth-Core-Profile.html#Profile",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "nickName",
+          "package": "happstack-authenticate",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:nickName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Core.Profile\",\"Happstack.Auth\"]",
+          "name": "profiles",
+          "package": "happstack-authenticate",
+          "signature": "Profiles",
+          "source": "src/Happstack-Auth-Core-Profile.html#ProfileState",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:profiles\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:profiles\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "profiles",
+          "package": "happstack-authenticate",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:profiles"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "setAuthIdUserId",
+          "package": "happstack-authenticate",
+          "signature": "AuthId -\u003e UserId -\u003e Update ProfileState ()",
+          "source": "src/Happstack-Auth-Core-Profile.html#setAuthIdUserId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "setAuthIdUserId",
+          "normalized": "AuthId-\u003eUserId-\u003eUpdate ProfileState()",
+          "package": "happstack-authenticate",
+          "partial": "Auth Id User Id",
+          "signature": "AuthId-\u003eUserId-\u003eUpdate ProfileState()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:setAuthIdUserId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "succUserId",
+          "package": "happstack-authenticate",
+          "signature": "UserId -\u003e UserId",
+          "source": "src/Happstack-Auth-Core-Profile.html#succUserId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "succUserId",
+          "normalized": "UserId-\u003eUserId",
+          "package": "happstack-authenticate",
+          "partial": "User Id",
+          "signature": "UserId-\u003eUserId",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:succUserId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Core.Profile\",\"Happstack.Auth\"]",
+          "name": "unUserId",
+          "package": "happstack-authenticate",
+          "signature": "Integer",
+          "source": "src/Happstack-Auth-Core-Profile.html#UserId",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:unUserId\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:unUserId\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "unUserId",
+          "package": "happstack-authenticate",
+          "partial": "User Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:unUserId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "userId",
+          "package": "happstack-authenticate",
+          "signature": "UserId",
+          "source": "src/Happstack-Auth-Core-Profile.html#Profile",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core Profile",
+          "module": "Happstack.Auth.Core.Profile",
+          "name": "userId",
+          "package": "happstack-authenticate",
+          "partial": "Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-Profile.html#v:userId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.ProfileParts",
+          "name": "ProfileParts",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-ProfileParts.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core ProfileParts",
+          "module": "Happstack.Auth.Core.ProfileParts",
+          "name": "ProfileParts",
+          "package": "happstack-authenticate",
+          "partial": "Profile Parts",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileParts.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.ProfileParts",
+          "name": "PickProfile",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-ProfileParts.html#PickProfile",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core ProfileParts",
+          "module": "Happstack.Auth.Core.ProfileParts",
+          "name": "PickProfile",
+          "package": "happstack-authenticate",
+          "partial": "Pick Profile",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileParts.html#t:PickProfile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.ProfileParts",
+          "name": "PickAuthId",
+          "package": "happstack-authenticate",
+          "signature": "PickAuthId (Set AuthId)",
+          "source": "src/Happstack-Auth-Core-ProfileParts.html#PickProfile",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core ProfileParts",
+          "module": "Happstack.Auth.Core.ProfileParts",
+          "name": "PickAuthId",
+          "package": "happstack-authenticate",
+          "partial": "Pick Auth Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileParts.html#v:PickAuthId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.ProfileParts",
+          "name": "PickPersonality",
+          "package": "happstack-authenticate",
+          "signature": "PickPersonality (Set Profile)",
+          "source": "src/Happstack-Auth-Core-ProfileParts.html#PickProfile",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core ProfileParts",
+          "module": "Happstack.Auth.Core.ProfileParts",
+          "name": "PickPersonality",
+          "package": "happstack-authenticate",
+          "partial": "Pick Personality",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileParts.html#v:PickPersonality"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.ProfileParts",
+          "name": "Picked",
+          "package": "happstack-authenticate",
+          "signature": "Picked UserId",
+          "source": "src/Happstack-Auth-Core-ProfileParts.html#PickProfile",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core ProfileParts",
+          "module": "Happstack.Auth.Core.ProfileParts",
+          "name": "Picked",
+          "package": "happstack-authenticate",
+          "partial": "Picked",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileParts.html#v:Picked"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.ProfileParts",
+          "name": "pickAuthId",
+          "package": "happstack-authenticate",
+          "signature": "AcidState AuthState -\u003e m (Either (Set AuthId) AuthId)",
+          "source": "src/Happstack-Auth-Core-ProfileParts.html#pickAuthId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core ProfileParts",
+          "module": "Happstack.Auth.Core.ProfileParts",
+          "name": "pickAuthId",
+          "normalized": "AcidState AuthState-\u003ea(Either(Set AuthId)AuthId)",
+          "package": "happstack-authenticate",
+          "partial": "Auth Id",
+          "signature": "AcidState AuthState-\u003em(Either(Set AuthId)AuthId)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileParts.html#v:pickAuthId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.ProfileParts",
+          "name": "pickProfile",
+          "package": "happstack-authenticate",
+          "signature": "AcidState AuthState -\u003e AcidState ProfileState -\u003e m PickProfile",
+          "source": "src/Happstack-Auth-Core-ProfileParts.html#pickProfile",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core ProfileParts",
+          "module": "Happstack.Auth.Core.ProfileParts",
+          "name": "pickProfile",
+          "normalized": "AcidState AuthState-\u003eAcidState ProfileState-\u003ea PickProfile",
+          "package": "happstack-authenticate",
+          "partial": "Profile",
+          "signature": "AcidState AuthState-\u003eAcidState ProfileState-\u003em PickProfile",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileParts.html#v:pickProfile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.ProfileParts",
+          "name": "setAuthIdPage",
+          "package": "happstack-authenticate",
+          "signature": "AcidState AuthState -\u003e AuthId -\u003e m Bool",
+          "source": "src/Happstack-Auth-Core-ProfileParts.html#setAuthIdPage",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core ProfileParts",
+          "module": "Happstack.Auth.Core.ProfileParts",
+          "name": "setAuthIdPage",
+          "normalized": "AcidState AuthState-\u003eAuthId-\u003ea Bool",
+          "package": "happstack-authenticate",
+          "partial": "Auth Id Page",
+          "signature": "AcidState AuthState-\u003eAuthId-\u003em Bool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileParts.html#v:setAuthIdPage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.ProfileURL",
+          "name": "ProfileURL",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-ProfileURL.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core ProfileURL",
+          "module": "Happstack.Auth.Core.ProfileURL",
+          "name": "ProfileURL",
+          "package": "happstack-authenticate",
+          "partial": "Profile URL",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileURL.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.ProfileURL",
+          "name": "ProfileURL",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-ProfileURL.html#ProfileURL",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core ProfileURL",
+          "module": "Happstack.Auth.Core.ProfileURL",
+          "name": "ProfileURL",
+          "package": "happstack-authenticate",
+          "partial": "Profile URL",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileURL.html#t:ProfileURL"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Core.ProfileURL\",\"Happstack.Auth\"]",
+          "name": "P_PickProfile",
+          "package": "happstack-authenticate",
+          "signature": "P_PickProfile",
+          "source": "src/Happstack-Auth-Core-ProfileURL.html#ProfileURL",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileURL.html#v:P_PickProfile\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:P_PickProfile\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core ProfileURL",
+          "module": "Happstack.Auth.Core.ProfileURL",
+          "name": "P_PickProfile",
+          "package": "happstack-authenticate",
+          "partial": "Pick Profile",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileURL.html#v:P_PickProfile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Core.ProfileURL\",\"Happstack.Auth\"]",
+          "name": "P_SetAuthId",
+          "package": "happstack-authenticate",
+          "signature": "P_SetAuthId AuthId",
+          "source": "src/Happstack-Auth-Core-ProfileURL.html#ProfileURL",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileURL.html#v:P_SetAuthId\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:P_SetAuthId\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core ProfileURL",
+          "module": "Happstack.Auth.Core.ProfileURL",
+          "name": "P_SetAuthId",
+          "package": "happstack-authenticate",
+          "partial": "Set Auth Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileURL.html#v:P_SetAuthId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Happstack.Auth.Core.ProfileURL\",\"Happstack.Auth\"]",
+          "name": "P_SetPersonality",
+          "package": "happstack-authenticate",
+          "signature": "P_SetPersonality UserId",
+          "source": "src/Happstack-Auth-Core-ProfileURL.html#ProfileURL",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileURL.html#v:P_SetPersonality\",\"http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#v:P_SetPersonality\"]"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core ProfileURL",
+          "module": "Happstack.Auth.Core.ProfileURL",
+          "name": "P_SetPersonality",
+          "package": "happstack-authenticate",
+          "partial": "Set Personality",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileURL.html#v:P_SetPersonality"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth.Core.ProfileURL",
+          "name": "authUrlInverse",
+          "package": "happstack-authenticate",
+          "signature": "Property",
+          "source": "src/Happstack-Auth-Core-ProfileURL.html#authUrlInverse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth Core ProfileURL",
+          "module": "Happstack.Auth.Core.ProfileURL",
+          "name": "authUrlInverse",
+          "package": "happstack-authenticate",
+          "partial": "Url Inverse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth-Core-ProfileURL.html#v:authUrlInverse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth",
+          "name": "Auth",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth",
+          "module": "Happstack.Auth",
+          "name": "Auth",
+          "package": "happstack-authenticate",
+          "partial": "Auth",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth",
+          "name": "AuthProfileURL",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-AuthProfileURL.html#AuthProfileURL",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth",
+          "module": "Happstack.Auth",
+          "name": "AuthProfileURL",
+          "package": "happstack-authenticate",
+          "partial": "Auth Profile URL",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#t:AuthProfileURL"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth",
+          "name": "AuthState",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Auth.html#AuthState",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth",
+          "module": "Happstack.Auth",
+          "name": "AuthState",
+          "package": "happstack-authenticate",
+          "partial": "Auth State",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#t:AuthState"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth",
+          "name": "AuthURL",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-AuthURL.html#AuthURL",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth",
+          "module": "Happstack.Auth",
+          "name": "AuthURL",
+          "package": "happstack-authenticate",
+          "partial": "Auth URL",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#t:AuthURL"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth",
+          "name": "ProfileState",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Profile.html#ProfileState",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth",
+          "module": "Happstack.Auth",
+          "name": "ProfileState",
+          "package": "happstack-authenticate",
+          "partial": "Profile State",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#t:ProfileState"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth",
+          "name": "ProfileURL",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-ProfileURL.html#ProfileURL",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth",
+          "module": "Happstack.Auth",
+          "name": "ProfileURL",
+          "package": "happstack-authenticate",
+          "partial": "Profile URL",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#t:ProfileURL"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Happstack.Auth",
+          "name": "UserId",
+          "package": "happstack-authenticate",
+          "source": "src/Happstack-Auth-Core-Profile.html#UserId",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Happstack Auth",
+          "module": "Happstack.Auth",
+          "name": "UserId",
+          "package": "happstack-authenticate",
+          "partial": "User Id",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/happstack-authenticate/docs/Happstack-Auth.html#t:UserId"
+      }
+    }
+  ]
 ]

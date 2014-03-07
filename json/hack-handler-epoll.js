@@ -1,223 +1,216 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hack-handler-epoll/docs/Hack-Handler-Epoll.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eImplements Hack Handler interface using System.Linux.Epoll.\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Hack.Handler.Epoll",
-        "fct-package": "hack-handler-epoll",
-        "fct-signature": "module",
-        "fct-source": "src/Hack-Handler-Epoll.html",
-        "fct-type": "module",
-        "title": "Epoll"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "hack-handler-epoll"
       },
-      "index": {
-        "description": "Implements Hack Handler interface using System.Linux.Epoll",
-        "hierarchy": "Hack Handler Epoll",
-        "module": "Hack.Handler.Epoll",
-        "name": "Epoll",
-        "normalized": "",
-        "package": "hack-handler-epoll",
-        "partial": "Epoll",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hack-handler-epoll/docs/Hack-Handler-Epoll.html#t:ServerConf",
-      "description": {
-        "fct-module": "Hack.Handler.Epoll",
-        "fct-package": "hack-handler-epoll",
-        "fct-signature": "data",
-        "fct-source": "src/Hack-Handler-Epoll.html#ServerConf",
-        "fct-type": "data",
-        "title": "ServerConf"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Hack Handler Epoll",
-        "module": "Hack.Handler.Epoll",
-        "name": "ServerConf",
-        "normalized": "",
-        "package": "hack-handler-epoll",
-        "partial": "Server Conf",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eImplements Hack Handler interface using System.Linux.Epoll.\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Hack.Handler.Epoll",
+          "name": "Epoll",
+          "package": "hack-handler-epoll",
+          "source": "src/Hack-Handler-Epoll.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "Implements Hack Handler interface using System.Linux.Epoll",
+          "hierarchy": "Hack Handler Epoll",
+          "module": "Hack.Handler.Epoll",
+          "name": "Epoll",
+          "package": "hack-handler-epoll",
+          "partial": "Epoll",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/hack-handler-epoll/docs/Hack-Handler-Epoll.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Hack.Handler.Epoll",
+          "name": "ServerConf",
+          "package": "hack-handler-epoll",
+          "source": "src/Hack-Handler-Epoll.html#ServerConf",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Hack Handler Epoll",
+          "module": "Hack.Handler.Epoll",
+          "name": "ServerConf",
+          "package": "hack-handler-epoll",
+          "partial": "Server Conf",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/hack-handler-epoll/docs/Hack-Handler-Epoll.html#t:ServerConf"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Hack.Handler.Epoll",
+          "name": "ServerConf",
+          "package": "hack-handler-epoll",
+          "signature": "ServerConf",
+          "source": "src/Hack-Handler-Epoll.html#ServerConf",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Hack Handler Epoll",
+          "module": "Hack.Handler.Epoll",
+          "name": "ServerConf",
+          "package": "hack-handler-epoll",
+          "partial": "Server Conf",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hack-handler-epoll/docs/Hack-Handler-Epoll.html#v:ServerConf"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Hack.Handler.Epoll",
+          "name": "backlog",
+          "package": "hack-handler-epoll",
+          "signature": "Int",
+          "source": "src/Hack-Handler-Epoll.html#ServerConf",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Hack Handler Epoll",
+          "module": "Hack.Handler.Epoll",
+          "name": "backlog",
+          "package": "hack-handler-epoll",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hack-handler-epoll/docs/Hack-Handler-Epoll.html#v:backlog"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Hack.Handler.Epoll",
+          "name": "epollSize",
+          "package": "hack-handler-epoll",
+          "signature": "Int",
+          "source": "src/Hack-Handler-Epoll.html#ServerConf",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Hack Handler Epoll",
+          "module": "Hack.Handler.Epoll",
+          "name": "epollSize",
+          "package": "hack-handler-epoll",
+          "partial": "Size",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hack-handler-epoll/docs/Hack-Handler-Epoll.html#v:epollSize"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Hack.Handler.Epoll",
+          "name": "host",
+          "package": "hack-handler-epoll",
+          "signature": "String",
+          "source": "src/Hack-Handler-Epoll.html#ServerConf",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Hack Handler Epoll",
+          "module": "Hack.Handler.Epoll",
+          "name": "host",
+          "package": "hack-handler-epoll",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hack-handler-epoll/docs/Hack-Handler-Epoll.html#v:host"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Hack.Handler.Epoll",
+          "name": "port",
+          "package": "hack-handler-epoll",
+          "signature": "Int",
+          "source": "src/Hack-Handler-Epoll.html#ServerConf",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Hack Handler Epoll",
+          "module": "Hack.Handler.Epoll",
+          "name": "port",
+          "package": "hack-handler-epoll",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hack-handler-epoll/docs/Hack-Handler-Epoll.html#v:port"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Hack.Handler.Epoll",
+          "name": "run",
+          "package": "hack-handler-epoll",
+          "signature": "Application -\u003e IO ()",
+          "source": "src/Hack-Handler-Epoll.html#run",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Hack Handler Epoll",
+          "module": "Hack.Handler.Epoll",
+          "name": "run",
+          "normalized": "Application-\u003eIO()",
+          "package": "hack-handler-epoll",
+          "signature": "Application-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hack-handler-epoll/docs/Hack-Handler-Epoll.html#v:run"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Hack.Handler.Epoll",
+          "name": "runWithConfig",
+          "package": "hack-handler-epoll",
+          "signature": "ServerConf -\u003e Application -\u003e IO ()",
+          "source": "src/Hack-Handler-Epoll.html#runWithConfig",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Hack Handler Epoll",
+          "module": "Hack.Handler.Epoll",
+          "name": "runWithConfig",
+          "normalized": "ServerConf-\u003eApplication-\u003eIO()",
+          "package": "hack-handler-epoll",
+          "partial": "With Config",
+          "signature": "ServerConf-\u003eApplication-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hack-handler-epoll/docs/Hack-Handler-Epoll.html#v:runWithConfig"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hack-handler-epoll/docs/Hack-Handler-Epoll.html#v:ServerConf",
-      "description": {
-        "fct-module": "Hack.Handler.Epoll",
-        "fct-package": "hack-handler-epoll",
-        "fct-signature": "ServerConf",
-        "fct-source": "src/Hack-Handler-Epoll.html#ServerConf",
-        "fct-type": "function",
-        "title": "ServerConf"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Hack Handler Epoll",
-        "module": "Hack.Handler.Epoll",
-        "name": "ServerConf",
-        "normalized": "",
-        "package": "hack-handler-epoll",
-        "partial": "Server Conf",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hack-handler-epoll/docs/Hack-Handler-Epoll.html#v:backlog",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Hack.Handler.Epoll",
-        "fct-package": "hack-handler-epoll",
-        "fct-signature": "Int",
-        "fct-source": "src/Hack-Handler-Epoll.html#ServerConf",
-        "fct-type": "function",
-        "title": "backlog"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Hack Handler Epoll",
-        "module": "Hack.Handler.Epoll",
-        "name": "backlog",
-        "normalized": "",
-        "package": "hack-handler-epoll",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hack-handler-epoll/docs/Hack-Handler-Epoll.html#v:epollSize",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Hack.Handler.Epoll",
-        "fct-package": "hack-handler-epoll",
-        "fct-signature": "Int",
-        "fct-source": "src/Hack-Handler-Epoll.html#ServerConf",
-        "fct-type": "function",
-        "title": "epollSize"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Hack Handler Epoll",
-        "module": "Hack.Handler.Epoll",
-        "name": "epollSize",
-        "normalized": "",
-        "package": "hack-handler-epoll",
-        "partial": "Size",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hack-handler-epoll/docs/Hack-Handler-Epoll.html#v:host",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Hack.Handler.Epoll",
-        "fct-package": "hack-handler-epoll",
-        "fct-signature": "String",
-        "fct-source": "src/Hack-Handler-Epoll.html#ServerConf",
-        "fct-type": "function",
-        "title": "host"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Hack Handler Epoll",
-        "module": "Hack.Handler.Epoll",
-        "name": "host",
-        "normalized": "",
-        "package": "hack-handler-epoll",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hack-handler-epoll/docs/Hack-Handler-Epoll.html#v:port",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Hack.Handler.Epoll",
-        "fct-package": "hack-handler-epoll",
-        "fct-signature": "Int",
-        "fct-source": "src/Hack-Handler-Epoll.html#ServerConf",
-        "fct-type": "function",
-        "title": "port"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Hack Handler Epoll",
-        "module": "Hack.Handler.Epoll",
-        "name": "port",
-        "normalized": "",
-        "package": "hack-handler-epoll",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hack-handler-epoll/docs/Hack-Handler-Epoll.html#v:run",
-      "description": {
-        "fct-module": "Hack.Handler.Epoll",
-        "fct-package": "hack-handler-epoll",
-        "fct-signature": "Application -\u003e IO ()",
-        "fct-source": "src/Hack-Handler-Epoll.html#run",
-        "fct-type": "function",
-        "title": "run"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Hack Handler Epoll",
-        "module": "Hack.Handler.Epoll",
-        "name": "run",
-        "normalized": "Application-\u003eIO()",
-        "package": "hack-handler-epoll",
-        "partial": "",
-        "signature": "Application-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hack-handler-epoll/docs/Hack-Handler-Epoll.html#v:runWithConfig",
-      "description": {
-        "fct-module": "Hack.Handler.Epoll",
-        "fct-package": "hack-handler-epoll",
-        "fct-signature": "ServerConf -\u003e Application -\u003e IO ()",
-        "fct-source": "src/Hack-Handler-Epoll.html#runWithConfig",
-        "fct-type": "function",
-        "title": "runWithConfig"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Hack Handler Epoll",
-        "module": "Hack.Handler.Epoll",
-        "name": "runWithConfig",
-        "normalized": "ServerConf-\u003eApplication-\u003eIO()",
-        "package": "hack-handler-epoll",
-        "partial": "With Config",
-        "signature": "ServerConf-\u003eApplication-\u003eIO()"
-      }
-    }
-  }
+  ]
 ]

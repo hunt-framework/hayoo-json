@@ -1,3353 +1,3170 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT-Pretty.html#",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT.Pretty",
-        "fct-package": "dwarfadt",
-        "fct-signature": "module",
-        "fct-source": "src/Data-Dwarf-ADT-Pretty.html",
-        "fct-type": "module",
-        "title": "Pretty"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT Pretty",
-        "module": "Data.Dwarf.ADT.Pretty",
-        "name": "Pretty",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Pretty",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT-Pretty.html#v:compilationUnit",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT.Pretty",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Boxed CompilationUnit -\u003e Doc",
-        "fct-source": "src/Data-Dwarf-ADT-Pretty.html#compilationUnit",
-        "fct-type": "function",
-        "title": "compilationUnit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT Pretty",
-        "module": "Data.Dwarf.ADT.Pretty",
-        "name": "compilationUnit",
-        "normalized": "Boxed CompilationUnit-\u003eDoc",
-        "package": "dwarfadt",
-        "partial": "Unit",
-        "signature": "Boxed CompilationUnit-\u003eDoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "module",
-        "fct-source": "src/Data-Dwarf-ADT.html",
-        "fct-type": "module",
-        "title": "ADT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "ADT",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "ADT",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:ArrayType",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Dwarf-ADT.html#ArrayType",
-        "fct-type": "data",
-        "title": "ArrayType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "ArrayType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Array Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:BaseType",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Dwarf-ADT.html#BaseType",
-        "fct-type": "data",
-        "title": "BaseType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "BaseType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Base Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:Boxed",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Dwarf-ADT.html#Boxed",
-        "fct-type": "data",
-        "title": "Boxed"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "Boxed",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Boxed",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:CompilationUnit",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Dwarf-ADT.html#CompilationUnit",
-        "fct-type": "data",
-        "title": "CompilationUnit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "CompilationUnit",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Compilation Unit",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:ConstType",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Dwarf-ADT.html#ConstType",
-        "fct-type": "data",
-        "title": "ConstType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "ConstType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Const Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:Decl",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Dwarf-ADT.html#Decl",
-        "fct-type": "data",
-        "title": "Decl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "Decl",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Decl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:Def",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Dwarf-ADT.html#Def",
-        "fct-type": "data",
-        "title": "Def"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "Def",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Def",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:EnumerationType",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Dwarf-ADT.html#EnumerationType",
-        "fct-type": "data",
-        "title": "EnumerationType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "EnumerationType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Enumeration Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:Enumerator",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Dwarf-ADT.html#Enumerator",
-        "fct-type": "data",
-        "title": "Enumerator"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "Enumerator",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Enumerator",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:FormalParameter",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Dwarf-ADT.html#FormalParameter",
-        "fct-type": "data",
-        "title": "FormalParameter"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "FormalParameter",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Formal Parameter",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:Member",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Dwarf-ADT.html#Member",
-        "fct-type": "data",
-        "title": "Member"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "Member",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Member",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:PtrType",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Dwarf-ADT.html#PtrType",
-        "fct-type": "data",
-        "title": "PtrType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "PtrType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Ptr Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:StructureType",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Dwarf-ADT.html#StructureType",
-        "fct-type": "data",
-        "title": "StructureType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "StructureType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Structure Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:Subprogram",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Dwarf-ADT.html#Subprogram",
-        "fct-type": "data",
-        "title": "Subprogram"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "Subprogram",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Subprogram",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:SubrangeType",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Dwarf-ADT.html#SubrangeType",
-        "fct-type": "data",
-        "title": "SubrangeType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "SubrangeType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Subrange Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:SubroutineType",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Dwarf-ADT.html#SubroutineType",
-        "fct-type": "data",
-        "title": "SubroutineType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "SubroutineType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Subroutine Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:TypeRef",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Dwarf-ADT.html#TypeRef",
-        "fct-type": "data",
-        "title": "TypeRef"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "TypeRef",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Type Ref",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:Typedef",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Dwarf-ADT.html#Typedef",
-        "fct-type": "data",
-        "title": "Typedef"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "Typedef",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Typedef",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:UnionType",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Dwarf-ADT.html#UnionType",
-        "fct-type": "data",
-        "title": "UnionType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "UnionType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Union Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:Variable",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Dwarf-ADT.html#Variable",
-        "fct-type": "data",
-        "title": "Variable"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "Variable",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Variable",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:ArrayType",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "ArrayType",
-        "fct-source": "src/Data-Dwarf-ADT.html#ArrayType",
-        "fct-type": "function",
-        "title": "ArrayType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "ArrayType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Array Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:BaseType",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "BaseType",
-        "fct-source": "src/Data-Dwarf-ADT.html#BaseType",
-        "fct-type": "function",
-        "title": "BaseType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "BaseType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Base Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:Boxed",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Boxed",
-        "fct-source": "src/Data-Dwarf-ADT.html#Boxed",
-        "fct-type": "function",
-        "title": "Boxed"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "Boxed",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Boxed",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:CompilationUnit",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "CompilationUnit",
-        "fct-source": "src/Data-Dwarf-ADT.html#CompilationUnit",
-        "fct-type": "function",
-        "title": "CompilationUnit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "CompilationUnit",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Compilation Unit",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:ConstType",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "ConstType",
-        "fct-source": "src/Data-Dwarf-ADT.html#ConstType",
-        "fct-type": "function",
-        "title": "ConstType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "ConstType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Const Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:Decl",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Decl",
-        "fct-source": "src/Data-Dwarf-ADT.html#Decl",
-        "fct-type": "function",
-        "title": "Decl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "Decl",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Decl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:DefArrayType",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "DefArrayType ArrayType",
-        "fct-source": "src/Data-Dwarf-ADT.html#Def",
-        "fct-type": "function",
-        "title": "DefArrayType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "DefArrayType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Def Array Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:DefBaseType",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "DefBaseType BaseType",
-        "fct-source": "src/Data-Dwarf-ADT.html#Def",
-        "fct-type": "function",
-        "title": "DefBaseType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "DefBaseType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Def Base Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:DefConstType",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "DefConstType ConstType",
-        "fct-source": "src/Data-Dwarf-ADT.html#Def",
-        "fct-type": "function",
-        "title": "DefConstType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "DefConstType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Def Const Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:DefEnumerationType",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "DefEnumerationType EnumerationType",
-        "fct-source": "src/Data-Dwarf-ADT.html#Def",
-        "fct-type": "function",
-        "title": "DefEnumerationType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "DefEnumerationType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Def Enumeration Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:DefPtrType",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "DefPtrType PtrType",
-        "fct-source": "src/Data-Dwarf-ADT.html#Def",
-        "fct-type": "function",
-        "title": "DefPtrType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "DefPtrType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Def Ptr Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:DefStructureType",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "DefStructureType StructureType",
-        "fct-source": "src/Data-Dwarf-ADT.html#Def",
-        "fct-type": "function",
-        "title": "DefStructureType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "DefStructureType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Def Structure Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:DefSubprogram",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "DefSubprogram Subprogram",
-        "fct-source": "src/Data-Dwarf-ADT.html#Def",
-        "fct-type": "function",
-        "title": "DefSubprogram"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "DefSubprogram",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Def Subprogram",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:DefSubroutineType",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "DefSubroutineType SubroutineType",
-        "fct-source": "src/Data-Dwarf-ADT.html#Def",
-        "fct-type": "function",
-        "title": "DefSubroutineType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "DefSubroutineType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Def Subroutine Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:DefTypedef",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "DefTypedef Typedef",
-        "fct-source": "src/Data-Dwarf-ADT.html#Def",
-        "fct-type": "function",
-        "title": "DefTypedef"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "DefTypedef",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Def Typedef",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:DefUnionType",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "DefUnionType UnionType",
-        "fct-source": "src/Data-Dwarf-ADT.html#Def",
-        "fct-type": "function",
-        "title": "DefUnionType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "DefUnionType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Def Union Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:DefVariable",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "DefVariable (Variable String)",
-        "fct-source": "src/Data-Dwarf-ADT.html#Def",
-        "fct-type": "function",
-        "title": "DefVariable"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "DefVariable",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Def Variable",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:EnumerationType",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "EnumerationType",
-        "fct-source": "src/Data-Dwarf-ADT.html#EnumerationType",
-        "fct-type": "function",
-        "title": "EnumerationType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "EnumerationType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Enumeration Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:Enumerator",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Enumerator",
-        "fct-source": "src/Data-Dwarf-ADT.html#Enumerator",
-        "fct-type": "function",
-        "title": "Enumerator"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "Enumerator",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Enumerator",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:FormalParameter",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "FormalParameter",
-        "fct-source": "src/Data-Dwarf-ADT.html#FormalParameter",
-        "fct-type": "function",
-        "title": "FormalParameter"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "FormalParameter",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Formal Parameter",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:Member",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Member",
-        "fct-source": "src/Data-Dwarf-ADT.html#Member",
-        "fct-type": "function",
-        "title": "Member"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "Member",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Member",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:PtrType",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "PtrType",
-        "fct-source": "src/Data-Dwarf-ADT.html#PtrType",
-        "fct-type": "function",
-        "title": "PtrType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "PtrType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Ptr Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:StructureType",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "StructureType",
-        "fct-source": "src/Data-Dwarf-ADT.html#StructureType",
-        "fct-type": "function",
-        "title": "StructureType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "StructureType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Structure Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:Subprogram",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Subprogram",
-        "fct-source": "src/Data-Dwarf-ADT.html#Subprogram",
-        "fct-type": "function",
-        "title": "Subprogram"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "Subprogram",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Subprogram",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:SubrangeType",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "SubrangeType",
-        "fct-source": "src/Data-Dwarf-ADT.html#SubrangeType",
-        "fct-type": "function",
-        "title": "SubrangeType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "SubrangeType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Subrange Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:SubroutineType",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "SubroutineType",
-        "fct-source": "src/Data-Dwarf-ADT.html#SubroutineType",
-        "fct-type": "function",
-        "title": "SubroutineType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "SubroutineType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Subroutine Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:TypeRef",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "TypeRef (Boxed Def)",
-        "fct-source": "src/Data-Dwarf-ADT.html#TypeRef",
-        "fct-type": "function",
-        "title": "TypeRef"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "TypeRef",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Type Ref",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:Typedef",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Typedef",
-        "fct-source": "src/Data-Dwarf-ADT.html#Typedef",
-        "fct-type": "function",
-        "title": "Typedef"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "Typedef",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Typedef",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:UnionType",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "UnionType",
-        "fct-source": "src/Data-Dwarf-ADT.html#UnionType",
-        "fct-type": "function",
-        "title": "UnionType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "UnionType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Union Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:Variable",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Variable",
-        "fct-source": "src/Data-Dwarf-ADT.html#Variable",
-        "fct-type": "function",
-        "title": "Variable"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "Variable",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Variable",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:Void",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Void",
-        "fct-source": "src/Data-Dwarf-ADT.html#TypeRef",
-        "fct-type": "function",
-        "title": "Void"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "Void",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Void",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:atSubrangeType",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Boxed SubrangeType",
-        "fct-source": "src/Data-Dwarf-ADT.html#ArrayType",
-        "fct-type": "function",
-        "title": "atSubrangeType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "atSubrangeType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Subrange Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:atType",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "TypeRef",
-        "fct-source": "src/Data-Dwarf-ADT.html#ArrayType",
-        "fct-type": "function",
-        "title": "atType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "atType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:bData",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "a",
-        "fct-source": "src/Data-Dwarf-ADT.html#Boxed",
-        "fct-type": "function",
-        "title": "bData"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "bData",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Data",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:bDieId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "DieID",
-        "fct-source": "src/Data-Dwarf-ADT.html#Boxed",
-        "fct-type": "function",
-        "title": "bDieId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "bDieId",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Die Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:btByteSize",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Word",
-        "fct-source": "src/Data-Dwarf-ADT.html#BaseType",
-        "fct-type": "function",
-        "title": "btByteSize"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "btByteSize",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Byte Size",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:btEncoding",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "DW_ATE",
-        "fct-source": "src/Data-Dwarf-ADT.html#BaseType",
-        "fct-type": "function",
-        "title": "btEncoding"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "btEncoding",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Encoding",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:btName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Maybe String",
-        "fct-source": "src/Data-Dwarf-ADT.html#BaseType",
-        "fct-type": "function",
-        "title": "btName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "btName",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:ctType",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "TypeRef",
-        "fct-source": "src/Data-Dwarf-ADT.html#ConstType",
-        "fct-type": "function",
-        "title": "ctType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "ctType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:cuCompDir",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "String",
-        "fct-source": "src/Data-Dwarf-ADT.html#CompilationUnit",
-        "fct-type": "function",
-        "title": "cuCompDir"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "cuCompDir",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Comp Dir",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:cuDefs",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "[Boxed Def]",
-        "fct-source": "src/Data-Dwarf-ADT.html#CompilationUnit",
-        "fct-type": "function",
-        "title": "cuDefs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "cuDefs",
-        "normalized": "[Boxed Def]",
-        "package": "dwarfadt",
-        "partial": "Defs",
-        "signature": "[Boxed Def]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:cuHighPc",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Maybe Word64",
-        "fct-source": "src/Data-Dwarf-ADT.html#CompilationUnit",
-        "fct-type": "function",
-        "title": "cuHighPc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "cuHighPc",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "High Pc",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:cuLanguage",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "DW_LANG",
-        "fct-source": "src/Data-Dwarf-ADT.html#CompilationUnit",
-        "fct-type": "function",
-        "title": "cuLanguage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "cuLanguage",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Language",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:cuLowPc",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Word64",
-        "fct-source": "src/Data-Dwarf-ADT.html#CompilationUnit",
-        "fct-type": "function",
-        "title": "cuLowPc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "cuLowPc",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Low Pc",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:cuName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "String",
-        "fct-source": "src/Data-Dwarf-ADT.html#CompilationUnit",
-        "fct-type": "function",
-        "title": "cuName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "cuName",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:cuProducer",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "String",
-        "fct-source": "src/Data-Dwarf-ADT.html#CompilationUnit",
-        "fct-type": "function",
-        "title": "cuProducer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "cuProducer",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Producer",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:declColumn",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Maybe Int",
-        "fct-source": "src/Data-Dwarf-ADT.html#Decl",
-        "fct-type": "function",
-        "title": "declColumn"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "declColumn",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Column",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:declFile",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Maybe Word64",
-        "fct-source": "src/Data-Dwarf-ADT.html#Decl",
-        "fct-type": "function",
-        "title": "declFile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "declFile",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "File",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:declLine",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Maybe Int",
-        "fct-source": "src/Data-Dwarf-ADT.html#Decl",
-        "fct-type": "function",
-        "title": "declLine"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "declLine",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Line",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:enumByteSize",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Word",
-        "fct-source": "src/Data-Dwarf-ADT.html#EnumerationType",
-        "fct-type": "function",
-        "title": "enumByteSize"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "enumByteSize",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Byte Size",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:enumDecl",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Decl",
-        "fct-source": "src/Data-Dwarf-ADT.html#EnumerationType",
-        "fct-type": "function",
-        "title": "enumDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "enumDecl",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Decl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:enumEnumerators",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "[Boxed Enumerator]",
-        "fct-source": "src/Data-Dwarf-ADT.html#EnumerationType",
-        "fct-type": "function",
-        "title": "enumEnumerators"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "enumEnumerators",
-        "normalized": "[Boxed Enumerator]",
-        "package": "dwarfadt",
-        "partial": "Enumerators",
-        "signature": "[Boxed Enumerator]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:enumName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Maybe String",
-        "fct-source": "src/Data-Dwarf-ADT.html#EnumerationType",
-        "fct-type": "function",
-        "title": "enumName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "enumName",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:enumeratorConstValue",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Int64",
-        "fct-source": "src/Data-Dwarf-ADT.html#Enumerator",
-        "fct-type": "function",
-        "title": "enumeratorConstValue"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "enumeratorConstValue",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Const Value",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:enumeratorName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "String",
-        "fct-source": "src/Data-Dwarf-ADT.html#Enumerator",
-        "fct-type": "function",
-        "title": "enumeratorName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "enumeratorName",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:formalParamName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Maybe String",
-        "fct-source": "src/Data-Dwarf-ADT.html#FormalParameter",
-        "fct-type": "function",
-        "title": "formalParamName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "formalParamName",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Param Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:formalParamType",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "TypeRef",
-        "fct-source": "src/Data-Dwarf-ADT.html#FormalParameter",
-        "fct-type": "function",
-        "title": "formalParamType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "formalParamType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Param Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:membDecl",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Decl",
-        "fct-source": "src/Data-Dwarf-ADT.html#Member",
-        "fct-type": "function",
-        "title": "membDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "membDecl",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Decl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:membLoc",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "loc",
-        "fct-source": "src/Data-Dwarf-ADT.html#Member",
-        "fct-type": "function",
-        "title": "membLoc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "membLoc",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Loc",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:membName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Maybe String",
-        "fct-source": "src/Data-Dwarf-ADT.html#Member",
-        "fct-type": "function",
-        "title": "membName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "membName",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:membType",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "TypeRef",
-        "fct-source": "src/Data-Dwarf-ADT.html#Member",
-        "fct-type": "function",
-        "title": "membType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "membType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:parseCU",
-      "description": {
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "DIEMap -\u003e DIE -\u003e Boxed CompilationUnit",
-        "fct-source": "src/Data-Dwarf-ADT.html#parseCU",
-        "fct-type": "function",
-        "title": "parseCU"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "parseCU",
-        "normalized": "DIEMap-\u003eDIE-\u003eBoxed CompilationUnit",
-        "package": "dwarfadt",
-        "partial": "CU",
-        "signature": "DIEMap-\u003eDIE-\u003eBoxed CompilationUnit"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:ptByteSize",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Word",
-        "fct-source": "src/Data-Dwarf-ADT.html#PtrType",
-        "fct-type": "function",
-        "title": "ptByteSize"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "ptByteSize",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Byte Size",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:ptType",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "TypeRef",
-        "fct-source": "src/Data-Dwarf-ADT.html#PtrType",
-        "fct-type": "function",
-        "title": "ptType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "ptType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:stByteSize",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Maybe Word",
-        "fct-source": "src/Data-Dwarf-ADT.html#StructureType",
-        "fct-type": "function",
-        "title": "stByteSize"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "stByteSize",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Byte Size",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:stDecl",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Decl",
-        "fct-source": "src/Data-Dwarf-ADT.html#StructureType",
-        "fct-type": "function",
-        "title": "stDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "stDecl",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Decl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:stIsDeclaration",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Bool",
-        "fct-source": "src/Data-Dwarf-ADT.html#StructureType",
-        "fct-type": "function",
-        "title": "stIsDeclaration"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "stIsDeclaration",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Is Declaration",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:stMembers",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "[Boxed (Member DW_OP)]",
-        "fct-source": "src/Data-Dwarf-ADT.html#StructureType",
-        "fct-type": "function",
-        "title": "stMembers"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "stMembers",
-        "normalized": "[Boxed(Member DW_OP)]",
-        "package": "dwarfadt",
-        "partial": "Members",
-        "signature": "[Boxed(Member DW_OP)]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:stName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Maybe String",
-        "fct-source": "src/Data-Dwarf-ADT.html#StructureType",
-        "fct-type": "function",
-        "title": "stName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "stName",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subRangeType",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "TypeRef",
-        "fct-source": "src/Data-Dwarf-ADT.html#SubrangeType",
-        "fct-type": "function",
-        "title": "subRangeType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "subRangeType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Range Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subRangeUpperBound",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Word",
-        "fct-source": "src/Data-Dwarf-ADT.html#SubrangeType",
-        "fct-type": "function",
-        "title": "subRangeUpperBound"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "subRangeUpperBound",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Range Upper Bound",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subprogDecl",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Decl",
-        "fct-source": "src/Data-Dwarf-ADT.html#Subprogram",
-        "fct-type": "function",
-        "title": "subprogDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "subprogDecl",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Decl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subprogFormalParameters",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "[Boxed FormalParameter]",
-        "fct-source": "src/Data-Dwarf-ADT.html#Subprogram",
-        "fct-type": "function",
-        "title": "subprogFormalParameters"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "subprogFormalParameters",
-        "normalized": "[Boxed FormalParameter]",
-        "package": "dwarfadt",
-        "partial": "Formal Parameters",
-        "signature": "[Boxed FormalParameter]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subprogFrameBase",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Maybe Loc",
-        "fct-source": "src/Data-Dwarf-ADT.html#Subprogram",
-        "fct-type": "function",
-        "title": "subprogFrameBase"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "subprogFrameBase",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Frame Base",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subprogHighPC",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Maybe Word64",
-        "fct-source": "src/Data-Dwarf-ADT.html#Subprogram",
-        "fct-type": "function",
-        "title": "subprogHighPC"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "subprogHighPC",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "High PC",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subprogLowPC",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Maybe Word64",
-        "fct-source": "src/Data-Dwarf-ADT.html#Subprogram",
-        "fct-type": "function",
-        "title": "subprogLowPC"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "subprogLowPC",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Low PC",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subprogName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "String",
-        "fct-source": "src/Data-Dwarf-ADT.html#Subprogram",
-        "fct-type": "function",
-        "title": "subprogName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "subprogName",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subprogPrototyped",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Bool",
-        "fct-source": "src/Data-Dwarf-ADT.html#Subprogram",
-        "fct-type": "function",
-        "title": "subprogPrototyped"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "subprogPrototyped",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Prototyped",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subprogType",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "TypeRef",
-        "fct-source": "src/Data-Dwarf-ADT.html#Subprogram",
-        "fct-type": "function",
-        "title": "subprogType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "subprogType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subprogUnspecifiedParameters",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Bool",
-        "fct-source": "src/Data-Dwarf-ADT.html#Subprogram",
-        "fct-type": "function",
-        "title": "subprogUnspecifiedParameters"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "subprogUnspecifiedParameters",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Unspecified Parameters",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subprogVariables",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "[Boxed (Variable (Maybe String))]",
-        "fct-source": "src/Data-Dwarf-ADT.html#Subprogram",
-        "fct-type": "function",
-        "title": "subprogVariables"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "subprogVariables",
-        "normalized": "[Boxed(Variable(Maybe String))]",
-        "package": "dwarfadt",
-        "partial": "Variables",
-        "signature": "[Boxed(Variable(Maybe String))]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subrFormalParameters",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "[Boxed FormalParameter]",
-        "fct-source": "src/Data-Dwarf-ADT.html#SubroutineType",
-        "fct-type": "function",
-        "title": "subrFormalParameters"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "subrFormalParameters",
-        "normalized": "[Boxed FormalParameter]",
-        "package": "dwarfadt",
-        "partial": "Formal Parameters",
-        "signature": "[Boxed FormalParameter]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subrPrototyped",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Bool",
-        "fct-source": "src/Data-Dwarf-ADT.html#SubroutineType",
-        "fct-type": "function",
-        "title": "subrPrototyped"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "subrPrototyped",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Prototyped",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subrRetType",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "TypeRef",
-        "fct-source": "src/Data-Dwarf-ADT.html#SubroutineType",
-        "fct-type": "function",
-        "title": "subrRetType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "subrRetType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Ret Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:tdDecl",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Decl",
-        "fct-source": "src/Data-Dwarf-ADT.html#Typedef",
-        "fct-type": "function",
-        "title": "tdDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "tdDecl",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Decl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:tdName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "String",
-        "fct-source": "src/Data-Dwarf-ADT.html#Typedef",
-        "fct-type": "function",
-        "title": "tdName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "tdName",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:tdType",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "TypeRef",
-        "fct-source": "src/Data-Dwarf-ADT.html#Typedef",
-        "fct-type": "function",
-        "title": "tdType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "tdType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:unionByteSize",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Word",
-        "fct-source": "src/Data-Dwarf-ADT.html#UnionType",
-        "fct-type": "function",
-        "title": "unionByteSize"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "unionByteSize",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Byte Size",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:unionDecl",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Decl",
-        "fct-source": "src/Data-Dwarf-ADT.html#UnionType",
-        "fct-type": "function",
-        "title": "unionDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "unionDecl",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Decl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:unionMembers",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "[Boxed (Member (Maybe DW_ATVAL))]",
-        "fct-source": "src/Data-Dwarf-ADT.html#UnionType",
-        "fct-type": "function",
-        "title": "unionMembers"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "unionMembers",
-        "normalized": "[Boxed(Member(Maybe DW_ATVAL))]",
-        "package": "dwarfadt",
-        "partial": "Members",
-        "signature": "[Boxed(Member(Maybe DW_ATVAL))]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:unionName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Maybe String",
-        "fct-source": "src/Data-Dwarf-ADT.html#UnionType",
-        "fct-type": "function",
-        "title": "unionName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "unionName",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:varDecl",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Decl",
-        "fct-source": "src/Data-Dwarf-ADT.html#Variable",
-        "fct-type": "function",
-        "title": "varDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "varDecl",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Decl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:varLoc",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Maybe Loc",
-        "fct-source": "src/Data-Dwarf-ADT.html#Variable",
-        "fct-type": "function",
-        "title": "varLoc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "varLoc",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Loc",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:varName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "name",
-        "fct-source": "src/Data-Dwarf-ADT.html#Variable",
-        "fct-type": "function",
-        "title": "varName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "varName",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:varType",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Dwarf.ADT",
-        "fct-package": "dwarfadt",
-        "fct-signature": "TypeRef",
-        "fct-source": "src/Data-Dwarf-ADT.html#Variable",
-        "fct-type": "function",
-        "title": "varType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf ADT",
-        "module": "Data.Dwarf.ADT",
-        "name": "varType",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-Elf.html#",
-      "description": {
-        "fct-module": "Data.Dwarf.Elf",
-        "fct-package": "dwarfadt",
-        "fct-signature": "module",
-        "fct-source": "src/Data-Dwarf-Elf.html",
-        "fct-type": "module",
-        "title": "Elf"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf Elf",
-        "module": "Data.Dwarf.Elf",
-        "name": "Elf",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Elf",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-Elf.html#v:elfSectionByName",
-      "description": {
-        "fct-module": "Data.Dwarf.Elf",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Elf -\u003e String -\u003e Either String ByteString",
-        "fct-source": "src/Data-Dwarf-Elf.html#elfSectionByName",
-        "fct-type": "function",
-        "title": "elfSectionByName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf Elf",
-        "module": "Data.Dwarf.Elf",
-        "name": "elfSectionByName",
-        "normalized": "Elf-\u003eString-\u003eEither String ByteString",
-        "package": "dwarfadt",
-        "partial": "Section By Name",
-        "signature": "Elf-\u003eString-\u003eEither String ByteString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-Elf.html#v:loadElfDwarf",
-      "description": {
-        "fct-module": "Data.Dwarf.Elf",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Endianess -\u003e FilePath -\u003e IO (Elf, ([DIE], DIEMap))",
-        "fct-source": "src/Data-Dwarf-Elf.html#loadElfDwarf",
-        "fct-type": "function",
-        "title": "loadElfDwarf"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf Elf",
-        "module": "Data.Dwarf.Elf",
-        "name": "loadElfDwarf",
-        "normalized": "Endianess-\u003eFilePath-\u003eIO(Elf,([DIE],DIEMap))",
-        "package": "dwarfadt",
-        "partial": "Elf Dwarf",
-        "signature": "Endianess-\u003eFilePath-\u003eIO(Elf,([DIE],DIEMap))"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-Elf.html#v:parseElfDwarfADT",
-      "description": {
-        "fct-module": "Data.Dwarf.Elf",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Endianess -\u003e FilePath -\u003e IO [Boxed CompilationUnit]",
-        "fct-source": "src/Data-Dwarf-Elf.html#parseElfDwarfADT",
-        "fct-type": "function",
-        "title": "parseElfDwarfADT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf Elf",
-        "module": "Data.Dwarf.Elf",
-        "name": "parseElfDwarfADT",
-        "normalized": "Endianess-\u003eFilePath-\u003eIO[Boxed CompilationUnit]",
-        "package": "dwarfadt",
-        "partial": "Elf Dwarf ADT",
-        "signature": "Endianess-\u003eFilePath-\u003eIO[Boxed CompilationUnit]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-Lens.html#",
-      "description": {
-        "fct-module": "Data.Dwarf.Lens",
-        "fct-package": "dwarfadt",
-        "fct-signature": "module",
-        "fct-source": "src/Data-Dwarf-Lens.html",
-        "fct-type": "module",
-        "title": "Lens"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf Lens",
-        "module": "Data.Dwarf.Lens",
-        "name": "Lens",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "Lens",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-Lens.html#t:ATVAL_NamedPrism",
-      "description": {
-        "fct-module": "Data.Dwarf.Lens",
-        "fct-package": "dwarfadt",
-        "fct-signature": "type",
-        "fct-source": "src/Data-Dwarf-Lens.html#ATVAL_NamedPrism",
-        "fct-type": "type",
-        "title": "ATVAL_NamedPrism"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf Lens",
-        "module": "Data.Dwarf.Lens",
-        "name": "ATVAL_NamedPrism",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "ATVAL Named Prism",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-Lens.html#v:aTVAL_BLOB",
-      "description": {
-        "fct-module": "Data.Dwarf.Lens",
-        "fct-package": "dwarfadt",
-        "fct-signature": "ATVAL_NamedPrism ByteString",
-        "fct-source": "src/Data-Dwarf-Lens.html#aTVAL_BLOB",
-        "fct-type": "function",
-        "title": "aTVAL_BLOB"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf Lens",
-        "module": "Data.Dwarf.Lens",
-        "name": "aTVAL_BLOB",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "TVAL BLOB",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-Lens.html#v:aTVAL_BOOL",
-      "description": {
-        "fct-module": "Data.Dwarf.Lens",
-        "fct-package": "dwarfadt",
-        "fct-signature": "ATVAL_NamedPrism Bool",
-        "fct-source": "src/Data-Dwarf-Lens.html#aTVAL_BOOL",
-        "fct-type": "function",
-        "title": "aTVAL_BOOL"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf Lens",
-        "module": "Data.Dwarf.Lens",
-        "name": "aTVAL_BOOL",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "TVAL BOOL",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-Lens.html#v:aTVAL_INT",
-      "description": {
-        "fct-module": "Data.Dwarf.Lens",
-        "fct-package": "dwarfadt",
-        "fct-signature": "ATVAL_NamedPrism Int64",
-        "fct-source": "src/Data-Dwarf-Lens.html#aTVAL_INT",
-        "fct-type": "function",
-        "title": "aTVAL_INT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf Lens",
-        "module": "Data.Dwarf.Lens",
-        "name": "aTVAL_INT",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "TVAL INT",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-Lens.html#v:aTVAL_REF",
-      "description": {
-        "fct-module": "Data.Dwarf.Lens",
-        "fct-package": "dwarfadt",
-        "fct-signature": "ATVAL_NamedPrism DieID",
-        "fct-source": "src/Data-Dwarf-Lens.html#aTVAL_REF",
-        "fct-type": "function",
-        "title": "aTVAL_REF"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf Lens",
-        "module": "Data.Dwarf.Lens",
-        "name": "aTVAL_REF",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "TVAL REF",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-Lens.html#v:aTVAL_STRING",
-      "description": {
-        "fct-module": "Data.Dwarf.Lens",
-        "fct-package": "dwarfadt",
-        "fct-signature": "ATVAL_NamedPrism String",
-        "fct-source": "src/Data-Dwarf-Lens.html#aTVAL_STRING",
-        "fct-type": "function",
-        "title": "aTVAL_STRING"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf Lens",
-        "module": "Data.Dwarf.Lens",
-        "name": "aTVAL_STRING",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "TVAL STRING",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-Lens.html#v:aTVAL_UINT",
-      "description": {
-        "fct-module": "Data.Dwarf.Lens",
-        "fct-package": "dwarfadt",
-        "fct-signature": "ATVAL_NamedPrism Word64",
-        "fct-source": "src/Data-Dwarf-Lens.html#aTVAL_UINT",
-        "fct-type": "function",
-        "title": "aTVAL_UINT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf Lens",
-        "module": "Data.Dwarf.Lens",
-        "name": "aTVAL_UINT",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "TVAL UINT",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-Lens.html#v:dW_ATVAL_BLOB",
-      "description": {
-        "fct-module": "Data.Dwarf.Lens",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Prism DW_ATVAL DW_ATVAL ByteString ByteString",
-        "fct-source": "src/Data-Dwarf-Lens.html#dW_ATVAL_BLOB",
-        "fct-type": "function",
-        "title": "dW_ATVAL_BLOB"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf Lens",
-        "module": "Data.Dwarf.Lens",
-        "name": "dW_ATVAL_BLOB",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "ATVAL BLOB",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-Lens.html#v:dW_ATVAL_BOOL",
-      "description": {
-        "fct-module": "Data.Dwarf.Lens",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Prism DW_ATVAL DW_ATVAL Bool Bool",
-        "fct-source": "src/Data-Dwarf-Lens.html#dW_ATVAL_BOOL",
-        "fct-type": "function",
-        "title": "dW_ATVAL_BOOL"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf Lens",
-        "module": "Data.Dwarf.Lens",
-        "name": "dW_ATVAL_BOOL",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "ATVAL BOOL",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-Lens.html#v:dW_ATVAL_INT",
-      "description": {
-        "fct-module": "Data.Dwarf.Lens",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Prism DW_ATVAL DW_ATVAL Int64 Int64",
-        "fct-source": "src/Data-Dwarf-Lens.html#dW_ATVAL_INT",
-        "fct-type": "function",
-        "title": "dW_ATVAL_INT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf Lens",
-        "module": "Data.Dwarf.Lens",
-        "name": "dW_ATVAL_INT",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "ATVAL INT",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-Lens.html#v:dW_ATVAL_REF",
-      "description": {
-        "fct-module": "Data.Dwarf.Lens",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Prism DW_ATVAL DW_ATVAL DieID DieID",
-        "fct-source": "src/Data-Dwarf-Lens.html#dW_ATVAL_REF",
-        "fct-type": "function",
-        "title": "dW_ATVAL_REF"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf Lens",
-        "module": "Data.Dwarf.Lens",
-        "name": "dW_ATVAL_REF",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "ATVAL REF",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-Lens.html#v:dW_ATVAL_STRING",
-      "description": {
-        "fct-module": "Data.Dwarf.Lens",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Prism DW_ATVAL DW_ATVAL String String",
-        "fct-source": "src/Data-Dwarf-Lens.html#dW_ATVAL_STRING",
-        "fct-type": "function",
-        "title": "dW_ATVAL_STRING"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf Lens",
-        "module": "Data.Dwarf.Lens",
-        "name": "dW_ATVAL_STRING",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "ATVAL STRING",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-Lens.html#v:dW_ATVAL_UINT",
-      "description": {
-        "fct-module": "Data.Dwarf.Lens",
-        "fct-package": "dwarfadt",
-        "fct-signature": "Prism DW_ATVAL DW_ATVAL Word64 Word64",
-        "fct-source": "src/Data-Dwarf-Lens.html#dW_ATVAL_UINT",
-        "fct-type": "function",
-        "title": "dW_ATVAL_UINT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf Lens",
-        "module": "Data.Dwarf.Lens",
-        "name": "dW_ATVAL_UINT",
-        "normalized": "",
-        "package": "dwarfadt",
-        "partial": "ATVAL UINT",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-Lens.html#v:getATVal",
-      "description": {
-        "fct-module": "Data.Dwarf.Lens",
-        "fct-package": "dwarfadt",
-        "fct-signature": "String -\u003e ATVAL_NamedPrism a -\u003e DW_ATVAL -\u003e a",
-        "fct-source": "src/Data-Dwarf-Lens.html#getATVal",
-        "fct-type": "function",
-        "title": "getATVal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Dwarf Lens",
-        "module": "Data.Dwarf.Lens",
-        "name": "getATVal",
-        "normalized": "String-\u003eATVAL_NamedPrism a-\u003eDW_ATVAL-\u003ea",
-        "package": "dwarfadt",
-        "partial": "ATVal",
-        "signature": "String-\u003eATVAL_NamedPrism a-\u003eDW_ATVAL-\u003ea"
-      }
-    }
-  }
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "dwarfadt"
+      },
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT.Pretty",
+          "name": "Pretty",
+          "package": "dwarfadt",
+          "source": "src/Data-Dwarf-ADT-Pretty.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT Pretty",
+          "module": "Data.Dwarf.ADT.Pretty",
+          "name": "Pretty",
+          "package": "dwarfadt",
+          "partial": "Pretty",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT-Pretty.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT.Pretty",
+          "name": "compilationUnit",
+          "package": "dwarfadt",
+          "signature": "Boxed CompilationUnit -\u003e Doc",
+          "source": "src/Data-Dwarf-ADT-Pretty.html#compilationUnit",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT Pretty",
+          "module": "Data.Dwarf.ADT.Pretty",
+          "name": "compilationUnit",
+          "normalized": "Boxed CompilationUnit-\u003eDoc",
+          "package": "dwarfadt",
+          "partial": "Unit",
+          "signature": "Boxed CompilationUnit-\u003eDoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT-Pretty.html#v:compilationUnit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT.Pretty",
+          "name": "dwarf",
+          "package": "dwarfadt",
+          "signature": "Dwarf -\u003e Doc",
+          "source": "src/Data-Dwarf-ADT-Pretty.html#dwarf",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT Pretty",
+          "module": "Data.Dwarf.ADT.Pretty",
+          "name": "dwarf",
+          "normalized": "Dwarf-\u003eDoc",
+          "package": "dwarfadt",
+          "signature": "Dwarf-\u003eDoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT-Pretty.html#v:dwarf"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "ADT",
+          "package": "dwarfadt",
+          "source": "src/Data-Dwarf-ADT.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "ADT",
+          "package": "dwarfadt",
+          "partial": "ADT",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "ArrayType",
+          "package": "dwarfadt",
+          "source": "src/Data-Dwarf-ADT.html#ArrayType",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "ArrayType",
+          "package": "dwarfadt",
+          "partial": "Array Type",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:ArrayType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "BaseType",
+          "package": "dwarfadt",
+          "source": "src/Data-Dwarf-ADT.html#BaseType",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "BaseType",
+          "package": "dwarfadt",
+          "partial": "Base Type",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:BaseType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "Boxed",
+          "package": "dwarfadt",
+          "source": "src/Data-Dwarf-ADT.html#Boxed",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "Boxed",
+          "package": "dwarfadt",
+          "partial": "Boxed",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:Boxed"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "CompilationUnit",
+          "package": "dwarfadt",
+          "source": "src/Data-Dwarf-ADT.html#CompilationUnit",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "CompilationUnit",
+          "package": "dwarfadt",
+          "partial": "Compilation Unit",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:CompilationUnit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "ConstType",
+          "package": "dwarfadt",
+          "source": "src/Data-Dwarf-ADT.html#ConstType",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "ConstType",
+          "package": "dwarfadt",
+          "partial": "Const Type",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:ConstType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "Decl",
+          "package": "dwarfadt",
+          "source": "src/Data-Dwarf-ADT.html#Decl",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "Decl",
+          "package": "dwarfadt",
+          "partial": "Decl",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:Decl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "Def",
+          "package": "dwarfadt",
+          "source": "src/Data-Dwarf-ADT.html#Def",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "Def",
+          "package": "dwarfadt",
+          "partial": "Def",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:Def"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "DefType",
+          "package": "dwarfadt",
+          "source": "src/Data-Dwarf-ADT.html#DefType",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "DefType",
+          "package": "dwarfadt",
+          "partial": "Def Type",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:DefType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "Dwarf",
+          "package": "dwarfadt",
+          "source": "src/Data-Dwarf-ADT.html#Dwarf",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "Dwarf",
+          "package": "dwarfadt",
+          "partial": "Dwarf",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:Dwarf"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "EnumerationType",
+          "package": "dwarfadt",
+          "source": "src/Data-Dwarf-ADT.html#EnumerationType",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "EnumerationType",
+          "package": "dwarfadt",
+          "partial": "Enumeration Type",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:EnumerationType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "Enumerator",
+          "package": "dwarfadt",
+          "source": "src/Data-Dwarf-ADT.html#Enumerator",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "Enumerator",
+          "package": "dwarfadt",
+          "partial": "Enumerator",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:Enumerator"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "FormalParameter",
+          "package": "dwarfadt",
+          "source": "src/Data-Dwarf-ADT.html#FormalParameter",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "FormalParameter",
+          "package": "dwarfadt",
+          "partial": "Formal Parameter",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:FormalParameter"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "Member",
+          "package": "dwarfadt",
+          "source": "src/Data-Dwarf-ADT.html#Member",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "Member",
+          "package": "dwarfadt",
+          "partial": "Member",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:Member"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "PtrType",
+          "package": "dwarfadt",
+          "source": "src/Data-Dwarf-ADT.html#PtrType",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "PtrType",
+          "package": "dwarfadt",
+          "partial": "Ptr Type",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:PtrType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "StructureType",
+          "package": "dwarfadt",
+          "source": "src/Data-Dwarf-ADT.html#StructureType",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "StructureType",
+          "package": "dwarfadt",
+          "partial": "Structure Type",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:StructureType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "Subprogram",
+          "package": "dwarfadt",
+          "source": "src/Data-Dwarf-ADT.html#Subprogram",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "Subprogram",
+          "package": "dwarfadt",
+          "partial": "Subprogram",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:Subprogram"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "SubrangeType",
+          "package": "dwarfadt",
+          "source": "src/Data-Dwarf-ADT.html#SubrangeType",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "SubrangeType",
+          "package": "dwarfadt",
+          "partial": "Subrange Type",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:SubrangeType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "SubroutineType",
+          "package": "dwarfadt",
+          "source": "src/Data-Dwarf-ADT.html#SubroutineType",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "SubroutineType",
+          "package": "dwarfadt",
+          "partial": "Subroutine Type",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:SubroutineType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "TypeRef",
+          "package": "dwarfadt",
+          "source": "src/Data-Dwarf-ADT.html#TypeRef",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "TypeRef",
+          "package": "dwarfadt",
+          "partial": "Type Ref",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:TypeRef"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "Typedef",
+          "package": "dwarfadt",
+          "source": "src/Data-Dwarf-ADT.html#Typedef",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "Typedef",
+          "package": "dwarfadt",
+          "partial": "Typedef",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:Typedef"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "UnionType",
+          "package": "dwarfadt",
+          "source": "src/Data-Dwarf-ADT.html#UnionType",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "UnionType",
+          "package": "dwarfadt",
+          "partial": "Union Type",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:UnionType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "Variable",
+          "package": "dwarfadt",
+          "source": "src/Data-Dwarf-ADT.html#Variable",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "Variable",
+          "package": "dwarfadt",
+          "partial": "Variable",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:Variable"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "VolatileType",
+          "package": "dwarfadt",
+          "source": "src/Data-Dwarf-ADT.html#VolatileType",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "VolatileType",
+          "package": "dwarfadt",
+          "partial": "Volatile Type",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:VolatileType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "Warning",
+          "package": "dwarfadt",
+          "source": "src/Data-Dwarf-ADT.html#Warning",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "Warning",
+          "package": "dwarfadt",
+          "partial": "Warning",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#t:Warning"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "ArrayType",
+          "package": "dwarfadt",
+          "signature": "ArrayType",
+          "source": "src/Data-Dwarf-ADT.html#ArrayType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "ArrayType",
+          "package": "dwarfadt",
+          "partial": "Array Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:ArrayType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "BaseType",
+          "package": "dwarfadt",
+          "signature": "BaseType",
+          "source": "src/Data-Dwarf-ADT.html#BaseType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "BaseType",
+          "package": "dwarfadt",
+          "partial": "Base Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:BaseType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "Boxed",
+          "package": "dwarfadt",
+          "signature": "Boxed",
+          "source": "src/Data-Dwarf-ADT.html#Boxed",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "Boxed",
+          "package": "dwarfadt",
+          "partial": "Boxed",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:Boxed"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "CompilationUnit",
+          "package": "dwarfadt",
+          "signature": "CompilationUnit",
+          "source": "src/Data-Dwarf-ADT.html#CompilationUnit",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "CompilationUnit",
+          "package": "dwarfadt",
+          "partial": "Compilation Unit",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:CompilationUnit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "ConstType",
+          "package": "dwarfadt",
+          "signature": "ConstType",
+          "source": "src/Data-Dwarf-ADT.html#ConstType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "ConstType",
+          "package": "dwarfadt",
+          "partial": "Const Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:ConstType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "Decl",
+          "package": "dwarfadt",
+          "signature": "Decl",
+          "source": "src/Data-Dwarf-ADT.html#Decl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "Decl",
+          "package": "dwarfadt",
+          "partial": "Decl",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:Decl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "DefArrayType",
+          "package": "dwarfadt",
+          "signature": "DefArrayType ArrayType",
+          "source": "src/Data-Dwarf-ADT.html#DefType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "DefArrayType",
+          "package": "dwarfadt",
+          "partial": "Def Array Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:DefArrayType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "DefBaseType",
+          "package": "dwarfadt",
+          "signature": "DefBaseType BaseType",
+          "source": "src/Data-Dwarf-ADT.html#DefType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "DefBaseType",
+          "package": "dwarfadt",
+          "partial": "Def Base Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:DefBaseType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "DefConstType",
+          "package": "dwarfadt",
+          "signature": "DefConstType ConstType",
+          "source": "src/Data-Dwarf-ADT.html#DefType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "DefConstType",
+          "package": "dwarfadt",
+          "partial": "Def Const Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:DefConstType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "DefEnumerationType",
+          "package": "dwarfadt",
+          "signature": "DefEnumerationType EnumerationType",
+          "source": "src/Data-Dwarf-ADT.html#DefType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "DefEnumerationType",
+          "package": "dwarfadt",
+          "partial": "Def Enumeration Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:DefEnumerationType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "DefPtrType",
+          "package": "dwarfadt",
+          "signature": "DefPtrType PtrType",
+          "source": "src/Data-Dwarf-ADT.html#DefType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "DefPtrType",
+          "package": "dwarfadt",
+          "partial": "Def Ptr Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:DefPtrType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "DefStructureType",
+          "package": "dwarfadt",
+          "signature": "DefStructureType StructureType",
+          "source": "src/Data-Dwarf-ADT.html#DefType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "DefStructureType",
+          "package": "dwarfadt",
+          "partial": "Def Structure Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:DefStructureType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "DefSubprogram",
+          "package": "dwarfadt",
+          "signature": "DefSubprogram Subprogram",
+          "source": "src/Data-Dwarf-ADT.html#Def",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "DefSubprogram",
+          "package": "dwarfadt",
+          "partial": "Def Subprogram",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:DefSubprogram"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "DefSubroutineType",
+          "package": "dwarfadt",
+          "signature": "DefSubroutineType SubroutineType",
+          "source": "src/Data-Dwarf-ADT.html#DefType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "DefSubroutineType",
+          "package": "dwarfadt",
+          "partial": "Def Subroutine Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:DefSubroutineType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "DefType",
+          "package": "dwarfadt",
+          "signature": "DefType DefType",
+          "source": "src/Data-Dwarf-ADT.html#Def",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "DefType",
+          "package": "dwarfadt",
+          "partial": "Def Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:DefType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "DefTypedef",
+          "package": "dwarfadt",
+          "signature": "DefTypedef Typedef",
+          "source": "src/Data-Dwarf-ADT.html#DefType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "DefTypedef",
+          "package": "dwarfadt",
+          "partial": "Def Typedef",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:DefTypedef"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "DefUnionType",
+          "package": "dwarfadt",
+          "signature": "DefUnionType UnionType",
+          "source": "src/Data-Dwarf-ADT.html#DefType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "DefUnionType",
+          "package": "dwarfadt",
+          "partial": "Def Union Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:DefUnionType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "DefVariable",
+          "package": "dwarfadt",
+          "signature": "DefVariable (Variable String)",
+          "source": "src/Data-Dwarf-ADT.html#Def",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "DefVariable",
+          "package": "dwarfadt",
+          "partial": "Def Variable",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:DefVariable"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "DefVolatileType",
+          "package": "dwarfadt",
+          "signature": "DefVolatileType VolatileType",
+          "source": "src/Data-Dwarf-ADT.html#DefType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "DefVolatileType",
+          "package": "dwarfadt",
+          "partial": "Def Volatile Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:DefVolatileType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "Dwarf",
+          "package": "dwarfadt",
+          "signature": "Dwarf",
+          "source": "src/Data-Dwarf-ADT.html#Dwarf",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "Dwarf",
+          "package": "dwarfadt",
+          "partial": "Dwarf",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:Dwarf"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "EnumerationType",
+          "package": "dwarfadt",
+          "signature": "EnumerationType",
+          "source": "src/Data-Dwarf-ADT.html#EnumerationType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "EnumerationType",
+          "package": "dwarfadt",
+          "partial": "Enumeration Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:EnumerationType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "Enumerator",
+          "package": "dwarfadt",
+          "signature": "Enumerator",
+          "source": "src/Data-Dwarf-ADT.html#Enumerator",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "Enumerator",
+          "package": "dwarfadt",
+          "partial": "Enumerator",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:Enumerator"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "FormalParameter",
+          "package": "dwarfadt",
+          "signature": "FormalParameter",
+          "source": "src/Data-Dwarf-ADT.html#FormalParameter",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "FormalParameter",
+          "package": "dwarfadt",
+          "partial": "Formal Parameter",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:FormalParameter"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "Member",
+          "package": "dwarfadt",
+          "signature": "Member",
+          "source": "src/Data-Dwarf-ADT.html#Member",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "Member",
+          "package": "dwarfadt",
+          "partial": "Member",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:Member"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "PtrType",
+          "package": "dwarfadt",
+          "signature": "PtrType",
+          "source": "src/Data-Dwarf-ADT.html#PtrType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "PtrType",
+          "package": "dwarfadt",
+          "partial": "Ptr Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:PtrType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "StructureType",
+          "package": "dwarfadt",
+          "signature": "StructureType",
+          "source": "src/Data-Dwarf-ADT.html#StructureType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "StructureType",
+          "package": "dwarfadt",
+          "partial": "Structure Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:StructureType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "Subprogram",
+          "package": "dwarfadt",
+          "signature": "Subprogram",
+          "source": "src/Data-Dwarf-ADT.html#Subprogram",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "Subprogram",
+          "package": "dwarfadt",
+          "partial": "Subprogram",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:Subprogram"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "SubrangeType",
+          "package": "dwarfadt",
+          "signature": "SubrangeType",
+          "source": "src/Data-Dwarf-ADT.html#SubrangeType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "SubrangeType",
+          "package": "dwarfadt",
+          "partial": "Subrange Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:SubrangeType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "SubroutineType",
+          "package": "dwarfadt",
+          "signature": "SubroutineType",
+          "source": "src/Data-Dwarf-ADT.html#SubroutineType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "SubroutineType",
+          "package": "dwarfadt",
+          "partial": "Subroutine Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:SubroutineType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "TypeRef",
+          "package": "dwarfadt",
+          "signature": "TypeRef (Boxed DefType)",
+          "source": "src/Data-Dwarf-ADT.html#TypeRef",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "TypeRef",
+          "package": "dwarfadt",
+          "partial": "Type Ref",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:TypeRef"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "Typedef",
+          "package": "dwarfadt",
+          "signature": "Typedef",
+          "source": "src/Data-Dwarf-ADT.html#Typedef",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "Typedef",
+          "package": "dwarfadt",
+          "partial": "Typedef",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:Typedef"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "UnionType",
+          "package": "dwarfadt",
+          "signature": "UnionType",
+          "source": "src/Data-Dwarf-ADT.html#UnionType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "UnionType",
+          "package": "dwarfadt",
+          "partial": "Union Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:UnionType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "Variable",
+          "package": "dwarfadt",
+          "signature": "Variable",
+          "source": "src/Data-Dwarf-ADT.html#Variable",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "Variable",
+          "package": "dwarfadt",
+          "partial": "Variable",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:Variable"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "Void",
+          "package": "dwarfadt",
+          "signature": "Void",
+          "source": "src/Data-Dwarf-ADT.html#TypeRef",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "Void",
+          "package": "dwarfadt",
+          "partial": "Void",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:Void"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "VolatileType",
+          "package": "dwarfadt",
+          "signature": "VolatileType",
+          "source": "src/Data-Dwarf-ADT.html#VolatileType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "VolatileType",
+          "package": "dwarfadt",
+          "partial": "Volatile Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:VolatileType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "Warning",
+          "package": "dwarfadt",
+          "signature": "Warning",
+          "source": "src/Data-Dwarf-ADT.html#Warning",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "Warning",
+          "package": "dwarfadt",
+          "partial": "Warning",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:Warning"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "atSubrangeType",
+          "package": "dwarfadt",
+          "signature": "[Boxed SubrangeType]",
+          "source": "src/Data-Dwarf-ADT.html#ArrayType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "atSubrangeType",
+          "normalized": "[Boxed SubrangeType]",
+          "package": "dwarfadt",
+          "partial": "Subrange Type",
+          "signature": "[Boxed SubrangeType]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:atSubrangeType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "atType",
+          "package": "dwarfadt",
+          "signature": "TypeRef",
+          "source": "src/Data-Dwarf-ADT.html#ArrayType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "atType",
+          "package": "dwarfadt",
+          "partial": "Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:atType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "bData",
+          "package": "dwarfadt",
+          "signature": "a",
+          "source": "src/Data-Dwarf-ADT.html#Boxed",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "bData",
+          "package": "dwarfadt",
+          "partial": "Data",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:bData"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "bDieId",
+          "package": "dwarfadt",
+          "signature": "DieID",
+          "source": "src/Data-Dwarf-ADT.html#Boxed",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "bDieId",
+          "package": "dwarfadt",
+          "partial": "Die Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:bDieId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "btByteSize",
+          "package": "dwarfadt",
+          "signature": "Word",
+          "source": "src/Data-Dwarf-ADT.html#BaseType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "btByteSize",
+          "package": "dwarfadt",
+          "partial": "Byte Size",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:btByteSize"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "btEncoding",
+          "package": "dwarfadt",
+          "signature": "DW_ATE",
+          "source": "src/Data-Dwarf-ADT.html#BaseType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "btEncoding",
+          "package": "dwarfadt",
+          "partial": "Encoding",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:btEncoding"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "btName",
+          "package": "dwarfadt",
+          "signature": "Maybe String",
+          "source": "src/Data-Dwarf-ADT.html#BaseType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "btName",
+          "package": "dwarfadt",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:btName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "ctType",
+          "package": "dwarfadt",
+          "signature": "TypeRef",
+          "source": "src/Data-Dwarf-ADT.html#ConstType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "ctType",
+          "package": "dwarfadt",
+          "partial": "Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:ctType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "cuCompDir",
+          "package": "dwarfadt",
+          "signature": "String",
+          "source": "src/Data-Dwarf-ADT.html#CompilationUnit",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "cuCompDir",
+          "package": "dwarfadt",
+          "partial": "Comp Dir",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:cuCompDir"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "cuDefs",
+          "package": "dwarfadt",
+          "signature": "[Boxed Def]",
+          "source": "src/Data-Dwarf-ADT.html#CompilationUnit",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "cuDefs",
+          "normalized": "[Boxed Def]",
+          "package": "dwarfadt",
+          "partial": "Defs",
+          "signature": "[Boxed Def]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:cuDefs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "cuHighPc",
+          "package": "dwarfadt",
+          "signature": "Maybe Word64",
+          "source": "src/Data-Dwarf-ADT.html#CompilationUnit",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "cuHighPc",
+          "package": "dwarfadt",
+          "partial": "High Pc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:cuHighPc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "cuLanguage",
+          "package": "dwarfadt",
+          "signature": "DW_LANG",
+          "source": "src/Data-Dwarf-ADT.html#CompilationUnit",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "cuLanguage",
+          "package": "dwarfadt",
+          "partial": "Language",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:cuLanguage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "cuLowPc",
+          "package": "dwarfadt",
+          "signature": "Word64",
+          "source": "src/Data-Dwarf-ADT.html#CompilationUnit",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "cuLowPc",
+          "package": "dwarfadt",
+          "partial": "Low Pc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:cuLowPc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "cuName",
+          "package": "dwarfadt",
+          "signature": "String",
+          "source": "src/Data-Dwarf-ADT.html#CompilationUnit",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "cuName",
+          "package": "dwarfadt",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:cuName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "cuProducer",
+          "package": "dwarfadt",
+          "signature": "String",
+          "source": "src/Data-Dwarf-ADT.html#CompilationUnit",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "cuProducer",
+          "package": "dwarfadt",
+          "partial": "Producer",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:cuProducer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "cuStmtList",
+          "package": "dwarfadt",
+          "signature": "Word64",
+          "source": "src/Data-Dwarf-ADT.html#CompilationUnit",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "cuStmtList",
+          "package": "dwarfadt",
+          "partial": "Stmt List",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:cuStmtList"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "declColumn",
+          "package": "dwarfadt",
+          "signature": "Maybe Int",
+          "source": "src/Data-Dwarf-ADT.html#Decl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "declColumn",
+          "package": "dwarfadt",
+          "partial": "Column",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:declColumn"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "declFile",
+          "package": "dwarfadt",
+          "signature": "Maybe Word64",
+          "source": "src/Data-Dwarf-ADT.html#Decl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "declFile",
+          "package": "dwarfadt",
+          "partial": "File",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:declFile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "declLine",
+          "package": "dwarfadt",
+          "signature": "Maybe Int",
+          "source": "src/Data-Dwarf-ADT.html#Decl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "declLine",
+          "package": "dwarfadt",
+          "partial": "Line",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:declLine"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "dwarfCompilationUnits",
+          "package": "dwarfadt",
+          "signature": "[Boxed CompilationUnit]",
+          "source": "src/Data-Dwarf-ADT.html#Dwarf",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "dwarfCompilationUnits",
+          "normalized": "[Boxed CompilationUnit]",
+          "package": "dwarfadt",
+          "partial": "Compilation Units",
+          "signature": "[Boxed CompilationUnit]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:dwarfCompilationUnits"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "enumByteSize",
+          "package": "dwarfadt",
+          "signature": "Word",
+          "source": "src/Data-Dwarf-ADT.html#EnumerationType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "enumByteSize",
+          "package": "dwarfadt",
+          "partial": "Byte Size",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:enumByteSize"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "enumDecl",
+          "package": "dwarfadt",
+          "signature": "Decl",
+          "source": "src/Data-Dwarf-ADT.html#EnumerationType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "enumDecl",
+          "package": "dwarfadt",
+          "partial": "Decl",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:enumDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "enumEnumerators",
+          "package": "dwarfadt",
+          "signature": "[Boxed Enumerator]",
+          "source": "src/Data-Dwarf-ADT.html#EnumerationType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "enumEnumerators",
+          "normalized": "[Boxed Enumerator]",
+          "package": "dwarfadt",
+          "partial": "Enumerators",
+          "signature": "[Boxed Enumerator]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:enumEnumerators"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "enumName",
+          "package": "dwarfadt",
+          "signature": "Maybe String",
+          "source": "src/Data-Dwarf-ADT.html#EnumerationType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "enumName",
+          "package": "dwarfadt",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:enumName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "enumeratorConstValue",
+          "package": "dwarfadt",
+          "signature": "Int64",
+          "source": "src/Data-Dwarf-ADT.html#Enumerator",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "enumeratorConstValue",
+          "package": "dwarfadt",
+          "partial": "Const Value",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:enumeratorConstValue"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "enumeratorName",
+          "package": "dwarfadt",
+          "signature": "String",
+          "source": "src/Data-Dwarf-ADT.html#Enumerator",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "enumeratorName",
+          "package": "dwarfadt",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:enumeratorName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "formalParamDecl",
+          "package": "dwarfadt",
+          "signature": "Decl",
+          "source": "src/Data-Dwarf-ADT.html#FormalParameter",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "formalParamDecl",
+          "package": "dwarfadt",
+          "partial": "Param Decl",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:formalParamDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "formalParamLocation",
+          "package": "dwarfadt",
+          "signature": "Maybe Loc",
+          "source": "src/Data-Dwarf-ADT.html#FormalParameter",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "formalParamLocation",
+          "package": "dwarfadt",
+          "partial": "Param Location",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:formalParamLocation"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "formalParamName",
+          "package": "dwarfadt",
+          "signature": "Maybe String",
+          "source": "src/Data-Dwarf-ADT.html#FormalParameter",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "formalParamName",
+          "package": "dwarfadt",
+          "partial": "Param Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:formalParamName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "formalParamType",
+          "package": "dwarfadt",
+          "signature": "TypeRef",
+          "source": "src/Data-Dwarf-ADT.html#FormalParameter",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "formalParamType",
+          "package": "dwarfadt",
+          "partial": "Param Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:formalParamType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "fromDie",
+          "package": "dwarfadt",
+          "signature": "DIEMap -\u003e DIE -\u003e (Boxed CompilationUnit, [Warning])",
+          "source": "src/Data-Dwarf-ADT.html#fromDie",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "fromDie",
+          "normalized": "DIEMap-\u003eDIE-\u003e(Boxed CompilationUnit,[Warning])",
+          "package": "dwarfadt",
+          "partial": "Die",
+          "signature": "DIEMap-\u003eDIE-\u003e(Boxed CompilationUnit,[Warning])",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:fromDie"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "fromDies",
+          "package": "dwarfadt",
+          "signature": "DIEMap -\u003e [DIE] -\u003e (Dwarf, [Warning])",
+          "source": "src/Data-Dwarf-ADT.html#fromDies",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "fromDies",
+          "normalized": "DIEMap-\u003e[DIE]-\u003e(Dwarf,[Warning])",
+          "package": "dwarfadt",
+          "partial": "Dies",
+          "signature": "DIEMap-\u003e[DIE]-\u003e(Dwarf,[Warning])",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:fromDies"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "membDecl",
+          "package": "dwarfadt",
+          "signature": "Decl",
+          "source": "src/Data-Dwarf-ADT.html#Member",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "membDecl",
+          "package": "dwarfadt",
+          "partial": "Decl",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:membDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "membLoc",
+          "package": "dwarfadt",
+          "signature": "loc",
+          "source": "src/Data-Dwarf-ADT.html#Member",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "membLoc",
+          "package": "dwarfadt",
+          "partial": "Loc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:membLoc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "membName",
+          "package": "dwarfadt",
+          "signature": "Maybe String",
+          "source": "src/Data-Dwarf-ADT.html#Member",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "membName",
+          "package": "dwarfadt",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:membName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "membType",
+          "package": "dwarfadt",
+          "signature": "TypeRef",
+          "source": "src/Data-Dwarf-ADT.html#Member",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "membType",
+          "package": "dwarfadt",
+          "partial": "Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:membType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "ptByteSize",
+          "package": "dwarfadt",
+          "signature": "Word",
+          "source": "src/Data-Dwarf-ADT.html#PtrType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "ptByteSize",
+          "package": "dwarfadt",
+          "partial": "Byte Size",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:ptByteSize"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "ptType",
+          "package": "dwarfadt",
+          "signature": "TypeRef",
+          "source": "src/Data-Dwarf-ADT.html#PtrType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "ptType",
+          "package": "dwarfadt",
+          "partial": "Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:ptType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "stByteSize",
+          "package": "dwarfadt",
+          "signature": "Maybe Word",
+          "source": "src/Data-Dwarf-ADT.html#StructureType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "stByteSize",
+          "package": "dwarfadt",
+          "partial": "Byte Size",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:stByteSize"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "stDecl",
+          "package": "dwarfadt",
+          "signature": "Decl",
+          "source": "src/Data-Dwarf-ADT.html#StructureType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "stDecl",
+          "package": "dwarfadt",
+          "partial": "Decl",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:stDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "stIsDeclaration",
+          "package": "dwarfadt",
+          "signature": "Bool",
+          "source": "src/Data-Dwarf-ADT.html#StructureType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "stIsDeclaration",
+          "package": "dwarfadt",
+          "partial": "Is Declaration",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:stIsDeclaration"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "stMembers",
+          "package": "dwarfadt",
+          "signature": "[Boxed (Member DW_OP)]",
+          "source": "src/Data-Dwarf-ADT.html#StructureType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "stMembers",
+          "normalized": "[Boxed(Member DW_OP)]",
+          "package": "dwarfadt",
+          "partial": "Members",
+          "signature": "[Boxed(Member DW_OP)]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:stMembers"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "stName",
+          "package": "dwarfadt",
+          "signature": "Maybe String",
+          "source": "src/Data-Dwarf-ADT.html#StructureType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "stName",
+          "package": "dwarfadt",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:stName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "subRangeType",
+          "package": "dwarfadt",
+          "signature": "TypeRef",
+          "source": "src/Data-Dwarf-ADT.html#SubrangeType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "subRangeType",
+          "package": "dwarfadt",
+          "partial": "Range Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subRangeType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "subRangeUpperBound",
+          "package": "dwarfadt",
+          "signature": "Maybe Word",
+          "source": "src/Data-Dwarf-ADT.html#SubrangeType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "subRangeUpperBound",
+          "package": "dwarfadt",
+          "partial": "Range Upper Bound",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subRangeUpperBound"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "subprogDecl",
+          "package": "dwarfadt",
+          "signature": "Decl",
+          "source": "src/Data-Dwarf-ADT.html#Subprogram",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "subprogDecl",
+          "package": "dwarfadt",
+          "partial": "Decl",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subprogDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "subprogExternal",
+          "package": "dwarfadt",
+          "signature": "Bool",
+          "source": "src/Data-Dwarf-ADT.html#Subprogram",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "subprogExternal",
+          "package": "dwarfadt",
+          "partial": "External",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subprogExternal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "subprogFormalParameters",
+          "package": "dwarfadt",
+          "signature": "[Boxed FormalParameter]",
+          "source": "src/Data-Dwarf-ADT.html#Subprogram",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "subprogFormalParameters",
+          "normalized": "[Boxed FormalParameter]",
+          "package": "dwarfadt",
+          "partial": "Formal Parameters",
+          "signature": "[Boxed FormalParameter]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subprogFormalParameters"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "subprogFrameBase",
+          "package": "dwarfadt",
+          "signature": "Maybe Loc",
+          "source": "src/Data-Dwarf-ADT.html#Subprogram",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "subprogFrameBase",
+          "package": "dwarfadt",
+          "partial": "Frame Base",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subprogFrameBase"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "subprogHighPC",
+          "package": "dwarfadt",
+          "signature": "Maybe Word64",
+          "source": "src/Data-Dwarf-ADT.html#Subprogram",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "subprogHighPC",
+          "package": "dwarfadt",
+          "partial": "High PC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subprogHighPC"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "subprogLowPC",
+          "package": "dwarfadt",
+          "signature": "Maybe Word64",
+          "source": "src/Data-Dwarf-ADT.html#Subprogram",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "subprogLowPC",
+          "package": "dwarfadt",
+          "partial": "Low PC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subprogLowPC"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "subprogName",
+          "package": "dwarfadt",
+          "signature": "String",
+          "source": "src/Data-Dwarf-ADT.html#Subprogram",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "subprogName",
+          "package": "dwarfadt",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subprogName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "subprogPrototyped",
+          "package": "dwarfadt",
+          "signature": "Bool",
+          "source": "src/Data-Dwarf-ADT.html#Subprogram",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "subprogPrototyped",
+          "package": "dwarfadt",
+          "partial": "Prototyped",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subprogPrototyped"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "subprogType",
+          "package": "dwarfadt",
+          "signature": "TypeRef",
+          "source": "src/Data-Dwarf-ADT.html#Subprogram",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "subprogType",
+          "package": "dwarfadt",
+          "partial": "Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subprogType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "subprogUnspecifiedParameters",
+          "package": "dwarfadt",
+          "signature": "Bool",
+          "source": "src/Data-Dwarf-ADT.html#Subprogram",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "subprogUnspecifiedParameters",
+          "package": "dwarfadt",
+          "partial": "Unspecified Parameters",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subprogUnspecifiedParameters"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "subprogVariables",
+          "package": "dwarfadt",
+          "signature": "[Boxed (Variable (Maybe String))]",
+          "source": "src/Data-Dwarf-ADT.html#Subprogram",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "subprogVariables",
+          "normalized": "[Boxed(Variable(Maybe String))]",
+          "package": "dwarfadt",
+          "partial": "Variables",
+          "signature": "[Boxed(Variable(Maybe String))]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subprogVariables"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "subrFormalParameters",
+          "package": "dwarfadt",
+          "signature": "[Boxed FormalParameter]",
+          "source": "src/Data-Dwarf-ADT.html#SubroutineType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "subrFormalParameters",
+          "normalized": "[Boxed FormalParameter]",
+          "package": "dwarfadt",
+          "partial": "Formal Parameters",
+          "signature": "[Boxed FormalParameter]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subrFormalParameters"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "subrPrototyped",
+          "package": "dwarfadt",
+          "signature": "Bool",
+          "source": "src/Data-Dwarf-ADT.html#SubroutineType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "subrPrototyped",
+          "package": "dwarfadt",
+          "partial": "Prototyped",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subrPrototyped"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "subrRetType",
+          "package": "dwarfadt",
+          "signature": "TypeRef",
+          "source": "src/Data-Dwarf-ADT.html#SubroutineType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "subrRetType",
+          "package": "dwarfadt",
+          "partial": "Ret Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:subrRetType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "tdDecl",
+          "package": "dwarfadt",
+          "signature": "Decl",
+          "source": "src/Data-Dwarf-ADT.html#Typedef",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "tdDecl",
+          "package": "dwarfadt",
+          "partial": "Decl",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:tdDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "tdName",
+          "package": "dwarfadt",
+          "signature": "String",
+          "source": "src/Data-Dwarf-ADT.html#Typedef",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "tdName",
+          "package": "dwarfadt",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:tdName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "tdType",
+          "package": "dwarfadt",
+          "signature": "TypeRef",
+          "source": "src/Data-Dwarf-ADT.html#Typedef",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "tdType",
+          "package": "dwarfadt",
+          "partial": "Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:tdType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "unionByteSize",
+          "package": "dwarfadt",
+          "signature": "Word",
+          "source": "src/Data-Dwarf-ADT.html#UnionType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "unionByteSize",
+          "package": "dwarfadt",
+          "partial": "Byte Size",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:unionByteSize"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "unionDecl",
+          "package": "dwarfadt",
+          "signature": "Decl",
+          "source": "src/Data-Dwarf-ADT.html#UnionType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "unionDecl",
+          "package": "dwarfadt",
+          "partial": "Decl",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:unionDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "unionMembers",
+          "package": "dwarfadt",
+          "signature": "[Boxed (Member (Maybe DW_OP))]",
+          "source": "src/Data-Dwarf-ADT.html#UnionType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "unionMembers",
+          "normalized": "[Boxed(Member(Maybe DW_OP))]",
+          "package": "dwarfadt",
+          "partial": "Members",
+          "signature": "[Boxed(Member(Maybe DW_OP))]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:unionMembers"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "unionName",
+          "package": "dwarfadt",
+          "signature": "Maybe String",
+          "source": "src/Data-Dwarf-ADT.html#UnionType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "unionName",
+          "package": "dwarfadt",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:unionName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "varDecl",
+          "package": "dwarfadt",
+          "signature": "Decl",
+          "source": "src/Data-Dwarf-ADT.html#Variable",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "varDecl",
+          "package": "dwarfadt",
+          "partial": "Decl",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:varDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "varDeclaration",
+          "package": "dwarfadt",
+          "signature": "Bool",
+          "source": "src/Data-Dwarf-ADT.html#Variable",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "varDeclaration",
+          "package": "dwarfadt",
+          "partial": "Declaration",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:varDeclaration"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "varExternal",
+          "package": "dwarfadt",
+          "signature": "Bool",
+          "source": "src/Data-Dwarf-ADT.html#Variable",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "varExternal",
+          "package": "dwarfadt",
+          "partial": "External",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:varExternal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "varLoc",
+          "package": "dwarfadt",
+          "signature": "Maybe Loc",
+          "source": "src/Data-Dwarf-ADT.html#Variable",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "varLoc",
+          "package": "dwarfadt",
+          "partial": "Loc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:varLoc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "varName",
+          "package": "dwarfadt",
+          "signature": "name",
+          "source": "src/Data-Dwarf-ADT.html#Variable",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "varName",
+          "package": "dwarfadt",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:varName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "varType",
+          "package": "dwarfadt",
+          "signature": "TypeRef",
+          "source": "src/Data-Dwarf-ADT.html#Variable",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "varType",
+          "package": "dwarfadt",
+          "partial": "Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:varType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "vtType",
+          "package": "dwarfadt",
+          "signature": "TypeRef",
+          "source": "src/Data-Dwarf-ADT.html#VolatileType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "vtType",
+          "package": "dwarfadt",
+          "partial": "Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:vtType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "warningDieId",
+          "package": "dwarfadt",
+          "signature": "DIE",
+          "source": "src/Data-Dwarf-ADT.html#Warning",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "warningDieId",
+          "package": "dwarfadt",
+          "partial": "Die Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:warningDieId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.ADT",
+          "name": "warningUnusedAttrs",
+          "package": "dwarfadt",
+          "signature": "[(DW_AT, DW_ATVAL)]",
+          "source": "src/Data-Dwarf-ADT.html#Warning",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf ADT",
+          "module": "Data.Dwarf.ADT",
+          "name": "warningUnusedAttrs",
+          "normalized": "[(DW_AT,DW_ATVAL)]",
+          "package": "dwarfadt",
+          "partial": "Unused Attrs",
+          "signature": "[(DW_AT,DW_ATVAL)]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-ADT.html#v:warningUnusedAttrs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.Elf",
+          "name": "Elf",
+          "package": "dwarfadt",
+          "source": "src/Data-Dwarf-Elf.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf Elf",
+          "module": "Data.Dwarf.Elf",
+          "name": "Elf",
+          "package": "dwarfadt",
+          "partial": "Elf",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-Elf.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.Elf",
+          "name": "elfSectionByName",
+          "package": "dwarfadt",
+          "signature": "Elf -\u003e String -\u003e Either String ByteString",
+          "source": "src/Data-Dwarf-Elf.html#elfSectionByName",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf Elf",
+          "module": "Data.Dwarf.Elf",
+          "name": "elfSectionByName",
+          "normalized": "Elf-\u003eString-\u003eEither String ByteString",
+          "package": "dwarfadt",
+          "partial": "Section By Name",
+          "signature": "Elf-\u003eString-\u003eEither String ByteString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-Elf.html#v:elfSectionByName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.Elf",
+          "name": "loadElfDwarf",
+          "package": "dwarfadt",
+          "signature": "Endianess -\u003e FilePath -\u003e IO (Elf, ([DIE], DIEMap))",
+          "source": "src/Data-Dwarf-Elf.html#loadElfDwarf",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf Elf",
+          "module": "Data.Dwarf.Elf",
+          "name": "loadElfDwarf",
+          "normalized": "Endianess-\u003eFilePath-\u003eIO(Elf,([DIE],DIEMap))",
+          "package": "dwarfadt",
+          "partial": "Elf Dwarf",
+          "signature": "Endianess-\u003eFilePath-\u003eIO(Elf,([DIE],DIEMap))",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-Elf.html#v:loadElfDwarf"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Dwarf.Elf",
+          "name": "parseElfDwarfADT",
+          "package": "dwarfadt",
+          "signature": "Endianess -\u003e FilePath -\u003e IO (Dwarf, [Warning])",
+          "source": "src/Data-Dwarf-Elf.html#parseElfDwarfADT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Dwarf Elf",
+          "module": "Data.Dwarf.Elf",
+          "name": "parseElfDwarfADT",
+          "normalized": "Endianess-\u003eFilePath-\u003eIO(Dwarf,[Warning])",
+          "package": "dwarfadt",
+          "partial": "Elf Dwarf ADT",
+          "signature": "Endianess-\u003eFilePath-\u003eIO(Dwarf,[Warning])",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dwarfadt/docs/Data-Dwarf-Elf.html#v:parseElfDwarfADT"
+      }
+    }
+  ]
 ]

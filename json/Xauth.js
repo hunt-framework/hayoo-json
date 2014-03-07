@@ -1,268 +1,264 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Xauth/docs/Graphics-X11-Xauth.html#",
-      "description": {
-        "fct-module": "Graphics.X11.Xauth",
-        "fct-package": "Xauth",
-        "fct-signature": "module",
-        "fct-source": "src/Graphics-X11-Xauth.html",
-        "fct-type": "module",
-        "title": "Xauth"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "Xauth"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics X11 Xauth",
-        "module": "Graphics.X11.Xauth",
-        "name": "Xauth",
-        "normalized": "",
-        "package": "Xauth",
-        "partial": "Xauth",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Xauth/docs/Graphics-X11-Xauth.html#t:Xauth",
-      "description": {
-        "fct-module": "Graphics.X11.Xauth",
-        "fct-package": "Xauth",
-        "fct-signature": "data",
-        "fct-source": "src/Graphics-X11-Xauth.html#Xauth",
-        "fct-type": "data",
-        "title": "Xauth"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics X11 Xauth",
-        "module": "Graphics.X11.Xauth",
-        "name": "Xauth",
-        "normalized": "",
-        "package": "Xauth",
-        "partial": "Xauth",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.X11.Xauth",
+          "name": "Xauth",
+          "package": "Xauth",
+          "source": "src/Graphics-X11-Xauth.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Graphics X11 Xauth",
+          "module": "Graphics.X11.Xauth",
+          "name": "Xauth",
+          "package": "Xauth",
+          "partial": "Xauth",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/Xauth/docs/Graphics-X11-Xauth.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.X11.Xauth",
+          "name": "Xauth",
+          "package": "Xauth",
+          "source": "src/Graphics-X11-Xauth.html#Xauth",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Graphics X11 Xauth",
+          "module": "Graphics.X11.Xauth",
+          "name": "Xauth",
+          "package": "Xauth",
+          "partial": "Xauth",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Xauth/docs/Graphics-X11-Xauth.html#t:Xauth"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.X11.Xauth",
+          "name": "Xauth",
+          "package": "Xauth",
+          "signature": "Xauth",
+          "source": "src/Graphics-X11-Xauth.html#Xauth",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics X11 Xauth",
+          "module": "Graphics.X11.Xauth",
+          "name": "Xauth",
+          "package": "Xauth",
+          "partial": "Xauth",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Xauth/docs/Graphics-X11-Xauth.html#v:Xauth"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.X11.Xauth",
+          "name": "familyKrb5Principal",
+          "package": "Xauth",
+          "signature": "CUShort",
+          "source": "src/Graphics-X11-Xauth.html#familyLocal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics X11 Xauth",
+          "module": "Graphics.X11.Xauth",
+          "name": "familyKrb5Principal",
+          "package": "Xauth",
+          "partial": "Krb Principal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Xauth/docs/Graphics-X11-Xauth.html#v:familyKrb5Principal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.X11.Xauth",
+          "name": "familyLocal",
+          "package": "Xauth",
+          "signature": "CUShort",
+          "source": "src/Graphics-X11-Xauth.html#familyLocal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics X11 Xauth",
+          "module": "Graphics.X11.Xauth",
+          "name": "familyLocal",
+          "package": "Xauth",
+          "partial": "Local",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Xauth/docs/Graphics-X11-Xauth.html#v:familyLocal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.X11.Xauth",
+          "name": "familyLocalHost",
+          "package": "Xauth",
+          "signature": "CUShort",
+          "source": "src/Graphics-X11-Xauth.html#familyLocal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics X11 Xauth",
+          "module": "Graphics.X11.Xauth",
+          "name": "familyLocalHost",
+          "package": "Xauth",
+          "partial": "Local Host",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Xauth/docs/Graphics-X11-Xauth.html#v:familyLocalHost"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.X11.Xauth",
+          "name": "familyNetname",
+          "package": "Xauth",
+          "signature": "CUShort",
+          "source": "src/Graphics-X11-Xauth.html#familyLocal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics X11 Xauth",
+          "module": "Graphics.X11.Xauth",
+          "name": "familyNetname",
+          "package": "Xauth",
+          "partial": "Netname",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Xauth/docs/Graphics-X11-Xauth.html#v:familyNetname"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.X11.Xauth",
+          "name": "familyWild",
+          "package": "Xauth",
+          "signature": "CUShort",
+          "source": "src/Graphics-X11-Xauth.html#familyLocal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics X11 Xauth",
+          "module": "Graphics.X11.Xauth",
+          "name": "familyWild",
+          "package": "Xauth",
+          "partial": "Wild",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Xauth/docs/Graphics-X11-Xauth.html#v:familyWild"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.X11.Xauth",
+          "name": "getAuthByAddr",
+          "package": "Xauth",
+          "signature": "CUShort -\u003e [CChar] -\u003e [CChar] -\u003e [CChar] -\u003e IO (Maybe Xauth)",
+          "source": "src/Graphics-X11-Xauth.html#getAuthByAddr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics X11 Xauth",
+          "module": "Graphics.X11.Xauth",
+          "name": "getAuthByAddr",
+          "normalized": "CUShort-\u003e[CChar]-\u003e[CChar]-\u003e[CChar]-\u003eIO(Maybe Xauth)",
+          "package": "Xauth",
+          "partial": "Auth By Addr",
+          "signature": "CUShort-\u003e[CChar]-\u003e[CChar]-\u003e[CChar]-\u003eIO(Maybe Xauth)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Xauth/docs/Graphics-X11-Xauth.html#v:getAuthByAddr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.X11.Xauth",
+          "name": "xauthData",
+          "package": "Xauth",
+          "signature": "[CChar]",
+          "source": "src/Graphics-X11-Xauth.html#Xauth",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics X11 Xauth",
+          "module": "Graphics.X11.Xauth",
+          "name": "xauthData",
+          "normalized": "[CChar]",
+          "package": "Xauth",
+          "partial": "Data",
+          "signature": "[CChar]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Xauth/docs/Graphics-X11-Xauth.html#v:xauthData"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.X11.Xauth",
+          "name": "xauthName",
+          "package": "Xauth",
+          "signature": "[CChar]",
+          "source": "src/Graphics-X11-Xauth.html#Xauth",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics X11 Xauth",
+          "module": "Graphics.X11.Xauth",
+          "name": "xauthName",
+          "normalized": "[CChar]",
+          "package": "Xauth",
+          "partial": "Name",
+          "signature": "[CChar]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Xauth/docs/Graphics-X11-Xauth.html#v:xauthName"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Xauth/docs/Graphics-X11-Xauth.html#v:Xauth",
-      "description": {
-        "fct-module": "Graphics.X11.Xauth",
-        "fct-package": "Xauth",
-        "fct-signature": "Xauth",
-        "fct-source": "src/Graphics-X11-Xauth.html#Xauth",
-        "fct-type": "function",
-        "title": "Xauth"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics X11 Xauth",
-        "module": "Graphics.X11.Xauth",
-        "name": "Xauth",
-        "normalized": "",
-        "package": "Xauth",
-        "partial": "Xauth",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Xauth/docs/Graphics-X11-Xauth.html#v:familyKrb5Principal",
-      "description": {
-        "fct-module": "Graphics.X11.Xauth",
-        "fct-package": "Xauth",
-        "fct-signature": "CUShort",
-        "fct-source": "src/Graphics-X11-Xauth.html#familyLocal",
-        "fct-type": "function",
-        "title": "familyKrb5Principal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics X11 Xauth",
-        "module": "Graphics.X11.Xauth",
-        "name": "familyKrb5Principal",
-        "normalized": "",
-        "package": "Xauth",
-        "partial": "Krb Principal",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Xauth/docs/Graphics-X11-Xauth.html#v:familyLocal",
-      "description": {
-        "fct-module": "Graphics.X11.Xauth",
-        "fct-package": "Xauth",
-        "fct-signature": "CUShort",
-        "fct-source": "src/Graphics-X11-Xauth.html#familyLocal",
-        "fct-type": "function",
-        "title": "familyLocal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics X11 Xauth",
-        "module": "Graphics.X11.Xauth",
-        "name": "familyLocal",
-        "normalized": "",
-        "package": "Xauth",
-        "partial": "Local",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Xauth/docs/Graphics-X11-Xauth.html#v:familyLocalHost",
-      "description": {
-        "fct-module": "Graphics.X11.Xauth",
-        "fct-package": "Xauth",
-        "fct-signature": "CUShort",
-        "fct-source": "src/Graphics-X11-Xauth.html#familyLocal",
-        "fct-type": "function",
-        "title": "familyLocalHost"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics X11 Xauth",
-        "module": "Graphics.X11.Xauth",
-        "name": "familyLocalHost",
-        "normalized": "",
-        "package": "Xauth",
-        "partial": "Local Host",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Xauth/docs/Graphics-X11-Xauth.html#v:familyNetname",
-      "description": {
-        "fct-module": "Graphics.X11.Xauth",
-        "fct-package": "Xauth",
-        "fct-signature": "CUShort",
-        "fct-source": "src/Graphics-X11-Xauth.html#familyLocal",
-        "fct-type": "function",
-        "title": "familyNetname"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics X11 Xauth",
-        "module": "Graphics.X11.Xauth",
-        "name": "familyNetname",
-        "normalized": "",
-        "package": "Xauth",
-        "partial": "Netname",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Xauth/docs/Graphics-X11-Xauth.html#v:familyWild",
-      "description": {
-        "fct-module": "Graphics.X11.Xauth",
-        "fct-package": "Xauth",
-        "fct-signature": "CUShort",
-        "fct-source": "src/Graphics-X11-Xauth.html#familyLocal",
-        "fct-type": "function",
-        "title": "familyWild"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics X11 Xauth",
-        "module": "Graphics.X11.Xauth",
-        "name": "familyWild",
-        "normalized": "",
-        "package": "Xauth",
-        "partial": "Wild",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Xauth/docs/Graphics-X11-Xauth.html#v:getAuthByAddr",
-      "description": {
-        "fct-module": "Graphics.X11.Xauth",
-        "fct-package": "Xauth",
-        "fct-signature": "CUShort -\u003e [CChar] -\u003e [CChar] -\u003e [CChar] -\u003e IO (Maybe Xauth)",
-        "fct-source": "src/Graphics-X11-Xauth.html#getAuthByAddr",
-        "fct-type": "function",
-        "title": "getAuthByAddr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics X11 Xauth",
-        "module": "Graphics.X11.Xauth",
-        "name": "getAuthByAddr",
-        "normalized": "CUShort-\u003e[CChar]-\u003e[CChar]-\u003e[CChar]-\u003eIO(Maybe Xauth)",
-        "package": "Xauth",
-        "partial": "Auth By Addr",
-        "signature": "CUShort-\u003e[CChar]-\u003e[CChar]-\u003e[CChar]-\u003eIO(Maybe Xauth)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Xauth/docs/Graphics-X11-Xauth.html#v:xauthData",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Graphics.X11.Xauth",
-        "fct-package": "Xauth",
-        "fct-signature": "[CChar]",
-        "fct-source": "src/Graphics-X11-Xauth.html#Xauth",
-        "fct-type": "function",
-        "title": "xauthData"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics X11 Xauth",
-        "module": "Graphics.X11.Xauth",
-        "name": "xauthData",
-        "normalized": "[CChar]",
-        "package": "Xauth",
-        "partial": "Data",
-        "signature": "[CChar]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Xauth/docs/Graphics-X11-Xauth.html#v:xauthName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Graphics.X11.Xauth",
-        "fct-package": "Xauth",
-        "fct-signature": "[CChar]",
-        "fct-source": "src/Graphics-X11-Xauth.html#Xauth",
-        "fct-type": "function",
-        "title": "xauthName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics X11 Xauth",
-        "module": "Graphics.X11.Xauth",
-        "name": "xauthName",
-        "normalized": "[CChar]",
-        "package": "Xauth",
-        "partial": "Name",
-        "signature": "[CChar]"
-      }
-    }
-  }
+  ]
 ]

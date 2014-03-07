@@ -1,530 +1,506 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Regex.html#",
-      "description": {
-        "fct-module": "Data.Regex.Antimirov.Regex",
-        "fct-package": "antimirov",
-        "fct-signature": "module",
-        "fct-source": "src/Data-Regex-Antimirov-Regex.html",
-        "fct-type": "module",
-        "title": "Regex"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "antimirov"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Regex Antimirov Regex",
-        "module": "Data.Regex.Antimirov.Regex",
-        "name": "Regex",
-        "normalized": "",
-        "package": "antimirov",
-        "partial": "Regex",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Regex.html#t:Regex",
-      "description": {
-        "fct-module": "Data.Regex.Antimirov.Regex",
-        "fct-package": "antimirov",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Regex-Antimirov-Regex.html#Regex",
-        "fct-type": "data",
-        "title": "Regex"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Regex Antimirov Regex",
-        "module": "Data.Regex.Antimirov.Regex",
-        "name": "Regex",
-        "normalized": "",
-        "package": "antimirov",
-        "partial": "Regex",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Regex.Antimirov.Regex",
+          "name": "Regex",
+          "package": "antimirov",
+          "source": "src/Data-Regex-Antimirov-Regex.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data Regex Antimirov Regex",
+          "module": "Data.Regex.Antimirov.Regex",
+          "name": "Regex",
+          "package": "antimirov",
+          "partial": "Regex",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Regex.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Regex.Antimirov.Regex",
+          "name": "Regex",
+          "package": "antimirov",
+          "source": "src/Data-Regex-Antimirov-Regex.html#Regex",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Regex Antimirov Regex",
+          "module": "Data.Regex.Antimirov.Regex",
+          "name": "Regex",
+          "package": "antimirov",
+          "partial": "Regex",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Regex.html#t:Regex"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Regex.Antimirov.Regex",
+          "name": "Empty",
+          "package": "antimirov",
+          "signature": "Empty",
+          "source": "src/Data-Regex-Antimirov-Regex.html#Regex",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Regex Antimirov Regex",
+          "module": "Data.Regex.Antimirov.Regex",
+          "name": "Empty",
+          "package": "antimirov",
+          "partial": "Empty",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Regex.html#v:Empty"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Regex.Antimirov.Regex",
+          "name": "Literal",
+          "package": "antimirov",
+          "signature": "Literal a",
+          "source": "src/Data-Regex-Antimirov-Regex.html#Regex",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Regex Antimirov Regex",
+          "module": "Data.Regex.Antimirov.Regex",
+          "name": "Literal",
+          "package": "antimirov",
+          "partial": "Literal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Regex.html#v:Literal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Regex.Antimirov.Regex",
+          "name": "Or",
+          "package": "antimirov",
+          "signature": "Or (Regex a) (Regex a)",
+          "source": "src/Data-Regex-Antimirov-Regex.html#Regex",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Regex Antimirov Regex",
+          "module": "Data.Regex.Antimirov.Regex",
+          "name": "Or",
+          "package": "antimirov",
+          "partial": "Or",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Regex.html#v:Or"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Regex.Antimirov.Regex",
+          "name": "Star",
+          "package": "antimirov",
+          "signature": "Star (Regex a)",
+          "source": "src/Data-Regex-Antimirov-Regex.html#Regex",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Regex Antimirov Regex",
+          "module": "Data.Regex.Antimirov.Regex",
+          "name": "Star",
+          "package": "antimirov",
+          "partial": "Star",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Regex.html#v:Star"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Regex.Antimirov.Regex",
+          "name": "Then",
+          "package": "antimirov",
+          "signature": "Then (Regex a) (Regex a)",
+          "source": "src/Data-Regex-Antimirov-Regex.html#Regex",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Regex Antimirov Regex",
+          "module": "Data.Regex.Antimirov.Regex",
+          "name": "Then",
+          "package": "antimirov",
+          "partial": "Then",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Regex.html#v:Then"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Regex.Antimirov.Regex",
+          "name": "nullable",
+          "package": "antimirov",
+          "signature": "Regex t -\u003e Bool",
+          "source": "src/Data-Regex-Antimirov-Regex.html#nullable",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Regex Antimirov Regex",
+          "module": "Data.Regex.Antimirov.Regex",
+          "name": "nullable",
+          "normalized": "Regex a-\u003eBool",
+          "package": "antimirov",
+          "signature": "Regex t-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Regex.html#v:nullable"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Regex.Antimirov.Regex",
+          "name": "toG",
+          "package": "antimirov",
+          "signature": "[a] -\u003e Regex a",
+          "source": "src/Data-Regex-Antimirov-Regex.html#toG",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Regex Antimirov Regex",
+          "module": "Data.Regex.Antimirov.Regex",
+          "name": "toG",
+          "normalized": "[a]-\u003eRegex a",
+          "package": "antimirov",
+          "signature": "[a]-\u003eRegex a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Regex.html#v:toG"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Regex.Antimirov.Simplify",
+          "name": "Simplify",
+          "package": "antimirov",
+          "source": "src/Data-Regex-Antimirov-Simplify.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data Regex Antimirov Simplify",
+          "module": "Data.Regex.Antimirov.Simplify",
+          "name": "Simplify",
+          "package": "antimirov",
+          "partial": "Simplify",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Simplify.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Regex.Antimirov.Simplify",
+          "name": "getOr",
+          "package": "antimirov",
+          "signature": "Regex a -\u003e Set (Regex a)",
+          "source": "src/Data-Regex-Antimirov-Simplify.html#getOr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Regex Antimirov Simplify",
+          "module": "Data.Regex.Antimirov.Simplify",
+          "name": "getOr",
+          "normalized": "Regex a-\u003eSet(Regex a)",
+          "package": "antimirov",
+          "partial": "Or",
+          "signature": "Regex a-\u003eSet(Regex a)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Simplify.html#v:getOr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Regex.Antimirov.Subtyping",
+          "name": "Subtyping",
+          "package": "antimirov",
+          "source": "src/Data-Regex-Antimirov-Subtyping.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data Regex Antimirov Subtyping",
+          "module": "Data.Regex.Antimirov.Subtyping",
+          "name": "Subtyping",
+          "package": "antimirov",
+          "partial": "Subtyping",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Subtyping.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Regex.Antimirov.Subtyping",
+          "name": "RegexSubtyping",
+          "package": "antimirov",
+          "source": "src/Data-Regex-Antimirov-Subtyping.html#RegexSubtyping",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Data Regex Antimirov Subtyping",
+          "module": "Data.Regex.Antimirov.Subtyping",
+          "name": "RegexSubtyping",
+          "package": "antimirov",
+          "partial": "Regex Subtyping",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Subtyping.html#t:RegexSubtyping"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Regex.Antimirov.Subtyping",
+          "name": "(\u003c:)",
+          "package": "antimirov",
+          "signature": "Maybe (Regex a) -\u003e Maybe (Regex a) -\u003e Bool",
+          "source": "src/Data-Regex-Antimirov-Subtyping.html#%3C%3A",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Regex Antimirov Subtyping",
+          "module": "Data.Regex.Antimirov.Subtyping",
+          "name": "(\u003c:) \u003c:",
+          "normalized": "Maybe(Regex a)-\u003eMaybe(Regex a)-\u003eBool",
+          "package": "antimirov",
+          "signature": "Maybe(Regex a)-\u003eMaybe(Regex a)-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Subtyping.html#v:-60-:"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Regex.Antimirov.Subtyping",
+          "name": "literalSubtype",
+          "package": "antimirov",
+          "signature": "a -\u003e a -\u003e Bool",
+          "source": "src/Data-Regex-Antimirov-Subtyping.html#literalSubtype",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Data Regex Antimirov Subtyping",
+          "module": "Data.Regex.Antimirov.Subtyping",
+          "name": "literalSubtype",
+          "normalized": "a-\u003ea-\u003eBool",
+          "package": "antimirov",
+          "partial": "Subtype",
+          "signature": "a-\u003ea-\u003eBool",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Subtyping.html#v:literalSubtype"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Regex.Antimirov.Subtyping",
+          "name": "match",
+          "package": "antimirov",
+          "signature": "Maybe (Regex a) -\u003e [a] -\u003e Bool",
+          "source": "src/Data-Regex-Antimirov-Subtyping.html#match",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Regex Antimirov Subtyping",
+          "module": "Data.Regex.Antimirov.Subtyping",
+          "name": "match",
+          "normalized": "Maybe(Regex a)-\u003e[a]-\u003eBool",
+          "package": "antimirov",
+          "signature": "Maybe(Regex a)-\u003e[a]-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Subtyping.html#v:match"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Regex.Antimirov.SubtypingList",
+          "name": "SubtypingList",
+          "package": "antimirov",
+          "source": "src/Data-Regex-Antimirov-SubtypingList.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data Regex Antimirov SubtypingList",
+          "module": "Data.Regex.Antimirov.SubtypingList",
+          "name": "SubtypingList",
+          "package": "antimirov",
+          "partial": "Subtyping List",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-SubtypingList.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Regex.Antimirov.SubtypingList",
+          "name": "RegexSubtyping",
+          "package": "antimirov",
+          "source": "src/Data-Regex-Antimirov-SubtypingList.html#RegexSubtyping",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Data Regex Antimirov SubtypingList",
+          "module": "Data.Regex.Antimirov.SubtypingList",
+          "name": "RegexSubtyping",
+          "package": "antimirov",
+          "partial": "Regex Subtyping",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-SubtypingList.html#t:RegexSubtyping"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Regex.Antimirov.SubtypingList",
+          "name": "(\u003c:)",
+          "package": "antimirov",
+          "signature": "Maybe (Regex a) -\u003e Maybe (Regex a) -\u003e Bool",
+          "source": "src/Data-Regex-Antimirov-SubtypingList.html#%3C%3A",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Regex Antimirov SubtypingList",
+          "module": "Data.Regex.Antimirov.SubtypingList",
+          "name": "(\u003c:) \u003c:",
+          "normalized": "Maybe(Regex a)-\u003eMaybe(Regex a)-\u003eBool",
+          "package": "antimirov",
+          "signature": "Maybe(Regex a)-\u003eMaybe(Regex a)-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-SubtypingList.html#v:-60-:"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Regex.Antimirov.SubtypingList",
+          "name": "literalSubtype",
+          "package": "antimirov",
+          "signature": "a -\u003e a -\u003e Bool",
+          "source": "src/Data-Regex-Antimirov-SubtypingList.html#literalSubtype",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Data Regex Antimirov SubtypingList",
+          "module": "Data.Regex.Antimirov.SubtypingList",
+          "name": "literalSubtype",
+          "normalized": "a-\u003ea-\u003eBool",
+          "package": "antimirov",
+          "partial": "Subtype",
+          "signature": "a-\u003ea-\u003eBool",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-SubtypingList.html#v:literalSubtype"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Regex.Antimirov.SubtypingList",
+          "name": "match",
+          "package": "antimirov",
+          "signature": "Maybe (Regex a) -\u003e [a] -\u003e Bool",
+          "source": "src/Data-Regex-Antimirov-SubtypingList.html#match",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Regex Antimirov SubtypingList",
+          "module": "Data.Regex.Antimirov.SubtypingList",
+          "name": "match",
+          "normalized": "Maybe(Regex a)-\u003e[a]-\u003eBool",
+          "package": "antimirov",
+          "signature": "Maybe(Regex a)-\u003e[a]-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-SubtypingList.html#v:match"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Regex.Antimirov",
+          "name": "Antimirov",
+          "package": "antimirov",
+          "source": "src/Data-Regex-Antimirov.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data Regex Antimirov",
+          "module": "Data.Regex.Antimirov",
+          "name": "Antimirov",
+          "package": "antimirov",
+          "partial": "Antimirov",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov.html#"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Regex.html#v:Empty",
-      "description": {
-        "fct-module": "Data.Regex.Antimirov.Regex",
-        "fct-package": "antimirov",
-        "fct-signature": "Empty",
-        "fct-source": "src/Data-Regex-Antimirov-Regex.html#Regex",
-        "fct-type": "function",
-        "title": "Empty"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Regex Antimirov Regex",
-        "module": "Data.Regex.Antimirov.Regex",
-        "name": "Empty",
-        "normalized": "",
-        "package": "antimirov",
-        "partial": "Empty",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Regex.html#v:Literal",
-      "description": {
-        "fct-module": "Data.Regex.Antimirov.Regex",
-        "fct-package": "antimirov",
-        "fct-signature": "Literal a",
-        "fct-source": "src/Data-Regex-Antimirov-Regex.html#Regex",
-        "fct-type": "function",
-        "title": "Literal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Regex Antimirov Regex",
-        "module": "Data.Regex.Antimirov.Regex",
-        "name": "Literal",
-        "normalized": "",
-        "package": "antimirov",
-        "partial": "Literal",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Regex.html#v:Or",
-      "description": {
-        "fct-module": "Data.Regex.Antimirov.Regex",
-        "fct-package": "antimirov",
-        "fct-signature": "Or (Regex a) (Regex a)",
-        "fct-source": "src/Data-Regex-Antimirov-Regex.html#Regex",
-        "fct-type": "function",
-        "title": "Or"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Regex Antimirov Regex",
-        "module": "Data.Regex.Antimirov.Regex",
-        "name": "Or",
-        "normalized": "",
-        "package": "antimirov",
-        "partial": "Or",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Regex.html#v:Star",
-      "description": {
-        "fct-module": "Data.Regex.Antimirov.Regex",
-        "fct-package": "antimirov",
-        "fct-signature": "Star (Regex a)",
-        "fct-source": "src/Data-Regex-Antimirov-Regex.html#Regex",
-        "fct-type": "function",
-        "title": "Star"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Regex Antimirov Regex",
-        "module": "Data.Regex.Antimirov.Regex",
-        "name": "Star",
-        "normalized": "",
-        "package": "antimirov",
-        "partial": "Star",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Regex.html#v:Then",
-      "description": {
-        "fct-module": "Data.Regex.Antimirov.Regex",
-        "fct-package": "antimirov",
-        "fct-signature": "Then (Regex a) (Regex a)",
-        "fct-source": "src/Data-Regex-Antimirov-Regex.html#Regex",
-        "fct-type": "function",
-        "title": "Then"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Regex Antimirov Regex",
-        "module": "Data.Regex.Antimirov.Regex",
-        "name": "Then",
-        "normalized": "",
-        "package": "antimirov",
-        "partial": "Then",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Regex.html#v:nullable",
-      "description": {
-        "fct-module": "Data.Regex.Antimirov.Regex",
-        "fct-package": "antimirov",
-        "fct-signature": "Regex t -\u003e Bool",
-        "fct-source": "src/Data-Regex-Antimirov-Regex.html#nullable",
-        "fct-type": "function",
-        "title": "nullable"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Regex Antimirov Regex",
-        "module": "Data.Regex.Antimirov.Regex",
-        "name": "nullable",
-        "normalized": "Regex a-\u003eBool",
-        "package": "antimirov",
-        "partial": "",
-        "signature": "Regex t-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Regex.html#v:toG",
-      "description": {
-        "fct-module": "Data.Regex.Antimirov.Regex",
-        "fct-package": "antimirov",
-        "fct-signature": "[a] -\u003e Regex a",
-        "fct-source": "src/Data-Regex-Antimirov-Regex.html#toG",
-        "fct-type": "function",
-        "title": "toG"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Regex Antimirov Regex",
-        "module": "Data.Regex.Antimirov.Regex",
-        "name": "toG",
-        "normalized": "[a]-\u003eRegex a",
-        "package": "antimirov",
-        "partial": "",
-        "signature": "[a]-\u003eRegex a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Simplify.html#",
-      "description": {
-        "fct-module": "Data.Regex.Antimirov.Simplify",
-        "fct-package": "antimirov",
-        "fct-signature": "module",
-        "fct-source": "src/Data-Regex-Antimirov-Simplify.html",
-        "fct-type": "module",
-        "title": "Simplify"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Regex Antimirov Simplify",
-        "module": "Data.Regex.Antimirov.Simplify",
-        "name": "Simplify",
-        "normalized": "",
-        "package": "antimirov",
-        "partial": "Simplify",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Simplify.html#v:getOr",
-      "description": {
-        "fct-module": "Data.Regex.Antimirov.Simplify",
-        "fct-package": "antimirov",
-        "fct-signature": "Regex a -\u003e Set (Regex a)",
-        "fct-source": "src/Data-Regex-Antimirov-Simplify.html#getOr",
-        "fct-type": "function",
-        "title": "getOr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Regex Antimirov Simplify",
-        "module": "Data.Regex.Antimirov.Simplify",
-        "name": "getOr",
-        "normalized": "Regex a-\u003eSet(Regex a)",
-        "package": "antimirov",
-        "partial": "Or",
-        "signature": "Regex a-\u003eSet(Regex a)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Subtyping.html#",
-      "description": {
-        "fct-module": "Data.Regex.Antimirov.Subtyping",
-        "fct-package": "antimirov",
-        "fct-signature": "module",
-        "fct-source": "src/Data-Regex-Antimirov-Subtyping.html",
-        "fct-type": "module",
-        "title": "Subtyping"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Regex Antimirov Subtyping",
-        "module": "Data.Regex.Antimirov.Subtyping",
-        "name": "Subtyping",
-        "normalized": "",
-        "package": "antimirov",
-        "partial": "Subtyping",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Subtyping.html#t:RegexSubtyping",
-      "description": {
-        "fct-module": "Data.Regex.Antimirov.Subtyping",
-        "fct-package": "antimirov",
-        "fct-signature": "class",
-        "fct-source": "src/Data-Regex-Antimirov-Subtyping.html#RegexSubtyping",
-        "fct-type": "class",
-        "title": "RegexSubtyping"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Regex Antimirov Subtyping",
-        "module": "Data.Regex.Antimirov.Subtyping",
-        "name": "RegexSubtyping",
-        "normalized": "",
-        "package": "antimirov",
-        "partial": "Regex Subtyping",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Subtyping.html#v:-60-:",
-      "description": {
-        "fct-module": "Data.Regex.Antimirov.Subtyping",
-        "fct-package": "antimirov",
-        "fct-signature": "Maybe (Regex a) -\u003e Maybe (Regex a) -\u003e Bool",
-        "fct-source": "src/Data-Regex-Antimirov-Subtyping.html#%3C%3A",
-        "fct-type": "function",
-        "title": "(\u003c:)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Regex Antimirov Subtyping",
-        "module": "Data.Regex.Antimirov.Subtyping",
-        "name": "(\u003c:) \u003c:",
-        "normalized": "Maybe(Regex a)-\u003eMaybe(Regex a)-\u003eBool",
-        "package": "antimirov",
-        "partial": "",
-        "signature": "Maybe(Regex a)-\u003eMaybe(Regex a)-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Subtyping.html#v:literalSubtype",
-      "description": {
-        "fct-module": "Data.Regex.Antimirov.Subtyping",
-        "fct-package": "antimirov",
-        "fct-signature": "a -\u003e a -\u003e Bool",
-        "fct-source": "src/Data-Regex-Antimirov-Subtyping.html#literalSubtype",
-        "fct-type": "method",
-        "title": "literalSubtype"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Regex Antimirov Subtyping",
-        "module": "Data.Regex.Antimirov.Subtyping",
-        "name": "literalSubtype",
-        "normalized": "a-\u003ea-\u003eBool",
-        "package": "antimirov",
-        "partial": "Subtype",
-        "signature": "a-\u003ea-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-Subtyping.html#v:match",
-      "description": {
-        "fct-module": "Data.Regex.Antimirov.Subtyping",
-        "fct-package": "antimirov",
-        "fct-signature": "Maybe (Regex a) -\u003e [a] -\u003e Bool",
-        "fct-source": "src/Data-Regex-Antimirov-Subtyping.html#match",
-        "fct-type": "function",
-        "title": "match"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Regex Antimirov Subtyping",
-        "module": "Data.Regex.Antimirov.Subtyping",
-        "name": "match",
-        "normalized": "Maybe(Regex a)-\u003e[a]-\u003eBool",
-        "package": "antimirov",
-        "partial": "",
-        "signature": "Maybe(Regex a)-\u003e[a]-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-SubtypingList.html#",
-      "description": {
-        "fct-module": "Data.Regex.Antimirov.SubtypingList",
-        "fct-package": "antimirov",
-        "fct-signature": "module",
-        "fct-source": "src/Data-Regex-Antimirov-SubtypingList.html",
-        "fct-type": "module",
-        "title": "SubtypingList"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Regex Antimirov SubtypingList",
-        "module": "Data.Regex.Antimirov.SubtypingList",
-        "name": "SubtypingList",
-        "normalized": "",
-        "package": "antimirov",
-        "partial": "Subtyping List",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-SubtypingList.html#t:RegexSubtyping",
-      "description": {
-        "fct-module": "Data.Regex.Antimirov.SubtypingList",
-        "fct-package": "antimirov",
-        "fct-signature": "class",
-        "fct-source": "src/Data-Regex-Antimirov-SubtypingList.html#RegexSubtyping",
-        "fct-type": "class",
-        "title": "RegexSubtyping"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Regex Antimirov SubtypingList",
-        "module": "Data.Regex.Antimirov.SubtypingList",
-        "name": "RegexSubtyping",
-        "normalized": "",
-        "package": "antimirov",
-        "partial": "Regex Subtyping",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-SubtypingList.html#v:-60-:",
-      "description": {
-        "fct-module": "Data.Regex.Antimirov.SubtypingList",
-        "fct-package": "antimirov",
-        "fct-signature": "Maybe (Regex a) -\u003e Maybe (Regex a) -\u003e Bool",
-        "fct-source": "src/Data-Regex-Antimirov-SubtypingList.html#%3C%3A",
-        "fct-type": "function",
-        "title": "(\u003c:)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Regex Antimirov SubtypingList",
-        "module": "Data.Regex.Antimirov.SubtypingList",
-        "name": "(\u003c:) \u003c:",
-        "normalized": "Maybe(Regex a)-\u003eMaybe(Regex a)-\u003eBool",
-        "package": "antimirov",
-        "partial": "",
-        "signature": "Maybe(Regex a)-\u003eMaybe(Regex a)-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-SubtypingList.html#v:literalSubtype",
-      "description": {
-        "fct-module": "Data.Regex.Antimirov.SubtypingList",
-        "fct-package": "antimirov",
-        "fct-signature": "a -\u003e a -\u003e Bool",
-        "fct-source": "src/Data-Regex-Antimirov-SubtypingList.html#literalSubtype",
-        "fct-type": "method",
-        "title": "literalSubtype"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Regex Antimirov SubtypingList",
-        "module": "Data.Regex.Antimirov.SubtypingList",
-        "name": "literalSubtype",
-        "normalized": "a-\u003ea-\u003eBool",
-        "package": "antimirov",
-        "partial": "Subtype",
-        "signature": "a-\u003ea-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov-SubtypingList.html#v:match",
-      "description": {
-        "fct-module": "Data.Regex.Antimirov.SubtypingList",
-        "fct-package": "antimirov",
-        "fct-signature": "Maybe (Regex a) -\u003e [a] -\u003e Bool",
-        "fct-source": "src/Data-Regex-Antimirov-SubtypingList.html#match",
-        "fct-type": "function",
-        "title": "match"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Regex Antimirov SubtypingList",
-        "module": "Data.Regex.Antimirov.SubtypingList",
-        "name": "match",
-        "normalized": "Maybe(Regex a)-\u003e[a]-\u003eBool",
-        "package": "antimirov",
-        "partial": "",
-        "signature": "Maybe(Regex a)-\u003e[a]-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/antimirov/docs/Data-Regex-Antimirov.html#",
-      "description": {
-        "fct-module": "Data.Regex.Antimirov",
-        "fct-package": "antimirov",
-        "fct-signature": "module",
-        "fct-source": "src/Data-Regex-Antimirov.html",
-        "fct-type": "module",
-        "title": "Antimirov"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Regex Antimirov",
-        "module": "Data.Regex.Antimirov",
-        "name": "Antimirov",
-        "normalized": "",
-        "package": "antimirov",
-        "partial": "Antimirov",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

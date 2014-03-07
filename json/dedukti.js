@@ -1,604 +1,586 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eAll generated Haskell files import this module. The data type\n declarations are given here, along with the conversion relation and type\n inference function.\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Dedukti.Runtime",
-        "fct-package": "dedukti",
-        "fct-signature": "module",
-        "fct-source": "src/Dedukti-Runtime.html",
-        "fct-type": "module",
-        "title": "Runtime"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "dedukti"
       },
-      "index": {
-        "description": "All generated Haskell files import this module The data type declarations are given here along with the conversion relation and type inference function",
-        "hierarchy": "Dedukti Runtime",
-        "module": "Dedukti.Runtime",
-        "name": "Runtime",
-        "normalized": "",
-        "package": "dedukti",
-        "partial": "Runtime",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#t:Code",
-      "description": {
-        "fct-module": "Dedukti.Runtime",
-        "fct-package": "dedukti",
-        "fct-signature": "data",
-        "fct-source": "src/Dedukti-Runtime.html#Code",
-        "fct-type": "data",
-        "title": "Code"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Dedukti Runtime",
-        "module": "Dedukti.Runtime",
-        "name": "Code",
-        "normalized": "",
-        "package": "dedukti",
-        "partial": "Code",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eAll generated Haskell files import this module. The data type\n declarations are given here, along with the conversion relation and type\n inference function.\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Dedukti.Runtime",
+          "name": "Runtime",
+          "package": "dedukti",
+          "source": "src/Dedukti-Runtime.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "All generated Haskell files import this module The data type declarations are given here along with the conversion relation and type inference function",
+          "hierarchy": "Dedukti Runtime",
+          "module": "Dedukti.Runtime",
+          "name": "Runtime",
+          "package": "dedukti",
+          "partial": "Runtime",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Dedukti.Runtime",
+          "name": "Code",
+          "package": "dedukti",
+          "source": "src/Dedukti-Runtime.html#Code",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Dedukti Runtime",
+          "module": "Dedukti.Runtime",
+          "name": "Code",
+          "package": "dedukti",
+          "partial": "Code",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#t:Code"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Dedukti.Runtime",
+          "name": "Term",
+          "package": "dedukti",
+          "source": "src/Dedukti-Runtime.html#Term",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Dedukti Runtime",
+          "module": "Dedukti.Runtime",
+          "name": "Term",
+          "package": "dedukti",
+          "partial": "Term",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#t:Term"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Dedukti.Runtime",
+          "name": "App",
+          "package": "dedukti",
+          "signature": "App Code Code",
+          "source": "src/Dedukti-Runtime.html#Code",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Dedukti Runtime",
+          "module": "Dedukti.Runtime",
+          "name": "App",
+          "package": "dedukti",
+          "partial": "App",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:App"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Dedukti.Runtime",
+          "name": "Box",
+          "package": "dedukti",
+          "signature": "Box Code Code",
+          "source": "src/Dedukti-Runtime.html#Term",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Dedukti Runtime",
+          "module": "Dedukti.Runtime",
+          "name": "Box",
+          "package": "dedukti",
+          "partial": "Box",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:Box"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Dedukti.Runtime",
+          "name": "Con",
+          "package": "dedukti",
+          "signature": "Con !ByteString",
+          "source": "src/Dedukti-Runtime.html#Code",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Dedukti Runtime",
+          "module": "Dedukti.Runtime",
+          "name": "Con",
+          "package": "dedukti",
+          "partial": "Con",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:Con"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Dedukti.Runtime",
+          "name": "Kind",
+          "package": "dedukti",
+          "signature": "Kind",
+          "source": "src/Dedukti-Runtime.html#Code",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Dedukti Runtime",
+          "module": "Dedukti.Runtime",
+          "name": "Kind",
+          "package": "dedukti",
+          "partial": "Kind",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:Kind"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Dedukti.Runtime",
+          "name": "Lam",
+          "package": "dedukti",
+          "signature": "Lam !(Code -\u003e Code)",
+          "source": "src/Dedukti-Runtime.html#Code",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Dedukti Runtime",
+          "module": "Dedukti.Runtime",
+          "name": "Lam",
+          "normalized": "Lam(Code-\u003eCode)",
+          "package": "dedukti",
+          "partial": "Lam",
+          "signature": "Lam(Code-\u003eCode)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:Lam"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Dedukti.Runtime",
+          "name": "Pi",
+          "package": "dedukti",
+          "signature": "Pi Code !(Code -\u003e Code)",
+          "source": "src/Dedukti-Runtime.html#Code",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Dedukti Runtime",
+          "module": "Dedukti.Runtime",
+          "name": "Pi",
+          "normalized": "Pi Code(Code-\u003eCode)",
+          "package": "dedukti",
+          "partial": "Pi",
+          "signature": "Pi Code(Code-\u003eCode)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:Pi"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Dedukti.Runtime",
+          "name": "TApp",
+          "package": "dedukti",
+          "signature": "TApp !Term !Term",
+          "source": "src/Dedukti-Runtime.html#Term",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Dedukti Runtime",
+          "module": "Dedukti.Runtime",
+          "name": "TApp",
+          "package": "dedukti",
+          "partial": "TApp",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:TApp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Dedukti.Runtime",
+          "name": "TLam",
+          "package": "dedukti",
+          "signature": "TLam !Term !(Term -\u003e Term)",
+          "source": "src/Dedukti-Runtime.html#Term",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Dedukti Runtime",
+          "module": "Dedukti.Runtime",
+          "name": "TLam",
+          "normalized": "TLam Term(Term-\u003eTerm)",
+          "package": "dedukti",
+          "partial": "TLam",
+          "signature": "TLam Term(Term-\u003eTerm)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:TLam"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Dedukti.Runtime",
+          "name": "TPi",
+          "package": "dedukti",
+          "signature": "TPi !Term !(Term -\u003e Term)",
+          "source": "src/Dedukti-Runtime.html#Term",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Dedukti Runtime",
+          "module": "Dedukti.Runtime",
+          "name": "TPi",
+          "normalized": "TPi Term(Term-\u003eTerm)",
+          "package": "dedukti",
+          "partial": "TPi",
+          "signature": "TPi Term(Term-\u003eTerm)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:TPi"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Dedukti.Runtime",
+          "name": "TType",
+          "package": "dedukti",
+          "signature": "TType",
+          "source": "src/Dedukti-Runtime.html#Term",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Dedukti Runtime",
+          "module": "Dedukti.Runtime",
+          "name": "TType",
+          "package": "dedukti",
+          "partial": "TType",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:TType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Dedukti.Runtime",
+          "name": "Type",
+          "package": "dedukti",
+          "signature": "Type",
+          "source": "src/Dedukti-Runtime.html#Code",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Dedukti Runtime",
+          "module": "Dedukti.Runtime",
+          "name": "Type",
+          "package": "dedukti",
+          "partial": "Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:Type"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Dedukti.Runtime",
+          "name": "UBox",
+          "package": "dedukti",
+          "signature": "UBox Term Code",
+          "source": "src/Dedukti-Runtime.html#Term",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Dedukti Runtime",
+          "module": "Dedukti.Runtime",
+          "name": "UBox",
+          "package": "dedukti",
+          "partial": "UBox",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:UBox"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Dedukti.Runtime",
+          "name": "Var",
+          "package": "dedukti",
+          "signature": "Var !Int",
+          "source": "src/Dedukti-Runtime.html#Code",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Dedukti Runtime",
+          "module": "Dedukti.Runtime",
+          "name": "Var",
+          "package": "dedukti",
+          "partial": "Var",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:Var"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Dedukti.Runtime",
+          "name": "ap",
+          "package": "dedukti",
+          "signature": "Code -\u003e Code -\u003e Code",
+          "source": "src/Dedukti-Runtime.html#ap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Dedukti Runtime",
+          "module": "Dedukti.Runtime",
+          "name": "ap",
+          "normalized": "Code-\u003eCode-\u003eCode",
+          "package": "dedukti",
+          "signature": "Code-\u003eCode-\u003eCode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:ap"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Dedukti.Runtime",
+          "name": "bbox",
+          "package": "dedukti",
+          "signature": "Term -\u003e Code -\u003e Code -\u003e Term",
+          "source": "src/Dedukti-Runtime.html#bbox",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Dedukti Runtime",
+          "module": "Dedukti.Runtime",
+          "name": "bbox",
+          "normalized": "Term-\u003eCode-\u003eCode-\u003eTerm",
+          "package": "dedukti",
+          "signature": "Term-\u003eCode-\u003eCode-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:bbox"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Dedukti.Runtime",
+          "name": "checkDeclaration",
+          "package": "dedukti",
+          "signature": "String -\u003e Term -\u003e IO ()",
+          "source": "src/Dedukti-Runtime.html#checkDeclaration",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Dedukti Runtime",
+          "module": "Dedukti.Runtime",
+          "name": "checkDeclaration",
+          "normalized": "String-\u003eTerm-\u003eIO()",
+          "package": "dedukti",
+          "partial": "Declaration",
+          "signature": "String-\u003eTerm-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:checkDeclaration"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Dedukti.Runtime",
+          "name": "checkRule",
+          "package": "dedukti",
+          "signature": "Term -\u003e Term -\u003e Term",
+          "source": "src/Dedukti-Runtime.html#checkRule",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Dedukti Runtime",
+          "module": "Dedukti.Runtime",
+          "name": "checkRule",
+          "normalized": "Term-\u003eTerm-\u003eTerm",
+          "package": "dedukti",
+          "partial": "Rule",
+          "signature": "Term-\u003eTerm-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:checkRule"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Dedukti.Runtime",
+          "name": "convertible",
+          "package": "dedukti",
+          "signature": "Int -\u003e Code -\u003e Code -\u003e Bool",
+          "source": "src/Dedukti-Runtime.html#convertible",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Dedukti Runtime",
+          "module": "Dedukti.Runtime",
+          "name": "convertible",
+          "normalized": "Int-\u003eCode-\u003eCode-\u003eBool",
+          "package": "dedukti",
+          "signature": "Int-\u003eCode-\u003eCode-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:convertible"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Dedukti.Runtime",
+          "name": "obj",
+          "package": "dedukti",
+          "signature": "Term -\u003e Code",
+          "source": "src/Dedukti-Runtime.html#obj",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Dedukti Runtime",
+          "module": "Dedukti.Runtime",
+          "name": "obj",
+          "normalized": "Term-\u003eCode",
+          "package": "dedukti",
+          "signature": "Term-\u003eCode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:obj"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eA box in which we didn't put anything.\n\u003c/p\u003e",
+          "module": "Dedukti.Runtime",
+          "name": "sbox",
+          "package": "dedukti",
+          "signature": "Term -\u003e Code -\u003e Code -\u003e Term",
+          "source": "src/Dedukti-Runtime.html#sbox",
+          "type": "function"
+        },
+        "index": {
+          "description": "box in which we didn put anything",
+          "hierarchy": "Dedukti Runtime",
+          "module": "Dedukti.Runtime",
+          "name": "sbox",
+          "normalized": "Term-\u003eCode-\u003eCode-\u003eTerm",
+          "package": "dedukti",
+          "signature": "Term-\u003eCode-\u003eCode-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:sbox"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Dedukti.Runtime",
+          "name": "start",
+          "package": "dedukti",
+          "signature": "IO UTCTime",
+          "source": "src/Dedukti-Runtime.html#start",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Dedukti Runtime",
+          "module": "Dedukti.Runtime",
+          "name": "start",
+          "package": "dedukti",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:start"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Dedukti.Runtime",
+          "name": "stop",
+          "package": "dedukti",
+          "signature": "UTCTime -\u003e IO ()",
+          "source": "src/Dedukti-Runtime.html#stop",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Dedukti Runtime",
+          "module": "Dedukti.Runtime",
+          "name": "stop",
+          "normalized": "UTCTime-\u003eIO()",
+          "package": "dedukti",
+          "signature": "UTCTime-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:stop"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#t:Term",
-      "description": {
-        "fct-module": "Dedukti.Runtime",
-        "fct-package": "dedukti",
-        "fct-signature": "data",
-        "fct-source": "src/Dedukti-Runtime.html#Term",
-        "fct-type": "data",
-        "title": "Term"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Dedukti Runtime",
-        "module": "Dedukti.Runtime",
-        "name": "Term",
-        "normalized": "",
-        "package": "dedukti",
-        "partial": "Term",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:App",
-      "description": {
-        "fct-module": "Dedukti.Runtime",
-        "fct-package": "dedukti",
-        "fct-signature": "App Code Code",
-        "fct-source": "src/Dedukti-Runtime.html#Code",
-        "fct-type": "function",
-        "title": "App"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Dedukti Runtime",
-        "module": "Dedukti.Runtime",
-        "name": "App",
-        "normalized": "",
-        "package": "dedukti",
-        "partial": "App",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:Box",
-      "description": {
-        "fct-module": "Dedukti.Runtime",
-        "fct-package": "dedukti",
-        "fct-signature": "Box Code Code",
-        "fct-source": "src/Dedukti-Runtime.html#Term",
-        "fct-type": "function",
-        "title": "Box"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Dedukti Runtime",
-        "module": "Dedukti.Runtime",
-        "name": "Box",
-        "normalized": "",
-        "package": "dedukti",
-        "partial": "Box",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:Con",
-      "description": {
-        "fct-module": "Dedukti.Runtime",
-        "fct-package": "dedukti",
-        "fct-signature": "Con !ByteString",
-        "fct-source": "src/Dedukti-Runtime.html#Code",
-        "fct-type": "function",
-        "title": "Con"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Dedukti Runtime",
-        "module": "Dedukti.Runtime",
-        "name": "Con",
-        "normalized": "",
-        "package": "dedukti",
-        "partial": "Con",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:Kind",
-      "description": {
-        "fct-module": "Dedukti.Runtime",
-        "fct-package": "dedukti",
-        "fct-signature": "Kind",
-        "fct-source": "src/Dedukti-Runtime.html#Code",
-        "fct-type": "function",
-        "title": "Kind"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Dedukti Runtime",
-        "module": "Dedukti.Runtime",
-        "name": "Kind",
-        "normalized": "",
-        "package": "dedukti",
-        "partial": "Kind",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:Lam",
-      "description": {
-        "fct-module": "Dedukti.Runtime",
-        "fct-package": "dedukti",
-        "fct-signature": "Lam !(Code -\u003e Code)",
-        "fct-source": "src/Dedukti-Runtime.html#Code",
-        "fct-type": "function",
-        "title": "Lam"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Dedukti Runtime",
-        "module": "Dedukti.Runtime",
-        "name": "Lam",
-        "normalized": "Lam(Code-\u003eCode)",
-        "package": "dedukti",
-        "partial": "Lam",
-        "signature": "Lam(Code-\u003eCode)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:Pi",
-      "description": {
-        "fct-module": "Dedukti.Runtime",
-        "fct-package": "dedukti",
-        "fct-signature": "Pi Code !(Code -\u003e Code)",
-        "fct-source": "src/Dedukti-Runtime.html#Code",
-        "fct-type": "function",
-        "title": "Pi"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Dedukti Runtime",
-        "module": "Dedukti.Runtime",
-        "name": "Pi",
-        "normalized": "Pi Code(Code-\u003eCode)",
-        "package": "dedukti",
-        "partial": "Pi",
-        "signature": "Pi Code(Code-\u003eCode)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:TApp",
-      "description": {
-        "fct-module": "Dedukti.Runtime",
-        "fct-package": "dedukti",
-        "fct-signature": "TApp !Term !Term",
-        "fct-source": "src/Dedukti-Runtime.html#Term",
-        "fct-type": "function",
-        "title": "TApp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Dedukti Runtime",
-        "module": "Dedukti.Runtime",
-        "name": "TApp",
-        "normalized": "",
-        "package": "dedukti",
-        "partial": "TApp",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:TLam",
-      "description": {
-        "fct-module": "Dedukti.Runtime",
-        "fct-package": "dedukti",
-        "fct-signature": "TLam !Term !(Term -\u003e Term)",
-        "fct-source": "src/Dedukti-Runtime.html#Term",
-        "fct-type": "function",
-        "title": "TLam"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Dedukti Runtime",
-        "module": "Dedukti.Runtime",
-        "name": "TLam",
-        "normalized": "TLam Term(Term-\u003eTerm)",
-        "package": "dedukti",
-        "partial": "TLam",
-        "signature": "TLam Term(Term-\u003eTerm)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:TPi",
-      "description": {
-        "fct-module": "Dedukti.Runtime",
-        "fct-package": "dedukti",
-        "fct-signature": "TPi !Term !(Term -\u003e Term)",
-        "fct-source": "src/Dedukti-Runtime.html#Term",
-        "fct-type": "function",
-        "title": "TPi"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Dedukti Runtime",
-        "module": "Dedukti.Runtime",
-        "name": "TPi",
-        "normalized": "TPi Term(Term-\u003eTerm)",
-        "package": "dedukti",
-        "partial": "TPi",
-        "signature": "TPi Term(Term-\u003eTerm)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:TType",
-      "description": {
-        "fct-module": "Dedukti.Runtime",
-        "fct-package": "dedukti",
-        "fct-signature": "TType",
-        "fct-source": "src/Dedukti-Runtime.html#Term",
-        "fct-type": "function",
-        "title": "TType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Dedukti Runtime",
-        "module": "Dedukti.Runtime",
-        "name": "TType",
-        "normalized": "",
-        "package": "dedukti",
-        "partial": "TType",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:Type",
-      "description": {
-        "fct-module": "Dedukti.Runtime",
-        "fct-package": "dedukti",
-        "fct-signature": "Type",
-        "fct-source": "src/Dedukti-Runtime.html#Code",
-        "fct-type": "function",
-        "title": "Type"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Dedukti Runtime",
-        "module": "Dedukti.Runtime",
-        "name": "Type",
-        "normalized": "",
-        "package": "dedukti",
-        "partial": "Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:UBox",
-      "description": {
-        "fct-module": "Dedukti.Runtime",
-        "fct-package": "dedukti",
-        "fct-signature": "UBox Term Code",
-        "fct-source": "src/Dedukti-Runtime.html#Term",
-        "fct-type": "function",
-        "title": "UBox"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Dedukti Runtime",
-        "module": "Dedukti.Runtime",
-        "name": "UBox",
-        "normalized": "",
-        "package": "dedukti",
-        "partial": "UBox",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:Var",
-      "description": {
-        "fct-module": "Dedukti.Runtime",
-        "fct-package": "dedukti",
-        "fct-signature": "Var !Int",
-        "fct-source": "src/Dedukti-Runtime.html#Code",
-        "fct-type": "function",
-        "title": "Var"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Dedukti Runtime",
-        "module": "Dedukti.Runtime",
-        "name": "Var",
-        "normalized": "",
-        "package": "dedukti",
-        "partial": "Var",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:ap",
-      "description": {
-        "fct-module": "Dedukti.Runtime",
-        "fct-package": "dedukti",
-        "fct-signature": "Code -\u003e Code -\u003e Code",
-        "fct-source": "src/Dedukti-Runtime.html#ap",
-        "fct-type": "function",
-        "title": "ap"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Dedukti Runtime",
-        "module": "Dedukti.Runtime",
-        "name": "ap",
-        "normalized": "Code-\u003eCode-\u003eCode",
-        "package": "dedukti",
-        "partial": "",
-        "signature": "Code-\u003eCode-\u003eCode"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:bbox",
-      "description": {
-        "fct-module": "Dedukti.Runtime",
-        "fct-package": "dedukti",
-        "fct-signature": "Term -\u003e Code -\u003e Code -\u003e Term",
-        "fct-source": "src/Dedukti-Runtime.html#bbox",
-        "fct-type": "function",
-        "title": "bbox"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Dedukti Runtime",
-        "module": "Dedukti.Runtime",
-        "name": "bbox",
-        "normalized": "Term-\u003eCode-\u003eCode-\u003eTerm",
-        "package": "dedukti",
-        "partial": "",
-        "signature": "Term-\u003eCode-\u003eCode-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:checkDeclaration",
-      "description": {
-        "fct-module": "Dedukti.Runtime",
-        "fct-package": "dedukti",
-        "fct-signature": "String -\u003e Term -\u003e IO ()",
-        "fct-source": "src/Dedukti-Runtime.html#checkDeclaration",
-        "fct-type": "function",
-        "title": "checkDeclaration"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Dedukti Runtime",
-        "module": "Dedukti.Runtime",
-        "name": "checkDeclaration",
-        "normalized": "String-\u003eTerm-\u003eIO()",
-        "package": "dedukti",
-        "partial": "Declaration",
-        "signature": "String-\u003eTerm-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:checkRule",
-      "description": {
-        "fct-module": "Dedukti.Runtime",
-        "fct-package": "dedukti",
-        "fct-signature": "Term -\u003e Term -\u003e Term",
-        "fct-source": "src/Dedukti-Runtime.html#checkRule",
-        "fct-type": "function",
-        "title": "checkRule"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Dedukti Runtime",
-        "module": "Dedukti.Runtime",
-        "name": "checkRule",
-        "normalized": "Term-\u003eTerm-\u003eTerm",
-        "package": "dedukti",
-        "partial": "Rule",
-        "signature": "Term-\u003eTerm-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:convertible",
-      "description": {
-        "fct-module": "Dedukti.Runtime",
-        "fct-package": "dedukti",
-        "fct-signature": "Int -\u003e Code -\u003e Code -\u003e Bool",
-        "fct-source": "src/Dedukti-Runtime.html#convertible",
-        "fct-type": "function",
-        "title": "convertible"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Dedukti Runtime",
-        "module": "Dedukti.Runtime",
-        "name": "convertible",
-        "normalized": "Int-\u003eCode-\u003eCode-\u003eBool",
-        "package": "dedukti",
-        "partial": "",
-        "signature": "Int-\u003eCode-\u003eCode-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:obj",
-      "description": {
-        "fct-module": "Dedukti.Runtime",
-        "fct-package": "dedukti",
-        "fct-signature": "Term -\u003e Code",
-        "fct-source": "src/Dedukti-Runtime.html#obj",
-        "fct-type": "function",
-        "title": "obj"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Dedukti Runtime",
-        "module": "Dedukti.Runtime",
-        "name": "obj",
-        "normalized": "Term-\u003eCode",
-        "package": "dedukti",
-        "partial": "",
-        "signature": "Term-\u003eCode"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:sbox",
-      "description": {
-        "fct-descr": "\u003cp\u003eA box in which we didn't put anything.\n\u003c/p\u003e",
-        "fct-module": "Dedukti.Runtime",
-        "fct-package": "dedukti",
-        "fct-signature": "Term -\u003e Code -\u003e Code -\u003e Term",
-        "fct-source": "src/Dedukti-Runtime.html#sbox",
-        "fct-type": "function",
-        "title": "sbox"
-      },
-      "index": {
-        "description": "box in which we didn put anything",
-        "hierarchy": "Dedukti Runtime",
-        "module": "Dedukti.Runtime",
-        "name": "sbox",
-        "normalized": "Term-\u003eCode-\u003eCode-\u003eTerm",
-        "package": "dedukti",
-        "partial": "",
-        "signature": "Term-\u003eCode-\u003eCode-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:start",
-      "description": {
-        "fct-module": "Dedukti.Runtime",
-        "fct-package": "dedukti",
-        "fct-signature": "IO UTCTime",
-        "fct-source": "src/Dedukti-Runtime.html#start",
-        "fct-type": "function",
-        "title": "start"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Dedukti Runtime",
-        "module": "Dedukti.Runtime",
-        "name": "start",
-        "normalized": "",
-        "package": "dedukti",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dedukti/docs/Dedukti-Runtime.html#v:stop",
-      "description": {
-        "fct-module": "Dedukti.Runtime",
-        "fct-package": "dedukti",
-        "fct-signature": "UTCTime -\u003e IO ()",
-        "fct-source": "src/Dedukti-Runtime.html#stop",
-        "fct-type": "function",
-        "title": "stop"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Dedukti Runtime",
-        "module": "Dedukti.Runtime",
-        "name": "stop",
-        "normalized": "UTCTime-\u003eIO()",
-        "package": "dedukti",
-        "partial": "",
-        "signature": "UTCTime-\u003eIO()"
-      }
-    }
-  }
+  ]
 ]

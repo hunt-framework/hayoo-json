@@ -1,314 +1,311 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/natural-number/docs/Data-NaturalNumber.html#",
-      "description": {
-        "fct-module": "Data.NaturalNumber",
-        "fct-package": "natural-number",
-        "fct-signature": "module",
-        "fct-source": "src/Data-NaturalNumber.html",
-        "fct-type": "module",
-        "title": "NaturalNumber"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "natural-number"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Data NaturalNumber",
-        "module": "Data.NaturalNumber",
-        "name": "NaturalNumber",
-        "normalized": "",
-        "package": "natural-number",
-        "partial": "Natural Number",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/natural-number/docs/Data-NaturalNumber.html#t:N",
-      "description": {
-        "fct-module": "Data.NaturalNumber",
-        "fct-package": "natural-number",
-        "fct-signature": "data",
-        "fct-source": "src/Data-NaturalNumber.html#N",
-        "fct-type": "data",
-        "title": "N"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data NaturalNumber",
-        "module": "Data.NaturalNumber",
-        "name": "N",
-        "normalized": "",
-        "package": "natural-number",
-        "partial": "",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.NaturalNumber",
+          "name": "NaturalNumber",
+          "package": "natural-number",
+          "source": "src/Data-NaturalNumber.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data NaturalNumber",
+          "module": "Data.NaturalNumber",
+          "name": "NaturalNumber",
+          "package": "natural-number",
+          "partial": "Natural Number",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/natural-number/docs/Data-NaturalNumber.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.NaturalNumber",
+          "name": "N",
+          "package": "natural-number",
+          "source": "src/Data-NaturalNumber.html#N",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data NaturalNumber",
+          "module": "Data.NaturalNumber",
+          "name": "N",
+          "package": "natural-number",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/natural-number/docs/Data-NaturalNumber.html#t:N"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.NaturalNumber",
+          "name": "NaturalNumber",
+          "package": "natural-number",
+          "source": "src/Data-NaturalNumber.html#NaturalNumber",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Data NaturalNumber",
+          "module": "Data.NaturalNumber",
+          "name": "NaturalNumber",
+          "package": "natural-number",
+          "partial": "Natural Number",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/natural-number/docs/Data-NaturalNumber.html#t:NaturalNumber"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.NaturalNumber",
+          "name": "UnknownN",
+          "package": "natural-number",
+          "source": "src/Data-NaturalNumber.html#UnknownN",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data NaturalNumber",
+          "module": "Data.NaturalNumber",
+          "name": "UnknownN",
+          "package": "natural-number",
+          "partial": "Unknown",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/natural-number/docs/Data-NaturalNumber.html#t:UnknownN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.NaturalNumber",
+          "name": "NSuccessorTo",
+          "package": "natural-number",
+          "signature": "N n -\u003e N (SuccessorTo n)",
+          "source": "src/Data-NaturalNumber.html#N",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data NaturalNumber",
+          "module": "Data.NaturalNumber",
+          "name": "NSuccessorTo",
+          "normalized": "N a-\u003eN(SuccessorTo a)",
+          "package": "natural-number",
+          "partial": "NSuccessor To",
+          "signature": "N n-\u003eN(SuccessorTo n)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/natural-number/docs/Data-NaturalNumber.html#v:NSuccessorTo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.NaturalNumber",
+          "name": "NZero",
+          "package": "natural-number",
+          "signature": "N Zero",
+          "source": "src/Data-NaturalNumber.html#N",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data NaturalNumber",
+          "module": "Data.NaturalNumber",
+          "name": "NZero",
+          "package": "natural-number",
+          "partial": "NZero",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/natural-number/docs/Data-NaturalNumber.html#v:NZero"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.NaturalNumber",
+          "name": "UnknownN",
+          "package": "natural-number",
+          "signature": "N n -\u003e UnknownN",
+          "source": "src/Data-NaturalNumber.html#UnknownN",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data NaturalNumber",
+          "module": "Data.NaturalNumber",
+          "name": "UnknownN",
+          "normalized": "N a-\u003eUnknownN",
+          "package": "natural-number",
+          "partial": "Unknown",
+          "signature": "N n-\u003eUnknownN",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/natural-number/docs/Data-NaturalNumber.html#v:UnknownN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.NaturalNumber",
+          "name": "asN",
+          "package": "natural-number",
+          "signature": "N n",
+          "source": "src/Data-NaturalNumber.html#asN",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Data NaturalNumber",
+          "module": "Data.NaturalNumber",
+          "name": "asN",
+          "package": "natural-number",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/natural-number/docs/Data-NaturalNumber.html#v:asN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.NaturalNumber",
+          "name": "fromN",
+          "package": "natural-number",
+          "signature": "N n -\u003e n",
+          "source": "src/Data-NaturalNumber.html#fromN",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Data NaturalNumber",
+          "module": "Data.NaturalNumber",
+          "name": "fromN",
+          "normalized": "N a-\u003ea",
+          "package": "natural-number",
+          "signature": "N n-\u003en",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/natural-number/docs/Data-NaturalNumber.html#v:fromN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.NaturalNumber",
+          "name": "intToN",
+          "package": "natural-number",
+          "signature": "Int -\u003e N n",
+          "source": "src/Data-NaturalNumber.html#intToN",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data NaturalNumber",
+          "module": "Data.NaturalNumber",
+          "name": "intToN",
+          "normalized": "Int-\u003eN a",
+          "package": "natural-number",
+          "partial": "To",
+          "signature": "Int-\u003eN n",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/natural-number/docs/Data-NaturalNumber.html#v:intToN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.NaturalNumber",
+          "name": "intToUnknownN",
+          "package": "natural-number",
+          "signature": "Int -\u003e UnknownN",
+          "source": "src/Data-NaturalNumber.html#intToUnknownN",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data NaturalNumber",
+          "module": "Data.NaturalNumber",
+          "name": "intToUnknownN",
+          "normalized": "Int-\u003eUnknownN",
+          "package": "natural-number",
+          "partial": "To Unknown",
+          "signature": "Int-\u003eUnknownN",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/natural-number/docs/Data-NaturalNumber.html#v:intToUnknownN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.NaturalNumber",
+          "name": "nToInt",
+          "package": "natural-number",
+          "signature": "N n -\u003e Int",
+          "source": "src/Data-NaturalNumber.html#nToInt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data NaturalNumber",
+          "module": "Data.NaturalNumber",
+          "name": "nToInt",
+          "normalized": "N a-\u003eInt",
+          "package": "natural-number",
+          "partial": "To Int",
+          "signature": "N n-\u003eInt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/natural-number/docs/Data-NaturalNumber.html#v:nToInt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.NaturalNumber",
+          "name": "unknownNToInt",
+          "package": "natural-number",
+          "signature": "UnknownN -\u003e Int",
+          "source": "src/Data-NaturalNumber.html#unknownNToInt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data NaturalNumber",
+          "module": "Data.NaturalNumber",
+          "name": "unknownNToInt",
+          "normalized": "UnknownN-\u003eInt",
+          "package": "natural-number",
+          "partial": "NTo Int",
+          "signature": "UnknownN-\u003eInt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/natural-number/docs/Data-NaturalNumber.html#v:unknownNToInt"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/natural-number/docs/Data-NaturalNumber.html#t:NaturalNumber",
-      "description": {
-        "fct-module": "Data.NaturalNumber",
-        "fct-package": "natural-number",
-        "fct-signature": "class",
-        "fct-source": "src/Data-NaturalNumber.html#NaturalNumber",
-        "fct-type": "class",
-        "title": "NaturalNumber"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data NaturalNumber",
-        "module": "Data.NaturalNumber",
-        "name": "NaturalNumber",
-        "normalized": "",
-        "package": "natural-number",
-        "partial": "Natural Number",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/natural-number/docs/Data-NaturalNumber.html#t:UnknownN",
-      "description": {
-        "fct-module": "Data.NaturalNumber",
-        "fct-package": "natural-number",
-        "fct-signature": "data",
-        "fct-source": "src/Data-NaturalNumber.html#UnknownN",
-        "fct-type": "data",
-        "title": "UnknownN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data NaturalNumber",
-        "module": "Data.NaturalNumber",
-        "name": "UnknownN",
-        "normalized": "",
-        "package": "natural-number",
-        "partial": "Unknown",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/natural-number/docs/Data-NaturalNumber.html#v:NSuccessorTo",
-      "description": {
-        "fct-module": "Data.NaturalNumber",
-        "fct-package": "natural-number",
-        "fct-signature": "N n -\u003e N (SuccessorTo n)",
-        "fct-source": "src/Data-NaturalNumber.html#N",
-        "fct-type": "function",
-        "title": "NSuccessorTo"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data NaturalNumber",
-        "module": "Data.NaturalNumber",
-        "name": "NSuccessorTo",
-        "normalized": "N a-\u003eN(SuccessorTo a)",
-        "package": "natural-number",
-        "partial": "NSuccessor To",
-        "signature": "N n-\u003eN(SuccessorTo n)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/natural-number/docs/Data-NaturalNumber.html#v:NZero",
-      "description": {
-        "fct-module": "Data.NaturalNumber",
-        "fct-package": "natural-number",
-        "fct-signature": "N Zero",
-        "fct-source": "src/Data-NaturalNumber.html#N",
-        "fct-type": "function",
-        "title": "NZero"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data NaturalNumber",
-        "module": "Data.NaturalNumber",
-        "name": "NZero",
-        "normalized": "",
-        "package": "natural-number",
-        "partial": "NZero",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/natural-number/docs/Data-NaturalNumber.html#v:UnknownN",
-      "description": {
-        "fct-module": "Data.NaturalNumber",
-        "fct-package": "natural-number",
-        "fct-signature": "N n -\u003e UnknownN",
-        "fct-source": "src/Data-NaturalNumber.html#UnknownN",
-        "fct-type": "function",
-        "title": "UnknownN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data NaturalNumber",
-        "module": "Data.NaturalNumber",
-        "name": "UnknownN",
-        "normalized": "N a-\u003eUnknownN",
-        "package": "natural-number",
-        "partial": "Unknown",
-        "signature": "N n-\u003eUnknownN"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/natural-number/docs/Data-NaturalNumber.html#v:asN",
-      "description": {
-        "fct-module": "Data.NaturalNumber",
-        "fct-package": "natural-number",
-        "fct-signature": "N n",
-        "fct-source": "src/Data-NaturalNumber.html#asN",
-        "fct-type": "method",
-        "title": "asN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data NaturalNumber",
-        "module": "Data.NaturalNumber",
-        "name": "asN",
-        "normalized": "",
-        "package": "natural-number",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/natural-number/docs/Data-NaturalNumber.html#v:fromN",
-      "description": {
-        "fct-module": "Data.NaturalNumber",
-        "fct-package": "natural-number",
-        "fct-signature": "N n -\u003e n",
-        "fct-source": "src/Data-NaturalNumber.html#fromN",
-        "fct-type": "method",
-        "title": "fromN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data NaturalNumber",
-        "module": "Data.NaturalNumber",
-        "name": "fromN",
-        "normalized": "N a-\u003ea",
-        "package": "natural-number",
-        "partial": "",
-        "signature": "N n-\u003en"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/natural-number/docs/Data-NaturalNumber.html#v:intToN",
-      "description": {
-        "fct-module": "Data.NaturalNumber",
-        "fct-package": "natural-number",
-        "fct-signature": "Int -\u003e N n",
-        "fct-source": "src/Data-NaturalNumber.html#intToN",
-        "fct-type": "function",
-        "title": "intToN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data NaturalNumber",
-        "module": "Data.NaturalNumber",
-        "name": "intToN",
-        "normalized": "Int-\u003eN a",
-        "package": "natural-number",
-        "partial": "To",
-        "signature": "Int-\u003eN n"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/natural-number/docs/Data-NaturalNumber.html#v:intToUnknownN",
-      "description": {
-        "fct-module": "Data.NaturalNumber",
-        "fct-package": "natural-number",
-        "fct-signature": "Int -\u003e UnknownN",
-        "fct-source": "src/Data-NaturalNumber.html#intToUnknownN",
-        "fct-type": "function",
-        "title": "intToUnknownN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data NaturalNumber",
-        "module": "Data.NaturalNumber",
-        "name": "intToUnknownN",
-        "normalized": "Int-\u003eUnknownN",
-        "package": "natural-number",
-        "partial": "To Unknown",
-        "signature": "Int-\u003eUnknownN"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/natural-number/docs/Data-NaturalNumber.html#v:nToInt",
-      "description": {
-        "fct-module": "Data.NaturalNumber",
-        "fct-package": "natural-number",
-        "fct-signature": "N n -\u003e Int",
-        "fct-source": "src/Data-NaturalNumber.html#nToInt",
-        "fct-type": "function",
-        "title": "nToInt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data NaturalNumber",
-        "module": "Data.NaturalNumber",
-        "name": "nToInt",
-        "normalized": "N a-\u003eInt",
-        "package": "natural-number",
-        "partial": "To Int",
-        "signature": "N n-\u003eInt"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/natural-number/docs/Data-NaturalNumber.html#v:unknownNToInt",
-      "description": {
-        "fct-module": "Data.NaturalNumber",
-        "fct-package": "natural-number",
-        "fct-signature": "UnknownN -\u003e Int",
-        "fct-source": "src/Data-NaturalNumber.html#unknownNToInt",
-        "fct-type": "function",
-        "title": "unknownNToInt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data NaturalNumber",
-        "module": "Data.NaturalNumber",
-        "name": "unknownNToInt",
-        "normalized": "UnknownN-\u003eInt",
-        "package": "natural-number",
-        "partial": "NTo Int",
-        "signature": "UnknownN-\u003eInt"
-      }
-    }
-  }
+  ]
 ]

@@ -1,50 +1,62 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/inject/docs/Text-Inject.html#",
-      "description": {
-        "fct-module": "Text.Inject",
-        "fct-package": "inject",
-        "fct-signature": "module",
-        "fct-source": "src/Text-Inject.html",
-        "fct-type": "module",
-        "title": "Inject"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "inject"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Text Inject",
-        "module": "Text.Inject",
-        "name": "Inject",
-        "normalized": "",
-        "package": "inject",
-        "partial": "Inject",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/inject/docs/Text-Inject.html#v:inject",
-      "description": {
-        "fct-module": "Text.Inject",
-        "fct-package": "inject",
-        "fct-signature": "Text -\u003e IO Text",
-        "fct-source": "src/Text-Inject.html#inject",
-        "fct-type": "function",
-        "title": "inject"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text Inject",
-        "module": "Text.Inject",
-        "name": "inject",
-        "normalized": "Text-\u003eIO Text",
-        "package": "inject",
-        "partial": "",
-        "signature": "Text-\u003eIO Text"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.Inject",
+          "name": "Inject",
+          "package": "inject",
+          "source": "src/Text-Inject.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Text Inject",
+          "module": "Text.Inject",
+          "name": "Inject",
+          "package": "inject",
+          "partial": "Inject",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/inject/docs/Text-Inject.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.Inject",
+          "name": "inject",
+          "package": "inject",
+          "signature": "Text -\u003e IO Text",
+          "source": "src/Text-Inject.html#inject",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text Inject",
+          "module": "Text.Inject",
+          "name": "inject",
+          "normalized": "Text-\u003eIO Text",
+          "package": "inject",
+          "signature": "Text-\u003eIO Text",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/inject/docs/Text-Inject.html#v:inject"
       }
     }
-  }
+  ]
 ]

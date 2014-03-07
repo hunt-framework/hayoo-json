@@ -1,122 +1,128 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-websocket/docs/Network-Websocket.html#t:Config",
-      "description": {
-        "fct-module": "Network.Websocket",
-        "fct-package": "network-websocket",
-        "fct-signature": "data",
-        "fct-source": "http://hackage.haskell.org/package/network-websocket/docs/src/Network-Websocket.html#Config",
-        "fct-type": "unknown",
-        "title": "Config"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "network-websocket"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Websocket",
-        "module": "Network.Websocket",
-        "name": "Config",
-        "normalized": "",
-        "package": "network-websocket",
-        "partial": "Config",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-websocket/docs/Network-Websocket.html#t:ConfigRestriction",
-      "description": {
-        "fct-module": "Network.Websocket",
-        "fct-package": "network-websocket",
-        "fct-signature": "data",
-        "fct-source": "http://hackage.haskell.org/package/network-websocket/docs/src/Network-Websocket.html#ConfigRestriction",
-        "fct-type": "unknown",
-        "title": "ConfigRestriction"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Websocket",
-        "module": "Network.Websocket",
-        "name": "ConfigRestriction",
-        "normalized": "",
-        "package": "network-websocket",
-        "partial": "Config Restriction",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Websocket",
+          "name": "Config",
+          "package": "network-websocket",
+          "source": "http://hackage.haskell.org/package/network-websocket/docs/src/Network-Websocket.html#Config",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Network Websocket",
+          "module": "Network.Websocket",
+          "name": "Config",
+          "package": "network-websocket",
+          "partial": "Config",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/network-websocket/docs/Network-Websocket.html#t:Config"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Websocket",
+          "name": "ConfigRestriction",
+          "package": "network-websocket",
+          "source": "http://hackage.haskell.org/package/network-websocket/docs/src/Network-Websocket.html#ConfigRestriction",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Network Websocket",
+          "module": "Network.Websocket",
+          "name": "ConfigRestriction",
+          "package": "network-websocket",
+          "partial": "Config Restriction",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/network-websocket/docs/Network-Websocket.html#t:ConfigRestriction"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Websocket",
+          "name": "WS",
+          "package": "network-websocket",
+          "source": "http://hackage.haskell.org/package/network-websocket/docs/src/Network-Websocket.html#WS",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Network Websocket",
+          "module": "Network.Websocket",
+          "name": "WS",
+          "package": "network-websocket",
+          "partial": "WS",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/network-websocket/docs/Network-Websocket.html#t:WS"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Websocket",
+          "name": "send",
+          "package": "network-websocket",
+          "signature": "WS -\u003e String -\u003e IO ()",
+          "source": "http://hackage.haskell.org/package/network-websocket/docs/src/Network-Websocket.html#send",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network Websocket",
+          "module": "Network.Websocket",
+          "name": "send",
+          "normalized": "WS-\u003eString-\u003eIO()",
+          "package": "network-websocket",
+          "signature": "WS-\u003eString-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-websocket/docs/Network-Websocket.html#v:send"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Websocket",
+          "name": "startServer",
+          "package": "network-websocket",
+          "signature": "Config -\u003e IO ()",
+          "source": "http://hackage.haskell.org/package/network-websocket/docs/src/Network-Websocket.html#startServer",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network Websocket",
+          "module": "Network.Websocket",
+          "name": "startServer",
+          "normalized": "Config-\u003eIO()",
+          "package": "network-websocket",
+          "partial": "Server",
+          "signature": "Config-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-websocket/docs/Network-Websocket.html#v:startServer"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-websocket/docs/Network-Websocket.html#t:WS",
-      "description": {
-        "fct-module": "Network.Websocket",
-        "fct-package": "network-websocket",
-        "fct-signature": "data",
-        "fct-source": "http://hackage.haskell.org/package/network-websocket/docs/src/Network-Websocket.html#WS",
-        "fct-type": "unknown",
-        "title": "WS"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Websocket",
-        "module": "Network.Websocket",
-        "name": "WS",
-        "normalized": "",
-        "package": "network-websocket",
-        "partial": "WS",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-websocket/docs/Network-Websocket.html#v:send",
-      "description": {
-        "fct-module": "Network.Websocket",
-        "fct-package": "network-websocket",
-        "fct-signature": "WS -\u003e String -\u003e IO ()",
-        "fct-source": "http://hackage.haskell.org/package/network-websocket/docs/src/Network-Websocket.html#send",
-        "fct-type": "unknown",
-        "title": "send"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Websocket",
-        "module": "Network.Websocket",
-        "name": "send",
-        "normalized": "WS-\u003eString-\u003eIO()",
-        "package": "network-websocket",
-        "partial": "",
-        "signature": "WS-\u003eString-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-websocket/docs/Network-Websocket.html#v:startServer",
-      "description": {
-        "fct-module": "Network.Websocket",
-        "fct-package": "network-websocket",
-        "fct-signature": "Config -\u003e IO ()",
-        "fct-source": "http://hackage.haskell.org/package/network-websocket/docs/src/Network-Websocket.html#startServer",
-        "fct-type": "unknown",
-        "title": "startServer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Websocket",
-        "module": "Network.Websocket",
-        "name": "startServer",
-        "normalized": "Config-\u003eIO()",
-        "package": "network-websocket",
-        "partial": "Server",
-        "signature": "Config-\u003eIO()"
-      }
-    }
-  }
+  ]
 ]

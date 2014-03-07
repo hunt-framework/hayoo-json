@@ -1,122 +1,132 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/phone-push/docs/Android.html#",
-      "description": {
-        "fct-module": "Android",
-        "fct-package": "phone-push",
-        "fct-signature": "module",
-        "fct-source": "src/Android.html",
-        "fct-type": "module",
-        "title": "Android"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "phone-push"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Android",
-        "module": "Android",
-        "name": "Android",
-        "normalized": "",
-        "package": "phone-push",
-        "partial": "Android",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/phone-push/docs/Android.html#v:pushMess",
-      "description": {
-        "fct-module": "Android",
-        "fct-package": "phone-push",
-        "fct-signature": "ByteString -\u003e ByteString -\u003e IO ()",
-        "fct-source": "src/Android.html#pushMess",
-        "fct-type": "function",
-        "title": "pushMess"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Android",
-        "module": "Android",
-        "name": "pushMess",
-        "normalized": "ByteString-\u003eByteString-\u003eIO()",
-        "package": "phone-push",
-        "partial": "Mess",
-        "signature": "ByteString-\u003eByteString-\u003eIO()"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Android",
+          "name": "Android",
+          "package": "phone-push",
+          "source": "src/Android.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Android",
+          "module": "Android",
+          "name": "Android",
+          "package": "phone-push",
+          "partial": "Android",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/phone-push/docs/Android.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Android",
+          "name": "pushMess",
+          "package": "phone-push",
+          "signature": "ByteString -\u003e ByteString -\u003e IO ()",
+          "source": "src/Android.html#pushMess",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Android",
+          "module": "Android",
+          "name": "pushMess",
+          "normalized": "ByteString-\u003eByteString-\u003eIO()",
+          "package": "phone-push",
+          "partial": "Mess",
+          "signature": "ByteString-\u003eByteString-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/phone-push/docs/Android.html#v:pushMess"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "IOS",
+          "name": "IOS",
+          "package": "phone-push",
+          "source": "src/IOS.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "IOS",
+          "module": "IOS",
+          "name": "IOS",
+          "package": "phone-push",
+          "partial": "IOS",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/phone-push/docs/IOS.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "IOS",
+          "name": "pushMessLive",
+          "package": "phone-push",
+          "signature": "FilePath -\u003e FilePath -\u003e ByteString -\u003e [ByteString] -\u003e IO ()",
+          "source": "src/IOS.html#pushMessLive",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "IOS",
+          "module": "IOS",
+          "name": "pushMessLive",
+          "normalized": "FilePath-\u003eFilePath-\u003eByteString-\u003e[ByteString]-\u003eIO()",
+          "package": "phone-push",
+          "partial": "Mess Live",
+          "signature": "FilePath-\u003eFilePath-\u003eByteString-\u003e[ByteString]-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/phone-push/docs/IOS.html#v:pushMessLive"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "IOS",
+          "name": "pushMessTest",
+          "package": "phone-push",
+          "signature": "FilePath -\u003e FilePath -\u003e ByteString -\u003e [ByteString] -\u003e IO ()",
+          "source": "src/IOS.html#pushMessTest",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "IOS",
+          "module": "IOS",
+          "name": "pushMessTest",
+          "normalized": "FilePath-\u003eFilePath-\u003eByteString-\u003e[ByteString]-\u003eIO()",
+          "package": "phone-push",
+          "partial": "Mess Test",
+          "signature": "FilePath-\u003eFilePath-\u003eByteString-\u003e[ByteString]-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/phone-push/docs/IOS.html#v:pushMessTest"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/phone-push/docs/IOS.html#",
-      "description": {
-        "fct-module": "IOS",
-        "fct-package": "phone-push",
-        "fct-signature": "module",
-        "fct-source": "src/IOS.html",
-        "fct-type": "module",
-        "title": "IOS"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "IOS",
-        "module": "IOS",
-        "name": "IOS",
-        "normalized": "",
-        "package": "phone-push",
-        "partial": "IOS",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/phone-push/docs/IOS.html#v:pushMessLive",
-      "description": {
-        "fct-module": "IOS",
-        "fct-package": "phone-push",
-        "fct-signature": "FilePath -\u003e FilePath -\u003e ByteString -\u003e [ByteString] -\u003e IO ()",
-        "fct-source": "src/IOS.html#pushMessLive",
-        "fct-type": "function",
-        "title": "pushMessLive"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "IOS",
-        "module": "IOS",
-        "name": "pushMessLive",
-        "normalized": "FilePath-\u003eFilePath-\u003eByteString-\u003e[ByteString]-\u003eIO()",
-        "package": "phone-push",
-        "partial": "Mess Live",
-        "signature": "FilePath-\u003eFilePath-\u003eByteString-\u003e[ByteString]-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/phone-push/docs/IOS.html#v:pushMessTest",
-      "description": {
-        "fct-module": "IOS",
-        "fct-package": "phone-push",
-        "fct-signature": "FilePath -\u003e FilePath -\u003e ByteString -\u003e [ByteString] -\u003e IO ()",
-        "fct-source": "src/IOS.html#pushMessTest",
-        "fct-type": "function",
-        "title": "pushMessTest"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "IOS",
-        "module": "IOS",
-        "name": "pushMessTest",
-        "normalized": "FilePath-\u003eFilePath-\u003eByteString-\u003e[ByteString]-\u003eIO()",
-        "package": "phone-push",
-        "partial": "Mess Test",
-        "signature": "FilePath-\u003eFilePath-\u003eByteString-\u003e[ByteString]-\u003eIO()"
-      }
-    }
-  }
+  ]
 ]

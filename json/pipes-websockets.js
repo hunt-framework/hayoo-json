@@ -1,26 +1,39 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/pipes-websockets/docs/Pipes-Network-Websockets.html#",
-      "description": {
-        "fct-module": "Pipes.Network.Websockets",
-        "fct-package": "pipes-websockets",
-        "fct-signature": "module",
-        "fct-source": "src/Pipes-Network-Websockets.html",
-        "fct-type": "module",
-        "title": "Websockets"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "pipes-websockets"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Pipes Network Websockets",
-        "module": "Pipes.Network.Websockets",
-        "name": "Websockets",
-        "normalized": "",
-        "package": "pipes-websockets",
-        "partial": "Websockets",
-        "signature": ""
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Pipes.Network.Websockets",
+          "name": "Websockets",
+          "package": "pipes-websockets",
+          "source": "src/Pipes-Network-Websockets.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Pipes Network Websockets",
+          "module": "Pipes.Network.Websockets",
+          "name": "Websockets",
+          "package": "pipes-websockets",
+          "partial": "Websockets",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/pipes-websockets/docs/Pipes-Network-Websockets.html#"
       }
     }
-  }
+  ]
 ]

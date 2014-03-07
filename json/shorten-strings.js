@@ -1,74 +1,83 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/shorten-strings/docs/Data-Shorten.html#",
-      "description": {
-        "fct-module": "Data.Shorten",
-        "fct-package": "shorten-strings",
-        "fct-signature": "module",
-        "fct-source": "src/Data-Shorten.html",
-        "fct-type": "module",
-        "title": "Shorten"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "shorten-strings"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Shorten",
-        "module": "Data.Shorten",
-        "name": "Shorten",
-        "normalized": "",
-        "package": "shorten-strings",
-        "partial": "Shorten",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/shorten-strings/docs/Data-Shorten.html#t:Shorten",
-      "description": {
-        "fct-module": "Data.Shorten",
-        "fct-package": "shorten-strings",
-        "fct-signature": "class",
-        "fct-source": "src/Data-Shorten.html#Shorten",
-        "fct-type": "class",
-        "title": "Shorten"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Shorten",
-        "module": "Data.Shorten",
-        "name": "Shorten",
-        "normalized": "",
-        "package": "shorten-strings",
-        "partial": "Shorten",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Shorten",
+          "name": "Shorten",
+          "package": "shorten-strings",
+          "source": "src/Data-Shorten.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data Shorten",
+          "module": "Data.Shorten",
+          "name": "Shorten",
+          "package": "shorten-strings",
+          "partial": "Shorten",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/shorten-strings/docs/Data-Shorten.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Shorten",
+          "name": "Shorten",
+          "package": "shorten-strings",
+          "source": "src/Data-Shorten.html#Shorten",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Data Shorten",
+          "module": "Data.Shorten",
+          "name": "Shorten",
+          "package": "shorten-strings",
+          "partial": "Shorten",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/shorten-strings/docs/Data-Shorten.html#t:Shorten"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Shorten",
+          "name": "shorten",
+          "package": "shorten-strings",
+          "signature": "Int -\u003e a -\u003e a",
+          "source": "src/Data-Shorten.html#shorten",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Data Shorten",
+          "module": "Data.Shorten",
+          "name": "shorten",
+          "normalized": "Int-\u003ea-\u003ea",
+          "package": "shorten-strings",
+          "signature": "Int-\u003ea-\u003ea",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/shorten-strings/docs/Data-Shorten.html#v:shorten"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/shorten-strings/docs/Data-Shorten.html#v:shorten",
-      "description": {
-        "fct-module": "Data.Shorten",
-        "fct-package": "shorten-strings",
-        "fct-signature": "Int -\u003e a -\u003e a",
-        "fct-source": "src/Data-Shorten.html#shorten",
-        "fct-type": "method",
-        "title": "shorten"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Shorten",
-        "module": "Data.Shorten",
-        "name": "shorten",
-        "normalized": "Int-\u003ea-\u003ea",
-        "package": "shorten-strings",
-        "partial": "",
-        "signature": "Int-\u003ea-\u003ea"
-      }
-    }
-  }
+  ]
 ]

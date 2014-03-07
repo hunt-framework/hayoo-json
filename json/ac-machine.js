@@ -1,340 +1,328 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ac-machine/docs/Data-AhoCorasick.html#",
-      "description": {
-        "fct-module": "Data.AhoCorasick",
-        "fct-package": "ac-machine",
-        "fct-signature": "module",
-        "fct-source": "src/Data-AhoCorasick.html",
-        "fct-type": "module",
-        "title": "AhoCorasick"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "ac-machine"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Data AhoCorasick",
-        "module": "Data.AhoCorasick",
-        "name": "AhoCorasick",
-        "normalized": "",
-        "package": "ac-machine",
-        "partial": "Aho Corasick",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ac-machine/docs/Data-AhoCorasick.html#t:ACMachine",
-      "description": {
-        "fct-module": "Data.AhoCorasick",
-        "fct-package": "ac-machine",
-        "fct-signature": "data",
-        "fct-source": "src/Data-AhoCorasick.html#ACMachine",
-        "fct-type": "data",
-        "title": "ACMachine"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data AhoCorasick",
-        "module": "Data.AhoCorasick",
-        "name": "ACMachine",
-        "normalized": "",
-        "package": "ac-machine",
-        "partial": "ACMachine",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.AhoCorasick",
+          "name": "AhoCorasick",
+          "package": "ac-machine",
+          "source": "src/Data-AhoCorasick.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data AhoCorasick",
+          "module": "Data.AhoCorasick",
+          "name": "AhoCorasick",
+          "package": "ac-machine",
+          "partial": "Aho Corasick",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/ac-machine/docs/Data-AhoCorasick.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.AhoCorasick",
+          "name": "ACMachine",
+          "package": "ac-machine",
+          "source": "src/Data-AhoCorasick.html#ACMachine",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data AhoCorasick",
+          "module": "Data.AhoCorasick",
+          "name": "ACMachine",
+          "package": "ac-machine",
+          "partial": "ACMachine",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/ac-machine/docs/Data-AhoCorasick.html#t:ACMachine"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.AhoCorasick",
+          "name": "Match",
+          "package": "ac-machine",
+          "source": "src/Data-AhoCorasick.html#Match",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data AhoCorasick",
+          "module": "Data.AhoCorasick",
+          "name": "Match",
+          "package": "ac-machine",
+          "partial": "Match",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/ac-machine/docs/Data-AhoCorasick.html#t:Match"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.AhoCorasick",
+          "name": "State",
+          "package": "ac-machine",
+          "source": "src/Data-AhoCorasick.html#State",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Data AhoCorasick",
+          "module": "Data.AhoCorasick",
+          "name": "State",
+          "package": "ac-machine",
+          "partial": "State",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/ac-machine/docs/Data-AhoCorasick.html#t:State"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.AhoCorasick",
+          "name": "Match",
+          "package": "ac-machine",
+          "signature": "Match",
+          "source": "src/Data-AhoCorasick.html#Match",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data AhoCorasick",
+          "module": "Data.AhoCorasick",
+          "name": "Match",
+          "package": "ac-machine",
+          "partial": "Match",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ac-machine/docs/Data-AhoCorasick.html#v:Match"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.AhoCorasick",
+          "name": "State",
+          "package": "ac-machine",
+          "signature": "State Int",
+          "source": "src/Data-AhoCorasick.html#State",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data AhoCorasick",
+          "module": "Data.AhoCorasick",
+          "name": "State",
+          "package": "ac-machine",
+          "partial": "State",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ac-machine/docs/Data-AhoCorasick.html#v:State"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.AhoCorasick",
+          "name": "construct",
+          "package": "ac-machine",
+          "signature": "[[a]] -\u003e ACMachine a [a]",
+          "source": "src/Data-AhoCorasick.html#construct",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data AhoCorasick",
+          "module": "Data.AhoCorasick",
+          "name": "construct",
+          "normalized": "[[a]]-\u003eACMachine a[a]",
+          "package": "ac-machine",
+          "signature": "[[a]]-\u003eACMachine a[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ac-machine/docs/Data-AhoCorasick.html#v:construct"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.AhoCorasick",
+          "name": "constructWithValues",
+          "package": "ac-machine",
+          "signature": "[([a], v)] -\u003e ACMachine a v",
+          "source": "src/Data-AhoCorasick.html#constructWithValues",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data AhoCorasick",
+          "module": "Data.AhoCorasick",
+          "name": "constructWithValues",
+          "normalized": "[([a],b)]-\u003eACMachine a b",
+          "package": "ac-machine",
+          "partial": "With Values",
+          "signature": "[([a],v)]-\u003eACMachine a v",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ac-machine/docs/Data-AhoCorasick.html#v:constructWithValues"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.AhoCorasick",
+          "name": "matchPos",
+          "package": "ac-machine",
+          "signature": "Int",
+          "source": "src/Data-AhoCorasick.html#Match",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data AhoCorasick",
+          "module": "Data.AhoCorasick",
+          "name": "matchPos",
+          "package": "ac-machine",
+          "partial": "Pos",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ac-machine/docs/Data-AhoCorasick.html#v:matchPos"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.AhoCorasick",
+          "name": "matchValue",
+          "package": "ac-machine",
+          "signature": "v",
+          "source": "src/Data-AhoCorasick.html#Match",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data AhoCorasick",
+          "module": "Data.AhoCorasick",
+          "name": "matchValue",
+          "package": "ac-machine",
+          "partial": "Value",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ac-machine/docs/Data-AhoCorasick.html#v:matchValue"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.AhoCorasick",
+          "name": "renderGraph",
+          "package": "ac-machine",
+          "signature": "ACMachine Char [Char] -\u003e String",
+          "source": "src/Data-AhoCorasick.html#renderGraph",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data AhoCorasick",
+          "module": "Data.AhoCorasick",
+          "name": "renderGraph",
+          "normalized": "ACMachine Char[Char]-\u003eString",
+          "package": "ac-machine",
+          "partial": "Graph",
+          "signature": "ACMachine Char[Char]-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ac-machine/docs/Data-AhoCorasick.html#v:renderGraph"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.AhoCorasick",
+          "name": "root",
+          "package": "ac-machine",
+          "signature": "State",
+          "source": "src/Data-AhoCorasick.html#root",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data AhoCorasick",
+          "module": "Data.AhoCorasick",
+          "name": "root",
+          "package": "ac-machine",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ac-machine/docs/Data-AhoCorasick.html#v:root"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.AhoCorasick",
+          "name": "run",
+          "package": "ac-machine",
+          "signature": "ACMachine a v -\u003e [a] -\u003e [Match v]",
+          "source": "src/Data-AhoCorasick.html#run",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data AhoCorasick",
+          "module": "Data.AhoCorasick",
+          "name": "run",
+          "normalized": "ACMachine a b-\u003e[a]-\u003e[Match b]",
+          "package": "ac-machine",
+          "signature": "ACMachine a v-\u003e[a]-\u003e[Match v]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ac-machine/docs/Data-AhoCorasick.html#v:run"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.AhoCorasick",
+          "name": "step",
+          "package": "ac-machine",
+          "signature": "ACMachine a v -\u003e a -\u003e State -\u003e (State, [(Int, v)])",
+          "source": "src/Data-AhoCorasick.html#step",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data AhoCorasick",
+          "module": "Data.AhoCorasick",
+          "name": "step",
+          "normalized": "ACMachine a b-\u003ea-\u003eState-\u003e(State,[(Int,b)])",
+          "package": "ac-machine",
+          "signature": "ACMachine a v-\u003ea-\u003eState-\u003e(State,[(Int,v)])",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ac-machine/docs/Data-AhoCorasick.html#v:step"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ac-machine/docs/Data-AhoCorasick.html#t:Match",
-      "description": {
-        "fct-module": "Data.AhoCorasick",
-        "fct-package": "ac-machine",
-        "fct-signature": "data",
-        "fct-source": "src/Data-AhoCorasick.html#Match",
-        "fct-type": "data",
-        "title": "Match"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data AhoCorasick",
-        "module": "Data.AhoCorasick",
-        "name": "Match",
-        "normalized": "",
-        "package": "ac-machine",
-        "partial": "Match",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ac-machine/docs/Data-AhoCorasick.html#t:State",
-      "description": {
-        "fct-module": "Data.AhoCorasick",
-        "fct-package": "ac-machine",
-        "fct-signature": "newtype",
-        "fct-source": "src/Data-AhoCorasick.html#State",
-        "fct-type": "newtype",
-        "title": "State"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data AhoCorasick",
-        "module": "Data.AhoCorasick",
-        "name": "State",
-        "normalized": "",
-        "package": "ac-machine",
-        "partial": "State",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ac-machine/docs/Data-AhoCorasick.html#v:Match",
-      "description": {
-        "fct-module": "Data.AhoCorasick",
-        "fct-package": "ac-machine",
-        "fct-signature": "Match",
-        "fct-source": "src/Data-AhoCorasick.html#Match",
-        "fct-type": "function",
-        "title": "Match"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data AhoCorasick",
-        "module": "Data.AhoCorasick",
-        "name": "Match",
-        "normalized": "",
-        "package": "ac-machine",
-        "partial": "Match",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ac-machine/docs/Data-AhoCorasick.html#v:State",
-      "description": {
-        "fct-module": "Data.AhoCorasick",
-        "fct-package": "ac-machine",
-        "fct-signature": "State Int",
-        "fct-source": "src/Data-AhoCorasick.html#State",
-        "fct-type": "function",
-        "title": "State"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data AhoCorasick",
-        "module": "Data.AhoCorasick",
-        "name": "State",
-        "normalized": "",
-        "package": "ac-machine",
-        "partial": "State",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ac-machine/docs/Data-AhoCorasick.html#v:construct",
-      "description": {
-        "fct-module": "Data.AhoCorasick",
-        "fct-package": "ac-machine",
-        "fct-signature": "[[a]] -\u003e ACMachine a [a]",
-        "fct-source": "src/Data-AhoCorasick.html#construct",
-        "fct-type": "function",
-        "title": "construct"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data AhoCorasick",
-        "module": "Data.AhoCorasick",
-        "name": "construct",
-        "normalized": "[[a]]-\u003eACMachine a[a]",
-        "package": "ac-machine",
-        "partial": "",
-        "signature": "[[a]]-\u003eACMachine a[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ac-machine/docs/Data-AhoCorasick.html#v:constructWithValues",
-      "description": {
-        "fct-module": "Data.AhoCorasick",
-        "fct-package": "ac-machine",
-        "fct-signature": "[([a], v)] -\u003e ACMachine a v",
-        "fct-source": "src/Data-AhoCorasick.html#constructWithValues",
-        "fct-type": "function",
-        "title": "constructWithValues"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data AhoCorasick",
-        "module": "Data.AhoCorasick",
-        "name": "constructWithValues",
-        "normalized": "[([a],b)]-\u003eACMachine a b",
-        "package": "ac-machine",
-        "partial": "With Values",
-        "signature": "[([a],v)]-\u003eACMachine a v"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ac-machine/docs/Data-AhoCorasick.html#v:matchPos",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.AhoCorasick",
-        "fct-package": "ac-machine",
-        "fct-signature": "Int",
-        "fct-source": "src/Data-AhoCorasick.html#Match",
-        "fct-type": "function",
-        "title": "matchPos"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data AhoCorasick",
-        "module": "Data.AhoCorasick",
-        "name": "matchPos",
-        "normalized": "",
-        "package": "ac-machine",
-        "partial": "Pos",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ac-machine/docs/Data-AhoCorasick.html#v:matchValue",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.AhoCorasick",
-        "fct-package": "ac-machine",
-        "fct-signature": "v",
-        "fct-source": "src/Data-AhoCorasick.html#Match",
-        "fct-type": "function",
-        "title": "matchValue"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data AhoCorasick",
-        "module": "Data.AhoCorasick",
-        "name": "matchValue",
-        "normalized": "",
-        "package": "ac-machine",
-        "partial": "Value",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ac-machine/docs/Data-AhoCorasick.html#v:renderGraph",
-      "description": {
-        "fct-module": "Data.AhoCorasick",
-        "fct-package": "ac-machine",
-        "fct-signature": "ACMachine Char [Char] -\u003e String",
-        "fct-source": "src/Data-AhoCorasick.html#renderGraph",
-        "fct-type": "function",
-        "title": "renderGraph"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data AhoCorasick",
-        "module": "Data.AhoCorasick",
-        "name": "renderGraph",
-        "normalized": "ACMachine Char[Char]-\u003eString",
-        "package": "ac-machine",
-        "partial": "Graph",
-        "signature": "ACMachine Char[Char]-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ac-machine/docs/Data-AhoCorasick.html#v:root",
-      "description": {
-        "fct-module": "Data.AhoCorasick",
-        "fct-package": "ac-machine",
-        "fct-signature": "State",
-        "fct-source": "src/Data-AhoCorasick.html#root",
-        "fct-type": "function",
-        "title": "root"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data AhoCorasick",
-        "module": "Data.AhoCorasick",
-        "name": "root",
-        "normalized": "",
-        "package": "ac-machine",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ac-machine/docs/Data-AhoCorasick.html#v:run",
-      "description": {
-        "fct-module": "Data.AhoCorasick",
-        "fct-package": "ac-machine",
-        "fct-signature": "ACMachine a v -\u003e [a] -\u003e [Match v]",
-        "fct-source": "src/Data-AhoCorasick.html#run",
-        "fct-type": "function",
-        "title": "run"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data AhoCorasick",
-        "module": "Data.AhoCorasick",
-        "name": "run",
-        "normalized": "ACMachine a b-\u003e[a]-\u003e[Match b]",
-        "package": "ac-machine",
-        "partial": "",
-        "signature": "ACMachine a v-\u003e[a]-\u003e[Match v]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ac-machine/docs/Data-AhoCorasick.html#v:step",
-      "description": {
-        "fct-module": "Data.AhoCorasick",
-        "fct-package": "ac-machine",
-        "fct-signature": "ACMachine a v -\u003e a -\u003e State -\u003e (State, [(Int, v)])",
-        "fct-source": "src/Data-AhoCorasick.html#step",
-        "fct-type": "function",
-        "title": "step"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data AhoCorasick",
-        "module": "Data.AhoCorasick",
-        "name": "step",
-        "normalized": "ACMachine a b-\u003ea-\u003eState-\u003e(State,[(Int,b)])",
-        "package": "ac-machine",
-        "partial": "",
-        "signature": "ACMachine a v-\u003ea-\u003eState-\u003e(State,[(Int,v)])"
-      }
-    }
-  }
+  ]
 ]

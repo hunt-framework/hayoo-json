@@ -1,421 +1,416 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#",
-      "description": {
-        "fct-module": "ReadArgs",
-        "fct-package": "ReadArgs",
-        "fct-signature": "module",
-        "fct-source": "src/ReadArgs.html",
-        "fct-type": "module",
-        "title": "ReadArgs"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "ReadArgs"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "ReadArgs",
-        "module": "ReadArgs",
-        "name": "ReadArgs",
-        "normalized": "",
-        "package": "ReadArgs",
-        "partial": "Read Args",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#t::-38-",
-      "description": {
-        "fct-descr": "\u003cp\u003euse :& to construct arbitrary length tuples of any parsable arguments\n\u003c/p\u003e",
-        "fct-module": "ReadArgs",
-        "fct-package": "ReadArgs",
-        "fct-signature": "data",
-        "fct-source": "src/ReadArgs.html#%3A%26",
-        "fct-type": "data",
-        "title": ":&"
-      },
-      "index": {
-        "description": "use to construct arbitrary length tuples of any parsable arguments",
-        "hierarchy": "ReadArgs",
-        "module": "ReadArgs",
-        "name": ":&",
-        "normalized": "",
-        "package": "ReadArgs",
-        "partial": "",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "ReadArgs",
+          "name": "ReadArgs",
+          "package": "ReadArgs",
+          "source": "src/ReadArgs.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "ReadArgs",
+          "module": "ReadArgs",
+          "name": "ReadArgs",
+          "package": "ReadArgs",
+          "partial": "Read Args",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003euse :& to construct arbitrary length tuples of any parsable arguments\n\u003c/p\u003e",
+          "module": "ReadArgs",
+          "name": ":&",
+          "package": "ReadArgs",
+          "source": "src/ReadArgs.html#%3A%26",
+          "type": "data"
+        },
+        "index": {
+          "description": "use to construct arbitrary length tuples of any parsable arguments",
+          "hierarchy": "ReadArgs",
+          "module": "ReadArgs",
+          "name": ":&",
+          "package": "ReadArgs",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#t::-38-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ea class for types that can be parsed from exactly one command line argument\n\u003c/p\u003e",
+          "module": "ReadArgs",
+          "name": "Arguable",
+          "package": "ReadArgs",
+          "source": "src/ReadArgs.html#Arguable",
+          "type": "class"
+        },
+        "index": {
+          "description": "class for types that can be parsed from exactly one command line argument",
+          "hierarchy": "ReadArgs",
+          "module": "ReadArgs",
+          "name": "Arguable",
+          "package": "ReadArgs",
+          "partial": "Arguable",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#t:Arguable"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ea class for types that can be parsed from some number of command line\n arguments\n\u003c/p\u003e",
+          "module": "ReadArgs",
+          "name": "Argument",
+          "package": "ReadArgs",
+          "source": "src/ReadArgs.html#Argument",
+          "type": "class"
+        },
+        "index": {
+          "description": "class for types that can be parsed from some number of command line arguments",
+          "hierarchy": "ReadArgs",
+          "module": "ReadArgs",
+          "name": "Argument",
+          "package": "ReadArgs",
+          "partial": "Argument",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#t:Argument"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ea class for tuples of types that can be parsed from the entire list\n of arguments\n\u003c/p\u003e",
+          "module": "ReadArgs",
+          "name": "ArgumentTuple",
+          "package": "ReadArgs",
+          "source": "src/ReadArgs.html#ArgumentTuple",
+          "type": "class"
+        },
+        "index": {
+          "description": "class for tuples of types that can be parsed from the entire list of arguments",
+          "hierarchy": "ReadArgs",
+          "module": "ReadArgs",
+          "name": "ArgumentTuple",
+          "package": "ReadArgs",
+          "partial": "Argument Tuple",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#t:ArgumentTuple"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ea wrapper type to indicate a non-greedy list or maybe\n\u003c/p\u003e",
+          "module": "ReadArgs",
+          "name": "NonGreedy",
+          "package": "ReadArgs",
+          "source": "src/ReadArgs.html#NonGreedy",
+          "type": "newtype"
+        },
+        "index": {
+          "description": "wrapper type to indicate non-greedy list or maybe",
+          "hierarchy": "ReadArgs",
+          "module": "ReadArgs",
+          "name": "NonGreedy",
+          "package": "ReadArgs",
+          "partial": "Non Greedy",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#t:NonGreedy"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "ReadArgs",
+          "name": ":&",
+          "package": "ReadArgs",
+          "signature": "a :& b",
+          "source": "src/ReadArgs.html#%3A%26",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "ReadArgs",
+          "module": "ReadArgs",
+          "name": ":&",
+          "package": "ReadArgs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#v::-38-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "ReadArgs",
+          "name": "NonGreedy",
+          "package": "ReadArgs",
+          "signature": "NonGreedy",
+          "source": "src/ReadArgs.html#NonGreedy",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "ReadArgs",
+          "module": "ReadArgs",
+          "name": "NonGreedy",
+          "package": "ReadArgs",
+          "partial": "Non Greedy",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#v:NonGreedy"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eargName's argument will usually be undefined, so when defining instances of\n Arguable, it should be lazy in its argument\n\u003c/p\u003e",
+          "module": "ReadArgs",
+          "name": "argName",
+          "package": "ReadArgs",
+          "signature": "a -\u003e String",
+          "source": "src/ReadArgs.html#argName",
+          "type": "method"
+        },
+        "index": {
+          "description": "argName argument will usually be undefined so when defining instances of Arguable it should be lazy in its argument",
+          "hierarchy": "ReadArgs",
+          "module": "ReadArgs",
+          "name": "argName",
+          "normalized": "a-\u003eString",
+          "package": "ReadArgs",
+          "partial": "Name",
+          "signature": "a-\u003eString",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#v:argName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ename's argument will usually be undefined, so when defining instances of\n Arguable, it should be lazy in its argument\n\u003c/p\u003e",
+          "module": "ReadArgs",
+          "name": "name",
+          "package": "ReadArgs",
+          "signature": "a -\u003e String",
+          "source": "src/ReadArgs.html#name",
+          "type": "method"
+        },
+        "index": {
+          "description": "name argument will usually be undefined so when defining instances of Arguable it should be lazy in its argument",
+          "hierarchy": "ReadArgs",
+          "module": "ReadArgs",
+          "name": "name",
+          "normalized": "a-\u003eString",
+          "package": "ReadArgs",
+          "signature": "a-\u003eString",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#v:name"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "ReadArgs",
+          "name": "parse",
+          "package": "ReadArgs",
+          "signature": "String -\u003e Maybe a",
+          "source": "src/ReadArgs.html#parse",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "ReadArgs",
+          "module": "ReadArgs",
+          "name": "parse",
+          "normalized": "String-\u003eMaybe a",
+          "package": "ReadArgs",
+          "signature": "String-\u003eMaybe a",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#v:parse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "ReadArgs",
+          "name": "parseArg",
+          "package": "ReadArgs",
+          "signature": "[String] -\u003e [(a, [String])]",
+          "source": "src/ReadArgs.html#parseArg",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "ReadArgs",
+          "module": "ReadArgs",
+          "name": "parseArg",
+          "normalized": "[String]-\u003e[(a,[String])]",
+          "package": "ReadArgs",
+          "partial": "Arg",
+          "signature": "[String]-\u003e[(a,[String])]",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#v:parseArg"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "ReadArgs",
+          "name": "parseArgsFrom",
+          "package": "ReadArgs",
+          "signature": "[String] -\u003e Maybe a",
+          "source": "src/ReadArgs.html#parseArgsFrom",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "ReadArgs",
+          "module": "ReadArgs",
+          "name": "parseArgsFrom",
+          "normalized": "[String]-\u003eMaybe a",
+          "package": "ReadArgs",
+          "partial": "Args From",
+          "signature": "[String]-\u003eMaybe a",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#v:parseArgsFrom"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eparse the desired argument tuple from the command line or \n  print a simple usage statment and quit\n\u003c/p\u003e",
+          "module": "ReadArgs",
+          "name": "readArgs",
+          "package": "ReadArgs",
+          "signature": "IO a",
+          "source": "src/ReadArgs.html#readArgs",
+          "type": "function"
+        },
+        "index": {
+          "description": "parse the desired argument tuple from the command line or print simple usage statment and quit",
+          "hierarchy": "ReadArgs",
+          "module": "ReadArgs",
+          "name": "readArgs",
+          "package": "ReadArgs",
+          "partial": "Args",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#v:readArgs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eread args from the given strings or \n  print a simple usage statment and quit\n  (so you can do option parsing first)\n\u003c/p\u003e",
+          "module": "ReadArgs",
+          "name": "readArgsFrom",
+          "package": "ReadArgs",
+          "signature": "[String] -\u003e IO a",
+          "source": "src/ReadArgs.html#readArgsFrom",
+          "type": "function"
+        },
+        "index": {
+          "description": "read args from the given strings or print simple usage statment and quit so you can do option parsing first",
+          "hierarchy": "ReadArgs",
+          "module": "ReadArgs",
+          "name": "readArgsFrom",
+          "normalized": "[String]-\u003eIO a",
+          "package": "ReadArgs",
+          "partial": "Args From",
+          "signature": "[String]-\u003eIO a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#v:readArgsFrom"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "ReadArgs",
+          "name": "unNonGreedy",
+          "package": "ReadArgs",
+          "signature": "m a",
+          "source": "src/ReadArgs.html#NonGreedy",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "ReadArgs",
+          "module": "ReadArgs",
+          "name": "unNonGreedy",
+          "package": "ReadArgs",
+          "partial": "Non Greedy",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#v:unNonGreedy"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eusageFor's argument will usually be undefined, so when defining instances of\n Arguable, it should be lazy in its argument\n\u003c/p\u003e",
+          "module": "ReadArgs",
+          "name": "usageFor",
+          "package": "ReadArgs",
+          "signature": "a -\u003e String",
+          "source": "src/ReadArgs.html#usageFor",
+          "type": "method"
+        },
+        "index": {
+          "description": "usageFor argument will usually be undefined so when defining instances of Arguable it should be lazy in its argument",
+          "hierarchy": "ReadArgs",
+          "module": "ReadArgs",
+          "name": "usageFor",
+          "normalized": "a-\u003eString",
+          "package": "ReadArgs",
+          "partial": "For",
+          "signature": "a-\u003eString",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#v:usageFor"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#t:Arguable",
-      "description": {
-        "fct-descr": "\u003cp\u003ea class for types that can be parsed from exactly one command line argument\n\u003c/p\u003e",
-        "fct-module": "ReadArgs",
-        "fct-package": "ReadArgs",
-        "fct-signature": "class",
-        "fct-source": "src/ReadArgs.html#Arguable",
-        "fct-type": "class",
-        "title": "Arguable"
-      },
-      "index": {
-        "description": "class for types that can be parsed from exactly one command line argument",
-        "hierarchy": "ReadArgs",
-        "module": "ReadArgs",
-        "name": "Arguable",
-        "normalized": "",
-        "package": "ReadArgs",
-        "partial": "Arguable",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#t:Argument",
-      "description": {
-        "fct-descr": "\u003cp\u003ea class for types that can be parsed from some number of command line\n arguments\n\u003c/p\u003e",
-        "fct-module": "ReadArgs",
-        "fct-package": "ReadArgs",
-        "fct-signature": "class",
-        "fct-source": "src/ReadArgs.html#Argument",
-        "fct-type": "class",
-        "title": "Argument"
-      },
-      "index": {
-        "description": "class for types that can be parsed from some number of command line arguments",
-        "hierarchy": "ReadArgs",
-        "module": "ReadArgs",
-        "name": "Argument",
-        "normalized": "",
-        "package": "ReadArgs",
-        "partial": "Argument",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#t:ArgumentTuple",
-      "description": {
-        "fct-descr": "\u003cp\u003ea class for tuples of types that can be parsed from the entire list\n of arguments\n\u003c/p\u003e",
-        "fct-module": "ReadArgs",
-        "fct-package": "ReadArgs",
-        "fct-signature": "class",
-        "fct-source": "src/ReadArgs.html#ArgumentTuple",
-        "fct-type": "class",
-        "title": "ArgumentTuple"
-      },
-      "index": {
-        "description": "class for tuples of types that can be parsed from the entire list of arguments",
-        "hierarchy": "ReadArgs",
-        "module": "ReadArgs",
-        "name": "ArgumentTuple",
-        "normalized": "",
-        "package": "ReadArgs",
-        "partial": "Argument Tuple",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#t:NonGreedy",
-      "description": {
-        "fct-descr": "\u003cp\u003ea wrapper type to indicate a non-greedy list or maybe\n\u003c/p\u003e",
-        "fct-module": "ReadArgs",
-        "fct-package": "ReadArgs",
-        "fct-signature": "newtype",
-        "fct-source": "src/ReadArgs.html#NonGreedy",
-        "fct-type": "newtype",
-        "title": "NonGreedy"
-      },
-      "index": {
-        "description": "wrapper type to indicate non-greedy list or maybe",
-        "hierarchy": "ReadArgs",
-        "module": "ReadArgs",
-        "name": "NonGreedy",
-        "normalized": "",
-        "package": "ReadArgs",
-        "partial": "Non Greedy",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#v::-38-",
-      "description": {
-        "fct-module": "ReadArgs",
-        "fct-package": "ReadArgs",
-        "fct-signature": "a :& b",
-        "fct-source": "src/ReadArgs.html#%3A%26",
-        "fct-type": "function",
-        "title": ":&"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "ReadArgs",
-        "module": "ReadArgs",
-        "name": ":&",
-        "normalized": "",
-        "package": "ReadArgs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#v:NonGreedy",
-      "description": {
-        "fct-module": "ReadArgs",
-        "fct-package": "ReadArgs",
-        "fct-signature": "NonGreedy",
-        "fct-source": "src/ReadArgs.html#NonGreedy",
-        "fct-type": "function",
-        "title": "NonGreedy"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "ReadArgs",
-        "module": "ReadArgs",
-        "name": "NonGreedy",
-        "normalized": "",
-        "package": "ReadArgs",
-        "partial": "Non Greedy",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#v:argName",
-      "description": {
-        "fct-descr": "\u003cp\u003eargName's argument will usually be undefined, so when defining instances of\n Arguable, it should be lazy in its argument\n\u003c/p\u003e",
-        "fct-module": "ReadArgs",
-        "fct-package": "ReadArgs",
-        "fct-signature": "a -\u003e String",
-        "fct-source": "src/ReadArgs.html#argName",
-        "fct-type": "method",
-        "title": "argName"
-      },
-      "index": {
-        "description": "argName argument will usually be undefined so when defining instances of Arguable it should be lazy in its argument",
-        "hierarchy": "ReadArgs",
-        "module": "ReadArgs",
-        "name": "argName",
-        "normalized": "a-\u003eString",
-        "package": "ReadArgs",
-        "partial": "Name",
-        "signature": "a-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#v:name",
-      "description": {
-        "fct-descr": "\u003cp\u003ename's argument will usually be undefined, so when defining instances of\n Arguable, it should be lazy in its argument\n\u003c/p\u003e",
-        "fct-module": "ReadArgs",
-        "fct-package": "ReadArgs",
-        "fct-signature": "a -\u003e String",
-        "fct-source": "src/ReadArgs.html#name",
-        "fct-type": "method",
-        "title": "name"
-      },
-      "index": {
-        "description": "name argument will usually be undefined so when defining instances of Arguable it should be lazy in its argument",
-        "hierarchy": "ReadArgs",
-        "module": "ReadArgs",
-        "name": "name",
-        "normalized": "a-\u003eString",
-        "package": "ReadArgs",
-        "partial": "",
-        "signature": "a-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#v:parse",
-      "description": {
-        "fct-module": "ReadArgs",
-        "fct-package": "ReadArgs",
-        "fct-signature": "String -\u003e Maybe a",
-        "fct-source": "src/ReadArgs.html#parse",
-        "fct-type": "method",
-        "title": "parse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "ReadArgs",
-        "module": "ReadArgs",
-        "name": "parse",
-        "normalized": "String-\u003eMaybe a",
-        "package": "ReadArgs",
-        "partial": "",
-        "signature": "String-\u003eMaybe a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#v:parseArg",
-      "description": {
-        "fct-module": "ReadArgs",
-        "fct-package": "ReadArgs",
-        "fct-signature": "[String] -\u003e [(a, [String])]",
-        "fct-source": "src/ReadArgs.html#parseArg",
-        "fct-type": "method",
-        "title": "parseArg"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "ReadArgs",
-        "module": "ReadArgs",
-        "name": "parseArg",
-        "normalized": "[String]-\u003e[(a,[String])]",
-        "package": "ReadArgs",
-        "partial": "Arg",
-        "signature": "[String]-\u003e[(a,[String])]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#v:parseArgsFrom",
-      "description": {
-        "fct-module": "ReadArgs",
-        "fct-package": "ReadArgs",
-        "fct-signature": "[String] -\u003e Maybe a",
-        "fct-source": "src/ReadArgs.html#parseArgsFrom",
-        "fct-type": "method",
-        "title": "parseArgsFrom"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "ReadArgs",
-        "module": "ReadArgs",
-        "name": "parseArgsFrom",
-        "normalized": "[String]-\u003eMaybe a",
-        "package": "ReadArgs",
-        "partial": "Args From",
-        "signature": "[String]-\u003eMaybe a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#v:readArgs",
-      "description": {
-        "fct-descr": "\u003cp\u003eparse the desired argument tuple from the command line or \n  print a simple usage statment and quit\n\u003c/p\u003e",
-        "fct-module": "ReadArgs",
-        "fct-package": "ReadArgs",
-        "fct-signature": "IO a",
-        "fct-source": "src/ReadArgs.html#readArgs",
-        "fct-type": "function",
-        "title": "readArgs"
-      },
-      "index": {
-        "description": "parse the desired argument tuple from the command line or print simple usage statment and quit",
-        "hierarchy": "ReadArgs",
-        "module": "ReadArgs",
-        "name": "readArgs",
-        "normalized": "",
-        "package": "ReadArgs",
-        "partial": "Args",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#v:readArgsFrom",
-      "description": {
-        "fct-descr": "\u003cp\u003eread args from the given strings or \n  print a simple usage statment and quit\n  (so you can do option parsing first)\n\u003c/p\u003e",
-        "fct-module": "ReadArgs",
-        "fct-package": "ReadArgs",
-        "fct-signature": "[String] -\u003e IO a",
-        "fct-source": "src/ReadArgs.html#readArgsFrom",
-        "fct-type": "function",
-        "title": "readArgsFrom"
-      },
-      "index": {
-        "description": "read args from the given strings or print simple usage statment and quit so you can do option parsing first",
-        "hierarchy": "ReadArgs",
-        "module": "ReadArgs",
-        "name": "readArgsFrom",
-        "normalized": "[String]-\u003eIO a",
-        "package": "ReadArgs",
-        "partial": "Args From",
-        "signature": "[String]-\u003eIO a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#v:unNonGreedy",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "ReadArgs",
-        "fct-package": "ReadArgs",
-        "fct-signature": "m a",
-        "fct-source": "src/ReadArgs.html#NonGreedy",
-        "fct-type": "function",
-        "title": "unNonGreedy"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "ReadArgs",
-        "module": "ReadArgs",
-        "name": "unNonGreedy",
-        "normalized": "",
-        "package": "ReadArgs",
-        "partial": "Non Greedy",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ReadArgs/docs/ReadArgs.html#v:usageFor",
-      "description": {
-        "fct-descr": "\u003cp\u003eusageFor's argument will usually be undefined, so when defining instances of\n Arguable, it should be lazy in its argument\n\u003c/p\u003e",
-        "fct-module": "ReadArgs",
-        "fct-package": "ReadArgs",
-        "fct-signature": "a -\u003e String",
-        "fct-source": "src/ReadArgs.html#usageFor",
-        "fct-type": "method",
-        "title": "usageFor"
-      },
-      "index": {
-        "description": "usageFor argument will usually be undefined so when defining instances of Arguable it should be lazy in its argument",
-        "hierarchy": "ReadArgs",
-        "module": "ReadArgs",
-        "name": "usageFor",
-        "normalized": "a-\u003eString",
-        "package": "ReadArgs",
-        "partial": "For",
-        "signature": "a-\u003eString"
-      }
-    }
-  }
+  ]
 ]

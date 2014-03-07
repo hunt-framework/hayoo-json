@@ -1,26 +1,39 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/text-binary/docs/Data-Text-Binary.html#",
-      "description": {
-        "fct-module": "Data.Text.Binary",
-        "fct-package": "text-binary",
-        "fct-signature": "module",
-        "fct-source": "src/Data-Text-Binary.html",
-        "fct-type": "module",
-        "title": "Binary"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "text-binary"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Text Binary",
-        "module": "Data.Text.Binary",
-        "name": "Binary",
-        "normalized": "",
-        "package": "text-binary",
-        "partial": "Binary",
-        "signature": ""
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Text.Binary",
+          "name": "Binary",
+          "package": "text-binary",
+          "source": "src/Data-Text-Binary.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data Text Binary",
+          "module": "Data.Text.Binary",
+          "name": "Binary",
+          "package": "text-binary",
+          "partial": "Binary",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/text-binary/docs/Data-Text-Binary.html#"
       }
     }
-  }
+  ]
 ]

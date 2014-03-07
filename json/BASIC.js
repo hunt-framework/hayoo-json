@@ -1,2333 +1,2133 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eA simplified embedded version of original BASIC.\n Some things work, some things just give utterly mysterious type errors.\n\u003c/p\u003e\u003cp\u003eBeware, this is just a fun weekend hack.\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "module",
-        "fct-source": "src/Language-BASIC.html",
-        "fct-type": "module",
-        "title": "BASIC"
-      },
-      "index": {
-        "description": "simplified embedded version of original BASIC Some things work some things just give utterly mysterious type errors Beware this is just fun weekend hack",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "BASIC",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "BASIC",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#t:BASIC",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "type",
-        "fct-source": "src/Language-BASIC-Types.html#BASIC",
-        "fct-type": "type",
-        "title": "BASIC"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "BASIC",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "BASIC",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#t:Command",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "data",
-        "fct-source": "src/Language-BASIC-Types.html#Command",
-        "fct-type": "data",
-        "title": "Command"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "Command",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "Command",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#t:END",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "data",
-        "fct-source": "src/Language-BASIC-Parser.html#END",
-        "fct-type": "data",
-        "title": "END"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "END",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "END",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#t:Expr",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "data",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "data",
-        "title": "Expr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "Expr",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "Expr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#t:FOR",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "data",
-        "fct-source": "src/Language-BASIC-Parser.html#FOR",
-        "fct-type": "data",
-        "title": "FOR"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "FOR",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "FOR",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#t:GOTO",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "data",
-        "fct-source": "src/Language-BASIC-Parser.html#GOTO",
-        "fct-type": "data",
-        "title": "GOTO"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "GOTO",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "GOTO",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#t:IF",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "data",
-        "fct-source": "src/Language-BASIC-Parser.html#IF",
-        "fct-type": "data",
-        "title": "IF"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "IF",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "IF",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#t:INPUT",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "data",
-        "fct-source": "src/Language-BASIC-Parser.html#INPUT",
-        "fct-type": "data",
-        "title": "INPUT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "INPUT",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "INPUT",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#t:LET",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "data",
-        "fct-source": "src/Language-BASIC-Parser.html#LET",
-        "fct-type": "data",
-        "title": "LET"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "LET",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "LET",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#t:NEXT",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "data",
-        "fct-source": "src/Language-BASIC-Parser.html#NEXT",
-        "fct-type": "data",
-        "title": "NEXT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "NEXT",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "NEXT",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#t:PRINT",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "data",
-        "fct-source": "src/Language-BASIC-Parser.html#PRINT",
-        "fct-type": "data",
-        "title": "PRINT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "PRINT",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "PRINT",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#t:STEP",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "data",
-        "fct-source": "src/Language-BASIC-Parser.html#STEP",
-        "fct-type": "data",
-        "title": "STEP"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "STEP",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "STEP",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#t:THEN",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "data",
-        "fct-source": "src/Language-BASIC-Parser.html#THEN",
-        "fct-type": "data",
-        "title": "THEN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "THEN",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "THEN",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#t:TO",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "data",
-        "fct-source": "src/Language-BASIC-Parser.html#TO",
-        "fct-type": "data",
-        "title": "TO"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "TO",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "TO",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:-60-",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "Expr a -\u003e Expr a -\u003e Expr a",
-        "fct-source": "src/Language-BASIC-Parser.html#%3C",
-        "fct-type": "function",
-        "title": "(\u003c)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "(\u003c) \u003c",
-        "normalized": "Expr a-\u003eExpr a-\u003eExpr a",
-        "package": "BASIC",
-        "partial": "",
-        "signature": "Expr a-\u003eExpr a-\u003eExpr a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:-60--61-",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "Expr a -\u003e Expr a -\u003e Expr a",
-        "fct-source": "src/Language-BASIC-Parser.html#%3C%3D",
-        "fct-type": "function",
-        "title": "(\u003c=)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "(\u003c=) \u003c=",
-        "normalized": "Expr a-\u003eExpr a-\u003eExpr a",
-        "package": "BASIC",
-        "partial": "",
-        "signature": "Expr a-\u003eExpr a-\u003eExpr a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:-60--62-",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "Expr a -\u003e Expr a -\u003e Expr a",
-        "fct-source": "src/Language-BASIC-Parser.html#%3C%3E",
-        "fct-type": "function",
-        "title": "(\u003c\u003e)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "(\u003c\u003e) \u003c\u003e",
-        "normalized": "Expr a-\u003eExpr a-\u003eExpr a",
-        "package": "BASIC",
-        "partial": "",
-        "signature": "Expr a-\u003eExpr a-\u003eExpr a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:-61--61-",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "Expr a -\u003e Expr a -\u003e Expr a",
-        "fct-source": "src/Language-BASIC-Parser.html#%3D%3D",
-        "fct-type": "function",
-        "title": "(==)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "(==) ==",
-        "normalized": "Expr a-\u003eExpr a-\u003eExpr a",
-        "package": "BASIC",
-        "partial": "",
-        "signature": "Expr a-\u003eExpr a-\u003eExpr a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:-62-",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "Expr a -\u003e Expr a -\u003e Expr a",
-        "fct-source": "src/Language-BASIC-Parser.html#%3E",
-        "fct-type": "function",
-        "title": "(\u003e)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "(\u003e) \u003e",
-        "normalized": "Expr a-\u003eExpr a-\u003eExpr a",
-        "package": "BASIC",
-        "partial": "",
-        "signature": "Expr a-\u003eExpr a-\u003eExpr a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:-62--61-",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "Expr a -\u003e Expr a -\u003e Expr a",
-        "fct-source": "src/Language-BASIC-Parser.html#%3E%3D",
-        "fct-type": "function",
-        "title": "(\u003e=)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "(\u003e=) \u003e=",
-        "normalized": "Expr a-\u003eExpr a-\u003eExpr a",
-        "package": "BASIC",
-        "partial": "",
-        "signature": "Expr a-\u003eExpr a-\u003eExpr a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:-94-",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "Expr a -\u003e Expr a -\u003e Expr a",
-        "fct-source": "src/Language-BASIC-Parser.html#%5E",
-        "fct-type": "function",
-        "title": "(^)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "(^) ^",
-        "normalized": "Expr a-\u003eExpr a-\u003eExpr a",
-        "package": "BASIC",
-        "partial": "",
-        "signature": "Expr a-\u003eExpr a-\u003eExpr a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v::-61-",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "(Expr a) := (Expr a)",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": ":="
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": ":=",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:A",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "A",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "A"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "A",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:ABS",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "ABS (Expr a)",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "ABS"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "ABS",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "ABS",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:ATN",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "ATN (Expr a)",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "ATN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "ATN",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "ATN",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:B",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "B",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "B"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "B",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Binop",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "Binop (Expr a) String (Expr a)",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Binop"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "Binop",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "Binop",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:C",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "C",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "C"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "C",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:COS",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "COS (Expr a)",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "COS"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "COS",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "COS",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Cmd",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "Cmd Integer Command [Expr a]",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Cmd"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "Cmd",
-        "normalized": "Cmd Integer Command[Expr a]",
-        "package": "BASIC",
-        "partial": "Cmd",
-        "signature": "Cmd Integer Command[Expr a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:D",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "D",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "D"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "D",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Dbl",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "Dbl Double",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Dbl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "Dbl",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "Dbl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:E",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "E",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "E"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "E",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:END",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "END",
-        "fct-source": "src/Language-BASIC-Parser.html#END",
-        "fct-type": "function",
-        "title": "END"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "END",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "END",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:EXP",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "EXP (Expr a)",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "EXP"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "EXP",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "EXP",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:End",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "End",
-        "fct-source": "src/Language-BASIC-Types.html#Command",
-        "fct-type": "function",
-        "title": "End"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "End",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "End",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:F",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "F",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "F"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "F",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:FOR",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "FOR",
-        "fct-source": "src/Language-BASIC-Parser.html#FOR",
-        "fct-type": "function",
-        "title": "FOR"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "FOR",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "FOR",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:For",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "For",
-        "fct-source": "src/Language-BASIC-Types.html#Command",
-        "fct-type": "function",
-        "title": "For"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "For",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "For",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:G",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "G",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "G"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "G",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:GOSUB",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "GOSUB",
-        "fct-source": "src/Language-BASIC-Parser.html#GOTO",
-        "fct-type": "function",
-        "title": "GOSUB"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "GOSUB",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "GOSUB",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:GOTO",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "GOTO",
-        "fct-source": "src/Language-BASIC-Parser.html#GOTO",
-        "fct-type": "function",
-        "title": "GOTO"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "GOTO",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "GOTO",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Gosub",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "Gosub",
-        "fct-source": "src/Language-BASIC-Types.html#Command",
-        "fct-type": "function",
-        "title": "Gosub"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "Gosub",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "Gosub",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Goto",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "Goto",
-        "fct-source": "src/Language-BASIC-Types.html#Command",
-        "fct-type": "function",
-        "title": "Goto"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "Goto",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "Goto",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:H",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "H",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "H"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "H",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:I",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "I",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "I"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "I",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:IF",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "IF",
-        "fct-source": "src/Language-BASIC-Parser.html#IF",
-        "fct-type": "function",
-        "title": "IF"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "IF",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "IF",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:INPUT",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "INPUT",
-        "fct-source": "src/Language-BASIC-Parser.html#INPUT",
-        "fct-type": "function",
-        "title": "INPUT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "INPUT",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "INPUT",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:INT",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "INT (Expr a)",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "INT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "INT",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "INT",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:If",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "If",
-        "fct-source": "src/Language-BASIC-Types.html#Command",
-        "fct-type": "function",
-        "title": "If"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "If",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "If",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Input",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "Input",
-        "fct-source": "src/Language-BASIC-Types.html#Command",
-        "fct-type": "function",
-        "title": "Input"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "Input",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "Input",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:J",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "J",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "J"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "J",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:K",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "K",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "K"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "K",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:L",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "L",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "L"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "L",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:LET",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "LET",
-        "fct-source": "src/Language-BASIC-Parser.html#LET",
-        "fct-type": "function",
-        "title": "LET"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "LET",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "LET",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:LOG",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "LOG (Expr a)",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "LOG"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "LOG",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "LOG",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Label",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "Label Integer",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Label"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "Label",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "Label",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Let",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "Let",
-        "fct-source": "src/Language-BASIC-Types.html#Command",
-        "fct-type": "function",
-        "title": "Let"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "Let",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "Let",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:M",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "M",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "M"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "M",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:N",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "N",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "N"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "N",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:NEXT",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "NEXT",
-        "fct-source": "src/Language-BASIC-Parser.html#NEXT",
-        "fct-type": "function",
-        "title": "NEXT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "NEXT",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "NEXT",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Next",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "Next",
-        "fct-source": "src/Language-BASIC-Types.html#Command",
-        "fct-type": "function",
-        "title": "Next"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "Next",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "Next",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:None",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "None",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "None"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "None",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "None",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:O",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "O",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "O"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "O",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:P",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "P",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "P"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "P",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:PRINT",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "PRINT",
-        "fct-source": "src/Language-BASIC-Parser.html#PRINT",
-        "fct-type": "function",
-        "title": "PRINT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "PRINT",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "PRINT",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Print",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "Print",
-        "fct-source": "src/Language-BASIC-Types.html#Command",
-        "fct-type": "function",
-        "title": "Print"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "Print",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "Print",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Q",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "Q",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Q"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "Q",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:R",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "R",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "R"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "R",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:REM",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "REM",
-        "fct-source": "src/Language-BASIC-Parser.html#END",
-        "fct-type": "function",
-        "title": "REM"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "REM",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "REM",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:RETURN",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "RETURN",
-        "fct-source": "src/Language-BASIC-Parser.html#END",
-        "fct-type": "function",
-        "title": "RETURN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "RETURN",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "RETURN",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:RND",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "RND (Expr a)",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "RND"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "RND",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "RND",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Rem",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "Rem",
-        "fct-source": "src/Language-BASIC-Types.html#Command",
-        "fct-type": "function",
-        "title": "Rem"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "Rem",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "Rem",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Return",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "Return",
-        "fct-source": "src/Language-BASIC-Types.html#Command",
-        "fct-type": "function",
-        "title": "Return"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "Return",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "Return",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:S",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "S",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "S"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "S",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:SGN",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "SGN (Expr a)",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "SGN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "SGN",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "SGN",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:SIN",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "SIN (Expr a)",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "SIN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "SIN",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "SIN",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:SQR",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "SQR (Expr a)",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "SQR"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "SQR",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "SQR",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:STEP",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "STEP",
-        "fct-source": "src/Language-BASIC-Parser.html#STEP",
-        "fct-type": "function",
-        "title": "STEP"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "STEP",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "STEP",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:STOP",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "STOP",
-        "fct-source": "src/Language-BASIC-Parser.html#END",
-        "fct-type": "function",
-        "title": "STOP"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "STOP",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "STOP",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Str",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "Str String",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Str"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "Str",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "Str",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:T",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "T",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "T"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "T",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:TAN",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "TAN (Expr a)",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "TAN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "TAN",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "TAN",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:THEN",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "THEN",
-        "fct-source": "src/Language-BASIC-Parser.html#THEN",
-        "fct-type": "function",
-        "title": "THEN"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "THEN",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "THEN",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:TO",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "TO",
-        "fct-source": "src/Language-BASIC-Parser.html#TO",
-        "fct-type": "function",
-        "title": "TO"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "TO",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "TO",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:U",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "U",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "U"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "U",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:V",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "V",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "V"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "V",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Var",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "Var",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Var"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "Var",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "Var",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:W",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "W",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "W"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "W",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:X",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "X",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "X"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "X",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Y",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "Y",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Y"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "Y",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Z",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "Z",
-        "fct-source": "src/Language-BASIC-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Z"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "Z",
-        "normalized": "",
-        "package": "BASIC",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:cmdLabel",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "Expr a -\u003e Integer",
-        "fct-source": "src/Language-BASIC-Types.html#cmdLabel",
-        "fct-type": "function",
-        "title": "cmdLabel"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "cmdLabel",
-        "normalized": "Expr a-\u003eInteger",
-        "package": "BASIC",
-        "partial": "Label",
-        "signature": "Expr a-\u003eInteger"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:getBASIC",
-      "description": {
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "BASIC -\u003e [Expr ()]",
-        "fct-source": "src/Language-BASIC-Parser.html#getBASIC",
-        "fct-type": "function",
-        "title": "getBASIC"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "getBASIC",
-        "normalized": "BASIC-\u003e[Expr()]",
-        "package": "BASIC",
-        "partial": "BASIC",
-        "signature": "BASIC-\u003e[Expr()]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:runBASIC",
-      "description": {
-        "fct-descr": "\u003cp\u003eRun a BASIC program with an interpreter.\n\u003c/p\u003e",
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "BASIC -\u003e IO ()",
-        "fct-source": "src/Language-BASIC.html#runBASIC",
-        "fct-type": "function",
-        "title": "runBASIC"
-      },
-      "index": {
-        "description": "Run BASIC program with an interpreter",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "runBASIC",
-        "normalized": "BASIC-\u003eIO()",
-        "package": "BASIC",
-        "partial": "BASIC",
-        "signature": "BASIC-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:runBASIC-39-",
-      "description": {
-        "fct-descr": "\u003cp\u003eRun a BASIC program with a compiler.\n\u003c/p\u003e",
-        "fct-module": "Language.BASIC",
-        "fct-package": "BASIC",
-        "fct-signature": "BASIC -\u003e IO ()",
-        "fct-source": "src/Language-BASIC.html#runBASIC%27",
-        "fct-type": "function",
-        "title": "runBASIC'"
-      },
-      "index": {
-        "description": "Run BASIC program with compiler",
-        "hierarchy": "Language BASIC",
-        "module": "Language.BASIC",
-        "name": "runBASIC'",
-        "normalized": "BASIC-\u003eIO()",
-        "package": "BASIC",
-        "partial": "BASIC'",
-        "signature": "BASIC-\u003eIO()"
-      }
-    }
-  }
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "BASIC"
+      },
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eA simplified embedded version of original BASIC.\n Some things work, some things just give utterly mysterious type errors.\n\u003c/p\u003e\u003cp\u003eBeware, this is just a fun weekend hack.\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Language.BASIC",
+          "name": "BASIC",
+          "package": "BASIC",
+          "source": "src/Language-BASIC.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "simplified embedded version of original BASIC Some things work some things just give utterly mysterious type errors Beware this is just fun weekend hack",
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "BASIC",
+          "package": "BASIC",
+          "partial": "BASIC",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "BASIC",
+          "package": "BASIC",
+          "source": "src/Language-BASIC-Types.html#BASIC",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "BASIC",
+          "package": "BASIC",
+          "partial": "BASIC",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#t:BASIC"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "Command",
+          "package": "BASIC",
+          "source": "src/Language-BASIC-Types.html#Command",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "Command",
+          "package": "BASIC",
+          "partial": "Command",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#t:Command"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "END",
+          "package": "BASIC",
+          "source": "src/Language-BASIC-Parser.html#END",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "END",
+          "package": "BASIC",
+          "partial": "END",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#t:END"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "Expr",
+          "package": "BASIC",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "Expr",
+          "package": "BASIC",
+          "partial": "Expr",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#t:Expr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "FOR",
+          "package": "BASIC",
+          "source": "src/Language-BASIC-Parser.html#FOR",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "FOR",
+          "package": "BASIC",
+          "partial": "FOR",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#t:FOR"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "GOTO",
+          "package": "BASIC",
+          "source": "src/Language-BASIC-Parser.html#GOTO",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "GOTO",
+          "package": "BASIC",
+          "partial": "GOTO",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#t:GOTO"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "IF",
+          "package": "BASIC",
+          "source": "src/Language-BASIC-Parser.html#IF",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "IF",
+          "package": "BASIC",
+          "partial": "IF",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#t:IF"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "INPUT",
+          "package": "BASIC",
+          "source": "src/Language-BASIC-Parser.html#INPUT",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "INPUT",
+          "package": "BASIC",
+          "partial": "INPUT",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#t:INPUT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "LET",
+          "package": "BASIC",
+          "source": "src/Language-BASIC-Parser.html#LET",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "LET",
+          "package": "BASIC",
+          "partial": "LET",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#t:LET"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "NEXT",
+          "package": "BASIC",
+          "source": "src/Language-BASIC-Parser.html#NEXT",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "NEXT",
+          "package": "BASIC",
+          "partial": "NEXT",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#t:NEXT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "PRINT",
+          "package": "BASIC",
+          "source": "src/Language-BASIC-Parser.html#PRINT",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "PRINT",
+          "package": "BASIC",
+          "partial": "PRINT",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#t:PRINT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "STEP",
+          "package": "BASIC",
+          "source": "src/Language-BASIC-Parser.html#STEP",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "STEP",
+          "package": "BASIC",
+          "partial": "STEP",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#t:STEP"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "THEN",
+          "package": "BASIC",
+          "source": "src/Language-BASIC-Parser.html#THEN",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "THEN",
+          "package": "BASIC",
+          "partial": "THEN",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#t:THEN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "TO",
+          "package": "BASIC",
+          "source": "src/Language-BASIC-Parser.html#TO",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "TO",
+          "package": "BASIC",
+          "partial": "TO",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#t:TO"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "(\u003c)",
+          "package": "BASIC",
+          "signature": "Expr a -\u003e Expr a -\u003e Expr a",
+          "source": "src/Language-BASIC-Parser.html#%3C",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "(\u003c) \u003c",
+          "normalized": "Expr a-\u003eExpr a-\u003eExpr a",
+          "package": "BASIC",
+          "signature": "Expr a-\u003eExpr a-\u003eExpr a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:-60-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "(\u003c=)",
+          "package": "BASIC",
+          "signature": "Expr a -\u003e Expr a -\u003e Expr a",
+          "source": "src/Language-BASIC-Parser.html#%3C%3D",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "(\u003c=) \u003c=",
+          "normalized": "Expr a-\u003eExpr a-\u003eExpr a",
+          "package": "BASIC",
+          "signature": "Expr a-\u003eExpr a-\u003eExpr a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:-60--61-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "(\u003c\u003e)",
+          "package": "BASIC",
+          "signature": "Expr a -\u003e Expr a -\u003e Expr a",
+          "source": "src/Language-BASIC-Parser.html#%3C%3E",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "(\u003c\u003e) \u003c\u003e",
+          "normalized": "Expr a-\u003eExpr a-\u003eExpr a",
+          "package": "BASIC",
+          "signature": "Expr a-\u003eExpr a-\u003eExpr a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:-60--62-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "(==)",
+          "package": "BASIC",
+          "signature": "Expr a -\u003e Expr a -\u003e Expr a",
+          "source": "src/Language-BASIC-Parser.html#%3D%3D",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "(==) ==",
+          "normalized": "Expr a-\u003eExpr a-\u003eExpr a",
+          "package": "BASIC",
+          "signature": "Expr a-\u003eExpr a-\u003eExpr a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:-61--61-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "(\u003e)",
+          "package": "BASIC",
+          "signature": "Expr a -\u003e Expr a -\u003e Expr a",
+          "source": "src/Language-BASIC-Parser.html#%3E",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "(\u003e) \u003e",
+          "normalized": "Expr a-\u003eExpr a-\u003eExpr a",
+          "package": "BASIC",
+          "signature": "Expr a-\u003eExpr a-\u003eExpr a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:-62-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "(\u003e=)",
+          "package": "BASIC",
+          "signature": "Expr a -\u003e Expr a -\u003e Expr a",
+          "source": "src/Language-BASIC-Parser.html#%3E%3D",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "(\u003e=) \u003e=",
+          "normalized": "Expr a-\u003eExpr a-\u003eExpr a",
+          "package": "BASIC",
+          "signature": "Expr a-\u003eExpr a-\u003eExpr a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:-62--61-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "(^)",
+          "package": "BASIC",
+          "signature": "Expr a -\u003e Expr a -\u003e Expr a",
+          "source": "src/Language-BASIC-Parser.html#%5E",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "(^) ^",
+          "normalized": "Expr a-\u003eExpr a-\u003eExpr a",
+          "package": "BASIC",
+          "signature": "Expr a-\u003eExpr a-\u003eExpr a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:-94-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": ":=",
+          "package": "BASIC",
+          "signature": "(Expr a) := (Expr a)",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": ":=",
+          "package": "BASIC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v::-61-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "A",
+          "package": "BASIC",
+          "signature": "A",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "A",
+          "package": "BASIC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:A"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "ABS",
+          "package": "BASIC",
+          "signature": "ABS (Expr a)",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "ABS",
+          "package": "BASIC",
+          "partial": "ABS",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:ABS"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "ATN",
+          "package": "BASIC",
+          "signature": "ATN (Expr a)",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "ATN",
+          "package": "BASIC",
+          "partial": "ATN",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:ATN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "B",
+          "package": "BASIC",
+          "signature": "B",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "B",
+          "package": "BASIC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:B"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "Binop",
+          "package": "BASIC",
+          "signature": "Binop (Expr a) String (Expr a)",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "Binop",
+          "package": "BASIC",
+          "partial": "Binop",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Binop"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "C",
+          "package": "BASIC",
+          "signature": "C",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "C",
+          "package": "BASIC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:C"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "COS",
+          "package": "BASIC",
+          "signature": "COS (Expr a)",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "COS",
+          "package": "BASIC",
+          "partial": "COS",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:COS"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "Cmd",
+          "package": "BASIC",
+          "signature": "Cmd Integer Command [Expr a]",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "Cmd",
+          "normalized": "Cmd Integer Command[Expr a]",
+          "package": "BASIC",
+          "partial": "Cmd",
+          "signature": "Cmd Integer Command[Expr a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Cmd"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "D",
+          "package": "BASIC",
+          "signature": "D",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "D",
+          "package": "BASIC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:D"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "Dbl",
+          "package": "BASIC",
+          "signature": "Dbl Double",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "Dbl",
+          "package": "BASIC",
+          "partial": "Dbl",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Dbl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "E",
+          "package": "BASIC",
+          "signature": "E",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "E",
+          "package": "BASIC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:E"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "END",
+          "package": "BASIC",
+          "signature": "END",
+          "source": "src/Language-BASIC-Parser.html#END",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "END",
+          "package": "BASIC",
+          "partial": "END",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:END"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "EXP",
+          "package": "BASIC",
+          "signature": "EXP (Expr a)",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "EXP",
+          "package": "BASIC",
+          "partial": "EXP",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:EXP"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "End",
+          "package": "BASIC",
+          "signature": "End",
+          "source": "src/Language-BASIC-Types.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "End",
+          "package": "BASIC",
+          "partial": "End",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:End"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "F",
+          "package": "BASIC",
+          "signature": "F",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "F",
+          "package": "BASIC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:F"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "FOR",
+          "package": "BASIC",
+          "signature": "FOR",
+          "source": "src/Language-BASIC-Parser.html#FOR",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "FOR",
+          "package": "BASIC",
+          "partial": "FOR",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:FOR"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "For",
+          "package": "BASIC",
+          "signature": "For",
+          "source": "src/Language-BASIC-Types.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "For",
+          "package": "BASIC",
+          "partial": "For",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:For"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "G",
+          "package": "BASIC",
+          "signature": "G",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "G",
+          "package": "BASIC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:G"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "GOSUB",
+          "package": "BASIC",
+          "signature": "GOSUB",
+          "source": "src/Language-BASIC-Parser.html#GOTO",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "GOSUB",
+          "package": "BASIC",
+          "partial": "GOSUB",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:GOSUB"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "GOTO",
+          "package": "BASIC",
+          "signature": "GOTO",
+          "source": "src/Language-BASIC-Parser.html#GOTO",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "GOTO",
+          "package": "BASIC",
+          "partial": "GOTO",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:GOTO"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "Gosub",
+          "package": "BASIC",
+          "signature": "Gosub",
+          "source": "src/Language-BASIC-Types.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "Gosub",
+          "package": "BASIC",
+          "partial": "Gosub",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Gosub"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "Goto",
+          "package": "BASIC",
+          "signature": "Goto",
+          "source": "src/Language-BASIC-Types.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "Goto",
+          "package": "BASIC",
+          "partial": "Goto",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Goto"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "H",
+          "package": "BASIC",
+          "signature": "H",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "H",
+          "package": "BASIC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:H"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "I",
+          "package": "BASIC",
+          "signature": "I",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "I",
+          "package": "BASIC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:I"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "IF",
+          "package": "BASIC",
+          "signature": "IF",
+          "source": "src/Language-BASIC-Parser.html#IF",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "IF",
+          "package": "BASIC",
+          "partial": "IF",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:IF"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "INPUT",
+          "package": "BASIC",
+          "signature": "INPUT",
+          "source": "src/Language-BASIC-Parser.html#INPUT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "INPUT",
+          "package": "BASIC",
+          "partial": "INPUT",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:INPUT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "INT",
+          "package": "BASIC",
+          "signature": "INT (Expr a)",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "INT",
+          "package": "BASIC",
+          "partial": "INT",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:INT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "If",
+          "package": "BASIC",
+          "signature": "If",
+          "source": "src/Language-BASIC-Types.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "If",
+          "package": "BASIC",
+          "partial": "If",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:If"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "Input",
+          "package": "BASIC",
+          "signature": "Input",
+          "source": "src/Language-BASIC-Types.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "Input",
+          "package": "BASIC",
+          "partial": "Input",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Input"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "J",
+          "package": "BASIC",
+          "signature": "J",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "J",
+          "package": "BASIC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:J"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "K",
+          "package": "BASIC",
+          "signature": "K",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "K",
+          "package": "BASIC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:K"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "L",
+          "package": "BASIC",
+          "signature": "L",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "L",
+          "package": "BASIC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:L"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "LET",
+          "package": "BASIC",
+          "signature": "LET",
+          "source": "src/Language-BASIC-Parser.html#LET",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "LET",
+          "package": "BASIC",
+          "partial": "LET",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:LET"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "LOG",
+          "package": "BASIC",
+          "signature": "LOG (Expr a)",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "LOG",
+          "package": "BASIC",
+          "partial": "LOG",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:LOG"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "Label",
+          "package": "BASIC",
+          "signature": "Label Integer",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "Label",
+          "package": "BASIC",
+          "partial": "Label",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Label"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "Let",
+          "package": "BASIC",
+          "signature": "Let",
+          "source": "src/Language-BASIC-Types.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "Let",
+          "package": "BASIC",
+          "partial": "Let",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Let"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "M",
+          "package": "BASIC",
+          "signature": "M",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "M",
+          "package": "BASIC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:M"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "N",
+          "package": "BASIC",
+          "signature": "N",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "N",
+          "package": "BASIC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:N"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "NEXT",
+          "package": "BASIC",
+          "signature": "NEXT",
+          "source": "src/Language-BASIC-Parser.html#NEXT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "NEXT",
+          "package": "BASIC",
+          "partial": "NEXT",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:NEXT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "Next",
+          "package": "BASIC",
+          "signature": "Next",
+          "source": "src/Language-BASIC-Types.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "Next",
+          "package": "BASIC",
+          "partial": "Next",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Next"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "None",
+          "package": "BASIC",
+          "signature": "None",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "None",
+          "package": "BASIC",
+          "partial": "None",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:None"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "O",
+          "package": "BASIC",
+          "signature": "O",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "O",
+          "package": "BASIC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:O"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "P",
+          "package": "BASIC",
+          "signature": "P",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "P",
+          "package": "BASIC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:P"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "PRINT",
+          "package": "BASIC",
+          "signature": "PRINT",
+          "source": "src/Language-BASIC-Parser.html#PRINT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "PRINT",
+          "package": "BASIC",
+          "partial": "PRINT",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:PRINT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "Print",
+          "package": "BASIC",
+          "signature": "Print",
+          "source": "src/Language-BASIC-Types.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "Print",
+          "package": "BASIC",
+          "partial": "Print",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Print"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "Q",
+          "package": "BASIC",
+          "signature": "Q",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "Q",
+          "package": "BASIC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Q"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "R",
+          "package": "BASIC",
+          "signature": "R",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "R",
+          "package": "BASIC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:R"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "REM",
+          "package": "BASIC",
+          "signature": "REM",
+          "source": "src/Language-BASIC-Parser.html#END",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "REM",
+          "package": "BASIC",
+          "partial": "REM",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:REM"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "RETURN",
+          "package": "BASIC",
+          "signature": "RETURN",
+          "source": "src/Language-BASIC-Parser.html#END",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "RETURN",
+          "package": "BASIC",
+          "partial": "RETURN",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:RETURN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "RND",
+          "package": "BASIC",
+          "signature": "RND (Expr a)",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "RND",
+          "package": "BASIC",
+          "partial": "RND",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:RND"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "Rem",
+          "package": "BASIC",
+          "signature": "Rem",
+          "source": "src/Language-BASIC-Types.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "Rem",
+          "package": "BASIC",
+          "partial": "Rem",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Rem"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "Return",
+          "package": "BASIC",
+          "signature": "Return",
+          "source": "src/Language-BASIC-Types.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "Return",
+          "package": "BASIC",
+          "partial": "Return",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Return"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "S",
+          "package": "BASIC",
+          "signature": "S",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "S",
+          "package": "BASIC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:S"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "SGN",
+          "package": "BASIC",
+          "signature": "SGN (Expr a)",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "SGN",
+          "package": "BASIC",
+          "partial": "SGN",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:SGN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "SIN",
+          "package": "BASIC",
+          "signature": "SIN (Expr a)",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "SIN",
+          "package": "BASIC",
+          "partial": "SIN",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:SIN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "SQR",
+          "package": "BASIC",
+          "signature": "SQR (Expr a)",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "SQR",
+          "package": "BASIC",
+          "partial": "SQR",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:SQR"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "STEP",
+          "package": "BASIC",
+          "signature": "STEP",
+          "source": "src/Language-BASIC-Parser.html#STEP",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "STEP",
+          "package": "BASIC",
+          "partial": "STEP",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:STEP"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "STOP",
+          "package": "BASIC",
+          "signature": "STOP",
+          "source": "src/Language-BASIC-Parser.html#END",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "STOP",
+          "package": "BASIC",
+          "partial": "STOP",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:STOP"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "Str",
+          "package": "BASIC",
+          "signature": "Str String",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "Str",
+          "package": "BASIC",
+          "partial": "Str",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Str"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "T",
+          "package": "BASIC",
+          "signature": "T",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "T",
+          "package": "BASIC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:T"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "TAN",
+          "package": "BASIC",
+          "signature": "TAN (Expr a)",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "TAN",
+          "package": "BASIC",
+          "partial": "TAN",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:TAN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "THEN",
+          "package": "BASIC",
+          "signature": "THEN",
+          "source": "src/Language-BASIC-Parser.html#THEN",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "THEN",
+          "package": "BASIC",
+          "partial": "THEN",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:THEN"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "TO",
+          "package": "BASIC",
+          "signature": "TO",
+          "source": "src/Language-BASIC-Parser.html#TO",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "TO",
+          "package": "BASIC",
+          "partial": "TO",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:TO"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "U",
+          "package": "BASIC",
+          "signature": "U",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "U",
+          "package": "BASIC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:U"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "V",
+          "package": "BASIC",
+          "signature": "V",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "V",
+          "package": "BASIC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:V"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "Var",
+          "package": "BASIC",
+          "signature": "Var",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "Var",
+          "package": "BASIC",
+          "partial": "Var",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Var"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "W",
+          "package": "BASIC",
+          "signature": "W",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "W",
+          "package": "BASIC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:W"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "X",
+          "package": "BASIC",
+          "signature": "X",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "X",
+          "package": "BASIC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:X"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "Y",
+          "package": "BASIC",
+          "signature": "Y",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "Y",
+          "package": "BASIC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Y"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "Z",
+          "package": "BASIC",
+          "signature": "Z",
+          "source": "src/Language-BASIC-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "Z",
+          "package": "BASIC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:Z"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "cmdLabel",
+          "package": "BASIC",
+          "signature": "Expr a -\u003e Integer",
+          "source": "src/Language-BASIC-Types.html#cmdLabel",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "cmdLabel",
+          "normalized": "Expr a-\u003eInteger",
+          "package": "BASIC",
+          "partial": "Label",
+          "signature": "Expr a-\u003eInteger",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:cmdLabel"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.BASIC",
+          "name": "getBASIC",
+          "package": "BASIC",
+          "signature": "BASIC -\u003e [Expr ()]",
+          "source": "src/Language-BASIC-Parser.html#getBASIC",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "getBASIC",
+          "normalized": "BASIC-\u003e[Expr()]",
+          "package": "BASIC",
+          "partial": "BASIC",
+          "signature": "BASIC-\u003e[Expr()]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:getBASIC"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eRun a BASIC program with an interpreter.\n\u003c/p\u003e",
+          "module": "Language.BASIC",
+          "name": "runBASIC",
+          "package": "BASIC",
+          "signature": "BASIC -\u003e IO ()",
+          "source": "src/Language-BASIC.html#runBASIC",
+          "type": "function"
+        },
+        "index": {
+          "description": "Run BASIC program with an interpreter",
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "runBASIC",
+          "normalized": "BASIC-\u003eIO()",
+          "package": "BASIC",
+          "partial": "BASIC",
+          "signature": "BASIC-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:runBASIC"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eRun a BASIC program with a compiler.\n\u003c/p\u003e",
+          "module": "Language.BASIC",
+          "name": "runBASIC'",
+          "package": "BASIC",
+          "signature": "BASIC -\u003e IO ()",
+          "source": "src/Language-BASIC.html#runBASIC%27",
+          "type": "function"
+        },
+        "index": {
+          "description": "Run BASIC program with compiler",
+          "hierarchy": "Language BASIC",
+          "module": "Language.BASIC",
+          "name": "runBASIC'",
+          "normalized": "BASIC-\u003eIO()",
+          "package": "BASIC",
+          "partial": "BASIC'",
+          "signature": "BASIC-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/BASIC/docs/Language-BASIC.html#v:runBASIC-39-"
+      }
+    }
+  ]
 ]

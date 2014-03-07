@@ -1,272 +1,335 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/pipes-binary/docs/Pipes-Binary.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eThis module exports facilities that allow you to encode and decode Pipes\n streams of binary values. It builds on top of the \u003ccode\u003ebinary\u003c/code\u003e, \u003ccode\u003epipes\u003c/code\u003e and\n \u003ccode\u003epipes-parse\u003c/code\u003e libraries, and assumes you know how to use those libraries.\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Pipes.Binary",
-        "fct-package": "pipes-binary",
-        "fct-signature": "module",
-        "fct-source": "src/Pipes-Binary.html",
-        "fct-type": "module",
-        "title": "Binary"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "pipes-binary"
       },
-      "index": {
-        "description": "This module exports facilities that allow you to encode and decode Pipes streams of binary values It builds on top of the binary pipes and pipes-parse libraries and assumes you know how to use those libraries",
-        "hierarchy": "Pipes Binary",
-        "module": "Pipes.Binary",
-        "name": "Binary",
-        "normalized": "",
-        "package": "pipes-binary",
-        "partial": "Binary",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/pipes-binary/docs/Pipes-Binary.html#t:DecodingError",
-      "description": {
-        "fct-descr": "\u003cp\u003eA \u003ccode\u003e\u003ca\u003eGet\u003c/a\u003e\u003c/code\u003e decoding error, as provided by \u003ccode\u003e\u003ca\u003eFail\u003c/a\u003e\u003c/code\u003e.\n\u003c/p\u003e",
-        "fct-module": "Pipes.Binary",
-        "fct-package": "pipes-binary",
-        "fct-signature": "data",
-        "fct-source": "src/Pipes-Binary-Internal.html#DecodingError",
-        "fct-type": "data",
-        "title": "DecodingError"
-      },
-      "index": {
-        "description": "Get decoding error as provided by Fail",
-        "hierarchy": "Pipes Binary",
-        "module": "Pipes.Binary",
-        "name": "DecodingError",
-        "normalized": "",
-        "package": "pipes-binary",
-        "partial": "Decoding Error",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003e\u003ccode\u003epipes\u003c/code\u003e utilities for encoding and decoding values as byte streams\n\u003c/p\u003e\u003cp\u003eThe tutorial at the bottom of this module illustrates how to use this\n library.\n\u003c/p\u003e\u003cp\u003eIn this module, the following type synonym compatible with the \u003ccode\u003elens\u003c/code\u003e,\n \u003ccode\u003elens-family\u003c/code\u003e and \u003ccode\u003elens-family-core\u003c/code\u003e libraries is used but not exported:\n\u003c/p\u003e\u003cpre\u003e\n type Lens' a b = forall f . \u003ccode\u003e\u003ca\u003eFunctor\u003c/a\u003e\u003c/code\u003e f =\u003e (b -\u003e f b) -\u003e (a -\u003e f a)\n\u003c/pre\u003e\u003c/div\u003e",
+          "module": "Pipes.Binary",
+          "name": "Binary",
+          "package": "pipes-binary",
+          "source": "src/Pipes-Binary.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "pipes utilities for encoding and decoding values as byte streams The tutorial at the bottom of this module illustrates how to use this library In this module the following type synonym compatible with the lens lens-family and lens-family-core libraries is used but not exported type Lens forall Functor",
+          "hierarchy": "Pipes Binary",
+          "module": "Pipes.Binary",
+          "name": "Binary",
+          "package": "pipes-binary",
+          "partial": "Binary",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/pipes-binary/docs/Pipes-Binary.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eA \u003ccode\u003e\u003ca\u003eGet\u003c/a\u003e\u003c/code\u003e decoding error, as provided by \u003ccode\u003e\u003ca\u003eFail\u003c/a\u003e\u003c/code\u003e.\n\u003c/p\u003e",
+          "module": "Pipes.Binary",
+          "name": "DecodingError",
+          "package": "pipes-binary",
+          "source": "src/Pipes-Binary.html#DecodingError",
+          "type": "data"
+        },
+        "index": {
+          "description": "Get decoding error as provided by Fail",
+          "hierarchy": "Pipes Binary",
+          "module": "Pipes.Binary",
+          "name": "DecodingError",
+          "package": "pipes-binary",
+          "partial": "Decoding Error",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/pipes-binary/docs/Pipes-Binary.html#t:DecodingError"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Pipes.Binary",
+          "name": "DecodingError",
+          "package": "pipes-binary",
+          "signature": "DecodingError",
+          "source": "src/Pipes-Binary.html#DecodingError",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Pipes Binary",
+          "module": "Pipes.Binary",
+          "name": "DecodingError",
+          "package": "pipes-binary",
+          "partial": "Decoding Error",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/pipes-binary/docs/Pipes-Binary.html#v:DecodingError"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eNumber of bytes consumed before the error\n\u003c/p\u003e",
+          "module": "Pipes.Binary",
+          "name": "deConsumed",
+          "package": "pipes-binary",
+          "signature": "ByteOffset",
+          "source": "src/Pipes-Binary.html#DecodingError",
+          "type": "function"
+        },
+        "index": {
+          "description": "Number of bytes consumed before the error",
+          "hierarchy": "Pipes Binary",
+          "module": "Pipes.Binary",
+          "name": "deConsumed",
+          "package": "pipes-binary",
+          "partial": "Consumed",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/pipes-binary/docs/Pipes-Binary.html#v:deConsumed"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eError message\n\u003c/p\u003e",
+          "module": "Pipes.Binary",
+          "name": "deMessage",
+          "package": "pipes-binary",
+          "signature": "String",
+          "source": "src/Pipes-Binary.html#DecodingError",
+          "type": "function"
+        },
+        "index": {
+          "description": "Error message",
+          "hierarchy": "Pipes Binary",
+          "module": "Pipes.Binary",
+          "name": "deMessage",
+          "package": "pipes-binary",
+          "partial": "Message",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/pipes-binary/docs/Pipes-Binary.html#v:deMessage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eParse a value from a byte stream.\n\u003c/p\u003e",
+          "module": "Pipes.Binary",
+          "name": "decode",
+          "package": "pipes-binary",
+          "signature": "Parser ByteString m (Either DecodingError a)",
+          "source": "src/Pipes-Binary.html#decode",
+          "type": "function"
+        },
+        "index": {
+          "description": "Parse value from byte stream",
+          "hierarchy": "Pipes Binary",
+          "module": "Pipes.Binary",
+          "name": "decode",
+          "package": "pipes-binary",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/pipes-binary/docs/Pipes-Binary.html#v:decode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eLike \u003ccode\u003e\u003ca\u003edecode\u003c/a\u003e\u003c/code\u003e, except this requires an explicit \u003ccode\u003e\u003ca\u003eGet\u003c/a\u003e\u003c/code\u003e instead of any\n \u003ccode\u003e\u003ca\u003eBinary\u003c/a\u003e\u003c/code\u003e instance.\n\u003c/p\u003e",
+          "module": "Pipes.Binary",
+          "name": "decodeGet",
+          "package": "pipes-binary",
+          "signature": "Get a -\u003e Parser ByteString m (Either DecodingError a)",
+          "source": "src/Pipes-Binary.html#decodeGet",
+          "type": "function"
+        },
+        "index": {
+          "description": "Like decode except this requires an explicit Get instead of any Binary instance",
+          "hierarchy": "Pipes Binary",
+          "module": "Pipes.Binary",
+          "name": "decodeGet",
+          "normalized": "Get a-\u003eParser ByteString b(Either DecodingError a)",
+          "package": "pipes-binary",
+          "partial": "Get",
+          "signature": "Get a-\u003eParser ByteString m(Either DecodingError a)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/pipes-binary/docs/Pipes-Binary.html#v:decodeGet"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eLike \u003ccode\u003e\u003ca\u003edecodeL\u003c/a\u003e\u003c/code\u003e, except this requires an explicit \u003ccode\u003e\u003ca\u003eGet\u003c/a\u003e\u003c/code\u003e instead of any\n \u003ccode\u003e\u003ca\u003eBinary\u003c/a\u003e\u003c/code\u003e instance.\n\u003c/p\u003e",
+          "module": "Pipes.Binary",
+          "name": "decodeGetL",
+          "package": "pipes-binary",
+          "signature": "Get a -\u003e Parser ByteString m (Either DecodingError (ByteOffset, a))",
+          "source": "src/Pipes-Binary.html#decodeGetL",
+          "type": "function"
+        },
+        "index": {
+          "description": "Like decodeL except this requires an explicit Get instead of any Binary instance",
+          "hierarchy": "Pipes Binary",
+          "module": "Pipes.Binary",
+          "name": "decodeGetL",
+          "normalized": "Get a-\u003eParser ByteString b(Either DecodingError(ByteOffset,a))",
+          "package": "pipes-binary",
+          "partial": "Get",
+          "signature": "Get a-\u003eParser ByteString m(Either DecodingError(ByteOffset,a))",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/pipes-binary/docs/Pipes-Binary.html#v:decodeGetL"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eLike \u003ccode\u003e\u003ca\u003edecode\u003c/a\u003e\u003c/code\u003e, but also returns the length of input consumed in order to\n to decode the value.\n\u003c/p\u003e",
+          "module": "Pipes.Binary",
+          "name": "decodeL",
+          "package": "pipes-binary",
+          "signature": "Parser ByteString m (Either DecodingError (ByteOffset, a))",
+          "source": "src/Pipes-Binary.html#decodeL",
+          "type": "function"
+        },
+        "index": {
+          "description": "Like decode but also returns the length of input consumed in order to to decode the value",
+          "hierarchy": "Pipes Binary",
+          "module": "Pipes.Binary",
+          "name": "decodeL",
+          "normalized": "Parser ByteString a(Either DecodingError(ByteOffset,b))",
+          "package": "pipes-binary",
+          "signature": "Parser ByteString m(Either DecodingError(ByteOffset,a))",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/pipes-binary/docs/Pipes-Binary.html#v:decodeL"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003e\u003cem\u003eImproper lens\u003c/em\u003e that turns a stream of bytes into a stream of decoded\n values.\n\u003c/p\u003e\u003cp\u003eBy \u003cem\u003eimproper lens\u003c/em\u003e we mean that in practice you can't expect the\n \u003cem\u003eMonad Morphism Laws\u003c/em\u003e to be true when using \u003ccode\u003e\u003ca\u003edecoded\u003c/a\u003e\u003c/code\u003e with\n \u003ccode\u003e\u003ca\u003ezoom\u003c/a\u003e\u003c/code\u003e.\n\u003c/p\u003e\u003cpre\u003e\n \u003ccode\u003e\u003ca\u003ezoom\u003c/a\u003e\u003c/code\u003e \u003ccode\u003e\u003ca\u003edecoded\u003c/a\u003e\u003c/code\u003e (\u003ccode\u003e\u003ca\u003ereturn\u003c/a\u003e\u003c/code\u003e r) /= \u003ccode\u003e\u003ca\u003ereturn\u003c/a\u003e\u003c/code\u003e r\n \u003ccode\u003e\u003ca\u003ezoom\u003c/a\u003e\u003c/code\u003e \u003ccode\u003e\u003ca\u003edecoded\u003c/a\u003e\u003c/code\u003e (m \u003e\u003e= k)  /= \u003ccode\u003e\u003ca\u003ezoom\u003c/a\u003e\u003c/code\u003e m \u003e\u003e= \u003ccode\u003e\u003ca\u003ezoom\u003c/a\u003e\u003c/code\u003e . f\n\u003c/pre\u003e",
+          "module": "Pipes.Binary",
+          "name": "decoded",
+          "package": "pipes-binary",
+          "signature": "Lens' (Producer ByteString m r) (Producer a m (Either (DecodingError, Producer ByteString m r) r))",
+          "source": "src/Pipes-Binary.html#decoded",
+          "type": "function"
+        },
+        "index": {
+          "description": "Improper lens that turns stream of bytes into stream of decoded values By improper lens we mean that in practice you can expect the Monad Morphism Laws to be true when using decoded with zoom zoom decoded return return zoom decoded zoom zoom",
+          "hierarchy": "Pipes Binary",
+          "module": "Pipes.Binary",
+          "name": "decoded",
+          "normalized": "Lens'(Producer ByteString a b)(Producer c a(Either(DecodingError,Producer ByteString a b)b))",
+          "package": "pipes-binary",
+          "signature": "Lens'(Producer ByteString m r)(Producer a m(Either(DecodingError,Producer ByteString m r)r))",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/pipes-binary/docs/Pipes-Binary.html#v:decoded"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eLike \u003ccode\u003e\u003ca\u003edecoded\u003c/a\u003e\u003c/code\u003e, except this tags each decoded value with the length of\n input consumed in order to decode it.\n\u003c/p\u003e",
+          "module": "Pipes.Binary",
+          "name": "decodedL",
+          "package": "pipes-binary",
+          "signature": "Lens' (Producer ByteString m r) (Producer (ByteOffset, a) m (Either (DecodingError, Producer ByteString m r) r))",
+          "source": "src/Pipes-Binary.html#decodedL",
+          "type": "function"
+        },
+        "index": {
+          "description": "Like decoded except this tags each decoded value with the length of input consumed in order to decode it",
+          "hierarchy": "Pipes Binary",
+          "module": "Pipes.Binary",
+          "name": "decodedL",
+          "normalized": "Lens'(Producer ByteString a b)(Producer(ByteOffset,c)a(Either(DecodingError,Producer ByteString a b)b))",
+          "package": "pipes-binary",
+          "signature": "Lens'(Producer ByteString m r)(Producer(ByteOffset,a)m(Either(DecodingError,Producer ByteString m r)r))",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/pipes-binary/docs/Pipes-Binary.html#v:decodedL"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eConvert a value to a byte stream.\n\u003c/p\u003e\u003cp\u003eKeep in mind that a single encode value might be split into many \u003ccode\u003e\u003ca\u003eByteString\u003c/a\u003e\u003c/code\u003e\n chunks, that is, the lenght of the obtained \u003ccode\u003e\u003ca\u003eProducer\u003c/a\u003e\u003c/code\u003e might be greater than\n 1.\n\u003c/p\u003e\u003cp\u003e\u003cem\u003eHint:\u003c/em\u003e You can easily turn this \u003ccode\u003e\u003ca\u003eProducer'\u003c/a\u003e\u003c/code\u003e into a \u003ccode\u003e\u003ca\u003ePipe\u003c/a\u003e\u003c/code\u003e that encodes\n \u003ccode\u003e\u003ca\u003eBinary\u003c/a\u003e\u003c/code\u003e instances as they flow downstream using:\n\u003c/p\u003e\u003cpre\u003e\n \u003ccode\u003e\u003ca\u003efor\u003c/a\u003e\u003c/code\u003e \u003ccode\u003e\u003ca\u003ecat\u003c/a\u003e\u003c/code\u003e \u003ccode\u003e\u003ca\u003eencode\u003c/a\u003e\u003c/code\u003e :: (\u003ccode\u003e\u003ca\u003eMonad\u003c/a\u003e\u003c/code\u003e m, \u003ccode\u003e\u003ca\u003eBinary\u003c/a\u003e\u003c/code\u003e a) =\u003e \u003ccode\u003e\u003ca\u003ePipe\u003c/a\u003e\u003c/code\u003e a \u003ccode\u003e\u003ca\u003eByteString\u003c/a\u003e\u003c/code\u003e m r\n\u003c/pre\u003e",
+          "module": "Pipes.Binary",
+          "name": "encode",
+          "package": "pipes-binary",
+          "signature": "a -\u003e Producer' ByteString m ()",
+          "source": "src/Pipes-Binary.html#encode",
+          "type": "function"
+        },
+        "index": {
+          "description": "Convert value to byte stream Keep in mind that single encode value might be split into many ByteString chunks that is the lenght of the obtained Producer might be greater than Hint You can easily turn this Producer into Pipe that encodes Binary instances as they flow downstream using for cat encode Monad Binary Pipe ByteString",
+          "hierarchy": "Pipes Binary",
+          "module": "Pipes.Binary",
+          "name": "encode",
+          "normalized": "a-\u003eProducer' ByteString b()",
+          "package": "pipes-binary",
+          "signature": "a-\u003eProducer' ByteString m()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/pipes-binary/docs/Pipes-Binary.html#v:encode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eLike \u003ccode\u003e\u003ca\u003eencode\u003c/a\u003e\u003c/code\u003e, except this uses an explicit \u003ccode\u003e\u003ca\u003ePut\u003c/a\u003e\u003c/code\u003e.\n\u003c/p\u003e",
+          "module": "Pipes.Binary",
+          "name": "encodePut",
+          "package": "pipes-binary",
+          "signature": "Put -\u003e Producer' ByteString m ()",
+          "source": "src/Pipes-Binary.html#encodePut",
+          "type": "function"
+        },
+        "index": {
+          "description": "Like encode except this uses an explicit Put",
+          "hierarchy": "Pipes Binary",
+          "module": "Pipes.Binary",
+          "name": "encodePut",
+          "normalized": "Put-\u003eProducer' ByteString a()",
+          "package": "pipes-binary",
+          "partial": "Put",
+          "signature": "Put-\u003eProducer' ByteString m()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/pipes-binary/docs/Pipes-Binary.html#v:encodePut"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/pipes-binary/docs/Pipes-Binary.html#v:DecodingError",
-      "description": {
-        "fct-module": "Pipes.Binary",
-        "fct-package": "pipes-binary",
-        "fct-signature": "DecodingError",
-        "fct-source": "src/Pipes-Binary-Internal.html#DecodingError",
-        "fct-type": "function",
-        "title": "DecodingError"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Pipes Binary",
-        "module": "Pipes.Binary",
-        "name": "DecodingError",
-        "normalized": "",
-        "package": "pipes-binary",
-        "partial": "Decoding Error",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/pipes-binary/docs/Pipes-Binary.html#v:decode",
-      "description": {
-        "fct-descr": "\u003cp\u003eTry to decode leading output from the underlying \u003ccode\u003e\u003ca\u003eProducer\u003c/a\u003e\u003c/code\u003e into a\n \u003ccode\u003e\u003ca\u003eBinary\u003c/a\u003e\u003c/code\u003e instance, returning either a \u003ccode\u003e\u003ca\u003eDecodingError\u003c/a\u003e\u003c/code\u003e on failure, or a\n pair with the decoded entity together with the number of bytes consumed in\n order to produce it.\n\u003c/p\u003e\u003cp\u003e\u003cem\u003eDo not\u003c/em\u003e use this function if \u003ccode\u003e\u003ca\u003eisEndOfBytes\u003c/a\u003e\u003c/code\u003e returns \u003ccode\u003e\u003ca\u003eTrue\u003c/a\u003e\u003c/code\u003e, otherwise you\n may get unexpected decoding errors.\n\u003c/p\u003e",
-        "fct-module": "Pipes.Binary",
-        "fct-package": "pipes-binary",
-        "fct-signature": "StateT (Producer ByteString m r) m (Either DecodingError (ByteOffset, b))",
-        "fct-type": "function",
-        "title": "decode"
-      },
-      "index": {
-        "description": "Try to decode leading output from the underlying Producer into Binary instance returning either DecodingError on failure or pair with the decoded entity together with the number of bytes consumed in order to produce it Do not use this function if isEndOfBytes returns True otherwise you may get unexpected decoding errors",
-        "hierarchy": "Pipes Binary",
-        "module": "Pipes.Binary",
-        "name": "decode",
-        "normalized": "StateT(Producer ByteString a b)a(Either DecodingError(ByteOffset,c))",
-        "package": "pipes-binary",
-        "partial": "",
-        "signature": "StateT(Producer ByteString m r)m(Either DecodingError(ByteOffset,b))"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/pipes-binary/docs/Pipes-Binary.html#v:decodeGet",
-      "description": {
-        "fct-descr": "\u003cp\u003eLike \u003ccode\u003e\u003ca\u003edecode\u003c/a\u003e\u003c/code\u003e, except it takes an explicit \u003ccode\u003e\u003ca\u003eGet\u003c/a\u003e\u003c/code\u003e monad.\n\u003c/p\u003e",
-        "fct-module": "Pipes.Binary",
-        "fct-package": "pipes-binary",
-        "fct-signature": "Get b-\u003e StateT (Producer ByteString m r) m (Either DecodingError (ByteOffset, b))",
-        "fct-type": "function",
-        "title": "decodeGet"
-      },
-      "index": {
-        "description": "Like decode except it takes an explicit Get monad",
-        "hierarchy": "Pipes Binary",
-        "module": "Pipes.Binary",
-        "name": "decodeGet",
-        "normalized": "Get a-\u003eStateT(Producer ByteString b c)b(Either DecodingError(ByteOffset,a))",
-        "package": "pipes-binary",
-        "partial": "Get",
-        "signature": "Get b-\u003eStateT(Producer ByteString m r)m(Either DecodingError(ByteOffset,b))"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/pipes-binary/docs/Pipes-Binary.html#v:decodeGetMany",
-      "description": {
-        "fct-descr": "\u003cp\u003eLike \u003ccode\u003e\u003ca\u003edecodeMany\u003c/a\u003e\u003c/code\u003e, except it takes an explicit \u003ccode\u003e\u003ca\u003eGet\u003c/a\u003e\u003c/code\u003e monad.\n\u003c/p\u003e",
-        "fct-module": "Pipes.Binary",
-        "fct-package": "pipes-binary",
-        "fct-signature": "Get b-\u003e Producer ByteString m r-\u003e Producer' (ByteOffset, b) m (Either (DecodingError, Producer ByteString m r) r)",
-        "fct-type": "function",
-        "title": "decodeGetMany"
-      },
-      "index": {
-        "description": "Like decodeMany except it takes an explicit Get monad",
-        "hierarchy": "Pipes Binary",
-        "module": "Pipes.Binary",
-        "name": "decodeGetMany",
-        "normalized": "Get a-\u003eProducer ByteString b c-\u003eProducer'(ByteOffset,a)b(Either(DecodingError,Producer ByteString b c)c)",
-        "package": "pipes-binary",
-        "partial": "Get Many",
-        "signature": "Get b-\u003eProducer ByteString m r-\u003eProducer'(ByteOffset,b)m(Either(DecodingError,Producer ByteString m r)r)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/pipes-binary/docs/Pipes-Binary.html#v:decodeMany",
-      "description": {
-        "fct-descr": "\u003cp\u003eContinuously decode output from the given \u003ccode\u003e\u003ca\u003eProducer\u003c/a\u003e\u003c/code\u003e into a \u003ccode\u003e\u003ca\u003eBinary\u003c/a\u003e\u003c/code\u003e\n instance, sending downstream pairs of each successfully decoded entity\n together with the number of bytes consumed in order to produce it.\n\u003c/p\u003e\u003cp\u003eThis \u003ccode\u003e\u003ca\u003eProducer\u003c/a\u003e\u003c/code\u003e runs until it either runs out of input or a decoding\n failure occurs, in which case it returns \u003ccode\u003e\u003ca\u003eLeft\u003c/a\u003e\u003c/code\u003e with a \u003ccode\u003e\u003ca\u003eDecodingError\u003c/a\u003e\u003c/code\u003e and\n a \u003ccode\u003e\u003ca\u003eProducer\u003c/a\u003e\u003c/code\u003e with any leftovers. You can use \u003ccode\u003e\u003ca\u003eerrorP\u003c/a\u003e\u003c/code\u003e to turn the \u003ccode\u003e\u003ca\u003eEither\u003c/a\u003e\u003c/code\u003e\n return value into an \u003ccode\u003e\u003ca\u003eErrorT\u003c/a\u003e\u003c/code\u003e monad transformer.\n\u003c/p\u003e",
-        "fct-module": "Pipes.Binary",
-        "fct-package": "pipes-binary",
-        "fct-signature": "Producer ByteString m r-\u003e Producer' (ByteOffset, b) m (Either (DecodingError, Producer ByteString m r) r)",
-        "fct-type": "function",
-        "title": "decodeMany"
-      },
-      "index": {
-        "description": "Continuously decode output from the given Producer into Binary instance sending downstream pairs of each successfully decoded entity together with the number of bytes consumed in order to produce it This Producer runs until it either runs out of input or decoding failure occurs in which case it returns Left with DecodingError and Producer with any leftovers You can use errorP to turn the Either return value into an ErrorT monad transformer",
-        "hierarchy": "Pipes Binary",
-        "module": "Pipes.Binary",
-        "name": "decodeMany",
-        "normalized": "Producer ByteString a b-\u003eProducer'(ByteOffset,c)a(Either(DecodingError,Producer ByteString a b)b)",
-        "package": "pipes-binary",
-        "partial": "Many",
-        "signature": "Producer ByteString m r-\u003eProducer'(ByteOffset,b)m(Either(DecodingError,Producer ByteString m r)r)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/pipes-binary/docs/Pipes-Binary.html#v:encode",
-      "description": {
-        "fct-descr": "\u003cp\u003eEncodes the given \u003ccode\u003e\u003ca\u003eBinary\u003c/a\u003e\u003c/code\u003e instance and sends it downstream in\n \u003ccode\u003e\u003ca\u003eByteString\u003c/a\u003e\u003c/code\u003e chunks.\n\u003c/p\u003e\u003cp\u003eHint: You can easily turn this \u003ccode\u003e\u003ca\u003eProducer'\u003c/a\u003e\u003c/code\u003e into a \u003ccode\u003e\u003ca\u003ePipe\u003c/a\u003e\u003c/code\u003e that encodes\n \u003ccode\u003e\u003ca\u003eBinary\u003c/a\u003e\u003c/code\u003e instances as they flow downstream using:\n\u003c/p\u003e\u003cpre\u003e\n \u003ccode\u003e\u003ca\u003efor\u003c/a\u003e\u003c/code\u003e \u003ccode\u003e\u003ca\u003ecat\u003c/a\u003e\u003c/code\u003e \u003ccode\u003e\u003ca\u003eencode\u003c/a\u003e\u003c/code\u003e :: (\u003ccode\u003e\u003ca\u003eMonad\u003c/a\u003e\u003c/code\u003e m, \u003ccode\u003e\u003ca\u003eBinary\u003c/a\u003e\u003c/code\u003e a) =\u003e \u003ccode\u003e\u003ca\u003ePipe\u003c/a\u003e\u003c/code\u003e a \u003ccode\u003e\u003ca\u003eByteString\u003c/a\u003e\u003c/code\u003e m r\n\u003c/pre\u003e",
-        "fct-module": "Pipes.Binary",
-        "fct-package": "pipes-binary",
-        "fct-signature": "x -\u003e Producer' ByteString m ()",
-        "fct-source": "src/Pipes-Binary.html#encode",
-        "fct-type": "function",
-        "title": "encode"
-      },
-      "index": {
-        "description": "Encodes the given Binary instance and sends it downstream in ByteString chunks Hint You can easily turn this Producer into Pipe that encodes Binary instances as they flow downstream using for cat encode Monad Binary Pipe ByteString",
-        "hierarchy": "Pipes Binary",
-        "module": "Pipes.Binary",
-        "name": "encode",
-        "normalized": "a-\u003eProducer' ByteString b()",
-        "package": "pipes-binary",
-        "partial": "",
-        "signature": "x-\u003eProducer' ByteString m()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/pipes-binary/docs/Pipes-Binary.html#v:encodePut",
-      "description": {
-        "fct-descr": "\u003cp\u003eLike \u003ccode\u003e\u003ca\u003eencode\u003c/a\u003e\u003c/code\u003e, except it takes an explicit \u003ccode\u003e\u003ca\u003ePut\u003c/a\u003e\u003c/code\u003e monad.\n\u003c/p\u003e",
-        "fct-module": "Pipes.Binary",
-        "fct-package": "pipes-binary",
-        "fct-signature": "Put -\u003e Producer' ByteString m ()",
-        "fct-source": "src/Pipes-Binary.html#encodePut",
-        "fct-type": "function",
-        "title": "encodePut"
-      },
-      "index": {
-        "description": "Like encode except it takes an explicit Put monad",
-        "hierarchy": "Pipes Binary",
-        "module": "Pipes.Binary",
-        "name": "encodePut",
-        "normalized": "Put-\u003eProducer' ByteString a()",
-        "package": "pipes-binary",
-        "partial": "Put",
-        "signature": "Put-\u003eProducer' ByteString m()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/pipes-binary/docs/Pipes-Binary.html#v:peConsumed",
-      "description": {
-        "fct-descr": "\u003cp\u003eNumber of bytes consumed before the error.\n\u003c/p\u003e",
-        "fct-module": "Pipes.Binary",
-        "fct-package": "pipes-binary",
-        "fct-signature": "ByteOffset",
-        "fct-source": "src/Pipes-Binary-Internal.html#DecodingError",
-        "fct-type": "function",
-        "title": "peConsumed"
-      },
-      "index": {
-        "description": "Number of bytes consumed before the error",
-        "hierarchy": "Pipes Binary",
-        "module": "Pipes.Binary",
-        "name": "peConsumed",
-        "normalized": "",
-        "package": "pipes-binary",
-        "partial": "Consumed",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/pipes-binary/docs/Pipes-Binary.html#v:peMessage",
-      "description": {
-        "fct-descr": "\u003cp\u003eError message.\n\u003c/p\u003e",
-        "fct-module": "Pipes.Binary",
-        "fct-package": "pipes-binary",
-        "fct-signature": "String",
-        "fct-source": "src/Pipes-Binary-Internal.html#DecodingError",
-        "fct-type": "function",
-        "title": "peMessage"
-      },
-      "index": {
-        "description": "Error message",
-        "hierarchy": "Pipes Binary",
-        "module": "Pipes.Binary",
-        "name": "peMessage",
-        "normalized": "",
-        "package": "pipes-binary",
-        "partial": "Message",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

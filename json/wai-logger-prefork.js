@@ -1,365 +1,351 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-logger-prefork/docs/Network-Wai-Logger-Prefork.html#",
-      "description": {
-        "fct-module": "Network.Wai.Logger.Prefork",
-        "fct-package": "wai-logger-prefork",
-        "fct-signature": "module",
-        "fct-source": "src/Network-Wai-Logger-Prefork.html",
-        "fct-type": "module",
-        "title": "Prefork"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "wai-logger-prefork"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Wai Logger Prefork",
-        "module": "Network.Wai.Logger.Prefork",
-        "name": "Prefork",
-        "normalized": "",
-        "package": "wai-logger-prefork",
-        "partial": "Prefork",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-logger-prefork/docs/Network-Wai-Logger-Prefork.html#t:FileLogSpec",
-      "description": {
-        "fct-descr": "\u003cp\u003eThe spec for logging files\n\u003c/p\u003e",
-        "fct-module": "Network.Wai.Logger.Prefork",
-        "fct-package": "wai-logger-prefork",
-        "fct-signature": "data",
-        "fct-type": "data",
-        "title": "FileLogSpec"
-      },
-      "index": {
-        "description": "The spec for logging files",
-        "hierarchy": "Network Wai Logger Prefork",
-        "module": "Network.Wai.Logger.Prefork",
-        "name": "FileLogSpec",
-        "normalized": "",
-        "package": "wai-logger-prefork",
-        "partial": "File Log Spec",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Wai.Logger.Prefork",
+          "name": "Prefork",
+          "package": "wai-logger-prefork",
+          "source": "src/Network-Wai-Logger-Prefork.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Network Wai Logger Prefork",
+          "module": "Network.Wai.Logger.Prefork",
+          "name": "Prefork",
+          "package": "wai-logger-prefork",
+          "partial": "Prefork",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-logger-prefork/docs/Network-Wai-Logger-Prefork.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eThe spec for logging files\n\u003c/p\u003e",
+          "module": "Network.Wai.Logger.Prefork",
+          "name": "FileLogSpec",
+          "package": "wai-logger-prefork",
+          "type": "data"
+        },
+        "index": {
+          "description": "The spec for logging files",
+          "hierarchy": "Network Wai Logger Prefork",
+          "module": "Network.Wai.Logger.Prefork",
+          "name": "FileLogSpec",
+          "package": "wai-logger-prefork",
+          "partial": "File Log Spec",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-logger-prefork/docs/Network-Wai-Logger-Prefork.html#t:FileLogSpec"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Wai.Logger.Prefork",
+          "name": "LogController",
+          "package": "wai-logger-prefork",
+          "source": "src/Network-Wai-Logger-Prefork-Types.html#LogController",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Network Wai Logger Prefork",
+          "module": "Network.Wai.Logger.Prefork",
+          "name": "LogController",
+          "package": "wai-logger-prefork",
+          "partial": "Log Controller",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-logger-prefork/docs/Network-Wai-Logger-Prefork.html#t:LogController"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Wai.Logger.Prefork",
+          "name": "LogFlusher",
+          "package": "wai-logger-prefork",
+          "source": "src/Network-Wai-Logger-Prefork-File.html#LogFlusher",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Network Wai Logger Prefork",
+          "module": "Network.Wai.Logger.Prefork",
+          "name": "LogFlusher",
+          "package": "wai-logger-prefork",
+          "partial": "Log Flusher",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-logger-prefork/docs/Network-Wai-Logger-Prefork.html#t:LogFlusher"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Wai.Logger.Prefork",
+          "name": "LogType",
+          "package": "wai-logger-prefork",
+          "source": "src/Network-Wai-Logger-Prefork-Types.html#LogType",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Network Wai Logger Prefork",
+          "module": "Network.Wai.Logger.Prefork",
+          "name": "LogType",
+          "package": "wai-logger-prefork",
+          "partial": "Log Type",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-logger-prefork/docs/Network-Wai-Logger-Prefork.html#t:LogType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Wai.Logger.Prefork",
+          "name": "FileLogSpec",
+          "package": "wai-logger-prefork",
+          "signature": "FileLogSpec",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network Wai Logger Prefork",
+          "module": "Network.Wai.Logger.Prefork",
+          "name": "FileLogSpec",
+          "package": "wai-logger-prefork",
+          "partial": "File Log Spec",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-logger-prefork/docs/Network-Wai-Logger-Prefork.html#v:FileLogSpec"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003e\u003ccode\u003e\u003ca\u003eSignal\u003c/a\u003e\u003c/code\u003e is used to tell child processes to reopen a log file.\n\u003c/p\u003e",
+          "module": "Network.Wai.Logger.Prefork",
+          "name": "LogFile",
+          "package": "wai-logger-prefork",
+          "signature": "LogFile FileLogSpec Signal",
+          "source": "src/Network-Wai-Logger-Prefork-Types.html#LogType",
+          "type": "function"
+        },
+        "index": {
+          "description": "Signal is used to tell child processes to reopen log file",
+          "hierarchy": "Network Wai Logger Prefork",
+          "module": "Network.Wai.Logger.Prefork",
+          "name": "LogFile",
+          "package": "wai-logger-prefork",
+          "partial": "Log File",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-logger-prefork/docs/Network-Wai-Logger-Prefork.html#v:LogFile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Wai.Logger.Prefork",
+          "name": "LogNone",
+          "package": "wai-logger-prefork",
+          "signature": "LogNone",
+          "source": "src/Network-Wai-Logger-Prefork-Types.html#LogType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network Wai Logger Prefork",
+          "module": "Network.Wai.Logger.Prefork",
+          "name": "LogNone",
+          "package": "wai-logger-prefork",
+          "partial": "Log None",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-logger-prefork/docs/Network-Wai-Logger-Prefork.html#v:LogNone"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Wai.Logger.Prefork",
+          "name": "LogStdout",
+          "package": "wai-logger-prefork",
+          "signature": "LogStdout",
+          "source": "src/Network-Wai-Logger-Prefork-Types.html#LogType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network Wai Logger Prefork",
+          "module": "Network.Wai.Logger.Prefork",
+          "name": "LogStdout",
+          "package": "wai-logger-prefork",
+          "partial": "Log Stdout",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-logger-prefork/docs/Network-Wai-Logger-Prefork.html#v:LogStdout"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eChecking if a log file can be written if \u003ccode\u003e\u003ca\u003eLogType\u003c/a\u003e\u003c/code\u003e is \u003ccode\u003e\u003ca\u003eLogFile\u003c/a\u003e\u003c/code\u003e.\n\u003c/p\u003e",
+          "module": "Network.Wai.Logger.Prefork",
+          "name": "logCheck",
+          "package": "wai-logger-prefork",
+          "signature": "LogType -\u003e IO ()",
+          "source": "src/Network-Wai-Logger-Prefork.html#logCheck",
+          "type": "function"
+        },
+        "index": {
+          "description": "Checking if log file can be written if LogType is LogFile",
+          "hierarchy": "Network Wai Logger Prefork",
+          "module": "Network.Wai.Logger.Prefork",
+          "name": "logCheck",
+          "normalized": "LogType-\u003eIO()",
+          "package": "wai-logger-prefork",
+          "partial": "Check",
+          "signature": "LogType-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-logger-prefork/docs/Network-Wai-Logger-Prefork.html#v:logCheck"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eCreating a log controller against child processes.\n\u003c/p\u003e",
+          "module": "Network.Wai.Logger.Prefork",
+          "name": "logController",
+          "package": "wai-logger-prefork",
+          "signature": "LogType -\u003e LogController",
+          "source": "src/Network-Wai-Logger-Prefork.html#logController",
+          "type": "function"
+        },
+        "index": {
+          "description": "Creating log controller against child processes",
+          "hierarchy": "Network Wai Logger Prefork",
+          "module": "Network.Wai.Logger.Prefork",
+          "name": "logController",
+          "normalized": "LogType-\u003eLogController",
+          "package": "wai-logger-prefork",
+          "partial": "Controller",
+          "signature": "LogType-\u003eLogController",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-logger-prefork/docs/Network-Wai-Logger-Prefork.html#v:logController"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eCreating \u003ccode\u003e\u003ca\u003eApacheLogger\u003c/a\u003e\u003c/code\u003e according to \u003ccode\u003e\u003ca\u003eLogType\u003c/a\u003e\u003c/code\u003e.\n\u003c/p\u003e",
+          "module": "Network.Wai.Logger.Prefork",
+          "name": "logInit",
+          "package": "wai-logger-prefork",
+          "signature": "IPAddrSource -\u003e LogType -\u003e IO (ApacheLogger, LogFlusher)",
+          "source": "src/Network-Wai-Logger-Prefork.html#logInit",
+          "type": "function"
+        },
+        "index": {
+          "description": "Creating ApacheLogger according to LogType",
+          "hierarchy": "Network Wai Logger Prefork",
+          "module": "Network.Wai.Logger.Prefork",
+          "name": "logInit",
+          "normalized": "IPAddrSource-\u003eLogType-\u003eIO(ApacheLogger,LogFlusher)",
+          "package": "wai-logger-prefork",
+          "partial": "Init",
+          "signature": "IPAddrSource-\u003eLogType-\u003eIO(ApacheLogger,LogFlusher)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-logger-prefork/docs/Network-Wai-Logger-Prefork.html#v:logInit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Wai.Logger.Prefork",
+          "name": "log_backup_number",
+          "package": "wai-logger-prefork",
+          "signature": "Int",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network Wai Logger Prefork",
+          "module": "Network.Wai.Logger.Prefork",
+          "name": "log_backup_number",
+          "package": "wai-logger-prefork",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-logger-prefork/docs/Network-Wai-Logger-Prefork.html#v:log_backup_number"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Wai.Logger.Prefork",
+          "name": "log_file",
+          "package": "wai-logger-prefork",
+          "signature": "String",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network Wai Logger Prefork",
+          "module": "Network.Wai.Logger.Prefork",
+          "name": "log_file",
+          "package": "wai-logger-prefork",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-logger-prefork/docs/Network-Wai-Logger-Prefork.html#v:log_file"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Wai.Logger.Prefork",
+          "name": "log_file_size",
+          "package": "wai-logger-prefork",
+          "signature": "Integer",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network Wai Logger Prefork",
+          "module": "Network.Wai.Logger.Prefork",
+          "name": "log_file_size",
+          "package": "wai-logger-prefork",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-logger-prefork/docs/Network-Wai-Logger-Prefork.html#v:log_file_size"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-logger-prefork/docs/Network-Wai-Logger-Prefork.html#t:LogController",
-      "description": {
-        "fct-module": "Network.Wai.Logger.Prefork",
-        "fct-package": "wai-logger-prefork",
-        "fct-signature": "type",
-        "fct-source": "src/Network-Wai-Logger-Prefork-Types.html#LogController",
-        "fct-type": "type",
-        "title": "LogController"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Wai Logger Prefork",
-        "module": "Network.Wai.Logger.Prefork",
-        "name": "LogController",
-        "normalized": "",
-        "package": "wai-logger-prefork",
-        "partial": "Log Controller",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-logger-prefork/docs/Network-Wai-Logger-Prefork.html#t:LogFlusher",
-      "description": {
-        "fct-module": "Network.Wai.Logger.Prefork",
-        "fct-package": "wai-logger-prefork",
-        "fct-signature": "type",
-        "fct-source": "src/Network-Wai-Logger-Prefork-File.html#LogFlusher",
-        "fct-type": "type",
-        "title": "LogFlusher"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Wai Logger Prefork",
-        "module": "Network.Wai.Logger.Prefork",
-        "name": "LogFlusher",
-        "normalized": "",
-        "package": "wai-logger-prefork",
-        "partial": "Log Flusher",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-logger-prefork/docs/Network-Wai-Logger-Prefork.html#t:LogType",
-      "description": {
-        "fct-module": "Network.Wai.Logger.Prefork",
-        "fct-package": "wai-logger-prefork",
-        "fct-signature": "data",
-        "fct-source": "src/Network-Wai-Logger-Prefork-Types.html#LogType",
-        "fct-type": "data",
-        "title": "LogType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Wai Logger Prefork",
-        "module": "Network.Wai.Logger.Prefork",
-        "name": "LogType",
-        "normalized": "",
-        "package": "wai-logger-prefork",
-        "partial": "Log Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-logger-prefork/docs/Network-Wai-Logger-Prefork.html#v:FileLogSpec",
-      "description": {
-        "fct-module": "Network.Wai.Logger.Prefork",
-        "fct-package": "wai-logger-prefork",
-        "fct-signature": "FileLogSpec",
-        "fct-type": "function",
-        "title": "FileLogSpec"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Wai Logger Prefork",
-        "module": "Network.Wai.Logger.Prefork",
-        "name": "FileLogSpec",
-        "normalized": "",
-        "package": "wai-logger-prefork",
-        "partial": "File Log Spec",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-logger-prefork/docs/Network-Wai-Logger-Prefork.html#v:LogFile",
-      "description": {
-        "fct-descr": "\u003cp\u003e\u003ccode\u003e\u003ca\u003eSignal\u003c/a\u003e\u003c/code\u003e is used to tell child processes to reopen a log file.\n\u003c/p\u003e",
-        "fct-module": "Network.Wai.Logger.Prefork",
-        "fct-package": "wai-logger-prefork",
-        "fct-signature": "LogFile FileLogSpec Signal",
-        "fct-source": "src/Network-Wai-Logger-Prefork-Types.html#LogType",
-        "fct-type": "function",
-        "title": "LogFile"
-      },
-      "index": {
-        "description": "Signal is used to tell child processes to reopen log file",
-        "hierarchy": "Network Wai Logger Prefork",
-        "module": "Network.Wai.Logger.Prefork",
-        "name": "LogFile",
-        "normalized": "",
-        "package": "wai-logger-prefork",
-        "partial": "Log File",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-logger-prefork/docs/Network-Wai-Logger-Prefork.html#v:LogNone",
-      "description": {
-        "fct-module": "Network.Wai.Logger.Prefork",
-        "fct-package": "wai-logger-prefork",
-        "fct-signature": "LogNone",
-        "fct-source": "src/Network-Wai-Logger-Prefork-Types.html#LogType",
-        "fct-type": "function",
-        "title": "LogNone"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Wai Logger Prefork",
-        "module": "Network.Wai.Logger.Prefork",
-        "name": "LogNone",
-        "normalized": "",
-        "package": "wai-logger-prefork",
-        "partial": "Log None",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-logger-prefork/docs/Network-Wai-Logger-Prefork.html#v:LogStdout",
-      "description": {
-        "fct-module": "Network.Wai.Logger.Prefork",
-        "fct-package": "wai-logger-prefork",
-        "fct-signature": "LogStdout",
-        "fct-source": "src/Network-Wai-Logger-Prefork-Types.html#LogType",
-        "fct-type": "function",
-        "title": "LogStdout"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Wai Logger Prefork",
-        "module": "Network.Wai.Logger.Prefork",
-        "name": "LogStdout",
-        "normalized": "",
-        "package": "wai-logger-prefork",
-        "partial": "Log Stdout",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-logger-prefork/docs/Network-Wai-Logger-Prefork.html#v:logCheck",
-      "description": {
-        "fct-descr": "\u003cp\u003eChecking if a log file can be written if \u003ccode\u003e\u003ca\u003eLogType\u003c/a\u003e\u003c/code\u003e is \u003ccode\u003e\u003ca\u003eLogFile\u003c/a\u003e\u003c/code\u003e.\n\u003c/p\u003e",
-        "fct-module": "Network.Wai.Logger.Prefork",
-        "fct-package": "wai-logger-prefork",
-        "fct-signature": "LogType -\u003e IO ()",
-        "fct-source": "src/Network-Wai-Logger-Prefork.html#logCheck",
-        "fct-type": "function",
-        "title": "logCheck"
-      },
-      "index": {
-        "description": "Checking if log file can be written if LogType is LogFile",
-        "hierarchy": "Network Wai Logger Prefork",
-        "module": "Network.Wai.Logger.Prefork",
-        "name": "logCheck",
-        "normalized": "LogType-\u003eIO()",
-        "package": "wai-logger-prefork",
-        "partial": "Check",
-        "signature": "LogType-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-logger-prefork/docs/Network-Wai-Logger-Prefork.html#v:logController",
-      "description": {
-        "fct-descr": "\u003cp\u003eCreating a log controller against child processes.\n\u003c/p\u003e",
-        "fct-module": "Network.Wai.Logger.Prefork",
-        "fct-package": "wai-logger-prefork",
-        "fct-signature": "LogType -\u003e LogController",
-        "fct-source": "src/Network-Wai-Logger-Prefork.html#logController",
-        "fct-type": "function",
-        "title": "logController"
-      },
-      "index": {
-        "description": "Creating log controller against child processes",
-        "hierarchy": "Network Wai Logger Prefork",
-        "module": "Network.Wai.Logger.Prefork",
-        "name": "logController",
-        "normalized": "LogType-\u003eLogController",
-        "package": "wai-logger-prefork",
-        "partial": "Controller",
-        "signature": "LogType-\u003eLogController"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-logger-prefork/docs/Network-Wai-Logger-Prefork.html#v:logInit",
-      "description": {
-        "fct-descr": "\u003cp\u003eCreating \u003ccode\u003e\u003ca\u003eApacheLogger\u003c/a\u003e\u003c/code\u003e according to \u003ccode\u003e\u003ca\u003eLogType\u003c/a\u003e\u003c/code\u003e.\n\u003c/p\u003e",
-        "fct-module": "Network.Wai.Logger.Prefork",
-        "fct-package": "wai-logger-prefork",
-        "fct-signature": "IPAddrSource -\u003e LogType -\u003e IO (ApacheLogger, LogFlusher)",
-        "fct-source": "src/Network-Wai-Logger-Prefork.html#logInit",
-        "fct-type": "function",
-        "title": "logInit"
-      },
-      "index": {
-        "description": "Creating ApacheLogger according to LogType",
-        "hierarchy": "Network Wai Logger Prefork",
-        "module": "Network.Wai.Logger.Prefork",
-        "name": "logInit",
-        "normalized": "IPAddrSource-\u003eLogType-\u003eIO(ApacheLogger,LogFlusher)",
-        "package": "wai-logger-prefork",
-        "partial": "Init",
-        "signature": "IPAddrSource-\u003eLogType-\u003eIO(ApacheLogger,LogFlusher)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-logger-prefork/docs/Network-Wai-Logger-Prefork.html#v:log_backup_number",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.Wai.Logger.Prefork",
-        "fct-package": "wai-logger-prefork",
-        "fct-signature": "Int",
-        "fct-type": "function",
-        "title": "log_backup_number"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Wai Logger Prefork",
-        "module": "Network.Wai.Logger.Prefork",
-        "name": "log_backup_number",
-        "normalized": "",
-        "package": "wai-logger-prefork",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-logger-prefork/docs/Network-Wai-Logger-Prefork.html#v:log_file",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.Wai.Logger.Prefork",
-        "fct-package": "wai-logger-prefork",
-        "fct-signature": "String",
-        "fct-type": "function",
-        "title": "log_file"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Wai Logger Prefork",
-        "module": "Network.Wai.Logger.Prefork",
-        "name": "log_file",
-        "normalized": "",
-        "package": "wai-logger-prefork",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-logger-prefork/docs/Network-Wai-Logger-Prefork.html#v:log_file_size",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.Wai.Logger.Prefork",
-        "fct-package": "wai-logger-prefork",
-        "fct-signature": "Integer",
-        "fct-type": "function",
-        "title": "log_file_size"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Wai Logger Prefork",
-        "module": "Network.Wai.Logger.Prefork",
-        "name": "log_file_size",
-        "normalized": "",
-        "package": "wai-logger-prefork",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

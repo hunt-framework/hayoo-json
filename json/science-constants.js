@@ -1,1706 +1,1560 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants-Short.html#",
-      "description": {
-        "fct-module": "Science.Constants.Short",
-        "fct-package": "science-constants",
-        "fct-signature": "module",
-        "fct-source": "src/Science-Constants-Short.html",
-        "fct-type": "module",
-        "title": "Short"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants Short",
-        "module": "Science.Constants.Short",
-        "name": "Short",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Short",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants-Short.html#v:_h",
-      "description": {
-        "fct-module": "Science.Constants.Short",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants-Short.html#_h",
-        "fct-type": "function",
-        "title": "_h"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants Short",
-        "module": "Science.Constants.Short",
-        "name": "_h",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants-Short.html#v:amu",
-      "description": {
-        "fct-module": "Science.Constants.Short",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants-Short.html#amu",
-        "fct-type": "function",
-        "title": "amu"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants Short",
-        "module": "Science.Constants.Short",
-        "name": "amu",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants-Short.html#v:e",
-      "description": {
-        "fct-module": "Science.Constants.Short",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants-Short.html#e",
-        "fct-type": "function",
-        "title": "e"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants Short",
-        "module": "Science.Constants.Short",
-        "name": "e",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants-Short.html#v:e_0",
-      "description": {
-        "fct-module": "Science.Constants.Short",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants-Short.html#e_0",
-        "fct-type": "function",
-        "title": "e_0"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants Short",
-        "module": "Science.Constants.Short",
-        "name": "e_0",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants-Short.html#v:g",
-      "description": {
-        "fct-module": "Science.Constants.Short",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants-Short.html#g",
-        "fct-type": "function",
-        "title": "g"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants Short",
-        "module": "Science.Constants.Short",
-        "name": "g",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants-Short.html#v:h",
-      "description": {
-        "fct-module": "Science.Constants.Short",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants-Short.html#h",
-        "fct-type": "function",
-        "title": "h"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants Short",
-        "module": "Science.Constants.Short",
-        "name": "h",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants-Short.html#v:k_b",
-      "description": {
-        "fct-module": "Science.Constants.Short",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants-Short.html#k_b",
-        "fct-type": "function",
-        "title": "k_b"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants Short",
-        "module": "Science.Constants.Short",
-        "name": "k_b",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants-Short.html#v:k_e",
-      "description": {
-        "fct-module": "Science.Constants.Short",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants-Short.html#k_e",
-        "fct-type": "function",
-        "title": "k_e"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants Short",
-        "module": "Science.Constants.Short",
-        "name": "k_e",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants-Short.html#v:m_e",
-      "description": {
-        "fct-module": "Science.Constants.Short",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants-Short.html#m_e",
-        "fct-type": "function",
-        "title": "m_e"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants Short",
-        "module": "Science.Constants.Short",
-        "name": "m_e",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants-Short.html#v:m_p",
-      "description": {
-        "fct-module": "Science.Constants.Short",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants-Short.html#m_p",
-        "fct-type": "function",
-        "title": "m_p"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants Short",
-        "module": "Science.Constants.Short",
-        "name": "m_p",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants-Short.html#v:q_e",
-      "description": {
-        "fct-module": "Science.Constants.Short",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants-Short.html#q_e",
-        "fct-type": "function",
-        "title": "q_e"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants Short",
-        "module": "Science.Constants.Short",
-        "name": "q_e",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants-Short.html#v:q_p",
-      "description": {
-        "fct-module": "Science.Constants.Short",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants-Short.html#q_p",
-        "fct-type": "function",
-        "title": "q_p"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants Short",
-        "module": "Science.Constants.Short",
-        "name": "q_p",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "module",
-        "fct-source": "src/Science-Constants.html",
-        "fct-type": "module",
-        "title": "Constants"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "Constants",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Constants",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:aperyConstant",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#aperyConstant",
-        "fct-type": "function",
-        "title": "aperyConstant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "aperyConstant",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Constant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:aperysConstant",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#aperysConstant",
-        "fct-type": "function",
-        "title": "aperysConstant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "aperysConstant",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Constant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:atomicMassConstant",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#atomicMassConstant",
-        "fct-type": "function",
-        "title": "atomicMassConstant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "atomicMassConstant",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Mass Constant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:atomicMassUnit",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#atomicMassUnit",
-        "fct-type": "function",
-        "title": "atomicMassUnit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "atomicMassUnit",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Mass Unit",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:avogadroConstant",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#avogadroConstant",
-        "fct-type": "function",
-        "title": "avogadroConstant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "avogadroConstant",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Constant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:bigG",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#bigG",
-        "fct-type": "function",
-        "title": "bigG"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "bigG",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:boltzmannConstant",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#boltzmannConstant",
-        "fct-type": "function",
-        "title": "boltzmannConstant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "boltzmannConstant",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Constant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:boltzmannsConstant",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#boltzmannsConstant",
-        "fct-type": "function",
-        "title": "boltzmannsConstant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "boltzmannsConstant",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Constant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:chargeOfElectron",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#chargeOfElectron",
-        "fct-type": "function",
-        "title": "chargeOfElectron"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "chargeOfElectron",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Of Electron",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:chargeOfProton",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#chargeOfProton",
-        "fct-type": "function",
-        "title": "chargeOfProton"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "chargeOfProton",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Of Proton",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:coloumbConstant",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#coloumbConstant",
-        "fct-type": "function",
-        "title": "coloumbConstant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "coloumbConstant",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Constant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:coloumbsConstant",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#coloumbsConstant",
-        "fct-type": "function",
-        "title": "coloumbsConstant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "coloumbsConstant",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Constant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:dalton",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#dalton",
-        "fct-type": "function",
-        "title": "dalton"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "dalton",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:earthAccelerationOfGravity",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#earthAccelerationOfGravity",
-        "fct-type": "function",
-        "title": "earthAccelerationOfGravity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "earthAccelerationOfGravity",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Acceleration Of Gravity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:electricConstant",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#electricConstant",
-        "fct-type": "function",
-        "title": "electricConstant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "electricConstant",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Constant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:electricForceConstant",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#electricForceConstant",
-        "fct-type": "function",
-        "title": "electricForceConstant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "electricForceConstant",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Force Constant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:electronMolarMass",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#electronMolarMass",
-        "fct-type": "function",
-        "title": "electronMolarMass"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "electronMolarMass",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Molar Mass",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:electrostaticConstant",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#electrostaticConstant",
-        "fct-type": "function",
-        "title": "electrostaticConstant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "electrostaticConstant",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Constant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:elementaryCharge",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#elementaryCharge",
-        "fct-type": "function",
-        "title": "elementaryCharge"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "elementaryCharge",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Charge",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:eps_0",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#eps_0",
-        "fct-type": "function",
-        "title": "eps_0"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "eps_0",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:eulerGamma",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#eulerGamma",
-        "fct-type": "function",
-        "title": "eulerGamma"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "eulerGamma",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Gamma",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:eulerMascheroniConstant",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#eulerMascheroniConstant",
-        "fct-type": "function",
-        "title": "eulerMascheroniConstant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "eulerMascheroniConstant",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Mascheroni Constant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:eulerNumber",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#eulerNumber",
-        "fct-type": "function",
-        "title": "eulerNumber"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "eulerNumber",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Number",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:eulersNumber",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#eulersNumber",
-        "fct-type": "function",
-        "title": "eulersNumber"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "eulersNumber",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Number",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:fineStructureConstant",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#fineStructureConstant",
-        "fct-type": "function",
-        "title": "fineStructureConstant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "fineStructureConstant",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Structure Constant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:goldenRatio",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#goldenRatio",
-        "fct-type": "function",
-        "title": "goldenRatio"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "goldenRatio",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Ratio",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:gravitationalConstant",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#gravitationalConstant",
-        "fct-type": "function",
-        "title": "gravitationalConstant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "gravitationalConstant",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Constant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:hbar",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#hbar",
-        "fct-type": "function",
-        "title": "hbar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "hbar",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:hslash",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#hslash",
-        "fct-type": "function",
-        "title": "hslash"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "hslash",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:idealGasConstant",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#idealGasConstant",
-        "fct-type": "function",
-        "title": "idealGasConstant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "idealGasConstant",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Gas Constant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:inverseFineStructureConstant",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#inverseFineStructureConstant",
-        "fct-type": "function",
-        "title": "inverseFineStructureConstant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "inverseFineStructureConstant",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Fine Structure Constant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:magneticConstant",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#magneticConstant",
-        "fct-type": "function",
-        "title": "magneticConstant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "magneticConstant",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Constant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:massOfElectron",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#massOfElectron",
-        "fct-type": "function",
-        "title": "massOfElectron"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "massOfElectron",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Of Electron",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:massOfProton",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#massOfProton",
-        "fct-type": "function",
-        "title": "massOfProton"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "massOfProton",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Of Proton",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:molarGasConstant",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#molarGasConstant",
-        "fct-type": "function",
-        "title": "molarGasConstant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "molarGasConstant",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Gas Constant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:molarMassConstant",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#molarMassConstant",
-        "fct-type": "function",
-        "title": "molarMassConstant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "molarMassConstant",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Mass Constant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:molarMassOfElectron",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#molarMassOfElectron",
-        "fct-type": "function",
-        "title": "molarMassOfElectron"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "molarMassOfElectron",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Mass Of Electron",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:mu_0",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#mu_0",
-        "fct-type": "function",
-        "title": "mu_0"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "mu_0",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:napierConstant",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#napierConstant",
-        "fct-type": "function",
-        "title": "napierConstant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "napierConstant",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Constant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:napiersConstant",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#napiersConstant",
-        "fct-type": "function",
-        "title": "napiersConstant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "napiersConstant",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Constant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:newtonConstant",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#newtonConstant",
-        "fct-type": "function",
-        "title": "newtonConstant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "newtonConstant",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Constant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:newtonsConstant",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#newtonsConstant",
-        "fct-type": "function",
-        "title": "newtonsConstant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "newtonsConstant",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Constant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:permeabilityOfFreeSpace",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#permeabilityOfFreeSpace",
-        "fct-type": "function",
-        "title": "permeabilityOfFreeSpace"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "permeabilityOfFreeSpace",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Of Free Space",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:planckConstant",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#planckConstant",
-        "fct-type": "function",
-        "title": "planckConstant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "planckConstant",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Constant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:planckConstantOver2Pi",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#planckConstantOver2Pi",
-        "fct-type": "function",
-        "title": "planckConstantOver2Pi"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "planckConstantOver2Pi",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Constant Over Pi",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:plancksConstant",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#plancksConstant",
-        "fct-type": "function",
-        "title": "plancksConstant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "plancksConstant",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Constant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:plancksConstantOver2Pi",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#plancksConstantOver2Pi",
-        "fct-type": "function",
-        "title": "plancksConstantOver2Pi"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "plancksConstantOver2Pi",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Constant Over Pi",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:reducedPlanckConstant",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#reducedPlanckConstant",
-        "fct-type": "function",
-        "title": "reducedPlanckConstant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "reducedPlanckConstant",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Planck Constant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:reducedPlancksConstant",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#reducedPlancksConstant",
-        "fct-type": "function",
-        "title": "reducedPlancksConstant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "reducedPlancksConstant",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Plancks Constant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:rydbergConstant",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#rydbergConstant",
-        "fct-type": "function",
-        "title": "rydbergConstant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "rydbergConstant",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Constant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:rydbergsConstant",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#rydbergsConstant",
-        "fct-type": "function",
-        "title": "rydbergsConstant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "rydbergsConstant",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Constant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:silverRatio",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#silverRatio",
-        "fct-type": "function",
-        "title": "silverRatio"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "silverRatio",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Ratio",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:speedOfLight",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#speedOfLight",
-        "fct-type": "function",
-        "title": "speedOfLight"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "speedOfLight",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Of Light",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:standardAccelerationOfGravity",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#standardAccelerationOfGravity",
-        "fct-type": "function",
-        "title": "standardAccelerationOfGravity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "standardAccelerationOfGravity",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Acceleration Of Gravity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:universalGasConstant",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#universalGasConstant",
-        "fct-type": "function",
-        "title": "universalGasConstant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "universalGasConstant",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Gas Constant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:vacuumPermeability",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#vacuumPermeability",
-        "fct-type": "function",
-        "title": "vacuumPermeability"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "vacuumPermeability",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Permeability",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:vacuumPermittivity",
-      "description": {
-        "fct-module": "Science.Constants",
-        "fct-package": "science-constants",
-        "fct-signature": "Double",
-        "fct-source": "src/Science-Constants.html#vacuumPermittivity",
-        "fct-type": "function",
-        "title": "vacuumPermittivity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Science Constants",
-        "module": "Science.Constants",
-        "name": "vacuumPermittivity",
-        "normalized": "",
-        "package": "science-constants",
-        "partial": "Permittivity",
-        "signature": ""
-      }
-    }
-  }
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "science-constants"
+      },
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants.Short",
+          "name": "Short",
+          "package": "science-constants",
+          "source": "src/Science-Constants-Short.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Science Constants Short",
+          "module": "Science.Constants.Short",
+          "name": "Short",
+          "package": "science-constants",
+          "partial": "Short",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants-Short.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants.Short",
+          "name": "_h",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants-Short.html#_h",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants Short",
+          "module": "Science.Constants.Short",
+          "name": "_h",
+          "package": "science-constants",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants-Short.html#v:_h"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants.Short",
+          "name": "amu",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants-Short.html#amu",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants Short",
+          "module": "Science.Constants.Short",
+          "name": "amu",
+          "package": "science-constants",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants-Short.html#v:amu"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants.Short",
+          "name": "e",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants-Short.html#e",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants Short",
+          "module": "Science.Constants.Short",
+          "name": "e",
+          "package": "science-constants",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants-Short.html#v:e"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants.Short",
+          "name": "e_0",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants-Short.html#e_0",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants Short",
+          "module": "Science.Constants.Short",
+          "name": "e_0",
+          "package": "science-constants",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants-Short.html#v:e_0"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants.Short",
+          "name": "g",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants-Short.html#g",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants Short",
+          "module": "Science.Constants.Short",
+          "name": "g",
+          "package": "science-constants",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants-Short.html#v:g"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants.Short",
+          "name": "h",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants-Short.html#h",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants Short",
+          "module": "Science.Constants.Short",
+          "name": "h",
+          "package": "science-constants",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants-Short.html#v:h"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants.Short",
+          "name": "k_b",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants-Short.html#k_b",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants Short",
+          "module": "Science.Constants.Short",
+          "name": "k_b",
+          "package": "science-constants",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants-Short.html#v:k_b"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants.Short",
+          "name": "k_e",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants-Short.html#k_e",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants Short",
+          "module": "Science.Constants.Short",
+          "name": "k_e",
+          "package": "science-constants",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants-Short.html#v:k_e"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants.Short",
+          "name": "m_e",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants-Short.html#m_e",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants Short",
+          "module": "Science.Constants.Short",
+          "name": "m_e",
+          "package": "science-constants",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants-Short.html#v:m_e"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants.Short",
+          "name": "m_p",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants-Short.html#m_p",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants Short",
+          "module": "Science.Constants.Short",
+          "name": "m_p",
+          "package": "science-constants",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants-Short.html#v:m_p"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants.Short",
+          "name": "q_e",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants-Short.html#q_e",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants Short",
+          "module": "Science.Constants.Short",
+          "name": "q_e",
+          "package": "science-constants",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants-Short.html#v:q_e"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants.Short",
+          "name": "q_p",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants-Short.html#q_p",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants Short",
+          "module": "Science.Constants.Short",
+          "name": "q_p",
+          "package": "science-constants",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants-Short.html#v:q_p"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "Constants",
+          "package": "science-constants",
+          "source": "src/Science-Constants.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "Constants",
+          "package": "science-constants",
+          "partial": "Constants",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "aperyConstant",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#aperyConstant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "aperyConstant",
+          "package": "science-constants",
+          "partial": "Constant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:aperyConstant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "aperysConstant",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#aperysConstant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "aperysConstant",
+          "package": "science-constants",
+          "partial": "Constant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:aperysConstant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "atomicMassConstant",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#atomicMassConstant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "atomicMassConstant",
+          "package": "science-constants",
+          "partial": "Mass Constant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:atomicMassConstant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "atomicMassUnit",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#atomicMassUnit",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "atomicMassUnit",
+          "package": "science-constants",
+          "partial": "Mass Unit",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:atomicMassUnit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "avogadroConstant",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#avogadroConstant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "avogadroConstant",
+          "package": "science-constants",
+          "partial": "Constant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:avogadroConstant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "bigG",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#bigG",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "bigG",
+          "package": "science-constants",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:bigG"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "boltzmannConstant",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#boltzmannConstant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "boltzmannConstant",
+          "package": "science-constants",
+          "partial": "Constant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:boltzmannConstant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "boltzmannsConstant",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#boltzmannsConstant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "boltzmannsConstant",
+          "package": "science-constants",
+          "partial": "Constant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:boltzmannsConstant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "chargeOfElectron",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#chargeOfElectron",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "chargeOfElectron",
+          "package": "science-constants",
+          "partial": "Of Electron",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:chargeOfElectron"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "chargeOfProton",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#chargeOfProton",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "chargeOfProton",
+          "package": "science-constants",
+          "partial": "Of Proton",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:chargeOfProton"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "coloumbConstant",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#coloumbConstant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "coloumbConstant",
+          "package": "science-constants",
+          "partial": "Constant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:coloumbConstant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "coloumbsConstant",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#coloumbsConstant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "coloumbsConstant",
+          "package": "science-constants",
+          "partial": "Constant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:coloumbsConstant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "dalton",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#dalton",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "dalton",
+          "package": "science-constants",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:dalton"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "earthAccelerationOfGravity",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#earthAccelerationOfGravity",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "earthAccelerationOfGravity",
+          "package": "science-constants",
+          "partial": "Acceleration Of Gravity",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:earthAccelerationOfGravity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "electricConstant",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#electricConstant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "electricConstant",
+          "package": "science-constants",
+          "partial": "Constant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:electricConstant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "electricForceConstant",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#electricForceConstant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "electricForceConstant",
+          "package": "science-constants",
+          "partial": "Force Constant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:electricForceConstant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "electronMolarMass",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#electronMolarMass",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "electronMolarMass",
+          "package": "science-constants",
+          "partial": "Molar Mass",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:electronMolarMass"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "electrostaticConstant",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#electrostaticConstant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "electrostaticConstant",
+          "package": "science-constants",
+          "partial": "Constant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:electrostaticConstant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "elementaryCharge",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#elementaryCharge",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "elementaryCharge",
+          "package": "science-constants",
+          "partial": "Charge",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:elementaryCharge"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "eps_0",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#eps_0",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "eps_0",
+          "package": "science-constants",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:eps_0"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "eulerGamma",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#eulerGamma",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "eulerGamma",
+          "package": "science-constants",
+          "partial": "Gamma",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:eulerGamma"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "eulerMascheroniConstant",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#eulerMascheroniConstant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "eulerMascheroniConstant",
+          "package": "science-constants",
+          "partial": "Mascheroni Constant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:eulerMascheroniConstant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "eulerNumber",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#eulerNumber",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "eulerNumber",
+          "package": "science-constants",
+          "partial": "Number",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:eulerNumber"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "eulersNumber",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#eulersNumber",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "eulersNumber",
+          "package": "science-constants",
+          "partial": "Number",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:eulersNumber"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "fineStructureConstant",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#fineStructureConstant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "fineStructureConstant",
+          "package": "science-constants",
+          "partial": "Structure Constant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:fineStructureConstant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "goldenRatio",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#goldenRatio",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "goldenRatio",
+          "package": "science-constants",
+          "partial": "Ratio",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:goldenRatio"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "gravitationalConstant",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#gravitationalConstant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "gravitationalConstant",
+          "package": "science-constants",
+          "partial": "Constant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:gravitationalConstant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "hbar",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#hbar",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "hbar",
+          "package": "science-constants",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:hbar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "hslash",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#hslash",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "hslash",
+          "package": "science-constants",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:hslash"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "idealGasConstant",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#idealGasConstant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "idealGasConstant",
+          "package": "science-constants",
+          "partial": "Gas Constant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:idealGasConstant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "inverseFineStructureConstant",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#inverseFineStructureConstant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "inverseFineStructureConstant",
+          "package": "science-constants",
+          "partial": "Fine Structure Constant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:inverseFineStructureConstant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "magneticConstant",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#magneticConstant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "magneticConstant",
+          "package": "science-constants",
+          "partial": "Constant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:magneticConstant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "massOfElectron",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#massOfElectron",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "massOfElectron",
+          "package": "science-constants",
+          "partial": "Of Electron",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:massOfElectron"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "massOfProton",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#massOfProton",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "massOfProton",
+          "package": "science-constants",
+          "partial": "Of Proton",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:massOfProton"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "molarGasConstant",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#molarGasConstant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "molarGasConstant",
+          "package": "science-constants",
+          "partial": "Gas Constant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:molarGasConstant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "molarMassConstant",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#molarMassConstant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "molarMassConstant",
+          "package": "science-constants",
+          "partial": "Mass Constant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:molarMassConstant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "molarMassOfElectron",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#molarMassOfElectron",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "molarMassOfElectron",
+          "package": "science-constants",
+          "partial": "Mass Of Electron",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:molarMassOfElectron"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "mu_0",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#mu_0",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "mu_0",
+          "package": "science-constants",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:mu_0"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "napierConstant",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#napierConstant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "napierConstant",
+          "package": "science-constants",
+          "partial": "Constant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:napierConstant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "napiersConstant",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#napiersConstant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "napiersConstant",
+          "package": "science-constants",
+          "partial": "Constant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:napiersConstant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "newtonConstant",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#newtonConstant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "newtonConstant",
+          "package": "science-constants",
+          "partial": "Constant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:newtonConstant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "newtonsConstant",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#newtonsConstant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "newtonsConstant",
+          "package": "science-constants",
+          "partial": "Constant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:newtonsConstant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "permeabilityOfFreeSpace",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#permeabilityOfFreeSpace",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "permeabilityOfFreeSpace",
+          "package": "science-constants",
+          "partial": "Of Free Space",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:permeabilityOfFreeSpace"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "planckConstant",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#planckConstant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "planckConstant",
+          "package": "science-constants",
+          "partial": "Constant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:planckConstant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "planckConstantOver2Pi",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#planckConstantOver2Pi",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "planckConstantOver2Pi",
+          "package": "science-constants",
+          "partial": "Constant Over Pi",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:planckConstantOver2Pi"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "plancksConstant",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#plancksConstant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "plancksConstant",
+          "package": "science-constants",
+          "partial": "Constant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:plancksConstant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "plancksConstantOver2Pi",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#plancksConstantOver2Pi",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "plancksConstantOver2Pi",
+          "package": "science-constants",
+          "partial": "Constant Over Pi",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:plancksConstantOver2Pi"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "reducedPlanckConstant",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#reducedPlanckConstant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "reducedPlanckConstant",
+          "package": "science-constants",
+          "partial": "Planck Constant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:reducedPlanckConstant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "reducedPlancksConstant",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#reducedPlancksConstant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "reducedPlancksConstant",
+          "package": "science-constants",
+          "partial": "Plancks Constant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:reducedPlancksConstant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "rydbergConstant",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#rydbergConstant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "rydbergConstant",
+          "package": "science-constants",
+          "partial": "Constant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:rydbergConstant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "rydbergsConstant",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#rydbergsConstant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "rydbergsConstant",
+          "package": "science-constants",
+          "partial": "Constant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:rydbergsConstant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "silverRatio",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#silverRatio",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "silverRatio",
+          "package": "science-constants",
+          "partial": "Ratio",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:silverRatio"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "speedOfLight",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#speedOfLight",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "speedOfLight",
+          "package": "science-constants",
+          "partial": "Of Light",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:speedOfLight"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "standardAccelerationOfGravity",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#standardAccelerationOfGravity",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "standardAccelerationOfGravity",
+          "package": "science-constants",
+          "partial": "Acceleration Of Gravity",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:standardAccelerationOfGravity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "universalGasConstant",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#universalGasConstant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "universalGasConstant",
+          "package": "science-constants",
+          "partial": "Gas Constant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:universalGasConstant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "vacuumPermeability",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#vacuumPermeability",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "vacuumPermeability",
+          "package": "science-constants",
+          "partial": "Permeability",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:vacuumPermeability"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Science.Constants",
+          "name": "vacuumPermittivity",
+          "package": "science-constants",
+          "signature": "Double",
+          "source": "src/Science-Constants.html#vacuumPermittivity",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Science Constants",
+          "module": "Science.Constants",
+          "name": "vacuumPermittivity",
+          "package": "science-constants",
+          "partial": "Permittivity",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/science-constants/docs/Science-Constants.html#v:vacuumPermittivity"
+      }
+    }
+  ]
 ]

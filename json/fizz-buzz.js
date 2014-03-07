@@ -1,50 +1,63 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/fizz-buzz/docs/Math-FizzBuzz.html#",
-      "description": {
-        "fct-module": "Math.FizzBuzz",
-        "fct-package": "fizz-buzz",
-        "fct-signature": "module",
-        "fct-source": "src/Math-FizzBuzz.html",
-        "fct-type": "module",
-        "title": "FizzBuzz"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "fizz-buzz"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Math FizzBuzz",
-        "module": "Math.FizzBuzz",
-        "name": "FizzBuzz",
-        "normalized": "",
-        "package": "fizz-buzz",
-        "partial": "Fizz Buzz",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/fizz-buzz/docs/Math-FizzBuzz.html#v:toFizz",
-      "description": {
-        "fct-module": "Math.FizzBuzz",
-        "fct-package": "fizz-buzz",
-        "fct-signature": "Int -\u003e String",
-        "fct-source": "src/Math-FizzBuzz.html#toFizz",
-        "fct-type": "function",
-        "title": "toFizz"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Math FizzBuzz",
-        "module": "Math.FizzBuzz",
-        "name": "toFizz",
-        "normalized": "Int-\u003eString",
-        "package": "fizz-buzz",
-        "partial": "Fizz",
-        "signature": "Int-\u003eString"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Math.FizzBuzz",
+          "name": "FizzBuzz",
+          "package": "fizz-buzz",
+          "source": "src/Math-FizzBuzz.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Math FizzBuzz",
+          "module": "Math.FizzBuzz",
+          "name": "FizzBuzz",
+          "package": "fizz-buzz",
+          "partial": "Fizz Buzz",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/fizz-buzz/docs/Math-FizzBuzz.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Math.FizzBuzz",
+          "name": "toFizz",
+          "package": "fizz-buzz",
+          "signature": "Int -\u003e String",
+          "source": "src/Math-FizzBuzz.html#toFizz",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Math FizzBuzz",
+          "module": "Math.FizzBuzz",
+          "name": "toFizz",
+          "normalized": "Int-\u003eString",
+          "package": "fizz-buzz",
+          "partial": "Fizz",
+          "signature": "Int-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/fizz-buzz/docs/Math-FizzBuzz.html#v:toFizz"
       }
     }
-  }
+  ]
 ]

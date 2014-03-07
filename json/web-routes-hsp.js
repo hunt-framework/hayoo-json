@@ -1,50 +1,63 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/web-routes-hsp/docs/Web-Routes-XMLGenT.html#",
-      "description": {
-        "fct-module": "Web.Routes.XMLGenT",
-        "fct-package": "web-routes-hsp",
-        "fct-signature": "module",
-        "fct-source": "src/Web-Routes-XMLGenT.html",
-        "fct-type": "module",
-        "title": "XMLGenT"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "web-routes-hsp"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Web Routes XMLGenT",
-        "module": "Web.Routes.XMLGenT",
-        "name": "XMLGenT",
-        "normalized": "",
-        "package": "web-routes-hsp",
-        "partial": "XMLGen",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/web-routes-hsp/docs/Web-Routes-XMLGenT.html#v:flattenCDATA",
-      "description": {
-        "fct-module": "Web.Routes.XMLGenT",
-        "fct-package": "web-routes-hsp",
-        "fct-signature": "[XML] -\u003e [XML]",
-        "fct-source": "src/Web-Routes-XMLGenT.html#flattenCDATA",
-        "fct-type": "function",
-        "title": "flattenCDATA"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Web Routes XMLGenT",
-        "module": "Web.Routes.XMLGenT",
-        "name": "flattenCDATA",
-        "normalized": "[XML]-\u003e[XML]",
-        "package": "web-routes-hsp",
-        "partial": "CDATA",
-        "signature": "[XML]-\u003e[XML]"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Web.Routes.XMLGenT",
+          "name": "XMLGenT",
+          "package": "web-routes-hsp",
+          "source": "src/Web-Routes-XMLGenT.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Web Routes XMLGenT",
+          "module": "Web.Routes.XMLGenT",
+          "name": "XMLGenT",
+          "package": "web-routes-hsp",
+          "partial": "XMLGen",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/web-routes-hsp/docs/Web-Routes-XMLGenT.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Web.Routes.XMLGenT",
+          "name": "flattenCDATA",
+          "package": "web-routes-hsp",
+          "signature": "[XML] -\u003e [XML]",
+          "source": "src/Web-Routes-XMLGenT.html#flattenCDATA",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Web Routes XMLGenT",
+          "module": "Web.Routes.XMLGenT",
+          "name": "flattenCDATA",
+          "normalized": "[XML]-\u003e[XML]",
+          "package": "web-routes-hsp",
+          "partial": "CDATA",
+          "signature": "[XML]-\u003e[XML]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/web-routes-hsp/docs/Web-Routes-XMLGenT.html#v:flattenCDATA"
       }
     }
-  }
+  ]
 ]

@@ -1,26 +1,39 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/show/docs/ShowFun.html#",
-      "description": {
-        "fct-module": "ShowFun",
-        "fct-package": "show",
-        "fct-signature": "module",
-        "fct-source": "src/ShowFun.html",
-        "fct-type": "module",
-        "title": "ShowFun"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "show"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "ShowFun",
-        "module": "ShowFun",
-        "name": "ShowFun",
-        "normalized": "",
-        "package": "show",
-        "partial": "Show Fun",
-        "signature": ""
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "ShowFun",
+          "name": "ShowFun",
+          "package": "show",
+          "source": "src/ShowFun.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "ShowFun",
+          "module": "ShowFun",
+          "name": "ShowFun",
+          "package": "show",
+          "partial": "Show Fun",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/show/docs/ShowFun.html#"
       }
     }
-  }
+  ]
 ]

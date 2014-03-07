@@ -1,8912 +1,8093 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003ePlease refer to the literate Haskell code for documentation of both API\n  and implementation.\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Numeric.Units.Dimensional.CGS",
-        "fct-package": "dimensional",
-        "fct-signature": "module",
-        "fct-source": "src/Numeric-Units-Dimensional-CGS.html",
-        "fct-type": "module",
-        "title": "CGS"
-      },
-      "index": {
-        "description": "Please refer to the literate Haskell code for documentation of both API and implementation",
-        "hierarchy": "Numeric Units Dimensional CGS",
-        "module": "Numeric.Units.Dimensional.CGS",
-        "name": "CGS",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "CGS",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#t:CGSDim",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.CGS",
-        "fct-package": "dimensional",
-        "fct-signature": "data",
-        "fct-source": "src/Numeric-Units-Dimensional-CGS.html#CGSDim",
-        "fct-type": "data",
-        "title": "CGSDim"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional CGS",
-        "module": "Numeric.Units.Dimensional.CGS",
-        "name": "CGSDim",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "CGSDim",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#t:DCharge",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.CGS",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-CGS.html#DCharge",
-        "fct-type": "type",
-        "title": "DCharge"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional CGS",
-        "module": "Numeric.Units.Dimensional.CGS",
-        "name": "DCharge",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DCharge",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#t:DElectricCurrent",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.CGS",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-CGS.html#DElectricCurrent",
-        "fct-type": "type",
-        "title": "DElectricCurrent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional CGS",
-        "module": "Numeric.Units.Dimensional.CGS",
-        "name": "DElectricCurrent",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DElectric Current",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#t:DLength",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.CGS",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-CGS.html#DLength",
-        "fct-type": "type",
-        "title": "DLength"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional CGS",
-        "module": "Numeric.Units.Dimensional.CGS",
-        "name": "DLength",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DLength",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#t:DMass",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.CGS",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-CGS.html#DMass",
-        "fct-type": "type",
-        "title": "DMass"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional CGS",
-        "module": "Numeric.Units.Dimensional.CGS",
-        "name": "DMass",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DMass",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#t:DTime",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.CGS",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-CGS.html#DTime",
-        "fct-type": "type",
-        "title": "DTime"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional CGS",
-        "module": "Numeric.Units.Dimensional.CGS",
-        "name": "DTime",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DTime",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:ampere",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.CGS",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DElectricCurrent a",
-        "fct-source": "src/Numeric-Units-Dimensional-CGS.html#ampere",
-        "fct-type": "function",
-        "title": "ampere"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional CGS",
-        "module": "Numeric.Units.Dimensional.CGS",
-        "name": "ampere",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:c",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.CGS",
-        "fct-package": "dimensional",
-        "fct-signature": "Quantity DCapacitance Double",
-        "fct-source": "src/Numeric-Units-Dimensional-CGS.html#c",
-        "fct-type": "function",
-        "title": "c"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional CGS",
-        "module": "Numeric.Units.Dimensional.CGS",
-        "name": "c",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:c-39-",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.CGS",
-        "fct-package": "dimensional",
-        "fct-signature": "Capacitance Double",
-        "fct-source": "src/Numeric-Units-Dimensional-CGS.html#c%27",
-        "fct-type": "function",
-        "title": "c'"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional CGS",
-        "module": "Numeric.Units.Dimensional.CGS",
-        "name": "c'",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:c-39--39-",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.CGS",
-        "fct-package": "dimensional",
-        "fct-signature": "Length Double",
-        "fct-source": "src/Numeric-Units-Dimensional-CGS.html#c%27%27",
-        "fct-type": "function",
-        "title": "c''"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional CGS",
-        "module": "Numeric.Units.Dimensional.CGS",
-        "name": "c''",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:c_cgs",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.CGS",
-        "fct-package": "dimensional",
-        "fct-signature": "Quantity (CGSDim (Pos (Pos Zero)) Zero Zero) Double",
-        "fct-source": "src/Numeric-Units-Dimensional-CGS.html#c_cgs",
-        "fct-type": "function",
-        "title": "c_cgs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional CGS",
-        "module": "Numeric.Units.Dimensional.CGS",
-        "name": "c_cgs",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:f_cgs",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.CGS",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensional DQuantity (CGSDim (Pos (Pos Zero)) (Pos (Pos Zero)) (Neg (Neg Zero))) Double",
-        "fct-source": "src/Numeric-Units-Dimensional-CGS.html#f_cgs",
-        "fct-type": "function",
-        "title": "f_cgs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional CGS",
-        "module": "Numeric.Units.Dimensional.CGS",
-        "name": "f_cgs",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:f_si",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.CGS",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensional DQuantity (Dim (Pos Zero) (Pos Zero) (Neg (Neg Zero)) Zero Zero Zero Zero) Double",
-        "fct-source": "src/Numeric-Units-Dimensional-CGS.html#f_si",
-        "fct-type": "function",
-        "title": "f_si"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional CGS",
-        "module": "Numeric.Units.Dimensional.CGS",
-        "name": "f_si",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:f_si-39-",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.CGS",
-        "fct-package": "dimensional",
-        "fct-signature": "Force Double",
-        "fct-source": "src/Numeric-Units-Dimensional-CGS.html#f_si%27",
-        "fct-type": "function",
-        "title": "f_si'"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional CGS",
-        "module": "Numeric.Units.Dimensional.CGS",
-        "name": "f_si'",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:franklin",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.CGS",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DCharge a",
-        "fct-source": "src/Numeric-Units-Dimensional-CGS.html#franklin",
-        "fct-type": "function",
-        "title": "franklin"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional CGS",
-        "module": "Numeric.Units.Dimensional.CGS",
-        "name": "franklin",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:fromSI",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.CGS",
-        "fct-package": "dimensional",
-        "fct-signature": "Quantity (Dim l m t i Zero Zero Zero) a -\u003e Quantity (CGSDim l' m' t') a",
-        "fct-source": "src/Numeric-Units-Dimensional-CGS.html#fromSI",
-        "fct-type": "function",
-        "title": "fromSI"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional CGS",
-        "module": "Numeric.Units.Dimensional.CGS",
-        "name": "fromSI",
-        "normalized": "Quantity(Dim a b c d Zero Zero Zero)e-\u003eQuantity(CGSDim f g h)e",
-        "package": "dimensional",
-        "partial": "SI",
-        "signature": "Quantity(Dim l m t i Zero Zero Zero)a-\u003eQuantity(CGSDim l' m' t')a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:gram",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.CGS",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DMass a",
-        "fct-source": "src/Numeric-Units-Dimensional-CGS.html#gram",
-        "fct-type": "function",
-        "title": "gram"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional CGS",
-        "module": "Numeric.Units.Dimensional.CGS",
-        "name": "gram",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:meter",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.CGS",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DLength a",
-        "fct-source": "src/Numeric-Units-Dimensional-CGS.html#meter",
-        "fct-type": "function",
-        "title": "meter"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional CGS",
-        "module": "Numeric.Units.Dimensional.CGS",
-        "name": "meter",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:q_cgs",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.CGS",
-        "fct-package": "dimensional",
-        "fct-signature": "Quantity (CGSDim (Pos (Pos (Pos Zero))) (Pos Zero) (Neg Zero)) Double",
-        "fct-source": "src/Numeric-Units-Dimensional-CGS.html#q_cgs",
-        "fct-type": "function",
-        "title": "q_cgs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional CGS",
-        "module": "Numeric.Units.Dimensional.CGS",
-        "name": "q_cgs",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:q_si",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.CGS",
-        "fct-package": "dimensional",
-        "fct-signature": "Quantity DElectricCharge Double",
-        "fct-source": "src/Numeric-Units-Dimensional-CGS.html#q_si",
-        "fct-type": "function",
-        "title": "q_si"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional CGS",
-        "module": "Numeric.Units.Dimensional.CGS",
-        "name": "q_si",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:r_cgs",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.CGS",
-        "fct-package": "dimensional",
-        "fct-signature": "Quantity (CGSDim (Pos (Pos Zero)) Zero Zero) Double",
-        "fct-source": "src/Numeric-Units-Dimensional-CGS.html#r_cgs",
-        "fct-type": "function",
-        "title": "r_cgs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional CGS",
-        "module": "Numeric.Units.Dimensional.CGS",
-        "name": "r_cgs",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:r_si",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.CGS",
-        "fct-package": "dimensional",
-        "fct-signature": "Quantity DLength Double",
-        "fct-source": "src/Numeric-Units-Dimensional-CGS.html#r_si",
-        "fct-type": "function",
-        "title": "r_si"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional CGS",
-        "module": "Numeric.Units.Dimensional.CGS",
-        "name": "r_si",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:second",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.CGS",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DTime a",
-        "fct-source": "src/Numeric-Units-Dimensional-CGS.html#second",
-        "fct-type": "function",
-        "title": "second"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional CGS",
-        "module": "Numeric.Units.Dimensional.CGS",
-        "name": "second",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:toSI",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.CGS",
-        "fct-package": "dimensional",
-        "fct-signature": "Quantity (CGSDim l' m' t') a -\u003e Quantity (Dim l m t i Zero Zero Zero) a",
-        "fct-source": "src/Numeric-Units-Dimensional-CGS.html#toSI",
-        "fct-type": "function",
-        "title": "toSI"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional CGS",
-        "module": "Numeric.Units.Dimensional.CGS",
-        "name": "toSI",
-        "normalized": "Quantity(CGSDim a b c)d-\u003eQuantity(Dim e f g h Zero Zero Zero)d",
-        "package": "dimensional",
-        "partial": "SI",
-        "signature": "Quantity(CGSDim l' m' t')a-\u003eQuantity(Dim l m t i Zero Zero Zero)a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:unit_CGS",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.CGS",
-        "fct-package": "dimensional",
-        "fct-signature": "Quantity (Dim l m t i Zero Zero Zero) a -\u003e Unit (CGSDim l' m' t') a",
-        "fct-source": "src/Numeric-Units-Dimensional-CGS.html#unit_CGS",
-        "fct-type": "function",
-        "title": "unit_CGS"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional CGS",
-        "module": "Numeric.Units.Dimensional.CGS",
-        "name": "unit_CGS",
-        "normalized": "Quantity(Dim a b c d Zero Zero Zero)e-\u003eUnit(CGSDim f g h)e",
-        "package": "dimensional",
-        "partial": "CGS",
-        "signature": "Quantity(Dim l m t i Zero Zero Zero)a-\u003eUnit(CGSDim l' m' t')a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:unit_SI",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.CGS",
-        "fct-package": "dimensional",
-        "fct-signature": "Quantity (Dim l m t i th n j) a -\u003e Unit (Dim l m t i th n j) a",
-        "fct-source": "src/Numeric-Units-Dimensional-CGS.html#unit_SI",
-        "fct-type": "function",
-        "title": "unit_SI"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional CGS",
-        "module": "Numeric.Units.Dimensional.CGS",
-        "name": "unit_SI",
-        "normalized": "Quantity(Dim a b c d e f g)h-\u003eUnit(Dim a b c d e f g)h",
-        "package": "dimensional",
-        "partial": "SI",
-        "signature": "Quantity(Dim l m t i th n j)a-\u003eUnit(Dim l m t i th n j)a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Extensible.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003ePlease refer to the literate Haskell code for documentation of both API\n  and implementation.\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Numeric.Units.Dimensional.Extensible",
-        "fct-package": "dimensional",
-        "fct-signature": "module",
-        "fct-source": "src/Numeric-Units-Dimensional-Extensible.html",
-        "fct-type": "module",
-        "title": "Extensible"
-      },
-      "index": {
-        "description": "Please refer to the literate Haskell code for documentation of both API and implementation",
-        "hierarchy": "Numeric Units Dimensional Extensible",
-        "module": "Numeric.Units.Dimensional.Extensible",
-        "name": "Extensible",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Extensible",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Extensible.html#t:DExt",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Extensible",
-        "fct-package": "dimensional",
-        "fct-signature": "data",
-        "fct-source": "src/Numeric-Units-Dimensional-Extensible.html#DExt",
-        "fct-type": "data",
-        "title": "DExt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Extensible",
-        "module": "Numeric.Units.Dimensional.Extensible",
-        "name": "DExt",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DExt",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Extensible.html#v:showDExt",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Extensible",
-        "fct-package": "dimensional",
-        "fct-signature": "String -\u003e DExt a n d -\u003e String",
-        "fct-source": "src/Numeric-Units-Dimensional-Extensible.html#showDExt",
-        "fct-type": "function",
-        "title": "showDExt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Extensible",
-        "module": "Numeric.Units.Dimensional.Extensible",
-        "name": "showDExt",
-        "normalized": "String-\u003eDExt a b c-\u003eString",
-        "package": "dimensional",
-        "partial": "DExt",
-        "signature": "String-\u003eDExt a n d-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003ePlease refer to the literate Haskell code for documentation of both API\n  and implementation.\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "module",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html",
-        "fct-type": "module",
-        "title": "NonSI"
-      },
-      "index": {
-        "description": "Please refer to the literate Haskell code for documentation of both API and implementation",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "NonSI",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Non SI",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:atmosphere",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DPressure a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#atmosphere",
-        "fct-type": "function",
-        "title": "atmosphere"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "atmosphere",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:bar",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DPressure a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#bar",
-        "fct-type": "function",
-        "title": "bar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "bar",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:century",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DTime a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#century",
-        "fct-type": "function",
-        "title": "century"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "century",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:electronVolt",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DEnergy a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#electronVolt",
-        "fct-type": "function",
-        "title": "electronVolt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "electronVolt",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Volt",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:foot",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DLength a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#foot",
-        "fct-type": "function",
-        "title": "foot"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "foot",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:gee",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DAcceleration a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#gee",
-        "fct-type": "function",
-        "title": "gee"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "gee",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:imperialCup",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DVolume a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#imperialCup",
-        "fct-type": "function",
-        "title": "imperialCup"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "imperialCup",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Cup",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:imperialFluidOunce",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DVolume a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#imperialFluidOunce",
-        "fct-type": "function",
-        "title": "imperialFluidOunce"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "imperialFluidOunce",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Fluid Ounce",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:imperialGallon",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DVolume a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#imperialGallon",
-        "fct-type": "function",
-        "title": "imperialGallon"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "imperialGallon",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Gallon",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:imperialGill",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DVolume a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#imperialGill",
-        "fct-type": "function",
-        "title": "imperialGill"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "imperialGill",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Gill",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:imperialPint",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DVolume a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#imperialPint",
-        "fct-type": "function",
-        "title": "imperialPint"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "imperialPint",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Pint",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:imperialQuart",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DVolume a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#imperialQuart",
-        "fct-type": "function",
-        "title": "imperialQuart"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "imperialQuart",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Quart",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:inch",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DLength a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#inch",
-        "fct-type": "function",
-        "title": "inch"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "inch",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:mil",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DLength a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#mil",
-        "fct-type": "function",
-        "title": "mil"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "mil",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:mile",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DLength a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#mile",
-        "fct-type": "function",
-        "title": "mile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "mile",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:mmHg",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DPressure a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#mmHg",
-        "fct-type": "function",
-        "title": "mmHg"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "mmHg",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Hg",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:nauticalMile",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DLength a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#nauticalMile",
-        "fct-type": "function",
-        "title": "nauticalMile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "nauticalMile",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Mile",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:ounce",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DMass a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#ounce",
-        "fct-type": "function",
-        "title": "ounce"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "ounce",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:poundForce",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DForce a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#poundForce",
-        "fct-type": "function",
-        "title": "poundForce"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "poundForce",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Force",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:poundMass",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DMass a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#poundMass",
-        "fct-type": "function",
-        "title": "poundMass"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "poundMass",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Mass",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:psi",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DPressure a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#psi",
-        "fct-type": "function",
-        "title": "psi"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "psi",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:rad",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DAbsorbedDose a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#rad",
-        "fct-type": "function",
-        "title": "rad"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "rad",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:revolution",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DOne a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#revolution",
-        "fct-type": "function",
-        "title": "revolution"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "revolution",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:solid",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DOne a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#solid",
-        "fct-type": "function",
-        "title": "solid"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "solid",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:stokes",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DKinematicViscosity a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#stokes",
-        "fct-type": "function",
-        "title": "stokes"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "stokes",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:teaspoon",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DVolume a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#teaspoon",
-        "fct-type": "function",
-        "title": "teaspoon"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "teaspoon",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:technicalAtmosphere",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DPressure a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#technicalAtmosphere",
-        "fct-type": "function",
-        "title": "technicalAtmosphere"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "technicalAtmosphere",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Atmosphere",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:torr",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DPressure a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#torr",
-        "fct-type": "function",
-        "title": "torr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "torr",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:unifiedAtomicMassUnit",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DMass a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#unifiedAtomicMassUnit",
-        "fct-type": "function",
-        "title": "unifiedAtomicMassUnit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "unifiedAtomicMassUnit",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Atomic Mass Unit",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:yard",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DLength a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#yard",
-        "fct-type": "function",
-        "title": "yard"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "yard",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:year",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.NonSI",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DTime a",
-        "fct-source": "src/Numeric-Units-Dimensional-NonSI.html#year",
-        "fct-type": "function",
-        "title": "year"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional NonSI",
-        "module": "Numeric.Units.Dimensional.NonSI",
-        "name": "year",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Prelude.html#",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Prelude",
-        "fct-package": "dimensional",
-        "fct-signature": "module",
-        "fct-source": "src/Numeric-Units-Dimensional-Prelude.html",
-        "fct-type": "module",
-        "title": "Prelude"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Prelude",
-        "module": "Numeric.Units.Dimensional.Prelude",
-        "name": "Prelude",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Prelude",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003ePlease refer to the literate Haskell code for documentation of both API\n  and implementation.\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "module",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html",
-        "fct-type": "module",
-        "title": "Quantities"
-      },
-      "index": {
-        "description": "Please refer to the literate Haskell code for documentation of both API and implementation",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "Quantities",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Quantities",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:AbsorbedDose",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#AbsorbedDose",
-        "fct-type": "type",
-        "title": "AbsorbedDose"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "AbsorbedDose",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Absorbed Dose",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:AbsorbedDoseRate",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#AbsorbedDoseRate",
-        "fct-type": "type",
-        "title": "AbsorbedDoseRate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "AbsorbedDoseRate",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Absorbed Dose Rate",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Acceleration",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#Acceleration",
-        "fct-type": "type",
-        "title": "Acceleration"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "Acceleration",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Acceleration",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Activity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#Activity",
-        "fct-type": "type",
-        "title": "Activity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "Activity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Activity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:AmbientDoseEquivalent",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#AmbientDoseEquivalent",
-        "fct-type": "type",
-        "title": "AmbientDoseEquivalent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "AmbientDoseEquivalent",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Ambient Dose Equivalent",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:AmountOfSubstanceConcentration",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#AmountOfSubstanceConcentration",
-        "fct-type": "type",
-        "title": "AmountOfSubstanceConcentration"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "AmountOfSubstanceConcentration",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Amount Of Substance Concentration",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Angle",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#Angle",
-        "fct-type": "type",
-        "title": "Angle"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "Angle",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Angle",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:AngularAcceleration",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#AngularAcceleration",
-        "fct-type": "type",
-        "title": "AngularAcceleration"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "AngularAcceleration",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Angular Acceleration",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:AngularMomentum",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#AngularMomentum",
-        "fct-type": "type",
-        "title": "AngularMomentum"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "AngularMomentum",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Angular Momentum",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:AngularVelocity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#AngularVelocity",
-        "fct-type": "type",
-        "title": "AngularVelocity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "AngularVelocity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Angular Velocity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Area",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#Area",
-        "fct-type": "type",
-        "title": "Area"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "Area",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Area",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Capacitance",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#Capacitance",
-        "fct-type": "type",
-        "title": "Capacitance"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "Capacitance",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Capacitance",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:CelsiusTemperature",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#CelsiusTemperature",
-        "fct-type": "type",
-        "title": "CelsiusTemperature"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "CelsiusTemperature",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Celsius Temperature",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Concentration",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#Concentration",
-        "fct-type": "type",
-        "title": "Concentration"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "Concentration",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Concentration",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:CurrentDensity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#CurrentDensity",
-        "fct-type": "type",
-        "title": "CurrentDensity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "CurrentDensity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Current Density",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DAbsorbedDose",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DAbsorbedDose",
-        "fct-type": "type",
-        "title": "DAbsorbedDose"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DAbsorbedDose",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DAbsorbed Dose",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DAbsorbedDoseRate",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DAbsorbedDoseRate",
-        "fct-type": "type",
-        "title": "DAbsorbedDoseRate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DAbsorbedDoseRate",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DAbsorbed Dose Rate",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DAcceleration",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DAcceleration",
-        "fct-type": "type",
-        "title": "DAcceleration"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DAcceleration",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DAcceleration",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DActivity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DActivity",
-        "fct-type": "type",
-        "title": "DActivity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DActivity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DActivity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DAmbientDoseEquivalent",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DAmbientDoseEquivalent",
-        "fct-type": "type",
-        "title": "DAmbientDoseEquivalent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DAmbientDoseEquivalent",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DAmbient Dose Equivalent",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DAmountOfSubstanceConcentration",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DAmountOfSubstanceConcentration",
-        "fct-type": "type",
-        "title": "DAmountOfSubstanceConcentration"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DAmountOfSubstanceConcentration",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DAmount Of Substance Concentration",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DAngularAcceleration",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DAngularAcceleration",
-        "fct-type": "type",
-        "title": "DAngularAcceleration"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DAngularAcceleration",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DAngular Acceleration",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DAngularMomentum",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DAngularMomentum",
-        "fct-type": "type",
-        "title": "DAngularMomentum"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DAngularMomentum",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DAngular Momentum",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DAngularVelocity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DAngularVelocity",
-        "fct-type": "type",
-        "title": "DAngularVelocity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DAngularVelocity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DAngular Velocity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DArea",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DArea",
-        "fct-type": "type",
-        "title": "DArea"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DArea",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DArea",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DCapacitance",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DCapacitance",
-        "fct-type": "type",
-        "title": "DCapacitance"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DCapacitance",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DCapacitance",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DCelsiusTemperature",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DCelsiusTemperature",
-        "fct-type": "type",
-        "title": "DCelsiusTemperature"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DCelsiusTemperature",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DCelsius Temperature",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DCurrentDensity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DCurrentDensity",
-        "fct-type": "type",
-        "title": "DCurrentDensity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DCurrentDensity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DCurrent Density",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DDirectionalDoseEquivalent",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DDirectionalDoseEquivalent",
-        "fct-type": "type",
-        "title": "DDirectionalDoseEquivalent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DDirectionalDoseEquivalent",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DDirectional Dose Equivalent",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DDoseEquivalent",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DDoseEquivalent",
-        "fct-type": "type",
-        "title": "DDoseEquivalent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DDoseEquivalent",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DDose Equivalent",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DDynamicViscosity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DDynamicViscosity",
-        "fct-type": "type",
-        "title": "DDynamicViscosity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DDynamicViscosity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DDynamic Viscosity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DElectricCharge",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DElectricCharge",
-        "fct-type": "type",
-        "title": "DElectricCharge"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DElectricCharge",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DElectric Charge",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DElectricChargeDensity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DElectricChargeDensity",
-        "fct-type": "type",
-        "title": "DElectricChargeDensity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DElectricChargeDensity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DElectric Charge Density",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DElectricConductance",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DElectricConductance",
-        "fct-type": "type",
-        "title": "DElectricConductance"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DElectricConductance",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DElectric Conductance",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DElectricFieldStrength",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DElectricFieldStrength",
-        "fct-type": "type",
-        "title": "DElectricFieldStrength"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DElectricFieldStrength",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DElectric Field Strength",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DElectricFluxDensity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DElectricFluxDensity",
-        "fct-type": "type",
-        "title": "DElectricFluxDensity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DElectricFluxDensity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DElectric Flux Density",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DElectricPotential",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DElectricPotential",
-        "fct-type": "type",
-        "title": "DElectricPotential"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DElectricPotential",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DElectric Potential",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DElectricResistance",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DElectricResistance",
-        "fct-type": "type",
-        "title": "DElectricResistance"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DElectricResistance",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DElectric Resistance",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DElectromotiveForce",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DElectromotiveForce",
-        "fct-type": "type",
-        "title": "DElectromotiveForce"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DElectromotiveForce",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DElectromotive Force",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DEnergy",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DEnergy",
-        "fct-type": "type",
-        "title": "DEnergy"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DEnergy",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DEnergy",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DEnergyDensity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DEnergyDensity",
-        "fct-type": "type",
-        "title": "DEnergyDensity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DEnergyDensity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DEnergy Density",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DEntropy",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DEntropy",
-        "fct-type": "type",
-        "title": "DEntropy"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DEntropy",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DEntropy",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DEquivalentDose",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DEquivalentDose",
-        "fct-type": "type",
-        "title": "DEquivalentDose"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DEquivalentDose",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DEquivalent Dose",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DExposure",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DExposure",
-        "fct-type": "type",
-        "title": "DExposure"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DExposure",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DExposure",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DFirstMassMoment",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DFirstMassMoment",
-        "fct-type": "type",
-        "title": "DFirstMassMoment"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DFirstMassMoment",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DFirst Mass Moment",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DForce",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DForce",
-        "fct-type": "type",
-        "title": "DForce"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DForce",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DForce",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DFrequency",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DFrequency",
-        "fct-type": "type",
-        "title": "DFrequency"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DFrequency",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DFrequency",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DGravitationalParameter",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DGravitationalParameter",
-        "fct-type": "type",
-        "title": "DGravitationalParameter"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DGravitationalParameter",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DGravitational Parameter",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DHeatCapacity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DHeatCapacity",
-        "fct-type": "type",
-        "title": "DHeatCapacity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DHeatCapacity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DHeat Capacity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DHeatFluxDensity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DHeatFluxDensity",
-        "fct-type": "type",
-        "title": "DHeatFluxDensity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DHeatFluxDensity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DHeat Flux Density",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DIlluminance",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DIlluminance",
-        "fct-type": "type",
-        "title": "DIlluminance"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DIlluminance",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DIlluminance",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DImpulse",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DImpulse",
-        "fct-type": "type",
-        "title": "DImpulse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DImpulse",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DImpulse",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DInductance",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DInductance",
-        "fct-type": "type",
-        "title": "DInductance"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DInductance",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DInductance",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DIrradiance",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DIrradiance",
-        "fct-type": "type",
-        "title": "DIrradiance"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DIrradiance",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DIrradiance",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DKerma",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DKerma",
-        "fct-type": "type",
-        "title": "DKerma"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DKerma",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DKerma",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DKinematicViscosity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DKinematicViscosity",
-        "fct-type": "type",
-        "title": "DKinematicViscosity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DKinematicViscosity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DKinematic Viscosity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DLuminance",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DLuminance",
-        "fct-type": "type",
-        "title": "DLuminance"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DLuminance",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DLuminance",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DLuminousFlux",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DLuminousFlux",
-        "fct-type": "type",
-        "title": "DLuminousFlux"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DLuminousFlux",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DLuminous Flux",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DMagneticFieldStrength",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DMagneticFieldStrength",
-        "fct-type": "type",
-        "title": "DMagneticFieldStrength"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DMagneticFieldStrength",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DMagnetic Field Strength",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DMagneticFlux",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DMagneticFlux",
-        "fct-type": "type",
-        "title": "DMagneticFlux"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DMagneticFlux",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DMagnetic Flux",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DMagneticFluxDensity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DMagneticFluxDensity",
-        "fct-type": "type",
-        "title": "DMagneticFluxDensity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DMagneticFluxDensity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DMagnetic Flux Density",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DMassDensity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DMassDensity",
-        "fct-type": "type",
-        "title": "DMassDensity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DMassDensity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DMass Density",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DMassFlow",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DMassFlow",
-        "fct-type": "type",
-        "title": "DMassFlow"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DMassFlow",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DMass Flow",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DMolarEnergy",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DMolarEnergy",
-        "fct-type": "type",
-        "title": "DMolarEnergy"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DMolarEnergy",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DMolar Energy",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DMolarEntropy",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DMolarEntropy",
-        "fct-type": "type",
-        "title": "DMolarEntropy"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DMolarEntropy",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DMolar Entropy",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DMolarHeatCapacity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DMolarHeatCapacity",
-        "fct-type": "type",
-        "title": "DMolarHeatCapacity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DMolarHeatCapacity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DMolar Heat Capacity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DMomentOfForce",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DMomentOfForce",
-        "fct-type": "type",
-        "title": "DMomentOfForce"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DMomentOfForce",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DMoment Of Force",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DMomentOfInertia",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DMomentOfInertia",
-        "fct-type": "type",
-        "title": "DMomentOfInertia"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DMomentOfInertia",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DMoment Of Inertia",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DPermeability",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DPermeability",
-        "fct-type": "type",
-        "title": "DPermeability"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DPermeability",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DPermeability",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DPermittivity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DPermittivity",
-        "fct-type": "type",
-        "title": "DPermittivity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DPermittivity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DPermittivity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DPersonalDoseEquivalent",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DPersonalDoseEquivalent",
-        "fct-type": "type",
-        "title": "DPersonalDoseEquivalent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DPersonalDoseEquivalent",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DPersonal Dose Equivalent",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DPlaneAngle",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DPlaneAngle",
-        "fct-type": "type",
-        "title": "DPlaneAngle"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DPlaneAngle",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DPlane Angle",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DPotentialDifference",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DPotentialDifference",
-        "fct-type": "type",
-        "title": "DPotentialDifference"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DPotentialDifference",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DPotential Difference",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DPower",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DPower",
-        "fct-type": "type",
-        "title": "DPower"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DPower",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DPower",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DPressure",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DPressure",
-        "fct-type": "type",
-        "title": "DPressure"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DPressure",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DPressure",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DQuantityOfElectricity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DQuantityOfElectricity",
-        "fct-type": "type",
-        "title": "DQuantityOfElectricity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DQuantityOfElectricity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DQuantity Of Electricity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DQuantityOfHeat",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DQuantityOfHeat",
-        "fct-type": "type",
-        "title": "DQuantityOfHeat"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DQuantityOfHeat",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DQuantity Of Heat",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DRadiance",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DRadiance",
-        "fct-type": "type",
-        "title": "DRadiance"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DRadiance",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DRadiance",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DRadiantFlux",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DRadiantFlux",
-        "fct-type": "type",
-        "title": "DRadiantFlux"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DRadiantFlux",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DRadiant Flux",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DRadiantIntensity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DRadiantIntensity",
-        "fct-type": "type",
-        "title": "DRadiantIntensity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DRadiantIntensity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DRadiant Intensity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DSolidAngle",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DSolidAngle",
-        "fct-type": "type",
-        "title": "DSolidAngle"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DSolidAngle",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DSolid Angle",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DSpecificEnergy",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DSpecificEnergy",
-        "fct-type": "type",
-        "title": "DSpecificEnergy"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DSpecificEnergy",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DSpecific Energy",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DSpecificEntropy",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DSpecificEntropy",
-        "fct-type": "type",
-        "title": "DSpecificEntropy"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DSpecificEntropy",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DSpecific Entropy",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DSpecificHeatCapacity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DSpecificHeatCapacity",
-        "fct-type": "type",
-        "title": "DSpecificHeatCapacity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DSpecificHeatCapacity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DSpecific Heat Capacity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DSpecificVolume",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DSpecificVolume",
-        "fct-type": "type",
-        "title": "DSpecificVolume"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DSpecificVolume",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DSpecific Volume",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DStress",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DStress",
-        "fct-type": "type",
-        "title": "DStress"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DStress",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DStress",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DSurfaceTension",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DSurfaceTension",
-        "fct-type": "type",
-        "title": "DSurfaceTension"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DSurfaceTension",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DSurface Tension",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DThermalConductivity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DThermalConductivity",
-        "fct-type": "type",
-        "title": "DThermalConductivity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DThermalConductivity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DThermal Conductivity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DVelocity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DVelocity",
-        "fct-type": "type",
-        "title": "DVelocity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DVelocity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DVelocity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DVolume",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DVolume",
-        "fct-type": "type",
-        "title": "DVolume"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DVolume",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DVolume",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DWaveNumber",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DWaveNumber",
-        "fct-type": "type",
-        "title": "DWaveNumber"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DWaveNumber",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DWave Number",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DWork",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DWork",
-        "fct-type": "type",
-        "title": "DWork"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DWork",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DWork",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Density",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#Density",
-        "fct-type": "type",
-        "title": "Density"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "Density",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Density",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DirectionalDoseEquivalent",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DirectionalDoseEquivalent",
-        "fct-type": "type",
-        "title": "DirectionalDoseEquivalent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DirectionalDoseEquivalent",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Directional Dose Equivalent",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DoseEquivalent",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DoseEquivalent",
-        "fct-type": "type",
-        "title": "DoseEquivalent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DoseEquivalent",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Dose Equivalent",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DynamicViscosity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#DynamicViscosity",
-        "fct-type": "type",
-        "title": "DynamicViscosity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "DynamicViscosity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Dynamic Viscosity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:ElectricCharge",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#ElectricCharge",
-        "fct-type": "type",
-        "title": "ElectricCharge"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "ElectricCharge",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Electric Charge",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:ElectricChargeDensity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#ElectricChargeDensity",
-        "fct-type": "type",
-        "title": "ElectricChargeDensity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "ElectricChargeDensity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Electric Charge Density",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:ElectricConductance",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#ElectricConductance",
-        "fct-type": "type",
-        "title": "ElectricConductance"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "ElectricConductance",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Electric Conductance",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:ElectricFieldStrength",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#ElectricFieldStrength",
-        "fct-type": "type",
-        "title": "ElectricFieldStrength"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "ElectricFieldStrength",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Electric Field Strength",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:ElectricFluxDensity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#ElectricFluxDensity",
-        "fct-type": "type",
-        "title": "ElectricFluxDensity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "ElectricFluxDensity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Electric Flux Density",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:ElectricPotential",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#ElectricPotential",
-        "fct-type": "type",
-        "title": "ElectricPotential"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "ElectricPotential",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Electric Potential",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:ElectricResistance",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#ElectricResistance",
-        "fct-type": "type",
-        "title": "ElectricResistance"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "ElectricResistance",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Electric Resistance",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:ElectromotiveForce",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#ElectromotiveForce",
-        "fct-type": "type",
-        "title": "ElectromotiveForce"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "ElectromotiveForce",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Electromotive Force",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Energy",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#Energy",
-        "fct-type": "type",
-        "title": "Energy"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "Energy",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Energy",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:EnergyDensity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#EnergyDensity",
-        "fct-type": "type",
-        "title": "EnergyDensity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "EnergyDensity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Energy Density",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:EnergyPerUnitMass",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#EnergyPerUnitMass",
-        "fct-type": "type",
-        "title": "EnergyPerUnitMass"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "EnergyPerUnitMass",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Energy Per Unit Mass",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Entropy",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#Entropy",
-        "fct-type": "type",
-        "title": "Entropy"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "Entropy",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Entropy",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:EquivalentDose",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#EquivalentDose",
-        "fct-type": "type",
-        "title": "EquivalentDose"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "EquivalentDose",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Equivalent Dose",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Exposure",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#Exposure",
-        "fct-type": "type",
-        "title": "Exposure"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "Exposure",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Exposure",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:FirstMassMoment",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#FirstMassMoment",
-        "fct-type": "type",
-        "title": "FirstMassMoment"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "FirstMassMoment",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "First Mass Moment",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Force",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#Force",
-        "fct-type": "type",
-        "title": "Force"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "Force",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Force",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Frequency",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#Frequency",
-        "fct-type": "type",
-        "title": "Frequency"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "Frequency",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Frequency",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:GravitationalParameter",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#GravitationalParameter",
-        "fct-type": "type",
-        "title": "GravitationalParameter"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "GravitationalParameter",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Gravitational Parameter",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:HeatCapacity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#HeatCapacity",
-        "fct-type": "type",
-        "title": "HeatCapacity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "HeatCapacity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Heat Capacity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:HeatFluxDensity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#HeatFluxDensity",
-        "fct-type": "type",
-        "title": "HeatFluxDensity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "HeatFluxDensity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Heat Flux Density",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Illuminance",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#Illuminance",
-        "fct-type": "type",
-        "title": "Illuminance"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "Illuminance",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Illuminance",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Impulse",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#Impulse",
-        "fct-type": "type",
-        "title": "Impulse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "Impulse",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Impulse",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Inductance",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#Inductance",
-        "fct-type": "type",
-        "title": "Inductance"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "Inductance",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Inductance",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Irradiance",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#Irradiance",
-        "fct-type": "type",
-        "title": "Irradiance"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "Irradiance",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Irradiance",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Kerma",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#Kerma",
-        "fct-type": "type",
-        "title": "Kerma"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "Kerma",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Kerma",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:KinematicViscosity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#KinematicViscosity",
-        "fct-type": "type",
-        "title": "KinematicViscosity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "KinematicViscosity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Kinematic Viscosity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Luminance",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#Luminance",
-        "fct-type": "type",
-        "title": "Luminance"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "Luminance",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Luminance",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:LuminousFlux",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#LuminousFlux",
-        "fct-type": "type",
-        "title": "LuminousFlux"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "LuminousFlux",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Luminous Flux",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:MagneticFieldStrength",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#MagneticFieldStrength",
-        "fct-type": "type",
-        "title": "MagneticFieldStrength"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "MagneticFieldStrength",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Magnetic Field Strength",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:MagneticFlux",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#MagneticFlux",
-        "fct-type": "type",
-        "title": "MagneticFlux"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "MagneticFlux",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Magnetic Flux",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:MagneticFluxDensity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#MagneticFluxDensity",
-        "fct-type": "type",
-        "title": "MagneticFluxDensity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "MagneticFluxDensity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Magnetic Flux Density",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:MassDensity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#MassDensity",
-        "fct-type": "type",
-        "title": "MassDensity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "MassDensity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Mass Density",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:MassFlow",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#MassFlow",
-        "fct-type": "type",
-        "title": "MassFlow"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "MassFlow",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Mass Flow",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:MolarEnergy",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#MolarEnergy",
-        "fct-type": "type",
-        "title": "MolarEnergy"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "MolarEnergy",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Molar Energy",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:MolarEntropy",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#MolarEntropy",
-        "fct-type": "type",
-        "title": "MolarEntropy"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "MolarEntropy",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Molar Entropy",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:MolarHeatCapacity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#MolarHeatCapacity",
-        "fct-type": "type",
-        "title": "MolarHeatCapacity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "MolarHeatCapacity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Molar Heat Capacity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:MomentOfForce",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#MomentOfForce",
-        "fct-type": "type",
-        "title": "MomentOfForce"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "MomentOfForce",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Moment Of Force",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:MomentOfInertia",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#MomentOfInertia",
-        "fct-type": "type",
-        "title": "MomentOfInertia"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "MomentOfInertia",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Moment Of Inertia",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Permeability",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#Permeability",
-        "fct-type": "type",
-        "title": "Permeability"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "Permeability",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Permeability",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Permittivity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#Permittivity",
-        "fct-type": "type",
-        "title": "Permittivity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "Permittivity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Permittivity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:PersonalDoseEquivalent",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#PersonalDoseEquivalent",
-        "fct-type": "type",
-        "title": "PersonalDoseEquivalent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "PersonalDoseEquivalent",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Personal Dose Equivalent",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:PlaneAngle",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#PlaneAngle",
-        "fct-type": "type",
-        "title": "PlaneAngle"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "PlaneAngle",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Plane Angle",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:PotentialDifference",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#PotentialDifference",
-        "fct-type": "type",
-        "title": "PotentialDifference"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "PotentialDifference",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Potential Difference",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Power",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#Power",
-        "fct-type": "type",
-        "title": "Power"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "Power",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Power",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Pressure",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#Pressure",
-        "fct-type": "type",
-        "title": "Pressure"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "Pressure",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Pressure",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:QuantityOfElectricity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#QuantityOfElectricity",
-        "fct-type": "type",
-        "title": "QuantityOfElectricity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "QuantityOfElectricity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Quantity Of Electricity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:QuantityOfHeat",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#QuantityOfHeat",
-        "fct-type": "type",
-        "title": "QuantityOfHeat"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "QuantityOfHeat",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Quantity Of Heat",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Radiance",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#Radiance",
-        "fct-type": "type",
-        "title": "Radiance"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "Radiance",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Radiance",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:RadiantFlux",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#RadiantFlux",
-        "fct-type": "type",
-        "title": "RadiantFlux"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "RadiantFlux",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Radiant Flux",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:RadiantIntensity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#RadiantIntensity",
-        "fct-type": "type",
-        "title": "RadiantIntensity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "RadiantIntensity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Radiant Intensity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:SolidAngle",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#SolidAngle",
-        "fct-type": "type",
-        "title": "SolidAngle"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "SolidAngle",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Solid Angle",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:SpecificEnergy",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#SpecificEnergy",
-        "fct-type": "type",
-        "title": "SpecificEnergy"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "SpecificEnergy",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Specific Energy",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:SpecificEntropy",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#SpecificEntropy",
-        "fct-type": "type",
-        "title": "SpecificEntropy"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "SpecificEntropy",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Specific Entropy",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:SpecificHeatCapacity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#SpecificHeatCapacity",
-        "fct-type": "type",
-        "title": "SpecificHeatCapacity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "SpecificHeatCapacity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Specific Heat Capacity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:SpecificVolume",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#SpecificVolume",
-        "fct-type": "type",
-        "title": "SpecificVolume"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "SpecificVolume",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Specific Volume",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Stress",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#Stress",
-        "fct-type": "type",
-        "title": "Stress"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "Stress",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Stress",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:SurfaceTension",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#SurfaceTension",
-        "fct-type": "type",
-        "title": "SurfaceTension"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "SurfaceTension",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Surface Tension",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:ThermalConductivity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#ThermalConductivity",
-        "fct-type": "type",
-        "title": "ThermalConductivity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "ThermalConductivity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Thermal Conductivity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Thrust",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#Thrust",
-        "fct-type": "type",
-        "title": "Thrust"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "Thrust",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Thrust",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Velocity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#Velocity",
-        "fct-type": "type",
-        "title": "Velocity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "Velocity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Velocity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Volume",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#Volume",
-        "fct-type": "type",
-        "title": "Volume"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "Volume",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Volume",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:WaveNumber",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#WaveNumber",
-        "fct-type": "type",
-        "title": "WaveNumber"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "WaveNumber",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Wave Number",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Work",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#Work",
-        "fct-type": "type",
-        "title": "Work"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "Work",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Work",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#v:cubic",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DLength a -\u003e Unit DVolume a",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#cubic",
-        "fct-type": "function",
-        "title": "cubic"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "cubic",
-        "normalized": "Unit DLength a-\u003eUnit DVolume a",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Unit DLength a-\u003eUnit DVolume a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#v:square",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.Quantities",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DLength a -\u003e Unit DArea a",
-        "fct-source": "src/Numeric-Units-Dimensional-Quantities.html#square",
-        "fct-type": "function",
-        "title": "square"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional Quantities",
-        "module": "Numeric.Units.Dimensional.Quantities",
-        "name": "square",
-        "normalized": "Unit DLength a-\u003eUnit DArea a",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Unit DLength a-\u003eUnit DArea a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003ePlease refer to the literate Haskell code for documentation of both API\n  and implementation.\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "module",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html",
-        "fct-type": "module",
-        "title": "SIUnits"
-      },
-      "index": {
-        "description": "Please refer to the literate Haskell code for documentation of both API and implementation",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "SIUnits",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "SIUnits",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:ampere",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DElectricCurrent a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#ampere",
-        "fct-type": "function",
-        "title": "ampere"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "ampere",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:arcminute",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DPlaneAngle a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#arcminute",
-        "fct-type": "function",
-        "title": "arcminute"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "arcminute",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:arcsecond",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DPlaneAngle a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#arcsecond",
-        "fct-type": "function",
-        "title": "arcsecond"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "arcsecond",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:astronomicalUnit",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DLength a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#astronomicalUnit",
-        "fct-type": "function",
-        "title": "astronomicalUnit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "astronomicalUnit",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Unit",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:atto",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit d a -\u003e Unit d a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#atto",
-        "fct-type": "function",
-        "title": "atto"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "atto",
-        "normalized": "Unit a b-\u003eUnit a b",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Unit d a-\u003eUnit d a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:becquerel",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DActivity a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#becquerel",
-        "fct-type": "function",
-        "title": "becquerel"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "becquerel",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:candela",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DLuminousIntensity a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#candela",
-        "fct-type": "function",
-        "title": "candela"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "candela",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:centi",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit d a -\u003e Unit d a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#centi",
-        "fct-type": "function",
-        "title": "centi"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "centi",
-        "normalized": "Unit a b-\u003eUnit a b",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Unit d a-\u003eUnit d a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:coulomb",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DElectricCharge a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#coulomb",
-        "fct-type": "function",
-        "title": "coulomb"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "coulomb",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:day",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DTime a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#day",
-        "fct-type": "function",
-        "title": "day"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "day",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:deca",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit d a -\u003e Unit d a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#deca",
-        "fct-type": "function",
-        "title": "deca"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "deca",
-        "normalized": "Unit a b-\u003eUnit a b",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Unit d a-\u003eUnit d a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:deci",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit d a -\u003e Unit d a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#deci",
-        "fct-type": "function",
-        "title": "deci"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "deci",
-        "normalized": "Unit a b-\u003eUnit a b",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Unit d a-\u003eUnit d a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:degree",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DPlaneAngle a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#degree",
-        "fct-type": "function",
-        "title": "degree"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "degree",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:degreeCelsius",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DCelsiusTemperature a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#degreeCelsius",
-        "fct-type": "function",
-        "title": "degreeCelsius"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "degreeCelsius",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Celsius",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:degreeOfArc",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DPlaneAngle a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#degreeOfArc",
-        "fct-type": "function",
-        "title": "degreeOfArc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "degreeOfArc",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Of Arc",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:deka",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit d a -\u003e Unit d a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#deka",
-        "fct-type": "function",
-        "title": "deka"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "deka",
-        "normalized": "Unit a b-\u003eUnit a b",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Unit d a-\u003eUnit d a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:exa",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit d a -\u003e Unit d a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#exa",
-        "fct-type": "function",
-        "title": "exa"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "exa",
-        "normalized": "Unit a b-\u003eUnit a b",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Unit d a-\u003eUnit d a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:farad",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DCapacitance a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#farad",
-        "fct-type": "function",
-        "title": "farad"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "farad",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:femto",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit d a -\u003e Unit d a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#femto",
-        "fct-type": "function",
-        "title": "femto"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "femto",
-        "normalized": "Unit a b-\u003eUnit a b",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Unit d a-\u003eUnit d a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:fromDegreeCelsiusAbsolute",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "a -\u003e ThermodynamicTemperature a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#fromDegreeCelsiusAbsolute",
-        "fct-type": "function",
-        "title": "fromDegreeCelsiusAbsolute"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "fromDegreeCelsiusAbsolute",
-        "normalized": "a-\u003eThermodynamicTemperature a",
-        "package": "dimensional",
-        "partial": "Degree Celsius Absolute",
-        "signature": "a-\u003eThermodynamicTemperature a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:fromDiffTime",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "DiffTime -\u003e Time a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#fromDiffTime",
-        "fct-type": "function",
-        "title": "fromDiffTime"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "fromDiffTime",
-        "normalized": "DiffTime-\u003eTime a",
-        "package": "dimensional",
-        "partial": "Diff Time",
-        "signature": "DiffTime-\u003eTime a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:giga",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit d a -\u003e Unit d a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#giga",
-        "fct-type": "function",
-        "title": "giga"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "giga",
-        "normalized": "Unit a b-\u003eUnit a b",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Unit d a-\u003eUnit d a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:gram",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DMass a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#gram",
-        "fct-type": "function",
-        "title": "gram"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "gram",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:gray",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DAbsorbedDose a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#gray",
-        "fct-type": "function",
-        "title": "gray"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "gray",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:hecto",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit d a -\u003e Unit d a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#hecto",
-        "fct-type": "function",
-        "title": "hecto"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "hecto",
-        "normalized": "Unit a b-\u003eUnit a b",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Unit d a-\u003eUnit d a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:henry",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DInductance a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#henry",
-        "fct-type": "function",
-        "title": "henry"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "henry",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:hertz",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DFrequency a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#hertz",
-        "fct-type": "function",
-        "title": "hertz"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "hertz",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:hour",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DTime a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#hour",
-        "fct-type": "function",
-        "title": "hour"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "hour",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:joule",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DEnergy a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#joule",
-        "fct-type": "function",
-        "title": "joule"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "joule",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:kelvin",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DThermodynamicTemperature a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#kelvin",
-        "fct-type": "function",
-        "title": "kelvin"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "kelvin",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:kilo",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit d a -\u003e Unit d a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#kilo",
-        "fct-type": "function",
-        "title": "kilo"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "kilo",
-        "normalized": "Unit a b-\u003eUnit a b",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Unit d a-\u003eUnit d a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:liter",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DVolume a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#liter",
-        "fct-type": "function",
-        "title": "liter"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "liter",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:litre",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DVolume a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#litre",
-        "fct-type": "function",
-        "title": "litre"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "litre",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:lumen",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DLuminousFlux a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#lumen",
-        "fct-type": "function",
-        "title": "lumen"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "lumen",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:lux",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DIlluminance a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#lux",
-        "fct-type": "function",
-        "title": "lux"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "lux",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:mega",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit d a -\u003e Unit d a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#mega",
-        "fct-type": "function",
-        "title": "mega"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "mega",
-        "normalized": "Unit a b-\u003eUnit a b",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Unit d a-\u003eUnit d a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:meter",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DLength a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#meter",
-        "fct-type": "function",
-        "title": "meter"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "meter",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:metre",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DLength a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#metre",
-        "fct-type": "function",
-        "title": "metre"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "metre",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:metricTon",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DMass a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#metricTon",
-        "fct-type": "function",
-        "title": "metricTon"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "metricTon",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Ton",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:micro",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit d a -\u003e Unit d a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#micro",
-        "fct-type": "function",
-        "title": "micro"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "micro",
-        "normalized": "Unit a b-\u003eUnit a b",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Unit d a-\u003eUnit d a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:milli",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit d a -\u003e Unit d a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#milli",
-        "fct-type": "function",
-        "title": "milli"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "milli",
-        "normalized": "Unit a b-\u003eUnit a b",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Unit d a-\u003eUnit d a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:minute",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DTime a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#minute",
-        "fct-type": "function",
-        "title": "minute"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "minute",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:minuteOfArc",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DPlaneAngle a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#minuteOfArc",
-        "fct-type": "function",
-        "title": "minuteOfArc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "minuteOfArc",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Of Arc",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:mole",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DAmountOfSubstance a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#mole",
-        "fct-type": "function",
-        "title": "mole"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "mole",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:nano",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit d a -\u003e Unit d a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#nano",
-        "fct-type": "function",
-        "title": "nano"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "nano",
-        "normalized": "Unit a b-\u003eUnit a b",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Unit d a-\u003eUnit d a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:newton",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DForce a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#newton",
-        "fct-type": "function",
-        "title": "newton"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "newton",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:ohm",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DElectricResistance a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#ohm",
-        "fct-type": "function",
-        "title": "ohm"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "ohm",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:pascal",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DPressure a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#pascal",
-        "fct-type": "function",
-        "title": "pascal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "pascal",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:peta",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit d a -\u003e Unit d a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#peta",
-        "fct-type": "function",
-        "title": "peta"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "peta",
-        "normalized": "Unit a b-\u003eUnit a b",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Unit d a-\u003eUnit d a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:pico",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit d a -\u003e Unit d a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#pico",
-        "fct-type": "function",
-        "title": "pico"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "pico",
-        "normalized": "Unit a b-\u003eUnit a b",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Unit d a-\u003eUnit d a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:radian",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DPlaneAngle a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#radian",
-        "fct-type": "function",
-        "title": "radian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "radian",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:second",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DTime a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#second",
-        "fct-type": "function",
-        "title": "second"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "second",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:secondOfArc",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DPlaneAngle a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#secondOfArc",
-        "fct-type": "function",
-        "title": "secondOfArc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "secondOfArc",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Of Arc",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:siemens",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DElectricConductance a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#siemens",
-        "fct-type": "function",
-        "title": "siemens"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "siemens",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:sievert",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DDoseEquivalent a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#sievert",
-        "fct-type": "function",
-        "title": "sievert"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "sievert",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:steradian",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DSolidAngle a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#steradian",
-        "fct-type": "function",
-        "title": "steradian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "steradian",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:tera",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit d a -\u003e Unit d a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#tera",
-        "fct-type": "function",
-        "title": "tera"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "tera",
-        "normalized": "Unit a b-\u003eUnit a b",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Unit d a-\u003eUnit d a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:tesla",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DMagneticFluxDensity a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#tesla",
-        "fct-type": "function",
-        "title": "tesla"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "tesla",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:toDegreeCelsiusAbsolute",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "ThermodynamicTemperature a -\u003e a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#toDegreeCelsiusAbsolute",
-        "fct-type": "function",
-        "title": "toDegreeCelsiusAbsolute"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "toDegreeCelsiusAbsolute",
-        "normalized": "ThermodynamicTemperature a-\u003ea",
-        "package": "dimensional",
-        "partial": "Degree Celsius Absolute",
-        "signature": "ThermodynamicTemperature a-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:toDiffTime",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Time a -\u003e DiffTime",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#toDiffTime",
-        "fct-type": "function",
-        "title": "toDiffTime"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "toDiffTime",
-        "normalized": "Time a-\u003eDiffTime",
-        "package": "dimensional",
-        "partial": "Diff Time",
-        "signature": "Time a-\u003eDiffTime"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:tonne",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DMass a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#tonne",
-        "fct-type": "function",
-        "title": "tonne"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "tonne",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:volt",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DElectricPotential a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#volt",
-        "fct-type": "function",
-        "title": "volt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "volt",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:watt",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DPower a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#watt",
-        "fct-type": "function",
-        "title": "watt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "watt",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:weber",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DMagneticFlux a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#weber",
-        "fct-type": "function",
-        "title": "weber"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "weber",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:yocto",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit d a -\u003e Unit d a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#yocto",
-        "fct-type": "function",
-        "title": "yocto"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "yocto",
-        "normalized": "Unit a b-\u003eUnit a b",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Unit d a-\u003eUnit d a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:yotta",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit d a -\u003e Unit d a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#yotta",
-        "fct-type": "function",
-        "title": "yotta"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "yotta",
-        "normalized": "Unit a b-\u003eUnit a b",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Unit d a-\u003eUnit d a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:zepto",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit d a -\u003e Unit d a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#zepto",
-        "fct-type": "function",
-        "title": "zepto"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "zepto",
-        "normalized": "Unit a b-\u003eUnit a b",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Unit d a-\u003eUnit d a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:zetta",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional.SIUnits",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit d a -\u003e Unit d a",
-        "fct-source": "src/Numeric-Units-Dimensional-SIUnits.html#zetta",
-        "fct-type": "function",
-        "title": "zetta"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional SIUnits",
-        "module": "Numeric.Units.Dimensional.SIUnits",
-        "name": "zetta",
-        "normalized": "Unit a b-\u003eUnit a b",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Unit d a-\u003eUnit d a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003ePlease refer to the literate Haskell code for documentation of both API\n  and implementation.\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "module",
-        "fct-source": "src/Numeric-Units-Dimensional.html",
-        "fct-type": "module",
-        "title": "Dimensional"
-      },
-      "index": {
-        "description": "Please refer to the literate Haskell code for documentation of both API and implementation",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "Dimensional",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Dimensional",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:AmountOfSubstance",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional.html#AmountOfSubstance",
-        "fct-type": "type",
-        "title": "AmountOfSubstance"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "AmountOfSubstance",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Amount Of Substance",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:DAmountOfSubstance",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional.html#DAmountOfSubstance",
-        "fct-type": "type",
-        "title": "DAmountOfSubstance"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "DAmountOfSubstance",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DAmount Of Substance",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:DElectricCurrent",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional.html#DElectricCurrent",
-        "fct-type": "type",
-        "title": "DElectricCurrent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "DElectricCurrent",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DElectric Current",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:DLength",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional.html#DLength",
-        "fct-type": "type",
-        "title": "DLength"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "DLength",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DLength",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:DLuminousIntensity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional.html#DLuminousIntensity",
-        "fct-type": "type",
-        "title": "DLuminousIntensity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "DLuminousIntensity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DLuminous Intensity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:DMass",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional.html#DMass",
-        "fct-type": "type",
-        "title": "DMass"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "DMass",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DMass",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:DOne",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional.html#DOne",
-        "fct-type": "type",
-        "title": "DOne"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "DOne",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DOne",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:DQuantity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "data",
-        "fct-source": "src/Numeric-Units-Dimensional.html#DQuantity",
-        "fct-type": "data",
-        "title": "DQuantity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "DQuantity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DQuantity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:DThermodynamicTemperature",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional.html#DThermodynamicTemperature",
-        "fct-type": "type",
-        "title": "DThermodynamicTemperature"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "DThermodynamicTemperature",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DThermodynamic Temperature",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:DTime",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional.html#DTime",
-        "fct-type": "type",
-        "title": "DTime"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "DTime",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DTime",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:DUnit",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "data",
-        "fct-source": "src/Numeric-Units-Dimensional.html#DUnit",
-        "fct-type": "data",
-        "title": "DUnit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "DUnit",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "DUnit",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:Dim",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "data",
-        "fct-source": "src/Numeric-Units-Dimensional.html#Dim",
-        "fct-type": "data",
-        "title": "Dim"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "Dim",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Dim",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:Dimensional",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "newtype",
-        "fct-source": "src/Numeric-Units-Dimensional.html#Dimensional",
-        "fct-type": "newtype",
-        "title": "Dimensional"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "Dimensional",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Dimensional",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:Dimensionless",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional.html#Dimensionless",
-        "fct-type": "type",
-        "title": "Dimensionless"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "Dimensionless",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Dimensionless",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:Div",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "class",
-        "fct-source": "src/Numeric-Units-Dimensional.html#Div",
-        "fct-type": "class",
-        "title": "Div"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "Div",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Div",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:ElectricCurrent",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional.html#ElectricCurrent",
-        "fct-type": "type",
-        "title": "ElectricCurrent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "ElectricCurrent",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Electric Current",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:Length",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional.html#Length",
-        "fct-type": "type",
-        "title": "Length"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "Length",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Length",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:LuminousIntensity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional.html#LuminousIntensity",
-        "fct-type": "type",
-        "title": "LuminousIntensity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "LuminousIntensity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Luminous Intensity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:Mass",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional.html#Mass",
-        "fct-type": "type",
-        "title": "Mass"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "Mass",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Mass",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:Mul",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "class",
-        "fct-source": "src/Numeric-Units-Dimensional.html#Mul",
-        "fct-type": "class",
-        "title": "Mul"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "Mul",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Mul",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:Pow",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "class",
-        "fct-source": "src/Numeric-Units-Dimensional.html#Pow",
-        "fct-type": "class",
-        "title": "Pow"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "Pow",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Pow",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:Quantity",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional.html#Quantity",
-        "fct-type": "type",
-        "title": "Quantity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "Quantity",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Quantity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:Root",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "class",
-        "fct-source": "src/Numeric-Units-Dimensional.html#Root",
-        "fct-type": "class",
-        "title": "Root"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "Root",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Root",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:ThermodynamicTemperature",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional.html#ThermodynamicTemperature",
-        "fct-type": "type",
-        "title": "ThermodynamicTemperature"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "ThermodynamicTemperature",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Thermodynamic Temperature",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:Time",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional.html#Time",
-        "fct-type": "type",
-        "title": "Time"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "Time",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Time",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:Unit",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "type",
-        "fct-source": "src/Numeric-Units-Dimensional.html#Unit",
-        "fct-type": "type",
-        "title": "Unit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "Unit",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Unit",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:-42-",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensional v d a -\u003e Dimensional v d' a -\u003e Dimensional v d'' a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#%2A",
-        "fct-type": "function",
-        "title": "(*)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "(*) *",
-        "normalized": "Dimensional a b c-\u003eDimensional a d c-\u003eDimensional a e c",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Dimensional v d a-\u003eDimensional v d' a-\u003eDimensional v d'' a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:-42--126-",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "a -\u003e Unit d a -\u003e Quantity d a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#%2A~",
-        "fct-type": "function",
-        "title": "(*~)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "(*~) *~",
-        "normalized": "a-\u003eUnit b a-\u003eQuantity b a",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "a-\u003eUnit d a-\u003eQuantity d a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:-42--126--126-",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "f a -\u003e Unit d a -\u003e f (Quantity d a)",
-        "fct-source": "src/Numeric-Units-Dimensional.html#%2A~~",
-        "fct-type": "function",
-        "title": "(*~~)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "(*~~) *~~",
-        "normalized": "a b-\u003eUnit c b-\u003ea(Quantity c b)",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "f a-\u003eUnit d a-\u003ef(Quantity d a)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:-42--42-",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensionless a -\u003e Dimensionless a -\u003e Dimensionless a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#%2A%2A",
-        "fct-type": "function",
-        "title": "(**)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "(**) **",
-        "normalized": "Dimensionless a-\u003eDimensionless a-\u003eDimensionless a",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Dimensionless a-\u003eDimensionless a-\u003eDimensionless a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:-43-",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Quantity d a -\u003e Quantity d a -\u003e Quantity d a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#%2B",
-        "fct-type": "function",
-        "title": "(+)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "(+) +",
-        "normalized": "Quantity a b-\u003eQuantity a b-\u003eQuantity a b",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Quantity d a-\u003eQuantity d a-\u003eQuantity d a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:-45-",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Quantity d a -\u003e Quantity d a -\u003e Quantity d a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#-",
-        "fct-type": "function",
-        "title": "(-)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "(-) -",
-        "normalized": "Quantity a b-\u003eQuantity a b-\u003eQuantity a b",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Quantity d a-\u003eQuantity d a-\u003eQuantity d a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:-47-",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensional v d a -\u003e Dimensional v d' a -\u003e Dimensional v d'' a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#%2F",
-        "fct-type": "function",
-        "title": "(/)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "(/) /",
-        "normalized": "Dimensional a b c-\u003eDimensional a d c-\u003eDimensional a e c",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Dimensional v d a-\u003eDimensional v d' a-\u003eDimensional v d'' a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:-47--126-",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Quantity d a -\u003e Unit d a -\u003e a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#%2F~",
-        "fct-type": "function",
-        "title": "(/~)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "(/~) /~",
-        "normalized": "Quantity a b-\u003eUnit a b-\u003eb",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Quantity d a-\u003eUnit d a-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:-47--126--126-",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "f (Quantity d a) -\u003e Unit d a -\u003e f a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#%2F~~",
-        "fct-type": "function",
-        "title": "(/~~)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "(/~~) /~~",
-        "normalized": "a(Quantity b c)-\u003eUnit b c-\u003ea c",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "f(Quantity d a)-\u003eUnit d a-\u003ef a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:-94-",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensional v d a -\u003e n -\u003e Dimensional v d' a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#%5E",
-        "fct-type": "function",
-        "title": "(^)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "(^) ^",
-        "normalized": "Dimensional a b c-\u003ed-\u003eDimensional a e c",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Dimensional v d a-\u003en-\u003eDimensional v d' a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:-94--43-",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensional v d a -\u003e n -\u003e Dimensional v d' a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#%5E%2B",
-        "fct-type": "function",
-        "title": "(^+)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "(^+) ^+",
-        "normalized": "Dimensional a b c-\u003ed-\u003eDimensional a e c",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Dimensional v d a-\u003en-\u003eDimensional v d' a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:-94--47-",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensional v d a -\u003e n -\u003e Dimensional v d' a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#%5E%2F",
-        "fct-type": "function",
-        "title": "(^/)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "(^/) ^/",
-        "normalized": "Dimensional a b c-\u003ed-\u003eDimensional a e c",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Dimensional v d a-\u003en-\u003eDimensional v d' a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:Dimensional",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensional a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#Dimensional",
-        "fct-type": "function",
-        "title": "Dimensional"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "Dimensional",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "Dimensional",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:_0",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Quantity d a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#_0",
-        "fct-type": "function",
-        "title": "_0"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "_0",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:_1",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensionless a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#_1",
-        "fct-type": "function",
-        "title": "_1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "_1",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:_2",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensionless a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#_2",
-        "fct-type": "function",
-        "title": "_2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "_2",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:_3",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensionless a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#_3",
-        "fct-type": "function",
-        "title": "_3"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "_3",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:_4",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensionless a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#_4",
-        "fct-type": "function",
-        "title": "_4"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "_4",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:_5",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensionless a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#_5",
-        "fct-type": "function",
-        "title": "_5"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "_5",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:_6",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensionless a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#_6",
-        "fct-type": "function",
-        "title": "_6"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "_6",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:_7",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensionless a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#_7",
-        "fct-type": "function",
-        "title": "_7"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "_7",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:_8",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensionless a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#_8",
-        "fct-type": "function",
-        "title": "_8"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "_8",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:_9",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensionless a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#_9",
-        "fct-type": "function",
-        "title": "_9"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "_9",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:abs",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Quantity d a -\u003e Quantity d a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#abs",
-        "fct-type": "function",
-        "title": "abs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "abs",
-        "normalized": "Quantity a b-\u003eQuantity a b",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Quantity d a-\u003eQuantity d a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:acos",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensionless a -\u003e Dimensionless a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#acos",
-        "fct-type": "function",
-        "title": "acos"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "acos",
-        "normalized": "Dimensionless a-\u003eDimensionless a",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Dimensionless a-\u003eDimensionless a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:acosh",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensionless a -\u003e Dimensionless a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#acosh",
-        "fct-type": "function",
-        "title": "acosh"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "acosh",
-        "normalized": "Dimensionless a-\u003eDimensionless a",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Dimensionless a-\u003eDimensionless a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:asin",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensionless a -\u003e Dimensionless a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#asin",
-        "fct-type": "function",
-        "title": "asin"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "asin",
-        "normalized": "Dimensionless a-\u003eDimensionless a",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Dimensionless a-\u003eDimensionless a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:asinh",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensionless a -\u003e Dimensionless a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#asinh",
-        "fct-type": "function",
-        "title": "asinh"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "asinh",
-        "normalized": "Dimensionless a-\u003eDimensionless a",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Dimensionless a-\u003eDimensionless a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:atan",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensionless a -\u003e Dimensionless a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#atan",
-        "fct-type": "function",
-        "title": "atan"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "atan",
-        "normalized": "Dimensionless a-\u003eDimensionless a",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Dimensionless a-\u003eDimensionless a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:atan2",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Quantity d a -\u003e Quantity d a -\u003e Dimensionless a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#atan2",
-        "fct-type": "function",
-        "title": "atan2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "atan2",
-        "normalized": "Quantity a b-\u003eQuantity a b-\u003eDimensionless b",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Quantity d a-\u003eQuantity d a-\u003eDimensionless a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:atanh",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensionless a -\u003e Dimensionless a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#atanh",
-        "fct-type": "function",
-        "title": "atanh"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "atanh",
-        "normalized": "Dimensionless a-\u003eDimensionless a",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Dimensionless a-\u003eDimensionless a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:cbrt",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensional v d a -\u003e Dimensional v d' a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#cbrt",
-        "fct-type": "function",
-        "title": "cbrt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "cbrt",
-        "normalized": "Dimensional a b c-\u003eDimensional a d c",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Dimensional v d a-\u003eDimensional v d' a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:cos",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensionless a -\u003e Dimensionless a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#cos",
-        "fct-type": "function",
-        "title": "cos"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "cos",
-        "normalized": "Dimensionless a-\u003eDimensionless a",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Dimensionless a-\u003eDimensionless a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:cosh",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensionless a -\u003e Dimensionless a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#cosh",
-        "fct-type": "function",
-        "title": "cosh"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "cosh",
-        "normalized": "Dimensionless a-\u003eDimensionless a",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Dimensionless a-\u003eDimensionless a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:dimUnit",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "String -\u003e n -\u003e Maybe String",
-        "fct-source": "src/Numeric-Units-Dimensional.html#dimUnit",
-        "fct-type": "function",
-        "title": "dimUnit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "dimUnit",
-        "normalized": "String-\u003ea-\u003eMaybe String",
-        "package": "dimensional",
-        "partial": "Unit",
-        "signature": "String-\u003en-\u003eMaybe String"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:dimensionlessLength",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "[Dimensional v d a] -\u003e Dimensionless a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#dimensionlessLength",
-        "fct-type": "function",
-        "title": "dimensionlessLength"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "dimensionlessLength",
-        "normalized": "[Dimensional a b c]-\u003eDimensionless c",
-        "package": "dimensional",
-        "partial": "Length",
-        "signature": "[Dimensional v d a]-\u003eDimensionless a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:exp",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensionless a -\u003e Dimensionless a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#exp",
-        "fct-type": "function",
-        "title": "exp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "exp",
-        "normalized": "Dimensionless a-\u003eDimensionless a",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Dimensionless a-\u003eDimensionless a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:log",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensionless a -\u003e Dimensionless a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#log",
-        "fct-type": "function",
-        "title": "log"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "log",
-        "normalized": "Dimensionless a-\u003eDimensionless a",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Dimensionless a-\u003eDimensionless a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:negate",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Quantity d a -\u003e Quantity d a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#negate",
-        "fct-type": "function",
-        "title": "negate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "negate",
-        "normalized": "Quantity a b-\u003eQuantity a b",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Quantity d a-\u003eQuantity d a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:nroot",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "n -\u003e Dimensional v d a -\u003e Dimensional v d' a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#nroot",
-        "fct-type": "function",
-        "title": "nroot"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "nroot",
-        "normalized": "a-\u003eDimensional b c d-\u003eDimensional b e d",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "n-\u003eDimensional v d a-\u003eDimensional v d' a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:one",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Unit DOne a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#one",
-        "fct-type": "function",
-        "title": "one"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "one",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:pi",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensionless a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#pi",
-        "fct-type": "function",
-        "title": "pi"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "pi",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:prefix",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "a -\u003e Unit d a -\u003e Unit d a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#prefix",
-        "fct-type": "function",
-        "title": "prefix"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "prefix",
-        "normalized": "a-\u003eUnit b a-\u003eUnit b a",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "a-\u003eUnit d a-\u003eUnit d a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:sin",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensionless a -\u003e Dimensionless a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#sin",
-        "fct-type": "function",
-        "title": "sin"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "sin",
-        "normalized": "Dimensionless a-\u003eDimensionless a",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Dimensionless a-\u003eDimensionless a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:sinh",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensionless a -\u003e Dimensionless a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#sinh",
-        "fct-type": "function",
-        "title": "sinh"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "sinh",
-        "normalized": "Dimensionless a-\u003eDimensionless a",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Dimensionless a-\u003eDimensionless a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:sqrt",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensional v d a -\u003e Dimensional v d' a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#sqrt",
-        "fct-type": "function",
-        "title": "sqrt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "sqrt",
-        "normalized": "Dimensional a b c-\u003eDimensional a d c",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Dimensional v d a-\u003eDimensional v d' a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:sum",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "[Quantity d a] -\u003e Quantity d a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#sum",
-        "fct-type": "function",
-        "title": "sum"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "sum",
-        "normalized": "[Quantity a b]-\u003eQuantity a b",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "[Quantity d a]-\u003eQuantity d a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:tan",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensionless a -\u003e Dimensionless a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#tan",
-        "fct-type": "function",
-        "title": "tan"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "tan",
-        "normalized": "Dimensionless a-\u003eDimensionless a",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Dimensionless a-\u003eDimensionless a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:tanh",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensionless a -\u003e Dimensionless a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#tanh",
-        "fct-type": "function",
-        "title": "tanh"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "tanh",
-        "normalized": "Dimensionless a-\u003eDimensionless a",
-        "package": "dimensional",
-        "partial": "",
-        "signature": "Dimensionless a-\u003eDimensionless a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:tau",
-      "description": {
-        "fct-module": "Numeric.Units.Dimensional",
-        "fct-package": "dimensional",
-        "fct-signature": "Dimensionless a",
-        "fct-source": "src/Numeric-Units-Dimensional.html#tau",
-        "fct-type": "function",
-        "title": "tau"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Numeric Units Dimensional",
-        "module": "Numeric.Units.Dimensional",
-        "name": "tau",
-        "normalized": "",
-        "package": "dimensional",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  }
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "dimensional"
+      },
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003ePlease refer to the literate Haskell code for documentation of both API\n  and implementation.\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "CGS",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-CGS.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "Please refer to the literate Haskell code for documentation of both API and implementation",
+          "hierarchy": "Numeric Units Dimensional CGS",
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "CGS",
+          "package": "dimensional",
+          "partial": "CGS",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "CGSDim",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-CGS.html#CGSDim",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional CGS",
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "CGSDim",
+          "package": "dimensional",
+          "partial": "CGSDim",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#t:CGSDim"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "DCharge",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-CGS.html#DCharge",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional CGS",
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "DCharge",
+          "package": "dimensional",
+          "partial": "DCharge",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#t:DCharge"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "DElectricCurrent",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-CGS.html#DElectricCurrent",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional CGS",
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "DElectricCurrent",
+          "package": "dimensional",
+          "partial": "DElectric Current",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#t:DElectricCurrent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "DLength",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-CGS.html#DLength",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional CGS",
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "DLength",
+          "package": "dimensional",
+          "partial": "DLength",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#t:DLength"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "DMass",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-CGS.html#DMass",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional CGS",
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "DMass",
+          "package": "dimensional",
+          "partial": "DMass",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#t:DMass"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "DTime",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-CGS.html#DTime",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional CGS",
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "DTime",
+          "package": "dimensional",
+          "partial": "DTime",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#t:DTime"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "ampere",
+          "package": "dimensional",
+          "signature": "Unit DElectricCurrent a",
+          "source": "src/Numeric-Units-Dimensional-CGS.html#ampere",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional CGS",
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "ampere",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:ampere"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "c",
+          "package": "dimensional",
+          "signature": "Quantity DCapacitance Double",
+          "source": "src/Numeric-Units-Dimensional-CGS.html#c",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional CGS",
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "c",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:c"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "c'",
+          "package": "dimensional",
+          "signature": "Capacitance Double",
+          "source": "src/Numeric-Units-Dimensional-CGS.html#c%27",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional CGS",
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "c'",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:c-39-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "c''",
+          "package": "dimensional",
+          "signature": "Length Double",
+          "source": "src/Numeric-Units-Dimensional-CGS.html#c%27%27",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional CGS",
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "c''",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:c-39--39-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "c_cgs",
+          "package": "dimensional",
+          "signature": "Quantity (CGSDim (Pos (Pos Zero)) Zero Zero) Double",
+          "source": "src/Numeric-Units-Dimensional-CGS.html#c_cgs",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional CGS",
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "c_cgs",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:c_cgs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "f_cgs",
+          "package": "dimensional",
+          "signature": "Dimensional DQuantity (CGSDim (Pos (Pos Zero)) (Pos (Pos Zero)) (Neg (Neg Zero))) Double",
+          "source": "src/Numeric-Units-Dimensional-CGS.html#f_cgs",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional CGS",
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "f_cgs",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:f_cgs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "f_si",
+          "package": "dimensional",
+          "signature": "Dimensional DQuantity (Dim (Pos Zero) (Pos Zero) (Neg (Neg Zero)) Zero Zero Zero Zero) Double",
+          "source": "src/Numeric-Units-Dimensional-CGS.html#f_si",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional CGS",
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "f_si",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:f_si"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "f_si'",
+          "package": "dimensional",
+          "signature": "Force Double",
+          "source": "src/Numeric-Units-Dimensional-CGS.html#f_si%27",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional CGS",
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "f_si'",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:f_si-39-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "franklin",
+          "package": "dimensional",
+          "signature": "Unit DCharge a",
+          "source": "src/Numeric-Units-Dimensional-CGS.html#franklin",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional CGS",
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "franklin",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:franklin"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "fromSI",
+          "package": "dimensional",
+          "signature": "Quantity (Dim l m t i Zero Zero Zero) a -\u003e Quantity (CGSDim l' m' t') a",
+          "source": "src/Numeric-Units-Dimensional-CGS.html#fromSI",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional CGS",
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "fromSI",
+          "normalized": "Quantity(Dim a b c d Zero Zero Zero)e-\u003eQuantity(CGSDim f g h)e",
+          "package": "dimensional",
+          "partial": "SI",
+          "signature": "Quantity(Dim l m t i Zero Zero Zero)a-\u003eQuantity(CGSDim l' m' t')a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:fromSI"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "gram",
+          "package": "dimensional",
+          "signature": "Unit DMass a",
+          "source": "src/Numeric-Units-Dimensional-CGS.html#gram",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional CGS",
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "gram",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:gram"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "meter",
+          "package": "dimensional",
+          "signature": "Unit DLength a",
+          "source": "src/Numeric-Units-Dimensional-CGS.html#meter",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional CGS",
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "meter",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:meter"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "q_cgs",
+          "package": "dimensional",
+          "signature": "Quantity (CGSDim (Pos (Pos (Pos Zero))) (Pos Zero) (Neg Zero)) Double",
+          "source": "src/Numeric-Units-Dimensional-CGS.html#q_cgs",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional CGS",
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "q_cgs",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:q_cgs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "q_si",
+          "package": "dimensional",
+          "signature": "Quantity DElectricCharge Double",
+          "source": "src/Numeric-Units-Dimensional-CGS.html#q_si",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional CGS",
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "q_si",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:q_si"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "r_cgs",
+          "package": "dimensional",
+          "signature": "Quantity (CGSDim (Pos (Pos Zero)) Zero Zero) Double",
+          "source": "src/Numeric-Units-Dimensional-CGS.html#r_cgs",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional CGS",
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "r_cgs",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:r_cgs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "r_si",
+          "package": "dimensional",
+          "signature": "Quantity DLength Double",
+          "source": "src/Numeric-Units-Dimensional-CGS.html#r_si",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional CGS",
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "r_si",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:r_si"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "second",
+          "package": "dimensional",
+          "signature": "Unit DTime a",
+          "source": "src/Numeric-Units-Dimensional-CGS.html#second",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional CGS",
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "second",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:second"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "toSI",
+          "package": "dimensional",
+          "signature": "Quantity (CGSDim l' m' t') a -\u003e Quantity (Dim l m t i Zero Zero Zero) a",
+          "source": "src/Numeric-Units-Dimensional-CGS.html#toSI",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional CGS",
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "toSI",
+          "normalized": "Quantity(CGSDim a b c)d-\u003eQuantity(Dim e f g h Zero Zero Zero)d",
+          "package": "dimensional",
+          "partial": "SI",
+          "signature": "Quantity(CGSDim l' m' t')a-\u003eQuantity(Dim l m t i Zero Zero Zero)a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:toSI"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "unit_CGS",
+          "package": "dimensional",
+          "signature": "Quantity (Dim l m t i Zero Zero Zero) a -\u003e Unit (CGSDim l' m' t') a",
+          "source": "src/Numeric-Units-Dimensional-CGS.html#unit_CGS",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional CGS",
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "unit_CGS",
+          "normalized": "Quantity(Dim a b c d Zero Zero Zero)e-\u003eUnit(CGSDim f g h)e",
+          "package": "dimensional",
+          "partial": "CGS",
+          "signature": "Quantity(Dim l m t i Zero Zero Zero)a-\u003eUnit(CGSDim l' m' t')a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:unit_CGS"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "unit_SI",
+          "package": "dimensional",
+          "signature": "Quantity (Dim l m t i th n j) a -\u003e Unit (Dim l m t i th n j) a",
+          "source": "src/Numeric-Units-Dimensional-CGS.html#unit_SI",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional CGS",
+          "module": "Numeric.Units.Dimensional.CGS",
+          "name": "unit_SI",
+          "normalized": "Quantity(Dim a b c d e f g)h-\u003eUnit(Dim a b c d e f g)h",
+          "package": "dimensional",
+          "partial": "SI",
+          "signature": "Quantity(Dim l m t i th n j)a-\u003eUnit(Dim l m t i th n j)a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-CGS.html#v:unit_SI"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003ePlease refer to the literate Haskell code for documentation of both API\n  and implementation.\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Numeric.Units.Dimensional.Extensible",
+          "name": "Extensible",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Extensible.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "Please refer to the literate Haskell code for documentation of both API and implementation",
+          "hierarchy": "Numeric Units Dimensional Extensible",
+          "module": "Numeric.Units.Dimensional.Extensible",
+          "name": "Extensible",
+          "package": "dimensional",
+          "partial": "Extensible",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Extensible.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Extensible",
+          "name": "DExt",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Extensible.html#DExt",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Extensible",
+          "module": "Numeric.Units.Dimensional.Extensible",
+          "name": "DExt",
+          "package": "dimensional",
+          "partial": "DExt",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Extensible.html#t:DExt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Extensible",
+          "name": "showDExt",
+          "package": "dimensional",
+          "signature": "String -\u003e DExt a n d -\u003e String",
+          "source": "src/Numeric-Units-Dimensional-Extensible.html#showDExt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Extensible",
+          "module": "Numeric.Units.Dimensional.Extensible",
+          "name": "showDExt",
+          "normalized": "String-\u003eDExt a b c-\u003eString",
+          "package": "dimensional",
+          "partial": "DExt",
+          "signature": "String-\u003eDExt a n d-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Extensible.html#v:showDExt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003ePlease refer to the literate Haskell code for documentation of both API\n  and implementation.\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "NonSI",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "Please refer to the literate Haskell code for documentation of both API and implementation",
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "NonSI",
+          "package": "dimensional",
+          "partial": "Non SI",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "atmosphere",
+          "package": "dimensional",
+          "signature": "Unit DPressure a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#atmosphere",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "atmosphere",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:atmosphere"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "bar",
+          "package": "dimensional",
+          "signature": "Unit DPressure a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#bar",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "bar",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:bar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "century",
+          "package": "dimensional",
+          "signature": "Unit DTime a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#century",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "century",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:century"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "electronVolt",
+          "package": "dimensional",
+          "signature": "Unit DEnergy a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#electronVolt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "electronVolt",
+          "package": "dimensional",
+          "partial": "Volt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:electronVolt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "foot",
+          "package": "dimensional",
+          "signature": "Unit DLength a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#foot",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "foot",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:foot"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "gee",
+          "package": "dimensional",
+          "signature": "Unit DAcceleration a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#gee",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "gee",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:gee"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "imperialCup",
+          "package": "dimensional",
+          "signature": "Unit DVolume a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#imperialCup",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "imperialCup",
+          "package": "dimensional",
+          "partial": "Cup",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:imperialCup"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "imperialFluidOunce",
+          "package": "dimensional",
+          "signature": "Unit DVolume a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#imperialFluidOunce",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "imperialFluidOunce",
+          "package": "dimensional",
+          "partial": "Fluid Ounce",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:imperialFluidOunce"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "imperialGallon",
+          "package": "dimensional",
+          "signature": "Unit DVolume a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#imperialGallon",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "imperialGallon",
+          "package": "dimensional",
+          "partial": "Gallon",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:imperialGallon"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "imperialGill",
+          "package": "dimensional",
+          "signature": "Unit DVolume a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#imperialGill",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "imperialGill",
+          "package": "dimensional",
+          "partial": "Gill",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:imperialGill"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "imperialPint",
+          "package": "dimensional",
+          "signature": "Unit DVolume a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#imperialPint",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "imperialPint",
+          "package": "dimensional",
+          "partial": "Pint",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:imperialPint"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "imperialQuart",
+          "package": "dimensional",
+          "signature": "Unit DVolume a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#imperialQuart",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "imperialQuart",
+          "package": "dimensional",
+          "partial": "Quart",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:imperialQuart"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "inch",
+          "package": "dimensional",
+          "signature": "Unit DLength a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#inch",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "inch",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:inch"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "mil",
+          "package": "dimensional",
+          "signature": "Unit DLength a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#mil",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "mil",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:mil"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "mile",
+          "package": "dimensional",
+          "signature": "Unit DLength a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#mile",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "mile",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:mile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "mmHg",
+          "package": "dimensional",
+          "signature": "Unit DPressure a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#mmHg",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "mmHg",
+          "package": "dimensional",
+          "partial": "Hg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:mmHg"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "nauticalMile",
+          "package": "dimensional",
+          "signature": "Unit DLength a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#nauticalMile",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "nauticalMile",
+          "package": "dimensional",
+          "partial": "Mile",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:nauticalMile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "ounce",
+          "package": "dimensional",
+          "signature": "Unit DMass a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#ounce",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "ounce",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:ounce"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "poundForce",
+          "package": "dimensional",
+          "signature": "Unit DForce a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#poundForce",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "poundForce",
+          "package": "dimensional",
+          "partial": "Force",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:poundForce"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "poundMass",
+          "package": "dimensional",
+          "signature": "Unit DMass a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#poundMass",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "poundMass",
+          "package": "dimensional",
+          "partial": "Mass",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:poundMass"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "psi",
+          "package": "dimensional",
+          "signature": "Unit DPressure a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#psi",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "psi",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:psi"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "rad",
+          "package": "dimensional",
+          "signature": "Unit DAbsorbedDose a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#rad",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "rad",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:rad"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "revolution",
+          "package": "dimensional",
+          "signature": "Unit DOne a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#revolution",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "revolution",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:revolution"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "solid",
+          "package": "dimensional",
+          "signature": "Unit DOne a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#solid",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "solid",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:solid"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "stokes",
+          "package": "dimensional",
+          "signature": "Unit DKinematicViscosity a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#stokes",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "stokes",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:stokes"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "teaspoon",
+          "package": "dimensional",
+          "signature": "Unit DVolume a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#teaspoon",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "teaspoon",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:teaspoon"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "technicalAtmosphere",
+          "package": "dimensional",
+          "signature": "Unit DPressure a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#technicalAtmosphere",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "technicalAtmosphere",
+          "package": "dimensional",
+          "partial": "Atmosphere",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:technicalAtmosphere"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "torr",
+          "package": "dimensional",
+          "signature": "Unit DPressure a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#torr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "torr",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:torr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "unifiedAtomicMassUnit",
+          "package": "dimensional",
+          "signature": "Unit DMass a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#unifiedAtomicMassUnit",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "unifiedAtomicMassUnit",
+          "package": "dimensional",
+          "partial": "Atomic Mass Unit",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:unifiedAtomicMassUnit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "yard",
+          "package": "dimensional",
+          "signature": "Unit DLength a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#yard",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "yard",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:yard"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "year",
+          "package": "dimensional",
+          "signature": "Unit DTime a",
+          "source": "src/Numeric-Units-Dimensional-NonSI.html#year",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional NonSI",
+          "module": "Numeric.Units.Dimensional.NonSI",
+          "name": "year",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-NonSI.html#v:year"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Prelude",
+          "name": "Prelude",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Prelude.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Prelude",
+          "module": "Numeric.Units.Dimensional.Prelude",
+          "name": "Prelude",
+          "package": "dimensional",
+          "partial": "Prelude",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Prelude.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003ePlease refer to the literate Haskell code for documentation of both API\n  and implementation.\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Quantities",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "Please refer to the literate Haskell code for documentation of both API and implementation",
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Quantities",
+          "package": "dimensional",
+          "partial": "Quantities",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "AbsorbedDose",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#AbsorbedDose",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "AbsorbedDose",
+          "package": "dimensional",
+          "partial": "Absorbed Dose",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:AbsorbedDose"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "AbsorbedDoseRate",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#AbsorbedDoseRate",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "AbsorbedDoseRate",
+          "package": "dimensional",
+          "partial": "Absorbed Dose Rate",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:AbsorbedDoseRate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Acceleration",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#Acceleration",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Acceleration",
+          "package": "dimensional",
+          "partial": "Acceleration",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Acceleration"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Activity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#Activity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Activity",
+          "package": "dimensional",
+          "partial": "Activity",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Activity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "AmbientDoseEquivalent",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#AmbientDoseEquivalent",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "AmbientDoseEquivalent",
+          "package": "dimensional",
+          "partial": "Ambient Dose Equivalent",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:AmbientDoseEquivalent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "AmountOfSubstanceConcentration",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#AmountOfSubstanceConcentration",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "AmountOfSubstanceConcentration",
+          "package": "dimensional",
+          "partial": "Amount Of Substance Concentration",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:AmountOfSubstanceConcentration"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Angle",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#Angle",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Angle",
+          "package": "dimensional",
+          "partial": "Angle",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Angle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "AngularAcceleration",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#AngularAcceleration",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "AngularAcceleration",
+          "package": "dimensional",
+          "partial": "Angular Acceleration",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:AngularAcceleration"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "AngularMomentum",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#AngularMomentum",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "AngularMomentum",
+          "package": "dimensional",
+          "partial": "Angular Momentum",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:AngularMomentum"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "AngularVelocity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#AngularVelocity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "AngularVelocity",
+          "package": "dimensional",
+          "partial": "Angular Velocity",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:AngularVelocity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Area",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#Area",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Area",
+          "package": "dimensional",
+          "partial": "Area",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Area"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Capacitance",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#Capacitance",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Capacitance",
+          "package": "dimensional",
+          "partial": "Capacitance",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Capacitance"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "CelsiusTemperature",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#CelsiusTemperature",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "CelsiusTemperature",
+          "package": "dimensional",
+          "partial": "Celsius Temperature",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:CelsiusTemperature"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Concentration",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#Concentration",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Concentration",
+          "package": "dimensional",
+          "partial": "Concentration",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Concentration"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "CurrentDensity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#CurrentDensity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "CurrentDensity",
+          "package": "dimensional",
+          "partial": "Current Density",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:CurrentDensity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DAbsorbedDose",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DAbsorbedDose",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DAbsorbedDose",
+          "package": "dimensional",
+          "partial": "DAbsorbed Dose",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DAbsorbedDose"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DAbsorbedDoseRate",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DAbsorbedDoseRate",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DAbsorbedDoseRate",
+          "package": "dimensional",
+          "partial": "DAbsorbed Dose Rate",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DAbsorbedDoseRate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DAcceleration",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DAcceleration",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DAcceleration",
+          "package": "dimensional",
+          "partial": "DAcceleration",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DAcceleration"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DActivity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DActivity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DActivity",
+          "package": "dimensional",
+          "partial": "DActivity",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DActivity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DAmbientDoseEquivalent",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DAmbientDoseEquivalent",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DAmbientDoseEquivalent",
+          "package": "dimensional",
+          "partial": "DAmbient Dose Equivalent",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DAmbientDoseEquivalent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DAmountOfSubstanceConcentration",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DAmountOfSubstanceConcentration",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DAmountOfSubstanceConcentration",
+          "package": "dimensional",
+          "partial": "DAmount Of Substance Concentration",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DAmountOfSubstanceConcentration"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DAngle",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DAngle",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DAngle",
+          "package": "dimensional",
+          "partial": "DAngle",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DAngle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DAngularAcceleration",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DAngularAcceleration",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DAngularAcceleration",
+          "package": "dimensional",
+          "partial": "DAngular Acceleration",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DAngularAcceleration"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DAngularMomentum",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DAngularMomentum",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DAngularMomentum",
+          "package": "dimensional",
+          "partial": "DAngular Momentum",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DAngularMomentum"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DAngularVelocity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DAngularVelocity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DAngularVelocity",
+          "package": "dimensional",
+          "partial": "DAngular Velocity",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DAngularVelocity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DArea",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DArea",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DArea",
+          "package": "dimensional",
+          "partial": "DArea",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DArea"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DCapacitance",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DCapacitance",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DCapacitance",
+          "package": "dimensional",
+          "partial": "DCapacitance",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DCapacitance"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DCelsiusTemperature",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DCelsiusTemperature",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DCelsiusTemperature",
+          "package": "dimensional",
+          "partial": "DCelsius Temperature",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DCelsiusTemperature"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DCurrentDensity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DCurrentDensity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DCurrentDensity",
+          "package": "dimensional",
+          "partial": "DCurrent Density",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DCurrentDensity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DDirectionalDoseEquivalent",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DDirectionalDoseEquivalent",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DDirectionalDoseEquivalent",
+          "package": "dimensional",
+          "partial": "DDirectional Dose Equivalent",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DDirectionalDoseEquivalent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DDoseEquivalent",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DDoseEquivalent",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DDoseEquivalent",
+          "package": "dimensional",
+          "partial": "DDose Equivalent",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DDoseEquivalent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DDynamicViscosity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DDynamicViscosity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DDynamicViscosity",
+          "package": "dimensional",
+          "partial": "DDynamic Viscosity",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DDynamicViscosity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DElectricCharge",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DElectricCharge",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DElectricCharge",
+          "package": "dimensional",
+          "partial": "DElectric Charge",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DElectricCharge"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DElectricChargeDensity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DElectricChargeDensity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DElectricChargeDensity",
+          "package": "dimensional",
+          "partial": "DElectric Charge Density",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DElectricChargeDensity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DElectricConductance",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DElectricConductance",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DElectricConductance",
+          "package": "dimensional",
+          "partial": "DElectric Conductance",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DElectricConductance"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DElectricFieldStrength",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DElectricFieldStrength",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DElectricFieldStrength",
+          "package": "dimensional",
+          "partial": "DElectric Field Strength",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DElectricFieldStrength"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DElectricFluxDensity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DElectricFluxDensity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DElectricFluxDensity",
+          "package": "dimensional",
+          "partial": "DElectric Flux Density",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DElectricFluxDensity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DElectricPotential",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DElectricPotential",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DElectricPotential",
+          "package": "dimensional",
+          "partial": "DElectric Potential",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DElectricPotential"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DElectricResistance",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DElectricResistance",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DElectricResistance",
+          "package": "dimensional",
+          "partial": "DElectric Resistance",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DElectricResistance"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DElectromotiveForce",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DElectromotiveForce",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DElectromotiveForce",
+          "package": "dimensional",
+          "partial": "DElectromotive Force",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DElectromotiveForce"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DEnergy",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DEnergy",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DEnergy",
+          "package": "dimensional",
+          "partial": "DEnergy",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DEnergy"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DEnergyDensity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DEnergyDensity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DEnergyDensity",
+          "package": "dimensional",
+          "partial": "DEnergy Density",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DEnergyDensity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DEnergyPerUnitMass",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DEnergyPerUnitMass",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DEnergyPerUnitMass",
+          "package": "dimensional",
+          "partial": "DEnergy Per Unit Mass",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DEnergyPerUnitMass"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DEntropy",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DEntropy",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DEntropy",
+          "package": "dimensional",
+          "partial": "DEntropy",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DEntropy"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DEquivalentDose",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DEquivalentDose",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DEquivalentDose",
+          "package": "dimensional",
+          "partial": "DEquivalent Dose",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DEquivalentDose"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DExposure",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DExposure",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DExposure",
+          "package": "dimensional",
+          "partial": "DExposure",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DExposure"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DFirstMassMoment",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DFirstMassMoment",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DFirstMassMoment",
+          "package": "dimensional",
+          "partial": "DFirst Mass Moment",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DFirstMassMoment"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DForce",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DForce",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DForce",
+          "package": "dimensional",
+          "partial": "DForce",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DForce"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DFrequency",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DFrequency",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DFrequency",
+          "package": "dimensional",
+          "partial": "DFrequency",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DFrequency"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DGravitationalParameter",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DGravitationalParameter",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DGravitationalParameter",
+          "package": "dimensional",
+          "partial": "DGravitational Parameter",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DGravitationalParameter"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DHeatCapacity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DHeatCapacity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DHeatCapacity",
+          "package": "dimensional",
+          "partial": "DHeat Capacity",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DHeatCapacity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DHeatFluxDensity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DHeatFluxDensity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DHeatFluxDensity",
+          "package": "dimensional",
+          "partial": "DHeat Flux Density",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DHeatFluxDensity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DIlluminance",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DIlluminance",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DIlluminance",
+          "package": "dimensional",
+          "partial": "DIlluminance",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DIlluminance"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DImpulse",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DImpulse",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DImpulse",
+          "package": "dimensional",
+          "partial": "DImpulse",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DImpulse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DInductance",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DInductance",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DInductance",
+          "package": "dimensional",
+          "partial": "DInductance",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DInductance"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DIrradiance",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DIrradiance",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DIrradiance",
+          "package": "dimensional",
+          "partial": "DIrradiance",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DIrradiance"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DKerma",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DKerma",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DKerma",
+          "package": "dimensional",
+          "partial": "DKerma",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DKerma"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DKinematicViscosity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DKinematicViscosity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DKinematicViscosity",
+          "package": "dimensional",
+          "partial": "DKinematic Viscosity",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DKinematicViscosity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DLuminance",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DLuminance",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DLuminance",
+          "package": "dimensional",
+          "partial": "DLuminance",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DLuminance"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DLuminousFlux",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DLuminousFlux",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DLuminousFlux",
+          "package": "dimensional",
+          "partial": "DLuminous Flux",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DLuminousFlux"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DMagneticFieldStrength",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DMagneticFieldStrength",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DMagneticFieldStrength",
+          "package": "dimensional",
+          "partial": "DMagnetic Field Strength",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DMagneticFieldStrength"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DMagneticFlux",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DMagneticFlux",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DMagneticFlux",
+          "package": "dimensional",
+          "partial": "DMagnetic Flux",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DMagneticFlux"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DMagneticFluxDensity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DMagneticFluxDensity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DMagneticFluxDensity",
+          "package": "dimensional",
+          "partial": "DMagnetic Flux Density",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DMagneticFluxDensity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DMassDensity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DMassDensity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DMassDensity",
+          "package": "dimensional",
+          "partial": "DMass Density",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DMassDensity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DMassFlow",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DMassFlow",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DMassFlow",
+          "package": "dimensional",
+          "partial": "DMass Flow",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DMassFlow"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DMolarEnergy",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DMolarEnergy",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DMolarEnergy",
+          "package": "dimensional",
+          "partial": "DMolar Energy",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DMolarEnergy"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DMolarEntropy",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DMolarEntropy",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DMolarEntropy",
+          "package": "dimensional",
+          "partial": "DMolar Entropy",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DMolarEntropy"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DMolarHeatCapacity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DMolarHeatCapacity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DMolarHeatCapacity",
+          "package": "dimensional",
+          "partial": "DMolar Heat Capacity",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DMolarHeatCapacity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DMomentOfForce",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DMomentOfForce",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DMomentOfForce",
+          "package": "dimensional",
+          "partial": "DMoment Of Force",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DMomentOfForce"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DMomentOfInertia",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DMomentOfInertia",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DMomentOfInertia",
+          "package": "dimensional",
+          "partial": "DMoment Of Inertia",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DMomentOfInertia"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DPermeability",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DPermeability",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DPermeability",
+          "package": "dimensional",
+          "partial": "DPermeability",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DPermeability"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DPermittivity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DPermittivity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DPermittivity",
+          "package": "dimensional",
+          "partial": "DPermittivity",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DPermittivity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DPersonalDoseEquivalent",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DPersonalDoseEquivalent",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DPersonalDoseEquivalent",
+          "package": "dimensional",
+          "partial": "DPersonal Dose Equivalent",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DPersonalDoseEquivalent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DPlaneAngle",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DPlaneAngle",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DPlaneAngle",
+          "package": "dimensional",
+          "partial": "DPlane Angle",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DPlaneAngle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DPotentialDifference",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DPotentialDifference",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DPotentialDifference",
+          "package": "dimensional",
+          "partial": "DPotential Difference",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DPotentialDifference"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DPower",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DPower",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DPower",
+          "package": "dimensional",
+          "partial": "DPower",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DPower"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DPressure",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DPressure",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DPressure",
+          "package": "dimensional",
+          "partial": "DPressure",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DPressure"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DQuantityOfElectricity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DQuantityOfElectricity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DQuantityOfElectricity",
+          "package": "dimensional",
+          "partial": "DQuantity Of Electricity",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DQuantityOfElectricity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DQuantityOfHeat",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DQuantityOfHeat",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DQuantityOfHeat",
+          "package": "dimensional",
+          "partial": "DQuantity Of Heat",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DQuantityOfHeat"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DRadiance",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DRadiance",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DRadiance",
+          "package": "dimensional",
+          "partial": "DRadiance",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DRadiance"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DRadiantFlux",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DRadiantFlux",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DRadiantFlux",
+          "package": "dimensional",
+          "partial": "DRadiant Flux",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DRadiantFlux"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DRadiantIntensity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DRadiantIntensity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DRadiantIntensity",
+          "package": "dimensional",
+          "partial": "DRadiant Intensity",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DRadiantIntensity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DSolidAngle",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DSolidAngle",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DSolidAngle",
+          "package": "dimensional",
+          "partial": "DSolid Angle",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DSolidAngle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DSpecificEnergy",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DSpecificEnergy",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DSpecificEnergy",
+          "package": "dimensional",
+          "partial": "DSpecific Energy",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DSpecificEnergy"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DSpecificEntropy",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DSpecificEntropy",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DSpecificEntropy",
+          "package": "dimensional",
+          "partial": "DSpecific Entropy",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DSpecificEntropy"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DSpecificHeatCapacity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DSpecificHeatCapacity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DSpecificHeatCapacity",
+          "package": "dimensional",
+          "partial": "DSpecific Heat Capacity",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DSpecificHeatCapacity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DSpecificVolume",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DSpecificVolume",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DSpecificVolume",
+          "package": "dimensional",
+          "partial": "DSpecific Volume",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DSpecificVolume"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DStress",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DStress",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DStress",
+          "package": "dimensional",
+          "partial": "DStress",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DStress"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DSurfaceTension",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DSurfaceTension",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DSurfaceTension",
+          "package": "dimensional",
+          "partial": "DSurface Tension",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DSurfaceTension"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DThermalConductivity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DThermalConductivity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DThermalConductivity",
+          "package": "dimensional",
+          "partial": "DThermal Conductivity",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DThermalConductivity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DThrust",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DThrust",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DThrust",
+          "package": "dimensional",
+          "partial": "DThrust",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DThrust"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DTorque",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DTorque",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DTorque",
+          "package": "dimensional",
+          "partial": "DTorque",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DTorque"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DVelocity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DVelocity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DVelocity",
+          "package": "dimensional",
+          "partial": "DVelocity",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DVelocity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DVolume",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DVolume",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DVolume",
+          "package": "dimensional",
+          "partial": "DVolume",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DVolume"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DWaveNumber",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DWaveNumber",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DWaveNumber",
+          "package": "dimensional",
+          "partial": "DWave Number",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DWaveNumber"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DWork",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DWork",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DWork",
+          "package": "dimensional",
+          "partial": "DWork",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DWork"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Density",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#Density",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Density",
+          "package": "dimensional",
+          "partial": "Density",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Density"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DirectionalDoseEquivalent",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DirectionalDoseEquivalent",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DirectionalDoseEquivalent",
+          "package": "dimensional",
+          "partial": "Directional Dose Equivalent",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DirectionalDoseEquivalent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DoseEquivalent",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DoseEquivalent",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DoseEquivalent",
+          "package": "dimensional",
+          "partial": "Dose Equivalent",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DoseEquivalent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DynamicViscosity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#DynamicViscosity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "DynamicViscosity",
+          "package": "dimensional",
+          "partial": "Dynamic Viscosity",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:DynamicViscosity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "ElectricCharge",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#ElectricCharge",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "ElectricCharge",
+          "package": "dimensional",
+          "partial": "Electric Charge",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:ElectricCharge"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "ElectricChargeDensity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#ElectricChargeDensity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "ElectricChargeDensity",
+          "package": "dimensional",
+          "partial": "Electric Charge Density",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:ElectricChargeDensity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "ElectricConductance",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#ElectricConductance",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "ElectricConductance",
+          "package": "dimensional",
+          "partial": "Electric Conductance",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:ElectricConductance"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "ElectricFieldStrength",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#ElectricFieldStrength",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "ElectricFieldStrength",
+          "package": "dimensional",
+          "partial": "Electric Field Strength",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:ElectricFieldStrength"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "ElectricFluxDensity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#ElectricFluxDensity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "ElectricFluxDensity",
+          "package": "dimensional",
+          "partial": "Electric Flux Density",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:ElectricFluxDensity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "ElectricPotential",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#ElectricPotential",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "ElectricPotential",
+          "package": "dimensional",
+          "partial": "Electric Potential",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:ElectricPotential"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "ElectricResistance",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#ElectricResistance",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "ElectricResistance",
+          "package": "dimensional",
+          "partial": "Electric Resistance",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:ElectricResistance"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "ElectromotiveForce",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#ElectromotiveForce",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "ElectromotiveForce",
+          "package": "dimensional",
+          "partial": "Electromotive Force",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:ElectromotiveForce"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Energy",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#Energy",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Energy",
+          "package": "dimensional",
+          "partial": "Energy",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Energy"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "EnergyDensity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#EnergyDensity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "EnergyDensity",
+          "package": "dimensional",
+          "partial": "Energy Density",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:EnergyDensity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "EnergyPerUnitMass",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#EnergyPerUnitMass",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "EnergyPerUnitMass",
+          "package": "dimensional",
+          "partial": "Energy Per Unit Mass",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:EnergyPerUnitMass"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Entropy",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#Entropy",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Entropy",
+          "package": "dimensional",
+          "partial": "Entropy",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Entropy"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "EquivalentDose",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#EquivalentDose",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "EquivalentDose",
+          "package": "dimensional",
+          "partial": "Equivalent Dose",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:EquivalentDose"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Exposure",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#Exposure",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Exposure",
+          "package": "dimensional",
+          "partial": "Exposure",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Exposure"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "FirstMassMoment",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#FirstMassMoment",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "FirstMassMoment",
+          "package": "dimensional",
+          "partial": "First Mass Moment",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:FirstMassMoment"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Force",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#Force",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Force",
+          "package": "dimensional",
+          "partial": "Force",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Force"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Frequency",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#Frequency",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Frequency",
+          "package": "dimensional",
+          "partial": "Frequency",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Frequency"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "GravitationalParameter",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#GravitationalParameter",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "GravitationalParameter",
+          "package": "dimensional",
+          "partial": "Gravitational Parameter",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:GravitationalParameter"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "HeatCapacity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#HeatCapacity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "HeatCapacity",
+          "package": "dimensional",
+          "partial": "Heat Capacity",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:HeatCapacity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "HeatFluxDensity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#HeatFluxDensity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "HeatFluxDensity",
+          "package": "dimensional",
+          "partial": "Heat Flux Density",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:HeatFluxDensity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Illuminance",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#Illuminance",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Illuminance",
+          "package": "dimensional",
+          "partial": "Illuminance",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Illuminance"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Impulse",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#Impulse",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Impulse",
+          "package": "dimensional",
+          "partial": "Impulse",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Impulse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Inductance",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#Inductance",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Inductance",
+          "package": "dimensional",
+          "partial": "Inductance",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Inductance"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Irradiance",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#Irradiance",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Irradiance",
+          "package": "dimensional",
+          "partial": "Irradiance",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Irradiance"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Kerma",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#Kerma",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Kerma",
+          "package": "dimensional",
+          "partial": "Kerma",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Kerma"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "KinematicViscosity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#KinematicViscosity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "KinematicViscosity",
+          "package": "dimensional",
+          "partial": "Kinematic Viscosity",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:KinematicViscosity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Luminance",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#Luminance",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Luminance",
+          "package": "dimensional",
+          "partial": "Luminance",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Luminance"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "LuminousFlux",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#LuminousFlux",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "LuminousFlux",
+          "package": "dimensional",
+          "partial": "Luminous Flux",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:LuminousFlux"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "MagneticFieldStrength",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#MagneticFieldStrength",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "MagneticFieldStrength",
+          "package": "dimensional",
+          "partial": "Magnetic Field Strength",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:MagneticFieldStrength"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "MagneticFlux",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#MagneticFlux",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "MagneticFlux",
+          "package": "dimensional",
+          "partial": "Magnetic Flux",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:MagneticFlux"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "MagneticFluxDensity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#MagneticFluxDensity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "MagneticFluxDensity",
+          "package": "dimensional",
+          "partial": "Magnetic Flux Density",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:MagneticFluxDensity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "MassDensity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#MassDensity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "MassDensity",
+          "package": "dimensional",
+          "partial": "Mass Density",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:MassDensity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "MassFlow",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#MassFlow",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "MassFlow",
+          "package": "dimensional",
+          "partial": "Mass Flow",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:MassFlow"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "MolarEnergy",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#MolarEnergy",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "MolarEnergy",
+          "package": "dimensional",
+          "partial": "Molar Energy",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:MolarEnergy"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "MolarEntropy",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#MolarEntropy",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "MolarEntropy",
+          "package": "dimensional",
+          "partial": "Molar Entropy",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:MolarEntropy"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "MolarHeatCapacity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#MolarHeatCapacity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "MolarHeatCapacity",
+          "package": "dimensional",
+          "partial": "Molar Heat Capacity",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:MolarHeatCapacity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "MomentOfForce",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#MomentOfForce",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "MomentOfForce",
+          "package": "dimensional",
+          "partial": "Moment Of Force",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:MomentOfForce"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "MomentOfInertia",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#MomentOfInertia",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "MomentOfInertia",
+          "package": "dimensional",
+          "partial": "Moment Of Inertia",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:MomentOfInertia"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Permeability",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#Permeability",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Permeability",
+          "package": "dimensional",
+          "partial": "Permeability",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Permeability"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Permittivity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#Permittivity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Permittivity",
+          "package": "dimensional",
+          "partial": "Permittivity",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Permittivity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "PersonalDoseEquivalent",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#PersonalDoseEquivalent",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "PersonalDoseEquivalent",
+          "package": "dimensional",
+          "partial": "Personal Dose Equivalent",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:PersonalDoseEquivalent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "PlaneAngle",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#PlaneAngle",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "PlaneAngle",
+          "package": "dimensional",
+          "partial": "Plane Angle",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:PlaneAngle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "PotentialDifference",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#PotentialDifference",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "PotentialDifference",
+          "package": "dimensional",
+          "partial": "Potential Difference",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:PotentialDifference"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Power",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#Power",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Power",
+          "package": "dimensional",
+          "partial": "Power",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Power"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Pressure",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#Pressure",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Pressure",
+          "package": "dimensional",
+          "partial": "Pressure",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Pressure"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "QuantityOfElectricity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#QuantityOfElectricity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "QuantityOfElectricity",
+          "package": "dimensional",
+          "partial": "Quantity Of Electricity",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:QuantityOfElectricity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "QuantityOfHeat",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#QuantityOfHeat",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "QuantityOfHeat",
+          "package": "dimensional",
+          "partial": "Quantity Of Heat",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:QuantityOfHeat"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Radiance",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#Radiance",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Radiance",
+          "package": "dimensional",
+          "partial": "Radiance",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Radiance"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "RadiantFlux",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#RadiantFlux",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "RadiantFlux",
+          "package": "dimensional",
+          "partial": "Radiant Flux",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:RadiantFlux"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "RadiantIntensity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#RadiantIntensity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "RadiantIntensity",
+          "package": "dimensional",
+          "partial": "Radiant Intensity",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:RadiantIntensity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "SolidAngle",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#SolidAngle",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "SolidAngle",
+          "package": "dimensional",
+          "partial": "Solid Angle",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:SolidAngle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "SpecificEnergy",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#SpecificEnergy",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "SpecificEnergy",
+          "package": "dimensional",
+          "partial": "Specific Energy",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:SpecificEnergy"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "SpecificEntropy",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#SpecificEntropy",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "SpecificEntropy",
+          "package": "dimensional",
+          "partial": "Specific Entropy",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:SpecificEntropy"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "SpecificHeatCapacity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#SpecificHeatCapacity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "SpecificHeatCapacity",
+          "package": "dimensional",
+          "partial": "Specific Heat Capacity",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:SpecificHeatCapacity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "SpecificVolume",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#SpecificVolume",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "SpecificVolume",
+          "package": "dimensional",
+          "partial": "Specific Volume",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:SpecificVolume"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Stress",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#Stress",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Stress",
+          "package": "dimensional",
+          "partial": "Stress",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Stress"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "SurfaceTension",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#SurfaceTension",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "SurfaceTension",
+          "package": "dimensional",
+          "partial": "Surface Tension",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:SurfaceTension"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "ThermalConductivity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#ThermalConductivity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "ThermalConductivity",
+          "package": "dimensional",
+          "partial": "Thermal Conductivity",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:ThermalConductivity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Thrust",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#Thrust",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Thrust",
+          "package": "dimensional",
+          "partial": "Thrust",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Thrust"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Torque",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#Torque",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Torque",
+          "package": "dimensional",
+          "partial": "Torque",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Torque"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Velocity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#Velocity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Velocity",
+          "package": "dimensional",
+          "partial": "Velocity",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Velocity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Volume",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#Volume",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Volume",
+          "package": "dimensional",
+          "partial": "Volume",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Volume"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "WaveNumber",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#WaveNumber",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "WaveNumber",
+          "package": "dimensional",
+          "partial": "Wave Number",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:WaveNumber"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Work",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#Work",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "Work",
+          "package": "dimensional",
+          "partial": "Work",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#t:Work"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "cubic",
+          "package": "dimensional",
+          "signature": "Unit DLength a -\u003e Unit DVolume a",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#cubic",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "cubic",
+          "normalized": "Unit DLength a-\u003eUnit DVolume a",
+          "package": "dimensional",
+          "signature": "Unit DLength a-\u003eUnit DVolume a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#v:cubic"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "square",
+          "package": "dimensional",
+          "signature": "Unit DLength a -\u003e Unit DArea a",
+          "source": "src/Numeric-Units-Dimensional-Quantities.html#square",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional Quantities",
+          "module": "Numeric.Units.Dimensional.Quantities",
+          "name": "square",
+          "normalized": "Unit DLength a-\u003eUnit DArea a",
+          "package": "dimensional",
+          "signature": "Unit DLength a-\u003eUnit DArea a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-Quantities.html#v:square"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003ePlease refer to the literate Haskell code for documentation of both API\n  and implementation.\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "SIUnits",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "Please refer to the literate Haskell code for documentation of both API and implementation",
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "SIUnits",
+          "package": "dimensional",
+          "partial": "SIUnits",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "ampere",
+          "package": "dimensional",
+          "signature": "Unit DElectricCurrent a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#ampere",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "ampere",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:ampere"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "arcminute",
+          "package": "dimensional",
+          "signature": "Unit DPlaneAngle a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#arcminute",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "arcminute",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:arcminute"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "arcsecond",
+          "package": "dimensional",
+          "signature": "Unit DPlaneAngle a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#arcsecond",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "arcsecond",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:arcsecond"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "astronomicalUnit",
+          "package": "dimensional",
+          "signature": "Unit DLength a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#astronomicalUnit",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "astronomicalUnit",
+          "package": "dimensional",
+          "partial": "Unit",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:astronomicalUnit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "atto",
+          "package": "dimensional",
+          "signature": "Unit d a -\u003e Unit d a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#atto",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "atto",
+          "normalized": "Unit a b-\u003eUnit a b",
+          "package": "dimensional",
+          "signature": "Unit d a-\u003eUnit d a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:atto"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "becquerel",
+          "package": "dimensional",
+          "signature": "Unit DActivity a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#becquerel",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "becquerel",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:becquerel"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "candela",
+          "package": "dimensional",
+          "signature": "Unit DLuminousIntensity a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#candela",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "candela",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:candela"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "centi",
+          "package": "dimensional",
+          "signature": "Unit d a -\u003e Unit d a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#centi",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "centi",
+          "normalized": "Unit a b-\u003eUnit a b",
+          "package": "dimensional",
+          "signature": "Unit d a-\u003eUnit d a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:centi"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "coulomb",
+          "package": "dimensional",
+          "signature": "Unit DElectricCharge a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#coulomb",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "coulomb",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:coulomb"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "day",
+          "package": "dimensional",
+          "signature": "Unit DTime a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#day",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "day",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:day"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "deca",
+          "package": "dimensional",
+          "signature": "Unit d a -\u003e Unit d a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#deca",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "deca",
+          "normalized": "Unit a b-\u003eUnit a b",
+          "package": "dimensional",
+          "signature": "Unit d a-\u003eUnit d a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:deca"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "deci",
+          "package": "dimensional",
+          "signature": "Unit d a -\u003e Unit d a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#deci",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "deci",
+          "normalized": "Unit a b-\u003eUnit a b",
+          "package": "dimensional",
+          "signature": "Unit d a-\u003eUnit d a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:deci"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "degree",
+          "package": "dimensional",
+          "signature": "Unit DPlaneAngle a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#degree",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "degree",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:degree"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "degreeCelsius",
+          "package": "dimensional",
+          "signature": "Unit DCelsiusTemperature a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#degreeCelsius",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "degreeCelsius",
+          "package": "dimensional",
+          "partial": "Celsius",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:degreeCelsius"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "degreeOfArc",
+          "package": "dimensional",
+          "signature": "Unit DPlaneAngle a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#degreeOfArc",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "degreeOfArc",
+          "package": "dimensional",
+          "partial": "Of Arc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:degreeOfArc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "deka",
+          "package": "dimensional",
+          "signature": "Unit d a -\u003e Unit d a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#deka",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "deka",
+          "normalized": "Unit a b-\u003eUnit a b",
+          "package": "dimensional",
+          "signature": "Unit d a-\u003eUnit d a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:deka"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "exa",
+          "package": "dimensional",
+          "signature": "Unit d a -\u003e Unit d a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#exa",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "exa",
+          "normalized": "Unit a b-\u003eUnit a b",
+          "package": "dimensional",
+          "signature": "Unit d a-\u003eUnit d a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:exa"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "farad",
+          "package": "dimensional",
+          "signature": "Unit DCapacitance a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#farad",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "farad",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:farad"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "femto",
+          "package": "dimensional",
+          "signature": "Unit d a -\u003e Unit d a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#femto",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "femto",
+          "normalized": "Unit a b-\u003eUnit a b",
+          "package": "dimensional",
+          "signature": "Unit d a-\u003eUnit d a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:femto"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "fromDegreeCelsiusAbsolute",
+          "package": "dimensional",
+          "signature": "a -\u003e ThermodynamicTemperature a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#fromDegreeCelsiusAbsolute",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "fromDegreeCelsiusAbsolute",
+          "normalized": "a-\u003eThermodynamicTemperature a",
+          "package": "dimensional",
+          "partial": "Degree Celsius Absolute",
+          "signature": "a-\u003eThermodynamicTemperature a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:fromDegreeCelsiusAbsolute"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "fromDiffTime",
+          "package": "dimensional",
+          "signature": "DiffTime -\u003e Time a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#fromDiffTime",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "fromDiffTime",
+          "normalized": "DiffTime-\u003eTime a",
+          "package": "dimensional",
+          "partial": "Diff Time",
+          "signature": "DiffTime-\u003eTime a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:fromDiffTime"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "giga",
+          "package": "dimensional",
+          "signature": "Unit d a -\u003e Unit d a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#giga",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "giga",
+          "normalized": "Unit a b-\u003eUnit a b",
+          "package": "dimensional",
+          "signature": "Unit d a-\u003eUnit d a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:giga"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "gram",
+          "package": "dimensional",
+          "signature": "Unit DMass a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#gram",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "gram",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:gram"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "gray",
+          "package": "dimensional",
+          "signature": "Unit DAbsorbedDose a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#gray",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "gray",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:gray"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "hecto",
+          "package": "dimensional",
+          "signature": "Unit d a -\u003e Unit d a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#hecto",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "hecto",
+          "normalized": "Unit a b-\u003eUnit a b",
+          "package": "dimensional",
+          "signature": "Unit d a-\u003eUnit d a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:hecto"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "henry",
+          "package": "dimensional",
+          "signature": "Unit DInductance a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#henry",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "henry",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:henry"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "hertz",
+          "package": "dimensional",
+          "signature": "Unit DFrequency a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#hertz",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "hertz",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:hertz"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "hour",
+          "package": "dimensional",
+          "signature": "Unit DTime a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#hour",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "hour",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:hour"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "joule",
+          "package": "dimensional",
+          "signature": "Unit DEnergy a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#joule",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "joule",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:joule"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "kelvin",
+          "package": "dimensional",
+          "signature": "Unit DThermodynamicTemperature a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#kelvin",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "kelvin",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:kelvin"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "kilo",
+          "package": "dimensional",
+          "signature": "Unit d a -\u003e Unit d a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#kilo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "kilo",
+          "normalized": "Unit a b-\u003eUnit a b",
+          "package": "dimensional",
+          "signature": "Unit d a-\u003eUnit d a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:kilo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "liter",
+          "package": "dimensional",
+          "signature": "Unit DVolume a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#liter",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "liter",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:liter"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "litre",
+          "package": "dimensional",
+          "signature": "Unit DVolume a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#litre",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "litre",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:litre"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "lumen",
+          "package": "dimensional",
+          "signature": "Unit DLuminousFlux a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#lumen",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "lumen",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:lumen"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "lux",
+          "package": "dimensional",
+          "signature": "Unit DIlluminance a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#lux",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "lux",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:lux"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "mega",
+          "package": "dimensional",
+          "signature": "Unit d a -\u003e Unit d a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#mega",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "mega",
+          "normalized": "Unit a b-\u003eUnit a b",
+          "package": "dimensional",
+          "signature": "Unit d a-\u003eUnit d a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:mega"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "meter",
+          "package": "dimensional",
+          "signature": "Unit DLength a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#meter",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "meter",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:meter"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "metre",
+          "package": "dimensional",
+          "signature": "Unit DLength a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#metre",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "metre",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:metre"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "metricTon",
+          "package": "dimensional",
+          "signature": "Unit DMass a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#metricTon",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "metricTon",
+          "package": "dimensional",
+          "partial": "Ton",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:metricTon"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "micro",
+          "package": "dimensional",
+          "signature": "Unit d a -\u003e Unit d a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#micro",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "micro",
+          "normalized": "Unit a b-\u003eUnit a b",
+          "package": "dimensional",
+          "signature": "Unit d a-\u003eUnit d a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:micro"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "milli",
+          "package": "dimensional",
+          "signature": "Unit d a -\u003e Unit d a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#milli",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "milli",
+          "normalized": "Unit a b-\u003eUnit a b",
+          "package": "dimensional",
+          "signature": "Unit d a-\u003eUnit d a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:milli"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "minute",
+          "package": "dimensional",
+          "signature": "Unit DTime a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#minute",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "minute",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:minute"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "minuteOfArc",
+          "package": "dimensional",
+          "signature": "Unit DPlaneAngle a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#minuteOfArc",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "minuteOfArc",
+          "package": "dimensional",
+          "partial": "Of Arc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:minuteOfArc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "mole",
+          "package": "dimensional",
+          "signature": "Unit DAmountOfSubstance a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#mole",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "mole",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:mole"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "nano",
+          "package": "dimensional",
+          "signature": "Unit d a -\u003e Unit d a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#nano",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "nano",
+          "normalized": "Unit a b-\u003eUnit a b",
+          "package": "dimensional",
+          "signature": "Unit d a-\u003eUnit d a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:nano"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "newton",
+          "package": "dimensional",
+          "signature": "Unit DForce a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#newton",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "newton",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:newton"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "ohm",
+          "package": "dimensional",
+          "signature": "Unit DElectricResistance a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#ohm",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "ohm",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:ohm"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "pascal",
+          "package": "dimensional",
+          "signature": "Unit DPressure a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#pascal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "pascal",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:pascal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "peta",
+          "package": "dimensional",
+          "signature": "Unit d a -\u003e Unit d a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#peta",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "peta",
+          "normalized": "Unit a b-\u003eUnit a b",
+          "package": "dimensional",
+          "signature": "Unit d a-\u003eUnit d a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:peta"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "pico",
+          "package": "dimensional",
+          "signature": "Unit d a -\u003e Unit d a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#pico",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "pico",
+          "normalized": "Unit a b-\u003eUnit a b",
+          "package": "dimensional",
+          "signature": "Unit d a-\u003eUnit d a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:pico"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "radian",
+          "package": "dimensional",
+          "signature": "Unit DPlaneAngle a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#radian",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "radian",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:radian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "second",
+          "package": "dimensional",
+          "signature": "Unit DTime a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#second",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "second",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:second"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "secondOfArc",
+          "package": "dimensional",
+          "signature": "Unit DPlaneAngle a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#secondOfArc",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "secondOfArc",
+          "package": "dimensional",
+          "partial": "Of Arc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:secondOfArc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "siemens",
+          "package": "dimensional",
+          "signature": "Unit DElectricConductance a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#siemens",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "siemens",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:siemens"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "sievert",
+          "package": "dimensional",
+          "signature": "Unit DDoseEquivalent a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#sievert",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "sievert",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:sievert"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "steradian",
+          "package": "dimensional",
+          "signature": "Unit DSolidAngle a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#steradian",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "steradian",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:steradian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "tera",
+          "package": "dimensional",
+          "signature": "Unit d a -\u003e Unit d a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#tera",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "tera",
+          "normalized": "Unit a b-\u003eUnit a b",
+          "package": "dimensional",
+          "signature": "Unit d a-\u003eUnit d a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:tera"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "tesla",
+          "package": "dimensional",
+          "signature": "Unit DMagneticFluxDensity a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#tesla",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "tesla",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:tesla"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "toDegreeCelsiusAbsolute",
+          "package": "dimensional",
+          "signature": "ThermodynamicTemperature a -\u003e a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#toDegreeCelsiusAbsolute",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "toDegreeCelsiusAbsolute",
+          "normalized": "ThermodynamicTemperature a-\u003ea",
+          "package": "dimensional",
+          "partial": "Degree Celsius Absolute",
+          "signature": "ThermodynamicTemperature a-\u003ea",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:toDegreeCelsiusAbsolute"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "toDiffTime",
+          "package": "dimensional",
+          "signature": "Time a -\u003e DiffTime",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#toDiffTime",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "toDiffTime",
+          "normalized": "Time a-\u003eDiffTime",
+          "package": "dimensional",
+          "partial": "Diff Time",
+          "signature": "Time a-\u003eDiffTime",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:toDiffTime"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "tonne",
+          "package": "dimensional",
+          "signature": "Unit DMass a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#tonne",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "tonne",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:tonne"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "volt",
+          "package": "dimensional",
+          "signature": "Unit DElectricPotential a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#volt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "volt",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:volt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "watt",
+          "package": "dimensional",
+          "signature": "Unit DPower a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#watt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "watt",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:watt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "weber",
+          "package": "dimensional",
+          "signature": "Unit DMagneticFlux a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#weber",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "weber",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:weber"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "yocto",
+          "package": "dimensional",
+          "signature": "Unit d a -\u003e Unit d a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#yocto",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "yocto",
+          "normalized": "Unit a b-\u003eUnit a b",
+          "package": "dimensional",
+          "signature": "Unit d a-\u003eUnit d a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:yocto"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "yotta",
+          "package": "dimensional",
+          "signature": "Unit d a -\u003e Unit d a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#yotta",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "yotta",
+          "normalized": "Unit a b-\u003eUnit a b",
+          "package": "dimensional",
+          "signature": "Unit d a-\u003eUnit d a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:yotta"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "zepto",
+          "package": "dimensional",
+          "signature": "Unit d a -\u003e Unit d a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#zepto",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "zepto",
+          "normalized": "Unit a b-\u003eUnit a b",
+          "package": "dimensional",
+          "signature": "Unit d a-\u003eUnit d a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:zepto"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "zetta",
+          "package": "dimensional",
+          "signature": "Unit d a -\u003e Unit d a",
+          "source": "src/Numeric-Units-Dimensional-SIUnits.html#zetta",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional SIUnits",
+          "module": "Numeric.Units.Dimensional.SIUnits",
+          "name": "zetta",
+          "normalized": "Unit a b-\u003eUnit a b",
+          "package": "dimensional",
+          "signature": "Unit d a-\u003eUnit d a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional-SIUnits.html#v:zetta"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003ePlease refer to the literate Haskell code for documentation of both API\n  and implementation.\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Numeric.Units.Dimensional",
+          "name": "Dimensional",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "Please refer to the literate Haskell code for documentation of both API and implementation",
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "Dimensional",
+          "package": "dimensional",
+          "partial": "Dimensional",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "AmountOfSubstance",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional.html#AmountOfSubstance",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "AmountOfSubstance",
+          "package": "dimensional",
+          "partial": "Amount Of Substance",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:AmountOfSubstance"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "DAmountOfSubstance",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional.html#DAmountOfSubstance",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "DAmountOfSubstance",
+          "package": "dimensional",
+          "partial": "DAmount Of Substance",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:DAmountOfSubstance"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "DElectricCurrent",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional.html#DElectricCurrent",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "DElectricCurrent",
+          "package": "dimensional",
+          "partial": "DElectric Current",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:DElectricCurrent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "DLength",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional.html#DLength",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "DLength",
+          "package": "dimensional",
+          "partial": "DLength",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:DLength"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "DLuminousIntensity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional.html#DLuminousIntensity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "DLuminousIntensity",
+          "package": "dimensional",
+          "partial": "DLuminous Intensity",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:DLuminousIntensity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "DMass",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional.html#DMass",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "DMass",
+          "package": "dimensional",
+          "partial": "DMass",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:DMass"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "DOne",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional.html#DOne",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "DOne",
+          "package": "dimensional",
+          "partial": "DOne",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:DOne"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "DQuantity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional.html#DQuantity",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "DQuantity",
+          "package": "dimensional",
+          "partial": "DQuantity",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:DQuantity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "DThermodynamicTemperature",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional.html#DThermodynamicTemperature",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "DThermodynamicTemperature",
+          "package": "dimensional",
+          "partial": "DThermodynamic Temperature",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:DThermodynamicTemperature"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "DTime",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional.html#DTime",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "DTime",
+          "package": "dimensional",
+          "partial": "DTime",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:DTime"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "DUnit",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional.html#DUnit",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "DUnit",
+          "package": "dimensional",
+          "partial": "DUnit",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:DUnit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "Dim",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional.html#Dim",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "Dim",
+          "package": "dimensional",
+          "partial": "Dim",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:Dim"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "Dimensional",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional.html#Dimensional",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "Dimensional",
+          "package": "dimensional",
+          "partial": "Dimensional",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:Dimensional"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "Dimensionless",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional.html#Dimensionless",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "Dimensionless",
+          "package": "dimensional",
+          "partial": "Dimensionless",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:Dimensionless"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "Div",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional.html#Div",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "Div",
+          "package": "dimensional",
+          "partial": "Div",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:Div"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "ElectricCurrent",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional.html#ElectricCurrent",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "ElectricCurrent",
+          "package": "dimensional",
+          "partial": "Electric Current",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:ElectricCurrent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "Length",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional.html#Length",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "Length",
+          "package": "dimensional",
+          "partial": "Length",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:Length"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "LuminousIntensity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional.html#LuminousIntensity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "LuminousIntensity",
+          "package": "dimensional",
+          "partial": "Luminous Intensity",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:LuminousIntensity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "Mass",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional.html#Mass",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "Mass",
+          "package": "dimensional",
+          "partial": "Mass",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:Mass"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "Mul",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional.html#Mul",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "Mul",
+          "package": "dimensional",
+          "partial": "Mul",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:Mul"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "Pow",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional.html#Pow",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "Pow",
+          "package": "dimensional",
+          "partial": "Pow",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:Pow"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "Quantity",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional.html#Quantity",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "Quantity",
+          "package": "dimensional",
+          "partial": "Quantity",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:Quantity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "Root",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional.html#Root",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "Root",
+          "package": "dimensional",
+          "partial": "Root",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:Root"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "ThermodynamicTemperature",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional.html#ThermodynamicTemperature",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "ThermodynamicTemperature",
+          "package": "dimensional",
+          "partial": "Thermodynamic Temperature",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:ThermodynamicTemperature"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "Time",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional.html#Time",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "Time",
+          "package": "dimensional",
+          "partial": "Time",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:Time"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "Unit",
+          "package": "dimensional",
+          "source": "src/Numeric-Units-Dimensional.html#Unit",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "Unit",
+          "package": "dimensional",
+          "partial": "Unit",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#t:Unit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "(*)",
+          "package": "dimensional",
+          "signature": "Dimensional v d a -\u003e Dimensional v d' a -\u003e Dimensional v d'' a",
+          "source": "src/Numeric-Units-Dimensional.html#%2A",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "(*) *",
+          "normalized": "Dimensional a b c-\u003eDimensional a d c-\u003eDimensional a e c",
+          "package": "dimensional",
+          "signature": "Dimensional v d a-\u003eDimensional v d' a-\u003eDimensional v d'' a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:-42-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "(*~)",
+          "package": "dimensional",
+          "signature": "a -\u003e Unit d a -\u003e Quantity d a",
+          "source": "src/Numeric-Units-Dimensional.html#%2A~",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "(*~) *~",
+          "normalized": "a-\u003eUnit b a-\u003eQuantity b a",
+          "package": "dimensional",
+          "signature": "a-\u003eUnit d a-\u003eQuantity d a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:-42--126-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "(*~~)",
+          "package": "dimensional",
+          "signature": "f a -\u003e Unit d a -\u003e f (Quantity d a)",
+          "source": "src/Numeric-Units-Dimensional.html#%2A~~",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "(*~~) *~~",
+          "normalized": "a b-\u003eUnit c b-\u003ea(Quantity c b)",
+          "package": "dimensional",
+          "signature": "f a-\u003eUnit d a-\u003ef(Quantity d a)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:-42--126--126-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "(**)",
+          "package": "dimensional",
+          "signature": "Dimensionless a -\u003e Dimensionless a -\u003e Dimensionless a",
+          "source": "src/Numeric-Units-Dimensional.html#%2A%2A",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "(**) **",
+          "normalized": "Dimensionless a-\u003eDimensionless a-\u003eDimensionless a",
+          "package": "dimensional",
+          "signature": "Dimensionless a-\u003eDimensionless a-\u003eDimensionless a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:-42--42-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "(+)",
+          "package": "dimensional",
+          "signature": "Quantity d a -\u003e Quantity d a -\u003e Quantity d a",
+          "source": "src/Numeric-Units-Dimensional.html#%2B",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "(+) +",
+          "normalized": "Quantity a b-\u003eQuantity a b-\u003eQuantity a b",
+          "package": "dimensional",
+          "signature": "Quantity d a-\u003eQuantity d a-\u003eQuantity d a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:-43-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "(-)",
+          "package": "dimensional",
+          "signature": "Quantity d a -\u003e Quantity d a -\u003e Quantity d a",
+          "source": "src/Numeric-Units-Dimensional.html#-",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "(-) -",
+          "normalized": "Quantity a b-\u003eQuantity a b-\u003eQuantity a b",
+          "package": "dimensional",
+          "signature": "Quantity d a-\u003eQuantity d a-\u003eQuantity d a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:-45-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "(/)",
+          "package": "dimensional",
+          "signature": "Dimensional v d a -\u003e Dimensional v d' a -\u003e Dimensional v d'' a",
+          "source": "src/Numeric-Units-Dimensional.html#%2F",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "(/) /",
+          "normalized": "Dimensional a b c-\u003eDimensional a d c-\u003eDimensional a e c",
+          "package": "dimensional",
+          "signature": "Dimensional v d a-\u003eDimensional v d' a-\u003eDimensional v d'' a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:-47-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "(/~)",
+          "package": "dimensional",
+          "signature": "Quantity d a -\u003e Unit d a -\u003e a",
+          "source": "src/Numeric-Units-Dimensional.html#%2F~",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "(/~) /~",
+          "normalized": "Quantity a b-\u003eUnit a b-\u003eb",
+          "package": "dimensional",
+          "signature": "Quantity d a-\u003eUnit d a-\u003ea",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:-47--126-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "(/~~)",
+          "package": "dimensional",
+          "signature": "f (Quantity d a) -\u003e Unit d a -\u003e f a",
+          "source": "src/Numeric-Units-Dimensional.html#%2F~~",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "(/~~) /~~",
+          "normalized": "a(Quantity b c)-\u003eUnit b c-\u003ea c",
+          "package": "dimensional",
+          "signature": "f(Quantity d a)-\u003eUnit d a-\u003ef a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:-47--126--126-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "(^)",
+          "package": "dimensional",
+          "signature": "Dimensional v d a -\u003e n -\u003e Dimensional v d' a",
+          "source": "src/Numeric-Units-Dimensional.html#%5E",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "(^) ^",
+          "normalized": "Dimensional a b c-\u003ed-\u003eDimensional a e c",
+          "package": "dimensional",
+          "signature": "Dimensional v d a-\u003en-\u003eDimensional v d' a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:-94-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "(^+)",
+          "package": "dimensional",
+          "signature": "Dimensional v d a -\u003e n -\u003e Dimensional v d' a",
+          "source": "src/Numeric-Units-Dimensional.html#%5E%2B",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "(^+) ^+",
+          "normalized": "Dimensional a b c-\u003ed-\u003eDimensional a e c",
+          "package": "dimensional",
+          "signature": "Dimensional v d a-\u003en-\u003eDimensional v d' a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:-94--43-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "(^/)",
+          "package": "dimensional",
+          "signature": "Dimensional v d a -\u003e n -\u003e Dimensional v d' a",
+          "source": "src/Numeric-Units-Dimensional.html#%5E%2F",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "(^/) ^/",
+          "normalized": "Dimensional a b c-\u003ed-\u003eDimensional a e c",
+          "package": "dimensional",
+          "signature": "Dimensional v d a-\u003en-\u003eDimensional v d' a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:-94--47-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "Dimensional",
+          "package": "dimensional",
+          "signature": "Dimensional a",
+          "source": "src/Numeric-Units-Dimensional.html#Dimensional",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "Dimensional",
+          "package": "dimensional",
+          "partial": "Dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:Dimensional"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "_0",
+          "package": "dimensional",
+          "signature": "Quantity d a",
+          "source": "src/Numeric-Units-Dimensional.html#_0",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "_0",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:_0"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "_1",
+          "package": "dimensional",
+          "signature": "Dimensionless a",
+          "source": "src/Numeric-Units-Dimensional.html#_1",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "_1",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:_1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "_2",
+          "package": "dimensional",
+          "signature": "Dimensionless a",
+          "source": "src/Numeric-Units-Dimensional.html#_2",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "_2",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:_2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "_3",
+          "package": "dimensional",
+          "signature": "Dimensionless a",
+          "source": "src/Numeric-Units-Dimensional.html#_3",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "_3",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:_3"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "_4",
+          "package": "dimensional",
+          "signature": "Dimensionless a",
+          "source": "src/Numeric-Units-Dimensional.html#_4",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "_4",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:_4"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "_5",
+          "package": "dimensional",
+          "signature": "Dimensionless a",
+          "source": "src/Numeric-Units-Dimensional.html#_5",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "_5",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:_5"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "_6",
+          "package": "dimensional",
+          "signature": "Dimensionless a",
+          "source": "src/Numeric-Units-Dimensional.html#_6",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "_6",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:_6"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "_7",
+          "package": "dimensional",
+          "signature": "Dimensionless a",
+          "source": "src/Numeric-Units-Dimensional.html#_7",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "_7",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:_7"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "_8",
+          "package": "dimensional",
+          "signature": "Dimensionless a",
+          "source": "src/Numeric-Units-Dimensional.html#_8",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "_8",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:_8"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "_9",
+          "package": "dimensional",
+          "signature": "Dimensionless a",
+          "source": "src/Numeric-Units-Dimensional.html#_9",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "_9",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:_9"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "abs",
+          "package": "dimensional",
+          "signature": "Quantity d a -\u003e Quantity d a",
+          "source": "src/Numeric-Units-Dimensional.html#abs",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "abs",
+          "normalized": "Quantity a b-\u003eQuantity a b",
+          "package": "dimensional",
+          "signature": "Quantity d a-\u003eQuantity d a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:abs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "acos",
+          "package": "dimensional",
+          "signature": "Dimensionless a -\u003e Dimensionless a",
+          "source": "src/Numeric-Units-Dimensional.html#acos",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "acos",
+          "normalized": "Dimensionless a-\u003eDimensionless a",
+          "package": "dimensional",
+          "signature": "Dimensionless a-\u003eDimensionless a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:acos"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "acosh",
+          "package": "dimensional",
+          "signature": "Dimensionless a -\u003e Dimensionless a",
+          "source": "src/Numeric-Units-Dimensional.html#acosh",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "acosh",
+          "normalized": "Dimensionless a-\u003eDimensionless a",
+          "package": "dimensional",
+          "signature": "Dimensionless a-\u003eDimensionless a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:acosh"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "asin",
+          "package": "dimensional",
+          "signature": "Dimensionless a -\u003e Dimensionless a",
+          "source": "src/Numeric-Units-Dimensional.html#asin",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "asin",
+          "normalized": "Dimensionless a-\u003eDimensionless a",
+          "package": "dimensional",
+          "signature": "Dimensionless a-\u003eDimensionless a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:asin"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "asinh",
+          "package": "dimensional",
+          "signature": "Dimensionless a -\u003e Dimensionless a",
+          "source": "src/Numeric-Units-Dimensional.html#asinh",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "asinh",
+          "normalized": "Dimensionless a-\u003eDimensionless a",
+          "package": "dimensional",
+          "signature": "Dimensionless a-\u003eDimensionless a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:asinh"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "atan",
+          "package": "dimensional",
+          "signature": "Dimensionless a -\u003e Dimensionless a",
+          "source": "src/Numeric-Units-Dimensional.html#atan",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "atan",
+          "normalized": "Dimensionless a-\u003eDimensionless a",
+          "package": "dimensional",
+          "signature": "Dimensionless a-\u003eDimensionless a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:atan"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "atan2",
+          "package": "dimensional",
+          "signature": "Quantity d a -\u003e Quantity d a -\u003e Dimensionless a",
+          "source": "src/Numeric-Units-Dimensional.html#atan2",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "atan2",
+          "normalized": "Quantity a b-\u003eQuantity a b-\u003eDimensionless b",
+          "package": "dimensional",
+          "signature": "Quantity d a-\u003eQuantity d a-\u003eDimensionless a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:atan2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "atanh",
+          "package": "dimensional",
+          "signature": "Dimensionless a -\u003e Dimensionless a",
+          "source": "src/Numeric-Units-Dimensional.html#atanh",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "atanh",
+          "normalized": "Dimensionless a-\u003eDimensionless a",
+          "package": "dimensional",
+          "signature": "Dimensionless a-\u003eDimensionless a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:atanh"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "cbrt",
+          "package": "dimensional",
+          "signature": "Dimensional v d a -\u003e Dimensional v d' a",
+          "source": "src/Numeric-Units-Dimensional.html#cbrt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "cbrt",
+          "normalized": "Dimensional a b c-\u003eDimensional a d c",
+          "package": "dimensional",
+          "signature": "Dimensional v d a-\u003eDimensional v d' a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:cbrt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "cos",
+          "package": "dimensional",
+          "signature": "Dimensionless a -\u003e Dimensionless a",
+          "source": "src/Numeric-Units-Dimensional.html#cos",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "cos",
+          "normalized": "Dimensionless a-\u003eDimensionless a",
+          "package": "dimensional",
+          "signature": "Dimensionless a-\u003eDimensionless a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:cos"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "cosh",
+          "package": "dimensional",
+          "signature": "Dimensionless a -\u003e Dimensionless a",
+          "source": "src/Numeric-Units-Dimensional.html#cosh",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "cosh",
+          "normalized": "Dimensionless a-\u003eDimensionless a",
+          "package": "dimensional",
+          "signature": "Dimensionless a-\u003eDimensionless a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:cosh"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "dimUnit",
+          "package": "dimensional",
+          "signature": "String -\u003e n -\u003e Maybe String",
+          "source": "src/Numeric-Units-Dimensional.html#dimUnit",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "dimUnit",
+          "normalized": "String-\u003ea-\u003eMaybe String",
+          "package": "dimensional",
+          "partial": "Unit",
+          "signature": "String-\u003en-\u003eMaybe String",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:dimUnit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "dimensionlessLength",
+          "package": "dimensional",
+          "signature": "[Dimensional v d a] -\u003e Dimensionless a",
+          "source": "src/Numeric-Units-Dimensional.html#dimensionlessLength",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "dimensionlessLength",
+          "normalized": "[Dimensional a b c]-\u003eDimensionless c",
+          "package": "dimensional",
+          "partial": "Length",
+          "signature": "[Dimensional v d a]-\u003eDimensionless a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:dimensionlessLength"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "exp",
+          "package": "dimensional",
+          "signature": "Dimensionless a -\u003e Dimensionless a",
+          "source": "src/Numeric-Units-Dimensional.html#exp",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "exp",
+          "normalized": "Dimensionless a-\u003eDimensionless a",
+          "package": "dimensional",
+          "signature": "Dimensionless a-\u003eDimensionless a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:exp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "log",
+          "package": "dimensional",
+          "signature": "Dimensionless a -\u003e Dimensionless a",
+          "source": "src/Numeric-Units-Dimensional.html#log",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "log",
+          "normalized": "Dimensionless a-\u003eDimensionless a",
+          "package": "dimensional",
+          "signature": "Dimensionless a-\u003eDimensionless a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:log"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "negate",
+          "package": "dimensional",
+          "signature": "Quantity d a -\u003e Quantity d a",
+          "source": "src/Numeric-Units-Dimensional.html#negate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "negate",
+          "normalized": "Quantity a b-\u003eQuantity a b",
+          "package": "dimensional",
+          "signature": "Quantity d a-\u003eQuantity d a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:negate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "nroot",
+          "package": "dimensional",
+          "signature": "n -\u003e Dimensional v d a -\u003e Dimensional v d' a",
+          "source": "src/Numeric-Units-Dimensional.html#nroot",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "nroot",
+          "normalized": "a-\u003eDimensional b c d-\u003eDimensional b e d",
+          "package": "dimensional",
+          "signature": "n-\u003eDimensional v d a-\u003eDimensional v d' a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:nroot"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "one",
+          "package": "dimensional",
+          "signature": "Unit DOne a",
+          "source": "src/Numeric-Units-Dimensional.html#one",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "one",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:one"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "pi",
+          "package": "dimensional",
+          "signature": "Dimensionless a",
+          "source": "src/Numeric-Units-Dimensional.html#pi",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "pi",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:pi"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "prefix",
+          "package": "dimensional",
+          "signature": "a -\u003e Unit d a -\u003e Unit d a",
+          "source": "src/Numeric-Units-Dimensional.html#prefix",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "prefix",
+          "normalized": "a-\u003eUnit b a-\u003eUnit b a",
+          "package": "dimensional",
+          "signature": "a-\u003eUnit d a-\u003eUnit d a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:prefix"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "sin",
+          "package": "dimensional",
+          "signature": "Dimensionless a -\u003e Dimensionless a",
+          "source": "src/Numeric-Units-Dimensional.html#sin",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "sin",
+          "normalized": "Dimensionless a-\u003eDimensionless a",
+          "package": "dimensional",
+          "signature": "Dimensionless a-\u003eDimensionless a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:sin"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "sinh",
+          "package": "dimensional",
+          "signature": "Dimensionless a -\u003e Dimensionless a",
+          "source": "src/Numeric-Units-Dimensional.html#sinh",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "sinh",
+          "normalized": "Dimensionless a-\u003eDimensionless a",
+          "package": "dimensional",
+          "signature": "Dimensionless a-\u003eDimensionless a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:sinh"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "sqrt",
+          "package": "dimensional",
+          "signature": "Dimensional v d a -\u003e Dimensional v d' a",
+          "source": "src/Numeric-Units-Dimensional.html#sqrt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "sqrt",
+          "normalized": "Dimensional a b c-\u003eDimensional a d c",
+          "package": "dimensional",
+          "signature": "Dimensional v d a-\u003eDimensional v d' a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:sqrt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "sum",
+          "package": "dimensional",
+          "signature": "[Quantity d a] -\u003e Quantity d a",
+          "source": "src/Numeric-Units-Dimensional.html#sum",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "sum",
+          "normalized": "[Quantity a b]-\u003eQuantity a b",
+          "package": "dimensional",
+          "signature": "[Quantity d a]-\u003eQuantity d a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:sum"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "tan",
+          "package": "dimensional",
+          "signature": "Dimensionless a -\u003e Dimensionless a",
+          "source": "src/Numeric-Units-Dimensional.html#tan",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "tan",
+          "normalized": "Dimensionless a-\u003eDimensionless a",
+          "package": "dimensional",
+          "signature": "Dimensionless a-\u003eDimensionless a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:tan"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "tanh",
+          "package": "dimensional",
+          "signature": "Dimensionless a -\u003e Dimensionless a",
+          "source": "src/Numeric-Units-Dimensional.html#tanh",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "tanh",
+          "normalized": "Dimensionless a-\u003eDimensionless a",
+          "package": "dimensional",
+          "signature": "Dimensionless a-\u003eDimensionless a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:tanh"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Numeric.Units.Dimensional",
+          "name": "tau",
+          "package": "dimensional",
+          "signature": "Dimensionless a",
+          "source": "src/Numeric-Units-Dimensional.html#tau",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Numeric Units Dimensional",
+          "module": "Numeric.Units.Dimensional",
+          "name": "tau",
+          "package": "dimensional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/dimensional/docs/Numeric-Units-Dimensional.html#v:tau"
+      }
+    }
+  ]
 ]
