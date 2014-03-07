@@ -41,20 +41,9 @@
     "cmd": "insert-context",
     "context": "hierarchy",
     "schema": {
-      "default": false,
-      "regexp": "[^ ]*",
+      "regexp": "\\w*",
       "type": "text",
-      "weight": 0.5
-    }
-  },
-  {
-    "cmd": "insert-context",
-    "context": "homepage",
-    "schema": {
-      "default": false,
-      "regexp": ".*",
-      "type": "text",
-      "weight": 1
+      "weight": 0.1
     }
   },
   {
@@ -109,16 +98,17 @@
     "schema": {
       "regexp": "[^ ]*",
       "type": "text",
-      "weight": 1
+      "weight": 0.2
     }
   },
   {
     "cmd": "insert-context",
     "context": "signature",
     "schema": {
+      "default": false,
       "regexp": ".*",
       "type": "text",
-      "weight": 0.2
+      "weight": 1
     }
   },
   {
