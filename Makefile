@@ -40,7 +40,7 @@ insert-packed: hayooContexts.js
 	echo ""; \
 	i=1; \
 	for file in packedFiles/*.js; do \
-		echo -n "\n$$i - $$file"; \
+		echo -n "\n$$i - $$(date) - $$file "; \
 		curl -X POST -d @"$$file" $(SERVER)/eval; \
 		i=$$(($$i+1)); \
 	done
