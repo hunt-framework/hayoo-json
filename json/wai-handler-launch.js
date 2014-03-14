@@ -1,98 +1,110 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-handler-launch/docs/Network-Wai-Handler-Launch.html#",
-      "description": {
-        "fct-module": "Network.Wai.Handler.Launch",
-        "fct-package": "wai-handler-launch",
-        "fct-signature": "module",
-        "fct-source": "src/Network-Wai-Handler-Launch.html",
-        "fct-type": "module",
-        "title": "Launch"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "wai-handler-launch"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Wai Handler Launch",
-        "module": "Network.Wai.Handler.Launch",
-        "name": "Launch",
-        "normalized": "",
-        "package": "wai-handler-launch",
-        "partial": "Launch",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-handler-launch/docs/Network-Wai-Handler-Launch.html#v:run",
-      "description": {
-        "fct-module": "Network.Wai.Handler.Launch",
-        "fct-package": "wai-handler-launch",
-        "fct-signature": "Application -\u003e IO ()",
-        "fct-source": "src/Network-Wai-Handler-Launch.html#run",
-        "fct-type": "function",
-        "title": "run"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Wai Handler Launch",
-        "module": "Network.Wai.Handler.Launch",
-        "name": "run",
-        "normalized": "Application-\u003eIO()",
-        "package": "wai-handler-launch",
-        "partial": "",
-        "signature": "Application-\u003eIO()"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Wai.Handler.Launch",
+          "name": "Launch",
+          "package": "wai-handler-launch",
+          "source": "src/Network-Wai-Handler-Launch.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Network Wai Handler Launch",
+          "module": "Network.Wai.Handler.Launch",
+          "name": "Launch",
+          "package": "wai-handler-launch",
+          "partial": "Launch",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-handler-launch/docs/Network-Wai-Handler-Launch.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Wai.Handler.Launch",
+          "name": "run",
+          "package": "wai-handler-launch",
+          "signature": "Application -\u003e IO ()",
+          "source": "src/Network-Wai-Handler-Launch.html#run",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network Wai Handler Launch",
+          "module": "Network.Wai.Handler.Launch",
+          "name": "run",
+          "normalized": "Application-\u003eIO()",
+          "package": "wai-handler-launch",
+          "signature": "Application-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-handler-launch/docs/Network-Wai-Handler-Launch.html#v:run"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Wai.Handler.Launch",
+          "name": "runUrl",
+          "package": "wai-handler-launch",
+          "signature": "String -\u003e Application -\u003e IO ()",
+          "source": "src/Network-Wai-Handler-Launch.html#runUrl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network Wai Handler Launch",
+          "module": "Network.Wai.Handler.Launch",
+          "name": "runUrl",
+          "normalized": "String-\u003eApplication-\u003eIO()",
+          "package": "wai-handler-launch",
+          "partial": "Url",
+          "signature": "String-\u003eApplication-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-handler-launch/docs/Network-Wai-Handler-Launch.html#v:runUrl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.Wai.Handler.Launch",
+          "name": "runUrlPort",
+          "package": "wai-handler-launch",
+          "signature": "Int -\u003e String -\u003e Application -\u003e IO ()",
+          "source": "src/Network-Wai-Handler-Launch.html#runUrlPort",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network Wai Handler Launch",
+          "module": "Network.Wai.Handler.Launch",
+          "name": "runUrlPort",
+          "normalized": "Int-\u003eString-\u003eApplication-\u003eIO()",
+          "package": "wai-handler-launch",
+          "partial": "Url Port",
+          "signature": "Int-\u003eString-\u003eApplication-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/wai-handler-launch/docs/Network-Wai-Handler-Launch.html#v:runUrlPort"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-handler-launch/docs/Network-Wai-Handler-Launch.html#v:runUrl",
-      "description": {
-        "fct-module": "Network.Wai.Handler.Launch",
-        "fct-package": "wai-handler-launch",
-        "fct-signature": "String -\u003e Application -\u003e IO ()",
-        "fct-source": "src/Network-Wai-Handler-Launch.html#runUrl",
-        "fct-type": "function",
-        "title": "runUrl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Wai Handler Launch",
-        "module": "Network.Wai.Handler.Launch",
-        "name": "runUrl",
-        "normalized": "String-\u003eApplication-\u003eIO()",
-        "package": "wai-handler-launch",
-        "partial": "Url",
-        "signature": "String-\u003eApplication-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/wai-handler-launch/docs/Network-Wai-Handler-Launch.html#v:runUrlPort",
-      "description": {
-        "fct-module": "Network.Wai.Handler.Launch",
-        "fct-package": "wai-handler-launch",
-        "fct-signature": "Int -\u003e String -\u003e Application -\u003e IO ()",
-        "fct-source": "src/Network-Wai-Handler-Launch.html#runUrlPort",
-        "fct-type": "function",
-        "title": "runUrlPort"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network Wai Handler Launch",
-        "module": "Network.Wai.Handler.Launch",
-        "name": "runUrlPort",
-        "normalized": "Int-\u003eString-\u003eApplication-\u003eIO()",
-        "package": "wai-handler-launch",
-        "partial": "Url Port",
-        "signature": "Int-\u003eString-\u003eApplication-\u003eIO()"
-      }
-    }
-  }
+  ]
 ]

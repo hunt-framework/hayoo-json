@@ -1,410 +1,407 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#",
-      "description": {
-        "fct-module": "Data.Tag",
-        "fct-package": "tagging",
-        "fct-signature": "module",
-        "fct-source": "src/Data-Tag.html",
-        "fct-type": "module",
-        "title": "Tag"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "tagging"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Tag",
-        "module": "Data.Tag",
-        "name": "Tag",
-        "normalized": "",
-        "package": "tagging",
-        "partial": "Tag",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#t:RegexStr",
-      "description": {
-        "fct-module": "Data.Tag",
-        "fct-package": "tagging",
-        "fct-signature": "type",
-        "fct-source": "src/Data-Tag.html#RegexStr",
-        "fct-type": "type",
-        "title": "RegexStr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Tag",
-        "module": "Data.Tag",
-        "name": "RegexStr",
-        "normalized": "",
-        "package": "tagging",
-        "partial": "Regex Str",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Tag",
+          "name": "Tag",
+          "package": "tagging",
+          "source": "src/Data-Tag.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data Tag",
+          "module": "Data.Tag",
+          "name": "Tag",
+          "package": "tagging",
+          "partial": "Tag",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Tag",
+          "name": "RegexStr",
+          "package": "tagging",
+          "source": "src/Data-Tag.html#RegexStr",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data Tag",
+          "module": "Data.Tag",
+          "name": "RegexStr",
+          "package": "tagging",
+          "partial": "Regex Str",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#t:RegexStr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Tag",
+          "name": "Rules",
+          "package": "tagging",
+          "source": "src/Data-Tag.html#Rules",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data Tag",
+          "module": "Data.Tag",
+          "name": "Rules",
+          "package": "tagging",
+          "partial": "Rules",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#t:Rules"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Tag",
+          "name": "Str",
+          "package": "tagging",
+          "source": "src/Data-Tag.html#Str",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data Tag",
+          "module": "Data.Tag",
+          "name": "Str",
+          "package": "tagging",
+          "partial": "Str",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#t:Str"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Tag",
+          "name": "Tag",
+          "package": "tagging",
+          "source": "src/Data-Tag.html#Tag",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data Tag",
+          "module": "Data.Tag",
+          "name": "Tag",
+          "package": "tagging",
+          "partial": "Tag",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#t:Tag"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Tag",
+          "name": "Tagged",
+          "package": "tagging",
+          "source": "src/Data-Tag.html#Tagged",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data Tag",
+          "module": "Data.Tag",
+          "name": "Tagged",
+          "package": "tagging",
+          "partial": "Tagged",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#t:Tagged"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Tag",
+          "name": "allTags",
+          "package": "tagging",
+          "signature": "Rules -\u003e [Tag]",
+          "source": "src/Data-Tag.html#allTags",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Tag",
+          "module": "Data.Tag",
+          "name": "allTags",
+          "normalized": "Rules-\u003e[Tag]",
+          "package": "tagging",
+          "partial": "Tags",
+          "signature": "Rules-\u003e[Tag]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#v:allTags"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Tag",
+          "name": "getTags",
+          "package": "tagging",
+          "signature": "[PCREExecOption] -\u003e Rules -\u003e Str -\u003e [Tag]",
+          "source": "src/Data-Tag.html#getTags",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Tag",
+          "module": "Data.Tag",
+          "name": "getTags",
+          "normalized": "[PCREExecOption]-\u003eRules-\u003eStr-\u003e[Tag]",
+          "package": "tagging",
+          "partial": "Tags",
+          "signature": "[PCREExecOption]-\u003eRules-\u003eStr-\u003e[Tag]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#v:getTags"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Tag",
+          "name": "hasTag",
+          "package": "tagging",
+          "signature": "Tag -\u003e (a, [Tag]) -\u003e Bool",
+          "source": "src/Data-Tag.html#hasTag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Tag",
+          "module": "Data.Tag",
+          "name": "hasTag",
+          "normalized": "Tag-\u003e(a,[Tag])-\u003eBool",
+          "package": "tagging",
+          "partial": "Tag",
+          "signature": "Tag-\u003e(a,[Tag])-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#v:hasTag"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Tag",
+          "name": "mkRules",
+          "package": "tagging",
+          "signature": "[PCREOption] -\u003e [(RegexStr, [Tag])] -\u003e Rules",
+          "source": "src/Data-Tag.html#mkRules",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Tag",
+          "module": "Data.Tag",
+          "name": "mkRules",
+          "normalized": "[PCREOption]-\u003e[(RegexStr,[Tag])]-\u003eRules",
+          "package": "tagging",
+          "partial": "Rules",
+          "signature": "[PCREOption]-\u003e[(RegexStr,[Tag])]-\u003eRules",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#v:mkRules"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Tag",
+          "name": "mkTaggedWrt",
+          "package": "tagging",
+          "signature": "[PCREExecOption] -\u003e Rules -\u003e [a] -\u003e (a -\u003e Str) -\u003e Tagged a",
+          "source": "src/Data-Tag.html#mkTaggedWrt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Tag",
+          "module": "Data.Tag",
+          "name": "mkTaggedWrt",
+          "normalized": "[PCREExecOption]-\u003eRules-\u003e[a]-\u003e(a-\u003eStr)-\u003eTagged a",
+          "package": "tagging",
+          "partial": "Tagged Wrt",
+          "signature": "[PCREExecOption]-\u003eRules-\u003e[a]-\u003e(a-\u003eStr)-\u003eTagged a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#v:mkTaggedWrt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Tag",
+          "name": "untagged",
+          "package": "tagging",
+          "signature": "Tagged a -\u003e [a]",
+          "source": "src/Data-Tag.html#untagged",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Tag",
+          "module": "Data.Tag",
+          "name": "untagged",
+          "normalized": "Tagged a-\u003e[a]",
+          "package": "tagging",
+          "signature": "Tagged a-\u003e[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#v:untagged"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Tag",
+          "name": "unusedTags",
+          "package": "tagging",
+          "signature": "Rules -\u003e Tagged a -\u003e [Tag]",
+          "source": "src/Data-Tag.html#unusedTags",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Tag",
+          "module": "Data.Tag",
+          "name": "unusedTags",
+          "normalized": "Rules-\u003eTagged a-\u003e[Tag]",
+          "package": "tagging",
+          "partial": "Tags",
+          "signature": "Rules-\u003eTagged a-\u003e[Tag]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#v:unusedTags"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Tag",
+          "name": "usedTags",
+          "package": "tagging",
+          "signature": "Tagged a -\u003e [Tag]",
+          "source": "src/Data-Tag.html#usedTags",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Tag",
+          "module": "Data.Tag",
+          "name": "usedTags",
+          "normalized": "Tagged a-\u003e[Tag]",
+          "package": "tagging",
+          "partial": "Tags",
+          "signature": "Tagged a-\u003e[Tag]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#v:usedTags"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Tag",
+          "name": "withAnyTag",
+          "package": "tagging",
+          "signature": "[Tag] -\u003e Tagged a -\u003e Tagged a",
+          "source": "src/Data-Tag.html#withAnyTag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Tag",
+          "module": "Data.Tag",
+          "name": "withAnyTag",
+          "normalized": "[Tag]-\u003eTagged a-\u003eTagged a",
+          "package": "tagging",
+          "partial": "Any Tag",
+          "signature": "[Tag]-\u003eTagged a-\u003eTagged a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#v:withAnyTag"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Tag",
+          "name": "withTag",
+          "package": "tagging",
+          "signature": "Tag -\u003e Tagged a -\u003e Tagged a",
+          "source": "src/Data-Tag.html#withTag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Tag",
+          "module": "Data.Tag",
+          "name": "withTag",
+          "normalized": "Tag-\u003eTagged a-\u003eTagged a",
+          "package": "tagging",
+          "partial": "Tag",
+          "signature": "Tag-\u003eTagged a-\u003eTagged a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#v:withTag"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Tag",
+          "name": "withoutTag",
+          "package": "tagging",
+          "signature": "Tag -\u003e Tagged a -\u003e Tagged a",
+          "source": "src/Data-Tag.html#withoutTag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Tag",
+          "module": "Data.Tag",
+          "name": "withoutTag",
+          "normalized": "Tag-\u003eTagged a-\u003eTagged a",
+          "package": "tagging",
+          "partial": "Tag",
+          "signature": "Tag-\u003eTagged a-\u003eTagged a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#v:withoutTag"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#t:Rules",
-      "description": {
-        "fct-module": "Data.Tag",
-        "fct-package": "tagging",
-        "fct-signature": "type",
-        "fct-source": "src/Data-Tag.html#Rules",
-        "fct-type": "type",
-        "title": "Rules"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Tag",
-        "module": "Data.Tag",
-        "name": "Rules",
-        "normalized": "",
-        "package": "tagging",
-        "partial": "Rules",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#t:Str",
-      "description": {
-        "fct-module": "Data.Tag",
-        "fct-package": "tagging",
-        "fct-signature": "type",
-        "fct-source": "src/Data-Tag.html#Str",
-        "fct-type": "type",
-        "title": "Str"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Tag",
-        "module": "Data.Tag",
-        "name": "Str",
-        "normalized": "",
-        "package": "tagging",
-        "partial": "Str",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#t:Tag",
-      "description": {
-        "fct-module": "Data.Tag",
-        "fct-package": "tagging",
-        "fct-signature": "type",
-        "fct-source": "src/Data-Tag.html#Tag",
-        "fct-type": "type",
-        "title": "Tag"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Tag",
-        "module": "Data.Tag",
-        "name": "Tag",
-        "normalized": "",
-        "package": "tagging",
-        "partial": "Tag",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#t:Tagged",
-      "description": {
-        "fct-module": "Data.Tag",
-        "fct-package": "tagging",
-        "fct-signature": "type",
-        "fct-source": "src/Data-Tag.html#Tagged",
-        "fct-type": "type",
-        "title": "Tagged"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Tag",
-        "module": "Data.Tag",
-        "name": "Tagged",
-        "normalized": "",
-        "package": "tagging",
-        "partial": "Tagged",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#v:allTags",
-      "description": {
-        "fct-module": "Data.Tag",
-        "fct-package": "tagging",
-        "fct-signature": "Rules -\u003e [Tag]",
-        "fct-source": "src/Data-Tag.html#allTags",
-        "fct-type": "function",
-        "title": "allTags"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Tag",
-        "module": "Data.Tag",
-        "name": "allTags",
-        "normalized": "Rules-\u003e[Tag]",
-        "package": "tagging",
-        "partial": "Tags",
-        "signature": "Rules-\u003e[Tag]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#v:getTags",
-      "description": {
-        "fct-module": "Data.Tag",
-        "fct-package": "tagging",
-        "fct-signature": "[PCREExecOption] -\u003e Rules -\u003e Str -\u003e [Tag]",
-        "fct-source": "src/Data-Tag.html#getTags",
-        "fct-type": "function",
-        "title": "getTags"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Tag",
-        "module": "Data.Tag",
-        "name": "getTags",
-        "normalized": "[PCREExecOption]-\u003eRules-\u003eStr-\u003e[Tag]",
-        "package": "tagging",
-        "partial": "Tags",
-        "signature": "[PCREExecOption]-\u003eRules-\u003eStr-\u003e[Tag]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#v:hasTag",
-      "description": {
-        "fct-module": "Data.Tag",
-        "fct-package": "tagging",
-        "fct-signature": "Tag -\u003e (a, [Tag]) -\u003e Bool",
-        "fct-source": "src/Data-Tag.html#hasTag",
-        "fct-type": "function",
-        "title": "hasTag"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Tag",
-        "module": "Data.Tag",
-        "name": "hasTag",
-        "normalized": "Tag-\u003e(a,[Tag])-\u003eBool",
-        "package": "tagging",
-        "partial": "Tag",
-        "signature": "Tag-\u003e(a,[Tag])-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#v:mkRules",
-      "description": {
-        "fct-module": "Data.Tag",
-        "fct-package": "tagging",
-        "fct-signature": "[PCREOption] -\u003e [(RegexStr, [Tag])] -\u003e Rules",
-        "fct-source": "src/Data-Tag.html#mkRules",
-        "fct-type": "function",
-        "title": "mkRules"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Tag",
-        "module": "Data.Tag",
-        "name": "mkRules",
-        "normalized": "[PCREOption]-\u003e[(RegexStr,[Tag])]-\u003eRules",
-        "package": "tagging",
-        "partial": "Rules",
-        "signature": "[PCREOption]-\u003e[(RegexStr,[Tag])]-\u003eRules"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#v:mkTaggedWrt",
-      "description": {
-        "fct-module": "Data.Tag",
-        "fct-package": "tagging",
-        "fct-signature": "[PCREExecOption] -\u003e Rules -\u003e [a] -\u003e (a -\u003e Str) -\u003e Tagged a",
-        "fct-source": "src/Data-Tag.html#mkTaggedWrt",
-        "fct-type": "function",
-        "title": "mkTaggedWrt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Tag",
-        "module": "Data.Tag",
-        "name": "mkTaggedWrt",
-        "normalized": "[PCREExecOption]-\u003eRules-\u003e[a]-\u003e(a-\u003eStr)-\u003eTagged a",
-        "package": "tagging",
-        "partial": "Tagged Wrt",
-        "signature": "[PCREExecOption]-\u003eRules-\u003e[a]-\u003e(a-\u003eStr)-\u003eTagged a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#v:untagged",
-      "description": {
-        "fct-module": "Data.Tag",
-        "fct-package": "tagging",
-        "fct-signature": "Tagged a -\u003e [a]",
-        "fct-source": "src/Data-Tag.html#untagged",
-        "fct-type": "function",
-        "title": "untagged"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Tag",
-        "module": "Data.Tag",
-        "name": "untagged",
-        "normalized": "Tagged a-\u003e[a]",
-        "package": "tagging",
-        "partial": "",
-        "signature": "Tagged a-\u003e[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#v:unusedTags",
-      "description": {
-        "fct-module": "Data.Tag",
-        "fct-package": "tagging",
-        "fct-signature": "Rules -\u003e Tagged a -\u003e [Tag]",
-        "fct-source": "src/Data-Tag.html#unusedTags",
-        "fct-type": "function",
-        "title": "unusedTags"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Tag",
-        "module": "Data.Tag",
-        "name": "unusedTags",
-        "normalized": "Rules-\u003eTagged a-\u003e[Tag]",
-        "package": "tagging",
-        "partial": "Tags",
-        "signature": "Rules-\u003eTagged a-\u003e[Tag]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#v:usedTags",
-      "description": {
-        "fct-module": "Data.Tag",
-        "fct-package": "tagging",
-        "fct-signature": "Tagged a -\u003e [Tag]",
-        "fct-source": "src/Data-Tag.html#usedTags",
-        "fct-type": "function",
-        "title": "usedTags"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Tag",
-        "module": "Data.Tag",
-        "name": "usedTags",
-        "normalized": "Tagged a-\u003e[Tag]",
-        "package": "tagging",
-        "partial": "Tags",
-        "signature": "Tagged a-\u003e[Tag]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#v:withAnyTag",
-      "description": {
-        "fct-module": "Data.Tag",
-        "fct-package": "tagging",
-        "fct-signature": "[Tag] -\u003e Tagged a -\u003e Tagged a",
-        "fct-source": "src/Data-Tag.html#withAnyTag",
-        "fct-type": "function",
-        "title": "withAnyTag"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Tag",
-        "module": "Data.Tag",
-        "name": "withAnyTag",
-        "normalized": "[Tag]-\u003eTagged a-\u003eTagged a",
-        "package": "tagging",
-        "partial": "Any Tag",
-        "signature": "[Tag]-\u003eTagged a-\u003eTagged a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#v:withTag",
-      "description": {
-        "fct-module": "Data.Tag",
-        "fct-package": "tagging",
-        "fct-signature": "Tag -\u003e Tagged a -\u003e Tagged a",
-        "fct-source": "src/Data-Tag.html#withTag",
-        "fct-type": "function",
-        "title": "withTag"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Tag",
-        "module": "Data.Tag",
-        "name": "withTag",
-        "normalized": "Tag-\u003eTagged a-\u003eTagged a",
-        "package": "tagging",
-        "partial": "Tag",
-        "signature": "Tag-\u003eTagged a-\u003eTagged a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/tagging/docs/Data-Tag.html#v:withoutTag",
-      "description": {
-        "fct-module": "Data.Tag",
-        "fct-package": "tagging",
-        "fct-signature": "Tag -\u003e Tagged a -\u003e Tagged a",
-        "fct-source": "src/Data-Tag.html#withoutTag",
-        "fct-type": "function",
-        "title": "withoutTag"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Tag",
-        "module": "Data.Tag",
-        "name": "withoutTag",
-        "normalized": "Tag-\u003eTagged a-\u003eTagged a",
-        "package": "tagging",
-        "partial": "Tag",
-        "signature": "Tag-\u003eTagged a-\u003eTagged a"
-      }
-    }
-  }
+  ]
 ]

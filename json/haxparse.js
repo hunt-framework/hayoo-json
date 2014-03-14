@@ -1,3635 +1,3284 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST-TH.html#",
-      "description": {
-        "fct-module": "HaxParse.AST.TH",
-        "fct-package": "haxparse",
-        "fct-signature": "module",
-        "fct-source": "src/HaxParse-AST-TH.html",
-        "fct-type": "module",
-        "title": "TH"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST TH",
-        "module": "HaxParse.AST.TH",
-        "name": "TH",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "TH",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST-TH.html#v:makeIsFn",
-      "description": {
-        "fct-module": "HaxParse.AST.TH",
-        "fct-package": "haxparse",
-        "fct-signature": "Con -\u003e Q [Dec]",
-        "fct-source": "src/HaxParse-AST-TH.html#makeIsFn",
-        "fct-type": "function",
-        "title": "makeIsFn"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST TH",
-        "module": "HaxParse.AST.TH",
-        "name": "makeIsFn",
-        "normalized": "Con-\u003eQ[Dec]",
-        "package": "haxparse",
-        "partial": "Is Fn",
-        "signature": "Con-\u003eQ[Dec]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST-TH.html#v:makeIsFns",
-      "description": {
-        "fct-module": "HaxParse.AST.TH",
-        "fct-package": "haxparse",
-        "fct-signature": "Name -\u003e Q [Dec]",
-        "fct-source": "src/HaxParse-AST-TH.html#makeIsFns",
-        "fct-type": "function",
-        "title": "makeIsFns"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST TH",
-        "module": "HaxParse.AST.TH",
-        "name": "makeIsFns",
-        "normalized": "Name-\u003eQ[Dec]",
-        "package": "haxparse",
-        "partial": "Is Fns",
-        "signature": "Name-\u003eQ[Dec]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "module",
-        "fct-source": "src/HaxParse-AST.html",
-        "fct-type": "module",
-        "title": "AST"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "AST",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "AST",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#t:Action",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "data",
-        "fct-source": "src/HaxParse-AST.html#Action",
-        "fct-type": "data",
-        "title": "Action"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Action",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Action",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#t:Color",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "data",
-        "fct-source": "src/HaxParse-AST.html#Color",
-        "fct-type": "data",
-        "title": "Color"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Color",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Color",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#t:Direction",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "data",
-        "fct-source": "src/HaxParse-AST.html#Direction",
-        "fct-type": "data",
-        "title": "Direction"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Direction",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Direction",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#t:Disc",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "data",
-        "fct-source": "src/HaxParse-AST.html#Disc",
-        "fct-type": "data",
-        "title": "Disc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Disc",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Disc",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#t:Event",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "data",
-        "fct-source": "src/HaxParse-AST.html#Event",
-        "fct-type": "data",
-        "title": "Event"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Event",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Event",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#t:Mask",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "data",
-        "fct-source": "src/HaxParse-AST.html#Mask",
-        "fct-type": "data",
-        "title": "Mask"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Mask",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Mask",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#t:Move",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "data",
-        "fct-source": "src/HaxParse-AST.html#Move",
-        "fct-type": "data",
-        "title": "Move"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Move",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Move",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#t:Player",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "data",
-        "fct-source": "src/HaxParse-AST.html#Player",
-        "fct-type": "data",
-        "title": "Player"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Player",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Player",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#t:Replay",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "data",
-        "fct-source": "src/HaxParse-AST.html#Replay",
-        "fct-type": "data",
-        "title": "Replay"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Replay",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Replay",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#t:Room",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "data",
-        "fct-source": "src/HaxParse-AST.html#Room",
-        "fct-type": "data",
-        "title": "Room"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Room",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Room",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#t:Side",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "data",
-        "fct-source": "src/HaxParse-AST.html#Side",
-        "fct-type": "data",
-        "title": "Side"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Side",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Side",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#t:Stadium",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "data",
-        "fct-source": "src/HaxParse-AST.html#Stadium",
-        "fct-type": "data",
-        "title": "Stadium"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Stadium",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Stadium",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Action",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Action",
-        "fct-source": "src/HaxParse-AST.html#Action",
-        "fct-type": "function",
-        "title": "Action"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Action",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Action",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Big",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Big",
-        "fct-source": "src/HaxParse-AST.html#Stadium",
-        "fct-type": "function",
-        "title": "Big"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Big",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Big",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:BigEasy",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "BigEasy",
-        "fct-source": "src/HaxParse-AST.html#Stadium",
-        "fct-type": "function",
-        "title": "BigEasy"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "BigEasy",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Big Easy",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:BigHockey",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "BigHockey",
-        "fct-source": "src/HaxParse-AST.html#Stadium",
-        "fct-type": "function",
-        "title": "BigHockey"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "BigHockey",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Big Hockey",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:BigRounded",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "BigRounded",
-        "fct-source": "src/HaxParse-AST.html#Stadium",
-        "fct-type": "function",
-        "title": "BigRounded"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "BigRounded",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Big Rounded",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Blue",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Blue",
-        "fct-source": "src/HaxParse-AST.html#Side",
-        "fct-type": "function",
-        "title": "Blue"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Blue",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Blue",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:ChangeAvatar",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "ChangeAvatar ByteString",
-        "fct-source": "src/HaxParse-AST.html#Event",
-        "fct-type": "function",
-        "title": "ChangeAvatar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "ChangeAvatar",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Change Avatar",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Chat",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Chat ByteString",
-        "fct-source": "src/HaxParse-AST.html#Event",
-        "fct-type": "function",
-        "title": "Chat"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Chat",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Chat",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Classic",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Classic",
-        "fct-source": "src/HaxParse-AST.html#Stadium",
-        "fct-type": "function",
-        "title": "Classic"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Classic",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Classic",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Color",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Color String",
-        "fct-source": "src/HaxParse-AST.html#Color",
-        "fct-type": "function",
-        "title": "Color"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Color",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Color",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Custom",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Custom",
-        "fct-source": "src/HaxParse-AST.html#Stadium",
-        "fct-type": "function",
-        "title": "Custom"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Custom",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Custom",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Departure",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Departure",
-        "fct-source": "src/HaxParse-AST.html#Event",
-        "fct-type": "function",
-        "title": "Departure"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Departure",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Departure",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Disc",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Disc",
-        "fct-source": "src/HaxParse-AST.html#Disc",
-        "fct-type": "function",
-        "title": "Disc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Disc",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Disc",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:DiscMove",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "DiscMove Move",
-        "fct-source": "src/HaxParse-AST.html#Event",
-        "fct-type": "function",
-        "title": "DiscMove"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "DiscMove",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Disc Move",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Down",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Down",
-        "fct-source": "src/HaxParse-AST.html#Direction",
-        "fct-type": "function",
-        "title": "Down"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Down",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Down",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Easy",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Easy",
-        "fct-source": "src/HaxParse-AST.html#Stadium",
-        "fct-type": "function",
-        "title": "Easy"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Easy",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Easy",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Hockey",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Hockey",
-        "fct-source": "src/HaxParse-AST.html#Stadium",
-        "fct-type": "function",
-        "title": "Hockey"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Hockey",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Hockey",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Huge",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Huge",
-        "fct-source": "src/HaxParse-AST.html#Stadium",
-        "fct-type": "function",
-        "title": "Huge"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Huge",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Huge",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Kick",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Kick",
-        "fct-source": "src/HaxParse-AST.html#Move",
-        "fct-type": "function",
-        "title": "Kick"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Kick",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Kick",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Left",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Left",
-        "fct-source": "src/HaxParse-AST.html#Direction",
-        "fct-type": "function",
-        "title": "Left"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Left",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Left",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Mask",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Mask [String]",
-        "fct-source": "src/HaxParse-AST.html#Mask",
-        "fct-type": "function",
-        "title": "Mask"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Mask",
-        "normalized": "Mask[String]",
-        "package": "haxparse",
-        "partial": "Mask",
-        "signature": "Mask[String]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Move",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Move [Direction]",
-        "fct-source": "src/HaxParse-AST.html#Move",
-        "fct-type": "function",
-        "title": "Move"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Move",
-        "normalized": "Move[Direction]",
-        "package": "haxparse",
-        "partial": "Move",
-        "signature": "Move[Direction]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:MoveKick",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "MoveKick [Direction]",
-        "fct-source": "src/HaxParse-AST.html#Move",
-        "fct-type": "function",
-        "title": "MoveKick"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "MoveKick",
-        "normalized": "MoveKick[Direction]",
-        "package": "haxparse",
-        "partial": "Move Kick",
-        "signature": "MoveKick[Direction]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:NewPlayer",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "NewPlayer",
-        "fct-source": "src/HaxParse-AST.html#Event",
-        "fct-type": "function",
-        "title": "NewPlayer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "NewPlayer",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "New Player",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Nop",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Nop",
-        "fct-source": "src/HaxParse-AST.html#Move",
-        "fct-type": "function",
-        "title": "Nop"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Nop",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Nop",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:PingBroadcast",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "PingBroadcast [(Word32, Word8)]",
-        "fct-source": "src/HaxParse-AST.html#Event",
-        "fct-type": "function",
-        "title": "PingBroadcast"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "PingBroadcast",
-        "normalized": "PingBroadcast[(Word,Word)]",
-        "package": "haxparse",
-        "partial": "Ping Broadcast",
-        "signature": "PingBroadcast[(Word,Word)]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Player",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Player",
-        "fct-source": "src/HaxParse-AST.html#Player",
-        "fct-type": "function",
-        "title": "Player"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Player",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Player",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Red",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Red",
-        "fct-source": "src/HaxParse-AST.html#Side",
-        "fct-type": "function",
-        "title": "Red"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Red",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Red",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Replay",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Replay",
-        "fct-source": "src/HaxParse-AST.html#Replay",
-        "fct-type": "function",
-        "title": "Replay"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Replay",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Replay",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Right",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Right",
-        "fct-source": "src/HaxParse-AST.html#Direction",
-        "fct-type": "function",
-        "title": "Right"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Right",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Right",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Room",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Room",
-        "fct-source": "src/HaxParse-AST.html#Room",
-        "fct-type": "function",
-        "title": "Room"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Room",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Room",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Rounded",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Rounded",
-        "fct-source": "src/HaxParse-AST.html#Stadium",
-        "fct-type": "function",
-        "title": "Rounded"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Rounded",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Rounded",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Small",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Small",
-        "fct-source": "src/HaxParse-AST.html#Stadium",
-        "fct-type": "function",
-        "title": "Small"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Small",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Small",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Spec",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Spec",
-        "fct-source": "src/HaxParse-AST.html#Side",
-        "fct-type": "function",
-        "title": "Spec"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Spec",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Spec",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:StartMatch",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "StartMatch",
-        "fct-source": "src/HaxParse-AST.html#Event",
-        "fct-type": "function",
-        "title": "StartMatch"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "StartMatch",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Start Match",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:StopMatch",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "StopMatch",
-        "fct-source": "src/HaxParse-AST.html#Event",
-        "fct-type": "function",
-        "title": "StopMatch"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "StopMatch",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Stop Match",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:TeamChange",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "TeamChange Word32 Side",
-        "fct-source": "src/HaxParse-AST.html#Event",
-        "fct-type": "function",
-        "title": "TeamChange"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "TeamChange",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Team Change",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:TimeUpdate",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "TimeUpdate",
-        "fct-source": "src/HaxParse-AST.html#Event",
-        "fct-type": "function",
-        "title": "TimeUpdate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "TimeUpdate",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Time Update",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Up",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Up",
-        "fct-source": "src/HaxParse-AST.html#Direction",
-        "fct-type": "function",
-        "title": "Up"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "Up",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Up",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:actEvent",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Event",
-        "fct-source": "src/HaxParse-AST.html#Action",
-        "fct-type": "function",
-        "title": "actEvent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "actEvent",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Event",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:actFrameCount",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Word32",
-        "fct-source": "src/HaxParse-AST.html#Action",
-        "fct-type": "function",
-        "title": "actFrameCount"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "actFrameCount",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Frame Count",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:actPlayerId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Key",
-        "fct-source": "src/HaxParse-AST.html#Action",
-        "fct-type": "function",
-        "title": "actPlayerId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "actPlayerId",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Player Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:admin",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Bool",
-        "fct-source": "src/HaxParse-AST.html#Player",
-        "fct-type": "function",
-        "title": "admin"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "admin",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:autoKick",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Bool",
-        "fct-source": "src/HaxParse-AST.html#Player",
-        "fct-type": "function",
-        "title": "autoKick"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "autoKick",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Kick",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:avatar",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "ByteString",
-        "fct-source": "src/HaxParse-AST.html#Player",
-        "fct-type": "function",
-        "title": "avatar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "avatar",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:bCoefficient",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Double",
-        "fct-source": "src/HaxParse-AST.html#Disc",
-        "fct-type": "function",
-        "title": "bCoefficient"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "bCoefficient",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Coefficient",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:ballCoords",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "(Double, Double)",
-        "fct-source": "src/HaxParse-AST.html#Room",
-        "fct-type": "function",
-        "title": "ballCoords"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "ballCoords",
-        "normalized": "(Double,Double)",
-        "package": "haxparse",
-        "partial": "Coords",
-        "signature": "(Double,Double)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:banned",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Bool",
-        "fct-source": "src/HaxParse-AST.html#Event",
-        "fct-type": "function",
-        "title": "banned"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "banned",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:blueScore",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Word32",
-        "fct-source": "src/HaxParse-AST.html#Room",
-        "fct-type": "function",
-        "title": "blueScore"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "blueScore",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Score",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:color",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Color",
-        "fct-source": "src/HaxParse-AST.html#Disc",
-        "fct-type": "function",
-        "title": "color"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "color",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:country",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "ByteString",
-        "fct-source": "src/HaxParse-AST.html#Player",
-        "fct-type": "function",
-        "title": "country"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "country",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:dId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Word32",
-        "fct-source": "src/HaxParse-AST.html#Event",
-        "fct-type": "function",
-        "title": "dId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "dId",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:damping",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Double",
-        "fct-source": "src/HaxParse-AST.html#Disc",
-        "fct-type": "function",
-        "title": "damping"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "damping",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:desync",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Bool",
-        "fct-source": "src/HaxParse-AST.html#Player",
-        "fct-type": "function",
-        "title": "desync"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "desync",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:discId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Word32",
-        "fct-source": "src/HaxParse-AST.html#Disc",
-        "fct-type": "function",
-        "title": "discId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "discId",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:discs",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "[Disc]",
-        "fct-source": "src/HaxParse-AST.html#Replay",
-        "fct-type": "function",
-        "title": "discs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "discs",
-        "normalized": "[Disc]",
-        "package": "haxparse",
-        "partial": "",
-        "signature": "[Disc]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:events",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "[Action]",
-        "fct-source": "src/HaxParse-AST.html#Replay",
-        "fct-type": "function",
-        "title": "events"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "events",
-        "normalized": "[Action]",
-        "package": "haxparse",
-        "partial": "",
-        "signature": "[Action]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:firstFrame",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Word32",
-        "fct-source": "src/HaxParse-AST.html#Replay",
-        "fct-type": "function",
-        "title": "firstFrame"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "firstFrame",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Frame",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:frameCount",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Word32",
-        "fct-source": "src/HaxParse-AST.html#Replay",
-        "fct-type": "function",
-        "title": "frameCount"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "frameCount",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Count",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:group",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Mask",
-        "fct-source": "src/HaxParse-AST.html#Disc",
-        "fct-type": "function",
-        "title": "group"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "group",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:handicap",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Word16",
-        "fct-source": "src/HaxParse-AST.html#Player",
-        "fct-type": "function",
-        "title": "handicap"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "handicap",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:inProgress",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Bool",
-        "fct-source": "src/HaxParse-AST.html#Replay",
-        "fct-type": "function",
-        "title": "inProgress"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "inProgress",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Progress",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:initial",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Bool",
-        "fct-source": "src/HaxParse-AST.html#Player",
-        "fct-type": "function",
-        "title": "initial"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "initial",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:input",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Word32",
-        "fct-source": "src/HaxParse-AST.html#Player",
-        "fct-type": "function",
-        "title": "input"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "input",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:invMass",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Double",
-        "fct-source": "src/HaxParse-AST.html#Disc",
-        "fct-type": "function",
-        "title": "invMass"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "invMass",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Mass",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:isChangeAvatar",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Event -\u003e Bool",
-        "fct-source": "src/HaxParse-AST.html#isChangeAvatar",
-        "fct-type": "function",
-        "title": "isChangeAvatar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "isChangeAvatar",
-        "normalized": "Event-\u003eBool",
-        "package": "haxparse",
-        "partial": "Change Avatar",
-        "signature": "Event-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:isChat",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Event -\u003e Bool",
-        "fct-source": "src/HaxParse-AST.html#isChat",
-        "fct-type": "function",
-        "title": "isChat"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "isChat",
-        "normalized": "Event-\u003eBool",
-        "package": "haxparse",
-        "partial": "Chat",
-        "signature": "Event-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:isDeparture",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Event -\u003e Bool",
-        "fct-source": "src/HaxParse-AST.html#isDeparture",
-        "fct-type": "function",
-        "title": "isDeparture"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "isDeparture",
-        "normalized": "Event-\u003eBool",
-        "package": "haxparse",
-        "partial": "Departure",
-        "signature": "Event-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:isDiscMove",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Event -\u003e Bool",
-        "fct-source": "src/HaxParse-AST.html#isDiscMove",
-        "fct-type": "function",
-        "title": "isDiscMove"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "isDiscMove",
-        "normalized": "Event-\u003eBool",
-        "package": "haxparse",
-        "partial": "Disc Move",
-        "signature": "Event-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:isNewPlayer",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Event -\u003e Bool",
-        "fct-source": "src/HaxParse-AST.html#isNewPlayer",
-        "fct-type": "function",
-        "title": "isNewPlayer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "isNewPlayer",
-        "normalized": "Event-\u003eBool",
-        "package": "haxparse",
-        "partial": "New Player",
-        "signature": "Event-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:isPingBroadcast",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Event -\u003e Bool",
-        "fct-source": "src/HaxParse-AST.html#isPingBroadcast",
-        "fct-type": "function",
-        "title": "isPingBroadcast"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "isPingBroadcast",
-        "normalized": "Event-\u003eBool",
-        "package": "haxparse",
-        "partial": "Ping Broadcast",
-        "signature": "Event-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:isStartMatch",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Event -\u003e Bool",
-        "fct-source": "src/HaxParse-AST.html#isStartMatch",
-        "fct-type": "function",
-        "title": "isStartMatch"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "isStartMatch",
-        "normalized": "Event-\u003eBool",
-        "package": "haxparse",
-        "partial": "Start Match",
-        "signature": "Event-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:isStopMatch",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Event -\u003e Bool",
-        "fct-source": "src/HaxParse-AST.html#isStopMatch",
-        "fct-type": "function",
-        "title": "isStopMatch"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "isStopMatch",
-        "normalized": "Event-\u003eBool",
-        "package": "haxparse",
-        "partial": "Stop Match",
-        "signature": "Event-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:isTeamChange",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Event -\u003e Bool",
-        "fct-source": "src/HaxParse-AST.html#isTeamChange",
-        "fct-type": "function",
-        "title": "isTeamChange"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "isTeamChange",
-        "normalized": "Event-\u003eBool",
-        "package": "haxparse",
-        "partial": "Team Change",
-        "signature": "Event-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:isTimeUpdate",
-      "description": {
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Event -\u003e Bool",
-        "fct-source": "src/HaxParse-AST.html#isTimeUpdate",
-        "fct-type": "function",
-        "title": "isTimeUpdate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "isTimeUpdate",
-        "normalized": "Event-\u003eBool",
-        "package": "haxparse",
-        "partial": "Time Update",
-        "signature": "Event-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:kicked",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Bool",
-        "fct-source": "src/HaxParse-AST.html#Event",
-        "fct-type": "function",
-        "title": "kicked"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "kicked",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:kickoffSide",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Side",
-        "fct-source": "src/HaxParse-AST.html#Room",
-        "fct-type": "function",
-        "title": "kickoffSide"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "kickoffSide",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Side",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:kickoffTaken",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Bool",
-        "fct-source": "src/HaxParse-AST.html#Room",
-        "fct-type": "function",
-        "title": "kickoffTaken"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "kickoffTaken",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Taken",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:locked",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Bool",
-        "fct-source": "src/HaxParse-AST.html#Room",
-        "fct-type": "function",
-        "title": "locked"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "locked",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:mask",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Mask",
-        "fct-source": "src/HaxParse-AST.html#Disc",
-        "fct-type": "function",
-        "title": "mask"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "mask",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:name",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "ByteString",
-        "fct-source": "src/HaxParse-AST.html#Player",
-        "fct-type": "function",
-        "title": "name"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "name",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:npAdmin",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Bool",
-        "fct-source": "src/HaxParse-AST.html#Event",
-        "fct-type": "function",
-        "title": "npAdmin"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "npAdmin",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Admin",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:npCountry",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "ByteString",
-        "fct-source": "src/HaxParse-AST.html#Event",
-        "fct-type": "function",
-        "title": "npCountry"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "npCountry",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Country",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:npId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Key",
-        "fct-source": "src/HaxParse-AST.html#Event",
-        "fct-type": "function",
-        "title": "npId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "npId",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:npName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "ByteString",
-        "fct-source": "src/HaxParse-AST.html#Event",
-        "fct-type": "function",
-        "title": "npName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "npName",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:number",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Word8",
-        "fct-source": "src/HaxParse-AST.html#Player",
-        "fct-type": "function",
-        "title": "number"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "number",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:pDiscId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Word32",
-        "fct-source": "src/HaxParse-AST.html#Player",
-        "fct-type": "function",
-        "title": "pDiscId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "pDiscId",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Disc Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:pauseTimer",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Word8",
-        "fct-source": "src/HaxParse-AST.html#Room",
-        "fct-type": "function",
-        "title": "pauseTimer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "pauseTimer",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Timer",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:players",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "IntMap Player",
-        "fct-source": "src/HaxParse-AST.html#Replay",
-        "fct-type": "function",
-        "title": "players"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "players",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:pos",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "(Double, Double)",
-        "fct-source": "src/HaxParse-AST.html#Disc",
-        "fct-type": "function",
-        "title": "pos"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "pos",
-        "normalized": "(Double,Double)",
-        "package": "haxparse",
-        "partial": "",
-        "signature": "(Double,Double)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:radius",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Double",
-        "fct-source": "src/HaxParse-AST.html#Disc",
-        "fct-type": "function",
-        "title": "radius"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "radius",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:reason",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Maybe ByteString",
-        "fct-source": "src/HaxParse-AST.html#Event",
-        "fct-type": "function",
-        "title": "reason"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "reason",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:redScore",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Word32",
-        "fct-source": "src/HaxParse-AST.html#Room",
-        "fct-type": "function",
-        "title": "redScore"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "redScore",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Score",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:room",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Room",
-        "fct-source": "src/HaxParse-AST.html#Replay",
-        "fct-type": "function",
-        "title": "room"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "room",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:roomName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "ByteString",
-        "fct-source": "src/HaxParse-AST.html#Room",
-        "fct-type": "function",
-        "title": "roomName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "roomName",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:rules",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Word32",
-        "fct-source": "src/HaxParse-AST.html#Room",
-        "fct-type": "function",
-        "title": "rules"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "rules",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:scoreLimit",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Word8",
-        "fct-source": "src/HaxParse-AST.html#Room",
-        "fct-type": "function",
-        "title": "scoreLimit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "scoreLimit",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Limit",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:speed",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "(Double, Double)",
-        "fct-source": "src/HaxParse-AST.html#Disc",
-        "fct-type": "function",
-        "title": "speed"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "speed",
-        "normalized": "(Double,Double)",
-        "package": "haxparse",
-        "partial": "",
-        "signature": "(Double,Double)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:stadium",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Stadium",
-        "fct-source": "src/HaxParse-AST.html#Room",
-        "fct-type": "function",
-        "title": "stadium"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "stadium",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:team",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Side",
-        "fct-source": "src/HaxParse-AST.html#Player",
-        "fct-type": "function",
-        "title": "team"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "team",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:timeLimit",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Word8",
-        "fct-source": "src/HaxParse-AST.html#Room",
-        "fct-type": "function",
-        "title": "timeLimit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "timeLimit",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Limit",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:timer",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Double",
-        "fct-source": "src/HaxParse-AST.html#Room",
-        "fct-type": "function",
-        "title": "timer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "timer",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:version",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.AST",
-        "fct-package": "haxparse",
-        "fct-signature": "Word32",
-        "fct-source": "src/HaxParse-AST.html#Replay",
-        "fct-type": "function",
-        "title": "version"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse AST",
-        "module": "HaxParse.AST",
-        "name": "version",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#",
-      "description": {
-        "fct-module": "HaxParse.Parser",
-        "fct-package": "haxparse",
-        "fct-signature": "module",
-        "fct-source": "src/HaxParse-Parser.html",
-        "fct-type": "module",
-        "title": "Parser"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse Parser",
-        "module": "HaxParse.Parser",
-        "name": "Parser",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Parser",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#t:Parser",
-      "description": {
-        "fct-module": "HaxParse.Parser",
-        "fct-package": "haxparse",
-        "fct-signature": "type",
-        "fct-source": "src/HaxParse-Parser.html#Parser",
-        "fct-type": "type",
-        "title": "Parser"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse Parser",
-        "module": "HaxParse.Parser",
-        "name": "Parser",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Parser",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#t:ParserState",
-      "description": {
-        "fct-module": "HaxParse.Parser",
-        "fct-package": "haxparse",
-        "fct-signature": "data",
-        "fct-source": "src/HaxParse-Parser.html#ParserState",
-        "fct-type": "data",
-        "title": "ParserState"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse Parser",
-        "module": "HaxParse.Parser",
-        "name": "ParserState",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Parser State",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:ParserState",
-      "description": {
-        "fct-module": "HaxParse.Parser",
-        "fct-package": "haxparse",
-        "fct-signature": "ParserState",
-        "fct-source": "src/HaxParse-Parser.html#ParserState",
-        "fct-type": "function",
-        "title": "ParserState"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse Parser",
-        "module": "HaxParse.Parser",
-        "name": "ParserState",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Parser State",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:bool",
-      "description": {
-        "fct-module": "HaxParse.Parser",
-        "fct-package": "haxparse",
-        "fct-signature": "Parser Bool",
-        "fct-source": "src/HaxParse-Parser.html#bool",
-        "fct-type": "function",
-        "title": "bool"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse Parser",
-        "module": "HaxParse.Parser",
-        "name": "bool",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:curDiscId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.Parser",
-        "fct-package": "haxparse",
-        "fct-signature": "Word32",
-        "fct-source": "src/HaxParse-Parser.html#ParserState",
-        "fct-type": "function",
-        "title": "curDiscId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse Parser",
-        "module": "HaxParse.Parser",
-        "name": "curDiscId",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Disc Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:departure",
-      "description": {
-        "fct-module": "HaxParse.Parser",
-        "fct-package": "haxparse",
-        "fct-signature": "Parser Event",
-        "fct-source": "src/HaxParse-Parser.html#departure",
-        "fct-type": "function",
-        "title": "departure"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse Parser",
-        "module": "HaxParse.Parser",
-        "name": "departure",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:disc",
-      "description": {
-        "fct-module": "HaxParse.Parser",
-        "fct-package": "haxparse",
-        "fct-signature": "Parser Disc",
-        "fct-source": "src/HaxParse-Parser.html#disc",
-        "fct-type": "function",
-        "title": "disc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse Parser",
-        "module": "HaxParse.Parser",
-        "name": "disc",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:discMove",
-      "description": {
-        "fct-module": "HaxParse.Parser",
-        "fct-package": "haxparse",
-        "fct-signature": "Parser Event",
-        "fct-source": "src/HaxParse-Parser.html#discMove",
-        "fct-type": "function",
-        "title": "discMove"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse Parser",
-        "module": "HaxParse.Parser",
-        "name": "discMove",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Move",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:discs_",
-      "description": {
-        "fct-module": "HaxParse.Parser",
-        "fct-package": "haxparse",
-        "fct-signature": "Parser [Disc]",
-        "fct-source": "src/HaxParse-Parser.html#discs_",
-        "fct-type": "function",
-        "title": "discs_"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse Parser",
-        "module": "HaxParse.Parser",
-        "name": "discs_",
-        "normalized": "Parser[Disc]",
-        "package": "haxparse",
-        "partial": "",
-        "signature": "Parser[Disc]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:double",
-      "description": {
-        "fct-module": "HaxParse.Parser",
-        "fct-package": "haxparse",
-        "fct-signature": "Parser Double",
-        "fct-source": "src/HaxParse-Parser.html#double",
-        "fct-type": "function",
-        "title": "double"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse Parser",
-        "module": "HaxParse.Parser",
-        "name": "double",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:event",
-      "description": {
-        "fct-module": "HaxParse.Parser",
-        "fct-package": "haxparse",
-        "fct-signature": "Parser Action",
-        "fct-source": "src/HaxParse-Parser.html#event",
-        "fct-type": "function",
-        "title": "event"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse Parser",
-        "module": "HaxParse.Parser",
-        "name": "event",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:frame",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.Parser",
-        "fct-package": "haxparse",
-        "fct-signature": "Word32",
-        "fct-source": "src/HaxParse-Parser.html#ParserState",
-        "fct-type": "function",
-        "title": "frame"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse Parser",
-        "module": "HaxParse.Parser",
-        "name": "frame",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:haxParser",
-      "description": {
-        "fct-module": "HaxParse.Parser",
-        "fct-package": "haxparse",
-        "fct-signature": "Parser Replay",
-        "fct-source": "src/HaxParse-Parser.html#haxParser",
-        "fct-type": "function",
-        "title": "haxParser"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse Parser",
-        "module": "HaxParse.Parser",
-        "name": "haxParser",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Parser",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:int16",
-      "description": {
-        "fct-module": "HaxParse.Parser",
-        "fct-package": "haxparse",
-        "fct-signature": "Parser Word16",
-        "fct-source": "src/HaxParse-Parser.html#int16",
-        "fct-type": "function",
-        "title": "int16"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse Parser",
-        "module": "HaxParse.Parser",
-        "name": "int16",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:int32",
-      "description": {
-        "fct-module": "HaxParse.Parser",
-        "fct-package": "haxparse",
-        "fct-signature": "Parser Word32",
-        "fct-source": "src/HaxParse-Parser.html#int32",
-        "fct-type": "function",
-        "title": "int32"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse Parser",
-        "module": "HaxParse.Parser",
-        "name": "int32",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:int64",
-      "description": {
-        "fct-module": "HaxParse.Parser",
-        "fct-package": "haxparse",
-        "fct-signature": "Parser Word64",
-        "fct-source": "src/HaxParse-Parser.html#int64",
-        "fct-type": "function",
-        "title": "int64"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse Parser",
-        "module": "HaxParse.Parser",
-        "name": "int64",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:int8",
-      "description": {
-        "fct-module": "HaxParse.Parser",
-        "fct-package": "haxparse",
-        "fct-signature": "Parser Word8",
-        "fct-source": "src/HaxParse-Parser.html#int8",
-        "fct-type": "function",
-        "title": "int8"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse Parser",
-        "module": "HaxParse.Parser",
-        "name": "int8",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:mask_",
-      "description": {
-        "fct-module": "HaxParse.Parser",
-        "fct-package": "haxparse",
-        "fct-signature": "Parser Mask",
-        "fct-source": "src/HaxParse-Parser.html#mask_",
-        "fct-type": "function",
-        "title": "mask_"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse Parser",
-        "module": "HaxParse.Parser",
-        "name": "mask_",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:newPlayer",
-      "description": {
-        "fct-module": "HaxParse.Parser",
-        "fct-package": "haxparse",
-        "fct-signature": "Parser Event",
-        "fct-source": "src/HaxParse-Parser.html#newPlayer",
-        "fct-type": "function",
-        "title": "newPlayer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse Parser",
-        "module": "HaxParse.Parser",
-        "name": "newPlayer",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Player",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:parseFile",
-      "description": {
-        "fct-module": "HaxParse.Parser",
-        "fct-package": "haxparse",
-        "fct-signature": "FilePath -\u003e IO (Either ParseError Replay)",
-        "fct-source": "src/HaxParse-Parser.html#parseFile",
-        "fct-type": "function",
-        "title": "parseFile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse Parser",
-        "module": "HaxParse.Parser",
-        "name": "parseFile",
-        "normalized": "FilePath-\u003eIO(Either ParseError Replay)",
-        "package": "haxparse",
-        "partial": "File",
-        "signature": "FilePath-\u003eIO(Either ParseError Replay)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:parseFromFile",
-      "description": {
-        "fct-module": "HaxParse.Parser",
-        "fct-package": "haxparse",
-        "fct-signature": "Parser a -\u003e FilePath -\u003e IO (Either ParseError a)",
-        "fct-source": "src/HaxParse-Parser.html#parseFromFile",
-        "fct-type": "function",
-        "title": "parseFromFile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse Parser",
-        "module": "HaxParse.Parser",
-        "name": "parseFromFile",
-        "normalized": "Parser a-\u003eFilePath-\u003eIO(Either ParseError a)",
-        "package": "haxparse",
-        "partial": "From File",
-        "signature": "Parser a-\u003eFilePath-\u003eIO(Either ParseError a)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:pingBroadcast",
-      "description": {
-        "fct-module": "HaxParse.Parser",
-        "fct-package": "haxparse",
-        "fct-signature": "Parser Event",
-        "fct-source": "src/HaxParse-Parser.html#pingBroadcast",
-        "fct-type": "function",
-        "title": "pingBroadcast"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse Parser",
-        "module": "HaxParse.Parser",
-        "name": "pingBroadcast",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "Broadcast",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:player",
-      "description": {
-        "fct-module": "HaxParse.Parser",
-        "fct-package": "haxparse",
-        "fct-signature": "Parser ()",
-        "fct-source": "src/HaxParse-Parser.html#player",
-        "fct-type": "function",
-        "title": "player"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse Parser",
-        "module": "HaxParse.Parser",
-        "name": "player",
-        "normalized": "Parser()",
-        "package": "haxparse",
-        "partial": "",
-        "signature": "Parser()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:playerList",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "HaxParse.Parser",
-        "fct-package": "haxparse",
-        "fct-signature": "IntMap Player",
-        "fct-source": "src/HaxParse-Parser.html#ParserState",
-        "fct-type": "function",
-        "title": "playerList"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse Parser",
-        "module": "HaxParse.Parser",
-        "name": "playerList",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "List",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:players_",
-      "description": {
-        "fct-module": "HaxParse.Parser",
-        "fct-package": "haxparse",
-        "fct-signature": "Parser ()",
-        "fct-source": "src/HaxParse-Parser.html#players_",
-        "fct-type": "function",
-        "title": "players_"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse Parser",
-        "module": "HaxParse.Parser",
-        "name": "players_",
-        "normalized": "Parser()",
-        "package": "haxparse",
-        "partial": "",
-        "signature": "Parser()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:room_",
-      "description": {
-        "fct-module": "HaxParse.Parser",
-        "fct-package": "haxparse",
-        "fct-signature": "Parser Room",
-        "fct-source": "src/HaxParse-Parser.html#room_",
-        "fct-type": "function",
-        "title": "room_"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse Parser",
-        "module": "HaxParse.Parser",
-        "name": "room_",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:side",
-      "description": {
-        "fct-module": "HaxParse.Parser",
-        "fct-package": "haxparse",
-        "fct-signature": "Parser Side",
-        "fct-source": "src/HaxParse-Parser.html#side",
-        "fct-type": "function",
-        "title": "side"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse Parser",
-        "module": "HaxParse.Parser",
-        "name": "side",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:stadium_",
-      "description": {
-        "fct-module": "HaxParse.Parser",
-        "fct-package": "haxparse",
-        "fct-signature": "Parser Stadium",
-        "fct-source": "src/HaxParse-Parser.html#stadium_",
-        "fct-type": "function",
-        "title": "stadium_"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse Parser",
-        "module": "HaxParse.Parser",
-        "name": "stadium_",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:str",
-      "description": {
-        "fct-module": "HaxParse.Parser",
-        "fct-package": "haxparse",
-        "fct-signature": "Parser ByteString",
-        "fct-source": "src/HaxParse-Parser.html#str",
-        "fct-type": "function",
-        "title": "str"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HaxParse Parser",
-        "module": "HaxParse.Parser",
-        "name": "str",
-        "normalized": "",
-        "package": "haxparse",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  }
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "haxparse"
+      },
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST.TH",
+          "name": "TH",
+          "package": "haxparse",
+          "source": "src/HaxParse-AST-TH.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST TH",
+          "module": "HaxParse.AST.TH",
+          "name": "TH",
+          "package": "haxparse",
+          "partial": "TH",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST-TH.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST.TH",
+          "name": "makeIsFn",
+          "package": "haxparse",
+          "signature": "Con -\u003e Q [Dec]",
+          "source": "src/HaxParse-AST-TH.html#makeIsFn",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST TH",
+          "module": "HaxParse.AST.TH",
+          "name": "makeIsFn",
+          "normalized": "Con-\u003eQ[Dec]",
+          "package": "haxparse",
+          "partial": "Is Fn",
+          "signature": "Con-\u003eQ[Dec]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST-TH.html#v:makeIsFn"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST.TH",
+          "name": "makeIsFns",
+          "package": "haxparse",
+          "signature": "Name -\u003e Q [Dec]",
+          "source": "src/HaxParse-AST-TH.html#makeIsFns",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST TH",
+          "module": "HaxParse.AST.TH",
+          "name": "makeIsFns",
+          "normalized": "Name-\u003eQ[Dec]",
+          "package": "haxparse",
+          "partial": "Is Fns",
+          "signature": "Name-\u003eQ[Dec]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST-TH.html#v:makeIsFns"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "AST",
+          "package": "haxparse",
+          "source": "src/HaxParse-AST.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "AST",
+          "package": "haxparse",
+          "partial": "AST",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Action",
+          "package": "haxparse",
+          "source": "src/HaxParse-AST.html#Action",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Action",
+          "package": "haxparse",
+          "partial": "Action",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#t:Action"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Color",
+          "package": "haxparse",
+          "source": "src/HaxParse-AST.html#Color",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Color",
+          "package": "haxparse",
+          "partial": "Color",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#t:Color"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Direction",
+          "package": "haxparse",
+          "source": "src/HaxParse-AST.html#Direction",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Direction",
+          "package": "haxparse",
+          "partial": "Direction",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#t:Direction"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Disc",
+          "package": "haxparse",
+          "source": "src/HaxParse-AST.html#Disc",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Disc",
+          "package": "haxparse",
+          "partial": "Disc",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#t:Disc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Event",
+          "package": "haxparse",
+          "source": "src/HaxParse-AST.html#Event",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Event",
+          "package": "haxparse",
+          "partial": "Event",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#t:Event"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Mask",
+          "package": "haxparse",
+          "source": "src/HaxParse-AST.html#Mask",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Mask",
+          "package": "haxparse",
+          "partial": "Mask",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#t:Mask"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Move",
+          "package": "haxparse",
+          "source": "src/HaxParse-AST.html#Move",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Move",
+          "package": "haxparse",
+          "partial": "Move",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#t:Move"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Player",
+          "package": "haxparse",
+          "source": "src/HaxParse-AST.html#Player",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Player",
+          "package": "haxparse",
+          "partial": "Player",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#t:Player"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Replay",
+          "package": "haxparse",
+          "source": "src/HaxParse-AST.html#Replay",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Replay",
+          "package": "haxparse",
+          "partial": "Replay",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#t:Replay"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Room",
+          "package": "haxparse",
+          "source": "src/HaxParse-AST.html#Room",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Room",
+          "package": "haxparse",
+          "partial": "Room",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#t:Room"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Side",
+          "package": "haxparse",
+          "source": "src/HaxParse-AST.html#Side",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Side",
+          "package": "haxparse",
+          "partial": "Side",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#t:Side"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Stadium",
+          "package": "haxparse",
+          "source": "src/HaxParse-AST.html#Stadium",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Stadium",
+          "package": "haxparse",
+          "partial": "Stadium",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#t:Stadium"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Action",
+          "package": "haxparse",
+          "signature": "Action",
+          "source": "src/HaxParse-AST.html#Action",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Action",
+          "package": "haxparse",
+          "partial": "Action",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Action"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Big",
+          "package": "haxparse",
+          "signature": "Big",
+          "source": "src/HaxParse-AST.html#Stadium",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Big",
+          "package": "haxparse",
+          "partial": "Big",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Big"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "BigEasy",
+          "package": "haxparse",
+          "signature": "BigEasy",
+          "source": "src/HaxParse-AST.html#Stadium",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "BigEasy",
+          "package": "haxparse",
+          "partial": "Big Easy",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:BigEasy"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "BigHockey",
+          "package": "haxparse",
+          "signature": "BigHockey",
+          "source": "src/HaxParse-AST.html#Stadium",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "BigHockey",
+          "package": "haxparse",
+          "partial": "Big Hockey",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:BigHockey"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "BigRounded",
+          "package": "haxparse",
+          "signature": "BigRounded",
+          "source": "src/HaxParse-AST.html#Stadium",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "BigRounded",
+          "package": "haxparse",
+          "partial": "Big Rounded",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:BigRounded"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Blue",
+          "package": "haxparse",
+          "signature": "Blue",
+          "source": "src/HaxParse-AST.html#Side",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Blue",
+          "package": "haxparse",
+          "partial": "Blue",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Blue"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "ChangeAvatar",
+          "package": "haxparse",
+          "signature": "ChangeAvatar ByteString",
+          "source": "src/HaxParse-AST.html#Event",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "ChangeAvatar",
+          "package": "haxparse",
+          "partial": "Change Avatar",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:ChangeAvatar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Chat",
+          "package": "haxparse",
+          "signature": "Chat ByteString",
+          "source": "src/HaxParse-AST.html#Event",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Chat",
+          "package": "haxparse",
+          "partial": "Chat",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Chat"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Classic",
+          "package": "haxparse",
+          "signature": "Classic",
+          "source": "src/HaxParse-AST.html#Stadium",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Classic",
+          "package": "haxparse",
+          "partial": "Classic",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Classic"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Color",
+          "package": "haxparse",
+          "signature": "Color String",
+          "source": "src/HaxParse-AST.html#Color",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Color",
+          "package": "haxparse",
+          "partial": "Color",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Color"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Custom",
+          "package": "haxparse",
+          "signature": "Custom",
+          "source": "src/HaxParse-AST.html#Stadium",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Custom",
+          "package": "haxparse",
+          "partial": "Custom",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Custom"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Departure",
+          "package": "haxparse",
+          "signature": "Departure",
+          "source": "src/HaxParse-AST.html#Event",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Departure",
+          "package": "haxparse",
+          "partial": "Departure",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Departure"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Disc",
+          "package": "haxparse",
+          "signature": "Disc",
+          "source": "src/HaxParse-AST.html#Disc",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Disc",
+          "package": "haxparse",
+          "partial": "Disc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Disc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "DiscMove",
+          "package": "haxparse",
+          "signature": "DiscMove Move",
+          "source": "src/HaxParse-AST.html#Event",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "DiscMove",
+          "package": "haxparse",
+          "partial": "Disc Move",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:DiscMove"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Down",
+          "package": "haxparse",
+          "signature": "Down",
+          "source": "src/HaxParse-AST.html#Direction",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Down",
+          "package": "haxparse",
+          "partial": "Down",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Down"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Easy",
+          "package": "haxparse",
+          "signature": "Easy",
+          "source": "src/HaxParse-AST.html#Stadium",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Easy",
+          "package": "haxparse",
+          "partial": "Easy",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Easy"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Hockey",
+          "package": "haxparse",
+          "signature": "Hockey",
+          "source": "src/HaxParse-AST.html#Stadium",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Hockey",
+          "package": "haxparse",
+          "partial": "Hockey",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Hockey"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Huge",
+          "package": "haxparse",
+          "signature": "Huge",
+          "source": "src/HaxParse-AST.html#Stadium",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Huge",
+          "package": "haxparse",
+          "partial": "Huge",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Huge"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Kick",
+          "package": "haxparse",
+          "signature": "Kick",
+          "source": "src/HaxParse-AST.html#Move",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Kick",
+          "package": "haxparse",
+          "partial": "Kick",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Kick"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Left",
+          "package": "haxparse",
+          "signature": "Left",
+          "source": "src/HaxParse-AST.html#Direction",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Left",
+          "package": "haxparse",
+          "partial": "Left",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Left"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Mask",
+          "package": "haxparse",
+          "signature": "Mask [String]",
+          "source": "src/HaxParse-AST.html#Mask",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Mask",
+          "normalized": "Mask[String]",
+          "package": "haxparse",
+          "partial": "Mask",
+          "signature": "Mask[String]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Mask"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Move",
+          "package": "haxparse",
+          "signature": "Move [Direction]",
+          "source": "src/HaxParse-AST.html#Move",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Move",
+          "normalized": "Move[Direction]",
+          "package": "haxparse",
+          "partial": "Move",
+          "signature": "Move[Direction]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Move"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "MoveKick",
+          "package": "haxparse",
+          "signature": "MoveKick [Direction]",
+          "source": "src/HaxParse-AST.html#Move",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "MoveKick",
+          "normalized": "MoveKick[Direction]",
+          "package": "haxparse",
+          "partial": "Move Kick",
+          "signature": "MoveKick[Direction]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:MoveKick"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "NewPlayer",
+          "package": "haxparse",
+          "signature": "NewPlayer",
+          "source": "src/HaxParse-AST.html#Event",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "NewPlayer",
+          "package": "haxparse",
+          "partial": "New Player",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:NewPlayer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Nop",
+          "package": "haxparse",
+          "signature": "Nop",
+          "source": "src/HaxParse-AST.html#Move",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Nop",
+          "package": "haxparse",
+          "partial": "Nop",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Nop"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "PingBroadcast",
+          "package": "haxparse",
+          "signature": "PingBroadcast [(Word32, Word8)]",
+          "source": "src/HaxParse-AST.html#Event",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "PingBroadcast",
+          "normalized": "PingBroadcast[(Word,Word)]",
+          "package": "haxparse",
+          "partial": "Ping Broadcast",
+          "signature": "PingBroadcast[(Word,Word)]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:PingBroadcast"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Player",
+          "package": "haxparse",
+          "signature": "Player",
+          "source": "src/HaxParse-AST.html#Player",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Player",
+          "package": "haxparse",
+          "partial": "Player",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Player"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Red",
+          "package": "haxparse",
+          "signature": "Red",
+          "source": "src/HaxParse-AST.html#Side",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Red",
+          "package": "haxparse",
+          "partial": "Red",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Red"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Replay",
+          "package": "haxparse",
+          "signature": "Replay",
+          "source": "src/HaxParse-AST.html#Replay",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Replay",
+          "package": "haxparse",
+          "partial": "Replay",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Replay"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Right",
+          "package": "haxparse",
+          "signature": "Right",
+          "source": "src/HaxParse-AST.html#Direction",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Right",
+          "package": "haxparse",
+          "partial": "Right",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Right"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Room",
+          "package": "haxparse",
+          "signature": "Room",
+          "source": "src/HaxParse-AST.html#Room",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Room",
+          "package": "haxparse",
+          "partial": "Room",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Room"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Rounded",
+          "package": "haxparse",
+          "signature": "Rounded",
+          "source": "src/HaxParse-AST.html#Stadium",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Rounded",
+          "package": "haxparse",
+          "partial": "Rounded",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Rounded"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Small",
+          "package": "haxparse",
+          "signature": "Small",
+          "source": "src/HaxParse-AST.html#Stadium",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Small",
+          "package": "haxparse",
+          "partial": "Small",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Small"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Spec",
+          "package": "haxparse",
+          "signature": "Spec",
+          "source": "src/HaxParse-AST.html#Side",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Spec",
+          "package": "haxparse",
+          "partial": "Spec",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Spec"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "StartMatch",
+          "package": "haxparse",
+          "signature": "StartMatch",
+          "source": "src/HaxParse-AST.html#Event",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "StartMatch",
+          "package": "haxparse",
+          "partial": "Start Match",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:StartMatch"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "StopMatch",
+          "package": "haxparse",
+          "signature": "StopMatch",
+          "source": "src/HaxParse-AST.html#Event",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "StopMatch",
+          "package": "haxparse",
+          "partial": "Stop Match",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:StopMatch"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "TeamChange",
+          "package": "haxparse",
+          "signature": "TeamChange Word32 Side",
+          "source": "src/HaxParse-AST.html#Event",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "TeamChange",
+          "package": "haxparse",
+          "partial": "Team Change",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:TeamChange"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "TimeUpdate",
+          "package": "haxparse",
+          "signature": "TimeUpdate",
+          "source": "src/HaxParse-AST.html#Event",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "TimeUpdate",
+          "package": "haxparse",
+          "partial": "Time Update",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:TimeUpdate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "Up",
+          "package": "haxparse",
+          "signature": "Up",
+          "source": "src/HaxParse-AST.html#Direction",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "Up",
+          "package": "haxparse",
+          "partial": "Up",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:Up"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "actEvent",
+          "package": "haxparse",
+          "signature": "Event",
+          "source": "src/HaxParse-AST.html#Action",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "actEvent",
+          "package": "haxparse",
+          "partial": "Event",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:actEvent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "actFrameCount",
+          "package": "haxparse",
+          "signature": "Word32",
+          "source": "src/HaxParse-AST.html#Action",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "actFrameCount",
+          "package": "haxparse",
+          "partial": "Frame Count",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:actFrameCount"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "actPlayerId",
+          "package": "haxparse",
+          "signature": "Key",
+          "source": "src/HaxParse-AST.html#Action",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "actPlayerId",
+          "package": "haxparse",
+          "partial": "Player Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:actPlayerId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "admin",
+          "package": "haxparse",
+          "signature": "Bool",
+          "source": "src/HaxParse-AST.html#Player",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "admin",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:admin"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "autoKick",
+          "package": "haxparse",
+          "signature": "Bool",
+          "source": "src/HaxParse-AST.html#Player",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "autoKick",
+          "package": "haxparse",
+          "partial": "Kick",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:autoKick"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "avatar",
+          "package": "haxparse",
+          "signature": "ByteString",
+          "source": "src/HaxParse-AST.html#Player",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "avatar",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:avatar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "bCoefficient",
+          "package": "haxparse",
+          "signature": "Double",
+          "source": "src/HaxParse-AST.html#Disc",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "bCoefficient",
+          "package": "haxparse",
+          "partial": "Coefficient",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:bCoefficient"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "ballCoords",
+          "package": "haxparse",
+          "signature": "(Double, Double)",
+          "source": "src/HaxParse-AST.html#Room",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "ballCoords",
+          "normalized": "(Double,Double)",
+          "package": "haxparse",
+          "partial": "Coords",
+          "signature": "(Double,Double)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:ballCoords"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "banned",
+          "package": "haxparse",
+          "signature": "Bool",
+          "source": "src/HaxParse-AST.html#Event",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "banned",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:banned"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "blueScore",
+          "package": "haxparse",
+          "signature": "Word32",
+          "source": "src/HaxParse-AST.html#Room",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "blueScore",
+          "package": "haxparse",
+          "partial": "Score",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:blueScore"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "color",
+          "package": "haxparse",
+          "signature": "Color",
+          "source": "src/HaxParse-AST.html#Disc",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "color",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:color"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "country",
+          "package": "haxparse",
+          "signature": "ByteString",
+          "source": "src/HaxParse-AST.html#Player",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "country",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:country"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "dId",
+          "package": "haxparse",
+          "signature": "Word32",
+          "source": "src/HaxParse-AST.html#Event",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "dId",
+          "package": "haxparse",
+          "partial": "Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:dId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "damping",
+          "package": "haxparse",
+          "signature": "Double",
+          "source": "src/HaxParse-AST.html#Disc",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "damping",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:damping"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "desync",
+          "package": "haxparse",
+          "signature": "Bool",
+          "source": "src/HaxParse-AST.html#Player",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "desync",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:desync"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "discId",
+          "package": "haxparse",
+          "signature": "Word32",
+          "source": "src/HaxParse-AST.html#Disc",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "discId",
+          "package": "haxparse",
+          "partial": "Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:discId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "discs",
+          "package": "haxparse",
+          "signature": "[Disc]",
+          "source": "src/HaxParse-AST.html#Replay",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "discs",
+          "normalized": "[Disc]",
+          "package": "haxparse",
+          "signature": "[Disc]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:discs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "events",
+          "package": "haxparse",
+          "signature": "[Action]",
+          "source": "src/HaxParse-AST.html#Replay",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "events",
+          "normalized": "[Action]",
+          "package": "haxparse",
+          "signature": "[Action]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:events"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "firstFrame",
+          "package": "haxparse",
+          "signature": "Word32",
+          "source": "src/HaxParse-AST.html#Replay",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "firstFrame",
+          "package": "haxparse",
+          "partial": "Frame",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:firstFrame"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "frameCount",
+          "package": "haxparse",
+          "signature": "Word32",
+          "source": "src/HaxParse-AST.html#Replay",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "frameCount",
+          "package": "haxparse",
+          "partial": "Count",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:frameCount"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "group",
+          "package": "haxparse",
+          "signature": "Mask",
+          "source": "src/HaxParse-AST.html#Disc",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "group",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:group"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "handicap",
+          "package": "haxparse",
+          "signature": "Word16",
+          "source": "src/HaxParse-AST.html#Player",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "handicap",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:handicap"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "inProgress",
+          "package": "haxparse",
+          "signature": "Bool",
+          "source": "src/HaxParse-AST.html#Replay",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "inProgress",
+          "package": "haxparse",
+          "partial": "Progress",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:inProgress"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "initial",
+          "package": "haxparse",
+          "signature": "Bool",
+          "source": "src/HaxParse-AST.html#Player",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "initial",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:initial"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "input",
+          "package": "haxparse",
+          "signature": "Word32",
+          "source": "src/HaxParse-AST.html#Player",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "input",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:input"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "invMass",
+          "package": "haxparse",
+          "signature": "Double",
+          "source": "src/HaxParse-AST.html#Disc",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "invMass",
+          "package": "haxparse",
+          "partial": "Mass",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:invMass"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "isChangeAvatar",
+          "package": "haxparse",
+          "signature": "Event -\u003e Bool",
+          "source": "src/HaxParse-AST.html#isChangeAvatar",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "isChangeAvatar",
+          "normalized": "Event-\u003eBool",
+          "package": "haxparse",
+          "partial": "Change Avatar",
+          "signature": "Event-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:isChangeAvatar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "isChat",
+          "package": "haxparse",
+          "signature": "Event -\u003e Bool",
+          "source": "src/HaxParse-AST.html#isChat",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "isChat",
+          "normalized": "Event-\u003eBool",
+          "package": "haxparse",
+          "partial": "Chat",
+          "signature": "Event-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:isChat"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "isDeparture",
+          "package": "haxparse",
+          "signature": "Event -\u003e Bool",
+          "source": "src/HaxParse-AST.html#isDeparture",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "isDeparture",
+          "normalized": "Event-\u003eBool",
+          "package": "haxparse",
+          "partial": "Departure",
+          "signature": "Event-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:isDeparture"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "isDiscMove",
+          "package": "haxparse",
+          "signature": "Event -\u003e Bool",
+          "source": "src/HaxParse-AST.html#isDiscMove",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "isDiscMove",
+          "normalized": "Event-\u003eBool",
+          "package": "haxparse",
+          "partial": "Disc Move",
+          "signature": "Event-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:isDiscMove"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "isNewPlayer",
+          "package": "haxparse",
+          "signature": "Event -\u003e Bool",
+          "source": "src/HaxParse-AST.html#isNewPlayer",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "isNewPlayer",
+          "normalized": "Event-\u003eBool",
+          "package": "haxparse",
+          "partial": "New Player",
+          "signature": "Event-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:isNewPlayer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "isPingBroadcast",
+          "package": "haxparse",
+          "signature": "Event -\u003e Bool",
+          "source": "src/HaxParse-AST.html#isPingBroadcast",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "isPingBroadcast",
+          "normalized": "Event-\u003eBool",
+          "package": "haxparse",
+          "partial": "Ping Broadcast",
+          "signature": "Event-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:isPingBroadcast"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "isStartMatch",
+          "package": "haxparse",
+          "signature": "Event -\u003e Bool",
+          "source": "src/HaxParse-AST.html#isStartMatch",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "isStartMatch",
+          "normalized": "Event-\u003eBool",
+          "package": "haxparse",
+          "partial": "Start Match",
+          "signature": "Event-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:isStartMatch"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "isStopMatch",
+          "package": "haxparse",
+          "signature": "Event -\u003e Bool",
+          "source": "src/HaxParse-AST.html#isStopMatch",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "isStopMatch",
+          "normalized": "Event-\u003eBool",
+          "package": "haxparse",
+          "partial": "Stop Match",
+          "signature": "Event-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:isStopMatch"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "isTeamChange",
+          "package": "haxparse",
+          "signature": "Event -\u003e Bool",
+          "source": "src/HaxParse-AST.html#isTeamChange",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "isTeamChange",
+          "normalized": "Event-\u003eBool",
+          "package": "haxparse",
+          "partial": "Team Change",
+          "signature": "Event-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:isTeamChange"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "isTimeUpdate",
+          "package": "haxparse",
+          "signature": "Event -\u003e Bool",
+          "source": "src/HaxParse-AST.html#isTimeUpdate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "isTimeUpdate",
+          "normalized": "Event-\u003eBool",
+          "package": "haxparse",
+          "partial": "Time Update",
+          "signature": "Event-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:isTimeUpdate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "kicked",
+          "package": "haxparse",
+          "signature": "Bool",
+          "source": "src/HaxParse-AST.html#Event",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "kicked",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:kicked"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "kickoffSide",
+          "package": "haxparse",
+          "signature": "Side",
+          "source": "src/HaxParse-AST.html#Room",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "kickoffSide",
+          "package": "haxparse",
+          "partial": "Side",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:kickoffSide"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "kickoffTaken",
+          "package": "haxparse",
+          "signature": "Bool",
+          "source": "src/HaxParse-AST.html#Room",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "kickoffTaken",
+          "package": "haxparse",
+          "partial": "Taken",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:kickoffTaken"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "locked",
+          "package": "haxparse",
+          "signature": "Bool",
+          "source": "src/HaxParse-AST.html#Room",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "locked",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:locked"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "mask",
+          "package": "haxparse",
+          "signature": "Mask",
+          "source": "src/HaxParse-AST.html#Disc",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "mask",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:mask"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "name",
+          "package": "haxparse",
+          "signature": "ByteString",
+          "source": "src/HaxParse-AST.html#Player",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "name",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:name"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "npAdmin",
+          "package": "haxparse",
+          "signature": "Bool",
+          "source": "src/HaxParse-AST.html#Event",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "npAdmin",
+          "package": "haxparse",
+          "partial": "Admin",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:npAdmin"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "npCountry",
+          "package": "haxparse",
+          "signature": "ByteString",
+          "source": "src/HaxParse-AST.html#Event",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "npCountry",
+          "package": "haxparse",
+          "partial": "Country",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:npCountry"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "npId",
+          "package": "haxparse",
+          "signature": "Key",
+          "source": "src/HaxParse-AST.html#Event",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "npId",
+          "package": "haxparse",
+          "partial": "Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:npId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "npName",
+          "package": "haxparse",
+          "signature": "ByteString",
+          "source": "src/HaxParse-AST.html#Event",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "npName",
+          "package": "haxparse",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:npName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "number",
+          "package": "haxparse",
+          "signature": "Word8",
+          "source": "src/HaxParse-AST.html#Player",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "number",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:number"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "pDiscId",
+          "package": "haxparse",
+          "signature": "Word32",
+          "source": "src/HaxParse-AST.html#Player",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "pDiscId",
+          "package": "haxparse",
+          "partial": "Disc Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:pDiscId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "pauseTimer",
+          "package": "haxparse",
+          "signature": "Word8",
+          "source": "src/HaxParse-AST.html#Room",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "pauseTimer",
+          "package": "haxparse",
+          "partial": "Timer",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:pauseTimer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "players",
+          "package": "haxparse",
+          "signature": "IntMap Player",
+          "source": "src/HaxParse-AST.html#Replay",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "players",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:players"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "pos",
+          "package": "haxparse",
+          "signature": "(Double, Double)",
+          "source": "src/HaxParse-AST.html#Disc",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "pos",
+          "normalized": "(Double,Double)",
+          "package": "haxparse",
+          "signature": "(Double,Double)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:pos"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "radius",
+          "package": "haxparse",
+          "signature": "Double",
+          "source": "src/HaxParse-AST.html#Disc",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "radius",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:radius"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "reason",
+          "package": "haxparse",
+          "signature": "Maybe ByteString",
+          "source": "src/HaxParse-AST.html#Event",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "reason",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:reason"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "redScore",
+          "package": "haxparse",
+          "signature": "Word32",
+          "source": "src/HaxParse-AST.html#Room",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "redScore",
+          "package": "haxparse",
+          "partial": "Score",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:redScore"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "room",
+          "package": "haxparse",
+          "signature": "Room",
+          "source": "src/HaxParse-AST.html#Replay",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "room",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:room"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "roomName",
+          "package": "haxparse",
+          "signature": "ByteString",
+          "source": "src/HaxParse-AST.html#Room",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "roomName",
+          "package": "haxparse",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:roomName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "rules",
+          "package": "haxparse",
+          "signature": "Word32",
+          "source": "src/HaxParse-AST.html#Room",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "rules",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:rules"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "scoreLimit",
+          "package": "haxparse",
+          "signature": "Word8",
+          "source": "src/HaxParse-AST.html#Room",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "scoreLimit",
+          "package": "haxparse",
+          "partial": "Limit",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:scoreLimit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "speed",
+          "package": "haxparse",
+          "signature": "(Double, Double)",
+          "source": "src/HaxParse-AST.html#Disc",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "speed",
+          "normalized": "(Double,Double)",
+          "package": "haxparse",
+          "signature": "(Double,Double)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:speed"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "stadium",
+          "package": "haxparse",
+          "signature": "Stadium",
+          "source": "src/HaxParse-AST.html#Room",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "stadium",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:stadium"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "team",
+          "package": "haxparse",
+          "signature": "Side",
+          "source": "src/HaxParse-AST.html#Player",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "team",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:team"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "timeLimit",
+          "package": "haxparse",
+          "signature": "Word8",
+          "source": "src/HaxParse-AST.html#Room",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "timeLimit",
+          "package": "haxparse",
+          "partial": "Limit",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:timeLimit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "timer",
+          "package": "haxparse",
+          "signature": "Double",
+          "source": "src/HaxParse-AST.html#Room",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "timer",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:timer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.AST",
+          "name": "version",
+          "package": "haxparse",
+          "signature": "Word32",
+          "source": "src/HaxParse-AST.html#Replay",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse AST",
+          "module": "HaxParse.AST",
+          "name": "version",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-AST.html#v:version"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.Parser",
+          "name": "Parser",
+          "package": "haxparse",
+          "source": "src/HaxParse-Parser.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "HaxParse Parser",
+          "module": "HaxParse.Parser",
+          "name": "Parser",
+          "package": "haxparse",
+          "partial": "Parser",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.Parser",
+          "name": "Parser",
+          "package": "haxparse",
+          "source": "src/HaxParse-Parser.html#Parser",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "HaxParse Parser",
+          "module": "HaxParse.Parser",
+          "name": "Parser",
+          "package": "haxparse",
+          "partial": "Parser",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#t:Parser"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.Parser",
+          "name": "ParserState",
+          "package": "haxparse",
+          "source": "src/HaxParse-Parser.html#ParserState",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "HaxParse Parser",
+          "module": "HaxParse.Parser",
+          "name": "ParserState",
+          "package": "haxparse",
+          "partial": "Parser State",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#t:ParserState"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.Parser",
+          "name": "ParserState",
+          "package": "haxparse",
+          "signature": "ParserState",
+          "source": "src/HaxParse-Parser.html#ParserState",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse Parser",
+          "module": "HaxParse.Parser",
+          "name": "ParserState",
+          "package": "haxparse",
+          "partial": "Parser State",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:ParserState"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.Parser",
+          "name": "bool",
+          "package": "haxparse",
+          "signature": "Parser Bool",
+          "source": "src/HaxParse-Parser.html#bool",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse Parser",
+          "module": "HaxParse.Parser",
+          "name": "bool",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:bool"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.Parser",
+          "name": "curDiscId",
+          "package": "haxparse",
+          "signature": "Word32",
+          "source": "src/HaxParse-Parser.html#ParserState",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse Parser",
+          "module": "HaxParse.Parser",
+          "name": "curDiscId",
+          "package": "haxparse",
+          "partial": "Disc Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:curDiscId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.Parser",
+          "name": "departure",
+          "package": "haxparse",
+          "signature": "Parser Event",
+          "source": "src/HaxParse-Parser.html#departure",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse Parser",
+          "module": "HaxParse.Parser",
+          "name": "departure",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:departure"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.Parser",
+          "name": "disc",
+          "package": "haxparse",
+          "signature": "Parser Disc",
+          "source": "src/HaxParse-Parser.html#disc",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse Parser",
+          "module": "HaxParse.Parser",
+          "name": "disc",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:disc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.Parser",
+          "name": "discMove",
+          "package": "haxparse",
+          "signature": "Parser Event",
+          "source": "src/HaxParse-Parser.html#discMove",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse Parser",
+          "module": "HaxParse.Parser",
+          "name": "discMove",
+          "package": "haxparse",
+          "partial": "Move",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:discMove"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.Parser",
+          "name": "discs_",
+          "package": "haxparse",
+          "signature": "Parser [Disc]",
+          "source": "src/HaxParse-Parser.html#discs_",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse Parser",
+          "module": "HaxParse.Parser",
+          "name": "discs_",
+          "normalized": "Parser[Disc]",
+          "package": "haxparse",
+          "signature": "Parser[Disc]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:discs_"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.Parser",
+          "name": "double",
+          "package": "haxparse",
+          "signature": "Parser Double",
+          "source": "src/HaxParse-Parser.html#double",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse Parser",
+          "module": "HaxParse.Parser",
+          "name": "double",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:double"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.Parser",
+          "name": "event",
+          "package": "haxparse",
+          "signature": "Parser Action",
+          "source": "src/HaxParse-Parser.html#event",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse Parser",
+          "module": "HaxParse.Parser",
+          "name": "event",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:event"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.Parser",
+          "name": "frame",
+          "package": "haxparse",
+          "signature": "Word32",
+          "source": "src/HaxParse-Parser.html#ParserState",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse Parser",
+          "module": "HaxParse.Parser",
+          "name": "frame",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:frame"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.Parser",
+          "name": "haxParser",
+          "package": "haxparse",
+          "signature": "Parser Replay",
+          "source": "src/HaxParse-Parser.html#haxParser",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse Parser",
+          "module": "HaxParse.Parser",
+          "name": "haxParser",
+          "package": "haxparse",
+          "partial": "Parser",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:haxParser"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.Parser",
+          "name": "int16",
+          "package": "haxparse",
+          "signature": "Parser Word16",
+          "source": "src/HaxParse-Parser.html#int16",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse Parser",
+          "module": "HaxParse.Parser",
+          "name": "int16",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:int16"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.Parser",
+          "name": "int32",
+          "package": "haxparse",
+          "signature": "Parser Word32",
+          "source": "src/HaxParse-Parser.html#int32",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse Parser",
+          "module": "HaxParse.Parser",
+          "name": "int32",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:int32"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.Parser",
+          "name": "int64",
+          "package": "haxparse",
+          "signature": "Parser Word64",
+          "source": "src/HaxParse-Parser.html#int64",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse Parser",
+          "module": "HaxParse.Parser",
+          "name": "int64",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:int64"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.Parser",
+          "name": "int8",
+          "package": "haxparse",
+          "signature": "Parser Word8",
+          "source": "src/HaxParse-Parser.html#int8",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse Parser",
+          "module": "HaxParse.Parser",
+          "name": "int8",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:int8"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.Parser",
+          "name": "mask_",
+          "package": "haxparse",
+          "signature": "Parser Mask",
+          "source": "src/HaxParse-Parser.html#mask_",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse Parser",
+          "module": "HaxParse.Parser",
+          "name": "mask_",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:mask_"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.Parser",
+          "name": "newPlayer",
+          "package": "haxparse",
+          "signature": "Parser Event",
+          "source": "src/HaxParse-Parser.html#newPlayer",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse Parser",
+          "module": "HaxParse.Parser",
+          "name": "newPlayer",
+          "package": "haxparse",
+          "partial": "Player",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:newPlayer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.Parser",
+          "name": "parseFile",
+          "package": "haxparse",
+          "signature": "FilePath -\u003e IO (Either ParseError Replay)",
+          "source": "src/HaxParse-Parser.html#parseFile",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse Parser",
+          "module": "HaxParse.Parser",
+          "name": "parseFile",
+          "normalized": "FilePath-\u003eIO(Either ParseError Replay)",
+          "package": "haxparse",
+          "partial": "File",
+          "signature": "FilePath-\u003eIO(Either ParseError Replay)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:parseFile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.Parser",
+          "name": "parseFromFile",
+          "package": "haxparse",
+          "signature": "Parser a -\u003e FilePath -\u003e IO (Either ParseError a)",
+          "source": "src/HaxParse-Parser.html#parseFromFile",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse Parser",
+          "module": "HaxParse.Parser",
+          "name": "parseFromFile",
+          "normalized": "Parser a-\u003eFilePath-\u003eIO(Either ParseError a)",
+          "package": "haxparse",
+          "partial": "From File",
+          "signature": "Parser a-\u003eFilePath-\u003eIO(Either ParseError a)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:parseFromFile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.Parser",
+          "name": "pingBroadcast",
+          "package": "haxparse",
+          "signature": "Parser Event",
+          "source": "src/HaxParse-Parser.html#pingBroadcast",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse Parser",
+          "module": "HaxParse.Parser",
+          "name": "pingBroadcast",
+          "package": "haxparse",
+          "partial": "Broadcast",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:pingBroadcast"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.Parser",
+          "name": "player",
+          "package": "haxparse",
+          "signature": "Parser ()",
+          "source": "src/HaxParse-Parser.html#player",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse Parser",
+          "module": "HaxParse.Parser",
+          "name": "player",
+          "normalized": "Parser()",
+          "package": "haxparse",
+          "signature": "Parser()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:player"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.Parser",
+          "name": "playerList",
+          "package": "haxparse",
+          "signature": "IntMap Player",
+          "source": "src/HaxParse-Parser.html#ParserState",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse Parser",
+          "module": "HaxParse.Parser",
+          "name": "playerList",
+          "package": "haxparse",
+          "partial": "List",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:playerList"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.Parser",
+          "name": "players_",
+          "package": "haxparse",
+          "signature": "Parser ()",
+          "source": "src/HaxParse-Parser.html#players_",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse Parser",
+          "module": "HaxParse.Parser",
+          "name": "players_",
+          "normalized": "Parser()",
+          "package": "haxparse",
+          "signature": "Parser()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:players_"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.Parser",
+          "name": "room_",
+          "package": "haxparse",
+          "signature": "Parser Room",
+          "source": "src/HaxParse-Parser.html#room_",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse Parser",
+          "module": "HaxParse.Parser",
+          "name": "room_",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:room_"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.Parser",
+          "name": "side",
+          "package": "haxparse",
+          "signature": "Parser Side",
+          "source": "src/HaxParse-Parser.html#side",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse Parser",
+          "module": "HaxParse.Parser",
+          "name": "side",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:side"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.Parser",
+          "name": "stadium_",
+          "package": "haxparse",
+          "signature": "Parser Stadium",
+          "source": "src/HaxParse-Parser.html#stadium_",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse Parser",
+          "module": "HaxParse.Parser",
+          "name": "stadium_",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:stadium_"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HaxParse.Parser",
+          "name": "str",
+          "package": "haxparse",
+          "signature": "Parser ByteString",
+          "source": "src/HaxParse-Parser.html#str",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "HaxParse Parser",
+          "module": "HaxParse.Parser",
+          "name": "str",
+          "package": "haxparse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haxparse/docs/HaxParse-Parser.html#v:str"
+      }
+    }
+  ]
 ]

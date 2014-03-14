@@ -1,620 +1,727 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#",
-      "description": {
-        "fct-module": "Web.SocketIO",
-        "fct-package": "socketio",
-        "fct-signature": "module",
-        "fct-source": "src/Web-SocketIO.html",
-        "fct-type": "module",
-        "title": "SocketIO"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "socketio"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Web SocketIO",
-        "module": "Web.SocketIO",
-        "name": "SocketIO",
-        "normalized": "",
-        "package": "socketio",
-        "partial": "Socket IO",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#t:CallbackM",
-      "description": {
-        "fct-descr": "\u003cp\u003eCapable of only sending events.\n\u003c/p\u003e\u003cp\u003eUse \u003ccode\u003e\u003ca\u003eliftIO\u003c/a\u003e\u003c/code\u003e if you wanna do some IO here.\n\u003c/p\u003e",
-        "fct-module": "Web.SocketIO",
-        "fct-package": "socketio",
-        "fct-signature": "data",
-        "fct-source": "src/Web-SocketIO-Types-SocketIO.html#CallbackM",
-        "fct-type": "data",
-        "title": "CallbackM"
-      },
-      "index": {
-        "description": "Capable of only sending events Use liftIO if you wanna do some IO here",
-        "hierarchy": "Web SocketIO",
-        "module": "Web.SocketIO",
-        "name": "CallbackM",
-        "normalized": "",
-        "package": "socketio",
-        "partial": "Callback",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eSocket.IO for Haskell folks.\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Web.SocketIO",
+          "name": "SocketIO",
+          "package": "socketio",
+          "source": "src/Web-SocketIO.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "Socket.IO for Haskell folks",
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "SocketIO",
+          "package": "socketio",
+          "partial": "Socket IO",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eCapable of only sending events.\n\u003c/p\u003e\u003cp\u003eUse \u003ccode\u003e\u003ca\u003eliftIO\u003c/a\u003e\u003c/code\u003e if you wanna do some IO here.\n\u003c/p\u003e",
+          "module": "Web.SocketIO",
+          "name": "CallbackM",
+          "package": "socketio",
+          "source": "src/Web-SocketIO-Types-Base.html#CallbackM",
+          "type": "data"
+        },
+        "index": {
+          "description": "Capable of only sending events Use liftIO if you wanna do some IO here",
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "CallbackM",
+          "package": "socketio",
+          "partial": "Callback",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#t:CallbackM"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eDefines behaviors of a Socket.IO server\n\u003c/p\u003e",
+          "module": "Web.SocketIO",
+          "name": "Configuration",
+          "package": "socketio",
+          "source": "src/Web-SocketIO-Types-Base.html#Configuration",
+          "type": "data"
+        },
+        "index": {
+          "description": "Defines behaviors of Socket.IO server",
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "Configuration",
+          "package": "socketio",
+          "partial": "Configuration",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#t:Configuration"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eName of an Event\n\u003c/p\u003e",
+          "module": "Web.SocketIO",
+          "name": "EventName",
+          "package": "socketio",
+          "source": "src/Web-SocketIO-Types-Event.html#EventName",
+          "type": "type"
+        },
+        "index": {
+          "description": "Name of an Event",
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "EventName",
+          "package": "socketio",
+          "partial": "Event Name",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#t:EventName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eCapable of both sending and receiving events.\n\u003c/p\u003e\u003cp\u003eUse \u003ccode\u003e\u003ca\u003eliftIO\u003c/a\u003e\u003c/code\u003e if you wanna do some IO here.\n\u003c/p\u003e",
+          "module": "Web.SocketIO",
+          "name": "HandlerM",
+          "package": "socketio",
+          "source": "src/Web-SocketIO-Types-Base.html#HandlerM",
+          "type": "data"
+        },
+        "index": {
+          "description": "Capable of both sending and receiving events Use liftIO if you wanna do some IO here",
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "HandlerM",
+          "package": "socketio",
+          "partial": "Handler",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#t:HandlerM"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eClass for \u003ccode\u003e\u003ca\u003eSessionID\u003c/a\u003e\u003c/code\u003e getter.\n\u003c/p\u003e",
+          "module": "Web.SocketIO",
+          "name": "HasSessionID",
+          "package": "socketio",
+          "source": "src/Web-SocketIO-Types-Base.html#HasSessionID",
+          "type": "class"
+        },
+        "index": {
+          "description": "Class for SessionID getter",
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "HasSessionID",
+          "package": "socketio",
+          "partial": "Has Session ID",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#t:HasSessionID"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ePort number for a standalone Socket.IO server.\n\u003c/p\u003e",
+          "module": "Web.SocketIO",
+          "name": "Port",
+          "package": "socketio",
+          "source": "src/Web-SocketIO-Types-Base.html#Port",
+          "type": "type"
+        },
+        "index": {
+          "description": "Port number for standalone Socket.IO server",
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "Port",
+          "package": "socketio",
+          "partial": "Port",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#t:Port"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eSends events\n\u003c/p\u003e",
+          "module": "Web.SocketIO",
+          "name": "Publisher",
+          "package": "socketio",
+          "source": "src/Web-SocketIO-Types-Base.html#Publisher",
+          "type": "class"
+        },
+        "index": {
+          "description": "Sends events",
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "Publisher",
+          "package": "socketio",
+          "partial": "Publisher",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#t:Publisher"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eSession ID\n\u003c/p\u003e",
+          "module": "Web.SocketIO",
+          "name": "SessionID",
+          "package": "socketio",
+          "source": "src/Web-SocketIO-Types-Base.html#SessionID",
+          "type": "type"
+        },
+        "index": {
+          "description": "Session ID",
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "SessionID",
+          "package": "socketio",
+          "partial": "Session ID",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#t:SessionID"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eReceives events.\n\u003c/p\u003e",
+          "module": "Web.SocketIO",
+          "name": "Subscriber",
+          "package": "socketio",
+          "source": "src/Web-SocketIO-Types-Base.html#Subscriber",
+          "type": "class"
+        },
+        "index": {
+          "description": "Receives events",
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "Subscriber",
+          "package": "socketio",
+          "partial": "Subscriber",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#t:Subscriber"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eNow only xhr-polling is supported. \u003ca\u003esocket.io-spec#transport-id\u003c/a\u003e\n\u003c/p\u003e",
+          "module": "Web.SocketIO",
+          "name": "Transport",
+          "package": "socketio",
+          "source": "src/Web-SocketIO-Types-Base.html#Transport",
+          "type": "data"
+        },
+        "index": {
+          "description": "Now only xhr-polling is supported socket.io-spec transport-id",
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "Transport",
+          "package": "socketio",
+          "partial": "Transport",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#t:Transport"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Web.SocketIO",
+          "name": "Configuration",
+          "package": "socketio",
+          "signature": "Configuration",
+          "source": "src/Web-SocketIO-Types-Base.html#Configuration",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "Configuration",
+          "package": "socketio",
+          "partial": "Configuration",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:Configuration"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Web.SocketIO",
+          "name": "XHRPolling",
+          "package": "socketio",
+          "signature": "XHRPolling",
+          "source": "src/Web-SocketIO-Types-Base.html#Transport",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "XHRPolling",
+          "package": "socketio",
+          "partial": "XHRPolling",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:XHRPolling"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eSends a message to everybody except for the socket that starts it.\n\u003c/p\u003e\u003cpre\u003e\n \u003ccode\u003e\u003ca\u003ebroadcast\u003c/a\u003e\u003c/code\u003e \"hide\" [\"nukes coming!\"] \n\u003c/pre\u003e",
+          "module": "Web.SocketIO",
+          "name": "broadcast",
+          "package": "socketio",
+          "signature": "broadcast",
+          "source": "src/Web-SocketIO-Types-Base.html#broadcast",
+          "type": "method"
+        },
+        "index": {
+          "description": "Sends message to everybody except for the socket that starts it broadcast hide nukes coming",
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "broadcast",
+          "package": "socketio",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:broadcast"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Web.SocketIO",
+          "name": "closeTimeout",
+          "package": "socketio",
+          "signature": "Int",
+          "source": "src/Web-SocketIO-Types-Base.html#Configuration",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "closeTimeout",
+          "package": "socketio",
+          "partial": "Timeout",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:closeTimeout"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eDefault configuration.\n\u003c/p\u003e\u003cpre\u003e defaultConfig = Configuration\n    {   transports = [XHRPolling]\n    ,   logLevel = 2               \n    ,   logTo = stderr        \n    ,   header = [(\"Access-Control-Allow-Credentials\", \"true\")]      \n    ,   heartbeats = True\n    ,   closeTimeout = 60\n    ,   heartbeatTimeout = 60\n    ,   heartbeatInterval = 25\n    ,   pollingDuration = 20\n    }\n\u003c/pre\u003e\u003cp\u003eYou can override it like so:\n\u003c/p\u003e\u003cpre\u003e myConfig = defaultConfig { logLevel = 0 }\n\u003c/pre\u003e\u003cp\u003eUnless specified, the header will be modified to enable cross-origin resource sharing (CORS) like this.\n\u003c/p\u003e\u003cpre\u003e header = \n    [   (\"Access-Control-Allow-Origin\", \u003corigin-of-the-reqeust\u003e)]      \n    ,   (\"Access-Control-Allow-Credentials\", \"true\")\n    ]      \n\u003c/pre\u003e",
+          "module": "Web.SocketIO",
+          "name": "defaultConfig",
+          "package": "socketio",
+          "signature": "Configuration",
+          "source": "src/Web-SocketIO-Server.html#defaultConfig",
+          "type": "function"
+        },
+        "index": {
+          "description": "Default configuration defaultConfig Configuration transports XHRPolling logLevel logTo stderr header Access-Control-Allow-Credentials true heartbeats True closeTimeout heartbeatTimeout heartbeatInterval pollingDuration You can override it like so myConfig defaultConfig logLevel Unless specified the header will be modified to enable cross-origin resource sharing CORS like this header Access-Control-Allow-Origin origin-of-the-reqeust Access-Control-Allow-Credentials true",
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "defaultConfig",
+          "package": "socketio",
+          "partial": "Config",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:defaultConfig"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eSends a message to the socket that starts it.\n\u003c/p\u003e\u003cpre\u003e\n \u003ccode\u003e\u003ca\u003eemit\u003c/a\u003e\u003c/code\u003e \"launch\" [\"missile\", \"nuke\"] \n\u003c/pre\u003e",
+          "module": "Web.SocketIO",
+          "name": "emit",
+          "package": "socketio",
+          "signature": "emit",
+          "source": "src/Web-SocketIO-Types-Base.html#emit",
+          "type": "method"
+        },
+        "index": {
+          "description": "Sends message to the socket that starts it emit launch missile nuke",
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "emit",
+          "package": "socketio",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:emit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eName of the event\n\u003c/p\u003e",
+          "module": "Web.SocketIO",
+          "name": "getEventName",
+          "package": "socketio",
+          "signature": "CallbackM EventName",
+          "source": "src/Web-SocketIO-Event.html#getEventName",
+          "type": "function"
+        },
+        "index": {
+          "description": "Name of the event",
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "getEventName",
+          "package": "socketio",
+          "partial": "Event Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:getEventName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Web.SocketIO",
+          "name": "getSessionID",
+          "package": "socketio",
+          "signature": "m SessionID",
+          "source": "src/Web-SocketIO-Types-Base.html#getSessionID",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "getSessionID",
+          "package": "socketio",
+          "partial": "Session ID",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:getSessionID"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Web.SocketIO",
+          "name": "header",
+          "package": "socketio",
+          "signature": "ResponseHeaders",
+          "source": "src/Web-SocketIO-Types-Base.html#Configuration",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "header",
+          "package": "socketio",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:header"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Web.SocketIO",
+          "name": "heartbeatInterval",
+          "package": "socketio",
+          "signature": "Int",
+          "source": "src/Web-SocketIO-Types-Base.html#Configuration",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "heartbeatInterval",
+          "package": "socketio",
+          "partial": "Interval",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:heartbeatInterval"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Web.SocketIO",
+          "name": "heartbeatTimeout",
+          "package": "socketio",
+          "signature": "Int",
+          "source": "src/Web-SocketIO-Types-Base.html#Configuration",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "heartbeatTimeout",
+          "package": "socketio",
+          "partial": "Timeout",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:heartbeatTimeout"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Web.SocketIO",
+          "name": "heartbeats",
+          "package": "socketio",
+          "signature": "Bool",
+          "source": "src/Web-SocketIO-Types-Base.html#Configuration",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "heartbeats",
+          "package": "socketio",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:heartbeats"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ethere are 4 levels, from 0 to 3: Error, Warn, Info, Debug\n\u003c/p\u003e",
+          "module": "Web.SocketIO",
+          "name": "logLevel",
+          "package": "socketio",
+          "signature": "Int",
+          "source": "src/Web-SocketIO-Types-Base.html#Configuration",
+          "type": "function"
+        },
+        "index": {
+          "description": "there are levels from to Error Warn Info Debug",
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "logLevel",
+          "package": "socketio",
+          "partial": "Level",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:logLevel"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Web.SocketIO",
+          "name": "logTo",
+          "package": "socketio",
+          "signature": "Handle",
+          "source": "src/Web-SocketIO-Types-Base.html#Configuration",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "logTo",
+          "package": "socketio",
+          "partial": "To",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:logTo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Web.SocketIO",
+          "name": "on",
+          "package": "socketio",
+          "signature": "on",
+          "source": "src/Web-SocketIO-Types-Base.html#on",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "on",
+          "package": "socketio",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:on"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Web.SocketIO",
+          "name": "pollingDuration",
+          "package": "socketio",
+          "signature": "Int",
+          "source": "src/Web-SocketIO-Types-Base.html#Configuration",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "pollingDuration",
+          "package": "socketio",
+          "partial": "Duration",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:pollingDuration"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eExtracts payload carried by the event\n\u003c/p\u003e\u003cpre\u003e\n \u003ccode\u003e\u003ca\u003eon\u003c/a\u003e\u003c/code\u003e \"echo\" $ do\n     payload \u003c- reply\n     liftIO $ print payload\n     emit \u003ca\u003eecho\u003c/a\u003e payload \n\u003c/pre\u003e",
+          "module": "Web.SocketIO",
+          "name": "reply",
+          "package": "socketio",
+          "signature": "CallbackM [Text]",
+          "source": "src/Web-SocketIO-Event.html#reply",
+          "type": "function"
+        },
+        "index": {
+          "description": "Extracts payload carried by the event on echo do payload reply liftIO print payload emit echo payload",
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "reply",
+          "normalized": "CallbackM[Text]",
+          "package": "socketio",
+          "signature": "CallbackM[Text]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:reply"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eRun a socket.io application, build on top of Warp.\n\u003c/p\u003e",
+          "module": "Web.SocketIO",
+          "name": "server",
+          "package": "socketio",
+          "signature": "Port -\u003e HandlerM () -\u003e IO ()",
+          "source": "src/Web-SocketIO-Server.html#server",
+          "type": "function"
+        },
+        "index": {
+          "description": "Run socket.io application build on top of Warp",
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "server",
+          "normalized": "Port-\u003eHandlerM()-\u003eIO()",
+          "package": "socketio",
+          "signature": "Port-\u003eHandlerM()-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:server"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eRun a socket.io application with configurations applied.\n\u003c/p\u003e",
+          "module": "Web.SocketIO",
+          "name": "serverConfig",
+          "package": "socketio",
+          "signature": "Port -\u003e Configuration -\u003e HandlerM () -\u003e IO ()",
+          "source": "src/Web-SocketIO-Server.html#serverConfig",
+          "type": "function"
+        },
+        "index": {
+          "description": "Run socket.io application with configurations applied",
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "serverConfig",
+          "normalized": "Port-\u003eConfiguration-\u003eHandlerM()-\u003eIO()",
+          "package": "socketio",
+          "partial": "Config",
+          "signature": "Port-\u003eConfiguration-\u003eHandlerM()-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:serverConfig"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Web.SocketIO",
+          "name": "transports",
+          "package": "socketio",
+          "signature": "[Transport]",
+          "source": "src/Web-SocketIO-Types-Base.html#Configuration",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Web SocketIO",
+          "module": "Web.SocketIO",
+          "name": "transports",
+          "normalized": "[Transport]",
+          "package": "socketio",
+          "signature": "[Transport]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:transports"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#t:Configuration",
-      "description": {
-        "fct-module": "Web.SocketIO",
-        "fct-package": "socketio",
-        "fct-signature": "data",
-        "fct-source": "src/Web-SocketIO-Types-SocketIO.html#Configuration",
-        "fct-type": "data",
-        "title": "Configuration"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Web SocketIO",
-        "module": "Web.SocketIO",
-        "name": "Configuration",
-        "normalized": "",
-        "package": "socketio",
-        "partial": "Configuration",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#t:Event",
-      "description": {
-        "fct-module": "Web.SocketIO",
-        "fct-package": "socketio",
-        "fct-signature": "type",
-        "fct-source": "src/Web-SocketIO-Types-SocketIO.html#Event",
-        "fct-type": "type",
-        "title": "Event"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Web SocketIO",
-        "module": "Web.SocketIO",
-        "name": "Event",
-        "normalized": "",
-        "package": "socketio",
-        "partial": "Event",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#t:HandlerM",
-      "description": {
-        "fct-descr": "\u003cp\u003eCapable of both sending and receiving events.\n\u003c/p\u003e\u003cp\u003eUse \u003ccode\u003e\u003ca\u003eliftIO\u003c/a\u003e\u003c/code\u003e if you wanna do some IO here.\n\u003c/p\u003e",
-        "fct-module": "Web.SocketIO",
-        "fct-package": "socketio",
-        "fct-signature": "data",
-        "fct-source": "src/Web-SocketIO-Types-SocketIO.html#HandlerM",
-        "fct-type": "data",
-        "title": "HandlerM"
-      },
-      "index": {
-        "description": "Capable of both sending and receiving events Use liftIO if you wanna do some IO here",
-        "hierarchy": "Web SocketIO",
-        "module": "Web.SocketIO",
-        "name": "HandlerM",
-        "normalized": "",
-        "package": "socketio",
-        "partial": "Handler",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#t:Port",
-      "description": {
-        "fct-module": "Web.SocketIO",
-        "fct-package": "socketio",
-        "fct-signature": "type",
-        "fct-source": "src/Web-SocketIO-Types-SocketIO.html#Port",
-        "fct-type": "type",
-        "title": "Port"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Web SocketIO",
-        "module": "Web.SocketIO",
-        "name": "Port",
-        "normalized": "",
-        "package": "socketio",
-        "partial": "Port",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#t:Publisher",
-      "description": {
-        "fct-descr": "\u003cp\u003eSending events\n\u003c/p\u003e",
-        "fct-module": "Web.SocketIO",
-        "fct-package": "socketio",
-        "fct-signature": "class",
-        "fct-source": "src/Web-SocketIO-Types-SocketIO.html#Publisher",
-        "fct-type": "class",
-        "title": "Publisher"
-      },
-      "index": {
-        "description": "Sending events",
-        "hierarchy": "Web SocketIO",
-        "module": "Web.SocketIO",
-        "name": "Publisher",
-        "normalized": "",
-        "package": "socketio",
-        "partial": "Publisher",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#t:Subscriber",
-      "description": {
-        "fct-descr": "\u003cp\u003eReceiving events.\n\u003c/p\u003e",
-        "fct-module": "Web.SocketIO",
-        "fct-package": "socketio",
-        "fct-signature": "class",
-        "fct-source": "src/Web-SocketIO-Types-SocketIO.html#Subscriber",
-        "fct-type": "class",
-        "title": "Subscriber"
-      },
-      "index": {
-        "description": "Receiving events",
-        "hierarchy": "Web SocketIO",
-        "module": "Web.SocketIO",
-        "name": "Subscriber",
-        "normalized": "",
-        "package": "socketio",
-        "partial": "Subscriber",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#t:Transport",
-      "description": {
-        "fct-descr": "\u003cp\u003eNow only xhr-polling is supported.\n\u003c/p\u003e",
-        "fct-module": "Web.SocketIO",
-        "fct-package": "socketio",
-        "fct-signature": "data",
-        "fct-source": "src/Web-SocketIO-Types-SocketIO.html#Transport",
-        "fct-type": "data",
-        "title": "Transport"
-      },
-      "index": {
-        "description": "Now only xhr-polling is supported",
-        "hierarchy": "Web SocketIO",
-        "module": "Web.SocketIO",
-        "name": "Transport",
-        "normalized": "",
-        "package": "socketio",
-        "partial": "Transport",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:Configuration",
-      "description": {
-        "fct-module": "Web.SocketIO",
-        "fct-package": "socketio",
-        "fct-signature": "Configuration",
-        "fct-source": "src/Web-SocketIO-Types-SocketIO.html#Configuration",
-        "fct-type": "function",
-        "title": "Configuration"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Web SocketIO",
-        "module": "Web.SocketIO",
-        "name": "Configuration",
-        "normalized": "",
-        "package": "socketio",
-        "partial": "Configuration",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:XHRPolling",
-      "description": {
-        "fct-module": "Web.SocketIO",
-        "fct-package": "socketio",
-        "fct-signature": "XHRPolling",
-        "fct-source": "src/Web-SocketIO-Types-SocketIO.html#Transport",
-        "fct-type": "function",
-        "title": "XHRPolling"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Web SocketIO",
-        "module": "Web.SocketIO",
-        "name": "XHRPolling",
-        "normalized": "",
-        "package": "socketio",
-        "partial": "XHRPolling",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:broadcast",
-      "description": {
-        "fct-descr": "\u003cp\u003eSends a message to everyone else except for the socket that starts it.\n\u003c/p\u003e\u003cpre\u003e\n \u003ccode\u003e\u003ca\u003ebroadcast\u003c/a\u003e\u003c/code\u003e \"hide\" [\"nukes coming!\"] \n\u003c/pre\u003e",
-        "fct-module": "Web.SocketIO",
-        "fct-package": "socketio",
-        "fct-signature": "broadcast",
-        "fct-source": "src/Web-SocketIO-Types-SocketIO.html#broadcast",
-        "fct-type": "method",
-        "title": "broadcast"
-      },
-      "index": {
-        "description": "Sends message to everyone else except for the socket that starts it broadcast hide nukes coming",
-        "hierarchy": "Web SocketIO",
-        "module": "Web.SocketIO",
-        "name": "broadcast",
-        "normalized": "",
-        "package": "socketio",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:closeTimeout",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Web.SocketIO",
-        "fct-package": "socketio",
-        "fct-signature": "Int",
-        "fct-source": "src/Web-SocketIO-Types-SocketIO.html#Configuration",
-        "fct-type": "function",
-        "title": "closeTimeout"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Web SocketIO",
-        "module": "Web.SocketIO",
-        "name": "closeTimeout",
-        "normalized": "",
-        "package": "socketio",
-        "partial": "Timeout",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:defaultConfig",
-      "description": {
-        "fct-descr": "\u003cp\u003eDefault configurations to be overridden.\n\u003c/p\u003e\u003cpre\u003e defaultConfig :: Configuration\n defaultConfig = Configuration\n    {   transports = [XHRPolling]\n    ,   logLevel = 3                \n    ,   closeTimeout = 60\n    ,   pollingDuration = 20\n    ,   heartbeats = True\n    ,   heartbeatTimeout = 60\n    ,   heartbeatInterval = 25\n    }\n\u003c/pre\u003e",
-        "fct-module": "Web.SocketIO",
-        "fct-package": "socketio",
-        "fct-signature": "Configuration",
-        "fct-source": "src/Web-SocketIO-Server.html#defaultConfig",
-        "fct-type": "function",
-        "title": "defaultConfig"
-      },
-      "index": {
-        "description": "Default configurations to be overridden defaultConfig Configuration defaultConfig Configuration transports XHRPolling logLevel closeTimeout pollingDuration heartbeats True heartbeatTimeout heartbeatInterval",
-        "hierarchy": "Web SocketIO",
-        "module": "Web.SocketIO",
-        "name": "defaultConfig",
-        "normalized": "",
-        "package": "socketio",
-        "partial": "Config",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:emit",
-      "description": {
-        "fct-descr": "\u003cp\u003eSends a message to the socket that starts it.\n\u003c/p\u003e\u003cpre\u003e\n \u003ccode\u003e\u003ca\u003eemit\u003c/a\u003e\u003c/code\u003e \"launch\" [\"missile\", \"nuke\"] \n\u003c/pre\u003e",
-        "fct-module": "Web.SocketIO",
-        "fct-package": "socketio",
-        "fct-signature": "emit",
-        "fct-source": "src/Web-SocketIO-Types-SocketIO.html#emit",
-        "fct-type": "method",
-        "title": "emit"
-      },
-      "index": {
-        "description": "Sends message to the socket that starts it emit launch missile nuke",
-        "hierarchy": "Web SocketIO",
-        "module": "Web.SocketIO",
-        "name": "emit",
-        "normalized": "",
-        "package": "socketio",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:heartbeatInterval",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Web.SocketIO",
-        "fct-package": "socketio",
-        "fct-signature": "Int",
-        "fct-source": "src/Web-SocketIO-Types-SocketIO.html#Configuration",
-        "fct-type": "function",
-        "title": "heartbeatInterval"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Web SocketIO",
-        "module": "Web.SocketIO",
-        "name": "heartbeatInterval",
-        "normalized": "",
-        "package": "socketio",
-        "partial": "Interval",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:heartbeatTimeout",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Web.SocketIO",
-        "fct-package": "socketio",
-        "fct-signature": "Int",
-        "fct-source": "src/Web-SocketIO-Types-SocketIO.html#Configuration",
-        "fct-type": "function",
-        "title": "heartbeatTimeout"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Web SocketIO",
-        "module": "Web.SocketIO",
-        "name": "heartbeatTimeout",
-        "normalized": "",
-        "package": "socketio",
-        "partial": "Timeout",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:heartbeats",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Web.SocketIO",
-        "fct-package": "socketio",
-        "fct-signature": "Bool",
-        "fct-source": "src/Web-SocketIO-Types-SocketIO.html#Configuration",
-        "fct-type": "function",
-        "title": "heartbeats"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Web SocketIO",
-        "module": "Web.SocketIO",
-        "name": "heartbeats",
-        "normalized": "",
-        "package": "socketio",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:logLevel",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Web.SocketIO",
-        "fct-package": "socketio",
-        "fct-signature": "Int",
-        "fct-source": "src/Web-SocketIO-Types-SocketIO.html#Configuration",
-        "fct-type": "function",
-        "title": "logLevel"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Web SocketIO",
-        "module": "Web.SocketIO",
-        "name": "logLevel",
-        "normalized": "",
-        "package": "socketio",
-        "partial": "Level",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:on",
-      "description": {
-        "fct-module": "Web.SocketIO",
-        "fct-package": "socketio",
-        "fct-signature": "on",
-        "fct-source": "src/Web-SocketIO-Types-SocketIO.html#on",
-        "fct-type": "method",
-        "title": "on"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Web SocketIO",
-        "module": "Web.SocketIO",
-        "name": "on",
-        "normalized": "",
-        "package": "socketio",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:pollingDuration",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Web.SocketIO",
-        "fct-package": "socketio",
-        "fct-signature": "Int",
-        "fct-source": "src/Web-SocketIO-Types-SocketIO.html#Configuration",
-        "fct-type": "function",
-        "title": "pollingDuration"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Web SocketIO",
-        "module": "Web.SocketIO",
-        "name": "pollingDuration",
-        "normalized": "",
-        "package": "socketio",
-        "partial": "Duration",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:reply",
-      "description": {
-        "fct-descr": "\u003cp\u003emessages carried with the event\n\u003c/p\u003e\u003cpre\u003e\n \u003ccode\u003e\u003ca\u003eon\u003c/a\u003e\u003c/code\u003e \"echo\" $ do\n     messages \u003c- reply\n     liftIO $ print messages\n\u003c/pre\u003e",
-        "fct-module": "Web.SocketIO",
-        "fct-package": "socketio",
-        "fct-signature": "CallbackM [Text]",
-        "fct-source": "src/Web-SocketIO-Event.html#reply",
-        "fct-type": "function",
-        "title": "reply"
-      },
-      "index": {
-        "description": "messages carried with the event on echo do messages reply liftIO print messages",
-        "hierarchy": "Web SocketIO",
-        "module": "Web.SocketIO",
-        "name": "reply",
-        "normalized": "CallbackM[Text]",
-        "package": "socketio",
-        "partial": "",
-        "signature": "CallbackM[Text]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:server",
-      "description": {
-        "fct-descr": "\u003cp\u003eRun a socket.io application, build on top of Warp.\n\u003c/p\u003e",
-        "fct-module": "Web.SocketIO",
-        "fct-package": "socketio",
-        "fct-signature": "Port -\u003e HandlerM () -\u003e IO ()",
-        "fct-source": "src/Web-SocketIO-Server.html#server",
-        "fct-type": "function",
-        "title": "server"
-      },
-      "index": {
-        "description": "Run socket.io application build on top of Warp",
-        "hierarchy": "Web SocketIO",
-        "module": "Web.SocketIO",
-        "name": "server",
-        "normalized": "Port-\u003eHandlerM()-\u003eIO()",
-        "package": "socketio",
-        "partial": "",
-        "signature": "Port-\u003eHandlerM()-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:serverConfig",
-      "description": {
-        "fct-descr": "\u003cp\u003eRun a socket.io application with configurations applied.\n\u003c/p\u003e",
-        "fct-module": "Web.SocketIO",
-        "fct-package": "socketio",
-        "fct-signature": "Port -\u003e Configuration -\u003e HandlerM () -\u003e IO ()",
-        "fct-source": "src/Web-SocketIO-Server.html#serverConfig",
-        "fct-type": "function",
-        "title": "serverConfig"
-      },
-      "index": {
-        "description": "Run socket.io application with configurations applied",
-        "hierarchy": "Web SocketIO",
-        "module": "Web.SocketIO",
-        "name": "serverConfig",
-        "normalized": "Port-\u003eConfiguration-\u003eHandlerM()-\u003eIO()",
-        "package": "socketio",
-        "partial": "Config",
-        "signature": "Port-\u003eConfiguration-\u003eHandlerM()-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/socketio/docs/Web-SocketIO.html#v:transports",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Web.SocketIO",
-        "fct-package": "socketio",
-        "fct-signature": "[Transport]",
-        "fct-source": "src/Web-SocketIO-Types-SocketIO.html#Configuration",
-        "fct-type": "function",
-        "title": "transports"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Web SocketIO",
-        "module": "Web.SocketIO",
-        "name": "transports",
-        "normalized": "[Transport]",
-        "package": "socketio",
-        "partial": "",
-        "signature": "[Transport]"
-      }
-    }
-  }
+  ]
 ]

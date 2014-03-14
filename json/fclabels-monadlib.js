@@ -1,98 +1,108 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/fclabels-monadlib/docs/Data-Label-MonadLib.html#",
-      "description": {
-        "fct-module": "Data.Label.MonadLib",
-        "fct-package": "fclabels-monadlib",
-        "fct-signature": "module",
-        "fct-source": "src/Data-Label-MonadLib.html",
-        "fct-type": "module",
-        "title": "MonadLib"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "fclabels-monadlib"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Label MonadLib",
-        "module": "Data.Label.MonadLib",
-        "name": "MonadLib",
-        "normalized": "",
-        "package": "fclabels-monadlib",
-        "partial": "Monad Lib",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/fclabels-monadlib/docs/Data-Label-MonadLib.html#v:getM",
-      "description": {
-        "fct-module": "Data.Label.MonadLib",
-        "fct-package": "fclabels-monadlib",
-        "fct-signature": "(f :-\u003e a) -\u003e m a",
-        "fct-source": "src/Data-Label-MonadLib.html#getM",
-        "fct-type": "function",
-        "title": "getM"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Label MonadLib",
-        "module": "Data.Label.MonadLib",
-        "name": "getM",
-        "normalized": "(a-\u003eb)-\u003ec b",
-        "package": "fclabels-monadlib",
-        "partial": "",
-        "signature": "(f-\u003ea)-\u003em a"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Label.MonadLib",
+          "name": "MonadLib",
+          "package": "fclabels-monadlib",
+          "source": "src/Data-Label-MonadLib.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data Label MonadLib",
+          "module": "Data.Label.MonadLib",
+          "name": "MonadLib",
+          "package": "fclabels-monadlib",
+          "partial": "Monad Lib",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/fclabels-monadlib/docs/Data-Label-MonadLib.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Label.MonadLib",
+          "name": "getM",
+          "package": "fclabels-monadlib",
+          "signature": "(f :-\u003e a) -\u003e m a",
+          "source": "src/Data-Label-MonadLib.html#getM",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Label MonadLib",
+          "module": "Data.Label.MonadLib",
+          "name": "getM",
+          "normalized": "(a-\u003eb)-\u003ec b",
+          "package": "fclabels-monadlib",
+          "signature": "(f-\u003ea)-\u003em a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/fclabels-monadlib/docs/Data-Label-MonadLib.html#v:getM"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Label.MonadLib",
+          "name": "modM",
+          "package": "fclabels-monadlib",
+          "signature": "(f :-\u003e a) -\u003e (a -\u003e a) -\u003e m ()",
+          "source": "src/Data-Label-MonadLib.html#modM",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Label MonadLib",
+          "module": "Data.Label.MonadLib",
+          "name": "modM",
+          "normalized": "(a-\u003eb)-\u003e(b-\u003eb)-\u003ec()",
+          "package": "fclabels-monadlib",
+          "signature": "(f-\u003ea)-\u003e(a-\u003ea)-\u003em()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/fclabels-monadlib/docs/Data-Label-MonadLib.html#v:modM"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Label.MonadLib",
+          "name": "setM",
+          "package": "fclabels-monadlib",
+          "signature": "(f :-\u003e a) -\u003e a -\u003e m ()",
+          "source": "src/Data-Label-MonadLib.html#setM",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Label MonadLib",
+          "module": "Data.Label.MonadLib",
+          "name": "setM",
+          "normalized": "(a-\u003eb)-\u003eb-\u003ec()",
+          "package": "fclabels-monadlib",
+          "signature": "(f-\u003ea)-\u003ea-\u003em()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/fclabels-monadlib/docs/Data-Label-MonadLib.html#v:setM"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/fclabels-monadlib/docs/Data-Label-MonadLib.html#v:modM",
-      "description": {
-        "fct-module": "Data.Label.MonadLib",
-        "fct-package": "fclabels-monadlib",
-        "fct-signature": "(f :-\u003e a) -\u003e (a -\u003e a) -\u003e m ()",
-        "fct-source": "src/Data-Label-MonadLib.html#modM",
-        "fct-type": "function",
-        "title": "modM"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Label MonadLib",
-        "module": "Data.Label.MonadLib",
-        "name": "modM",
-        "normalized": "(a-\u003eb)-\u003e(b-\u003eb)-\u003ec()",
-        "package": "fclabels-monadlib",
-        "partial": "",
-        "signature": "(f-\u003ea)-\u003e(a-\u003ea)-\u003em()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/fclabels-monadlib/docs/Data-Label-MonadLib.html#v:setM",
-      "description": {
-        "fct-module": "Data.Label.MonadLib",
-        "fct-package": "fclabels-monadlib",
-        "fct-signature": "(f :-\u003e a) -\u003e a -\u003e m ()",
-        "fct-source": "src/Data-Label-MonadLib.html#setM",
-        "fct-type": "function",
-        "title": "setM"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Label MonadLib",
-        "module": "Data.Label.MonadLib",
-        "name": "setM",
-        "normalized": "(a-\u003eb)-\u003eb-\u003ec()",
-        "package": "fclabels-monadlib",
-        "partial": "",
-        "signature": "(f-\u003ea)-\u003ea-\u003em()"
-      }
-    }
-  }
+  ]
 ]

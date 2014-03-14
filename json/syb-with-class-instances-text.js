@@ -1,26 +1,39 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/syb-with-class-instances-text/docs/Data-Generics-SYB-WithClass-Instances-Text.html#",
-      "description": {
-        "fct-module": "Data.Generics.SYB.WithClass.Instances.Text",
-        "fct-package": "syb-with-class-instances-text",
-        "fct-signature": "module",
-        "fct-source": "src/Data-Generics-SYB-WithClass-Instances-Text.html",
-        "fct-type": "module",
-        "title": "Text"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "syb-with-class-instances-text"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Generics SYB WithClass Instances Text",
-        "module": "Data.Generics.SYB.WithClass.Instances.Text",
-        "name": "Text",
-        "normalized": "",
-        "package": "syb-with-class-instances-text",
-        "partial": "Text",
-        "signature": ""
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Generics.SYB.WithClass.Instances.Text",
+          "name": "Text",
+          "package": "syb-with-class-instances-text",
+          "source": "src/Data-Generics-SYB-WithClass-Instances-Text.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data Generics SYB WithClass Instances Text",
+          "module": "Data.Generics.SYB.WithClass.Instances.Text",
+          "name": "Text",
+          "package": "syb-with-class-instances-text",
+          "partial": "Text",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/syb-with-class-instances-text/docs/Data-Generics-SYB-WithClass-Instances-Text.html#"
       }
     }
-  }
+  ]
 ]

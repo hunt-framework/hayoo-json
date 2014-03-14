@@ -1,74 +1,83 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtk2hs-cast-glib/docs/System-Glib-Cast.html#",
-      "description": {
-        "fct-module": "System.Glib.Cast",
-        "fct-package": "gtk2hs-cast-glib",
-        "fct-signature": "module",
-        "fct-source": "src/System-Glib-Cast.html",
-        "fct-type": "module",
-        "title": "Cast"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "gtk2hs-cast-glib"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "System Glib Cast",
-        "module": "System.Glib.Cast",
-        "name": "Cast",
-        "normalized": "",
-        "package": "gtk2hs-cast-glib",
-        "partial": "Cast",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtk2hs-cast-glib/docs/System-Glib-Cast.html#t:Cast",
-      "description": {
-        "fct-module": "System.Glib.Cast",
-        "fct-package": "gtk2hs-cast-glib",
-        "fct-signature": "class",
-        "fct-source": "src/System-Glib-Cast.html#Cast",
-        "fct-type": "class",
-        "title": "Cast"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Glib Cast",
-        "module": "System.Glib.Cast",
-        "name": "Cast",
-        "normalized": "",
-        "package": "gtk2hs-cast-glib",
-        "partial": "Cast",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Glib.Cast",
+          "name": "Cast",
+          "package": "gtk2hs-cast-glib",
+          "source": "src/System-Glib-Cast.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "System Glib Cast",
+          "module": "System.Glib.Cast",
+          "name": "Cast",
+          "package": "gtk2hs-cast-glib",
+          "partial": "Cast",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/gtk2hs-cast-glib/docs/System-Glib-Cast.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Glib.Cast",
+          "name": "Cast",
+          "package": "gtk2hs-cast-glib",
+          "source": "src/System-Glib-Cast.html#Cast",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "System Glib Cast",
+          "module": "System.Glib.Cast",
+          "name": "Cast",
+          "package": "gtk2hs-cast-glib",
+          "partial": "Cast",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/gtk2hs-cast-glib/docs/System-Glib-Cast.html#t:Cast"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Glib.Cast",
+          "name": "cast",
+          "package": "gtk2hs-cast-glib",
+          "signature": "object -\u003e widget",
+          "source": "src/System-Glib-Cast.html#cast",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "System Glib Cast",
+          "module": "System.Glib.Cast",
+          "name": "cast",
+          "normalized": "a-\u003eb",
+          "package": "gtk2hs-cast-glib",
+          "signature": "object-\u003ewidget",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/gtk2hs-cast-glib/docs/System-Glib-Cast.html#v:cast"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtk2hs-cast-glib/docs/System-Glib-Cast.html#v:cast",
-      "description": {
-        "fct-module": "System.Glib.Cast",
-        "fct-package": "gtk2hs-cast-glib",
-        "fct-signature": "object -\u003e widget",
-        "fct-source": "src/System-Glib-Cast.html#cast",
-        "fct-type": "method",
-        "title": "cast"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Glib Cast",
-        "module": "System.Glib.Cast",
-        "name": "cast",
-        "normalized": "a-\u003eb",
-        "package": "gtk2hs-cast-glib",
-        "partial": "",
-        "signature": "object-\u003ewidget"
-      }
-    }
-  }
+  ]
 ]

@@ -1,12172 +1,11179 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eThere is an egregious number of capabilities. They are sequestered in\n this module to preserve namespace sanity.\n\u003c/p\u003e\u003cp\u003eFor descriptions of these, consult terminfo(5).\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "module",
-        "fct-source": "src/System-Terminfo-Caps.html",
-        "fct-type": "module",
-        "title": "Caps"
-      },
-      "index": {
-        "description": "There is an egregious number of capabilities They are sequestered in this module to preserve namespace sanity For descriptions of these consult terminfo",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "Caps",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Caps",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#t:BoolTermCap",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "data",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "data",
-        "title": "BoolTermCap"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "BoolTermCap",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Bool Term Cap",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#t:NumTermCap",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "data",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "data",
-        "title": "NumTermCap"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "NumTermCap",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Num Term Cap",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#t:StrTermCap",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "data",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "data",
-        "title": "StrTermCap"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "StrTermCap",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Str Term Cap",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:AcsBtee",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "AcsBtee",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "AcsBtee"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "AcsBtee",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Acs Btee",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:AcsChars",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "AcsChars",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "AcsChars"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "AcsChars",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Acs Chars",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:AcsHline",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "AcsHline",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "AcsHline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "AcsHline",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Acs Hline",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:AcsLlcorner",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "AcsLlcorner",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "AcsLlcorner"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "AcsLlcorner",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Acs Llcorner",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:AcsLrcorner",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "AcsLrcorner",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "AcsLrcorner"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "AcsLrcorner",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Acs Lrcorner",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:AcsLtee",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "AcsLtee",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "AcsLtee"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "AcsLtee",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Acs Ltee",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:AcsPlus",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "AcsPlus",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "AcsPlus"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "AcsPlus",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Acs Plus",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:AcsRtee",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "AcsRtee",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "AcsRtee"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "AcsRtee",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Acs Rtee",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:AcsTtee",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "AcsTtee",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "AcsTtee"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "AcsTtee",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Acs Ttee",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:AcsUlcorner",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "AcsUlcorner",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "AcsUlcorner"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "AcsUlcorner",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Acs Ulcorner",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:AcsUrcorner",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "AcsUrcorner",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "AcsUrcorner"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "AcsUrcorner",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Acs Urcorner",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:AcsVline",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "AcsVline",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "AcsVline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "AcsVline",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Acs Vline",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:AltScancodeEsc",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "AltScancodeEsc",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "AltScancodeEsc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "AltScancodeEsc",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Alt Scancode Esc",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ArrowKeyMap",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ArrowKeyMap",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ArrowKeyMap"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ArrowKeyMap",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Arrow Key Map",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:AutoLeftMargin",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "AutoLeftMargin",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "AutoLeftMargin"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "AutoLeftMargin",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Auto Left Margin",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:AutoRightMargin",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "AutoRightMargin",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "AutoRightMargin"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "AutoRightMargin",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Auto Right Margin",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:BackColorErase",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "BackColorErase",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "BackColorErase"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "BackColorErase",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Back Color Erase",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:BackTab",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "BackTab",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "BackTab"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "BackTab",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Back Tab",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:BackspaceDelay",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "BackspaceDelay",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "BackspaceDelay"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "BackspaceDelay",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Backspace Delay",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:BackspaceIfNotBs",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "BackspaceIfNotBs",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "BackspaceIfNotBs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "BackspaceIfNotBs",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Backspace If Not Bs",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:BackspacesWithBs",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "BackspacesWithBs",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "BackspacesWithBs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "BackspacesWithBs",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Backspaces With Bs",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Bell",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "Bell",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "Bell"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "Bell",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Bell",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:BitImageCarriageReturn",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "BitImageCarriageReturn",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "BitImageCarriageReturn"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "BitImageCarriageReturn",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Bit Image Carriage Return",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:BitImageEntwining",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "BitImageEntwining",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "BitImageEntwining"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "BitImageEntwining",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Bit Image Entwining",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:BitImageNewline",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "BitImageNewline",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "BitImageNewline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "BitImageNewline",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Bit Image Newline",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:BitImageRepeat",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "BitImageRepeat",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "BitImageRepeat"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "BitImageRepeat",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Bit Image Repeat",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:BitImageType",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "BitImageType",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "BitImageType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "BitImageType",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Bit Image Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:BoxChars1",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "BoxChars1",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "BoxChars1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "BoxChars1",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Box Chars",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:BufferCapacity",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "BufferCapacity",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "BufferCapacity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "BufferCapacity",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Buffer Capacity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Buttons",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "Buttons",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "Buttons"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "Buttons",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Buttons",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CanChange",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "CanChange",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "CanChange"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "CanChange",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Can Change",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CarriageReturn",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "CarriageReturn",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "CarriageReturn"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "CarriageReturn",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Carriage Return",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CarriageReturnDelay",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "CarriageReturnDelay",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "CarriageReturnDelay"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "CarriageReturnDelay",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Carriage Return Delay",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CeolStandoutGlitch",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "CeolStandoutGlitch",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "CeolStandoutGlitch"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "CeolStandoutGlitch",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Ceol Standout Glitch",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ChangeCharPitch",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ChangeCharPitch",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ChangeCharPitch"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ChangeCharPitch",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Change Char Pitch",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ChangeLinePitch",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ChangeLinePitch",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ChangeLinePitch"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ChangeLinePitch",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Change Line Pitch",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ChangeResHorz",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ChangeResHorz",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ChangeResHorz"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ChangeResHorz",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Change Res Horz",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ChangeResVert",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ChangeResVert",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ChangeResVert"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ChangeResVert",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Change Res Vert",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ChangeScrollRegion",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ChangeScrollRegion",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ChangeScrollRegion"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ChangeScrollRegion",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Change Scroll Region",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CharPadding",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "CharPadding",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "CharPadding"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "CharPadding",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Char Padding",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CharSetNames",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "CharSetNames",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "CharSetNames"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "CharSetNames",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Char Set Names",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ClearAllTabs",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ClearAllTabs",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ClearAllTabs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ClearAllTabs",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Clear All Tabs",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ClearMargins",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ClearMargins",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ClearMargins"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ClearMargins",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Clear Margins",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ClearScreen",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ClearScreen",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ClearScreen"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ClearScreen",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Clear Screen",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ClrBol",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ClrBol",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ClrBol"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ClrBol",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Clr Bol",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ClrEol",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ClrEol",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ClrEol"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ClrEol",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Clr Eol",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ClrEos",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ClrEos",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ClrEos"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ClrEos",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Clr Eos",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CodeSetInit",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "CodeSetInit",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "CodeSetInit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "CodeSetInit",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Code Set Init",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ColAddrGlitch",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ColAddrGlitch",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "ColAddrGlitch"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ColAddrGlitch",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Col Addr Glitch",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ColorNames",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ColorNames",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ColorNames"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ColorNames",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Color Names",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ColumnAddress",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ColumnAddress",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ColumnAddress"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ColumnAddress",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Column Address",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Columns",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "Columns",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "Columns"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "Columns",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Columns",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CommandCharacter",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "CommandCharacter",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "CommandCharacter"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "CommandCharacter",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Command Character",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CpiChangesRes",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "CpiChangesRes",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "CpiChangesRes"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "CpiChangesRes",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Cpi Changes Res",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CrCancelsMicroMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "CrCancelsMicroMode",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "CrCancelsMicroMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "CrCancelsMicroMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Cr Cancels Micro Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CreateWindow",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "CreateWindow",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "CreateWindow"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "CreateWindow",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Create Window",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CrtNoScrolling",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "CrtNoScrolling",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "CrtNoScrolling"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "CrtNoScrolling",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Crt No Scrolling",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CursorAddress",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "CursorAddress",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "CursorAddress"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "CursorAddress",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Cursor Address",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CursorDown",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "CursorDown",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "CursorDown"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "CursorDown",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Cursor Down",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CursorHome",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "CursorHome",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "CursorHome"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "CursorHome",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Cursor Home",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CursorInvisible",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "CursorInvisible",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "CursorInvisible"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "CursorInvisible",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Cursor Invisible",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CursorLeft",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "CursorLeft",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "CursorLeft"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "CursorLeft",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Cursor Left",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CursorMemAddress",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "CursorMemAddress",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "CursorMemAddress"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "CursorMemAddress",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Cursor Mem Address",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CursorNormal",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "CursorNormal",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "CursorNormal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "CursorNormal",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Cursor Normal",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CursorRight",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "CursorRight",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "CursorRight"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "CursorRight",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Cursor Right",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CursorToLl",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "CursorToLl",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "CursorToLl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "CursorToLl",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Cursor To Ll",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CursorUp",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "CursorUp",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "CursorUp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "CursorUp",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Cursor Up",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CursorVisible",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "CursorVisible",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "CursorVisible"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "CursorVisible",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Cursor Visible",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:DefineBitImageRegion",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "DefineBitImageRegion",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "DefineBitImageRegion"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "DefineBitImageRegion",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Define Bit Image Region",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:DefineChar",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "DefineChar",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "DefineChar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "DefineChar",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Define Char",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:DeleteCharacter",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "DeleteCharacter",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "DeleteCharacter"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "DeleteCharacter",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Delete Character",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:DeleteLine",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "DeleteLine",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "DeleteLine"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "DeleteLine",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Delete Line",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:DestTabsMagicSmso",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "DestTabsMagicSmso",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "DestTabsMagicSmso"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "DestTabsMagicSmso",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Dest Tabs Magic Smso",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:DeviceType",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "DeviceType",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "DeviceType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "DeviceType",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Device Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:DialPhone",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "DialPhone",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "DialPhone"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "DialPhone",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Dial Phone",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:DisStatusLine",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "DisStatusLine",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "DisStatusLine"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "DisStatusLine",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Dis Status Line",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:DisplayClock",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "DisplayClock",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "DisplayClock"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "DisplayClock",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Display Clock",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:DisplayPcChar",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "DisplayPcChar",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "DisplayPcChar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "DisplayPcChar",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Display Pc Char",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:DotHorzSpacing",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "DotHorzSpacing",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "DotHorzSpacing"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "DotHorzSpacing",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Dot Horz Spacing",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:DotVertSpacing",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "DotVertSpacing",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "DotVertSpacing"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "DotVertSpacing",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Dot Vert Spacing",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:DownHalfLine",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "DownHalfLine",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "DownHalfLine"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "DownHalfLine",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Down Half Line",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EatNewlineGlitch",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EatNewlineGlitch",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "EatNewlineGlitch"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EatNewlineGlitch",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Eat Newline Glitch",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnaAcs",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnaAcs",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnaAcs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnaAcs",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Ena Acs",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EndBitImageRegion",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EndBitImageRegion",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EndBitImageRegion"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EndBitImageRegion",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "End Bit Image Region",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterAltCharsetMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterAltCharsetMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterAltCharsetMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterAltCharsetMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Alt Charset Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterAmMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterAmMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterAmMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterAmMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Am Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterBlinkMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterBlinkMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterBlinkMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterBlinkMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Blink Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterBoldMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterBoldMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterBoldMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterBoldMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Bold Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterCaMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterCaMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterCaMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterCaMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Ca Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterDeleteMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterDeleteMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterDeleteMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterDeleteMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Delete Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterDimMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterDimMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterDimMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterDimMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Dim Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterDoublewideMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterDoublewideMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterDoublewideMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterDoublewideMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Doublewide Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterDraftQuality",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterDraftQuality",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterDraftQuality"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterDraftQuality",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Draft Quality",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterHorizontalHlMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterHorizontalHlMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterHorizontalHlMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterHorizontalHlMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Horizontal Hl Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterInsertMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterInsertMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterInsertMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterInsertMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Insert Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterItalicsMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterItalicsMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterItalicsMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterItalicsMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Italics Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterLeftHlMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterLeftHlMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterLeftHlMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterLeftHlMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Left Hl Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterLeftwardMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterLeftwardMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterLeftwardMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterLeftwardMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Leftward Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterLowHlMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterLowHlMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterLowHlMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterLowHlMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Low Hl Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterMicroMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterMicroMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterMicroMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterMicroMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Micro Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterNearLetterQuality",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterNearLetterQuality",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterNearLetterQuality"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterNearLetterQuality",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Near Letter Quality",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterNormalQuality",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterNormalQuality",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterNormalQuality"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterNormalQuality",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Normal Quality",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterPcCharsetMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterPcCharsetMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterPcCharsetMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterPcCharsetMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Pc Charset Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterProtectedMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterProtectedMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterProtectedMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterProtectedMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Protected Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterReverseMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterReverseMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterReverseMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterReverseMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Reverse Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterRightHlMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterRightHlMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterRightHlMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterRightHlMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Right Hl Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterScancodeMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterScancodeMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterScancodeMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterScancodeMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Scancode Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterSecureMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterSecureMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterSecureMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterSecureMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Secure Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterShadowMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterShadowMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterShadowMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterShadowMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Shadow Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterStandoutMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterStandoutMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterStandoutMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterStandoutMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Standout Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterSubscriptMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterSubscriptMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterSubscriptMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterSubscriptMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Subscript Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterSuperscriptMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterSuperscriptMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterSuperscriptMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterSuperscriptMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Superscript Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterTopHlMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterTopHlMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterTopHlMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterTopHlMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Top Hl Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterUnderlineMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterUnderlineMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterUnderlineMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterUnderlineMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Underline Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterUpwardMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterUpwardMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterUpwardMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterUpwardMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Upward Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterVerticalHlMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterVerticalHlMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterVerticalHlMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterVerticalHlMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Vertical Hl Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterXonMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EnterXonMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EnterXonMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EnterXonMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Enter Xon Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EraseChars",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EraseChars",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "EraseChars"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EraseChars",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Erase Chars",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EraseOverstrike",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "EraseOverstrike",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "EraseOverstrike"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "EraseOverstrike",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Erase Overstrike",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitAltCharsetMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ExitAltCharsetMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ExitAltCharsetMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ExitAltCharsetMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Exit Alt Charset Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitAmMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ExitAmMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ExitAmMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ExitAmMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Exit Am Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitAttributeMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ExitAttributeMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ExitAttributeMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ExitAttributeMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Exit Attribute Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitCaMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ExitCaMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ExitCaMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ExitCaMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Exit Ca Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitDeleteMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ExitDeleteMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ExitDeleteMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ExitDeleteMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Exit Delete Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitDoublewideMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ExitDoublewideMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ExitDoublewideMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ExitDoublewideMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Exit Doublewide Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitInsertMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ExitInsertMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ExitInsertMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ExitInsertMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Exit Insert Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitItalicsMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ExitItalicsMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ExitItalicsMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ExitItalicsMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Exit Italics Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitLeftwardMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ExitLeftwardMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ExitLeftwardMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ExitLeftwardMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Exit Leftward Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitMicroMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ExitMicroMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ExitMicroMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ExitMicroMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Exit Micro Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitPcCharsetMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ExitPcCharsetMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ExitPcCharsetMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ExitPcCharsetMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Exit Pc Charset Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitScancodeMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ExitScancodeMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ExitScancodeMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ExitScancodeMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Exit Scancode Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitShadowMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ExitShadowMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ExitShadowMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ExitShadowMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Exit Shadow Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitStandoutMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ExitStandoutMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ExitStandoutMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ExitStandoutMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Exit Standout Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitSubscriptMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ExitSubscriptMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ExitSubscriptMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ExitSubscriptMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Exit Subscript Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitSuperscriptMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ExitSuperscriptMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ExitSuperscriptMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ExitSuperscriptMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Exit Superscript Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitUnderlineMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ExitUnderlineMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ExitUnderlineMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ExitUnderlineMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Exit Underline Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitUpwardMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ExitUpwardMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ExitUpwardMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ExitUpwardMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Exit Upward Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitXonMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ExitXonMode",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ExitXonMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ExitXonMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Exit Xon Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:FixedPause",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "FixedPause",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "FixedPause"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "FixedPause",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Fixed Pause",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:FlashHook",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "FlashHook",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "FlashHook"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "FlashHook",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Flash Hook",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:FlashScreen",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "FlashScreen",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "FlashScreen"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "FlashScreen",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Flash Screen",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:FormFeed",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "FormFeed",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "FormFeed"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "FormFeed",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Form Feed",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:FromStatusLine",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "FromStatusLine",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "FromStatusLine"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "FromStatusLine",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "From Status Line",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:GenericType",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "GenericType",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "GenericType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "GenericType",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Generic Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:GetMouse",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "GetMouse",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "GetMouse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "GetMouse",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Get Mouse",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:GnuHasMetaKey",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "GnuHasMetaKey",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "GnuHasMetaKey"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "GnuHasMetaKey",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Gnu Has Meta Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:GotoWindow",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "GotoWindow",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "GotoWindow"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "GotoWindow",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Goto Window",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Hangup",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "Hangup",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "Hangup"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "Hangup",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Hangup",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:HardCopy",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "HardCopy",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "HardCopy"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "HardCopy",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Hard Copy",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:HardCursor",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "HardCursor",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "HardCursor"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "HardCursor",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Hard Cursor",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:HasHardwareTabs",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "HasHardwareTabs",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "HasHardwareTabs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "HasHardwareTabs",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Has Hardware Tabs",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:HasMetaKey",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "HasMetaKey",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "HasMetaKey"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "HasMetaKey",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Has Meta Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:HasPrintWheel",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "HasPrintWheel",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "HasPrintWheel"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "HasPrintWheel",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Has Print Wheel",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:HasStatusLine",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "HasStatusLine",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "HasStatusLine"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "HasStatusLine",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Has Status Line",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:HorizontalTabDelay",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "HorizontalTabDelay",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "HorizontalTabDelay"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "HorizontalTabDelay",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Horizontal Tab Delay",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:HueLightnessSaturation",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "HueLightnessSaturation",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "HueLightnessSaturation"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "HueLightnessSaturation",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Hue Lightness Saturation",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Init1string",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "Init1string",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "Init1string"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "Init1string",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Init",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Init2string",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "Init2string",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "Init2string"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "Init2string",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Init",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Init3string",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "Init3string",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "Init3string"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "Init3string",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Init",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:InitFile",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "InitFile",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "InitFile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "InitFile",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Init File",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:InitProg",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "InitProg",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "InitProg"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "InitProg",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Init Prog",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:InitTabs",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "InitTabs",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "InitTabs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "InitTabs",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Init Tabs",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:InitializeColor",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "InitializeColor",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "InitializeColor"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "InitializeColor",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Initialize Color",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:InitializePair",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "InitializePair",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "InitializePair"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "InitializePair",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Initialize Pair",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:InsertCharacter",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "InsertCharacter",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "InsertCharacter"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "InsertCharacter",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Insert Character",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:InsertLine",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "InsertLine",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "InsertLine"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "InsertLine",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Insert Line",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:InsertNullGlitch",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "InsertNullGlitch",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "InsertNullGlitch"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "InsertNullGlitch",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Insert Null Glitch",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:InsertPadding",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "InsertPadding",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "InsertPadding"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "InsertPadding",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Insert Padding",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyA1",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyA1",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyA1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyA1",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyA3",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyA3",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyA3"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyA3",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyB2",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyB2",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyB2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyB2",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyBackspace",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyBackspace",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyBackspace"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyBackspace",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Backspace",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyBeg",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyBeg",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyBeg"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyBeg",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Beg",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyBtab",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyBtab",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyBtab"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyBtab",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Btab",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyC1",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyC1",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyC1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyC1",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyC3",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyC3",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyC3"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyC3",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyCancel",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyCancel",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyCancel"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyCancel",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Cancel",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyCatab",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyCatab",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyCatab"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyCatab",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Catab",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyClear",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyClear",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyClear"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyClear",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Clear",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyClose",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyClose",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyClose"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyClose",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Close",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyCommand",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyCommand",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyCommand"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyCommand",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Command",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyCopy",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyCopy",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyCopy"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyCopy",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Copy",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyCreate",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyCreate",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyCreate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyCreate",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Create",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyCtab",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyCtab",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyCtab"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyCtab",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Ctab",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyDc",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyDc",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyDc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyDc",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Dc",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyDl",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyDl",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyDl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyDl",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Dl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyDown",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyDown",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyDown"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyDown",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Down",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyEic",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyEic",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyEic"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyEic",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Eic",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyEnd",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyEnd",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyEnd"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyEnd",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key End",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyEnter",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyEnter",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyEnter"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyEnter",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Enter",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyEol",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyEol",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyEol"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyEol",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Eol",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyEos",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyEos",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyEos"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyEos",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Eos",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyExit",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyExit",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyExit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyExit",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Exit",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF0",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF0",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF0"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF0",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF1",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF1",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF1",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF10",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF10",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF10"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF10",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF11",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF11",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF11"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF11",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF12",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF12",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF12"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF12",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF13",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF13",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF13"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF13",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF14",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF14",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF14"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF14",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF15",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF15",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF15"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF15",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF16",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF16",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF16"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF16",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF17",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF17",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF17"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF17",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF18",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF18",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF18"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF18",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF19",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF19",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF19"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF19",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF2",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF2",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF2",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF20",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF20",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF20"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF20",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF21",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF21",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF21"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF21",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF22",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF22",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF22"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF22",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF23",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF23",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF23"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF23",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF24",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF24",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF24"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF24",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF25",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF25",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF25"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF25",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF26",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF26",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF26"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF26",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF27",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF27",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF27"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF27",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF28",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF28",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF28"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF28",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF29",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF29",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF29"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF29",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF3",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF3",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF3"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF3",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF30",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF30",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF30"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF30",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF31",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF31",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF31"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF31",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF32",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF32",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF32"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF32",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF33",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF33",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF33"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF33",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF34",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF34",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF34"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF34",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF35",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF35",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF35"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF35",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF36",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF36",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF36"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF36",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF37",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF37",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF37"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF37",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF38",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF38",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF38"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF38",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF39",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF39",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF39"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF39",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF4",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF4",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF4"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF4",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF40",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF40",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF40"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF40",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF41",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF41",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF41"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF41",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF42",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF42",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF42"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF42",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF43",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF43",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF43"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF43",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF44",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF44",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF44"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF44",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF45",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF45",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF45"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF45",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF46",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF46",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF46"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF46",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF47",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF47",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF47"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF47",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF48",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF48",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF48"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF48",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF49",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF49",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF49"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF49",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF5",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF5",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF5"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF5",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF50",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF50",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF50"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF50",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF51",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF51",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF51"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF51",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF52",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF52",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF52"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF52",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF53",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF53",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF53"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF53",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF54",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF54",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF54"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF54",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF55",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF55",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF55"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF55",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF56",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF56",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF56"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF56",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF57",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF57",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF57"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF57",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF58",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF58",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF58"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF58",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF59",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF59",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF59"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF59",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF6",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF6",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF6"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF6",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF60",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF60",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF60"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF60",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF61",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF61",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF61"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF61",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF62",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF62",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF62"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF62",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF63",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF63",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF63"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF63",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF7",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF7",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF7"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF7",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF8",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF8",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF8"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF8",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF9",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyF9",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyF9"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyF9",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyFind",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyFind",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyFind"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyFind",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Find",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyHelp",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyHelp",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyHelp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyHelp",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Help",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyHome",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyHome",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyHome"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyHome",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Home",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyIc",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyIc",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyIc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyIc",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Ic",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyIl",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyIl",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyIl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyIl",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Il",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyLeft",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyLeft",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyLeft"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyLeft",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Left",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyLl",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyLl",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyLl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyLl",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Ll",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyMark",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyMark",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyMark"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyMark",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Mark",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyMessage",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyMessage",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyMessage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyMessage",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Message",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyMouse",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyMouse",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyMouse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyMouse",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Mouse",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyMove",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyMove",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyMove"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyMove",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Move",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyNext",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyNext",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyNext"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyNext",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Next",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyNpage",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyNpage",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyNpage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyNpage",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Npage",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyOpen",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyOpen",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyOpen"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyOpen",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Open",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyOptions",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyOptions",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyOptions"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyOptions",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Options",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyPpage",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyPpage",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyPpage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyPpage",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Ppage",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyPrevious",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyPrevious",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyPrevious"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyPrevious",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Previous",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyPrint",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyPrint",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyPrint"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyPrint",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Print",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyRedo",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyRedo",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyRedo"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyRedo",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Redo",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyReference",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyReference",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyReference"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyReference",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Reference",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyRefresh",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyRefresh",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyRefresh"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyRefresh",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Refresh",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyReplace",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyReplace",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyReplace"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyReplace",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Replace",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyRestart",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyRestart",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyRestart"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyRestart",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Restart",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyResume",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyResume",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyResume"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyResume",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Resume",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyRight",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyRight",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyRight"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyRight",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Right",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySave",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeySave",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeySave"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeySave",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Save",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySbeg",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeySbeg",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeySbeg"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeySbeg",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Sbeg",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyScancel",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyScancel",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyScancel"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyScancel",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Scancel",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyScommand",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyScommand",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyScommand"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyScommand",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Scommand",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyScopy",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyScopy",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyScopy"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyScopy",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Scopy",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyScreate",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyScreate",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyScreate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyScreate",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Screate",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySdc",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeySdc",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeySdc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeySdc",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Sdc",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySdl",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeySdl",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeySdl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeySdl",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Sdl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySelect",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeySelect",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeySelect"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeySelect",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Select",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySend",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeySend",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeySend"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeySend",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Send",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySeol",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeySeol",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeySeol"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeySeol",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Seol",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySexit",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeySexit",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeySexit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeySexit",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Sexit",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySf",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeySf",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeySf"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeySf",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Sf",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySfind",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeySfind",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeySfind"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeySfind",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Sfind",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyShelp",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyShelp",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyShelp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyShelp",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Shelp",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyShome",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyShome",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyShome"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyShome",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Shome",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySic",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeySic",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeySic"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeySic",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Sic",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySleft",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeySleft",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeySleft"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeySleft",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Sleft",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySmessage",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeySmessage",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeySmessage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeySmessage",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Smessage",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySmove",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeySmove",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeySmove"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeySmove",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Smove",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySnext",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeySnext",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeySnext"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeySnext",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Snext",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySoptions",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeySoptions",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeySoptions"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeySoptions",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Soptions",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySprevious",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeySprevious",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeySprevious"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeySprevious",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Sprevious",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySprint",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeySprint",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeySprint"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeySprint",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Sprint",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySr",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeySr",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeySr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeySr",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Sr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySredo",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeySredo",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeySredo"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeySredo",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Sredo",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySreplace",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeySreplace",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeySreplace"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeySreplace",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Sreplace",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySright",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeySright",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeySright"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeySright",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Sright",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySrsume",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeySrsume",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeySrsume"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeySrsume",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Srsume",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySsave",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeySsave",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeySsave"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeySsave",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Ssave",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySsuspend",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeySsuspend",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeySsuspend"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeySsuspend",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Ssuspend",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyStab",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyStab",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyStab"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyStab",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Stab",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySundo",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeySundo",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeySundo"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeySundo",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Sundo",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySuspend",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeySuspend",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeySuspend"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeySuspend",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Suspend",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyUndo",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyUndo",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyUndo"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyUndo",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Undo",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyUp",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeyUp",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeyUp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeyUp",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Key Up",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeypadLocal",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeypadLocal",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeypadLocal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeypadLocal",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Keypad Local",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeypadXmit",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "KeypadXmit",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "KeypadXmit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "KeypadXmit",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Keypad Xmit",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabF0",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "LabF0",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "LabF0"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "LabF0",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Lab",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabF1",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "LabF1",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "LabF1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "LabF1",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Lab",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabF10",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "LabF10",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "LabF10"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "LabF10",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Lab",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabF2",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "LabF2",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "LabF2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "LabF2",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Lab",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabF3",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "LabF3",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "LabF3"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "LabF3",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Lab",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabF4",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "LabF4",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "LabF4"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "LabF4",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Lab",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabF5",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "LabF5",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "LabF5"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "LabF5",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Lab",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabF6",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "LabF6",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "LabF6"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "LabF6",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Lab",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabF7",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "LabF7",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "LabF7"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "LabF7",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Lab",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabF8",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "LabF8",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "LabF8"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "LabF8",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Lab",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabF9",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "LabF9",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "LabF9"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "LabF9",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Lab",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabelFormat",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "LabelFormat",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "LabelFormat"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "LabelFormat",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Label Format",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabelHeight",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "LabelHeight",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "LabelHeight"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "LabelHeight",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Label Height",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabelOff",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "LabelOff",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "LabelOff"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "LabelOff",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Label Off",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabelOn",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "LabelOn",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "LabelOn"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "LabelOn",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Label On",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabelWidth",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "LabelWidth",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "LabelWidth"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "LabelWidth",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Label Width",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LinefeedIfNotLf",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "LinefeedIfNotLf",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "LinefeedIfNotLf"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "LinefeedIfNotLf",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Linefeed If Not Lf",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LinefeedIsNewline",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "LinefeedIsNewline",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "LinefeedIsNewline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "LinefeedIsNewline",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Linefeed Is Newline",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Lines",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "Lines",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "Lines"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "Lines",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Lines",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LinesOfMemory",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "LinesOfMemory",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "LinesOfMemory"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "LinesOfMemory",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Lines Of Memory",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LpiChangesRes",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "LpiChangesRes",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "LpiChangesRes"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "LpiChangesRes",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Lpi Changes Res",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MagicCookieGlitch",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "MagicCookieGlitch",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "MagicCookieGlitch"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "MagicCookieGlitch",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Magic Cookie Glitch",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MagicCookieGlitchUl",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "MagicCookieGlitchUl",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "MagicCookieGlitchUl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "MagicCookieGlitchUl",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Magic Cookie Glitch Ul",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MaxAttributes",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "MaxAttributes",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "MaxAttributes"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "MaxAttributes",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Max Attributes",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MaxColors",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "MaxColors",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "MaxColors"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "MaxColors",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Max Colors",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MaxMicroAddress",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "MaxMicroAddress",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "MaxMicroAddress"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "MaxMicroAddress",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Max Micro Address",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MaxMicroJump",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "MaxMicroJump",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "MaxMicroJump"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "MaxMicroJump",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Max Micro Jump",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MaxPairs",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "MaxPairs",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "MaxPairs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "MaxPairs",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Max Pairs",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MaximumWindows",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "MaximumWindows",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "MaximumWindows"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "MaximumWindows",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Maximum Windows",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MemoryAbove",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "MemoryAbove",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "MemoryAbove"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "MemoryAbove",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Memory Above",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MemoryBelow",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "MemoryBelow",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "MemoryBelow"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "MemoryBelow",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Memory Below",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MemoryLock",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "MemoryLock",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "MemoryLock"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "MemoryLock",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Memory Lock",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MemoryUnlock",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "MemoryUnlock",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "MemoryUnlock"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "MemoryUnlock",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Memory Unlock",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MetaOff",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "MetaOff",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "MetaOff"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "MetaOff",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Meta Off",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MetaOn",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "MetaOn",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "MetaOn"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "MetaOn",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Meta On",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MicroColSize",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "MicroColSize",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "MicroColSize"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "MicroColSize",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Micro Col Size",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MicroColumnAddress",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "MicroColumnAddress",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "MicroColumnAddress"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "MicroColumnAddress",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Micro Column Address",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MicroDown",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "MicroDown",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "MicroDown"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "MicroDown",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Micro Down",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MicroLeft",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "MicroLeft",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "MicroLeft"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "MicroLeft",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Micro Left",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MicroLineSize",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "MicroLineSize",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "MicroLineSize"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "MicroLineSize",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Micro Line Size",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MicroRight",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "MicroRight",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "MicroRight"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "MicroRight",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Micro Right",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MicroRowAddress",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "MicroRowAddress",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "MicroRowAddress"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "MicroRowAddress",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Micro Row Address",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MicroUp",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "MicroUp",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "MicroUp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "MicroUp",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Micro Up",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MouseInfo",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "MouseInfo",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "MouseInfo"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "MouseInfo",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Mouse Info",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MoveInsertMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "MoveInsertMode",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "MoveInsertMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "MoveInsertMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Move Insert Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MoveStandoutMode",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "MoveStandoutMode",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "MoveStandoutMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "MoveStandoutMode",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Move Standout Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:NeedsXonXoff",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "NeedsXonXoff",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "NeedsXonXoff"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "NeedsXonXoff",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Needs Xon Xoff",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:NewLineDelay",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "NewLineDelay",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "NewLineDelay"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "NewLineDelay",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "New Line Delay",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Newline",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "Newline",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "Newline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "Newline",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Newline",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:NoColorVideo",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "NoColorVideo",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "NoColorVideo"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "NoColorVideo",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "No Color Video",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:NoCorrectlyWorkingCr",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "NoCorrectlyWorkingCr",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "NoCorrectlyWorkingCr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "NoCorrectlyWorkingCr",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "No Correctly Working Cr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:NoEscCtlc",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "NoEscCtlc",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "NoEscCtlc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "NoEscCtlc",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "No Esc Ctlc",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:NoPadChar",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "NoPadChar",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "NoPadChar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "NoPadChar",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "No Pad Char",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:NonDestScrollRegion",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "NonDestScrollRegion",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "NonDestScrollRegion"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "NonDestScrollRegion",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Non Dest Scroll Region",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:NonRevRmcup",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "NonRevRmcup",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "NonRevRmcup"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "NonRevRmcup",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Non Rev Rmcup",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:NumLabels",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "NumLabels",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "NumLabels"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "NumLabels",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Num Labels",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:NumberOfFunctionKeys",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "NumberOfFunctionKeys",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "NumberOfFunctionKeys"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "NumberOfFunctionKeys",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Number Of Function Keys",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:NumberOfPins",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "NumberOfPins",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "NumberOfPins"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "NumberOfPins",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Number Of Pins",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:OrderOfPins",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "OrderOfPins",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "OrderOfPins"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "OrderOfPins",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Order Of Pins",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:OrigColors",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "OrigColors",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "OrigColors"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "OrigColors",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Orig Colors",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:OrigPair",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "OrigPair",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "OrigPair"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "OrigPair",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Orig Pair",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:OtherNonFunctionKeys",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "OtherNonFunctionKeys",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "OtherNonFunctionKeys"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "OtherNonFunctionKeys",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Other Non Function Keys",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:OutputResChar",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "OutputResChar",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "OutputResChar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "OutputResChar",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Output Res Char",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:OutputResHorzInch",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "OutputResHorzInch",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "OutputResHorzInch"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "OutputResHorzInch",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Output Res Horz Inch",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:OutputResLine",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "OutputResLine",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "OutputResLine"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "OutputResLine",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Output Res Line",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:OutputResVertInch",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "OutputResVertInch",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "OutputResVertInch"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "OutputResVertInch",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Output Res Vert Inch",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:OverStrike",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "OverStrike",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "OverStrike"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "OverStrike",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Over Strike",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:PadChar",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "PadChar",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "PadChar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "PadChar",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Pad Char",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:PaddingBaudRate",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "PaddingBaudRate",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "PaddingBaudRate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "PaddingBaudRate",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Padding Baud Rate",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ParmDch",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ParmDch",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ParmDch"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ParmDch",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Parm Dch",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ParmDeleteLine",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ParmDeleteLine",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ParmDeleteLine"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ParmDeleteLine",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Parm Delete Line",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ParmDownCursor",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ParmDownCursor",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ParmDownCursor"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ParmDownCursor",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Parm Down Cursor",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ParmDownMicro",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ParmDownMicro",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ParmDownMicro"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ParmDownMicro",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Parm Down Micro",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ParmIch",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ParmIch",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ParmIch"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ParmIch",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Parm Ich",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ParmIndex",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ParmIndex",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ParmIndex"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ParmIndex",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Parm Index",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ParmInsertLine",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ParmInsertLine",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ParmInsertLine"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ParmInsertLine",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Parm Insert Line",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ParmLeftCursor",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ParmLeftCursor",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ParmLeftCursor"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ParmLeftCursor",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Parm Left Cursor",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ParmLeftMicro",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ParmLeftMicro",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ParmLeftMicro"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ParmLeftMicro",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Parm Left Micro",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ParmRightCursor",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ParmRightCursor",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ParmRightCursor"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ParmRightCursor",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Parm Right Cursor",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ParmRightMicro",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ParmRightMicro",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ParmRightMicro"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ParmRightMicro",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Parm Right Micro",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ParmRindex",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ParmRindex",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ParmRindex"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ParmRindex",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Parm Rindex",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ParmUpCursor",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ParmUpCursor",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ParmUpCursor"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ParmUpCursor",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Parm Up Cursor",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ParmUpMicro",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ParmUpMicro",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ParmUpMicro"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ParmUpMicro",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Parm Up Micro",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:PcTermOptions",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "PcTermOptions",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "PcTermOptions"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "PcTermOptions",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Pc Term Options",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:PkeyKey",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "PkeyKey",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "PkeyKey"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "PkeyKey",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Pkey Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:PkeyLocal",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "PkeyLocal",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "PkeyLocal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "PkeyLocal",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Pkey Local",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:PkeyPlab",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "PkeyPlab",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "PkeyPlab"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "PkeyPlab",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Pkey Plab",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:PkeyXmit",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "PkeyXmit",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "PkeyXmit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "PkeyXmit",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Pkey Xmit",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:PlabNorm",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "PlabNorm",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "PlabNorm"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "PlabNorm",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Plab Norm",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:PrintRate",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "PrintRate",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "PrintRate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "PrintRate",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Print Rate",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:PrintScreen",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "PrintScreen",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "PrintScreen"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "PrintScreen",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Print Screen",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:PrtrNon",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "PrtrNon",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "PrtrNon"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "PrtrNon",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Prtr Non",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:PrtrOff",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "PrtrOff",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "PrtrOff"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "PrtrOff",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Prtr Off",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:PrtrOn",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "PrtrOn",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "PrtrOn"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "PrtrOn",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Prtr On",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:PrtrSilent",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "PrtrSilent",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "PrtrSilent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "PrtrSilent",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Prtr Silent",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Pulse",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "Pulse",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "Pulse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "Pulse",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Pulse",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:QuickDial",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "QuickDial",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "QuickDial"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "QuickDial",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Quick Dial",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:RemoveClock",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "RemoveClock",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "RemoveClock"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "RemoveClock",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Remove Clock",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:RepeatChar",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "RepeatChar",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "RepeatChar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "RepeatChar",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Repeat Char",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ReqForInput",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ReqForInput",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ReqForInput"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ReqForInput",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Req For Input",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ReqMousePos",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ReqMousePos",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ReqMousePos"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ReqMousePos",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Req Mouse Pos",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Reset1string",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "Reset1string",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "Reset1string"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "Reset1string",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Reset",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Reset2string",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "Reset2string",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "Reset2string"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "Reset2string",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Reset",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Reset3string",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "Reset3string",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "Reset3string"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "Reset3string",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Reset",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ResetFile",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ResetFile",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ResetFile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ResetFile",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Reset File",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:RestoreCursor",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "RestoreCursor",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "RestoreCursor"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "RestoreCursor",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Restore Cursor",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ReturnDoesClrEol",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ReturnDoesClrEol",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "ReturnDoesClrEol"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ReturnDoesClrEol",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Return Does Clr Eol",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:RowAddrGlitch",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "RowAddrGlitch",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "RowAddrGlitch"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "RowAddrGlitch",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Row Addr Glitch",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:RowAddress",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "RowAddress",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "RowAddress"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "RowAddress",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Row Address",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SaveCursor",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "SaveCursor",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "SaveCursor"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "SaveCursor",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Save Cursor",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ScancodeEscape",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ScancodeEscape",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ScancodeEscape"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ScancodeEscape",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Scancode Escape",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ScrollForward",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ScrollForward",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ScrollForward"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ScrollForward",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Scroll Forward",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ScrollReverse",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ScrollReverse",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ScrollReverse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ScrollReverse",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Scroll Reverse",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SelectCharSet",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "SelectCharSet",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "SelectCharSet"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "SelectCharSet",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Select Char Set",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SemiAutoRightMargin",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "SemiAutoRightMargin",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "SemiAutoRightMargin"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "SemiAutoRightMargin",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Semi Auto Right Margin",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Set0DesSeq",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "Set0DesSeq",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "Set0DesSeq"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "Set0DesSeq",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Set Des Seq",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Set1DesSeq",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "Set1DesSeq",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "Set1DesSeq"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "Set1DesSeq",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Set Des Seq",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Set2DesSeq",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "Set2DesSeq",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "Set2DesSeq"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "Set2DesSeq",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Set Des Seq",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Set3DesSeq",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "Set3DesSeq",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "Set3DesSeq"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "Set3DesSeq",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Set Des Seq",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetAAttributes",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "SetAAttributes",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "SetAAttributes"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "SetAAttributes",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Set AAttributes",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetABackground",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "SetABackground",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "SetABackground"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "SetABackground",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Set ABackground",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetAForeground",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "SetAForeground",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "SetAForeground"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "SetAForeground",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Set AForeground",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetAttributes",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "SetAttributes",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "SetAttributes"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "SetAttributes",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Set Attributes",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetBackground",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "SetBackground",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "SetBackground"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "SetBackground",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Set Background",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetBottomMargin",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "SetBottomMargin",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "SetBottomMargin"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "SetBottomMargin",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Set Bottom Margin",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetBottomMarginParm",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "SetBottomMarginParm",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "SetBottomMarginParm"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "SetBottomMarginParm",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Set Bottom Margin Parm",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetClock",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "SetClock",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "SetClock"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "SetClock",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Set Clock",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetColorBand",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "SetColorBand",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "SetColorBand"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "SetColorBand",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Set Color Band",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetColorPair",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "SetColorPair",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "SetColorPair"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "SetColorPair",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Set Color Pair",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetForeground",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "SetForeground",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "SetForeground"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "SetForeground",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Set Foreground",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetLeftMargin",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "SetLeftMargin",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "SetLeftMargin"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "SetLeftMargin",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Set Left Margin",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetLeftMarginParm",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "SetLeftMarginParm",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "SetLeftMarginParm"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "SetLeftMarginParm",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Set Left Margin Parm",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetLrMargin",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "SetLrMargin",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "SetLrMargin"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "SetLrMargin",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Set Lr Margin",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetPageLength",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "SetPageLength",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "SetPageLength"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "SetPageLength",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Set Page Length",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetPglenInch",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "SetPglenInch",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "SetPglenInch"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "SetPglenInch",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Set Pglen Inch",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetRightMargin",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "SetRightMargin",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "SetRightMargin"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "SetRightMargin",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Set Right Margin",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetRightMarginParm",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "SetRightMarginParm",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "SetRightMarginParm"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "SetRightMarginParm",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Set Right Margin Parm",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetTab",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "SetTab",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "SetTab"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "SetTab",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Set Tab",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetTbMargin",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "SetTbMargin",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "SetTbMargin"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "SetTbMargin",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Set Tb Margin",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetTopMargin",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "SetTopMargin",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "SetTopMargin"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "SetTopMargin",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Set Top Margin",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetTopMarginParm",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "SetTopMarginParm",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "SetTopMarginParm"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "SetTopMarginParm",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Set Top Margin Parm",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetWindow",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "SetWindow",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "SetWindow"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "SetWindow",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Set Window",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:StartBitImage",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "StartBitImage",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "StartBitImage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "StartBitImage",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Start Bit Image",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:StartCharSetDef",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "StartCharSetDef",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "StartCharSetDef"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "StartCharSetDef",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Start Char Set Def",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:StatusLineEscOk",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "StatusLineEscOk",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "StatusLineEscOk"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "StatusLineEscOk",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Status Line Esc Ok",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:StopBitImage",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "StopBitImage",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "StopBitImage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "StopBitImage",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Stop Bit Image",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:StopCharSetDef",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "StopCharSetDef",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "StopCharSetDef"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "StopCharSetDef",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Stop Char Set Def",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SubscriptCharacters",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "SubscriptCharacters",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "SubscriptCharacters"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "SubscriptCharacters",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Subscript Characters",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SuperscriptCharacters",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "SuperscriptCharacters",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "SuperscriptCharacters"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "SuperscriptCharacters",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Superscript Characters",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Tab",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "Tab",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "Tab"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "Tab",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Tab",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:TermcapInit2",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "TermcapInit2",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "TermcapInit2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "TermcapInit2",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Termcap Init",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:TermcapReset",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "TermcapReset",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "TermcapReset"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "TermcapReset",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Termcap Reset",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:TheseCauseCr",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "TheseCauseCr",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "TheseCauseCr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "TheseCauseCr",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "These Cause Cr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:TildeGlitch",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "TildeGlitch",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "TildeGlitch"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "TildeGlitch",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Tilde Glitch",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ToStatusLine",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ToStatusLine",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ToStatusLine"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ToStatusLine",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "To Status Line",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Tone",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "Tone",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "Tone"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "Tone",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Tone",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:TransparentUnderline",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "TransparentUnderline",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "TransparentUnderline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "TransparentUnderline",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Transparent Underline",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:UnderlineChar",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "UnderlineChar",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "UnderlineChar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "UnderlineChar",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Underline Char",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:UpHalfLine",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "UpHalfLine",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "UpHalfLine"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "UpHalfLine",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Up Half Line",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:User0",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "User0",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "User0"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "User0",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "User",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:User1",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "User1",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "User1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "User1",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "User",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:User2",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "User2",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "User2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "User2",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "User",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:User3",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "User3",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "User3"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "User3",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "User",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:User4",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "User4",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "User4"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "User4",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "User",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:User5",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "User5",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "User5"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "User5",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "User",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:User6",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "User6",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "User6"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "User6",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "User",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:User7",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "User7",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "User7"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "User7",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "User",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:User8",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "User8",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "User8"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "User8",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "User",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:User9",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "User9",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "User9"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "User9",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "User",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:VirtualTerminal",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "VirtualTerminal",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "VirtualTerminal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "VirtualTerminal",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Virtual Terminal",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:WaitTone",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "WaitTone",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "WaitTone"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "WaitTone",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Wait Tone",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:WideCharSize",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "WideCharSize",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "WideCharSize"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "WideCharSize",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Wide Char Size",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:WidthStatusLine",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "WidthStatusLine",
-        "fct-source": "src/System-Terminfo-Caps.html#NumTermCap",
-        "fct-type": "function",
-        "title": "WidthStatusLine"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "WidthStatusLine",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Width Status Line",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:XoffCharacter",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "XoffCharacter",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "XoffCharacter"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "XoffCharacter",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Xoff Character",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:XonCharacter",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "XonCharacter",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "XonCharacter"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "XonCharacter",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Xon Character",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:XonXoff",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "XonXoff",
-        "fct-source": "src/System-Terminfo-Caps.html#BoolTermCap",
-        "fct-type": "function",
-        "title": "XonXoff"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "XonXoff",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Xon Xoff",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ZeroMotion",
-      "description": {
-        "fct-module": "System.Terminfo.Caps",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "ZeroMotion",
-        "fct-source": "src/System-Terminfo-Caps.html#StrTermCap",
-        "fct-type": "function",
-        "title": "ZeroMotion"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo Caps",
-        "module": "System.Terminfo.Caps",
-        "name": "ZeroMotion",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Zero Motion",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eThis is a pure-Haskell (no FFI) module for accessing terminfo databases,\n which contain characteristics, or capabilities, for the various\n terminals such as screen, vt100, or xterm. Among other things, the\n capabilities include the idiosyncratic character sequences needed to\n send commands to the terminal. These commands include things like cursor\n movement.\n\u003c/p\u003e\u003cp\u003eFor a deeper understanding of terminfo, consult the man pages for\n term(5) and terminfo(5).\n\u003c/p\u003e\u003cp\u003eThere are three parts to this module: acquiring a terminfo database,\n querying the database, and defining the capabilities.\n\u003c/p\u003e\u003cp\u003eThis module is dead simple, so a single example will hopefully suffice\n to demonstrate its usage.\n\u003c/p\u003e\u003cpre\u003e\n import System.Terminfo\n import System.Terminfo.Caps as C\n uglyExample :: IO (Maybe Int)\n uglyExample = do\n     term \u003c- fromJust \u003c$\u003e lookupEnv \"TERM\"\n     db \u003c- \u003ccode\u003e\u003ca\u003eacquireDatabase\u003c/a\u003e\u003c/code\u003e term\n     let maxColors (Right d) = \u003ccode\u003e\u003ca\u003equeryNumTermCap\u003c/a\u003e\u003c/code\u003e d C.\u003ccode\u003e\u003ca\u003eMaxColors\u003c/a\u003e\u003c/code\u003e\n     return $ maxColors db\n\u003c/pre\u003e\u003cpre class=\"screen\"\u003e\u003ccode class=\"prompt\"\u003e\u003e\u003e\u003e \u003c/code\u003e\u003cstrong class=\"userinput\"\u003e\u003ccode\u003euglyExample\n\u003c/code\u003e\u003c/strong\u003eJust 256\n\u003c/pre\u003e\u003c/div\u003e",
-        "fct-module": "System.Terminfo",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "module",
-        "fct-source": "src/System-Terminfo.html",
-        "fct-type": "module",
-        "title": "Terminfo"
-      },
-      "index": {
-        "description": "This is pure-Haskell no FFI module for accessing terminfo databases which contain characteristics or capabilities for the various terminals such as screen vt100 or xterm Among other things the capabilities include the idiosyncratic character sequences needed to send commands to the terminal These commands include things like cursor movement For deeper understanding of terminfo consult the man pages for term and terminfo There are three parts to this module acquiring terminfo database querying the database and defining the capabilities This module is dead simple so single example will hopefully suffice to demonstrate its usage import System.Terminfo import System.Terminfo.Caps as uglyExample IO Maybe Int uglyExample do term fromJust lookupEnv TERM db acquireDatabase term let maxColors Right queryNumTermCap MaxColors return maxColors db uglyExample Just",
-        "hierarchy": "System Terminfo",
-        "module": "System.Terminfo",
-        "name": "Terminfo",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "Terminfo",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo.html#t:TIDatabase",
-      "description": {
-        "fct-module": "System.Terminfo",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "data",
-        "fct-source": "src/System-Terminfo-Types.html#TIDatabase",
-        "fct-type": "data",
-        "title": "TIDatabase"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo",
-        "module": "System.Terminfo",
-        "name": "TIDatabase",
-        "normalized": "",
-        "package": "terminfo-hs",
-        "partial": "TIDatabase",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo.html#v:acquireDatabase",
-      "description": {
-        "fct-module": "System.Terminfo",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "String-\u003e IO (Either String TIDatabase)",
-        "fct-type": "function",
-        "title": "acquireDatabase"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo",
-        "module": "System.Terminfo",
-        "name": "acquireDatabase",
-        "normalized": "String-\u003eIO(Either String TIDatabase)",
-        "package": "terminfo-hs",
-        "partial": "Database",
-        "signature": "String-\u003eIO(Either String TIDatabase)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo.html#v:queryBoolTermCap",
-      "description": {
-        "fct-module": "System.Terminfo",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "TIDatabase -\u003e BoolTermCap -\u003e Bool",
-        "fct-source": "src/System-Terminfo.html#queryBoolTermCap",
-        "fct-type": "function",
-        "title": "queryBoolTermCap"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo",
-        "module": "System.Terminfo",
-        "name": "queryBoolTermCap",
-        "normalized": "TIDatabase-\u003eBoolTermCap-\u003eBool",
-        "package": "terminfo-hs",
-        "partial": "Bool Term Cap",
-        "signature": "TIDatabase-\u003eBoolTermCap-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo.html#v:queryNumTermCap",
-      "description": {
-        "fct-module": "System.Terminfo",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "TIDatabase -\u003e NumTermCap -\u003e Maybe Int",
-        "fct-source": "src/System-Terminfo.html#queryNumTermCap",
-        "fct-type": "function",
-        "title": "queryNumTermCap"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Terminfo",
-        "module": "System.Terminfo",
-        "name": "queryNumTermCap",
-        "normalized": "TIDatabase-\u003eNumTermCap-\u003eMaybe Int",
-        "package": "terminfo-hs",
-        "partial": "Num Term Cap",
-        "signature": "TIDatabase-\u003eNumTermCap-\u003eMaybe Int"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo.html#v:queryStrTermCap",
-      "description": {
-        "fct-descr": "\u003cp\u003eAs this is a dead simple module, no 'smart' handling of the\n returned string is implemented. In particular, placeholders for\n buffer characters and command arguments are left as-is. This will be\n rectified eventually, probably in a separate module.\n\u003c/p\u003e",
-        "fct-module": "System.Terminfo",
-        "fct-package": "terminfo-hs",
-        "fct-signature": "TIDatabase -\u003e StrTermCap -\u003e Maybe String",
-        "fct-source": "src/System-Terminfo.html#queryStrTermCap",
-        "fct-type": "function",
-        "title": "queryStrTermCap"
-      },
-      "index": {
-        "description": "As this is dead simple module no smart handling of the returned string is implemented In particular placeholders for buffer characters and command arguments are left as-is This will be rectified eventually probably in separate module",
-        "hierarchy": "System Terminfo",
-        "module": "System.Terminfo",
-        "name": "queryStrTermCap",
-        "normalized": "TIDatabase-\u003eStrTermCap-\u003eMaybe String",
-        "package": "terminfo-hs",
-        "partial": "Str Term Cap",
-        "signature": "TIDatabase-\u003eStrTermCap-\u003eMaybe String"
-      }
-    }
-  }
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "terminfo-hs"
+      },
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eThere is an egregious number of capabilities. They are sequestered in\n this module to preserve namespace sanity.\n\u003c/p\u003e\u003cp\u003eFor descriptions of these, consult terminfo(5).\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "System.Terminfo.Caps",
+          "name": "Caps",
+          "package": "terminfo-hs",
+          "source": "src/System-Terminfo-Caps.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "There is an egregious number of capabilities They are sequestered in this module to preserve namespace sanity For descriptions of these consult terminfo",
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "Caps",
+          "package": "terminfo-hs",
+          "partial": "Caps",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "BoolTermCap",
+          "package": "terminfo-hs",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "BoolTermCap",
+          "package": "terminfo-hs",
+          "partial": "Bool Term Cap",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#t:BoolTermCap"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "NumTermCap",
+          "package": "terminfo-hs",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "NumTermCap",
+          "package": "terminfo-hs",
+          "partial": "Num Term Cap",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#t:NumTermCap"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "StrTermCap",
+          "package": "terminfo-hs",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "StrTermCap",
+          "package": "terminfo-hs",
+          "partial": "Str Term Cap",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#t:StrTermCap"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "AcsBtee",
+          "package": "terminfo-hs",
+          "signature": "AcsBtee",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "AcsBtee",
+          "package": "terminfo-hs",
+          "partial": "Acs Btee",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:AcsBtee"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "AcsChars",
+          "package": "terminfo-hs",
+          "signature": "AcsChars",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "AcsChars",
+          "package": "terminfo-hs",
+          "partial": "Acs Chars",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:AcsChars"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "AcsHline",
+          "package": "terminfo-hs",
+          "signature": "AcsHline",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "AcsHline",
+          "package": "terminfo-hs",
+          "partial": "Acs Hline",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:AcsHline"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "AcsLlcorner",
+          "package": "terminfo-hs",
+          "signature": "AcsLlcorner",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "AcsLlcorner",
+          "package": "terminfo-hs",
+          "partial": "Acs Llcorner",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:AcsLlcorner"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "AcsLrcorner",
+          "package": "terminfo-hs",
+          "signature": "AcsLrcorner",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "AcsLrcorner",
+          "package": "terminfo-hs",
+          "partial": "Acs Lrcorner",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:AcsLrcorner"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "AcsLtee",
+          "package": "terminfo-hs",
+          "signature": "AcsLtee",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "AcsLtee",
+          "package": "terminfo-hs",
+          "partial": "Acs Ltee",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:AcsLtee"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "AcsPlus",
+          "package": "terminfo-hs",
+          "signature": "AcsPlus",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "AcsPlus",
+          "package": "terminfo-hs",
+          "partial": "Acs Plus",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:AcsPlus"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "AcsRtee",
+          "package": "terminfo-hs",
+          "signature": "AcsRtee",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "AcsRtee",
+          "package": "terminfo-hs",
+          "partial": "Acs Rtee",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:AcsRtee"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "AcsTtee",
+          "package": "terminfo-hs",
+          "signature": "AcsTtee",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "AcsTtee",
+          "package": "terminfo-hs",
+          "partial": "Acs Ttee",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:AcsTtee"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "AcsUlcorner",
+          "package": "terminfo-hs",
+          "signature": "AcsUlcorner",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "AcsUlcorner",
+          "package": "terminfo-hs",
+          "partial": "Acs Ulcorner",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:AcsUlcorner"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "AcsUrcorner",
+          "package": "terminfo-hs",
+          "signature": "AcsUrcorner",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "AcsUrcorner",
+          "package": "terminfo-hs",
+          "partial": "Acs Urcorner",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:AcsUrcorner"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "AcsVline",
+          "package": "terminfo-hs",
+          "signature": "AcsVline",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "AcsVline",
+          "package": "terminfo-hs",
+          "partial": "Acs Vline",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:AcsVline"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "AltScancodeEsc",
+          "package": "terminfo-hs",
+          "signature": "AltScancodeEsc",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "AltScancodeEsc",
+          "package": "terminfo-hs",
+          "partial": "Alt Scancode Esc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:AltScancodeEsc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ArrowKeyMap",
+          "package": "terminfo-hs",
+          "signature": "ArrowKeyMap",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ArrowKeyMap",
+          "package": "terminfo-hs",
+          "partial": "Arrow Key Map",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ArrowKeyMap"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "AutoLeftMargin",
+          "package": "terminfo-hs",
+          "signature": "AutoLeftMargin",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "AutoLeftMargin",
+          "package": "terminfo-hs",
+          "partial": "Auto Left Margin",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:AutoLeftMargin"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "AutoRightMargin",
+          "package": "terminfo-hs",
+          "signature": "AutoRightMargin",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "AutoRightMargin",
+          "package": "terminfo-hs",
+          "partial": "Auto Right Margin",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:AutoRightMargin"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "BackColorErase",
+          "package": "terminfo-hs",
+          "signature": "BackColorErase",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "BackColorErase",
+          "package": "terminfo-hs",
+          "partial": "Back Color Erase",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:BackColorErase"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "BackTab",
+          "package": "terminfo-hs",
+          "signature": "BackTab",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "BackTab",
+          "package": "terminfo-hs",
+          "partial": "Back Tab",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:BackTab"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "BackspaceDelay",
+          "package": "terminfo-hs",
+          "signature": "BackspaceDelay",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "BackspaceDelay",
+          "package": "terminfo-hs",
+          "partial": "Backspace Delay",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:BackspaceDelay"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "BackspaceIfNotBs",
+          "package": "terminfo-hs",
+          "signature": "BackspaceIfNotBs",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "BackspaceIfNotBs",
+          "package": "terminfo-hs",
+          "partial": "Backspace If Not Bs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:BackspaceIfNotBs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "BackspacesWithBs",
+          "package": "terminfo-hs",
+          "signature": "BackspacesWithBs",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "BackspacesWithBs",
+          "package": "terminfo-hs",
+          "partial": "Backspaces With Bs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:BackspacesWithBs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "Bell",
+          "package": "terminfo-hs",
+          "signature": "Bell",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "Bell",
+          "package": "terminfo-hs",
+          "partial": "Bell",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Bell"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "BitImageCarriageReturn",
+          "package": "terminfo-hs",
+          "signature": "BitImageCarriageReturn",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "BitImageCarriageReturn",
+          "package": "terminfo-hs",
+          "partial": "Bit Image Carriage Return",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:BitImageCarriageReturn"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "BitImageEntwining",
+          "package": "terminfo-hs",
+          "signature": "BitImageEntwining",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "BitImageEntwining",
+          "package": "terminfo-hs",
+          "partial": "Bit Image Entwining",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:BitImageEntwining"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "BitImageNewline",
+          "package": "terminfo-hs",
+          "signature": "BitImageNewline",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "BitImageNewline",
+          "package": "terminfo-hs",
+          "partial": "Bit Image Newline",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:BitImageNewline"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "BitImageRepeat",
+          "package": "terminfo-hs",
+          "signature": "BitImageRepeat",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "BitImageRepeat",
+          "package": "terminfo-hs",
+          "partial": "Bit Image Repeat",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:BitImageRepeat"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "BitImageType",
+          "package": "terminfo-hs",
+          "signature": "BitImageType",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "BitImageType",
+          "package": "terminfo-hs",
+          "partial": "Bit Image Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:BitImageType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "BoxChars1",
+          "package": "terminfo-hs",
+          "signature": "BoxChars1",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "BoxChars1",
+          "package": "terminfo-hs",
+          "partial": "Box Chars",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:BoxChars1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "BufferCapacity",
+          "package": "terminfo-hs",
+          "signature": "BufferCapacity",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "BufferCapacity",
+          "package": "terminfo-hs",
+          "partial": "Buffer Capacity",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:BufferCapacity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "Buttons",
+          "package": "terminfo-hs",
+          "signature": "Buttons",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "Buttons",
+          "package": "terminfo-hs",
+          "partial": "Buttons",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Buttons"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "CanChange",
+          "package": "terminfo-hs",
+          "signature": "CanChange",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "CanChange",
+          "package": "terminfo-hs",
+          "partial": "Can Change",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CanChange"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "CarriageReturn",
+          "package": "terminfo-hs",
+          "signature": "CarriageReturn",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "CarriageReturn",
+          "package": "terminfo-hs",
+          "partial": "Carriage Return",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CarriageReturn"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "CarriageReturnDelay",
+          "package": "terminfo-hs",
+          "signature": "CarriageReturnDelay",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "CarriageReturnDelay",
+          "package": "terminfo-hs",
+          "partial": "Carriage Return Delay",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CarriageReturnDelay"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "CeolStandoutGlitch",
+          "package": "terminfo-hs",
+          "signature": "CeolStandoutGlitch",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "CeolStandoutGlitch",
+          "package": "terminfo-hs",
+          "partial": "Ceol Standout Glitch",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CeolStandoutGlitch"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ChangeCharPitch",
+          "package": "terminfo-hs",
+          "signature": "ChangeCharPitch",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ChangeCharPitch",
+          "package": "terminfo-hs",
+          "partial": "Change Char Pitch",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ChangeCharPitch"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ChangeLinePitch",
+          "package": "terminfo-hs",
+          "signature": "ChangeLinePitch",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ChangeLinePitch",
+          "package": "terminfo-hs",
+          "partial": "Change Line Pitch",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ChangeLinePitch"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ChangeResHorz",
+          "package": "terminfo-hs",
+          "signature": "ChangeResHorz",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ChangeResHorz",
+          "package": "terminfo-hs",
+          "partial": "Change Res Horz",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ChangeResHorz"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ChangeResVert",
+          "package": "terminfo-hs",
+          "signature": "ChangeResVert",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ChangeResVert",
+          "package": "terminfo-hs",
+          "partial": "Change Res Vert",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ChangeResVert"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ChangeScrollRegion",
+          "package": "terminfo-hs",
+          "signature": "ChangeScrollRegion",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ChangeScrollRegion",
+          "package": "terminfo-hs",
+          "partial": "Change Scroll Region",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ChangeScrollRegion"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "CharPadding",
+          "package": "terminfo-hs",
+          "signature": "CharPadding",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "CharPadding",
+          "package": "terminfo-hs",
+          "partial": "Char Padding",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CharPadding"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "CharSetNames",
+          "package": "terminfo-hs",
+          "signature": "CharSetNames",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "CharSetNames",
+          "package": "terminfo-hs",
+          "partial": "Char Set Names",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CharSetNames"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ClearAllTabs",
+          "package": "terminfo-hs",
+          "signature": "ClearAllTabs",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ClearAllTabs",
+          "package": "terminfo-hs",
+          "partial": "Clear All Tabs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ClearAllTabs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ClearMargins",
+          "package": "terminfo-hs",
+          "signature": "ClearMargins",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ClearMargins",
+          "package": "terminfo-hs",
+          "partial": "Clear Margins",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ClearMargins"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ClearScreen",
+          "package": "terminfo-hs",
+          "signature": "ClearScreen",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ClearScreen",
+          "package": "terminfo-hs",
+          "partial": "Clear Screen",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ClearScreen"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ClrBol",
+          "package": "terminfo-hs",
+          "signature": "ClrBol",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ClrBol",
+          "package": "terminfo-hs",
+          "partial": "Clr Bol",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ClrBol"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ClrEol",
+          "package": "terminfo-hs",
+          "signature": "ClrEol",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ClrEol",
+          "package": "terminfo-hs",
+          "partial": "Clr Eol",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ClrEol"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ClrEos",
+          "package": "terminfo-hs",
+          "signature": "ClrEos",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ClrEos",
+          "package": "terminfo-hs",
+          "partial": "Clr Eos",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ClrEos"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "CodeSetInit",
+          "package": "terminfo-hs",
+          "signature": "CodeSetInit",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "CodeSetInit",
+          "package": "terminfo-hs",
+          "partial": "Code Set Init",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CodeSetInit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ColAddrGlitch",
+          "package": "terminfo-hs",
+          "signature": "ColAddrGlitch",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ColAddrGlitch",
+          "package": "terminfo-hs",
+          "partial": "Col Addr Glitch",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ColAddrGlitch"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ColorNames",
+          "package": "terminfo-hs",
+          "signature": "ColorNames",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ColorNames",
+          "package": "terminfo-hs",
+          "partial": "Color Names",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ColorNames"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ColumnAddress",
+          "package": "terminfo-hs",
+          "signature": "ColumnAddress",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ColumnAddress",
+          "package": "terminfo-hs",
+          "partial": "Column Address",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ColumnAddress"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "Columns",
+          "package": "terminfo-hs",
+          "signature": "Columns",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "Columns",
+          "package": "terminfo-hs",
+          "partial": "Columns",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Columns"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "CommandCharacter",
+          "package": "terminfo-hs",
+          "signature": "CommandCharacter",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "CommandCharacter",
+          "package": "terminfo-hs",
+          "partial": "Command Character",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CommandCharacter"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "CpiChangesRes",
+          "package": "terminfo-hs",
+          "signature": "CpiChangesRes",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "CpiChangesRes",
+          "package": "terminfo-hs",
+          "partial": "Cpi Changes Res",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CpiChangesRes"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "CrCancelsMicroMode",
+          "package": "terminfo-hs",
+          "signature": "CrCancelsMicroMode",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "CrCancelsMicroMode",
+          "package": "terminfo-hs",
+          "partial": "Cr Cancels Micro Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CrCancelsMicroMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "CreateWindow",
+          "package": "terminfo-hs",
+          "signature": "CreateWindow",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "CreateWindow",
+          "package": "terminfo-hs",
+          "partial": "Create Window",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CreateWindow"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "CrtNoScrolling",
+          "package": "terminfo-hs",
+          "signature": "CrtNoScrolling",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "CrtNoScrolling",
+          "package": "terminfo-hs",
+          "partial": "Crt No Scrolling",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CrtNoScrolling"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "CursorAddress",
+          "package": "terminfo-hs",
+          "signature": "CursorAddress",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "CursorAddress",
+          "package": "terminfo-hs",
+          "partial": "Cursor Address",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CursorAddress"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "CursorDown",
+          "package": "terminfo-hs",
+          "signature": "CursorDown",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "CursorDown",
+          "package": "terminfo-hs",
+          "partial": "Cursor Down",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CursorDown"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "CursorHome",
+          "package": "terminfo-hs",
+          "signature": "CursorHome",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "CursorHome",
+          "package": "terminfo-hs",
+          "partial": "Cursor Home",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CursorHome"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "CursorInvisible",
+          "package": "terminfo-hs",
+          "signature": "CursorInvisible",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "CursorInvisible",
+          "package": "terminfo-hs",
+          "partial": "Cursor Invisible",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CursorInvisible"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "CursorLeft",
+          "package": "terminfo-hs",
+          "signature": "CursorLeft",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "CursorLeft",
+          "package": "terminfo-hs",
+          "partial": "Cursor Left",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CursorLeft"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "CursorMemAddress",
+          "package": "terminfo-hs",
+          "signature": "CursorMemAddress",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "CursorMemAddress",
+          "package": "terminfo-hs",
+          "partial": "Cursor Mem Address",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CursorMemAddress"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "CursorNormal",
+          "package": "terminfo-hs",
+          "signature": "CursorNormal",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "CursorNormal",
+          "package": "terminfo-hs",
+          "partial": "Cursor Normal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CursorNormal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "CursorRight",
+          "package": "terminfo-hs",
+          "signature": "CursorRight",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "CursorRight",
+          "package": "terminfo-hs",
+          "partial": "Cursor Right",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CursorRight"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "CursorToLl",
+          "package": "terminfo-hs",
+          "signature": "CursorToLl",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "CursorToLl",
+          "package": "terminfo-hs",
+          "partial": "Cursor To Ll",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CursorToLl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "CursorUp",
+          "package": "terminfo-hs",
+          "signature": "CursorUp",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "CursorUp",
+          "package": "terminfo-hs",
+          "partial": "Cursor Up",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CursorUp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "CursorVisible",
+          "package": "terminfo-hs",
+          "signature": "CursorVisible",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "CursorVisible",
+          "package": "terminfo-hs",
+          "partial": "Cursor Visible",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:CursorVisible"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "DefineBitImageRegion",
+          "package": "terminfo-hs",
+          "signature": "DefineBitImageRegion",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "DefineBitImageRegion",
+          "package": "terminfo-hs",
+          "partial": "Define Bit Image Region",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:DefineBitImageRegion"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "DefineChar",
+          "package": "terminfo-hs",
+          "signature": "DefineChar",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "DefineChar",
+          "package": "terminfo-hs",
+          "partial": "Define Char",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:DefineChar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "DeleteCharacter",
+          "package": "terminfo-hs",
+          "signature": "DeleteCharacter",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "DeleteCharacter",
+          "package": "terminfo-hs",
+          "partial": "Delete Character",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:DeleteCharacter"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "DeleteLine",
+          "package": "terminfo-hs",
+          "signature": "DeleteLine",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "DeleteLine",
+          "package": "terminfo-hs",
+          "partial": "Delete Line",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:DeleteLine"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "DestTabsMagicSmso",
+          "package": "terminfo-hs",
+          "signature": "DestTabsMagicSmso",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "DestTabsMagicSmso",
+          "package": "terminfo-hs",
+          "partial": "Dest Tabs Magic Smso",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:DestTabsMagicSmso"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "DeviceType",
+          "package": "terminfo-hs",
+          "signature": "DeviceType",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "DeviceType",
+          "package": "terminfo-hs",
+          "partial": "Device Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:DeviceType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "DialPhone",
+          "package": "terminfo-hs",
+          "signature": "DialPhone",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "DialPhone",
+          "package": "terminfo-hs",
+          "partial": "Dial Phone",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:DialPhone"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "DisStatusLine",
+          "package": "terminfo-hs",
+          "signature": "DisStatusLine",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "DisStatusLine",
+          "package": "terminfo-hs",
+          "partial": "Dis Status Line",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:DisStatusLine"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "DisplayClock",
+          "package": "terminfo-hs",
+          "signature": "DisplayClock",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "DisplayClock",
+          "package": "terminfo-hs",
+          "partial": "Display Clock",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:DisplayClock"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "DisplayPcChar",
+          "package": "terminfo-hs",
+          "signature": "DisplayPcChar",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "DisplayPcChar",
+          "package": "terminfo-hs",
+          "partial": "Display Pc Char",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:DisplayPcChar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "DotHorzSpacing",
+          "package": "terminfo-hs",
+          "signature": "DotHorzSpacing",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "DotHorzSpacing",
+          "package": "terminfo-hs",
+          "partial": "Dot Horz Spacing",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:DotHorzSpacing"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "DotVertSpacing",
+          "package": "terminfo-hs",
+          "signature": "DotVertSpacing",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "DotVertSpacing",
+          "package": "terminfo-hs",
+          "partial": "Dot Vert Spacing",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:DotVertSpacing"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "DownHalfLine",
+          "package": "terminfo-hs",
+          "signature": "DownHalfLine",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "DownHalfLine",
+          "package": "terminfo-hs",
+          "partial": "Down Half Line",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:DownHalfLine"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EatNewlineGlitch",
+          "package": "terminfo-hs",
+          "signature": "EatNewlineGlitch",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EatNewlineGlitch",
+          "package": "terminfo-hs",
+          "partial": "Eat Newline Glitch",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EatNewlineGlitch"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnaAcs",
+          "package": "terminfo-hs",
+          "signature": "EnaAcs",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnaAcs",
+          "package": "terminfo-hs",
+          "partial": "Ena Acs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnaAcs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EndBitImageRegion",
+          "package": "terminfo-hs",
+          "signature": "EndBitImageRegion",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EndBitImageRegion",
+          "package": "terminfo-hs",
+          "partial": "End Bit Image Region",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EndBitImageRegion"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterAltCharsetMode",
+          "package": "terminfo-hs",
+          "signature": "EnterAltCharsetMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterAltCharsetMode",
+          "package": "terminfo-hs",
+          "partial": "Enter Alt Charset Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterAltCharsetMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterAmMode",
+          "package": "terminfo-hs",
+          "signature": "EnterAmMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterAmMode",
+          "package": "terminfo-hs",
+          "partial": "Enter Am Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterAmMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterBlinkMode",
+          "package": "terminfo-hs",
+          "signature": "EnterBlinkMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterBlinkMode",
+          "package": "terminfo-hs",
+          "partial": "Enter Blink Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterBlinkMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterBoldMode",
+          "package": "terminfo-hs",
+          "signature": "EnterBoldMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterBoldMode",
+          "package": "terminfo-hs",
+          "partial": "Enter Bold Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterBoldMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterCaMode",
+          "package": "terminfo-hs",
+          "signature": "EnterCaMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterCaMode",
+          "package": "terminfo-hs",
+          "partial": "Enter Ca Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterCaMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterDeleteMode",
+          "package": "terminfo-hs",
+          "signature": "EnterDeleteMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterDeleteMode",
+          "package": "terminfo-hs",
+          "partial": "Enter Delete Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterDeleteMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterDimMode",
+          "package": "terminfo-hs",
+          "signature": "EnterDimMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterDimMode",
+          "package": "terminfo-hs",
+          "partial": "Enter Dim Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterDimMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterDoublewideMode",
+          "package": "terminfo-hs",
+          "signature": "EnterDoublewideMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterDoublewideMode",
+          "package": "terminfo-hs",
+          "partial": "Enter Doublewide Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterDoublewideMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterDraftQuality",
+          "package": "terminfo-hs",
+          "signature": "EnterDraftQuality",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterDraftQuality",
+          "package": "terminfo-hs",
+          "partial": "Enter Draft Quality",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterDraftQuality"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterHorizontalHlMode",
+          "package": "terminfo-hs",
+          "signature": "EnterHorizontalHlMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterHorizontalHlMode",
+          "package": "terminfo-hs",
+          "partial": "Enter Horizontal Hl Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterHorizontalHlMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterInsertMode",
+          "package": "terminfo-hs",
+          "signature": "EnterInsertMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterInsertMode",
+          "package": "terminfo-hs",
+          "partial": "Enter Insert Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterInsertMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterItalicsMode",
+          "package": "terminfo-hs",
+          "signature": "EnterItalicsMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterItalicsMode",
+          "package": "terminfo-hs",
+          "partial": "Enter Italics Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterItalicsMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterLeftHlMode",
+          "package": "terminfo-hs",
+          "signature": "EnterLeftHlMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterLeftHlMode",
+          "package": "terminfo-hs",
+          "partial": "Enter Left Hl Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterLeftHlMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterLeftwardMode",
+          "package": "terminfo-hs",
+          "signature": "EnterLeftwardMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterLeftwardMode",
+          "package": "terminfo-hs",
+          "partial": "Enter Leftward Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterLeftwardMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterLowHlMode",
+          "package": "terminfo-hs",
+          "signature": "EnterLowHlMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterLowHlMode",
+          "package": "terminfo-hs",
+          "partial": "Enter Low Hl Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterLowHlMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterMicroMode",
+          "package": "terminfo-hs",
+          "signature": "EnterMicroMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterMicroMode",
+          "package": "terminfo-hs",
+          "partial": "Enter Micro Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterMicroMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterNearLetterQuality",
+          "package": "terminfo-hs",
+          "signature": "EnterNearLetterQuality",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterNearLetterQuality",
+          "package": "terminfo-hs",
+          "partial": "Enter Near Letter Quality",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterNearLetterQuality"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterNormalQuality",
+          "package": "terminfo-hs",
+          "signature": "EnterNormalQuality",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterNormalQuality",
+          "package": "terminfo-hs",
+          "partial": "Enter Normal Quality",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterNormalQuality"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterPcCharsetMode",
+          "package": "terminfo-hs",
+          "signature": "EnterPcCharsetMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterPcCharsetMode",
+          "package": "terminfo-hs",
+          "partial": "Enter Pc Charset Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterPcCharsetMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterProtectedMode",
+          "package": "terminfo-hs",
+          "signature": "EnterProtectedMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterProtectedMode",
+          "package": "terminfo-hs",
+          "partial": "Enter Protected Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterProtectedMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterReverseMode",
+          "package": "terminfo-hs",
+          "signature": "EnterReverseMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterReverseMode",
+          "package": "terminfo-hs",
+          "partial": "Enter Reverse Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterReverseMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterRightHlMode",
+          "package": "terminfo-hs",
+          "signature": "EnterRightHlMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterRightHlMode",
+          "package": "terminfo-hs",
+          "partial": "Enter Right Hl Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterRightHlMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterScancodeMode",
+          "package": "terminfo-hs",
+          "signature": "EnterScancodeMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterScancodeMode",
+          "package": "terminfo-hs",
+          "partial": "Enter Scancode Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterScancodeMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterSecureMode",
+          "package": "terminfo-hs",
+          "signature": "EnterSecureMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterSecureMode",
+          "package": "terminfo-hs",
+          "partial": "Enter Secure Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterSecureMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterShadowMode",
+          "package": "terminfo-hs",
+          "signature": "EnterShadowMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterShadowMode",
+          "package": "terminfo-hs",
+          "partial": "Enter Shadow Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterShadowMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterStandoutMode",
+          "package": "terminfo-hs",
+          "signature": "EnterStandoutMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterStandoutMode",
+          "package": "terminfo-hs",
+          "partial": "Enter Standout Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterStandoutMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterSubscriptMode",
+          "package": "terminfo-hs",
+          "signature": "EnterSubscriptMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterSubscriptMode",
+          "package": "terminfo-hs",
+          "partial": "Enter Subscript Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterSubscriptMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterSuperscriptMode",
+          "package": "terminfo-hs",
+          "signature": "EnterSuperscriptMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterSuperscriptMode",
+          "package": "terminfo-hs",
+          "partial": "Enter Superscript Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterSuperscriptMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterTopHlMode",
+          "package": "terminfo-hs",
+          "signature": "EnterTopHlMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterTopHlMode",
+          "package": "terminfo-hs",
+          "partial": "Enter Top Hl Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterTopHlMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterUnderlineMode",
+          "package": "terminfo-hs",
+          "signature": "EnterUnderlineMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterUnderlineMode",
+          "package": "terminfo-hs",
+          "partial": "Enter Underline Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterUnderlineMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterUpwardMode",
+          "package": "terminfo-hs",
+          "signature": "EnterUpwardMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterUpwardMode",
+          "package": "terminfo-hs",
+          "partial": "Enter Upward Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterUpwardMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterVerticalHlMode",
+          "package": "terminfo-hs",
+          "signature": "EnterVerticalHlMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterVerticalHlMode",
+          "package": "terminfo-hs",
+          "partial": "Enter Vertical Hl Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterVerticalHlMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EnterXonMode",
+          "package": "terminfo-hs",
+          "signature": "EnterXonMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EnterXonMode",
+          "package": "terminfo-hs",
+          "partial": "Enter Xon Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EnterXonMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EraseChars",
+          "package": "terminfo-hs",
+          "signature": "EraseChars",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EraseChars",
+          "package": "terminfo-hs",
+          "partial": "Erase Chars",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EraseChars"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "EraseOverstrike",
+          "package": "terminfo-hs",
+          "signature": "EraseOverstrike",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "EraseOverstrike",
+          "package": "terminfo-hs",
+          "partial": "Erase Overstrike",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:EraseOverstrike"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ExitAltCharsetMode",
+          "package": "terminfo-hs",
+          "signature": "ExitAltCharsetMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ExitAltCharsetMode",
+          "package": "terminfo-hs",
+          "partial": "Exit Alt Charset Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitAltCharsetMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ExitAmMode",
+          "package": "terminfo-hs",
+          "signature": "ExitAmMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ExitAmMode",
+          "package": "terminfo-hs",
+          "partial": "Exit Am Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitAmMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ExitAttributeMode",
+          "package": "terminfo-hs",
+          "signature": "ExitAttributeMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ExitAttributeMode",
+          "package": "terminfo-hs",
+          "partial": "Exit Attribute Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitAttributeMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ExitCaMode",
+          "package": "terminfo-hs",
+          "signature": "ExitCaMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ExitCaMode",
+          "package": "terminfo-hs",
+          "partial": "Exit Ca Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitCaMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ExitDeleteMode",
+          "package": "terminfo-hs",
+          "signature": "ExitDeleteMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ExitDeleteMode",
+          "package": "terminfo-hs",
+          "partial": "Exit Delete Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitDeleteMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ExitDoublewideMode",
+          "package": "terminfo-hs",
+          "signature": "ExitDoublewideMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ExitDoublewideMode",
+          "package": "terminfo-hs",
+          "partial": "Exit Doublewide Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitDoublewideMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ExitInsertMode",
+          "package": "terminfo-hs",
+          "signature": "ExitInsertMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ExitInsertMode",
+          "package": "terminfo-hs",
+          "partial": "Exit Insert Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitInsertMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ExitItalicsMode",
+          "package": "terminfo-hs",
+          "signature": "ExitItalicsMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ExitItalicsMode",
+          "package": "terminfo-hs",
+          "partial": "Exit Italics Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitItalicsMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ExitLeftwardMode",
+          "package": "terminfo-hs",
+          "signature": "ExitLeftwardMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ExitLeftwardMode",
+          "package": "terminfo-hs",
+          "partial": "Exit Leftward Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitLeftwardMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ExitMicroMode",
+          "package": "terminfo-hs",
+          "signature": "ExitMicroMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ExitMicroMode",
+          "package": "terminfo-hs",
+          "partial": "Exit Micro Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitMicroMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ExitPcCharsetMode",
+          "package": "terminfo-hs",
+          "signature": "ExitPcCharsetMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ExitPcCharsetMode",
+          "package": "terminfo-hs",
+          "partial": "Exit Pc Charset Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitPcCharsetMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ExitScancodeMode",
+          "package": "terminfo-hs",
+          "signature": "ExitScancodeMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ExitScancodeMode",
+          "package": "terminfo-hs",
+          "partial": "Exit Scancode Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitScancodeMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ExitShadowMode",
+          "package": "terminfo-hs",
+          "signature": "ExitShadowMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ExitShadowMode",
+          "package": "terminfo-hs",
+          "partial": "Exit Shadow Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitShadowMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ExitStandoutMode",
+          "package": "terminfo-hs",
+          "signature": "ExitStandoutMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ExitStandoutMode",
+          "package": "terminfo-hs",
+          "partial": "Exit Standout Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitStandoutMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ExitSubscriptMode",
+          "package": "terminfo-hs",
+          "signature": "ExitSubscriptMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ExitSubscriptMode",
+          "package": "terminfo-hs",
+          "partial": "Exit Subscript Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitSubscriptMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ExitSuperscriptMode",
+          "package": "terminfo-hs",
+          "signature": "ExitSuperscriptMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ExitSuperscriptMode",
+          "package": "terminfo-hs",
+          "partial": "Exit Superscript Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitSuperscriptMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ExitUnderlineMode",
+          "package": "terminfo-hs",
+          "signature": "ExitUnderlineMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ExitUnderlineMode",
+          "package": "terminfo-hs",
+          "partial": "Exit Underline Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitUnderlineMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ExitUpwardMode",
+          "package": "terminfo-hs",
+          "signature": "ExitUpwardMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ExitUpwardMode",
+          "package": "terminfo-hs",
+          "partial": "Exit Upward Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitUpwardMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ExitXonMode",
+          "package": "terminfo-hs",
+          "signature": "ExitXonMode",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ExitXonMode",
+          "package": "terminfo-hs",
+          "partial": "Exit Xon Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ExitXonMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "FixedPause",
+          "package": "terminfo-hs",
+          "signature": "FixedPause",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "FixedPause",
+          "package": "terminfo-hs",
+          "partial": "Fixed Pause",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:FixedPause"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "FlashHook",
+          "package": "terminfo-hs",
+          "signature": "FlashHook",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "FlashHook",
+          "package": "terminfo-hs",
+          "partial": "Flash Hook",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:FlashHook"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "FlashScreen",
+          "package": "terminfo-hs",
+          "signature": "FlashScreen",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "FlashScreen",
+          "package": "terminfo-hs",
+          "partial": "Flash Screen",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:FlashScreen"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "FormFeed",
+          "package": "terminfo-hs",
+          "signature": "FormFeed",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "FormFeed",
+          "package": "terminfo-hs",
+          "partial": "Form Feed",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:FormFeed"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "FromStatusLine",
+          "package": "terminfo-hs",
+          "signature": "FromStatusLine",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "FromStatusLine",
+          "package": "terminfo-hs",
+          "partial": "From Status Line",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:FromStatusLine"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "GenericType",
+          "package": "terminfo-hs",
+          "signature": "GenericType",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "GenericType",
+          "package": "terminfo-hs",
+          "partial": "Generic Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:GenericType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "GetMouse",
+          "package": "terminfo-hs",
+          "signature": "GetMouse",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "GetMouse",
+          "package": "terminfo-hs",
+          "partial": "Get Mouse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:GetMouse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "GnuHasMetaKey",
+          "package": "terminfo-hs",
+          "signature": "GnuHasMetaKey",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "GnuHasMetaKey",
+          "package": "terminfo-hs",
+          "partial": "Gnu Has Meta Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:GnuHasMetaKey"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "GotoWindow",
+          "package": "terminfo-hs",
+          "signature": "GotoWindow",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "GotoWindow",
+          "package": "terminfo-hs",
+          "partial": "Goto Window",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:GotoWindow"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "Hangup",
+          "package": "terminfo-hs",
+          "signature": "Hangup",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "Hangup",
+          "package": "terminfo-hs",
+          "partial": "Hangup",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Hangup"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "HardCopy",
+          "package": "terminfo-hs",
+          "signature": "HardCopy",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "HardCopy",
+          "package": "terminfo-hs",
+          "partial": "Hard Copy",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:HardCopy"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "HardCursor",
+          "package": "terminfo-hs",
+          "signature": "HardCursor",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "HardCursor",
+          "package": "terminfo-hs",
+          "partial": "Hard Cursor",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:HardCursor"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "HasHardwareTabs",
+          "package": "terminfo-hs",
+          "signature": "HasHardwareTabs",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "HasHardwareTabs",
+          "package": "terminfo-hs",
+          "partial": "Has Hardware Tabs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:HasHardwareTabs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "HasMetaKey",
+          "package": "terminfo-hs",
+          "signature": "HasMetaKey",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "HasMetaKey",
+          "package": "terminfo-hs",
+          "partial": "Has Meta Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:HasMetaKey"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "HasPrintWheel",
+          "package": "terminfo-hs",
+          "signature": "HasPrintWheel",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "HasPrintWheel",
+          "package": "terminfo-hs",
+          "partial": "Has Print Wheel",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:HasPrintWheel"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "HasStatusLine",
+          "package": "terminfo-hs",
+          "signature": "HasStatusLine",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "HasStatusLine",
+          "package": "terminfo-hs",
+          "partial": "Has Status Line",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:HasStatusLine"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "HorizontalTabDelay",
+          "package": "terminfo-hs",
+          "signature": "HorizontalTabDelay",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "HorizontalTabDelay",
+          "package": "terminfo-hs",
+          "partial": "Horizontal Tab Delay",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:HorizontalTabDelay"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "HueLightnessSaturation",
+          "package": "terminfo-hs",
+          "signature": "HueLightnessSaturation",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "HueLightnessSaturation",
+          "package": "terminfo-hs",
+          "partial": "Hue Lightness Saturation",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:HueLightnessSaturation"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "Init1string",
+          "package": "terminfo-hs",
+          "signature": "Init1string",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "Init1string",
+          "package": "terminfo-hs",
+          "partial": "Init",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Init1string"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "Init2string",
+          "package": "terminfo-hs",
+          "signature": "Init2string",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "Init2string",
+          "package": "terminfo-hs",
+          "partial": "Init",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Init2string"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "Init3string",
+          "package": "terminfo-hs",
+          "signature": "Init3string",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "Init3string",
+          "package": "terminfo-hs",
+          "partial": "Init",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Init3string"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "InitFile",
+          "package": "terminfo-hs",
+          "signature": "InitFile",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "InitFile",
+          "package": "terminfo-hs",
+          "partial": "Init File",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:InitFile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "InitProg",
+          "package": "terminfo-hs",
+          "signature": "InitProg",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "InitProg",
+          "package": "terminfo-hs",
+          "partial": "Init Prog",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:InitProg"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "InitTabs",
+          "package": "terminfo-hs",
+          "signature": "InitTabs",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "InitTabs",
+          "package": "terminfo-hs",
+          "partial": "Init Tabs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:InitTabs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "InitializeColor",
+          "package": "terminfo-hs",
+          "signature": "InitializeColor",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "InitializeColor",
+          "package": "terminfo-hs",
+          "partial": "Initialize Color",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:InitializeColor"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "InitializePair",
+          "package": "terminfo-hs",
+          "signature": "InitializePair",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "InitializePair",
+          "package": "terminfo-hs",
+          "partial": "Initialize Pair",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:InitializePair"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "InsertCharacter",
+          "package": "terminfo-hs",
+          "signature": "InsertCharacter",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "InsertCharacter",
+          "package": "terminfo-hs",
+          "partial": "Insert Character",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:InsertCharacter"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "InsertLine",
+          "package": "terminfo-hs",
+          "signature": "InsertLine",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "InsertLine",
+          "package": "terminfo-hs",
+          "partial": "Insert Line",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:InsertLine"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "InsertNullGlitch",
+          "package": "terminfo-hs",
+          "signature": "InsertNullGlitch",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "InsertNullGlitch",
+          "package": "terminfo-hs",
+          "partial": "Insert Null Glitch",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:InsertNullGlitch"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "InsertPadding",
+          "package": "terminfo-hs",
+          "signature": "InsertPadding",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "InsertPadding",
+          "package": "terminfo-hs",
+          "partial": "Insert Padding",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:InsertPadding"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyA1",
+          "package": "terminfo-hs",
+          "signature": "KeyA1",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyA1",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyA1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyA3",
+          "package": "terminfo-hs",
+          "signature": "KeyA3",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyA3",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyA3"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyB2",
+          "package": "terminfo-hs",
+          "signature": "KeyB2",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyB2",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyB2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyBackspace",
+          "package": "terminfo-hs",
+          "signature": "KeyBackspace",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyBackspace",
+          "package": "terminfo-hs",
+          "partial": "Key Backspace",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyBackspace"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyBeg",
+          "package": "terminfo-hs",
+          "signature": "KeyBeg",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyBeg",
+          "package": "terminfo-hs",
+          "partial": "Key Beg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyBeg"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyBtab",
+          "package": "terminfo-hs",
+          "signature": "KeyBtab",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyBtab",
+          "package": "terminfo-hs",
+          "partial": "Key Btab",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyBtab"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyC1",
+          "package": "terminfo-hs",
+          "signature": "KeyC1",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyC1",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyC1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyC3",
+          "package": "terminfo-hs",
+          "signature": "KeyC3",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyC3",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyC3"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyCancel",
+          "package": "terminfo-hs",
+          "signature": "KeyCancel",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyCancel",
+          "package": "terminfo-hs",
+          "partial": "Key Cancel",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyCancel"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyCatab",
+          "package": "terminfo-hs",
+          "signature": "KeyCatab",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyCatab",
+          "package": "terminfo-hs",
+          "partial": "Key Catab",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyCatab"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyClear",
+          "package": "terminfo-hs",
+          "signature": "KeyClear",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyClear",
+          "package": "terminfo-hs",
+          "partial": "Key Clear",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyClear"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyClose",
+          "package": "terminfo-hs",
+          "signature": "KeyClose",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyClose",
+          "package": "terminfo-hs",
+          "partial": "Key Close",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyClose"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyCommand",
+          "package": "terminfo-hs",
+          "signature": "KeyCommand",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyCommand",
+          "package": "terminfo-hs",
+          "partial": "Key Command",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyCommand"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyCopy",
+          "package": "terminfo-hs",
+          "signature": "KeyCopy",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyCopy",
+          "package": "terminfo-hs",
+          "partial": "Key Copy",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyCopy"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyCreate",
+          "package": "terminfo-hs",
+          "signature": "KeyCreate",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyCreate",
+          "package": "terminfo-hs",
+          "partial": "Key Create",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyCreate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyCtab",
+          "package": "terminfo-hs",
+          "signature": "KeyCtab",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyCtab",
+          "package": "terminfo-hs",
+          "partial": "Key Ctab",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyCtab"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyDc",
+          "package": "terminfo-hs",
+          "signature": "KeyDc",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyDc",
+          "package": "terminfo-hs",
+          "partial": "Key Dc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyDc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyDl",
+          "package": "terminfo-hs",
+          "signature": "KeyDl",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyDl",
+          "package": "terminfo-hs",
+          "partial": "Key Dl",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyDl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyDown",
+          "package": "terminfo-hs",
+          "signature": "KeyDown",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyDown",
+          "package": "terminfo-hs",
+          "partial": "Key Down",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyDown"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyEic",
+          "package": "terminfo-hs",
+          "signature": "KeyEic",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyEic",
+          "package": "terminfo-hs",
+          "partial": "Key Eic",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyEic"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyEnd",
+          "package": "terminfo-hs",
+          "signature": "KeyEnd",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyEnd",
+          "package": "terminfo-hs",
+          "partial": "Key End",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyEnd"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyEnter",
+          "package": "terminfo-hs",
+          "signature": "KeyEnter",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyEnter",
+          "package": "terminfo-hs",
+          "partial": "Key Enter",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyEnter"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyEol",
+          "package": "terminfo-hs",
+          "signature": "KeyEol",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyEol",
+          "package": "terminfo-hs",
+          "partial": "Key Eol",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyEol"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyEos",
+          "package": "terminfo-hs",
+          "signature": "KeyEos",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyEos",
+          "package": "terminfo-hs",
+          "partial": "Key Eos",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyEos"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyExit",
+          "package": "terminfo-hs",
+          "signature": "KeyExit",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyExit",
+          "package": "terminfo-hs",
+          "partial": "Key Exit",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyExit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF0",
+          "package": "terminfo-hs",
+          "signature": "KeyF0",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF0",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF0"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF1",
+          "package": "terminfo-hs",
+          "signature": "KeyF1",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF1",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF10",
+          "package": "terminfo-hs",
+          "signature": "KeyF10",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF10",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF10"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF11",
+          "package": "terminfo-hs",
+          "signature": "KeyF11",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF11",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF11"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF12",
+          "package": "terminfo-hs",
+          "signature": "KeyF12",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF12",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF12"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF13",
+          "package": "terminfo-hs",
+          "signature": "KeyF13",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF13",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF13"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF14",
+          "package": "terminfo-hs",
+          "signature": "KeyF14",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF14",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF14"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF15",
+          "package": "terminfo-hs",
+          "signature": "KeyF15",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF15",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF15"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF16",
+          "package": "terminfo-hs",
+          "signature": "KeyF16",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF16",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF16"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF17",
+          "package": "terminfo-hs",
+          "signature": "KeyF17",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF17",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF17"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF18",
+          "package": "terminfo-hs",
+          "signature": "KeyF18",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF18",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF18"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF19",
+          "package": "terminfo-hs",
+          "signature": "KeyF19",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF19",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF19"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF2",
+          "package": "terminfo-hs",
+          "signature": "KeyF2",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF2",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF20",
+          "package": "terminfo-hs",
+          "signature": "KeyF20",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF20",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF20"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF21",
+          "package": "terminfo-hs",
+          "signature": "KeyF21",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF21",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF21"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF22",
+          "package": "terminfo-hs",
+          "signature": "KeyF22",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF22",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF22"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF23",
+          "package": "terminfo-hs",
+          "signature": "KeyF23",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF23",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF23"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF24",
+          "package": "terminfo-hs",
+          "signature": "KeyF24",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF24",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF24"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF25",
+          "package": "terminfo-hs",
+          "signature": "KeyF25",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF25",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF25"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF26",
+          "package": "terminfo-hs",
+          "signature": "KeyF26",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF26",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF26"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF27",
+          "package": "terminfo-hs",
+          "signature": "KeyF27",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF27",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF27"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF28",
+          "package": "terminfo-hs",
+          "signature": "KeyF28",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF28",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF28"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF29",
+          "package": "terminfo-hs",
+          "signature": "KeyF29",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF29",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF29"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF3",
+          "package": "terminfo-hs",
+          "signature": "KeyF3",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF3",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF3"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF30",
+          "package": "terminfo-hs",
+          "signature": "KeyF30",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF30",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF30"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF31",
+          "package": "terminfo-hs",
+          "signature": "KeyF31",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF31",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF31"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF32",
+          "package": "terminfo-hs",
+          "signature": "KeyF32",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF32",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF32"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF33",
+          "package": "terminfo-hs",
+          "signature": "KeyF33",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF33",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF33"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF34",
+          "package": "terminfo-hs",
+          "signature": "KeyF34",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF34",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF34"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF35",
+          "package": "terminfo-hs",
+          "signature": "KeyF35",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF35",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF35"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF36",
+          "package": "terminfo-hs",
+          "signature": "KeyF36",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF36",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF36"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF37",
+          "package": "terminfo-hs",
+          "signature": "KeyF37",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF37",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF37"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF38",
+          "package": "terminfo-hs",
+          "signature": "KeyF38",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF38",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF38"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF39",
+          "package": "terminfo-hs",
+          "signature": "KeyF39",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF39",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF39"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF4",
+          "package": "terminfo-hs",
+          "signature": "KeyF4",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF4",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF4"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF40",
+          "package": "terminfo-hs",
+          "signature": "KeyF40",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF40",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF40"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF41",
+          "package": "terminfo-hs",
+          "signature": "KeyF41",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF41",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF41"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF42",
+          "package": "terminfo-hs",
+          "signature": "KeyF42",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF42",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF42"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF43",
+          "package": "terminfo-hs",
+          "signature": "KeyF43",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF43",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF43"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF44",
+          "package": "terminfo-hs",
+          "signature": "KeyF44",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF44",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF44"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF45",
+          "package": "terminfo-hs",
+          "signature": "KeyF45",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF45",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF45"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF46",
+          "package": "terminfo-hs",
+          "signature": "KeyF46",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF46",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF46"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF47",
+          "package": "terminfo-hs",
+          "signature": "KeyF47",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF47",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF47"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF48",
+          "package": "terminfo-hs",
+          "signature": "KeyF48",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF48",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF48"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF49",
+          "package": "terminfo-hs",
+          "signature": "KeyF49",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF49",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF49"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF5",
+          "package": "terminfo-hs",
+          "signature": "KeyF5",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF5",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF5"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF50",
+          "package": "terminfo-hs",
+          "signature": "KeyF50",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF50",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF50"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF51",
+          "package": "terminfo-hs",
+          "signature": "KeyF51",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF51",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF51"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF52",
+          "package": "terminfo-hs",
+          "signature": "KeyF52",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF52",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF52"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF53",
+          "package": "terminfo-hs",
+          "signature": "KeyF53",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF53",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF53"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF54",
+          "package": "terminfo-hs",
+          "signature": "KeyF54",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF54",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF54"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF55",
+          "package": "terminfo-hs",
+          "signature": "KeyF55",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF55",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF55"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF56",
+          "package": "terminfo-hs",
+          "signature": "KeyF56",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF56",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF56"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF57",
+          "package": "terminfo-hs",
+          "signature": "KeyF57",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF57",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF57"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF58",
+          "package": "terminfo-hs",
+          "signature": "KeyF58",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF58",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF58"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF59",
+          "package": "terminfo-hs",
+          "signature": "KeyF59",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF59",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF59"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF6",
+          "package": "terminfo-hs",
+          "signature": "KeyF6",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF6",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF6"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF60",
+          "package": "terminfo-hs",
+          "signature": "KeyF60",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF60",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF60"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF61",
+          "package": "terminfo-hs",
+          "signature": "KeyF61",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF61",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF61"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF62",
+          "package": "terminfo-hs",
+          "signature": "KeyF62",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF62",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF62"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF63",
+          "package": "terminfo-hs",
+          "signature": "KeyF63",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF63",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF63"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF7",
+          "package": "terminfo-hs",
+          "signature": "KeyF7",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF7",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF7"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF8",
+          "package": "terminfo-hs",
+          "signature": "KeyF8",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF8",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF8"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF9",
+          "package": "terminfo-hs",
+          "signature": "KeyF9",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyF9",
+          "package": "terminfo-hs",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyF9"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyFind",
+          "package": "terminfo-hs",
+          "signature": "KeyFind",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyFind",
+          "package": "terminfo-hs",
+          "partial": "Key Find",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyFind"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyHelp",
+          "package": "terminfo-hs",
+          "signature": "KeyHelp",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyHelp",
+          "package": "terminfo-hs",
+          "partial": "Key Help",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyHelp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyHome",
+          "package": "terminfo-hs",
+          "signature": "KeyHome",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyHome",
+          "package": "terminfo-hs",
+          "partial": "Key Home",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyHome"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyIc",
+          "package": "terminfo-hs",
+          "signature": "KeyIc",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyIc",
+          "package": "terminfo-hs",
+          "partial": "Key Ic",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyIc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyIl",
+          "package": "terminfo-hs",
+          "signature": "KeyIl",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyIl",
+          "package": "terminfo-hs",
+          "partial": "Key Il",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyIl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyLeft",
+          "package": "terminfo-hs",
+          "signature": "KeyLeft",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyLeft",
+          "package": "terminfo-hs",
+          "partial": "Key Left",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyLeft"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyLl",
+          "package": "terminfo-hs",
+          "signature": "KeyLl",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyLl",
+          "package": "terminfo-hs",
+          "partial": "Key Ll",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyLl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyMark",
+          "package": "terminfo-hs",
+          "signature": "KeyMark",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyMark",
+          "package": "terminfo-hs",
+          "partial": "Key Mark",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyMark"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyMessage",
+          "package": "terminfo-hs",
+          "signature": "KeyMessage",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyMessage",
+          "package": "terminfo-hs",
+          "partial": "Key Message",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyMessage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyMouse",
+          "package": "terminfo-hs",
+          "signature": "KeyMouse",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyMouse",
+          "package": "terminfo-hs",
+          "partial": "Key Mouse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyMouse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyMove",
+          "package": "terminfo-hs",
+          "signature": "KeyMove",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyMove",
+          "package": "terminfo-hs",
+          "partial": "Key Move",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyMove"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyNext",
+          "package": "terminfo-hs",
+          "signature": "KeyNext",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyNext",
+          "package": "terminfo-hs",
+          "partial": "Key Next",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyNext"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyNpage",
+          "package": "terminfo-hs",
+          "signature": "KeyNpage",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyNpage",
+          "package": "terminfo-hs",
+          "partial": "Key Npage",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyNpage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyOpen",
+          "package": "terminfo-hs",
+          "signature": "KeyOpen",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyOpen",
+          "package": "terminfo-hs",
+          "partial": "Key Open",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyOpen"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyOptions",
+          "package": "terminfo-hs",
+          "signature": "KeyOptions",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyOptions",
+          "package": "terminfo-hs",
+          "partial": "Key Options",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyOptions"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyPpage",
+          "package": "terminfo-hs",
+          "signature": "KeyPpage",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyPpage",
+          "package": "terminfo-hs",
+          "partial": "Key Ppage",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyPpage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyPrevious",
+          "package": "terminfo-hs",
+          "signature": "KeyPrevious",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyPrevious",
+          "package": "terminfo-hs",
+          "partial": "Key Previous",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyPrevious"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyPrint",
+          "package": "terminfo-hs",
+          "signature": "KeyPrint",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyPrint",
+          "package": "terminfo-hs",
+          "partial": "Key Print",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyPrint"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyRedo",
+          "package": "terminfo-hs",
+          "signature": "KeyRedo",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyRedo",
+          "package": "terminfo-hs",
+          "partial": "Key Redo",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyRedo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyReference",
+          "package": "terminfo-hs",
+          "signature": "KeyReference",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyReference",
+          "package": "terminfo-hs",
+          "partial": "Key Reference",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyReference"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyRefresh",
+          "package": "terminfo-hs",
+          "signature": "KeyRefresh",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyRefresh",
+          "package": "terminfo-hs",
+          "partial": "Key Refresh",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyRefresh"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyReplace",
+          "package": "terminfo-hs",
+          "signature": "KeyReplace",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyReplace",
+          "package": "terminfo-hs",
+          "partial": "Key Replace",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyReplace"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyRestart",
+          "package": "terminfo-hs",
+          "signature": "KeyRestart",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyRestart",
+          "package": "terminfo-hs",
+          "partial": "Key Restart",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyRestart"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyResume",
+          "package": "terminfo-hs",
+          "signature": "KeyResume",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyResume",
+          "package": "terminfo-hs",
+          "partial": "Key Resume",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyResume"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyRight",
+          "package": "terminfo-hs",
+          "signature": "KeyRight",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyRight",
+          "package": "terminfo-hs",
+          "partial": "Key Right",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyRight"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeySave",
+          "package": "terminfo-hs",
+          "signature": "KeySave",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeySave",
+          "package": "terminfo-hs",
+          "partial": "Key Save",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySave"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeySbeg",
+          "package": "terminfo-hs",
+          "signature": "KeySbeg",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeySbeg",
+          "package": "terminfo-hs",
+          "partial": "Key Sbeg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySbeg"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyScancel",
+          "package": "terminfo-hs",
+          "signature": "KeyScancel",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyScancel",
+          "package": "terminfo-hs",
+          "partial": "Key Scancel",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyScancel"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyScommand",
+          "package": "terminfo-hs",
+          "signature": "KeyScommand",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyScommand",
+          "package": "terminfo-hs",
+          "partial": "Key Scommand",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyScommand"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyScopy",
+          "package": "terminfo-hs",
+          "signature": "KeyScopy",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyScopy",
+          "package": "terminfo-hs",
+          "partial": "Key Scopy",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyScopy"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyScreate",
+          "package": "terminfo-hs",
+          "signature": "KeyScreate",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyScreate",
+          "package": "terminfo-hs",
+          "partial": "Key Screate",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyScreate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeySdc",
+          "package": "terminfo-hs",
+          "signature": "KeySdc",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeySdc",
+          "package": "terminfo-hs",
+          "partial": "Key Sdc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySdc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeySdl",
+          "package": "terminfo-hs",
+          "signature": "KeySdl",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeySdl",
+          "package": "terminfo-hs",
+          "partial": "Key Sdl",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySdl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeySelect",
+          "package": "terminfo-hs",
+          "signature": "KeySelect",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeySelect",
+          "package": "terminfo-hs",
+          "partial": "Key Select",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySelect"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeySend",
+          "package": "terminfo-hs",
+          "signature": "KeySend",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeySend",
+          "package": "terminfo-hs",
+          "partial": "Key Send",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySend"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeySeol",
+          "package": "terminfo-hs",
+          "signature": "KeySeol",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeySeol",
+          "package": "terminfo-hs",
+          "partial": "Key Seol",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySeol"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeySexit",
+          "package": "terminfo-hs",
+          "signature": "KeySexit",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeySexit",
+          "package": "terminfo-hs",
+          "partial": "Key Sexit",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySexit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeySf",
+          "package": "terminfo-hs",
+          "signature": "KeySf",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeySf",
+          "package": "terminfo-hs",
+          "partial": "Key Sf",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySf"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeySfind",
+          "package": "terminfo-hs",
+          "signature": "KeySfind",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeySfind",
+          "package": "terminfo-hs",
+          "partial": "Key Sfind",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySfind"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyShelp",
+          "package": "terminfo-hs",
+          "signature": "KeyShelp",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyShelp",
+          "package": "terminfo-hs",
+          "partial": "Key Shelp",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyShelp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyShome",
+          "package": "terminfo-hs",
+          "signature": "KeyShome",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyShome",
+          "package": "terminfo-hs",
+          "partial": "Key Shome",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyShome"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeySic",
+          "package": "terminfo-hs",
+          "signature": "KeySic",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeySic",
+          "package": "terminfo-hs",
+          "partial": "Key Sic",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySic"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeySleft",
+          "package": "terminfo-hs",
+          "signature": "KeySleft",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeySleft",
+          "package": "terminfo-hs",
+          "partial": "Key Sleft",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySleft"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeySmessage",
+          "package": "terminfo-hs",
+          "signature": "KeySmessage",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeySmessage",
+          "package": "terminfo-hs",
+          "partial": "Key Smessage",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySmessage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeySmove",
+          "package": "terminfo-hs",
+          "signature": "KeySmove",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeySmove",
+          "package": "terminfo-hs",
+          "partial": "Key Smove",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySmove"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeySnext",
+          "package": "terminfo-hs",
+          "signature": "KeySnext",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeySnext",
+          "package": "terminfo-hs",
+          "partial": "Key Snext",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySnext"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeySoptions",
+          "package": "terminfo-hs",
+          "signature": "KeySoptions",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeySoptions",
+          "package": "terminfo-hs",
+          "partial": "Key Soptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySoptions"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeySprevious",
+          "package": "terminfo-hs",
+          "signature": "KeySprevious",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeySprevious",
+          "package": "terminfo-hs",
+          "partial": "Key Sprevious",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySprevious"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeySprint",
+          "package": "terminfo-hs",
+          "signature": "KeySprint",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeySprint",
+          "package": "terminfo-hs",
+          "partial": "Key Sprint",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySprint"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeySr",
+          "package": "terminfo-hs",
+          "signature": "KeySr",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeySr",
+          "package": "terminfo-hs",
+          "partial": "Key Sr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeySredo",
+          "package": "terminfo-hs",
+          "signature": "KeySredo",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeySredo",
+          "package": "terminfo-hs",
+          "partial": "Key Sredo",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySredo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeySreplace",
+          "package": "terminfo-hs",
+          "signature": "KeySreplace",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeySreplace",
+          "package": "terminfo-hs",
+          "partial": "Key Sreplace",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySreplace"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeySright",
+          "package": "terminfo-hs",
+          "signature": "KeySright",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeySright",
+          "package": "terminfo-hs",
+          "partial": "Key Sright",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySright"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeySrsume",
+          "package": "terminfo-hs",
+          "signature": "KeySrsume",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeySrsume",
+          "package": "terminfo-hs",
+          "partial": "Key Srsume",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySrsume"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeySsave",
+          "package": "terminfo-hs",
+          "signature": "KeySsave",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeySsave",
+          "package": "terminfo-hs",
+          "partial": "Key Ssave",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySsave"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeySsuspend",
+          "package": "terminfo-hs",
+          "signature": "KeySsuspend",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeySsuspend",
+          "package": "terminfo-hs",
+          "partial": "Key Ssuspend",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySsuspend"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyStab",
+          "package": "terminfo-hs",
+          "signature": "KeyStab",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyStab",
+          "package": "terminfo-hs",
+          "partial": "Key Stab",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyStab"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeySundo",
+          "package": "terminfo-hs",
+          "signature": "KeySundo",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeySundo",
+          "package": "terminfo-hs",
+          "partial": "Key Sundo",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySundo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeySuspend",
+          "package": "terminfo-hs",
+          "signature": "KeySuspend",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeySuspend",
+          "package": "terminfo-hs",
+          "partial": "Key Suspend",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeySuspend"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyUndo",
+          "package": "terminfo-hs",
+          "signature": "KeyUndo",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyUndo",
+          "package": "terminfo-hs",
+          "partial": "Key Undo",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyUndo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeyUp",
+          "package": "terminfo-hs",
+          "signature": "KeyUp",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeyUp",
+          "package": "terminfo-hs",
+          "partial": "Key Up",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeyUp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeypadLocal",
+          "package": "terminfo-hs",
+          "signature": "KeypadLocal",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeypadLocal",
+          "package": "terminfo-hs",
+          "partial": "Keypad Local",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeypadLocal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "KeypadXmit",
+          "package": "terminfo-hs",
+          "signature": "KeypadXmit",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "KeypadXmit",
+          "package": "terminfo-hs",
+          "partial": "Keypad Xmit",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:KeypadXmit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "LabF0",
+          "package": "terminfo-hs",
+          "signature": "LabF0",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "LabF0",
+          "package": "terminfo-hs",
+          "partial": "Lab",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabF0"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "LabF1",
+          "package": "terminfo-hs",
+          "signature": "LabF1",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "LabF1",
+          "package": "terminfo-hs",
+          "partial": "Lab",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabF1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "LabF10",
+          "package": "terminfo-hs",
+          "signature": "LabF10",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "LabF10",
+          "package": "terminfo-hs",
+          "partial": "Lab",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabF10"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "LabF2",
+          "package": "terminfo-hs",
+          "signature": "LabF2",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "LabF2",
+          "package": "terminfo-hs",
+          "partial": "Lab",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabF2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "LabF3",
+          "package": "terminfo-hs",
+          "signature": "LabF3",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "LabF3",
+          "package": "terminfo-hs",
+          "partial": "Lab",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabF3"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "LabF4",
+          "package": "terminfo-hs",
+          "signature": "LabF4",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "LabF4",
+          "package": "terminfo-hs",
+          "partial": "Lab",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabF4"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "LabF5",
+          "package": "terminfo-hs",
+          "signature": "LabF5",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "LabF5",
+          "package": "terminfo-hs",
+          "partial": "Lab",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabF5"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "LabF6",
+          "package": "terminfo-hs",
+          "signature": "LabF6",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "LabF6",
+          "package": "terminfo-hs",
+          "partial": "Lab",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabF6"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "LabF7",
+          "package": "terminfo-hs",
+          "signature": "LabF7",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "LabF7",
+          "package": "terminfo-hs",
+          "partial": "Lab",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabF7"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "LabF8",
+          "package": "terminfo-hs",
+          "signature": "LabF8",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "LabF8",
+          "package": "terminfo-hs",
+          "partial": "Lab",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabF8"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "LabF9",
+          "package": "terminfo-hs",
+          "signature": "LabF9",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "LabF9",
+          "package": "terminfo-hs",
+          "partial": "Lab",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabF9"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "LabelFormat",
+          "package": "terminfo-hs",
+          "signature": "LabelFormat",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "LabelFormat",
+          "package": "terminfo-hs",
+          "partial": "Label Format",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabelFormat"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "LabelHeight",
+          "package": "terminfo-hs",
+          "signature": "LabelHeight",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "LabelHeight",
+          "package": "terminfo-hs",
+          "partial": "Label Height",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabelHeight"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "LabelOff",
+          "package": "terminfo-hs",
+          "signature": "LabelOff",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "LabelOff",
+          "package": "terminfo-hs",
+          "partial": "Label Off",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabelOff"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "LabelOn",
+          "package": "terminfo-hs",
+          "signature": "LabelOn",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "LabelOn",
+          "package": "terminfo-hs",
+          "partial": "Label On",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabelOn"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "LabelWidth",
+          "package": "terminfo-hs",
+          "signature": "LabelWidth",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "LabelWidth",
+          "package": "terminfo-hs",
+          "partial": "Label Width",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LabelWidth"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "LinefeedIfNotLf",
+          "package": "terminfo-hs",
+          "signature": "LinefeedIfNotLf",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "LinefeedIfNotLf",
+          "package": "terminfo-hs",
+          "partial": "Linefeed If Not Lf",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LinefeedIfNotLf"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "LinefeedIsNewline",
+          "package": "terminfo-hs",
+          "signature": "LinefeedIsNewline",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "LinefeedIsNewline",
+          "package": "terminfo-hs",
+          "partial": "Linefeed Is Newline",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LinefeedIsNewline"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "Lines",
+          "package": "terminfo-hs",
+          "signature": "Lines",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "Lines",
+          "package": "terminfo-hs",
+          "partial": "Lines",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Lines"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "LinesOfMemory",
+          "package": "terminfo-hs",
+          "signature": "LinesOfMemory",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "LinesOfMemory",
+          "package": "terminfo-hs",
+          "partial": "Lines Of Memory",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LinesOfMemory"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "LpiChangesRes",
+          "package": "terminfo-hs",
+          "signature": "LpiChangesRes",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "LpiChangesRes",
+          "package": "terminfo-hs",
+          "partial": "Lpi Changes Res",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:LpiChangesRes"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "MagicCookieGlitch",
+          "package": "terminfo-hs",
+          "signature": "MagicCookieGlitch",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "MagicCookieGlitch",
+          "package": "terminfo-hs",
+          "partial": "Magic Cookie Glitch",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MagicCookieGlitch"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "MagicCookieGlitchUl",
+          "package": "terminfo-hs",
+          "signature": "MagicCookieGlitchUl",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "MagicCookieGlitchUl",
+          "package": "terminfo-hs",
+          "partial": "Magic Cookie Glitch Ul",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MagicCookieGlitchUl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "MaxAttributes",
+          "package": "terminfo-hs",
+          "signature": "MaxAttributes",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "MaxAttributes",
+          "package": "terminfo-hs",
+          "partial": "Max Attributes",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MaxAttributes"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "MaxColors",
+          "package": "terminfo-hs",
+          "signature": "MaxColors",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "MaxColors",
+          "package": "terminfo-hs",
+          "partial": "Max Colors",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MaxColors"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "MaxMicroAddress",
+          "package": "terminfo-hs",
+          "signature": "MaxMicroAddress",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "MaxMicroAddress",
+          "package": "terminfo-hs",
+          "partial": "Max Micro Address",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MaxMicroAddress"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "MaxMicroJump",
+          "package": "terminfo-hs",
+          "signature": "MaxMicroJump",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "MaxMicroJump",
+          "package": "terminfo-hs",
+          "partial": "Max Micro Jump",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MaxMicroJump"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "MaxPairs",
+          "package": "terminfo-hs",
+          "signature": "MaxPairs",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "MaxPairs",
+          "package": "terminfo-hs",
+          "partial": "Max Pairs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MaxPairs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "MaximumWindows",
+          "package": "terminfo-hs",
+          "signature": "MaximumWindows",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "MaximumWindows",
+          "package": "terminfo-hs",
+          "partial": "Maximum Windows",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MaximumWindows"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "MemoryAbove",
+          "package": "terminfo-hs",
+          "signature": "MemoryAbove",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "MemoryAbove",
+          "package": "terminfo-hs",
+          "partial": "Memory Above",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MemoryAbove"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "MemoryBelow",
+          "package": "terminfo-hs",
+          "signature": "MemoryBelow",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "MemoryBelow",
+          "package": "terminfo-hs",
+          "partial": "Memory Below",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MemoryBelow"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "MemoryLock",
+          "package": "terminfo-hs",
+          "signature": "MemoryLock",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "MemoryLock",
+          "package": "terminfo-hs",
+          "partial": "Memory Lock",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MemoryLock"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "MemoryUnlock",
+          "package": "terminfo-hs",
+          "signature": "MemoryUnlock",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "MemoryUnlock",
+          "package": "terminfo-hs",
+          "partial": "Memory Unlock",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MemoryUnlock"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "MetaOff",
+          "package": "terminfo-hs",
+          "signature": "MetaOff",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "MetaOff",
+          "package": "terminfo-hs",
+          "partial": "Meta Off",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MetaOff"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "MetaOn",
+          "package": "terminfo-hs",
+          "signature": "MetaOn",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "MetaOn",
+          "package": "terminfo-hs",
+          "partial": "Meta On",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MetaOn"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "MicroColSize",
+          "package": "terminfo-hs",
+          "signature": "MicroColSize",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "MicroColSize",
+          "package": "terminfo-hs",
+          "partial": "Micro Col Size",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MicroColSize"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "MicroColumnAddress",
+          "package": "terminfo-hs",
+          "signature": "MicroColumnAddress",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "MicroColumnAddress",
+          "package": "terminfo-hs",
+          "partial": "Micro Column Address",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MicroColumnAddress"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "MicroDown",
+          "package": "terminfo-hs",
+          "signature": "MicroDown",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "MicroDown",
+          "package": "terminfo-hs",
+          "partial": "Micro Down",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MicroDown"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "MicroLeft",
+          "package": "terminfo-hs",
+          "signature": "MicroLeft",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "MicroLeft",
+          "package": "terminfo-hs",
+          "partial": "Micro Left",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MicroLeft"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "MicroLineSize",
+          "package": "terminfo-hs",
+          "signature": "MicroLineSize",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "MicroLineSize",
+          "package": "terminfo-hs",
+          "partial": "Micro Line Size",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MicroLineSize"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "MicroRight",
+          "package": "terminfo-hs",
+          "signature": "MicroRight",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "MicroRight",
+          "package": "terminfo-hs",
+          "partial": "Micro Right",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MicroRight"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "MicroRowAddress",
+          "package": "terminfo-hs",
+          "signature": "MicroRowAddress",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "MicroRowAddress",
+          "package": "terminfo-hs",
+          "partial": "Micro Row Address",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MicroRowAddress"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "MicroUp",
+          "package": "terminfo-hs",
+          "signature": "MicroUp",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "MicroUp",
+          "package": "terminfo-hs",
+          "partial": "Micro Up",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MicroUp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "MouseInfo",
+          "package": "terminfo-hs",
+          "signature": "MouseInfo",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "MouseInfo",
+          "package": "terminfo-hs",
+          "partial": "Mouse Info",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MouseInfo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "MoveInsertMode",
+          "package": "terminfo-hs",
+          "signature": "MoveInsertMode",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "MoveInsertMode",
+          "package": "terminfo-hs",
+          "partial": "Move Insert Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MoveInsertMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "MoveStandoutMode",
+          "package": "terminfo-hs",
+          "signature": "MoveStandoutMode",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "MoveStandoutMode",
+          "package": "terminfo-hs",
+          "partial": "Move Standout Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:MoveStandoutMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "NeedsXonXoff",
+          "package": "terminfo-hs",
+          "signature": "NeedsXonXoff",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "NeedsXonXoff",
+          "package": "terminfo-hs",
+          "partial": "Needs Xon Xoff",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:NeedsXonXoff"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "NewLineDelay",
+          "package": "terminfo-hs",
+          "signature": "NewLineDelay",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "NewLineDelay",
+          "package": "terminfo-hs",
+          "partial": "New Line Delay",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:NewLineDelay"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "Newline",
+          "package": "terminfo-hs",
+          "signature": "Newline",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "Newline",
+          "package": "terminfo-hs",
+          "partial": "Newline",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Newline"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "NoColorVideo",
+          "package": "terminfo-hs",
+          "signature": "NoColorVideo",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "NoColorVideo",
+          "package": "terminfo-hs",
+          "partial": "No Color Video",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:NoColorVideo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "NoCorrectlyWorkingCr",
+          "package": "terminfo-hs",
+          "signature": "NoCorrectlyWorkingCr",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "NoCorrectlyWorkingCr",
+          "package": "terminfo-hs",
+          "partial": "No Correctly Working Cr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:NoCorrectlyWorkingCr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "NoEscCtlc",
+          "package": "terminfo-hs",
+          "signature": "NoEscCtlc",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "NoEscCtlc",
+          "package": "terminfo-hs",
+          "partial": "No Esc Ctlc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:NoEscCtlc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "NoPadChar",
+          "package": "terminfo-hs",
+          "signature": "NoPadChar",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "NoPadChar",
+          "package": "terminfo-hs",
+          "partial": "No Pad Char",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:NoPadChar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "NonDestScrollRegion",
+          "package": "terminfo-hs",
+          "signature": "NonDestScrollRegion",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "NonDestScrollRegion",
+          "package": "terminfo-hs",
+          "partial": "Non Dest Scroll Region",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:NonDestScrollRegion"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "NonRevRmcup",
+          "package": "terminfo-hs",
+          "signature": "NonRevRmcup",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "NonRevRmcup",
+          "package": "terminfo-hs",
+          "partial": "Non Rev Rmcup",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:NonRevRmcup"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "NumLabels",
+          "package": "terminfo-hs",
+          "signature": "NumLabels",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "NumLabels",
+          "package": "terminfo-hs",
+          "partial": "Num Labels",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:NumLabels"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "NumberOfFunctionKeys",
+          "package": "terminfo-hs",
+          "signature": "NumberOfFunctionKeys",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "NumberOfFunctionKeys",
+          "package": "terminfo-hs",
+          "partial": "Number Of Function Keys",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:NumberOfFunctionKeys"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "NumberOfPins",
+          "package": "terminfo-hs",
+          "signature": "NumberOfPins",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "NumberOfPins",
+          "package": "terminfo-hs",
+          "partial": "Number Of Pins",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:NumberOfPins"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "OrderOfPins",
+          "package": "terminfo-hs",
+          "signature": "OrderOfPins",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "OrderOfPins",
+          "package": "terminfo-hs",
+          "partial": "Order Of Pins",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:OrderOfPins"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "OrigColors",
+          "package": "terminfo-hs",
+          "signature": "OrigColors",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "OrigColors",
+          "package": "terminfo-hs",
+          "partial": "Orig Colors",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:OrigColors"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "OrigPair",
+          "package": "terminfo-hs",
+          "signature": "OrigPair",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "OrigPair",
+          "package": "terminfo-hs",
+          "partial": "Orig Pair",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:OrigPair"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "OtherNonFunctionKeys",
+          "package": "terminfo-hs",
+          "signature": "OtherNonFunctionKeys",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "OtherNonFunctionKeys",
+          "package": "terminfo-hs",
+          "partial": "Other Non Function Keys",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:OtherNonFunctionKeys"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "OutputResChar",
+          "package": "terminfo-hs",
+          "signature": "OutputResChar",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "OutputResChar",
+          "package": "terminfo-hs",
+          "partial": "Output Res Char",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:OutputResChar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "OutputResHorzInch",
+          "package": "terminfo-hs",
+          "signature": "OutputResHorzInch",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "OutputResHorzInch",
+          "package": "terminfo-hs",
+          "partial": "Output Res Horz Inch",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:OutputResHorzInch"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "OutputResLine",
+          "package": "terminfo-hs",
+          "signature": "OutputResLine",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "OutputResLine",
+          "package": "terminfo-hs",
+          "partial": "Output Res Line",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:OutputResLine"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "OutputResVertInch",
+          "package": "terminfo-hs",
+          "signature": "OutputResVertInch",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "OutputResVertInch",
+          "package": "terminfo-hs",
+          "partial": "Output Res Vert Inch",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:OutputResVertInch"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "OverStrike",
+          "package": "terminfo-hs",
+          "signature": "OverStrike",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "OverStrike",
+          "package": "terminfo-hs",
+          "partial": "Over Strike",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:OverStrike"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "PadChar",
+          "package": "terminfo-hs",
+          "signature": "PadChar",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "PadChar",
+          "package": "terminfo-hs",
+          "partial": "Pad Char",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:PadChar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "PaddingBaudRate",
+          "package": "terminfo-hs",
+          "signature": "PaddingBaudRate",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "PaddingBaudRate",
+          "package": "terminfo-hs",
+          "partial": "Padding Baud Rate",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:PaddingBaudRate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ParmDch",
+          "package": "terminfo-hs",
+          "signature": "ParmDch",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ParmDch",
+          "package": "terminfo-hs",
+          "partial": "Parm Dch",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ParmDch"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ParmDeleteLine",
+          "package": "terminfo-hs",
+          "signature": "ParmDeleteLine",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ParmDeleteLine",
+          "package": "terminfo-hs",
+          "partial": "Parm Delete Line",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ParmDeleteLine"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ParmDownCursor",
+          "package": "terminfo-hs",
+          "signature": "ParmDownCursor",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ParmDownCursor",
+          "package": "terminfo-hs",
+          "partial": "Parm Down Cursor",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ParmDownCursor"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ParmDownMicro",
+          "package": "terminfo-hs",
+          "signature": "ParmDownMicro",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ParmDownMicro",
+          "package": "terminfo-hs",
+          "partial": "Parm Down Micro",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ParmDownMicro"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ParmIch",
+          "package": "terminfo-hs",
+          "signature": "ParmIch",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ParmIch",
+          "package": "terminfo-hs",
+          "partial": "Parm Ich",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ParmIch"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ParmIndex",
+          "package": "terminfo-hs",
+          "signature": "ParmIndex",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ParmIndex",
+          "package": "terminfo-hs",
+          "partial": "Parm Index",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ParmIndex"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ParmInsertLine",
+          "package": "terminfo-hs",
+          "signature": "ParmInsertLine",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ParmInsertLine",
+          "package": "terminfo-hs",
+          "partial": "Parm Insert Line",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ParmInsertLine"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ParmLeftCursor",
+          "package": "terminfo-hs",
+          "signature": "ParmLeftCursor",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ParmLeftCursor",
+          "package": "terminfo-hs",
+          "partial": "Parm Left Cursor",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ParmLeftCursor"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ParmLeftMicro",
+          "package": "terminfo-hs",
+          "signature": "ParmLeftMicro",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ParmLeftMicro",
+          "package": "terminfo-hs",
+          "partial": "Parm Left Micro",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ParmLeftMicro"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ParmRightCursor",
+          "package": "terminfo-hs",
+          "signature": "ParmRightCursor",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ParmRightCursor",
+          "package": "terminfo-hs",
+          "partial": "Parm Right Cursor",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ParmRightCursor"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ParmRightMicro",
+          "package": "terminfo-hs",
+          "signature": "ParmRightMicro",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ParmRightMicro",
+          "package": "terminfo-hs",
+          "partial": "Parm Right Micro",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ParmRightMicro"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ParmRindex",
+          "package": "terminfo-hs",
+          "signature": "ParmRindex",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ParmRindex",
+          "package": "terminfo-hs",
+          "partial": "Parm Rindex",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ParmRindex"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ParmUpCursor",
+          "package": "terminfo-hs",
+          "signature": "ParmUpCursor",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ParmUpCursor",
+          "package": "terminfo-hs",
+          "partial": "Parm Up Cursor",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ParmUpCursor"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ParmUpMicro",
+          "package": "terminfo-hs",
+          "signature": "ParmUpMicro",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ParmUpMicro",
+          "package": "terminfo-hs",
+          "partial": "Parm Up Micro",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ParmUpMicro"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "PcTermOptions",
+          "package": "terminfo-hs",
+          "signature": "PcTermOptions",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "PcTermOptions",
+          "package": "terminfo-hs",
+          "partial": "Pc Term Options",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:PcTermOptions"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "PkeyKey",
+          "package": "terminfo-hs",
+          "signature": "PkeyKey",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "PkeyKey",
+          "package": "terminfo-hs",
+          "partial": "Pkey Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:PkeyKey"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "PkeyLocal",
+          "package": "terminfo-hs",
+          "signature": "PkeyLocal",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "PkeyLocal",
+          "package": "terminfo-hs",
+          "partial": "Pkey Local",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:PkeyLocal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "PkeyPlab",
+          "package": "terminfo-hs",
+          "signature": "PkeyPlab",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "PkeyPlab",
+          "package": "terminfo-hs",
+          "partial": "Pkey Plab",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:PkeyPlab"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "PkeyXmit",
+          "package": "terminfo-hs",
+          "signature": "PkeyXmit",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "PkeyXmit",
+          "package": "terminfo-hs",
+          "partial": "Pkey Xmit",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:PkeyXmit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "PlabNorm",
+          "package": "terminfo-hs",
+          "signature": "PlabNorm",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "PlabNorm",
+          "package": "terminfo-hs",
+          "partial": "Plab Norm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:PlabNorm"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "PrintRate",
+          "package": "terminfo-hs",
+          "signature": "PrintRate",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "PrintRate",
+          "package": "terminfo-hs",
+          "partial": "Print Rate",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:PrintRate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "PrintScreen",
+          "package": "terminfo-hs",
+          "signature": "PrintScreen",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "PrintScreen",
+          "package": "terminfo-hs",
+          "partial": "Print Screen",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:PrintScreen"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "PrtrNon",
+          "package": "terminfo-hs",
+          "signature": "PrtrNon",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "PrtrNon",
+          "package": "terminfo-hs",
+          "partial": "Prtr Non",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:PrtrNon"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "PrtrOff",
+          "package": "terminfo-hs",
+          "signature": "PrtrOff",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "PrtrOff",
+          "package": "terminfo-hs",
+          "partial": "Prtr Off",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:PrtrOff"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "PrtrOn",
+          "package": "terminfo-hs",
+          "signature": "PrtrOn",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "PrtrOn",
+          "package": "terminfo-hs",
+          "partial": "Prtr On",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:PrtrOn"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "PrtrSilent",
+          "package": "terminfo-hs",
+          "signature": "PrtrSilent",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "PrtrSilent",
+          "package": "terminfo-hs",
+          "partial": "Prtr Silent",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:PrtrSilent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "Pulse",
+          "package": "terminfo-hs",
+          "signature": "Pulse",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "Pulse",
+          "package": "terminfo-hs",
+          "partial": "Pulse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Pulse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "QuickDial",
+          "package": "terminfo-hs",
+          "signature": "QuickDial",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "QuickDial",
+          "package": "terminfo-hs",
+          "partial": "Quick Dial",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:QuickDial"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "RemoveClock",
+          "package": "terminfo-hs",
+          "signature": "RemoveClock",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "RemoveClock",
+          "package": "terminfo-hs",
+          "partial": "Remove Clock",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:RemoveClock"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "RepeatChar",
+          "package": "terminfo-hs",
+          "signature": "RepeatChar",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "RepeatChar",
+          "package": "terminfo-hs",
+          "partial": "Repeat Char",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:RepeatChar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ReqForInput",
+          "package": "terminfo-hs",
+          "signature": "ReqForInput",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ReqForInput",
+          "package": "terminfo-hs",
+          "partial": "Req For Input",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ReqForInput"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ReqMousePos",
+          "package": "terminfo-hs",
+          "signature": "ReqMousePos",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ReqMousePos",
+          "package": "terminfo-hs",
+          "partial": "Req Mouse Pos",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ReqMousePos"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "Reset1string",
+          "package": "terminfo-hs",
+          "signature": "Reset1string",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "Reset1string",
+          "package": "terminfo-hs",
+          "partial": "Reset",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Reset1string"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "Reset2string",
+          "package": "terminfo-hs",
+          "signature": "Reset2string",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "Reset2string",
+          "package": "terminfo-hs",
+          "partial": "Reset",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Reset2string"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "Reset3string",
+          "package": "terminfo-hs",
+          "signature": "Reset3string",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "Reset3string",
+          "package": "terminfo-hs",
+          "partial": "Reset",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Reset3string"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ResetFile",
+          "package": "terminfo-hs",
+          "signature": "ResetFile",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ResetFile",
+          "package": "terminfo-hs",
+          "partial": "Reset File",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ResetFile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "RestoreCursor",
+          "package": "terminfo-hs",
+          "signature": "RestoreCursor",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "RestoreCursor",
+          "package": "terminfo-hs",
+          "partial": "Restore Cursor",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:RestoreCursor"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ReturnDoesClrEol",
+          "package": "terminfo-hs",
+          "signature": "ReturnDoesClrEol",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ReturnDoesClrEol",
+          "package": "terminfo-hs",
+          "partial": "Return Does Clr Eol",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ReturnDoesClrEol"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "RowAddrGlitch",
+          "package": "terminfo-hs",
+          "signature": "RowAddrGlitch",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "RowAddrGlitch",
+          "package": "terminfo-hs",
+          "partial": "Row Addr Glitch",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:RowAddrGlitch"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "RowAddress",
+          "package": "terminfo-hs",
+          "signature": "RowAddress",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "RowAddress",
+          "package": "terminfo-hs",
+          "partial": "Row Address",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:RowAddress"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "SaveCursor",
+          "package": "terminfo-hs",
+          "signature": "SaveCursor",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "SaveCursor",
+          "package": "terminfo-hs",
+          "partial": "Save Cursor",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SaveCursor"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ScancodeEscape",
+          "package": "terminfo-hs",
+          "signature": "ScancodeEscape",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ScancodeEscape",
+          "package": "terminfo-hs",
+          "partial": "Scancode Escape",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ScancodeEscape"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ScrollForward",
+          "package": "terminfo-hs",
+          "signature": "ScrollForward",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ScrollForward",
+          "package": "terminfo-hs",
+          "partial": "Scroll Forward",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ScrollForward"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ScrollReverse",
+          "package": "terminfo-hs",
+          "signature": "ScrollReverse",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ScrollReverse",
+          "package": "terminfo-hs",
+          "partial": "Scroll Reverse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ScrollReverse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "SelectCharSet",
+          "package": "terminfo-hs",
+          "signature": "SelectCharSet",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "SelectCharSet",
+          "package": "terminfo-hs",
+          "partial": "Select Char Set",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SelectCharSet"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "SemiAutoRightMargin",
+          "package": "terminfo-hs",
+          "signature": "SemiAutoRightMargin",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "SemiAutoRightMargin",
+          "package": "terminfo-hs",
+          "partial": "Semi Auto Right Margin",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SemiAutoRightMargin"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "Set0DesSeq",
+          "package": "terminfo-hs",
+          "signature": "Set0DesSeq",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "Set0DesSeq",
+          "package": "terminfo-hs",
+          "partial": "Set Des Seq",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Set0DesSeq"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "Set1DesSeq",
+          "package": "terminfo-hs",
+          "signature": "Set1DesSeq",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "Set1DesSeq",
+          "package": "terminfo-hs",
+          "partial": "Set Des Seq",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Set1DesSeq"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "Set2DesSeq",
+          "package": "terminfo-hs",
+          "signature": "Set2DesSeq",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "Set2DesSeq",
+          "package": "terminfo-hs",
+          "partial": "Set Des Seq",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Set2DesSeq"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "Set3DesSeq",
+          "package": "terminfo-hs",
+          "signature": "Set3DesSeq",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "Set3DesSeq",
+          "package": "terminfo-hs",
+          "partial": "Set Des Seq",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Set3DesSeq"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "SetAAttributes",
+          "package": "terminfo-hs",
+          "signature": "SetAAttributes",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "SetAAttributes",
+          "package": "terminfo-hs",
+          "partial": "Set AAttributes",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetAAttributes"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "SetABackground",
+          "package": "terminfo-hs",
+          "signature": "SetABackground",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "SetABackground",
+          "package": "terminfo-hs",
+          "partial": "Set ABackground",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetABackground"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "SetAForeground",
+          "package": "terminfo-hs",
+          "signature": "SetAForeground",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "SetAForeground",
+          "package": "terminfo-hs",
+          "partial": "Set AForeground",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetAForeground"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "SetAttributes",
+          "package": "terminfo-hs",
+          "signature": "SetAttributes",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "SetAttributes",
+          "package": "terminfo-hs",
+          "partial": "Set Attributes",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetAttributes"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "SetBackground",
+          "package": "terminfo-hs",
+          "signature": "SetBackground",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "SetBackground",
+          "package": "terminfo-hs",
+          "partial": "Set Background",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetBackground"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "SetBottomMargin",
+          "package": "terminfo-hs",
+          "signature": "SetBottomMargin",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "SetBottomMargin",
+          "package": "terminfo-hs",
+          "partial": "Set Bottom Margin",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetBottomMargin"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "SetBottomMarginParm",
+          "package": "terminfo-hs",
+          "signature": "SetBottomMarginParm",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "SetBottomMarginParm",
+          "package": "terminfo-hs",
+          "partial": "Set Bottom Margin Parm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetBottomMarginParm"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "SetClock",
+          "package": "terminfo-hs",
+          "signature": "SetClock",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "SetClock",
+          "package": "terminfo-hs",
+          "partial": "Set Clock",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetClock"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "SetColorBand",
+          "package": "terminfo-hs",
+          "signature": "SetColorBand",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "SetColorBand",
+          "package": "terminfo-hs",
+          "partial": "Set Color Band",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetColorBand"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "SetColorPair",
+          "package": "terminfo-hs",
+          "signature": "SetColorPair",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "SetColorPair",
+          "package": "terminfo-hs",
+          "partial": "Set Color Pair",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetColorPair"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "SetForeground",
+          "package": "terminfo-hs",
+          "signature": "SetForeground",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "SetForeground",
+          "package": "terminfo-hs",
+          "partial": "Set Foreground",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetForeground"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "SetLeftMargin",
+          "package": "terminfo-hs",
+          "signature": "SetLeftMargin",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "SetLeftMargin",
+          "package": "terminfo-hs",
+          "partial": "Set Left Margin",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetLeftMargin"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "SetLeftMarginParm",
+          "package": "terminfo-hs",
+          "signature": "SetLeftMarginParm",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "SetLeftMarginParm",
+          "package": "terminfo-hs",
+          "partial": "Set Left Margin Parm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetLeftMarginParm"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "SetLrMargin",
+          "package": "terminfo-hs",
+          "signature": "SetLrMargin",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "SetLrMargin",
+          "package": "terminfo-hs",
+          "partial": "Set Lr Margin",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetLrMargin"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "SetPageLength",
+          "package": "terminfo-hs",
+          "signature": "SetPageLength",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "SetPageLength",
+          "package": "terminfo-hs",
+          "partial": "Set Page Length",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetPageLength"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "SetPglenInch",
+          "package": "terminfo-hs",
+          "signature": "SetPglenInch",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "SetPglenInch",
+          "package": "terminfo-hs",
+          "partial": "Set Pglen Inch",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetPglenInch"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "SetRightMargin",
+          "package": "terminfo-hs",
+          "signature": "SetRightMargin",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "SetRightMargin",
+          "package": "terminfo-hs",
+          "partial": "Set Right Margin",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetRightMargin"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "SetRightMarginParm",
+          "package": "terminfo-hs",
+          "signature": "SetRightMarginParm",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "SetRightMarginParm",
+          "package": "terminfo-hs",
+          "partial": "Set Right Margin Parm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetRightMarginParm"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "SetTab",
+          "package": "terminfo-hs",
+          "signature": "SetTab",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "SetTab",
+          "package": "terminfo-hs",
+          "partial": "Set Tab",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetTab"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "SetTbMargin",
+          "package": "terminfo-hs",
+          "signature": "SetTbMargin",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "SetTbMargin",
+          "package": "terminfo-hs",
+          "partial": "Set Tb Margin",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetTbMargin"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "SetTopMargin",
+          "package": "terminfo-hs",
+          "signature": "SetTopMargin",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "SetTopMargin",
+          "package": "terminfo-hs",
+          "partial": "Set Top Margin",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetTopMargin"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "SetTopMarginParm",
+          "package": "terminfo-hs",
+          "signature": "SetTopMarginParm",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "SetTopMarginParm",
+          "package": "terminfo-hs",
+          "partial": "Set Top Margin Parm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetTopMarginParm"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "SetWindow",
+          "package": "terminfo-hs",
+          "signature": "SetWindow",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "SetWindow",
+          "package": "terminfo-hs",
+          "partial": "Set Window",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SetWindow"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "StartBitImage",
+          "package": "terminfo-hs",
+          "signature": "StartBitImage",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "StartBitImage",
+          "package": "terminfo-hs",
+          "partial": "Start Bit Image",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:StartBitImage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "StartCharSetDef",
+          "package": "terminfo-hs",
+          "signature": "StartCharSetDef",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "StartCharSetDef",
+          "package": "terminfo-hs",
+          "partial": "Start Char Set Def",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:StartCharSetDef"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "StatusLineEscOk",
+          "package": "terminfo-hs",
+          "signature": "StatusLineEscOk",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "StatusLineEscOk",
+          "package": "terminfo-hs",
+          "partial": "Status Line Esc Ok",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:StatusLineEscOk"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "StopBitImage",
+          "package": "terminfo-hs",
+          "signature": "StopBitImage",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "StopBitImage",
+          "package": "terminfo-hs",
+          "partial": "Stop Bit Image",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:StopBitImage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "StopCharSetDef",
+          "package": "terminfo-hs",
+          "signature": "StopCharSetDef",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "StopCharSetDef",
+          "package": "terminfo-hs",
+          "partial": "Stop Char Set Def",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:StopCharSetDef"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "SubscriptCharacters",
+          "package": "terminfo-hs",
+          "signature": "SubscriptCharacters",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "SubscriptCharacters",
+          "package": "terminfo-hs",
+          "partial": "Subscript Characters",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SubscriptCharacters"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "SuperscriptCharacters",
+          "package": "terminfo-hs",
+          "signature": "SuperscriptCharacters",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "SuperscriptCharacters",
+          "package": "terminfo-hs",
+          "partial": "Superscript Characters",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:SuperscriptCharacters"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "Tab",
+          "package": "terminfo-hs",
+          "signature": "Tab",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "Tab",
+          "package": "terminfo-hs",
+          "partial": "Tab",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Tab"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "TermcapInit2",
+          "package": "terminfo-hs",
+          "signature": "TermcapInit2",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "TermcapInit2",
+          "package": "terminfo-hs",
+          "partial": "Termcap Init",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:TermcapInit2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "TermcapReset",
+          "package": "terminfo-hs",
+          "signature": "TermcapReset",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "TermcapReset",
+          "package": "terminfo-hs",
+          "partial": "Termcap Reset",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:TermcapReset"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "TheseCauseCr",
+          "package": "terminfo-hs",
+          "signature": "TheseCauseCr",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "TheseCauseCr",
+          "package": "terminfo-hs",
+          "partial": "These Cause Cr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:TheseCauseCr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "TildeGlitch",
+          "package": "terminfo-hs",
+          "signature": "TildeGlitch",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "TildeGlitch",
+          "package": "terminfo-hs",
+          "partial": "Tilde Glitch",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:TildeGlitch"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ToStatusLine",
+          "package": "terminfo-hs",
+          "signature": "ToStatusLine",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ToStatusLine",
+          "package": "terminfo-hs",
+          "partial": "To Status Line",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ToStatusLine"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "Tone",
+          "package": "terminfo-hs",
+          "signature": "Tone",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "Tone",
+          "package": "terminfo-hs",
+          "partial": "Tone",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:Tone"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "TransparentUnderline",
+          "package": "terminfo-hs",
+          "signature": "TransparentUnderline",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "TransparentUnderline",
+          "package": "terminfo-hs",
+          "partial": "Transparent Underline",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:TransparentUnderline"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "UnderlineChar",
+          "package": "terminfo-hs",
+          "signature": "UnderlineChar",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "UnderlineChar",
+          "package": "terminfo-hs",
+          "partial": "Underline Char",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:UnderlineChar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "UpHalfLine",
+          "package": "terminfo-hs",
+          "signature": "UpHalfLine",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "UpHalfLine",
+          "package": "terminfo-hs",
+          "partial": "Up Half Line",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:UpHalfLine"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "User0",
+          "package": "terminfo-hs",
+          "signature": "User0",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "User0",
+          "package": "terminfo-hs",
+          "partial": "User",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:User0"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "User1",
+          "package": "terminfo-hs",
+          "signature": "User1",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "User1",
+          "package": "terminfo-hs",
+          "partial": "User",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:User1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "User2",
+          "package": "terminfo-hs",
+          "signature": "User2",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "User2",
+          "package": "terminfo-hs",
+          "partial": "User",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:User2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "User3",
+          "package": "terminfo-hs",
+          "signature": "User3",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "User3",
+          "package": "terminfo-hs",
+          "partial": "User",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:User3"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "User4",
+          "package": "terminfo-hs",
+          "signature": "User4",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "User4",
+          "package": "terminfo-hs",
+          "partial": "User",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:User4"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "User5",
+          "package": "terminfo-hs",
+          "signature": "User5",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "User5",
+          "package": "terminfo-hs",
+          "partial": "User",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:User5"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "User6",
+          "package": "terminfo-hs",
+          "signature": "User6",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "User6",
+          "package": "terminfo-hs",
+          "partial": "User",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:User6"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "User7",
+          "package": "terminfo-hs",
+          "signature": "User7",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "User7",
+          "package": "terminfo-hs",
+          "partial": "User",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:User7"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "User8",
+          "package": "terminfo-hs",
+          "signature": "User8",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "User8",
+          "package": "terminfo-hs",
+          "partial": "User",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:User8"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "User9",
+          "package": "terminfo-hs",
+          "signature": "User9",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "User9",
+          "package": "terminfo-hs",
+          "partial": "User",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:User9"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "VirtualTerminal",
+          "package": "terminfo-hs",
+          "signature": "VirtualTerminal",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "VirtualTerminal",
+          "package": "terminfo-hs",
+          "partial": "Virtual Terminal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:VirtualTerminal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "WaitTone",
+          "package": "terminfo-hs",
+          "signature": "WaitTone",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "WaitTone",
+          "package": "terminfo-hs",
+          "partial": "Wait Tone",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:WaitTone"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "WideCharSize",
+          "package": "terminfo-hs",
+          "signature": "WideCharSize",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "WideCharSize",
+          "package": "terminfo-hs",
+          "partial": "Wide Char Size",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:WideCharSize"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "WidthStatusLine",
+          "package": "terminfo-hs",
+          "signature": "WidthStatusLine",
+          "source": "src/System-Terminfo-Caps.html#NumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "WidthStatusLine",
+          "package": "terminfo-hs",
+          "partial": "Width Status Line",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:WidthStatusLine"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "XoffCharacter",
+          "package": "terminfo-hs",
+          "signature": "XoffCharacter",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "XoffCharacter",
+          "package": "terminfo-hs",
+          "partial": "Xoff Character",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:XoffCharacter"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "XonCharacter",
+          "package": "terminfo-hs",
+          "signature": "XonCharacter",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "XonCharacter",
+          "package": "terminfo-hs",
+          "partial": "Xon Character",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:XonCharacter"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "XonXoff",
+          "package": "terminfo-hs",
+          "signature": "XonXoff",
+          "source": "src/System-Terminfo-Caps.html#BoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "XonXoff",
+          "package": "terminfo-hs",
+          "partial": "Xon Xoff",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:XonXoff"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo.Caps",
+          "name": "ZeroMotion",
+          "package": "terminfo-hs",
+          "signature": "ZeroMotion",
+          "source": "src/System-Terminfo-Caps.html#StrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo Caps",
+          "module": "System.Terminfo.Caps",
+          "name": "ZeroMotion",
+          "package": "terminfo-hs",
+          "partial": "Zero Motion",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo-Caps.html#v:ZeroMotion"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eThis is a pure-Haskell (no FFI) module for accessing terminfo databases,\n which contain characteristics, or capabilities, for the various\n terminals such as screen, vt100, or xterm. Among other things, the\n capabilities include the idiosyncratic character sequences needed to\n send commands to the terminal. These commands include things like cursor\n movement.\n\u003c/p\u003e\u003cp\u003eFor a deeper understanding of terminfo, consult the man pages for\n term(5) and terminfo(5).\n\u003c/p\u003e\u003cp\u003eThere are three parts to this module: acquiring a terminfo database,\n querying the database, and defining the capabilities.\n\u003c/p\u003e\u003cp\u003eThis module is dead simple, so a single example will hopefully suffice\n to demonstrate its usage.\n\u003c/p\u003e\u003cpre\u003e\n import System.Terminfo\n import System.Terminfo.Caps as C\n uglyExample :: IO (Maybe Int)\n uglyExample = do\n     term \u003c- fromJust \u003c$\u003e lookupEnv \"TERM\"\n     db \u003c- \u003ccode\u003e\u003ca\u003eacquireDatabase\u003c/a\u003e\u003c/code\u003e term\n     let maxColors (Right d) = \u003ccode\u003e\u003ca\u003equeryNumTermCap\u003c/a\u003e\u003c/code\u003e d C.\u003ccode\u003e\u003ca\u003eMaxColors\u003c/a\u003e\u003c/code\u003e\n     return $ maxColors db\n\u003c/pre\u003e\u003cpre class=\"screen\"\u003e\u003ccode class=\"prompt\"\u003e\u003e\u003e\u003e \u003c/code\u003e\u003cstrong class=\"userinput\"\u003e\u003ccode\u003euglyExample\n\u003c/code\u003e\u003c/strong\u003eJust 256\n\u003c/pre\u003e\u003c/div\u003e",
+          "module": "System.Terminfo",
+          "name": "Terminfo",
+          "package": "terminfo-hs",
+          "source": "src/System-Terminfo.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "This is pure-Haskell no FFI module for accessing terminfo databases which contain characteristics or capabilities for the various terminals such as screen vt100 or xterm Among other things the capabilities include the idiosyncratic character sequences needed to send commands to the terminal These commands include things like cursor movement For deeper understanding of terminfo consult the man pages for term and terminfo There are three parts to this module acquiring terminfo database querying the database and defining the capabilities This module is dead simple so single example will hopefully suffice to demonstrate its usage import System.Terminfo import System.Terminfo.Caps as uglyExample IO Maybe Int uglyExample do term fromJust lookupEnv TERM db acquireDatabase term let maxColors Right queryNumTermCap MaxColors return maxColors db uglyExample Just",
+          "hierarchy": "System Terminfo",
+          "module": "System.Terminfo",
+          "name": "Terminfo",
+          "package": "terminfo-hs",
+          "partial": "Terminfo",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo",
+          "name": "TIDatabase",
+          "package": "terminfo-hs",
+          "source": "src/System-Terminfo-Types.html#TIDatabase",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "System Terminfo",
+          "module": "System.Terminfo",
+          "name": "TIDatabase",
+          "package": "terminfo-hs",
+          "partial": "TIDatabase",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo.html#t:TIDatabase"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo",
+          "name": "acquireDatabase",
+          "package": "terminfo-hs",
+          "signature": "String-\u003e IO (Either String TIDatabase)",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo",
+          "module": "System.Terminfo",
+          "name": "acquireDatabase",
+          "normalized": "String-\u003eIO(Either String TIDatabase)",
+          "package": "terminfo-hs",
+          "partial": "Database",
+          "signature": "String-\u003eIO(Either String TIDatabase)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo.html#v:acquireDatabase"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo",
+          "name": "queryBoolTermCap",
+          "package": "terminfo-hs",
+          "signature": "TIDatabase -\u003e BoolTermCap -\u003e Bool",
+          "source": "src/System-Terminfo.html#queryBoolTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo",
+          "module": "System.Terminfo",
+          "name": "queryBoolTermCap",
+          "normalized": "TIDatabase-\u003eBoolTermCap-\u003eBool",
+          "package": "terminfo-hs",
+          "partial": "Bool Term Cap",
+          "signature": "TIDatabase-\u003eBoolTermCap-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo.html#v:queryBoolTermCap"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Terminfo",
+          "name": "queryNumTermCap",
+          "package": "terminfo-hs",
+          "signature": "TIDatabase -\u003e NumTermCap -\u003e Maybe Int",
+          "source": "src/System-Terminfo.html#queryNumTermCap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Terminfo",
+          "module": "System.Terminfo",
+          "name": "queryNumTermCap",
+          "normalized": "TIDatabase-\u003eNumTermCap-\u003eMaybe Int",
+          "package": "terminfo-hs",
+          "partial": "Num Term Cap",
+          "signature": "TIDatabase-\u003eNumTermCap-\u003eMaybe Int",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo.html#v:queryNumTermCap"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eAs this is a dead simple module, no 'smart' handling of the\n returned string is implemented. In particular, placeholders for\n buffer characters and command arguments are left as-is. This will be\n rectified eventually, probably in a separate module.\n\u003c/p\u003e",
+          "module": "System.Terminfo",
+          "name": "queryStrTermCap",
+          "package": "terminfo-hs",
+          "signature": "TIDatabase -\u003e StrTermCap -\u003e Maybe String",
+          "source": "src/System-Terminfo.html#queryStrTermCap",
+          "type": "function"
+        },
+        "index": {
+          "description": "As this is dead simple module no smart handling of the returned string is implemented In particular placeholders for buffer characters and command arguments are left as-is This will be rectified eventually probably in separate module",
+          "hierarchy": "System Terminfo",
+          "module": "System.Terminfo",
+          "name": "queryStrTermCap",
+          "normalized": "TIDatabase-\u003eStrTermCap-\u003eMaybe String",
+          "package": "terminfo-hs",
+          "partial": "Str Term Cap",
+          "signature": "TIDatabase-\u003eStrTermCap-\u003eMaybe String",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/terminfo-hs/docs/System-Terminfo.html#v:queryStrTermCap"
+      }
+    }
+  ]
 ]

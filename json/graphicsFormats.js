@@ -1,99 +1,109 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/graphicsFormats/docs/Graphics-Formats.html#",
-      "description": {
-        "fct-module": "Graphics.Formats",
-        "fct-package": "graphicsFormats",
-        "fct-signature": "module",
-        "fct-source": "src/Graphics-Formats.html",
-        "fct-type": "module",
-        "title": "Formats"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "graphicsFormats"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Formats",
-        "module": "Graphics.Formats",
-        "name": "Formats",
-        "normalized": "",
-        "package": "graphicsFormats",
-        "partial": "Formats",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/graphicsFormats/docs/Graphics-Formats.html#t:Renderable",
-      "description": {
-        "fct-module": "Graphics.Formats",
-        "fct-package": "graphicsFormats",
-        "fct-signature": "class",
-        "fct-source": "src/Graphics-Formats.html#Renderable",
-        "fct-type": "class",
-        "title": "Renderable"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Formats",
-        "module": "Graphics.Formats",
-        "name": "Renderable",
-        "normalized": "",
-        "package": "graphicsFormats",
-        "partial": "Renderable",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Formats",
+          "name": "Formats",
+          "package": "graphicsFormats",
+          "source": "src/Graphics-Formats.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Graphics Formats",
+          "module": "Graphics.Formats",
+          "name": "Formats",
+          "package": "graphicsFormats",
+          "partial": "Formats",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/graphicsFormats/docs/Graphics-Formats.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Formats",
+          "name": "Renderable",
+          "package": "graphicsFormats",
+          "source": "src/Graphics-Formats.html#Renderable",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Graphics Formats",
+          "module": "Graphics.Formats",
+          "name": "Renderable",
+          "package": "graphicsFormats",
+          "partial": "Renderable",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/graphicsFormats/docs/Graphics-Formats.html#t:Renderable"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Formats",
+          "name": "displayListR",
+          "package": "graphicsFormats",
+          "signature": "a -\u003e IO DisplayList",
+          "source": "src/Graphics-Formats.html#displayListR",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Formats",
+          "module": "Graphics.Formats",
+          "name": "displayListR",
+          "normalized": "a-\u003eIO DisplayList",
+          "package": "graphicsFormats",
+          "partial": "List",
+          "signature": "a-\u003eIO DisplayList",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/graphicsFormats/docs/Graphics-Formats.html#v:displayListR"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ePerform the relevant OpenGL calls to render your object.\n     This function should leave the graphics state identical.\n\u003c/p\u003e",
+          "module": "Graphics.Formats",
+          "name": "render",
+          "package": "graphicsFormats",
+          "signature": "a -\u003e IO ()",
+          "source": "src/Graphics-Formats.html#render",
+          "type": "method"
+        },
+        "index": {
+          "description": "Perform the relevant OpenGL calls to render your object This function should leave the graphics state identical",
+          "hierarchy": "Graphics Formats",
+          "module": "Graphics.Formats",
+          "name": "render",
+          "normalized": "a-\u003eIO()",
+          "package": "graphicsFormats",
+          "signature": "a-\u003eIO()",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/graphicsFormats/docs/Graphics-Formats.html#v:render"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/graphicsFormats/docs/Graphics-Formats.html#v:displayListR",
-      "description": {
-        "fct-module": "Graphics.Formats",
-        "fct-package": "graphicsFormats",
-        "fct-signature": "a -\u003e IO DisplayList",
-        "fct-source": "src/Graphics-Formats.html#displayListR",
-        "fct-type": "function",
-        "title": "displayListR"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Formats",
-        "module": "Graphics.Formats",
-        "name": "displayListR",
-        "normalized": "a-\u003eIO DisplayList",
-        "package": "graphicsFormats",
-        "partial": "List",
-        "signature": "a-\u003eIO DisplayList"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/graphicsFormats/docs/Graphics-Formats.html#v:render",
-      "description": {
-        "fct-descr": "\u003cp\u003ePerform the relevant OpenGL calls to render your object.\n     This function should leave the graphics state identical.\n\u003c/p\u003e",
-        "fct-module": "Graphics.Formats",
-        "fct-package": "graphicsFormats",
-        "fct-signature": "a -\u003e IO ()",
-        "fct-source": "src/Graphics-Formats.html#render",
-        "fct-type": "method",
-        "title": "render"
-      },
-      "index": {
-        "description": "Perform the relevant OpenGL calls to render your object This function should leave the graphics state identical",
-        "hierarchy": "Graphics Formats",
-        "module": "Graphics.Formats",
-        "name": "render",
-        "normalized": "a-\u003eIO()",
-        "package": "graphicsFormats",
-        "partial": "",
-        "signature": "a-\u003eIO()"
-      }
-    }
-  }
+  ]
 ]

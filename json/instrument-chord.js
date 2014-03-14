@@ -1,242 +1,314 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/instrument-chord/docs/Music-Instrument-Chord.html#",
-      "description": {
-        "fct-module": "Music.Instrument.Chord",
-        "fct-package": "instrument-chord",
-        "fct-signature": "module",
-        "fct-source": "src/Music-Instrument-Chord.html",
-        "fct-type": "module",
-        "title": "Chord"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "instrument-chord"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Music Instrument Chord",
-        "module": "Music.Instrument.Chord",
-        "name": "Chord",
-        "normalized": "",
-        "package": "instrument-chord",
-        "partial": "Chord",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/instrument-chord/docs/Music-Instrument-Chord.html#t:ControlAnnotation",
-      "description": {
-        "fct-module": "Music.Instrument.Chord",
-        "fct-package": "instrument-chord",
-        "fct-signature": "data",
-        "fct-source": "src/Music-Instrument-Chord.html#ControlAnnotation",
-        "fct-type": "data",
-        "title": "ControlAnnotation"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Music Instrument Chord",
-        "module": "Music.Instrument.Chord",
-        "name": "ControlAnnotation",
-        "normalized": "",
-        "package": "instrument-chord",
-        "partial": "Control Annotation",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Music.Instrument.Chord",
+          "name": "Chord",
+          "package": "instrument-chord",
+          "source": "src/Music-Instrument-Chord.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Music Instrument Chord",
+          "module": "Music.Instrument.Chord",
+          "name": "Chord",
+          "package": "instrument-chord",
+          "partial": "Chord",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/instrument-chord/docs/Music-Instrument-Chord.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Music.Instrument.Chord",
+          "name": "ControlAnnotation",
+          "package": "instrument-chord",
+          "source": "src/Music-Instrument-Common.html#ControlAnnotation",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Music Instrument Chord",
+          "module": "Music.Instrument.Chord",
+          "name": "ControlAnnotation",
+          "package": "instrument-chord",
+          "partial": "Control Annotation",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/instrument-chord/docs/Music-Instrument-Chord.html#t:ControlAnnotation"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Music.Instrument.Chord",
+          "name": "AnnotateMarking",
+          "package": "instrument-chord",
+          "signature": "AnnotateMarking",
+          "source": "src/Music-Instrument-Common.html#ControlAnnotation",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Music Instrument Chord",
+          "module": "Music.Instrument.Chord",
+          "name": "AnnotateMarking",
+          "package": "instrument-chord",
+          "partial": "Annotate Marking",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/instrument-chord/docs/Music-Instrument-Chord.html#v:AnnotateMarking"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Music.Instrument.Chord",
+          "name": "AnnotateNote",
+          "package": "instrument-chord",
+          "signature": "AnnotateNote",
+          "source": "src/Music-Instrument-Common.html#ControlAnnotation",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Music Instrument Chord",
+          "module": "Music.Instrument.Chord",
+          "name": "AnnotateNote",
+          "package": "instrument-chord",
+          "partial": "Annotate Note",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/instrument-chord/docs/Music-Instrument-Chord.html#v:AnnotateNote"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Music.Instrument.Chord",
+          "name": "AnnotatePositionHorizontal",
+          "package": "instrument-chord",
+          "signature": "AnnotatePositionHorizontal",
+          "source": "src/Music-Instrument-Common.html#ControlAnnotation",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Music Instrument Chord",
+          "module": "Music.Instrument.Chord",
+          "name": "AnnotatePositionHorizontal",
+          "package": "instrument-chord",
+          "partial": "Annotate Position Horizontal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/instrument-chord/docs/Music-Instrument-Chord.html#v:AnnotatePositionHorizontal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Music.Instrument.Chord",
+          "name": "AnnotatePositionVertical",
+          "package": "instrument-chord",
+          "signature": "AnnotatePositionVertical",
+          "source": "src/Music-Instrument-Common.html#ControlAnnotation",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Music Instrument Chord",
+          "module": "Music.Instrument.Chord",
+          "name": "AnnotatePositionVertical",
+          "package": "instrument-chord",
+          "partial": "Annotate Position Vertical",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/instrument-chord/docs/Music-Instrument-Chord.html#v:AnnotatePositionVertical"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Music.Instrument.Chord",
+          "name": "dropD",
+          "package": "instrument-chord",
+          "signature": "[Note]",
+          "source": "src/Music-Instrument-Guitar.html#dropD",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Music Instrument Chord",
+          "module": "Music.Instrument.Chord",
+          "name": "dropD",
+          "normalized": "[Note]",
+          "package": "instrument-chord",
+          "signature": "[Note]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/instrument-chord/docs/Music-Instrument-Chord.html#v:dropD"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Music.Instrument.Chord",
+          "name": "findPositionPatterns",
+          "package": "instrument-chord",
+          "signature": "s -\u003e [Note] -\u003e Int -\u003e [[[Int]]]",
+          "source": "src/Music-Instrument-Guitar.html#findPositionPatterns",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Music Instrument Chord",
+          "module": "Music.Instrument.Chord",
+          "name": "findPositionPatterns",
+          "normalized": "a-\u003e[Note]-\u003eInt-\u003e[[[Int]]]",
+          "package": "instrument-chord",
+          "partial": "Position Patterns",
+          "signature": "s-\u003e[Note]-\u003eInt-\u003e[[[Int]]]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/instrument-chord/docs/Music-Instrument-Chord.html#v:findPositionPatterns"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Music.Instrument.Chord",
+          "name": "getPositionPatternRange",
+          "package": "instrument-chord",
+          "signature": "[[c]] -\u003e (c, c)",
+          "source": "src/Music-Instrument-Guitar.html#getPositionPatternRange",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Music Instrument Chord",
+          "module": "Music.Instrument.Chord",
+          "name": "getPositionPatternRange",
+          "normalized": "[[a]]-\u003e(a,a)",
+          "package": "instrument-chord",
+          "partial": "Position Pattern Range",
+          "signature": "[[c]]-\u003e(c,c)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/instrument-chord/docs/Music-Instrument-Chord.html#v:getPositionPatternRange"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Music.Instrument.Chord",
+          "name": "renderGuitarChord",
+          "package": "instrument-chord",
+          "signature": "ControlAnnotation -\u003e Bool -\u003e Bool -\u003e [Note] -\u003e Chord -\u003e Int -\u003e Int -\u003e [Char]",
+          "source": "src/Music-Instrument-GuitarRender.html#renderGuitarChord",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Music Instrument Chord",
+          "module": "Music.Instrument.Chord",
+          "name": "renderGuitarChord",
+          "normalized": "ControlAnnotation-\u003eBool-\u003eBool-\u003e[Note]-\u003eChord-\u003eInt-\u003eInt-\u003e[Char]",
+          "package": "instrument-chord",
+          "partial": "Guitar Chord",
+          "signature": "ControlAnnotation-\u003eBool-\u003eBool-\u003e[Note]-\u003eChord-\u003eInt-\u003eInt-\u003e[Char]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/instrument-chord/docs/Music-Instrument-Chord.html#v:renderGuitarChord"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Music.Instrument.Chord",
+          "name": "renderPianoChord",
+          "package": "instrument-chord",
+          "signature": "Int -\u003e ControlAnnotation -\u003e Chord -\u003e String",
+          "source": "src/Music-Instrument-Piano.html#renderPianoChord",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Music Instrument Chord",
+          "module": "Music.Instrument.Chord",
+          "name": "renderPianoChord",
+          "normalized": "Int-\u003eControlAnnotation-\u003eChord-\u003eString",
+          "package": "instrument-chord",
+          "partial": "Piano Chord",
+          "signature": "Int-\u003eControlAnnotation-\u003eChord-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/instrument-chord/docs/Music-Instrument-Chord.html#v:renderPianoChord"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Music.Instrument.Chord",
+          "name": "standardTuning",
+          "package": "instrument-chord",
+          "signature": "[Note]",
+          "source": "src/Music-Instrument-Guitar.html#standardTuning",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Music Instrument Chord",
+          "module": "Music.Instrument.Chord",
+          "name": "standardTuning",
+          "normalized": "[Note]",
+          "package": "instrument-chord",
+          "partial": "Tuning",
+          "signature": "[Note]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/instrument-chord/docs/Music-Instrument-Chord.html#v:standardTuning"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Music.Instrument.Chord",
+          "name": "ukelele",
+          "package": "instrument-chord",
+          "signature": "[Note]",
+          "source": "src/Music-Instrument-Guitar.html#ukelele",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Music Instrument Chord",
+          "module": "Music.Instrument.Chord",
+          "name": "ukelele",
+          "normalized": "[Note]",
+          "package": "instrument-chord",
+          "signature": "[Note]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/instrument-chord/docs/Music-Instrument-Chord.html#v:ukelele"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/instrument-chord/docs/Music-Instrument-Chord.html#v:AnnotateMarking",
-      "description": {
-        "fct-module": "Music.Instrument.Chord",
-        "fct-package": "instrument-chord",
-        "fct-signature": "AnnotateMarking",
-        "fct-source": "src/Music-Instrument-Chord.html#ControlAnnotation",
-        "fct-type": "function",
-        "title": "AnnotateMarking"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Music Instrument Chord",
-        "module": "Music.Instrument.Chord",
-        "name": "AnnotateMarking",
-        "normalized": "",
-        "package": "instrument-chord",
-        "partial": "Annotate Marking",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/instrument-chord/docs/Music-Instrument-Chord.html#v:AnnotateNote",
-      "description": {
-        "fct-module": "Music.Instrument.Chord",
-        "fct-package": "instrument-chord",
-        "fct-signature": "AnnotateNote",
-        "fct-source": "src/Music-Instrument-Chord.html#ControlAnnotation",
-        "fct-type": "function",
-        "title": "AnnotateNote"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Music Instrument Chord",
-        "module": "Music.Instrument.Chord",
-        "name": "AnnotateNote",
-        "normalized": "",
-        "package": "instrument-chord",
-        "partial": "Annotate Note",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/instrument-chord/docs/Music-Instrument-Chord.html#v:AnnotatePosition",
-      "description": {
-        "fct-module": "Music.Instrument.Chord",
-        "fct-package": "instrument-chord",
-        "fct-signature": "AnnotatePosition",
-        "fct-source": "src/Music-Instrument-Chord.html#ControlAnnotation",
-        "fct-type": "function",
-        "title": "AnnotatePosition"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Music Instrument Chord",
-        "module": "Music.Instrument.Chord",
-        "name": "AnnotatePosition",
-        "normalized": "",
-        "package": "instrument-chord",
-        "partial": "Annotate Position",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/instrument-chord/docs/Music-Instrument-Chord.html#v:dropD",
-      "description": {
-        "fct-module": "Music.Instrument.Chord",
-        "fct-package": "instrument-chord",
-        "fct-signature": "Tuning",
-        "fct-source": "src/Music-Instrument-Chord.html#dropD",
-        "fct-type": "function",
-        "title": "dropD"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Music Instrument Chord",
-        "module": "Music.Instrument.Chord",
-        "name": "dropD",
-        "normalized": "",
-        "package": "instrument-chord",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/instrument-chord/docs/Music-Instrument-Chord.html#v:renderChords",
-      "description": {
-        "fct-module": "Music.Instrument.Chord",
-        "fct-package": "instrument-chord",
-        "fct-signature": "(a -\u003e s) -\u003e a -\u003e [Char]",
-        "fct-source": "src/Music-Instrument-Chord.html#renderChords",
-        "fct-type": "function",
-        "title": "renderChords"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Music Instrument Chord",
-        "module": "Music.Instrument.Chord",
-        "name": "renderChords",
-        "normalized": "(a-\u003eb)-\u003ea-\u003e[Char]",
-        "package": "instrument-chord",
-        "partial": "Chords",
-        "signature": "(a-\u003es)-\u003ea-\u003e[Char]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/instrument-chord/docs/Music-Instrument-Chord.html#v:renderChordsAnnotating",
-      "description": {
-        "fct-module": "Music.Instrument.Chord",
-        "fct-package": "instrument-chord",
-        "fct-signature": "ControlAnnotation -\u003e (a -\u003e s) -\u003e a -\u003e [Char]",
-        "fct-source": "src/Music-Instrument-Chord.html#renderChordsAnnotating",
-        "fct-type": "function",
-        "title": "renderChordsAnnotating"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Music Instrument Chord",
-        "module": "Music.Instrument.Chord",
-        "name": "renderChordsAnnotating",
-        "normalized": "ControlAnnotation-\u003e(a-\u003eb)-\u003ea-\u003e[Char]",
-        "package": "instrument-chord",
-        "partial": "Chords Annotating",
-        "signature": "ControlAnnotation-\u003e(a-\u003es)-\u003ea-\u003e[Char]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/instrument-chord/docs/Music-Instrument-Chord.html#v:renderMajorChordsWithTuning",
-      "description": {
-        "fct-module": "Music.Instrument.Chord",
-        "fct-package": "instrument-chord",
-        "fct-signature": "[Note] -\u003e Note -\u003e [Char]",
-        "fct-source": "src/Music-Instrument-Chord.html#renderMajorChordsWithTuning",
-        "fct-type": "function",
-        "title": "renderMajorChordsWithTuning"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Music Instrument Chord",
-        "module": "Music.Instrument.Chord",
-        "name": "renderMajorChordsWithTuning",
-        "normalized": "[Note]-\u003eNote-\u003e[Char]",
-        "package": "instrument-chord",
-        "partial": "Major Chords With Tuning",
-        "signature": "[Note]-\u003eNote-\u003e[Char]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/instrument-chord/docs/Music-Instrument-Chord.html#v:standardTuning",
-      "description": {
-        "fct-module": "Music.Instrument.Chord",
-        "fct-package": "instrument-chord",
-        "fct-signature": "[Note]",
-        "fct-source": "src/Music-Instrument-Chord.html#standardTuning",
-        "fct-type": "function",
-        "title": "standardTuning"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Music Instrument Chord",
-        "module": "Music.Instrument.Chord",
-        "name": "standardTuning",
-        "normalized": "[Note]",
-        "package": "instrument-chord",
-        "partial": "Tuning",
-        "signature": "[Note]"
-      }
-    }
-  }
+  ]
 ]

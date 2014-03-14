@@ -1,386 +1,364 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#",
-      "description": {
-        "fct-module": "Text.UxADT",
-        "fct-package": "uxadt",
-        "fct-signature": "module",
-        "fct-source": "src/Text-UxADT.html",
-        "fct-type": "module",
-        "title": "UxADT"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "uxadt"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Text UxADT",
-        "module": "Text.UxADT",
-        "name": "UxADT",
-        "normalized": "",
-        "package": "uxadt",
-        "partial": "Ux ADT",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#t:Constructor",
-      "description": {
-        "fct-module": "Text.UxADT",
-        "fct-package": "uxadt",
-        "fct-signature": "type",
-        "fct-source": "src/Text-UxADT.html#Constructor",
-        "fct-type": "type",
-        "title": "Constructor"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text UxADT",
-        "module": "Text.UxADT",
-        "name": "Constructor",
-        "normalized": "",
-        "package": "uxadt",
-        "partial": "Constructor",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.UxADT",
+          "name": "UxADT",
+          "package": "uxadt",
+          "source": "src/Text-UxADT.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Text UxADT",
+          "module": "Text.UxADT",
+          "name": "UxADT",
+          "package": "uxadt",
+          "partial": "Ux ADT",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.UxADT",
+          "name": "Constructor",
+          "package": "uxadt",
+          "source": "src/Text-UxADT.html#Constructor",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Text UxADT",
+          "module": "Text.UxADT",
+          "name": "Constructor",
+          "package": "uxadt",
+          "partial": "Constructor",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#t:Constructor"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.UxADT",
+          "name": "ToUxADT",
+          "package": "uxadt",
+          "source": "src/Text-UxADT.html#ToUxADT",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Text UxADT",
+          "module": "Text.UxADT",
+          "name": "ToUxADT",
+          "package": "uxadt",
+          "partial": "To Ux ADT",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#t:ToUxADT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.UxADT",
+          "name": "UxADT",
+          "package": "uxadt",
+          "source": "src/Text-UxADT.html#UxADT",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Text UxADT",
+          "module": "Text.UxADT",
+          "name": "UxADT",
+          "package": "uxadt",
+          "partial": "Ux ADT",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#t:UxADT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.UxADT",
+          "name": "Variable",
+          "package": "uxadt",
+          "source": "src/Text-UxADT.html#Variable",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Text UxADT",
+          "module": "Text.UxADT",
+          "name": "Variable",
+          "package": "uxadt",
+          "partial": "Variable",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#t:Variable"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.UxADT",
+          "name": "B",
+          "package": "uxadt",
+          "signature": "B Bool",
+          "source": "src/Text-UxADT.html#UxADT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text UxADT",
+          "module": "Text.UxADT",
+          "name": "B",
+          "package": "uxadt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#v:B"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.UxADT",
+          "name": "C",
+          "package": "uxadt",
+          "signature": "C Constructor [UxADT]",
+          "source": "src/Text-UxADT.html#UxADT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text UxADT",
+          "module": "Text.UxADT",
+          "name": "C",
+          "normalized": "C Constructor[UxADT]",
+          "package": "uxadt",
+          "signature": "C Constructor[UxADT]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#v:C"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.UxADT",
+          "name": "D",
+          "package": "uxadt",
+          "signature": "D Double",
+          "source": "src/Text-UxADT.html#UxADT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text UxADT",
+          "module": "Text.UxADT",
+          "name": "D",
+          "package": "uxadt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#v:D"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.UxADT",
+          "name": "F",
+          "package": "uxadt",
+          "signature": "F Float",
+          "source": "src/Text-UxADT.html#UxADT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text UxADT",
+          "module": "Text.UxADT",
+          "name": "F",
+          "package": "uxadt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#v:F"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.UxADT",
+          "name": "I",
+          "package": "uxadt",
+          "signature": "I Int",
+          "source": "src/Text-UxADT.html#UxADT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text UxADT",
+          "module": "Text.UxADT",
+          "name": "I",
+          "package": "uxadt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#v:I"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.UxADT",
+          "name": "L",
+          "package": "uxadt",
+          "signature": "L [UxADT]",
+          "source": "src/Text-UxADT.html#UxADT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text UxADT",
+          "module": "Text.UxADT",
+          "name": "L",
+          "normalized": "L[UxADT]",
+          "package": "uxadt",
+          "signature": "L[UxADT]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#v:L"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.UxADT",
+          "name": "None",
+          "package": "uxadt",
+          "signature": "None",
+          "source": "src/Text-UxADT.html#UxADT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text UxADT",
+          "module": "Text.UxADT",
+          "name": "None",
+          "package": "uxadt",
+          "partial": "None",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#v:None"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.UxADT",
+          "name": "S",
+          "package": "uxadt",
+          "signature": "S String",
+          "source": "src/Text-UxADT.html#UxADT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text UxADT",
+          "module": "Text.UxADT",
+          "name": "S",
+          "package": "uxadt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#v:S"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.UxADT",
+          "name": "V",
+          "package": "uxadt",
+          "signature": "V Variable",
+          "source": "src/Text-UxADT.html#UxADT",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text UxADT",
+          "module": "Text.UxADT",
+          "name": "V",
+          "package": "uxadt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#v:V"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.UxADT",
+          "name": "javaScriptModule",
+          "package": "uxadt",
+          "signature": "String -\u003e UxADT -\u003e String",
+          "source": "src/Text-UxADT.html#javaScriptModule",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text UxADT",
+          "module": "Text.UxADT",
+          "name": "javaScriptModule",
+          "normalized": "String-\u003eUxADT-\u003eString",
+          "package": "uxadt",
+          "partial": "Script Module",
+          "signature": "String-\u003eUxADT-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#v:javaScriptModule"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.UxADT",
+          "name": "uxadt",
+          "package": "uxadt",
+          "signature": "a -\u003e UxADT",
+          "source": "src/Text-UxADT.html#uxadt",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Text UxADT",
+          "module": "Text.UxADT",
+          "name": "uxadt",
+          "normalized": "a-\u003eUxADT",
+          "package": "uxadt",
+          "signature": "a-\u003eUxADT",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#v:uxadt"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#t:ToUxADT",
-      "description": {
-        "fct-module": "Text.UxADT",
-        "fct-package": "uxadt",
-        "fct-signature": "class",
-        "fct-source": "src/Text-UxADT.html#ToUxADT",
-        "fct-type": "class",
-        "title": "ToUxADT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text UxADT",
-        "module": "Text.UxADT",
-        "name": "ToUxADT",
-        "normalized": "",
-        "package": "uxadt",
-        "partial": "To Ux ADT",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#t:UxADT",
-      "description": {
-        "fct-module": "Text.UxADT",
-        "fct-package": "uxadt",
-        "fct-signature": "data",
-        "fct-source": "src/Text-UxADT.html#UxADT",
-        "fct-type": "data",
-        "title": "UxADT"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text UxADT",
-        "module": "Text.UxADT",
-        "name": "UxADT",
-        "normalized": "",
-        "package": "uxadt",
-        "partial": "Ux ADT",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#t:Variable",
-      "description": {
-        "fct-module": "Text.UxADT",
-        "fct-package": "uxadt",
-        "fct-signature": "type",
-        "fct-source": "src/Text-UxADT.html#Variable",
-        "fct-type": "type",
-        "title": "Variable"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text UxADT",
-        "module": "Text.UxADT",
-        "name": "Variable",
-        "normalized": "",
-        "package": "uxadt",
-        "partial": "Variable",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#v:B",
-      "description": {
-        "fct-module": "Text.UxADT",
-        "fct-package": "uxadt",
-        "fct-signature": "B Bool",
-        "fct-source": "src/Text-UxADT.html#UxADT",
-        "fct-type": "function",
-        "title": "B"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text UxADT",
-        "module": "Text.UxADT",
-        "name": "B",
-        "normalized": "",
-        "package": "uxadt",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#v:C",
-      "description": {
-        "fct-module": "Text.UxADT",
-        "fct-package": "uxadt",
-        "fct-signature": "C Constructor [UxADT]",
-        "fct-source": "src/Text-UxADT.html#UxADT",
-        "fct-type": "function",
-        "title": "C"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text UxADT",
-        "module": "Text.UxADT",
-        "name": "C",
-        "normalized": "C Constructor[UxADT]",
-        "package": "uxadt",
-        "partial": "",
-        "signature": "C Constructor[UxADT]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#v:D",
-      "description": {
-        "fct-module": "Text.UxADT",
-        "fct-package": "uxadt",
-        "fct-signature": "D Double",
-        "fct-source": "src/Text-UxADT.html#UxADT",
-        "fct-type": "function",
-        "title": "D"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text UxADT",
-        "module": "Text.UxADT",
-        "name": "D",
-        "normalized": "",
-        "package": "uxadt",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#v:F",
-      "description": {
-        "fct-module": "Text.UxADT",
-        "fct-package": "uxadt",
-        "fct-signature": "F Float",
-        "fct-source": "src/Text-UxADT.html#UxADT",
-        "fct-type": "function",
-        "title": "F"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text UxADT",
-        "module": "Text.UxADT",
-        "name": "F",
-        "normalized": "",
-        "package": "uxadt",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#v:I",
-      "description": {
-        "fct-module": "Text.UxADT",
-        "fct-package": "uxadt",
-        "fct-signature": "I Int",
-        "fct-source": "src/Text-UxADT.html#UxADT",
-        "fct-type": "function",
-        "title": "I"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text UxADT",
-        "module": "Text.UxADT",
-        "name": "I",
-        "normalized": "",
-        "package": "uxadt",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#v:L",
-      "description": {
-        "fct-module": "Text.UxADT",
-        "fct-package": "uxadt",
-        "fct-signature": "L [UxADT]",
-        "fct-source": "src/Text-UxADT.html#UxADT",
-        "fct-type": "function",
-        "title": "L"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text UxADT",
-        "module": "Text.UxADT",
-        "name": "L",
-        "normalized": "L[UxADT]",
-        "package": "uxadt",
-        "partial": "",
-        "signature": "L[UxADT]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#v:None",
-      "description": {
-        "fct-module": "Text.UxADT",
-        "fct-package": "uxadt",
-        "fct-signature": "None",
-        "fct-source": "src/Text-UxADT.html#UxADT",
-        "fct-type": "function",
-        "title": "None"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text UxADT",
-        "module": "Text.UxADT",
-        "name": "None",
-        "normalized": "",
-        "package": "uxadt",
-        "partial": "None",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#v:S",
-      "description": {
-        "fct-module": "Text.UxADT",
-        "fct-package": "uxadt",
-        "fct-signature": "S String",
-        "fct-source": "src/Text-UxADT.html#UxADT",
-        "fct-type": "function",
-        "title": "S"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text UxADT",
-        "module": "Text.UxADT",
-        "name": "S",
-        "normalized": "",
-        "package": "uxadt",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#v:V",
-      "description": {
-        "fct-module": "Text.UxADT",
-        "fct-package": "uxadt",
-        "fct-signature": "V Variable",
-        "fct-source": "src/Text-UxADT.html#UxADT",
-        "fct-type": "function",
-        "title": "V"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text UxADT",
-        "module": "Text.UxADT",
-        "name": "V",
-        "normalized": "",
-        "package": "uxadt",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#v:javaScriptModule",
-      "description": {
-        "fct-module": "Text.UxADT",
-        "fct-package": "uxadt",
-        "fct-signature": "String -\u003e UxADT -\u003e String",
-        "fct-source": "src/Text-UxADT.html#javaScriptModule",
-        "fct-type": "function",
-        "title": "javaScriptModule"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text UxADT",
-        "module": "Text.UxADT",
-        "name": "javaScriptModule",
-        "normalized": "String-\u003eUxADT-\u003eString",
-        "package": "uxadt",
-        "partial": "Script Module",
-        "signature": "String-\u003eUxADT-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uxadt/docs/Text-UxADT.html#v:uxadt",
-      "description": {
-        "fct-module": "Text.UxADT",
-        "fct-package": "uxadt",
-        "fct-signature": "a -\u003e UxADT",
-        "fct-source": "src/Text-UxADT.html#uxadt",
-        "fct-type": "method",
-        "title": "uxadt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text UxADT",
-        "module": "Text.UxADT",
-        "name": "uxadt",
-        "normalized": "a-\u003eUxADT",
-        "package": "uxadt",
-        "partial": "",
-        "signature": "a-\u003eUxADT"
-      }
-    }
-  }
+  ]
 ]

@@ -1,509 +1,469 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#",
-      "description": {
-        "fct-module": "System.Posix.Poll",
-        "fct-package": "poll",
-        "fct-signature": "module",
-        "fct-source": "src/System-Posix-Poll.html",
-        "fct-type": "module",
-        "title": "Poll"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "poll"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Poll",
-        "module": "System.Posix.Poll",
-        "name": "Poll",
-        "normalized": "",
-        "package": "poll",
-        "partial": "Poll",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#t:Event",
-      "description": {
-        "fct-module": "System.Posix.Poll",
-        "fct-package": "poll",
-        "fct-signature": "data",
-        "fct-source": "src/System-Posix-Poll.html#Event",
-        "fct-type": "data",
-        "title": "Event"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Poll",
-        "module": "System.Posix.Poll",
-        "name": "Event",
-        "normalized": "",
-        "package": "poll",
-        "partial": "Event",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Poll",
+          "name": "Poll",
+          "package": "poll",
+          "source": "src/System-Posix-Poll.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "System Posix Poll",
+          "module": "System.Posix.Poll",
+          "name": "Poll",
+          "package": "poll",
+          "partial": "Poll",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Poll",
+          "name": "Event",
+          "package": "poll",
+          "source": "src/System-Posix-Poll.html#Event",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "System Posix Poll",
+          "module": "System.Posix.Poll",
+          "name": "Event",
+          "package": "poll",
+          "partial": "Event",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#t:Event"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Poll",
+          "name": "Events",
+          "package": "poll",
+          "source": "src/System-Posix-Poll.html#Events",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "System Posix Poll",
+          "module": "System.Posix.Poll",
+          "name": "Events",
+          "package": "poll",
+          "partial": "Events",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#t:Events"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Poll",
+          "name": "Fd",
+          "package": "poll",
+          "source": "src/System-Posix-Poll.html#Fd",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "System Posix Poll",
+          "module": "System.Posix.Poll",
+          "name": "Fd",
+          "package": "poll",
+          "partial": "Fd",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#t:Fd"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Poll",
+          "name": "Err",
+          "package": "poll",
+          "signature": "Err",
+          "source": "src/System-Posix-Poll.html#Event",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Posix Poll",
+          "module": "System.Posix.Poll",
+          "name": "Err",
+          "package": "poll",
+          "partial": "Err",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:Err"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Poll",
+          "name": "Fd",
+          "package": "poll",
+          "signature": "Fd",
+          "source": "src/System-Posix-Poll.html#Fd",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Posix Poll",
+          "module": "System.Posix.Poll",
+          "name": "Fd",
+          "package": "poll",
+          "partial": "Fd",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:Fd"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Poll",
+          "name": "Hup",
+          "package": "poll",
+          "signature": "Hup",
+          "source": "src/System-Posix-Poll.html#Event",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Posix Poll",
+          "module": "System.Posix.Poll",
+          "name": "Hup",
+          "package": "poll",
+          "partial": "Hup",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:Hup"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Poll",
+          "name": "In",
+          "package": "poll",
+          "signature": "In",
+          "source": "src/System-Posix-Poll.html#Event",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Posix Poll",
+          "module": "System.Posix.Poll",
+          "name": "In",
+          "package": "poll",
+          "partial": "In",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:In"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Poll",
+          "name": "NVal",
+          "package": "poll",
+          "signature": "NVal",
+          "source": "src/System-Posix-Poll.html#Event",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Posix Poll",
+          "module": "System.Posix.Poll",
+          "name": "NVal",
+          "package": "poll",
+          "partial": "NVal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:NVal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Poll",
+          "name": "Other",
+          "package": "poll",
+          "signature": "Other Int",
+          "source": "src/System-Posix-Poll.html#Event",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Posix Poll",
+          "module": "System.Posix.Poll",
+          "name": "Other",
+          "package": "poll",
+          "partial": "Other",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:Other"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Poll",
+          "name": "Out",
+          "package": "poll",
+          "signature": "Out",
+          "source": "src/System-Posix-Poll.html#Event",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Posix Poll",
+          "module": "System.Posix.Poll",
+          "name": "Out",
+          "package": "poll",
+          "partial": "Out",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:Out"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Poll",
+          "name": "Pri",
+          "package": "poll",
+          "signature": "Pri",
+          "source": "src/System-Posix-Poll.html#Event",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Posix Poll",
+          "module": "System.Posix.Poll",
+          "name": "Pri",
+          "package": "poll",
+          "partial": "Pri",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:Pri"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Poll",
+          "name": "err",
+          "package": "poll",
+          "signature": "Events",
+          "source": "src/System-Posix-Poll.html#err",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Posix Poll",
+          "module": "System.Posix.Poll",
+          "name": "err",
+          "package": "poll",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:err"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Poll",
+          "name": "events",
+          "package": "poll",
+          "signature": "Events",
+          "source": "src/System-Posix-Poll.html#Fd",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Posix Poll",
+          "module": "System.Posix.Poll",
+          "name": "events",
+          "package": "poll",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:events"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Poll",
+          "name": "fd",
+          "package": "poll",
+          "signature": "Fd",
+          "source": "src/System-Posix-Poll.html#Fd",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Posix Poll",
+          "module": "System.Posix.Poll",
+          "name": "fd",
+          "package": "poll",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:fd"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Poll",
+          "name": "hup",
+          "package": "poll",
+          "signature": "Events",
+          "source": "src/System-Posix-Poll.html#hup",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Posix Poll",
+          "module": "System.Posix.Poll",
+          "name": "hup",
+          "package": "poll",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:hup"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Poll",
+          "name": "inp",
+          "package": "poll",
+          "signature": "Events",
+          "source": "src/System-Posix-Poll.html#inp",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Posix Poll",
+          "module": "System.Posix.Poll",
+          "name": "inp",
+          "package": "poll",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:inp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Poll",
+          "name": "nVal",
+          "package": "poll",
+          "signature": "Events",
+          "source": "src/System-Posix-Poll.html#nVal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Posix Poll",
+          "module": "System.Posix.Poll",
+          "name": "nVal",
+          "package": "poll",
+          "partial": "Val",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:nVal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Poll",
+          "name": "out",
+          "package": "poll",
+          "signature": "Events",
+          "source": "src/System-Posix-Poll.html#out",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Posix Poll",
+          "module": "System.Posix.Poll",
+          "name": "out",
+          "package": "poll",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:out"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Poll",
+          "name": "pri",
+          "package": "poll",
+          "signature": "Events",
+          "source": "src/System-Posix-Poll.html#pri",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Posix Poll",
+          "module": "System.Posix.Poll",
+          "name": "pri",
+          "package": "poll",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:pri"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Poll",
+          "name": "rEvents",
+          "package": "poll",
+          "signature": "Events",
+          "source": "src/System-Posix-Poll.html#Fd",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Posix Poll",
+          "module": "System.Posix.Poll",
+          "name": "rEvents",
+          "package": "poll",
+          "partial": "Events",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:rEvents"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#t:Events",
-      "description": {
-        "fct-module": "System.Posix.Poll",
-        "fct-package": "poll",
-        "fct-signature": "type",
-        "fct-source": "src/System-Posix-Poll.html#Events",
-        "fct-type": "type",
-        "title": "Events"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Poll",
-        "module": "System.Posix.Poll",
-        "name": "Events",
-        "normalized": "",
-        "package": "poll",
-        "partial": "Events",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#t:Fd",
-      "description": {
-        "fct-module": "System.Posix.Poll",
-        "fct-package": "poll",
-        "fct-signature": "data",
-        "fct-source": "src/System-Posix-Poll.html#Fd",
-        "fct-type": "data",
-        "title": "Fd"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Poll",
-        "module": "System.Posix.Poll",
-        "name": "Fd",
-        "normalized": "",
-        "package": "poll",
-        "partial": "Fd",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:Err",
-      "description": {
-        "fct-module": "System.Posix.Poll",
-        "fct-package": "poll",
-        "fct-signature": "Err",
-        "fct-source": "src/System-Posix-Poll.html#Event",
-        "fct-type": "function",
-        "title": "Err"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Poll",
-        "module": "System.Posix.Poll",
-        "name": "Err",
-        "normalized": "",
-        "package": "poll",
-        "partial": "Err",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:Fd",
-      "description": {
-        "fct-module": "System.Posix.Poll",
-        "fct-package": "poll",
-        "fct-signature": "Fd",
-        "fct-source": "src/System-Posix-Poll.html#Fd",
-        "fct-type": "function",
-        "title": "Fd"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Poll",
-        "module": "System.Posix.Poll",
-        "name": "Fd",
-        "normalized": "",
-        "package": "poll",
-        "partial": "Fd",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:Hup",
-      "description": {
-        "fct-module": "System.Posix.Poll",
-        "fct-package": "poll",
-        "fct-signature": "Hup",
-        "fct-source": "src/System-Posix-Poll.html#Event",
-        "fct-type": "function",
-        "title": "Hup"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Poll",
-        "module": "System.Posix.Poll",
-        "name": "Hup",
-        "normalized": "",
-        "package": "poll",
-        "partial": "Hup",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:In",
-      "description": {
-        "fct-module": "System.Posix.Poll",
-        "fct-package": "poll",
-        "fct-signature": "In",
-        "fct-source": "src/System-Posix-Poll.html#Event",
-        "fct-type": "function",
-        "title": "In"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Poll",
-        "module": "System.Posix.Poll",
-        "name": "In",
-        "normalized": "",
-        "package": "poll",
-        "partial": "In",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:NVal",
-      "description": {
-        "fct-module": "System.Posix.Poll",
-        "fct-package": "poll",
-        "fct-signature": "NVal",
-        "fct-source": "src/System-Posix-Poll.html#Event",
-        "fct-type": "function",
-        "title": "NVal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Poll",
-        "module": "System.Posix.Poll",
-        "name": "NVal",
-        "normalized": "",
-        "package": "poll",
-        "partial": "NVal",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:Other",
-      "description": {
-        "fct-module": "System.Posix.Poll",
-        "fct-package": "poll",
-        "fct-signature": "Other Int",
-        "fct-source": "src/System-Posix-Poll.html#Event",
-        "fct-type": "function",
-        "title": "Other"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Poll",
-        "module": "System.Posix.Poll",
-        "name": "Other",
-        "normalized": "",
-        "package": "poll",
-        "partial": "Other",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:Out",
-      "description": {
-        "fct-module": "System.Posix.Poll",
-        "fct-package": "poll",
-        "fct-signature": "Out",
-        "fct-source": "src/System-Posix-Poll.html#Event",
-        "fct-type": "function",
-        "title": "Out"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Poll",
-        "module": "System.Posix.Poll",
-        "name": "Out",
-        "normalized": "",
-        "package": "poll",
-        "partial": "Out",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:Pri",
-      "description": {
-        "fct-module": "System.Posix.Poll",
-        "fct-package": "poll",
-        "fct-signature": "Pri",
-        "fct-source": "src/System-Posix-Poll.html#Event",
-        "fct-type": "function",
-        "title": "Pri"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Poll",
-        "module": "System.Posix.Poll",
-        "name": "Pri",
-        "normalized": "",
-        "package": "poll",
-        "partial": "Pri",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:err",
-      "description": {
-        "fct-module": "System.Posix.Poll",
-        "fct-package": "poll",
-        "fct-signature": "Events",
-        "fct-source": "src/System-Posix-Poll.html#err",
-        "fct-type": "function",
-        "title": "err"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Poll",
-        "module": "System.Posix.Poll",
-        "name": "err",
-        "normalized": "",
-        "package": "poll",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:events",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Posix.Poll",
-        "fct-package": "poll",
-        "fct-signature": "Events",
-        "fct-source": "src/System-Posix-Poll.html#Fd",
-        "fct-type": "function",
-        "title": "events"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Poll",
-        "module": "System.Posix.Poll",
-        "name": "events",
-        "normalized": "",
-        "package": "poll",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:fd",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Posix.Poll",
-        "fct-package": "poll",
-        "fct-signature": "Fd",
-        "fct-source": "src/System-Posix-Poll.html#Fd",
-        "fct-type": "function",
-        "title": "fd"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Poll",
-        "module": "System.Posix.Poll",
-        "name": "fd",
-        "normalized": "",
-        "package": "poll",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:hup",
-      "description": {
-        "fct-module": "System.Posix.Poll",
-        "fct-package": "poll",
-        "fct-signature": "Events",
-        "fct-source": "src/System-Posix-Poll.html#hup",
-        "fct-type": "function",
-        "title": "hup"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Poll",
-        "module": "System.Posix.Poll",
-        "name": "hup",
-        "normalized": "",
-        "package": "poll",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:inp",
-      "description": {
-        "fct-module": "System.Posix.Poll",
-        "fct-package": "poll",
-        "fct-signature": "Events",
-        "fct-source": "src/System-Posix-Poll.html#inp",
-        "fct-type": "function",
-        "title": "inp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Poll",
-        "module": "System.Posix.Poll",
-        "name": "inp",
-        "normalized": "",
-        "package": "poll",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:nVal",
-      "description": {
-        "fct-module": "System.Posix.Poll",
-        "fct-package": "poll",
-        "fct-signature": "Events",
-        "fct-source": "src/System-Posix-Poll.html#nVal",
-        "fct-type": "function",
-        "title": "nVal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Poll",
-        "module": "System.Posix.Poll",
-        "name": "nVal",
-        "normalized": "",
-        "package": "poll",
-        "partial": "Val",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:out",
-      "description": {
-        "fct-module": "System.Posix.Poll",
-        "fct-package": "poll",
-        "fct-signature": "Events",
-        "fct-source": "src/System-Posix-Poll.html#out",
-        "fct-type": "function",
-        "title": "out"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Poll",
-        "module": "System.Posix.Poll",
-        "name": "out",
-        "normalized": "",
-        "package": "poll",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:pri",
-      "description": {
-        "fct-module": "System.Posix.Poll",
-        "fct-package": "poll",
-        "fct-signature": "Events",
-        "fct-source": "src/System-Posix-Poll.html#pri",
-        "fct-type": "function",
-        "title": "pri"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Poll",
-        "module": "System.Posix.Poll",
-        "name": "pri",
-        "normalized": "",
-        "package": "poll",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/poll/docs/System-Posix-Poll.html#v:rEvents",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "System.Posix.Poll",
-        "fct-package": "poll",
-        "fct-signature": "Events",
-        "fct-source": "src/System-Posix-Poll.html#Fd",
-        "fct-type": "function",
-        "title": "rEvents"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Poll",
-        "module": "System.Posix.Poll",
-        "name": "rEvents",
-        "normalized": "",
-        "package": "poll",
-        "partial": "Events",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

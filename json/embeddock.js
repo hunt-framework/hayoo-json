@@ -1,26 +1,39 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/embeddock/docs/Embeddock.html#",
-      "description": {
-        "fct-module": "Embeddock",
-        "fct-package": "embeddock",
-        "fct-signature": "module",
-        "fct-source": "src/Embeddock.html",
-        "fct-type": "module",
-        "title": "Embeddock"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "embeddock"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Embeddock",
-        "module": "Embeddock",
-        "name": "Embeddock",
-        "normalized": "",
-        "package": "embeddock",
-        "partial": "Embeddock",
-        "signature": ""
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Embeddock",
+          "name": "Embeddock",
+          "package": "embeddock",
+          "source": "src/Embeddock.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Embeddock",
+          "module": "Embeddock",
+          "name": "Embeddock",
+          "package": "embeddock",
+          "partial": "Embeddock",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/embeddock/docs/Embeddock.html#"
       }
     }
-  }
+  ]
 ]

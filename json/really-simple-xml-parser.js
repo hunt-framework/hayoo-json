@@ -1,266 +1,272 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/really-simple-xml-parser/docs/RSXP.html#",
-      "description": {
-        "fct-module": "RSXP",
-        "fct-package": "really-simple-xml-parser",
-        "fct-signature": "module",
-        "fct-source": "src/RSXP.html",
-        "fct-type": "module",
-        "title": "RSXP"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "really-simple-xml-parser"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "RSXP",
-        "module": "RSXP",
-        "name": "RSXP",
-        "normalized": "",
-        "package": "really-simple-xml-parser",
-        "partial": "RSXP",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/really-simple-xml-parser/docs/RSXP.html#t:XMLAST",
-      "description": {
-        "fct-module": "RSXP",
-        "fct-package": "really-simple-xml-parser",
-        "fct-signature": "data",
-        "fct-source": "src/RSXP.html#XMLAST",
-        "fct-type": "data",
-        "title": "XMLAST"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "RSXP",
-        "module": "RSXP",
-        "name": "XMLAST",
-        "normalized": "",
-        "package": "really-simple-xml-parser",
-        "partial": "XMLAST",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "RSXP",
+          "name": "RSXP",
+          "package": "really-simple-xml-parser",
+          "source": "src/RSXP.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "RSXP",
+          "module": "RSXP",
+          "name": "RSXP",
+          "package": "really-simple-xml-parser",
+          "partial": "RSXP",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/really-simple-xml-parser/docs/RSXP.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "RSXP",
+          "name": "XMLAST",
+          "package": "really-simple-xml-parser",
+          "source": "src/RSXP.html#XMLAST",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "RSXP",
+          "module": "RSXP",
+          "name": "XMLAST",
+          "package": "really-simple-xml-parser",
+          "partial": "XMLAST",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/really-simple-xml-parser/docs/RSXP.html#t:XMLAST"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "RSXP",
+          "name": "Body",
+          "package": "really-simple-xml-parser",
+          "signature": "Body String",
+          "source": "src/RSXP.html#XMLAST",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "RSXP",
+          "module": "RSXP",
+          "name": "Body",
+          "package": "really-simple-xml-parser",
+          "partial": "Body",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/really-simple-xml-parser/docs/RSXP.html#v:Body"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "RSXP",
+          "name": "Comment",
+          "package": "really-simple-xml-parser",
+          "signature": "Comment String",
+          "source": "src/RSXP.html#XMLAST",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "RSXP",
+          "module": "RSXP",
+          "name": "Comment",
+          "package": "really-simple-xml-parser",
+          "partial": "Comment",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/really-simple-xml-parser/docs/RSXP.html#v:Comment"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "RSXP",
+          "name": "Element",
+          "package": "really-simple-xml-parser",
+          "signature": "Element Name [Attribute] [XMLAST]",
+          "source": "src/RSXP.html#XMLAST",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "RSXP",
+          "module": "RSXP",
+          "name": "Element",
+          "normalized": "Element Name[Attribute][XMLAST]",
+          "package": "really-simple-xml-parser",
+          "partial": "Element",
+          "signature": "Element Name[Attribute][XMLAST]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/really-simple-xml-parser/docs/RSXP.html#v:Element"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "RSXP",
+          "name": "getAllBodies",
+          "package": "really-simple-xml-parser",
+          "signature": "XMLAST -\u003e [(String, String)]",
+          "source": "src/RSXP.html#getAllBodies",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "RSXP",
+          "module": "RSXP",
+          "name": "getAllBodies",
+          "normalized": "XMLAST-\u003e[(String,String)]",
+          "package": "really-simple-xml-parser",
+          "partial": "All Bodies",
+          "signature": "XMLAST-\u003e[(String,String)]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/really-simple-xml-parser/docs/RSXP.html#v:getAllBodies"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "RSXP",
+          "name": "getAllElements",
+          "package": "really-simple-xml-parser",
+          "signature": "XMLAST -\u003e [(XMLAST, String, XMLAST)]",
+          "source": "src/RSXP.html#getAllElements",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "RSXP",
+          "module": "RSXP",
+          "name": "getAllElements",
+          "normalized": "XMLAST-\u003e[(XMLAST,String,XMLAST)]",
+          "package": "really-simple-xml-parser",
+          "partial": "All Elements",
+          "signature": "XMLAST-\u003e[(XMLAST,String,XMLAST)]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/really-simple-xml-parser/docs/RSXP.html#v:getAllElements"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "RSXP",
+          "name": "getBodiesByName",
+          "package": "really-simple-xml-parser",
+          "signature": "String -\u003e XMLAST -\u003e [String]",
+          "source": "src/RSXP.html#getBodiesByName",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "RSXP",
+          "module": "RSXP",
+          "name": "getBodiesByName",
+          "normalized": "String-\u003eXMLAST-\u003e[String]",
+          "package": "really-simple-xml-parser",
+          "partial": "Bodies By Name",
+          "signature": "String-\u003eXMLAST-\u003e[String]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/really-simple-xml-parser/docs/RSXP.html#v:getBodiesByName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "RSXP",
+          "name": "getElementsByName",
+          "package": "really-simple-xml-parser",
+          "signature": "String -\u003e XMLAST -\u003e [(XMLAST, String, XMLAST)]",
+          "source": "src/RSXP.html#getElementsByName",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "RSXP",
+          "module": "RSXP",
+          "name": "getElementsByName",
+          "normalized": "String-\u003eXMLAST-\u003e[(XMLAST,String,XMLAST)]",
+          "package": "really-simple-xml-parser",
+          "partial": "Elements By Name",
+          "signature": "String-\u003eXMLAST-\u003e[(XMLAST,String,XMLAST)]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/really-simple-xml-parser/docs/RSXP.html#v:getElementsByName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "RSXP",
+          "name": "getElementsByPath",
+          "package": "really-simple-xml-parser",
+          "signature": "String -\u003e XMLAST -\u003e [(XMLAST, String, XMLAST)]",
+          "source": "src/RSXP.html#getElementsByPath",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "RSXP",
+          "module": "RSXP",
+          "name": "getElementsByPath",
+          "normalized": "String-\u003eXMLAST-\u003e[(XMLAST,String,XMLAST)]",
+          "package": "really-simple-xml-parser",
+          "partial": "Elements By Path",
+          "signature": "String-\u003eXMLAST-\u003e[(XMLAST,String,XMLAST)]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/really-simple-xml-parser/docs/RSXP.html#v:getElementsByPath"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "RSXP",
+          "name": "parseXML",
+          "package": "really-simple-xml-parser",
+          "signature": "String -\u003e XMLAST",
+          "source": "src/RSXP.html#parseXML",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "RSXP",
+          "module": "RSXP",
+          "name": "parseXML",
+          "normalized": "String-\u003eXMLAST",
+          "package": "really-simple-xml-parser",
+          "partial": "XML",
+          "signature": "String-\u003eXMLAST",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/really-simple-xml-parser/docs/RSXP.html#v:parseXML"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/really-simple-xml-parser/docs/RSXP.html#v:Body",
-      "description": {
-        "fct-module": "RSXP",
-        "fct-package": "really-simple-xml-parser",
-        "fct-signature": "Body String",
-        "fct-source": "src/RSXP.html#XMLAST",
-        "fct-type": "function",
-        "title": "Body"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "RSXP",
-        "module": "RSXP",
-        "name": "Body",
-        "normalized": "",
-        "package": "really-simple-xml-parser",
-        "partial": "Body",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/really-simple-xml-parser/docs/RSXP.html#v:Comment",
-      "description": {
-        "fct-module": "RSXP",
-        "fct-package": "really-simple-xml-parser",
-        "fct-signature": "Comment String",
-        "fct-source": "src/RSXP.html#XMLAST",
-        "fct-type": "function",
-        "title": "Comment"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "RSXP",
-        "module": "RSXP",
-        "name": "Comment",
-        "normalized": "",
-        "package": "really-simple-xml-parser",
-        "partial": "Comment",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/really-simple-xml-parser/docs/RSXP.html#v:Element",
-      "description": {
-        "fct-module": "RSXP",
-        "fct-package": "really-simple-xml-parser",
-        "fct-signature": "Element Name [Attribute] [XMLAST]",
-        "fct-source": "src/RSXP.html#XMLAST",
-        "fct-type": "function",
-        "title": "Element"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "RSXP",
-        "module": "RSXP",
-        "name": "Element",
-        "normalized": "Element Name[Attribute][XMLAST]",
-        "package": "really-simple-xml-parser",
-        "partial": "Element",
-        "signature": "Element Name[Attribute][XMLAST]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/really-simple-xml-parser/docs/RSXP.html#v:getAllBodies",
-      "description": {
-        "fct-module": "RSXP",
-        "fct-package": "really-simple-xml-parser",
-        "fct-signature": "XMLAST -\u003e [(String, String)]",
-        "fct-source": "src/RSXP.html#getAllBodies",
-        "fct-type": "function",
-        "title": "getAllBodies"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "RSXP",
-        "module": "RSXP",
-        "name": "getAllBodies",
-        "normalized": "XMLAST-\u003e[(String,String)]",
-        "package": "really-simple-xml-parser",
-        "partial": "All Bodies",
-        "signature": "XMLAST-\u003e[(String,String)]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/really-simple-xml-parser/docs/RSXP.html#v:getAllElements",
-      "description": {
-        "fct-module": "RSXP",
-        "fct-package": "really-simple-xml-parser",
-        "fct-signature": "XMLAST -\u003e [(XMLAST, String, XMLAST)]",
-        "fct-source": "src/RSXP.html#getAllElements",
-        "fct-type": "function",
-        "title": "getAllElements"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "RSXP",
-        "module": "RSXP",
-        "name": "getAllElements",
-        "normalized": "XMLAST-\u003e[(XMLAST,String,XMLAST)]",
-        "package": "really-simple-xml-parser",
-        "partial": "All Elements",
-        "signature": "XMLAST-\u003e[(XMLAST,String,XMLAST)]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/really-simple-xml-parser/docs/RSXP.html#v:getBodiesByName",
-      "description": {
-        "fct-module": "RSXP",
-        "fct-package": "really-simple-xml-parser",
-        "fct-signature": "String -\u003e XMLAST -\u003e [String]",
-        "fct-source": "src/RSXP.html#getBodiesByName",
-        "fct-type": "function",
-        "title": "getBodiesByName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "RSXP",
-        "module": "RSXP",
-        "name": "getBodiesByName",
-        "normalized": "String-\u003eXMLAST-\u003e[String]",
-        "package": "really-simple-xml-parser",
-        "partial": "Bodies By Name",
-        "signature": "String-\u003eXMLAST-\u003e[String]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/really-simple-xml-parser/docs/RSXP.html#v:getElementsByName",
-      "description": {
-        "fct-module": "RSXP",
-        "fct-package": "really-simple-xml-parser",
-        "fct-signature": "String -\u003e XMLAST -\u003e [(XMLAST, String, XMLAST)]",
-        "fct-source": "src/RSXP.html#getElementsByName",
-        "fct-type": "function",
-        "title": "getElementsByName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "RSXP",
-        "module": "RSXP",
-        "name": "getElementsByName",
-        "normalized": "String-\u003eXMLAST-\u003e[(XMLAST,String,XMLAST)]",
-        "package": "really-simple-xml-parser",
-        "partial": "Elements By Name",
-        "signature": "String-\u003eXMLAST-\u003e[(XMLAST,String,XMLAST)]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/really-simple-xml-parser/docs/RSXP.html#v:getElementsByPath",
-      "description": {
-        "fct-module": "RSXP",
-        "fct-package": "really-simple-xml-parser",
-        "fct-signature": "String -\u003e XMLAST -\u003e [(XMLAST, String, XMLAST)]",
-        "fct-source": "src/RSXP.html#getElementsByPath",
-        "fct-type": "function",
-        "title": "getElementsByPath"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "RSXP",
-        "module": "RSXP",
-        "name": "getElementsByPath",
-        "normalized": "String-\u003eXMLAST-\u003e[(XMLAST,String,XMLAST)]",
-        "package": "really-simple-xml-parser",
-        "partial": "Elements By Path",
-        "signature": "String-\u003eXMLAST-\u003e[(XMLAST,String,XMLAST)]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/really-simple-xml-parser/docs/RSXP.html#v:parseXML",
-      "description": {
-        "fct-module": "RSXP",
-        "fct-package": "really-simple-xml-parser",
-        "fct-signature": "String -\u003e XMLAST",
-        "fct-source": "src/RSXP.html#parseXML",
-        "fct-type": "function",
-        "title": "parseXML"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "RSXP",
-        "module": "RSXP",
-        "name": "parseXML",
-        "normalized": "String-\u003eXMLAST",
-        "package": "really-simple-xml-parser",
-        "partial": "XML",
-        "signature": "String-\u003eXMLAST"
-      }
-    }
-  }
+  ]
 ]

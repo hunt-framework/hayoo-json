@@ -1,194 +1,200 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cabalrpmdeps/docs/Distribution-RpmDeps.html#",
-      "description": {
-        "fct-module": "Distribution.RpmDeps",
-        "fct-package": "cabalrpmdeps",
-        "fct-signature": "module",
-        "fct-source": "src/Distribution-RpmDeps.html",
-        "fct-type": "module",
-        "title": "RpmDeps"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "cabalrpmdeps"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Distribution RpmDeps",
-        "module": "Distribution.RpmDeps",
-        "name": "RpmDeps",
-        "normalized": "",
-        "package": "cabalrpmdeps",
-        "partial": "Rpm Deps",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cabalrpmdeps/docs/Distribution-RpmDeps.html#v:dependency2rpmdep",
-      "description": {
-        "fct-module": "Distribution.RpmDeps",
-        "fct-package": "cabalrpmdeps",
-        "fct-signature": "Dependency -\u003e String",
-        "fct-source": "src/Distribution-RpmDeps.html#dependency2rpmdep",
-        "fct-type": "function",
-        "title": "dependency2rpmdep"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Distribution RpmDeps",
-        "module": "Distribution.RpmDeps",
-        "name": "dependency2rpmdep",
-        "normalized": "Dependency-\u003eString",
-        "package": "cabalrpmdeps",
-        "partial": "",
-        "signature": "Dependency-\u003eString"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Distribution.RpmDeps",
+          "name": "RpmDeps",
+          "package": "cabalrpmdeps",
+          "source": "src/Distribution-RpmDeps.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Distribution RpmDeps",
+          "module": "Distribution.RpmDeps",
+          "name": "RpmDeps",
+          "package": "cabalrpmdeps",
+          "partial": "Rpm Deps",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/cabalrpmdeps/docs/Distribution-RpmDeps.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Distribution.RpmDeps",
+          "name": "dependency2rpmdep",
+          "package": "cabalrpmdeps",
+          "signature": "Dependency -\u003e String",
+          "source": "src/Distribution-RpmDeps.html#dependency2rpmdep",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Distribution RpmDeps",
+          "module": "Distribution.RpmDeps",
+          "name": "dependency2rpmdep",
+          "normalized": "Dependency-\u003eString",
+          "package": "cabalrpmdeps",
+          "signature": "Dependency-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cabalrpmdeps/docs/Distribution-RpmDeps.html#v:dependency2rpmdep"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Distribution.RpmDeps",
+          "name": "package2rpmdep",
+          "package": "cabalrpmdeps",
+          "signature": "PackageIdentifier -\u003e String",
+          "source": "src/Distribution-RpmDeps.html#package2rpmdep",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Distribution RpmDeps",
+          "module": "Distribution.RpmDeps",
+          "name": "package2rpmdep",
+          "normalized": "PackageIdentifier-\u003eString",
+          "package": "cabalrpmdeps",
+          "signature": "PackageIdentifier-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cabalrpmdeps/docs/Distribution-RpmDeps.html#v:package2rpmdep"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Distribution.RpmDeps",
+          "name": "rpmbuildrequires",
+          "package": "cabalrpmdeps",
+          "signature": "Maybe FilePath -\u003e IO [String]",
+          "source": "src/Distribution-RpmDeps.html#rpmbuildrequires",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Distribution RpmDeps",
+          "module": "Distribution.RpmDeps",
+          "name": "rpmbuildrequires",
+          "normalized": "Maybe FilePath-\u003eIO[String]",
+          "package": "cabalrpmdeps",
+          "signature": "Maybe FilePath-\u003eIO[String]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cabalrpmdeps/docs/Distribution-RpmDeps.html#v:rpmbuildrequires"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Distribution.RpmDeps",
+          "name": "rpmprovides",
+          "package": "cabalrpmdeps",
+          "signature": "Maybe FilePath -\u003e IO [String]",
+          "source": "src/Distribution-RpmDeps.html#rpmprovides",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Distribution RpmDeps",
+          "module": "Distribution.RpmDeps",
+          "name": "rpmprovides",
+          "normalized": "Maybe FilePath-\u003eIO[String]",
+          "package": "cabalrpmdeps",
+          "signature": "Maybe FilePath-\u003eIO[String]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cabalrpmdeps/docs/Distribution-RpmDeps.html#v:rpmprovides"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Distribution.RpmDeps",
+          "name": "rpmrequires",
+          "package": "cabalrpmdeps",
+          "signature": "Maybe FilePath -\u003e IO [String]",
+          "source": "src/Distribution-RpmDeps.html#rpmrequires",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Distribution RpmDeps",
+          "module": "Distribution.RpmDeps",
+          "name": "rpmrequires",
+          "normalized": "Maybe FilePath-\u003eIO[String]",
+          "package": "cabalrpmdeps",
+          "signature": "Maybe FilePath-\u003eIO[String]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cabalrpmdeps/docs/Distribution-RpmDeps.html#v:rpmrequires"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Distribution.RpmDeps",
+          "name": "version2string",
+          "package": "cabalrpmdeps",
+          "signature": "Version -\u003e String",
+          "source": "src/Distribution-RpmDeps.html#version2string",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Distribution RpmDeps",
+          "module": "Distribution.RpmDeps",
+          "name": "version2string",
+          "normalized": "Version-\u003eString",
+          "package": "cabalrpmdeps",
+          "signature": "Version-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cabalrpmdeps/docs/Distribution-RpmDeps.html#v:version2string"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Distribution.RpmDeps",
+          "name": "versionrange2sign",
+          "package": "cabalrpmdeps",
+          "signature": "VersionRange -\u003e String",
+          "source": "src/Distribution-RpmDeps.html#versionrange2sign",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Distribution RpmDeps",
+          "module": "Distribution.RpmDeps",
+          "name": "versionrange2sign",
+          "normalized": "VersionRange-\u003eString",
+          "package": "cabalrpmdeps",
+          "signature": "VersionRange-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cabalrpmdeps/docs/Distribution-RpmDeps.html#v:versionrange2sign"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cabalrpmdeps/docs/Distribution-RpmDeps.html#v:package2rpmdep",
-      "description": {
-        "fct-module": "Distribution.RpmDeps",
-        "fct-package": "cabalrpmdeps",
-        "fct-signature": "PackageIdentifier -\u003e String",
-        "fct-source": "src/Distribution-RpmDeps.html#package2rpmdep",
-        "fct-type": "function",
-        "title": "package2rpmdep"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Distribution RpmDeps",
-        "module": "Distribution.RpmDeps",
-        "name": "package2rpmdep",
-        "normalized": "PackageIdentifier-\u003eString",
-        "package": "cabalrpmdeps",
-        "partial": "",
-        "signature": "PackageIdentifier-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cabalrpmdeps/docs/Distribution-RpmDeps.html#v:rpmbuildrequires",
-      "description": {
-        "fct-module": "Distribution.RpmDeps",
-        "fct-package": "cabalrpmdeps",
-        "fct-signature": "Maybe FilePath -\u003e IO [String]",
-        "fct-source": "src/Distribution-RpmDeps.html#rpmbuildrequires",
-        "fct-type": "function",
-        "title": "rpmbuildrequires"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Distribution RpmDeps",
-        "module": "Distribution.RpmDeps",
-        "name": "rpmbuildrequires",
-        "normalized": "Maybe FilePath-\u003eIO[String]",
-        "package": "cabalrpmdeps",
-        "partial": "",
-        "signature": "Maybe FilePath-\u003eIO[String]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cabalrpmdeps/docs/Distribution-RpmDeps.html#v:rpmprovides",
-      "description": {
-        "fct-module": "Distribution.RpmDeps",
-        "fct-package": "cabalrpmdeps",
-        "fct-signature": "Maybe FilePath -\u003e IO [String]",
-        "fct-source": "src/Distribution-RpmDeps.html#rpmprovides",
-        "fct-type": "function",
-        "title": "rpmprovides"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Distribution RpmDeps",
-        "module": "Distribution.RpmDeps",
-        "name": "rpmprovides",
-        "normalized": "Maybe FilePath-\u003eIO[String]",
-        "package": "cabalrpmdeps",
-        "partial": "",
-        "signature": "Maybe FilePath-\u003eIO[String]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cabalrpmdeps/docs/Distribution-RpmDeps.html#v:rpmrequires",
-      "description": {
-        "fct-module": "Distribution.RpmDeps",
-        "fct-package": "cabalrpmdeps",
-        "fct-signature": "Maybe FilePath -\u003e IO [String]",
-        "fct-source": "src/Distribution-RpmDeps.html#rpmrequires",
-        "fct-type": "function",
-        "title": "rpmrequires"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Distribution RpmDeps",
-        "module": "Distribution.RpmDeps",
-        "name": "rpmrequires",
-        "normalized": "Maybe FilePath-\u003eIO[String]",
-        "package": "cabalrpmdeps",
-        "partial": "",
-        "signature": "Maybe FilePath-\u003eIO[String]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cabalrpmdeps/docs/Distribution-RpmDeps.html#v:version2string",
-      "description": {
-        "fct-module": "Distribution.RpmDeps",
-        "fct-package": "cabalrpmdeps",
-        "fct-signature": "Version -\u003e String",
-        "fct-source": "src/Distribution-RpmDeps.html#version2string",
-        "fct-type": "function",
-        "title": "version2string"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Distribution RpmDeps",
-        "module": "Distribution.RpmDeps",
-        "name": "version2string",
-        "normalized": "Version-\u003eString",
-        "package": "cabalrpmdeps",
-        "partial": "",
-        "signature": "Version-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cabalrpmdeps/docs/Distribution-RpmDeps.html#v:versionrange2sign",
-      "description": {
-        "fct-module": "Distribution.RpmDeps",
-        "fct-package": "cabalrpmdeps",
-        "fct-signature": "VersionRange -\u003e String",
-        "fct-source": "src/Distribution-RpmDeps.html#versionrange2sign",
-        "fct-type": "function",
-        "title": "versionrange2sign"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Distribution RpmDeps",
-        "module": "Distribution.RpmDeps",
-        "name": "versionrange2sign",
-        "normalized": "VersionRange-\u003eString",
-        "package": "cabalrpmdeps",
-        "partial": "",
-        "signature": "VersionRange-\u003eString"
-      }
-    }
-  }
+  ]
 ]

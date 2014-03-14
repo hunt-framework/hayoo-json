@@ -1,538 +1,511 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#",
-      "description": {
-        "fct-module": "Main",
-        "fct-package": "TimePiece",
-        "fct-signature": "module",
-        "fct-source": "src/Main.html",
-        "fct-type": "module",
-        "title": "Main"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "TimePiece"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Main",
-        "module": "Main",
-        "name": "Main",
-        "normalized": "",
-        "package": "TimePiece",
-        "partial": "Main",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#t:Status",
-      "description": {
-        "fct-module": "Main",
-        "fct-package": "TimePiece",
-        "fct-signature": "data",
-        "fct-source": "src/Main.html#Status",
-        "fct-type": "data",
-        "title": "Status"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Main",
-        "module": "Main",
-        "name": "Status",
-        "normalized": "",
-        "package": "TimePiece",
-        "partial": "Status",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Main",
+          "name": "Main",
+          "package": "TimePiece",
+          "source": "src/Main.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Main",
+          "module": "Main",
+          "name": "Main",
+          "package": "TimePiece",
+          "partial": "Main",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Main",
+          "name": "Status",
+          "package": "TimePiece",
+          "source": "src/Main.html#Status",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Main",
+          "module": "Main",
+          "name": "Status",
+          "package": "TimePiece",
+          "partial": "Status",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#t:Status"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Main",
+          "name": "Tiling",
+          "package": "TimePiece",
+          "source": "src/Main.html#Tiling",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Main",
+          "module": "Main",
+          "name": "Tiling",
+          "package": "TimePiece",
+          "partial": "Tiling",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#t:Tiling"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Main",
+          "name": "MkTiling",
+          "package": "TimePiece",
+          "signature": "MkTiling",
+          "source": "src/Main.html#Tiling",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Main",
+          "module": "Main",
+          "name": "MkTiling",
+          "package": "TimePiece",
+          "partial": "Mk Tiling",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:MkTiling"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Main",
+          "name": "Static",
+          "package": "TimePiece",
+          "signature": "Static",
+          "source": "src/Main.html#Status",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Main",
+          "module": "Main",
+          "name": "Static",
+          "package": "TimePiece",
+          "partial": "Static",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:Static"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Main",
+          "name": "ZoomIn",
+          "package": "TimePiece",
+          "signature": "ZoomIn",
+          "source": "src/Main.html#Status",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Main",
+          "module": "Main",
+          "name": "ZoomIn",
+          "package": "TimePiece",
+          "partial": "Zoom In",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:ZoomIn"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Main",
+          "name": "ZoomOut",
+          "package": "TimePiece",
+          "signature": "ZoomOut",
+          "source": "src/Main.html#Status",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Main",
+          "module": "Main",
+          "name": "ZoomOut",
+          "package": "TimePiece",
+          "partial": "Zoom Out",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:ZoomOut"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Main",
+          "name": "_calculateTiling",
+          "package": "TimePiece",
+          "signature": "CacheOnce String [Tiling]",
+          "source": "src/Main.html#_calculateTiling",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Main",
+          "module": "Main",
+          "name": "_calculateTiling",
+          "normalized": "CacheOnce String[Tiling]",
+          "package": "TimePiece",
+          "partial": "Tiling",
+          "signature": "CacheOnce String[Tiling]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:_calculateTiling"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Main",
+          "name": "calculateTiling",
+          "package": "TimePiece",
+          "signature": "String -\u003e IO [Tiling]",
+          "source": "src/Main.html#calculateTiling",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Main",
+          "module": "Main",
+          "name": "calculateTiling",
+          "normalized": "String-\u003eIO[Tiling]",
+          "package": "TimePiece",
+          "partial": "Tiling",
+          "signature": "String-\u003eIO[Tiling]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:calculateTiling"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Main",
+          "name": "getCurrentTime",
+          "package": "TimePiece",
+          "signature": "IO String",
+          "source": "src/Main.html#getCurrentTime",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Main",
+          "module": "Main",
+          "name": "getCurrentTime",
+          "package": "TimePiece",
+          "partial": "Current Time",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:getCurrentTime"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Main",
+          "name": "initZoomIn",
+          "package": "TimePiece",
+          "signature": "String -\u003e Int -\u003e Int -\u003e IO Status",
+          "source": "src/Main.html#initZoomIn",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Main",
+          "module": "Main",
+          "name": "initZoomIn",
+          "normalized": "String-\u003eInt-\u003eInt-\u003eIO Status",
+          "package": "TimePiece",
+          "partial": "Zoom In",
+          "signature": "String-\u003eInt-\u003eInt-\u003eIO Status",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:initZoomIn"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Main",
+          "name": "loop",
+          "package": "TimePiece",
+          "signature": "Status -\u003e (Status -\u003e IO Status) -\u003e IO ()",
+          "source": "src/Main.html#loop",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Main",
+          "module": "Main",
+          "name": "loop",
+          "normalized": "Status-\u003e(Status-\u003eIO Status)-\u003eIO()",
+          "package": "TimePiece",
+          "signature": "Status-\u003e(Status-\u003eIO Status)-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:loop"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Main",
+          "name": "main",
+          "package": "TimePiece",
+          "signature": "IO ()",
+          "source": "src/Main.html#main",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Main",
+          "module": "Main",
+          "name": "main",
+          "normalized": "IO()",
+          "package": "TimePiece",
+          "signature": "IO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:main"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Main",
+          "name": "paintScreen",
+          "package": "TimePiece",
+          "signature": "Surface -\u003e Int -\u003e Int -\u003e String -\u003e Zoom -\u003e IO ()",
+          "source": "src/Main.html#paintScreen",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Main",
+          "module": "Main",
+          "name": "paintScreen",
+          "normalized": "Surface-\u003eInt-\u003eInt-\u003eString-\u003eZoom-\u003eIO()",
+          "package": "TimePiece",
+          "partial": "Screen",
+          "signature": "Surface-\u003eInt-\u003eInt-\u003eString-\u003eZoom-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:paintScreen"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Main",
+          "name": "sHeight",
+          "package": "TimePiece",
+          "signature": "Int",
+          "source": "src/Main.html#Status",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Main",
+          "module": "Main",
+          "name": "sHeight",
+          "package": "TimePiece",
+          "partial": "Height",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:sHeight"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Main",
+          "name": "sSpeed",
+          "package": "TimePiece",
+          "signature": "Speed",
+          "source": "src/Main.html#Status",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Main",
+          "module": "Main",
+          "name": "sSpeed",
+          "package": "TimePiece",
+          "partial": "Speed",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:sSpeed"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Main",
+          "name": "sTime",
+          "package": "TimePiece",
+          "signature": "String",
+          "source": "src/Main.html#Status",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Main",
+          "module": "Main",
+          "name": "sTime",
+          "package": "TimePiece",
+          "partial": "Time",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:sTime"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Main",
+          "name": "sWidth",
+          "package": "TimePiece",
+          "signature": "Int",
+          "source": "src/Main.html#Status",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Main",
+          "module": "Main",
+          "name": "sWidth",
+          "package": "TimePiece",
+          "partial": "Width",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:sWidth"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Main",
+          "name": "sZoom",
+          "package": "TimePiece",
+          "signature": "Zoom",
+          "source": "src/Main.html#Status",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Main",
+          "module": "Main",
+          "name": "sZoom",
+          "package": "TimePiece",
+          "partial": "Zoom",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:sZoom"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Main",
+          "name": "tEdge",
+          "package": "TimePiece",
+          "signature": "Point",
+          "source": "src/Main.html#Tiling",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Main",
+          "module": "Main",
+          "name": "tEdge",
+          "package": "TimePiece",
+          "partial": "Edge",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:tEdge"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Main",
+          "name": "tSeeds",
+          "package": "TimePiece",
+          "signature": "[Int]",
+          "source": "src/Main.html#Tiling",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Main",
+          "module": "Main",
+          "name": "tSeeds",
+          "normalized": "[Int]",
+          "package": "TimePiece",
+          "partial": "Seeds",
+          "signature": "[Int]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:tSeeds"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Main",
+          "name": "tTiles",
+          "package": "TimePiece",
+          "signature": "Tiles",
+          "source": "src/Main.html#Tiling",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Main",
+          "module": "Main",
+          "name": "tTiles",
+          "package": "TimePiece",
+          "partial": "Tiles",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:tTiles"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#t:Tiling",
-      "description": {
-        "fct-module": "Main",
-        "fct-package": "TimePiece",
-        "fct-signature": "data",
-        "fct-source": "src/Main.html#Tiling",
-        "fct-type": "data",
-        "title": "Tiling"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Main",
-        "module": "Main",
-        "name": "Tiling",
-        "normalized": "",
-        "package": "TimePiece",
-        "partial": "Tiling",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:MkTiling",
-      "description": {
-        "fct-module": "Main",
-        "fct-package": "TimePiece",
-        "fct-signature": "MkTiling",
-        "fct-source": "src/Main.html#Tiling",
-        "fct-type": "function",
-        "title": "MkTiling"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Main",
-        "module": "Main",
-        "name": "MkTiling",
-        "normalized": "",
-        "package": "TimePiece",
-        "partial": "Mk Tiling",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:Static",
-      "description": {
-        "fct-module": "Main",
-        "fct-package": "TimePiece",
-        "fct-signature": "Static",
-        "fct-source": "src/Main.html#Status",
-        "fct-type": "function",
-        "title": "Static"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Main",
-        "module": "Main",
-        "name": "Static",
-        "normalized": "",
-        "package": "TimePiece",
-        "partial": "Static",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:ZoomIn",
-      "description": {
-        "fct-module": "Main",
-        "fct-package": "TimePiece",
-        "fct-signature": "ZoomIn",
-        "fct-source": "src/Main.html#Status",
-        "fct-type": "function",
-        "title": "ZoomIn"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Main",
-        "module": "Main",
-        "name": "ZoomIn",
-        "normalized": "",
-        "package": "TimePiece",
-        "partial": "Zoom In",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:ZoomOut",
-      "description": {
-        "fct-module": "Main",
-        "fct-package": "TimePiece",
-        "fct-signature": "ZoomOut",
-        "fct-source": "src/Main.html#Status",
-        "fct-type": "function",
-        "title": "ZoomOut"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Main",
-        "module": "Main",
-        "name": "ZoomOut",
-        "normalized": "",
-        "package": "TimePiece",
-        "partial": "Zoom Out",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:_calculateTiling",
-      "description": {
-        "fct-module": "Main",
-        "fct-package": "TimePiece",
-        "fct-signature": "CacheOnce String [Tiling]",
-        "fct-source": "src/Main.html#_calculateTiling",
-        "fct-type": "function",
-        "title": "_calculateTiling"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Main",
-        "module": "Main",
-        "name": "_calculateTiling",
-        "normalized": "CacheOnce String[Tiling]",
-        "package": "TimePiece",
-        "partial": "Tiling",
-        "signature": "CacheOnce String[Tiling]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:calculateTiling",
-      "description": {
-        "fct-module": "Main",
-        "fct-package": "TimePiece",
-        "fct-signature": "String -\u003e IO [Tiling]",
-        "fct-source": "src/Main.html#calculateTiling",
-        "fct-type": "function",
-        "title": "calculateTiling"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Main",
-        "module": "Main",
-        "name": "calculateTiling",
-        "normalized": "String-\u003eIO[Tiling]",
-        "package": "TimePiece",
-        "partial": "Tiling",
-        "signature": "String-\u003eIO[Tiling]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:getCurrentTime",
-      "description": {
-        "fct-module": "Main",
-        "fct-package": "TimePiece",
-        "fct-signature": "IO String",
-        "fct-source": "src/Main.html#getCurrentTime",
-        "fct-type": "function",
-        "title": "getCurrentTime"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Main",
-        "module": "Main",
-        "name": "getCurrentTime",
-        "normalized": "",
-        "package": "TimePiece",
-        "partial": "Current Time",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:initZoomIn",
-      "description": {
-        "fct-module": "Main",
-        "fct-package": "TimePiece",
-        "fct-signature": "String -\u003e Int -\u003e Int -\u003e IO Status",
-        "fct-source": "src/Main.html#initZoomIn",
-        "fct-type": "function",
-        "title": "initZoomIn"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Main",
-        "module": "Main",
-        "name": "initZoomIn",
-        "normalized": "String-\u003eInt-\u003eInt-\u003eIO Status",
-        "package": "TimePiece",
-        "partial": "Zoom In",
-        "signature": "String-\u003eInt-\u003eInt-\u003eIO Status"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:loop",
-      "description": {
-        "fct-module": "Main",
-        "fct-package": "TimePiece",
-        "fct-signature": "Status -\u003e (Status -\u003e IO Status) -\u003e IO ()",
-        "fct-source": "src/Main.html#loop",
-        "fct-type": "function",
-        "title": "loop"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Main",
-        "module": "Main",
-        "name": "loop",
-        "normalized": "Status-\u003e(Status-\u003eIO Status)-\u003eIO()",
-        "package": "TimePiece",
-        "partial": "",
-        "signature": "Status-\u003e(Status-\u003eIO Status)-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:main",
-      "description": {
-        "fct-module": "Main",
-        "fct-package": "TimePiece",
-        "fct-signature": "IO ()",
-        "fct-source": "src/Main.html#main",
-        "fct-type": "function",
-        "title": "main"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Main",
-        "module": "Main",
-        "name": "main",
-        "normalized": "IO()",
-        "package": "TimePiece",
-        "partial": "",
-        "signature": "IO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:paintScreen",
-      "description": {
-        "fct-module": "Main",
-        "fct-package": "TimePiece",
-        "fct-signature": "Surface -\u003e Int -\u003e Int -\u003e String -\u003e Zoom -\u003e IO ()",
-        "fct-source": "src/Main.html#paintScreen",
-        "fct-type": "function",
-        "title": "paintScreen"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Main",
-        "module": "Main",
-        "name": "paintScreen",
-        "normalized": "Surface-\u003eInt-\u003eInt-\u003eString-\u003eZoom-\u003eIO()",
-        "package": "TimePiece",
-        "partial": "Screen",
-        "signature": "Surface-\u003eInt-\u003eInt-\u003eString-\u003eZoom-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:sHeight",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Main",
-        "fct-package": "TimePiece",
-        "fct-signature": "Int",
-        "fct-source": "src/Main.html#Status",
-        "fct-type": "function",
-        "title": "sHeight"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Main",
-        "module": "Main",
-        "name": "sHeight",
-        "normalized": "",
-        "package": "TimePiece",
-        "partial": "Height",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:sSpeed",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Main",
-        "fct-package": "TimePiece",
-        "fct-signature": "Speed",
-        "fct-source": "src/Main.html#Status",
-        "fct-type": "function",
-        "title": "sSpeed"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Main",
-        "module": "Main",
-        "name": "sSpeed",
-        "normalized": "",
-        "package": "TimePiece",
-        "partial": "Speed",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:sTime",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Main",
-        "fct-package": "TimePiece",
-        "fct-signature": "String",
-        "fct-source": "src/Main.html#Status",
-        "fct-type": "function",
-        "title": "sTime"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Main",
-        "module": "Main",
-        "name": "sTime",
-        "normalized": "",
-        "package": "TimePiece",
-        "partial": "Time",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:sWidth",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Main",
-        "fct-package": "TimePiece",
-        "fct-signature": "Int",
-        "fct-source": "src/Main.html#Status",
-        "fct-type": "function",
-        "title": "sWidth"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Main",
-        "module": "Main",
-        "name": "sWidth",
-        "normalized": "",
-        "package": "TimePiece",
-        "partial": "Width",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:sZoom",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Main",
-        "fct-package": "TimePiece",
-        "fct-signature": "Zoom",
-        "fct-source": "src/Main.html#Status",
-        "fct-type": "function",
-        "title": "sZoom"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Main",
-        "module": "Main",
-        "name": "sZoom",
-        "normalized": "",
-        "package": "TimePiece",
-        "partial": "Zoom",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:tEdge",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Main",
-        "fct-package": "TimePiece",
-        "fct-signature": "Point",
-        "fct-source": "src/Main.html#Tiling",
-        "fct-type": "function",
-        "title": "tEdge"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Main",
-        "module": "Main",
-        "name": "tEdge",
-        "normalized": "",
-        "package": "TimePiece",
-        "partial": "Edge",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:tSeeds",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Main",
-        "fct-package": "TimePiece",
-        "fct-signature": "[Int]",
-        "fct-source": "src/Main.html#Tiling",
-        "fct-type": "function",
-        "title": "tSeeds"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Main",
-        "module": "Main",
-        "name": "tSeeds",
-        "normalized": "[Int]",
-        "package": "TimePiece",
-        "partial": "Seeds",
-        "signature": "[Int]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TimePiece/docs/Main.html#v:tTiles",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Main",
-        "fct-package": "TimePiece",
-        "fct-signature": "Tiles",
-        "fct-source": "src/Main.html#Tiling",
-        "fct-type": "function",
-        "title": "tTiles"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Main",
-        "module": "Main",
-        "name": "tTiles",
-        "normalized": "",
-        "package": "TimePiece",
-        "partial": "Tiles",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

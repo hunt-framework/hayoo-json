@@ -1,592 +1,571 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#",
-      "description": {
-        "fct-module": "Network.AMI",
-        "fct-package": "AMI",
-        "fct-signature": "module",
-        "fct-source": "src/Network-AMI.html",
-        "fct-type": "module",
-        "title": "AMI"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "AMI"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Network AMI",
-        "module": "Network.AMI",
-        "name": "AMI",
-        "normalized": "",
-        "package": "AMI",
-        "partial": "AMI",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#t:AMI",
-      "description": {
-        "fct-descr": "\u003cp\u003eThe AMI monad\n\u003c/p\u003e",
-        "fct-module": "Network.AMI",
-        "fct-package": "AMI",
-        "fct-signature": "type",
-        "fct-source": "src/Network-AMI.html#AMI",
-        "fct-type": "type",
-        "title": "AMI"
-      },
-      "index": {
-        "description": "The AMI monad",
-        "hierarchy": "Network AMI",
-        "module": "Network.AMI",
-        "name": "AMI",
-        "normalized": "",
-        "package": "AMI",
-        "partial": "AMI",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.AMI",
+          "name": "AMI",
+          "package": "AMI",
+          "source": "src/Network-AMI.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Network AMI",
+          "module": "Network.AMI",
+          "name": "AMI",
+          "package": "AMI",
+          "partial": "AMI",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eThe AMI monad\n\u003c/p\u003e",
+          "module": "Network.AMI",
+          "name": "AMI",
+          "package": "AMI",
+          "source": "src/Network-AMI.html#AMI",
+          "type": "type"
+        },
+        "index": {
+          "description": "The AMI monad",
+          "hierarchy": "Network AMI",
+          "module": "Network.AMI",
+          "name": "AMI",
+          "package": "AMI",
+          "partial": "AMI",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#t:AMI"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eAction packet (sent to Asterisk)\n\u003c/p\u003e",
+          "module": "Network.AMI",
+          "name": "Action",
+          "package": "AMI",
+          "source": "src/Network-AMI.html#Action",
+          "type": "data"
+        },
+        "index": {
+          "description": "Action packet sent to Asterisk",
+          "hierarchy": "Network AMI",
+          "module": "Network.AMI",
+          "name": "Action",
+          "package": "AMI",
+          "partial": "Action",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#t:Action"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.AMI",
+          "name": "ActionID",
+          "package": "AMI",
+          "source": "src/Network-AMI.html#ActionID",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Network AMI",
+          "module": "Network.AMI",
+          "name": "ActionID",
+          "package": "AMI",
+          "partial": "Action ID",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#t:ActionID"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.AMI",
+          "name": "ActionType",
+          "package": "AMI",
+          "source": "src/Network-AMI.html#ActionType",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Network AMI",
+          "module": "Network.AMI",
+          "name": "ActionType",
+          "package": "AMI",
+          "partial": "Action Type",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#t:ActionType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInfo needed to connect and authenticate in Asterisk\n\u003c/p\u003e",
+          "module": "Network.AMI",
+          "name": "ConnectInfo",
+          "package": "AMI",
+          "source": "src/Network-AMI.html#ConnectInfo",
+          "type": "data"
+        },
+        "index": {
+          "description": "Info needed to connect and authenticate in Asterisk",
+          "hierarchy": "Network AMI",
+          "module": "Network.AMI",
+          "name": "ConnectInfo",
+          "package": "AMI",
+          "partial": "Connect Info",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#t:ConnectInfo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eEvent packet (received from Asterisk)\n\u003c/p\u003e",
+          "module": "Network.AMI",
+          "name": "Event",
+          "package": "AMI",
+          "source": "src/Network-AMI.html#Event",
+          "type": "data"
+        },
+        "index": {
+          "description": "Event packet received from Asterisk",
+          "hierarchy": "Network AMI",
+          "module": "Network.AMI",
+          "name": "Event",
+          "package": "AMI",
+          "partial": "Event",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#t:Event"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.AMI",
+          "name": "EventHandler",
+          "package": "AMI",
+          "source": "src/Network-AMI.html#EventHandler",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Network AMI",
+          "module": "Network.AMI",
+          "name": "EventHandler",
+          "package": "AMI",
+          "partial": "Event Handler",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#t:EventHandler"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.AMI",
+          "name": "EventType",
+          "package": "AMI",
+          "source": "src/Network-AMI.html#EventType",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Network AMI",
+          "module": "Network.AMI",
+          "name": "EventType",
+          "package": "AMI",
+          "partial": "Event Type",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#t:EventType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eAction or response or event parameters\n\u003c/p\u003e",
+          "module": "Network.AMI",
+          "name": "Parameters",
+          "package": "AMI",
+          "source": "src/Network-AMI.html#Parameters",
+          "type": "type"
+        },
+        "index": {
+          "description": "Action or response or event parameters",
+          "hierarchy": "Network AMI",
+          "module": "Network.AMI",
+          "name": "Parameters",
+          "package": "AMI",
+          "partial": "Parameters",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#t:Parameters"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eResponse packet (received from Asterisk)\n\u003c/p\u003e",
+          "module": "Network.AMI",
+          "name": "Response",
+          "package": "AMI",
+          "source": "src/Network-AMI.html#Response",
+          "type": "data"
+        },
+        "index": {
+          "description": "Response packet received from Asterisk",
+          "hierarchy": "Network AMI",
+          "module": "Network.AMI",
+          "name": "Response",
+          "package": "AMI",
+          "partial": "Response",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#t:Response"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.AMI",
+          "name": "ResponseType",
+          "package": "AMI",
+          "source": "src/Network-AMI.html#ResponseType",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Network AMI",
+          "module": "Network.AMI",
+          "name": "ResponseType",
+          "package": "AMI",
+          "partial": "Response Type",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#t:ResponseType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.AMI",
+          "name": "Action",
+          "package": "AMI",
+          "signature": "Action ActionID ActionType Parameters",
+          "source": "src/Network-AMI.html#Action",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network AMI",
+          "module": "Network.AMI",
+          "name": "Action",
+          "package": "AMI",
+          "partial": "Action",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#v:Action"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.AMI",
+          "name": "ConnectInfo",
+          "package": "AMI",
+          "signature": "ConnectInfo",
+          "source": "src/Network-AMI.html#ConnectInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network AMI",
+          "module": "Network.AMI",
+          "name": "ConnectInfo",
+          "package": "AMI",
+          "partial": "Connect Info",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#v:ConnectInfo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.AMI",
+          "name": "Event",
+          "package": "AMI",
+          "signature": "Event EventType Parameters",
+          "source": "src/Network-AMI.html#Event",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network AMI",
+          "module": "Network.AMI",
+          "name": "Event",
+          "package": "AMI",
+          "partial": "Event",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#v:Event"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.AMI",
+          "name": "Response",
+          "package": "AMI",
+          "signature": "Response ActionID ResponseType Parameters [ByteString]",
+          "source": "src/Network-AMI.html#Response",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network AMI",
+          "module": "Network.AMI",
+          "name": "Response",
+          "normalized": "Response ActionID ResponseType Parameters[ByteString]",
+          "package": "AMI",
+          "partial": "Response",
+          "signature": "Response ActionID ResponseType Parameters[ByteString]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#v:Response"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eHost with Asterisk server (e.g. \u003ccode\u003elocalhost\u003c/code\u003e)\n\u003c/p\u003e",
+          "module": "Network.AMI",
+          "name": "ciHost",
+          "package": "AMI",
+          "signature": "String",
+          "source": "src/Network-AMI.html#ConnectInfo",
+          "type": "function"
+        },
+        "index": {
+          "description": "Host with Asterisk server e.g localhost",
+          "hierarchy": "Network AMI",
+          "module": "Network.AMI",
+          "name": "ciHost",
+          "package": "AMI",
+          "partial": "Host",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#v:ciHost"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ePort of Asterisk server (usually 5038)\n\u003c/p\u003e",
+          "module": "Network.AMI",
+          "name": "ciPort",
+          "package": "AMI",
+          "signature": "Int",
+          "source": "src/Network-AMI.html#ConnectInfo",
+          "type": "function"
+        },
+        "index": {
+          "description": "Port of Asterisk server usually",
+          "hierarchy": "Network AMI",
+          "module": "Network.AMI",
+          "name": "ciPort",
+          "package": "AMI",
+          "partial": "Port",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#v:ciPort"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eSecret\n\u003c/p\u003e",
+          "module": "Network.AMI",
+          "name": "ciSecret",
+          "package": "AMI",
+          "signature": "ByteString",
+          "source": "src/Network-AMI.html#ConnectInfo",
+          "type": "function"
+        },
+        "index": {
+          "description": "Secret",
+          "hierarchy": "Network AMI",
+          "module": "Network.AMI",
+          "name": "ciSecret",
+          "package": "AMI",
+          "partial": "Secret",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#v:ciSecret"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eUsername\n\u003c/p\u003e",
+          "module": "Network.AMI",
+          "name": "ciUsername",
+          "package": "AMI",
+          "signature": "ByteString",
+          "source": "src/Network-AMI.html#ConnectInfo",
+          "type": "function"
+        },
+        "index": {
+          "description": "Username",
+          "hierarchy": "Network AMI",
+          "module": "Network.AMI",
+          "name": "ciUsername",
+          "package": "AMI",
+          "partial": "Username",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#v:ciUsername"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eAdd an event handler\n\u003c/p\u003e",
+          "module": "Network.AMI",
+          "name": "handleEvent",
+          "package": "AMI",
+          "signature": "EventType -\u003e EventHandler -\u003e AMI ()",
+          "source": "src/Network-AMI.html#handleEvent",
+          "type": "function"
+        },
+        "index": {
+          "description": "Add an event handler",
+          "hierarchy": "Network AMI",
+          "module": "Network.AMI",
+          "name": "handleEvent",
+          "normalized": "EventType-\u003eEventHandler-\u003eAMI()",
+          "package": "AMI",
+          "partial": "Event",
+          "signature": "EventType-\u003eEventHandler-\u003eAMI()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#v:handleEvent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eSend an Action packet and return the response.\n\u003c/p\u003e\u003cp\u003eCAUTION: the response value should be evaluated in order\n to be removed from internal responses queue. Leaving\n response value un-evaluated (e.g. unused) will cause\n memory leak.\n\u003c/p\u003e",
+          "module": "Network.AMI",
+          "name": "query",
+          "package": "AMI",
+          "signature": "ActionType -\u003e Parameters -\u003e AMI Response",
+          "source": "src/Network-AMI.html#query",
+          "type": "function"
+        },
+        "index": {
+          "description": "Send an Action packet and return the response CAUTION the response value should be evaluated in order to be removed from internal responses queue Leaving response value un-evaluated e.g unused will cause memory leak",
+          "hierarchy": "Network AMI",
+          "module": "Network.AMI",
+          "name": "query",
+          "normalized": "ActionType-\u003eParameters-\u003eAMI Response",
+          "package": "AMI",
+          "signature": "ActionType-\u003eParameters-\u003eAMI Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#v:query"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eConnect, execute acions, disconnect\n\u003c/p\u003e",
+          "module": "Network.AMI",
+          "name": "withAMI",
+          "package": "AMI",
+          "signature": "ConnectInfo -\u003e AMI a -\u003e IO a",
+          "source": "src/Network-AMI.html#withAMI",
+          "type": "function"
+        },
+        "index": {
+          "description": "Connect execute acions disconnect",
+          "hierarchy": "Network AMI",
+          "module": "Network.AMI",
+          "name": "withAMI",
+          "normalized": "ConnectInfo-\u003eAMI a-\u003eIO a",
+          "package": "AMI",
+          "partial": "AMI",
+          "signature": "ConnectInfo-\u003eAMI a-\u003eIO a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#v:withAMI"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eConnect (using MD5 challenge), execute acions, disconnect\n\u003c/p\u003e",
+          "module": "Network.AMI",
+          "name": "withAMI_MD5",
+          "package": "AMI",
+          "signature": "ConnectInfo -\u003e AMI a -\u003e IO a",
+          "source": "src/Network-AMI.html#withAMI_MD5",
+          "type": "function"
+        },
+        "index": {
+          "description": "Connect using MD5 challenge execute acions disconnect",
+          "hierarchy": "Network AMI",
+          "module": "Network.AMI",
+          "name": "withAMI_MD5",
+          "normalized": "ConnectInfo-\u003eAMI a-\u003eIO a",
+          "package": "AMI",
+          "partial": "AMI MD",
+          "signature": "ConnectInfo-\u003eAMI a-\u003eIO a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#v:withAMI_MD5"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#t:Action",
-      "description": {
-        "fct-descr": "\u003cp\u003eAction packet (sent to Asterisk)\n\u003c/p\u003e",
-        "fct-module": "Network.AMI",
-        "fct-package": "AMI",
-        "fct-signature": "data",
-        "fct-source": "src/Network-AMI.html#Action",
-        "fct-type": "data",
-        "title": "Action"
-      },
-      "index": {
-        "description": "Action packet sent to Asterisk",
-        "hierarchy": "Network AMI",
-        "module": "Network.AMI",
-        "name": "Action",
-        "normalized": "",
-        "package": "AMI",
-        "partial": "Action",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#t:ActionID",
-      "description": {
-        "fct-module": "Network.AMI",
-        "fct-package": "AMI",
-        "fct-signature": "type",
-        "fct-source": "src/Network-AMI.html#ActionID",
-        "fct-type": "type",
-        "title": "ActionID"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network AMI",
-        "module": "Network.AMI",
-        "name": "ActionID",
-        "normalized": "",
-        "package": "AMI",
-        "partial": "Action ID",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#t:ActionType",
-      "description": {
-        "fct-module": "Network.AMI",
-        "fct-package": "AMI",
-        "fct-signature": "type",
-        "fct-source": "src/Network-AMI.html#ActionType",
-        "fct-type": "type",
-        "title": "ActionType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network AMI",
-        "module": "Network.AMI",
-        "name": "ActionType",
-        "normalized": "",
-        "package": "AMI",
-        "partial": "Action Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#t:ConnectInfo",
-      "description": {
-        "fct-descr": "\u003cp\u003eInfo needed to connect and authenticate in Asterisk\n\u003c/p\u003e",
-        "fct-module": "Network.AMI",
-        "fct-package": "AMI",
-        "fct-signature": "data",
-        "fct-source": "src/Network-AMI.html#ConnectInfo",
-        "fct-type": "data",
-        "title": "ConnectInfo"
-      },
-      "index": {
-        "description": "Info needed to connect and authenticate in Asterisk",
-        "hierarchy": "Network AMI",
-        "module": "Network.AMI",
-        "name": "ConnectInfo",
-        "normalized": "",
-        "package": "AMI",
-        "partial": "Connect Info",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#t:Event",
-      "description": {
-        "fct-descr": "\u003cp\u003eEvent packet (received from Asterisk)\n\u003c/p\u003e",
-        "fct-module": "Network.AMI",
-        "fct-package": "AMI",
-        "fct-signature": "data",
-        "fct-source": "src/Network-AMI.html#Event",
-        "fct-type": "data",
-        "title": "Event"
-      },
-      "index": {
-        "description": "Event packet received from Asterisk",
-        "hierarchy": "Network AMI",
-        "module": "Network.AMI",
-        "name": "Event",
-        "normalized": "",
-        "package": "AMI",
-        "partial": "Event",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#t:EventHandler",
-      "description": {
-        "fct-module": "Network.AMI",
-        "fct-package": "AMI",
-        "fct-signature": "type",
-        "fct-source": "src/Network-AMI.html#EventHandler",
-        "fct-type": "type",
-        "title": "EventHandler"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network AMI",
-        "module": "Network.AMI",
-        "name": "EventHandler",
-        "normalized": "",
-        "package": "AMI",
-        "partial": "Event Handler",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#t:EventType",
-      "description": {
-        "fct-module": "Network.AMI",
-        "fct-package": "AMI",
-        "fct-signature": "type",
-        "fct-source": "src/Network-AMI.html#EventType",
-        "fct-type": "type",
-        "title": "EventType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network AMI",
-        "module": "Network.AMI",
-        "name": "EventType",
-        "normalized": "",
-        "package": "AMI",
-        "partial": "Event Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#t:Parameters",
-      "description": {
-        "fct-descr": "\u003cp\u003eAction or response or event parameters\n\u003c/p\u003e",
-        "fct-module": "Network.AMI",
-        "fct-package": "AMI",
-        "fct-signature": "type",
-        "fct-source": "src/Network-AMI.html#Parameters",
-        "fct-type": "type",
-        "title": "Parameters"
-      },
-      "index": {
-        "description": "Action or response or event parameters",
-        "hierarchy": "Network AMI",
-        "module": "Network.AMI",
-        "name": "Parameters",
-        "normalized": "",
-        "package": "AMI",
-        "partial": "Parameters",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#t:Response",
-      "description": {
-        "fct-descr": "\u003cp\u003eResponse packet (received from Asterisk)\n\u003c/p\u003e",
-        "fct-module": "Network.AMI",
-        "fct-package": "AMI",
-        "fct-signature": "data",
-        "fct-source": "src/Network-AMI.html#Response",
-        "fct-type": "data",
-        "title": "Response"
-      },
-      "index": {
-        "description": "Response packet received from Asterisk",
-        "hierarchy": "Network AMI",
-        "module": "Network.AMI",
-        "name": "Response",
-        "normalized": "",
-        "package": "AMI",
-        "partial": "Response",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#t:ResponseType",
-      "description": {
-        "fct-module": "Network.AMI",
-        "fct-package": "AMI",
-        "fct-signature": "type",
-        "fct-source": "src/Network-AMI.html#ResponseType",
-        "fct-type": "type",
-        "title": "ResponseType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network AMI",
-        "module": "Network.AMI",
-        "name": "ResponseType",
-        "normalized": "",
-        "package": "AMI",
-        "partial": "Response Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#v:Action",
-      "description": {
-        "fct-module": "Network.AMI",
-        "fct-package": "AMI",
-        "fct-signature": "Action ActionID ActionType Parameters",
-        "fct-source": "src/Network-AMI.html#Action",
-        "fct-type": "function",
-        "title": "Action"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network AMI",
-        "module": "Network.AMI",
-        "name": "Action",
-        "normalized": "",
-        "package": "AMI",
-        "partial": "Action",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#v:ConnectInfo",
-      "description": {
-        "fct-module": "Network.AMI",
-        "fct-package": "AMI",
-        "fct-signature": "ConnectInfo",
-        "fct-source": "src/Network-AMI.html#ConnectInfo",
-        "fct-type": "function",
-        "title": "ConnectInfo"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network AMI",
-        "module": "Network.AMI",
-        "name": "ConnectInfo",
-        "normalized": "",
-        "package": "AMI",
-        "partial": "Connect Info",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#v:Event",
-      "description": {
-        "fct-module": "Network.AMI",
-        "fct-package": "AMI",
-        "fct-signature": "Event EventType Parameters",
-        "fct-source": "src/Network-AMI.html#Event",
-        "fct-type": "function",
-        "title": "Event"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network AMI",
-        "module": "Network.AMI",
-        "name": "Event",
-        "normalized": "",
-        "package": "AMI",
-        "partial": "Event",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#v:Response",
-      "description": {
-        "fct-module": "Network.AMI",
-        "fct-package": "AMI",
-        "fct-signature": "Response ActionID ResponseType Parameters [ByteString]",
-        "fct-source": "src/Network-AMI.html#Response",
-        "fct-type": "function",
-        "title": "Response"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network AMI",
-        "module": "Network.AMI",
-        "name": "Response",
-        "normalized": "Response ActionID ResponseType Parameters[ByteString]",
-        "package": "AMI",
-        "partial": "Response",
-        "signature": "Response ActionID ResponseType Parameters[ByteString]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#v:ciHost",
-      "description": {
-        "fct-descr": "\u003cp\u003eHost with Asterisk server (e.g. \u003ccode\u003elocalhost\u003c/code\u003e)\n\u003c/p\u003e",
-        "fct-module": "Network.AMI",
-        "fct-package": "AMI",
-        "fct-signature": "String",
-        "fct-source": "src/Network-AMI.html#ConnectInfo",
-        "fct-type": "function",
-        "title": "ciHost"
-      },
-      "index": {
-        "description": "Host with Asterisk server e.g localhost",
-        "hierarchy": "Network AMI",
-        "module": "Network.AMI",
-        "name": "ciHost",
-        "normalized": "",
-        "package": "AMI",
-        "partial": "Host",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#v:ciPort",
-      "description": {
-        "fct-descr": "\u003cp\u003ePort of Asterisk server (usually 5038)\n\u003c/p\u003e",
-        "fct-module": "Network.AMI",
-        "fct-package": "AMI",
-        "fct-signature": "Int",
-        "fct-source": "src/Network-AMI.html#ConnectInfo",
-        "fct-type": "function",
-        "title": "ciPort"
-      },
-      "index": {
-        "description": "Port of Asterisk server usually",
-        "hierarchy": "Network AMI",
-        "module": "Network.AMI",
-        "name": "ciPort",
-        "normalized": "",
-        "package": "AMI",
-        "partial": "Port",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#v:ciSecret",
-      "description": {
-        "fct-descr": "\u003cp\u003eSecret\n\u003c/p\u003e",
-        "fct-module": "Network.AMI",
-        "fct-package": "AMI",
-        "fct-signature": "ByteString",
-        "fct-source": "src/Network-AMI.html#ConnectInfo",
-        "fct-type": "function",
-        "title": "ciSecret"
-      },
-      "index": {
-        "description": "Secret",
-        "hierarchy": "Network AMI",
-        "module": "Network.AMI",
-        "name": "ciSecret",
-        "normalized": "",
-        "package": "AMI",
-        "partial": "Secret",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#v:ciUsername",
-      "description": {
-        "fct-descr": "\u003cp\u003eUsername\n\u003c/p\u003e",
-        "fct-module": "Network.AMI",
-        "fct-package": "AMI",
-        "fct-signature": "ByteString",
-        "fct-source": "src/Network-AMI.html#ConnectInfo",
-        "fct-type": "function",
-        "title": "ciUsername"
-      },
-      "index": {
-        "description": "Username",
-        "hierarchy": "Network AMI",
-        "module": "Network.AMI",
-        "name": "ciUsername",
-        "normalized": "",
-        "package": "AMI",
-        "partial": "Username",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#v:handleEvent",
-      "description": {
-        "fct-descr": "\u003cp\u003eAdd an event handler\n\u003c/p\u003e",
-        "fct-module": "Network.AMI",
-        "fct-package": "AMI",
-        "fct-signature": "EventType -\u003e EventHandler -\u003e AMI ()",
-        "fct-source": "src/Network-AMI.html#handleEvent",
-        "fct-type": "function",
-        "title": "handleEvent"
-      },
-      "index": {
-        "description": "Add an event handler",
-        "hierarchy": "Network AMI",
-        "module": "Network.AMI",
-        "name": "handleEvent",
-        "normalized": "EventType-\u003eEventHandler-\u003eAMI()",
-        "package": "AMI",
-        "partial": "Event",
-        "signature": "EventType-\u003eEventHandler-\u003eAMI()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#v:query",
-      "description": {
-        "fct-descr": "\u003cp\u003eSend an Action packet and return the response.\n\u003c/p\u003e\u003cp\u003eCAUTION: the response value should be evaluated in order\n to be removed from internal responses queue. Leaving\n response value un-evaluated (e.g. unused) will cause\n memory leak.\n\u003c/p\u003e",
-        "fct-module": "Network.AMI",
-        "fct-package": "AMI",
-        "fct-signature": "ActionType -\u003e Parameters -\u003e AMI Response",
-        "fct-source": "src/Network-AMI.html#query",
-        "fct-type": "function",
-        "title": "query"
-      },
-      "index": {
-        "description": "Send an Action packet and return the response CAUTION the response value should be evaluated in order to be removed from internal responses queue Leaving response value un-evaluated e.g unused will cause memory leak",
-        "hierarchy": "Network AMI",
-        "module": "Network.AMI",
-        "name": "query",
-        "normalized": "ActionType-\u003eParameters-\u003eAMI Response",
-        "package": "AMI",
-        "partial": "",
-        "signature": "ActionType-\u003eParameters-\u003eAMI Response"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#v:withAMI",
-      "description": {
-        "fct-descr": "\u003cp\u003eConnect, execute acions, disconnect\n\u003c/p\u003e",
-        "fct-module": "Network.AMI",
-        "fct-package": "AMI",
-        "fct-signature": "ConnectInfo -\u003e AMI a -\u003e IO a",
-        "fct-source": "src/Network-AMI.html#withAMI",
-        "fct-type": "function",
-        "title": "withAMI"
-      },
-      "index": {
-        "description": "Connect execute acions disconnect",
-        "hierarchy": "Network AMI",
-        "module": "Network.AMI",
-        "name": "withAMI",
-        "normalized": "ConnectInfo-\u003eAMI a-\u003eIO a",
-        "package": "AMI",
-        "partial": "AMI",
-        "signature": "ConnectInfo-\u003eAMI a-\u003eIO a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/AMI/docs/Network-AMI.html#v:withAMI_MD5",
-      "description": {
-        "fct-descr": "\u003cp\u003eConnect (using MD5 challenge), execute acions, disconnect\n\u003c/p\u003e",
-        "fct-module": "Network.AMI",
-        "fct-package": "AMI",
-        "fct-signature": "ConnectInfo -\u003e AMI a -\u003e IO a",
-        "fct-source": "src/Network-AMI.html#withAMI_MD5",
-        "fct-type": "function",
-        "title": "withAMI_MD5"
-      },
-      "index": {
-        "description": "Connect using MD5 challenge execute acions disconnect",
-        "hierarchy": "Network AMI",
-        "module": "Network.AMI",
-        "name": "withAMI_MD5",
-        "normalized": "ConnectInfo-\u003eAMI a-\u003eIO a",
-        "package": "AMI",
-        "partial": "AMI MD",
-        "signature": "ConnectInfo-\u003eAMI a-\u003eIO a"
-      }
-    }
-  }
+  ]
 ]

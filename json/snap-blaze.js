@@ -1,51 +1,64 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/snap-blaze/docs/Snap-Blaze.html#",
-      "description": {
-        "fct-module": "Snap.Blaze",
-        "fct-package": "snap-blaze",
-        "fct-signature": "module",
-        "fct-source": "src/Snap-Blaze.html",
-        "fct-type": "module",
-        "title": "Blaze"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "snap-blaze"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Snap Blaze",
-        "module": "Snap.Blaze",
-        "name": "Blaze",
-        "normalized": "",
-        "package": "snap-blaze",
-        "partial": "Blaze",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/snap-blaze/docs/Snap-Blaze.html#v:blaze",
-      "description": {
-        "fct-descr": "\u003cp\u003eWrite some \u003ccode\u003e\u003ca\u003eHtml\u003c/a\u003e\u003c/code\u003e as response\n\u003c/p\u003e",
-        "fct-module": "Snap.Blaze",
-        "fct-package": "snap-blaze",
-        "fct-signature": "Html -\u003e m ()",
-        "fct-source": "src/Snap-Blaze.html#blaze",
-        "fct-type": "function",
-        "title": "blaze"
-      },
-      "index": {
-        "description": "Write some Html as response",
-        "hierarchy": "Snap Blaze",
-        "module": "Snap.Blaze",
-        "name": "blaze",
-        "normalized": "Html-\u003ea()",
-        "package": "snap-blaze",
-        "partial": "",
-        "signature": "Html-\u003em()"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Snap.Blaze",
+          "name": "Blaze",
+          "package": "snap-blaze",
+          "source": "src/Snap-Blaze.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Snap Blaze",
+          "module": "Snap.Blaze",
+          "name": "Blaze",
+          "package": "snap-blaze",
+          "partial": "Blaze",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/snap-blaze/docs/Snap-Blaze.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eWrite some \u003ccode\u003e\u003ca\u003eHtml\u003c/a\u003e\u003c/code\u003e as response\n\u003c/p\u003e",
+          "module": "Snap.Blaze",
+          "name": "blaze",
+          "package": "snap-blaze",
+          "signature": "Html -\u003e m ()",
+          "source": "src/Snap-Blaze.html#blaze",
+          "type": "function"
+        },
+        "index": {
+          "description": "Write some Html as response",
+          "hierarchy": "Snap Blaze",
+          "module": "Snap.Blaze",
+          "name": "blaze",
+          "normalized": "Html-\u003ea()",
+          "package": "snap-blaze",
+          "signature": "Html-\u003em()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/snap-blaze/docs/Snap-Blaze.html#v:blaze"
       }
     }
-  }
+  ]
 ]

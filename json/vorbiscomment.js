@@ -1,248 +1,236 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/vorbiscomment/docs/Codec-Audio-Vorbis.html#",
-      "description": {
-        "fct-module": "Codec.Audio.Vorbis",
-        "fct-package": "vorbiscomment",
-        "fct-signature": "module",
-        "fct-source": "src/Codec-Audio-Vorbis.html",
-        "fct-type": "module",
-        "title": "Vorbis"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "vorbiscomment"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Codec Audio Vorbis",
-        "module": "Codec.Audio.Vorbis",
-        "name": "Vorbis",
-        "normalized": "",
-        "package": "vorbiscomment",
-        "partial": "Vorbis",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/vorbiscomment/docs/Codec-Audio-Vorbis.html#t:AudioInfo",
-      "description": {
-        "fct-module": "Codec.Audio.Vorbis",
-        "fct-package": "vorbiscomment",
-        "fct-signature": "data",
-        "fct-source": "src/Codec-Audio-Vorbis.html#AudioInfo",
-        "fct-type": "data",
-        "title": "AudioInfo"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Codec Audio Vorbis",
-        "module": "Codec.Audio.Vorbis",
-        "name": "AudioInfo",
-        "normalized": "",
-        "package": "vorbiscomment",
-        "partial": "Audio Info",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Codec.Audio.Vorbis",
+          "name": "Vorbis",
+          "package": "vorbiscomment",
+          "source": "src/Codec-Audio-Vorbis.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Codec Audio Vorbis",
+          "module": "Codec.Audio.Vorbis",
+          "name": "Vorbis",
+          "package": "vorbiscomment",
+          "partial": "Vorbis",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/vorbiscomment/docs/Codec-Audio-Vorbis.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Codec.Audio.Vorbis",
+          "name": "AudioInfo",
+          "package": "vorbiscomment",
+          "source": "src/Codec-Audio-Vorbis.html#AudioInfo",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Codec Audio Vorbis",
+          "module": "Codec.Audio.Vorbis",
+          "name": "AudioInfo",
+          "package": "vorbiscomment",
+          "partial": "Audio Info",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/vorbiscomment/docs/Codec-Audio-Vorbis.html#t:AudioInfo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Codec.Audio.Vorbis",
+          "name": "AudioInfo",
+          "package": "vorbiscomment",
+          "signature": "AudioInfo",
+          "source": "src/Codec-Audio-Vorbis.html#AudioInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Codec Audio Vorbis",
+          "module": "Codec.Audio.Vorbis",
+          "name": "AudioInfo",
+          "package": "vorbiscomment",
+          "partial": "Audio Info",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/vorbiscomment/docs/Codec-Audio-Vorbis.html#v:AudioInfo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Codec.Audio.Vorbis",
+          "name": "channels",
+          "package": "vorbiscomment",
+          "signature": "Word8",
+          "source": "src/Codec-Audio-Vorbis.html#AudioInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Codec Audio Vorbis",
+          "module": "Codec.Audio.Vorbis",
+          "name": "channels",
+          "package": "vorbiscomment",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/vorbiscomment/docs/Codec-Audio-Vorbis.html#v:channels"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Codec.Audio.Vorbis",
+          "name": "maxBitrate",
+          "package": "vorbiscomment",
+          "signature": "Word32",
+          "source": "src/Codec-Audio-Vorbis.html#AudioInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Codec Audio Vorbis",
+          "module": "Codec.Audio.Vorbis",
+          "name": "maxBitrate",
+          "package": "vorbiscomment",
+          "partial": "Bitrate",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/vorbiscomment/docs/Codec-Audio-Vorbis.html#v:maxBitrate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Codec.Audio.Vorbis",
+          "name": "minBitrate",
+          "package": "vorbiscomment",
+          "signature": "Word32",
+          "source": "src/Codec-Audio-Vorbis.html#AudioInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Codec Audio Vorbis",
+          "module": "Codec.Audio.Vorbis",
+          "name": "minBitrate",
+          "package": "vorbiscomment",
+          "partial": "Bitrate",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/vorbiscomment/docs/Codec-Audio-Vorbis.html#v:minBitrate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Codec.Audio.Vorbis",
+          "name": "nominalBitrate",
+          "package": "vorbiscomment",
+          "signature": "Word32",
+          "source": "src/Codec-Audio-Vorbis.html#AudioInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Codec Audio Vorbis",
+          "module": "Codec.Audio.Vorbis",
+          "name": "nominalBitrate",
+          "package": "vorbiscomment",
+          "partial": "Bitrate",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/vorbiscomment/docs/Codec-Audio-Vorbis.html#v:nominalBitrate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Codec.Audio.Vorbis",
+          "name": "playtime",
+          "package": "vorbiscomment",
+          "signature": "Maybe Double",
+          "source": "src/Codec-Audio-Vorbis.html#AudioInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Codec Audio Vorbis",
+          "module": "Codec.Audio.Vorbis",
+          "name": "playtime",
+          "package": "vorbiscomment",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/vorbiscomment/docs/Codec-Audio-Vorbis.html#v:playtime"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Codec.Audio.Vorbis",
+          "name": "readAudioInfoAndComment",
+          "package": "vorbiscomment",
+          "signature": "FilePath -\u003e IO (Either String (AudioInfo, [(String, String)]))",
+          "source": "src/Codec-Audio-Vorbis.html#readAudioInfoAndComment",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Codec Audio Vorbis",
+          "module": "Codec.Audio.Vorbis",
+          "name": "readAudioInfoAndComment",
+          "normalized": "FilePath-\u003eIO(Either String(AudioInfo,[(String,String)]))",
+          "package": "vorbiscomment",
+          "partial": "Audio Info And Comment",
+          "signature": "FilePath-\u003eIO(Either String(AudioInfo,[(String,String)]))",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/vorbiscomment/docs/Codec-Audio-Vorbis.html#v:readAudioInfoAndComment"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Codec.Audio.Vorbis",
+          "name": "sampleRate",
+          "package": "vorbiscomment",
+          "signature": "Word32",
+          "source": "src/Codec-Audio-Vorbis.html#AudioInfo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Codec Audio Vorbis",
+          "module": "Codec.Audio.Vorbis",
+          "name": "sampleRate",
+          "package": "vorbiscomment",
+          "partial": "Rate",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/vorbiscomment/docs/Codec-Audio-Vorbis.html#v:sampleRate"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/vorbiscomment/docs/Codec-Audio-Vorbis.html#v:AudioInfo",
-      "description": {
-        "fct-module": "Codec.Audio.Vorbis",
-        "fct-package": "vorbiscomment",
-        "fct-signature": "AudioInfo",
-        "fct-source": "src/Codec-Audio-Vorbis.html#AudioInfo",
-        "fct-type": "function",
-        "title": "AudioInfo"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Codec Audio Vorbis",
-        "module": "Codec.Audio.Vorbis",
-        "name": "AudioInfo",
-        "normalized": "",
-        "package": "vorbiscomment",
-        "partial": "Audio Info",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/vorbiscomment/docs/Codec-Audio-Vorbis.html#v:channels",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Codec.Audio.Vorbis",
-        "fct-package": "vorbiscomment",
-        "fct-signature": "Word8",
-        "fct-source": "src/Codec-Audio-Vorbis.html#AudioInfo",
-        "fct-type": "function",
-        "title": "channels"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Codec Audio Vorbis",
-        "module": "Codec.Audio.Vorbis",
-        "name": "channels",
-        "normalized": "",
-        "package": "vorbiscomment",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/vorbiscomment/docs/Codec-Audio-Vorbis.html#v:maxBitrate",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Codec.Audio.Vorbis",
-        "fct-package": "vorbiscomment",
-        "fct-signature": "Word32",
-        "fct-source": "src/Codec-Audio-Vorbis.html#AudioInfo",
-        "fct-type": "function",
-        "title": "maxBitrate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Codec Audio Vorbis",
-        "module": "Codec.Audio.Vorbis",
-        "name": "maxBitrate",
-        "normalized": "",
-        "package": "vorbiscomment",
-        "partial": "Bitrate",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/vorbiscomment/docs/Codec-Audio-Vorbis.html#v:minBitrate",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Codec.Audio.Vorbis",
-        "fct-package": "vorbiscomment",
-        "fct-signature": "Word32",
-        "fct-source": "src/Codec-Audio-Vorbis.html#AudioInfo",
-        "fct-type": "function",
-        "title": "minBitrate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Codec Audio Vorbis",
-        "module": "Codec.Audio.Vorbis",
-        "name": "minBitrate",
-        "normalized": "",
-        "package": "vorbiscomment",
-        "partial": "Bitrate",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/vorbiscomment/docs/Codec-Audio-Vorbis.html#v:nominalBitrate",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Codec.Audio.Vorbis",
-        "fct-package": "vorbiscomment",
-        "fct-signature": "Word32",
-        "fct-source": "src/Codec-Audio-Vorbis.html#AudioInfo",
-        "fct-type": "function",
-        "title": "nominalBitrate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Codec Audio Vorbis",
-        "module": "Codec.Audio.Vorbis",
-        "name": "nominalBitrate",
-        "normalized": "",
-        "package": "vorbiscomment",
-        "partial": "Bitrate",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/vorbiscomment/docs/Codec-Audio-Vorbis.html#v:playtime",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Codec.Audio.Vorbis",
-        "fct-package": "vorbiscomment",
-        "fct-signature": "Maybe Double",
-        "fct-source": "src/Codec-Audio-Vorbis.html#AudioInfo",
-        "fct-type": "function",
-        "title": "playtime"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Codec Audio Vorbis",
-        "module": "Codec.Audio.Vorbis",
-        "name": "playtime",
-        "normalized": "",
-        "package": "vorbiscomment",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/vorbiscomment/docs/Codec-Audio-Vorbis.html#v:readAudioInfoAndComment",
-      "description": {
-        "fct-module": "Codec.Audio.Vorbis",
-        "fct-package": "vorbiscomment",
-        "fct-signature": "FilePath -\u003e IO (Either String (AudioInfo, [(String, String)]))",
-        "fct-source": "src/Codec-Audio-Vorbis.html#readAudioInfoAndComment",
-        "fct-type": "function",
-        "title": "readAudioInfoAndComment"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Codec Audio Vorbis",
-        "module": "Codec.Audio.Vorbis",
-        "name": "readAudioInfoAndComment",
-        "normalized": "FilePath-\u003eIO(Either String(AudioInfo,[(String,String)]))",
-        "package": "vorbiscomment",
-        "partial": "Audio Info And Comment",
-        "signature": "FilePath-\u003eIO(Either String(AudioInfo,[(String,String)]))"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/vorbiscomment/docs/Codec-Audio-Vorbis.html#v:sampleRate",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Codec.Audio.Vorbis",
-        "fct-package": "vorbiscomment",
-        "fct-signature": "Word32",
-        "fct-source": "src/Codec-Audio-Vorbis.html#AudioInfo",
-        "fct-type": "function",
-        "title": "sampleRate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Codec Audio Vorbis",
-        "module": "Codec.Audio.Vorbis",
-        "name": "sampleRate",
-        "normalized": "",
-        "package": "vorbiscomment",
-        "partial": "Rate",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

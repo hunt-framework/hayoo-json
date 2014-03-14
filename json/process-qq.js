@@ -1,98 +1,103 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/process-qq/docs/System-Process-QQ.html#",
-      "description": {
-        "fct-module": "System.Process.QQ",
-        "fct-package": "process-qq",
-        "fct-signature": "module",
-        "fct-source": "src/System-Process-QQ.html",
-        "fct-type": "module",
-        "title": "QQ"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "process-qq"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "System Process QQ",
-        "module": "System.Process.QQ",
-        "name": "QQ",
-        "normalized": "",
-        "package": "process-qq",
-        "partial": "QQ",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/process-qq/docs/System-Process-QQ.html#v:cmd",
-      "description": {
-        "fct-module": "System.Process.QQ",
-        "fct-package": "process-qq",
-        "fct-signature": "QuasiQuoter",
-        "fct-source": "src/System-Process-QQ.html#cmd",
-        "fct-type": "function",
-        "title": "cmd"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Process QQ",
-        "module": "System.Process.QQ",
-        "name": "cmd",
-        "normalized": "",
-        "package": "process-qq",
-        "partial": "",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Process.QQ",
+          "name": "QQ",
+          "package": "process-qq",
+          "source": "src/System-Process-QQ.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "System Process QQ",
+          "module": "System.Process.QQ",
+          "name": "QQ",
+          "package": "process-qq",
+          "partial": "QQ",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/process-qq/docs/System-Process-QQ.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Process.QQ",
+          "name": "cmd",
+          "package": "process-qq",
+          "signature": "QuasiQuoter",
+          "source": "src/System-Process-QQ.html#cmd",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Process QQ",
+          "module": "System.Process.QQ",
+          "name": "cmd",
+          "package": "process-qq",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/process-qq/docs/System-Process-QQ.html#v:cmd"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Process.QQ",
+          "name": "enumCmd",
+          "package": "process-qq",
+          "signature": "QuasiQuoter",
+          "source": "src/System-Process-QQ.html#enumCmd",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Process QQ",
+          "module": "System.Process.QQ",
+          "name": "enumCmd",
+          "package": "process-qq",
+          "partial": "Cmd",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/process-qq/docs/System-Process-QQ.html#v:enumCmd"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Process.QQ",
+          "name": "lcmd",
+          "package": "process-qq",
+          "signature": "QuasiQuoter",
+          "source": "src/System-Process-QQ.html#lcmd",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Process QQ",
+          "module": "System.Process.QQ",
+          "name": "lcmd",
+          "package": "process-qq",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/process-qq/docs/System-Process-QQ.html#v:lcmd"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/process-qq/docs/System-Process-QQ.html#v:enumCmd",
-      "description": {
-        "fct-module": "System.Process.QQ",
-        "fct-package": "process-qq",
-        "fct-signature": "QuasiQuoter",
-        "fct-source": "src/System-Process-QQ.html#enumCmd",
-        "fct-type": "function",
-        "title": "enumCmd"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Process QQ",
-        "module": "System.Process.QQ",
-        "name": "enumCmd",
-        "normalized": "",
-        "package": "process-qq",
-        "partial": "Cmd",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/process-qq/docs/System-Process-QQ.html#v:lcmd",
-      "description": {
-        "fct-module": "System.Process.QQ",
-        "fct-package": "process-qq",
-        "fct-signature": "QuasiQuoter",
-        "fct-source": "src/System-Process-QQ.html#lcmd",
-        "fct-type": "function",
-        "title": "lcmd"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Process QQ",
-        "module": "System.Process.QQ",
-        "name": "lcmd",
-        "normalized": "",
-        "package": "process-qq",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

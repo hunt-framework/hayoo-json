@@ -1,126 +1,143 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/test-sandbox-quickcheck/docs/Test-Sandbox-QuickCheck.html#",
-      "description": {
-        "fct-module": "Test.Sandbox.QuickCheck",
-        "fct-package": "test-sandbox-quickcheck",
-        "fct-signature": "module",
-        "fct-source": "src/Test-Sandbox-QuickCheck.html",
-        "fct-type": "module",
-        "title": "QuickCheck"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "test-sandbox-quickcheck"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Test Sandbox QuickCheck",
-        "module": "Test.Sandbox.QuickCheck",
-        "name": "QuickCheck",
-        "normalized": "",
-        "package": "test-sandbox-quickcheck",
-        "partial": "Quick Check",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/test-sandbox-quickcheck/docs/Test-Sandbox-QuickCheck.html#v:quickCheck",
-      "description": {
-        "fct-descr": "\u003cp\u003eTests a property and prints the results to stdout.\n\u003c/p\u003e",
-        "fct-module": "Test.Sandbox.QuickCheck",
-        "fct-package": "test-sandbox-quickcheck",
-        "fct-signature": "PropertyM Sandbox () -\u003e Sandbox ()",
-        "fct-source": "src/Test-Sandbox-QuickCheck.html#quickCheck",
-        "fct-type": "function",
-        "title": "quickCheck"
-      },
-      "index": {
-        "description": "Tests property and prints the results to stdout",
-        "hierarchy": "Test Sandbox QuickCheck",
-        "module": "Test.Sandbox.QuickCheck",
-        "name": "quickCheck",
-        "normalized": "PropertyM Sandbox()-\u003eSandbox()",
-        "package": "test-sandbox-quickcheck",
-        "partial": "Check",
-        "signature": "PropertyM Sandbox()-\u003eSandbox()"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Test.Sandbox.QuickCheck",
+          "name": "QuickCheck",
+          "package": "test-sandbox-quickcheck",
+          "source": "src/Test-Sandbox-QuickCheck.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Test Sandbox QuickCheck",
+          "module": "Test.Sandbox.QuickCheck",
+          "name": "QuickCheck",
+          "package": "test-sandbox-quickcheck",
+          "partial": "Quick Check",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/test-sandbox-quickcheck/docs/Test-Sandbox-QuickCheck.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eTests a property and prints the results to stdout.\n\u003c/p\u003e",
+          "module": "Test.Sandbox.QuickCheck",
+          "name": "quickCheck",
+          "package": "test-sandbox-quickcheck",
+          "signature": "PropertyM Sandbox () -\u003e Sandbox ()",
+          "source": "src/Test-Sandbox-QuickCheck.html#quickCheck",
+          "type": "function"
+        },
+        "index": {
+          "description": "Tests property and prints the results to stdout",
+          "hierarchy": "Test Sandbox QuickCheck",
+          "module": "Test.Sandbox.QuickCheck",
+          "name": "quickCheck",
+          "normalized": "PropertyM Sandbox()-\u003eSandbox()",
+          "package": "test-sandbox-quickcheck",
+          "partial": "Check",
+          "signature": "PropertyM Sandbox()-\u003eSandbox()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/test-sandbox-quickcheck/docs/Test-Sandbox-QuickCheck.html#v:quickCheck"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eTests a property, using test arguments, and prints the results to stdout.\n\u003c/p\u003e",
+          "module": "Test.Sandbox.QuickCheck",
+          "name": "quickCheckWith",
+          "package": "test-sandbox-quickcheck",
+          "signature": "Args -\u003e PropertyM Sandbox () -\u003e Sandbox ()",
+          "source": "src/Test-Sandbox-QuickCheck.html#quickCheckWith",
+          "type": "function"
+        },
+        "index": {
+          "description": "Tests property using test arguments and prints the results to stdout",
+          "hierarchy": "Test Sandbox QuickCheck",
+          "module": "Test.Sandbox.QuickCheck",
+          "name": "quickCheckWith",
+          "normalized": "Args-\u003ePropertyM Sandbox()-\u003eSandbox()",
+          "package": "test-sandbox-quickcheck",
+          "partial": "Check With",
+          "signature": "Args-\u003ePropertyM Sandbox()-\u003eSandbox()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/test-sandbox-quickcheck/docs/Test-Sandbox-QuickCheck.html#v:quickCheckWith"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eTests a property and prints the results and all test cases generated to stdout.\n\u003c/p\u003e",
+          "module": "Test.Sandbox.QuickCheck",
+          "name": "verboseCheck",
+          "package": "test-sandbox-quickcheck",
+          "signature": "PropertyM Sandbox () -\u003e Sandbox ()",
+          "source": "src/Test-Sandbox-QuickCheck.html#verboseCheck",
+          "type": "function"
+        },
+        "index": {
+          "description": "Tests property and prints the results and all test cases generated to stdout",
+          "hierarchy": "Test Sandbox QuickCheck",
+          "module": "Test.Sandbox.QuickCheck",
+          "name": "verboseCheck",
+          "normalized": "PropertyM Sandbox()-\u003eSandbox()",
+          "package": "test-sandbox-quickcheck",
+          "partial": "Check",
+          "signature": "PropertyM Sandbox()-\u003eSandbox()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/test-sandbox-quickcheck/docs/Test-Sandbox-QuickCheck.html#v:verboseCheck"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eTests a property, using test arguments, and prints the results and all test cases generated to stdout.\n\u003c/p\u003e",
+          "module": "Test.Sandbox.QuickCheck",
+          "name": "verboseCheckWith",
+          "package": "test-sandbox-quickcheck",
+          "signature": "Args -\u003e PropertyM Sandbox () -\u003e Sandbox ()",
+          "source": "src/Test-Sandbox-QuickCheck.html#verboseCheckWith",
+          "type": "function"
+        },
+        "index": {
+          "description": "Tests property using test arguments and prints the results and all test cases generated to stdout",
+          "hierarchy": "Test Sandbox QuickCheck",
+          "module": "Test.Sandbox.QuickCheck",
+          "name": "verboseCheckWith",
+          "normalized": "Args-\u003ePropertyM Sandbox()-\u003eSandbox()",
+          "package": "test-sandbox-quickcheck",
+          "partial": "Check With",
+          "signature": "Args-\u003ePropertyM Sandbox()-\u003eSandbox()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/test-sandbox-quickcheck/docs/Test-Sandbox-QuickCheck.html#v:verboseCheckWith"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/test-sandbox-quickcheck/docs/Test-Sandbox-QuickCheck.html#v:quickCheckWith",
-      "description": {
-        "fct-descr": "\u003cp\u003eTests a property, using test arguments, and prints the results to stdout.\n\u003c/p\u003e",
-        "fct-module": "Test.Sandbox.QuickCheck",
-        "fct-package": "test-sandbox-quickcheck",
-        "fct-signature": "Args -\u003e PropertyM Sandbox () -\u003e Sandbox ()",
-        "fct-source": "src/Test-Sandbox-QuickCheck.html#quickCheckWith",
-        "fct-type": "function",
-        "title": "quickCheckWith"
-      },
-      "index": {
-        "description": "Tests property using test arguments and prints the results to stdout",
-        "hierarchy": "Test Sandbox QuickCheck",
-        "module": "Test.Sandbox.QuickCheck",
-        "name": "quickCheckWith",
-        "normalized": "Args-\u003ePropertyM Sandbox()-\u003eSandbox()",
-        "package": "test-sandbox-quickcheck",
-        "partial": "Check With",
-        "signature": "Args-\u003ePropertyM Sandbox()-\u003eSandbox()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/test-sandbox-quickcheck/docs/Test-Sandbox-QuickCheck.html#v:verboseCheck",
-      "description": {
-        "fct-descr": "\u003cp\u003eTests a property and prints the results and all test cases generated to stdout.\n\u003c/p\u003e",
-        "fct-module": "Test.Sandbox.QuickCheck",
-        "fct-package": "test-sandbox-quickcheck",
-        "fct-signature": "PropertyM Sandbox () -\u003e Sandbox ()",
-        "fct-source": "src/Test-Sandbox-QuickCheck.html#verboseCheck",
-        "fct-type": "function",
-        "title": "verboseCheck"
-      },
-      "index": {
-        "description": "Tests property and prints the results and all test cases generated to stdout",
-        "hierarchy": "Test Sandbox QuickCheck",
-        "module": "Test.Sandbox.QuickCheck",
-        "name": "verboseCheck",
-        "normalized": "PropertyM Sandbox()-\u003eSandbox()",
-        "package": "test-sandbox-quickcheck",
-        "partial": "Check",
-        "signature": "PropertyM Sandbox()-\u003eSandbox()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/test-sandbox-quickcheck/docs/Test-Sandbox-QuickCheck.html#v:verboseCheckWith",
-      "description": {
-        "fct-descr": "\u003cp\u003eTests a property, using test arguments, and prints the results and all test cases generated to stdout.\n\u003c/p\u003e",
-        "fct-module": "Test.Sandbox.QuickCheck",
-        "fct-package": "test-sandbox-quickcheck",
-        "fct-signature": "Args -\u003e PropertyM Sandbox () -\u003e Sandbox ()",
-        "fct-source": "src/Test-Sandbox-QuickCheck.html#verboseCheckWith",
-        "fct-type": "function",
-        "title": "verboseCheckWith"
-      },
-      "index": {
-        "description": "Tests property using test arguments and prints the results and all test cases generated to stdout",
-        "hierarchy": "Test Sandbox QuickCheck",
-        "module": "Test.Sandbox.QuickCheck",
-        "name": "verboseCheckWith",
-        "normalized": "Args-\u003ePropertyM Sandbox()-\u003eSandbox()",
-        "package": "test-sandbox-quickcheck",
-        "partial": "Check With",
-        "signature": "Args-\u003ePropertyM Sandbox()-\u003eSandbox()"
-      }
-    }
-  }
+  ]
 ]

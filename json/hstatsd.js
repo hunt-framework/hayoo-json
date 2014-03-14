@@ -1,342 +1,329 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hstatsd/docs/Network-StatsD.html#",
-      "description": {
-        "fct-module": "Network.StatsD",
-        "fct-package": "hstatsd",
-        "fct-signature": "module",
-        "fct-source": "src/Network-StatsD.html",
-        "fct-type": "module",
-        "title": "StatsD"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "hstatsd"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Network StatsD",
-        "module": "Network.StatsD",
-        "name": "StatsD",
-        "normalized": "",
-        "package": "hstatsd",
-        "partial": "Stats",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hstatsd/docs/Network-StatsD.html#t:Stat",
-      "description": {
-        "fct-module": "Network.StatsD",
-        "fct-package": "hstatsd",
-        "fct-signature": "data",
-        "fct-source": "src/Network-StatsD.html#Stat",
-        "fct-type": "data",
-        "title": "Stat"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network StatsD",
-        "module": "Network.StatsD",
-        "name": "Stat",
-        "normalized": "",
-        "package": "hstatsd",
-        "partial": "Stat",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.StatsD",
+          "name": "StatsD",
+          "package": "hstatsd",
+          "source": "src/Network-StatsD.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Network StatsD",
+          "module": "Network.StatsD",
+          "name": "StatsD",
+          "package": "hstatsd",
+          "partial": "Stats",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/hstatsd/docs/Network-StatsD.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.StatsD",
+          "name": "Stat",
+          "package": "hstatsd",
+          "source": "src/Network-StatsD.html#Stat",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Network StatsD",
+          "module": "Network.StatsD",
+          "name": "Stat",
+          "package": "hstatsd",
+          "partial": "Stat",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/hstatsd/docs/Network-StatsD.html#t:Stat"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.StatsD",
+          "name": "StatsD",
+          "package": "hstatsd",
+          "source": "src/Network-StatsD.html#StatsD",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Network StatsD",
+          "module": "Network.StatsD",
+          "name": "StatsD",
+          "package": "hstatsd",
+          "partial": "Stats",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/hstatsd/docs/Network-StatsD.html#t:StatsD"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.StatsD",
+          "name": "Stat",
+          "package": "hstatsd",
+          "signature": "Stat",
+          "source": "src/Network-StatsD.html#Stat",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network StatsD",
+          "module": "Network.StatsD",
+          "name": "Stat",
+          "package": "hstatsd",
+          "partial": "Stat",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hstatsd/docs/Network-StatsD.html#v:Stat"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.StatsD",
+          "name": "bucket",
+          "package": "hstatsd",
+          "signature": "Text",
+          "source": "src/Network-StatsD.html#Stat",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network StatsD",
+          "module": "Network.StatsD",
+          "name": "bucket",
+          "package": "hstatsd",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hstatsd/docs/Network-StatsD.html#v:bucket"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.StatsD",
+          "name": "closeStatsD",
+          "package": "hstatsd",
+          "signature": "StatsD -\u003e IO ()",
+          "source": "src/Network-StatsD.html#closeStatsD",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network StatsD",
+          "module": "Network.StatsD",
+          "name": "closeStatsD",
+          "normalized": "StatsD-\u003eIO()",
+          "package": "hstatsd",
+          "partial": "Stats",
+          "signature": "StatsD-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hstatsd/docs/Network-StatsD.html#v:closeStatsD"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.StatsD",
+          "name": "mkStatsD",
+          "package": "hstatsd",
+          "signature": "Socket -\u003e [String] -\u003e StatsD",
+          "source": "src/Network-StatsD.html#mkStatsD",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network StatsD",
+          "module": "Network.StatsD",
+          "name": "mkStatsD",
+          "normalized": "Socket-\u003e[String]-\u003eStatsD",
+          "package": "hstatsd",
+          "partial": "Stats",
+          "signature": "Socket-\u003e[String]-\u003eStatsD",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hstatsd/docs/Network-StatsD.html#v:mkStatsD"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.StatsD",
+          "name": "openStatsD",
+          "package": "hstatsd",
+          "signature": "HostName -\u003e ServiceName -\u003e [String] -\u003e IO StatsD",
+          "source": "src/Network-StatsD.html#openStatsD",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network StatsD",
+          "module": "Network.StatsD",
+          "name": "openStatsD",
+          "normalized": "HostName-\u003eServiceName-\u003e[String]-\u003eIO StatsD",
+          "package": "hstatsd",
+          "partial": "Stats",
+          "signature": "HostName-\u003eServiceName-\u003e[String]-\u003eIO StatsD",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hstatsd/docs/Network-StatsD.html#v:openStatsD"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.StatsD",
+          "name": "push",
+          "package": "hstatsd",
+          "signature": "StatsD -\u003e [Stat] -\u003e IO ()",
+          "source": "src/Network-StatsD.html#push",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network StatsD",
+          "module": "Network.StatsD",
+          "name": "push",
+          "normalized": "StatsD-\u003e[Stat]-\u003eIO()",
+          "package": "hstatsd",
+          "signature": "StatsD-\u003e[Stat]-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hstatsd/docs/Network-StatsD.html#v:push"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.StatsD",
+          "name": "sample",
+          "package": "hstatsd",
+          "signature": "(Maybe Double)",
+          "source": "src/Network-StatsD.html#Stat",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network StatsD",
+          "module": "Network.StatsD",
+          "name": "sample",
+          "package": "hstatsd",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hstatsd/docs/Network-StatsD.html#v:sample"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.StatsD",
+          "name": "showStat",
+          "package": "hstatsd",
+          "signature": "Stat -\u003e String",
+          "source": "src/Network-StatsD.html#showStat",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network StatsD",
+          "module": "Network.StatsD",
+          "name": "showStat",
+          "normalized": "Stat-\u003eString",
+          "package": "hstatsd",
+          "partial": "Stat",
+          "signature": "Stat-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hstatsd/docs/Network-StatsD.html#v:showStat"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.StatsD",
+          "name": "stat",
+          "package": "hstatsd",
+          "signature": "[String] -\u003e a -\u003e String -\u003e Maybe Double -\u003e Stat",
+          "source": "src/Network-StatsD.html#stat",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network StatsD",
+          "module": "Network.StatsD",
+          "name": "stat",
+          "normalized": "[String]-\u003ea-\u003eString-\u003eMaybe Double-\u003eStat",
+          "package": "hstatsd",
+          "signature": "[String]-\u003ea-\u003eString-\u003eMaybe Double-\u003eStat",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hstatsd/docs/Network-StatsD.html#v:stat"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.StatsD",
+          "name": "unit",
+          "package": "hstatsd",
+          "signature": "Text",
+          "source": "src/Network-StatsD.html#Stat",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network StatsD",
+          "module": "Network.StatsD",
+          "name": "unit",
+          "package": "hstatsd",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hstatsd/docs/Network-StatsD.html#v:unit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.StatsD",
+          "name": "val",
+          "package": "hstatsd",
+          "signature": "Text",
+          "source": "src/Network-StatsD.html#Stat",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network StatsD",
+          "module": "Network.StatsD",
+          "name": "val",
+          "package": "hstatsd",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hstatsd/docs/Network-StatsD.html#v:val"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hstatsd/docs/Network-StatsD.html#t:StatsD",
-      "description": {
-        "fct-module": "Network.StatsD",
-        "fct-package": "hstatsd",
-        "fct-signature": "data",
-        "fct-source": "src/Network-StatsD.html#StatsD",
-        "fct-type": "data",
-        "title": "StatsD"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network StatsD",
-        "module": "Network.StatsD",
-        "name": "StatsD",
-        "normalized": "",
-        "package": "hstatsd",
-        "partial": "Stats",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hstatsd/docs/Network-StatsD.html#v:Stat",
-      "description": {
-        "fct-module": "Network.StatsD",
-        "fct-package": "hstatsd",
-        "fct-signature": "Stat",
-        "fct-source": "src/Network-StatsD.html#Stat",
-        "fct-type": "function",
-        "title": "Stat"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network StatsD",
-        "module": "Network.StatsD",
-        "name": "Stat",
-        "normalized": "",
-        "package": "hstatsd",
-        "partial": "Stat",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hstatsd/docs/Network-StatsD.html#v:bucket",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.StatsD",
-        "fct-package": "hstatsd",
-        "fct-signature": "!Text",
-        "fct-source": "src/Network-StatsD.html#Stat",
-        "fct-type": "function",
-        "title": "bucket"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network StatsD",
-        "module": "Network.StatsD",
-        "name": "bucket",
-        "normalized": "",
-        "package": "hstatsd",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hstatsd/docs/Network-StatsD.html#v:closeStatsD",
-      "description": {
-        "fct-module": "Network.StatsD",
-        "fct-package": "hstatsd",
-        "fct-signature": "StatsD -\u003e IO ()",
-        "fct-source": "src/Network-StatsD.html#closeStatsD",
-        "fct-type": "function",
-        "title": "closeStatsD"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network StatsD",
-        "module": "Network.StatsD",
-        "name": "closeStatsD",
-        "normalized": "StatsD-\u003eIO()",
-        "package": "hstatsd",
-        "partial": "Stats",
-        "signature": "StatsD-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hstatsd/docs/Network-StatsD.html#v:mkStatsD",
-      "description": {
-        "fct-module": "Network.StatsD",
-        "fct-package": "hstatsd",
-        "fct-signature": "Socket -\u003e [String] -\u003e StatsD",
-        "fct-source": "src/Network-StatsD.html#mkStatsD",
-        "fct-type": "function",
-        "title": "mkStatsD"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network StatsD",
-        "module": "Network.StatsD",
-        "name": "mkStatsD",
-        "normalized": "Socket-\u003e[String]-\u003eStatsD",
-        "package": "hstatsd",
-        "partial": "Stats",
-        "signature": "Socket-\u003e[String]-\u003eStatsD"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hstatsd/docs/Network-StatsD.html#v:openStatsD",
-      "description": {
-        "fct-module": "Network.StatsD",
-        "fct-package": "hstatsd",
-        "fct-signature": "HostName -\u003e ServiceName -\u003e [String] -\u003e IO StatsD",
-        "fct-source": "src/Network-StatsD.html#openStatsD",
-        "fct-type": "function",
-        "title": "openStatsD"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network StatsD",
-        "module": "Network.StatsD",
-        "name": "openStatsD",
-        "normalized": "HostName-\u003eServiceName-\u003e[String]-\u003eIO StatsD",
-        "package": "hstatsd",
-        "partial": "Stats",
-        "signature": "HostName-\u003eServiceName-\u003e[String]-\u003eIO StatsD"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hstatsd/docs/Network-StatsD.html#v:push",
-      "description": {
-        "fct-module": "Network.StatsD",
-        "fct-package": "hstatsd",
-        "fct-signature": "StatsD -\u003e [Stat] -\u003e IO ()",
-        "fct-source": "src/Network-StatsD.html#push",
-        "fct-type": "function",
-        "title": "push"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network StatsD",
-        "module": "Network.StatsD",
-        "name": "push",
-        "normalized": "StatsD-\u003e[Stat]-\u003eIO()",
-        "package": "hstatsd",
-        "partial": "",
-        "signature": "StatsD-\u003e[Stat]-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hstatsd/docs/Network-StatsD.html#v:sample",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.StatsD",
-        "fct-package": "hstatsd",
-        "fct-signature": "!(Maybe Double)",
-        "fct-source": "src/Network-StatsD.html#Stat",
-        "fct-type": "function",
-        "title": "sample"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network StatsD",
-        "module": "Network.StatsD",
-        "name": "sample",
-        "normalized": "",
-        "package": "hstatsd",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hstatsd/docs/Network-StatsD.html#v:showStat",
-      "description": {
-        "fct-module": "Network.StatsD",
-        "fct-package": "hstatsd",
-        "fct-signature": "Stat -\u003e String",
-        "fct-source": "src/Network-StatsD.html#showStat",
-        "fct-type": "function",
-        "title": "showStat"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network StatsD",
-        "module": "Network.StatsD",
-        "name": "showStat",
-        "normalized": "Stat-\u003eString",
-        "package": "hstatsd",
-        "partial": "Stat",
-        "signature": "Stat-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hstatsd/docs/Network-StatsD.html#v:stat",
-      "description": {
-        "fct-module": "Network.StatsD",
-        "fct-package": "hstatsd",
-        "fct-signature": "[String] -\u003e a -\u003e String -\u003e Maybe Double -\u003e Stat",
-        "fct-source": "src/Network-StatsD.html#stat",
-        "fct-type": "function",
-        "title": "stat"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network StatsD",
-        "module": "Network.StatsD",
-        "name": "stat",
-        "normalized": "[String]-\u003ea-\u003eString-\u003eMaybe Double-\u003eStat",
-        "package": "hstatsd",
-        "partial": "",
-        "signature": "[String]-\u003ea-\u003eString-\u003eMaybe Double-\u003eStat"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hstatsd/docs/Network-StatsD.html#v:unit",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.StatsD",
-        "fct-package": "hstatsd",
-        "fct-signature": "!Text",
-        "fct-source": "src/Network-StatsD.html#Stat",
-        "fct-type": "function",
-        "title": "unit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network StatsD",
-        "module": "Network.StatsD",
-        "name": "unit",
-        "normalized": "",
-        "package": "hstatsd",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hstatsd/docs/Network-StatsD.html#v:val",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.StatsD",
-        "fct-package": "hstatsd",
-        "fct-signature": "!Text",
-        "fct-source": "src/Network-StatsD.html#Stat",
-        "fct-type": "function",
-        "title": "val"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network StatsD",
-        "module": "Network.StatsD",
-        "name": "val",
-        "normalized": "",
-        "package": "hstatsd",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

@@ -1,7158 +1,6718 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_AUFBV.html#",
-      "description": {
-        "fct-module": "SMTLib1.QF_AUFBV",
-        "fct-package": "smtLib",
-        "fct-signature": "module",
-        "fct-source": "src/SMTLib1-QF_AUFBV.html",
-        "fct-type": "module",
-        "title": "QF_AUFBV"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_AUFBV",
-        "module": "SMTLib1.QF_AUFBV",
-        "name": "QF_AUFBV",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "QF AUFBV",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_AUFBV.html#v:select",
-      "description": {
-        "fct-descr": "\u003cpre\u003eselect array index\u003c/pre\u003e",
-        "fct-module": "SMTLib1.QF_AUFBV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Term",
-        "fct-source": "src/SMTLib1-QF_AUFBV.html#select",
-        "fct-type": "function",
-        "title": "select"
-      },
-      "index": {
-        "description": "select array index",
-        "hierarchy": "SMTLib1 QF_AUFBV",
-        "module": "SMTLib1.QF_AUFBV",
-        "name": "select",
-        "normalized": "Term-\u003eTerm-\u003eTerm",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_AUFBV.html#v:store",
-      "description": {
-        "fct-descr": "\u003cpre\u003estore array index value\u003c/pre\u003e",
-        "fct-module": "SMTLib1.QF_AUFBV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Term -\u003e Term",
-        "fct-source": "src/SMTLib1-QF_AUFBV.html#store",
-        "fct-type": "function",
-        "title": "store"
-      },
-      "index": {
-        "description": "store array index value",
-        "hierarchy": "SMTLib1 QF_AUFBV",
-        "module": "SMTLib1.QF_AUFBV",
-        "name": "store",
-        "normalized": "Term-\u003eTerm-\u003eTerm-\u003eTerm",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eTerm-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_AUFBV.html#v:tArray",
-      "description": {
-        "fct-descr": "\u003cp\u003e'tArray i n' is an array indexed by bitvectors of widht \u003ccode\u003ei\u003c/code\u003e,\n and storing bitvectors of width \u003ccode\u003en\u003c/code\u003e.\n\u003c/p\u003e",
-        "fct-module": "SMTLib1.QF_AUFBV",
-        "fct-package": "smtLib",
-        "fct-signature": "Integer -\u003e Integer -\u003e Sort",
-        "fct-source": "src/SMTLib1-QF_AUFBV.html#tArray",
-        "fct-type": "function",
-        "title": "tArray"
-      },
-      "index": {
-        "description": "tArray is an array indexed by bitvectors of widht and storing bitvectors of width",
-        "hierarchy": "SMTLib1 QF_AUFBV",
-        "module": "SMTLib1.QF_AUFBV",
-        "name": "tArray",
-        "normalized": "Integer-\u003eInteger-\u003eSort",
-        "package": "smtLib",
-        "partial": "Array",
-        "signature": "Integer-\u003eInteger-\u003eSort"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "module",
-        "fct-source": "src/SMTLib1-QF_BV.html",
-        "fct-type": "module",
-        "title": "QF_BV"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "QF_BV",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "QF BV",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bit0",
-      "description": {
-        "fct-descr": "\u003cp\u003eBitVec[1]\n\u003c/p\u003e",
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term",
-        "fct-source": "src/SMTLib1-QF_BV.html#bit0",
-        "fct-type": "function",
-        "title": "bit0"
-      },
-      "index": {
-        "description": "BitVec",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "bit0",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bit1",
-      "description": {
-        "fct-descr": "\u003cp\u003eBitVec[1]\n\u003c/p\u003e",
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term",
-        "fct-source": "src/SMTLib1-QF_BV.html#bit1",
-        "fct-type": "function",
-        "title": "bit1"
-      },
-      "index": {
-        "description": "BitVec",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "bit1",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bv",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Integer -\u003e Integer -\u003e Term",
-        "fct-source": "src/SMTLib1-QF_BV.html#bv",
-        "fct-type": "function",
-        "title": "bv"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "bv",
-        "normalized": "Integer-\u003eInteger-\u003eTerm",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Integer-\u003eInteger-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvadd",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Term",
-        "fct-source": "src/SMTLib1-QF_BV.html#bvadd",
-        "fct-type": "function",
-        "title": "bvadd"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "bvadd",
-        "normalized": "Term-\u003eTerm-\u003eTerm",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvand",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Term",
-        "fct-source": "src/SMTLib1-QF_BV.html#bvand",
-        "fct-type": "function",
-        "title": "bvand"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "bvand",
-        "normalized": "Term-\u003eTerm-\u003eTerm",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvashr",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Term",
-        "fct-source": "src/SMTLib1-QF_BV.html#bvashr",
-        "fct-type": "function",
-        "title": "bvashr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "bvashr",
-        "normalized": "Term-\u003eTerm-\u003eTerm",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvcomp",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Term",
-        "fct-source": "src/SMTLib1-QF_BV.html#bvcomp",
-        "fct-type": "function",
-        "title": "bvcomp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "bvcomp",
-        "normalized": "Term-\u003eTerm-\u003eTerm",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvlshr",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Term",
-        "fct-source": "src/SMTLib1-QF_BV.html#bvlshr",
-        "fct-type": "function",
-        "title": "bvlshr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "bvlshr",
-        "normalized": "Term-\u003eTerm-\u003eTerm",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvmul",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Term",
-        "fct-source": "src/SMTLib1-QF_BV.html#bvmul",
-        "fct-type": "function",
-        "title": "bvmul"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "bvmul",
-        "normalized": "Term-\u003eTerm-\u003eTerm",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvnand",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Term",
-        "fct-source": "src/SMTLib1-QF_BV.html#bvnand",
-        "fct-type": "function",
-        "title": "bvnand"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "bvnand",
-        "normalized": "Term-\u003eTerm-\u003eTerm",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvneg",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term",
-        "fct-source": "src/SMTLib1-QF_BV.html#bvneg",
-        "fct-type": "function",
-        "title": "bvneg"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "bvneg",
-        "normalized": "Term-\u003eTerm",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvnor",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Term",
-        "fct-source": "src/SMTLib1-QF_BV.html#bvnor",
-        "fct-type": "function",
-        "title": "bvnor"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "bvnor",
-        "normalized": "Term-\u003eTerm-\u003eTerm",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvnot",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term",
-        "fct-source": "src/SMTLib1-QF_BV.html#bvnot",
-        "fct-type": "function",
-        "title": "bvnot"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "bvnot",
-        "normalized": "Term-\u003eTerm",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvor",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Term",
-        "fct-source": "src/SMTLib1-QF_BV.html#bvor",
-        "fct-type": "function",
-        "title": "bvor"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "bvor",
-        "normalized": "Term-\u003eTerm-\u003eTerm",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvsdiv",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Term",
-        "fct-source": "src/SMTLib1-QF_BV.html#bvsdiv",
-        "fct-type": "function",
-        "title": "bvsdiv"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "bvsdiv",
-        "normalized": "Term-\u003eTerm-\u003eTerm",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvsge",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Formula",
-        "fct-source": "src/SMTLib1-QF_BV.html#bvsge",
-        "fct-type": "function",
-        "title": "bvsge"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "bvsge",
-        "normalized": "Term-\u003eTerm-\u003eFormula",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eFormula"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvsgt",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Formula",
-        "fct-source": "src/SMTLib1-QF_BV.html#bvsgt",
-        "fct-type": "function",
-        "title": "bvsgt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "bvsgt",
-        "normalized": "Term-\u003eTerm-\u003eFormula",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eFormula"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvshl",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Term",
-        "fct-source": "src/SMTLib1-QF_BV.html#bvshl",
-        "fct-type": "function",
-        "title": "bvshl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "bvshl",
-        "normalized": "Term-\u003eTerm-\u003eTerm",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvsle",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Formula",
-        "fct-source": "src/SMTLib1-QF_BV.html#bvsle",
-        "fct-type": "function",
-        "title": "bvsle"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "bvsle",
-        "normalized": "Term-\u003eTerm-\u003eFormula",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eFormula"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvslt",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Formula",
-        "fct-source": "src/SMTLib1-QF_BV.html#bvslt",
-        "fct-type": "function",
-        "title": "bvslt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "bvslt",
-        "normalized": "Term-\u003eTerm-\u003eFormula",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eFormula"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvsmod",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Term",
-        "fct-source": "src/SMTLib1-QF_BV.html#bvsmod",
-        "fct-type": "function",
-        "title": "bvsmod"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "bvsmod",
-        "normalized": "Term-\u003eTerm-\u003eTerm",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvsrem",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Term",
-        "fct-source": "src/SMTLib1-QF_BV.html#bvsrem",
-        "fct-type": "function",
-        "title": "bvsrem"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "bvsrem",
-        "normalized": "Term-\u003eTerm-\u003eTerm",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvsub",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Term",
-        "fct-source": "src/SMTLib1-QF_BV.html#bvsub",
-        "fct-type": "function",
-        "title": "bvsub"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "bvsub",
-        "normalized": "Term-\u003eTerm-\u003eTerm",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvudiv",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Term",
-        "fct-source": "src/SMTLib1-QF_BV.html#bvudiv",
-        "fct-type": "function",
-        "title": "bvudiv"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "bvudiv",
-        "normalized": "Term-\u003eTerm-\u003eTerm",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvuge",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Formula",
-        "fct-source": "src/SMTLib1-QF_BV.html#bvuge",
-        "fct-type": "function",
-        "title": "bvuge"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "bvuge",
-        "normalized": "Term-\u003eTerm-\u003eFormula",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eFormula"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvugt",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Formula",
-        "fct-source": "src/SMTLib1-QF_BV.html#bvugt",
-        "fct-type": "function",
-        "title": "bvugt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "bvugt",
-        "normalized": "Term-\u003eTerm-\u003eFormula",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eFormula"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvule",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Formula",
-        "fct-source": "src/SMTLib1-QF_BV.html#bvule",
-        "fct-type": "function",
-        "title": "bvule"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "bvule",
-        "normalized": "Term-\u003eTerm-\u003eFormula",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eFormula"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvurem",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Term",
-        "fct-source": "src/SMTLib1-QF_BV.html#bvurem",
-        "fct-type": "function",
-        "title": "bvurem"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "bvurem",
-        "normalized": "Term-\u003eTerm-\u003eTerm",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvxnor",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Term",
-        "fct-source": "src/SMTLib1-QF_BV.html#bvxnor",
-        "fct-type": "function",
-        "title": "bvxnor"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "bvxnor",
-        "normalized": "Term-\u003eTerm-\u003eTerm",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvxor",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Term",
-        "fct-source": "src/SMTLib1-QF_BV.html#bvxor",
-        "fct-type": "function",
-        "title": "bvxor"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "bvxor",
-        "normalized": "Term-\u003eTerm-\u003eTerm",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:concat",
-      "description": {
-        "fct-descr": "\u003cdl\u003e\u003cdt\u003em\u003c/dt\u003e\u003cdd\u003e -\u003e [n] -\u003e [m+n]\n\u003c/dd\u003e\u003c/dl\u003e",
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Term",
-        "fct-source": "src/SMTLib1-QF_BV.html#concat",
-        "fct-type": "function",
-        "title": "concat"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "concat",
-        "normalized": "Term-\u003eTerm-\u003eTerm",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:extract",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Integer -\u003e Integer -\u003e Term -\u003e Term",
-        "fct-source": "src/SMTLib1-QF_BV.html#extract",
-        "fct-type": "function",
-        "title": "extract"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "extract",
-        "normalized": "Integer-\u003eInteger-\u003eTerm-\u003eTerm",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Integer-\u003eInteger-\u003eTerm-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:isBitVec",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Sort -\u003e Maybe Integer",
-        "fct-source": "src/SMTLib1-QF_BV.html#isBitVec",
-        "fct-type": "function",
-        "title": "isBitVec"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "isBitVec",
-        "normalized": "Sort-\u003eMaybe Integer",
-        "package": "smtLib",
-        "partial": "Bit Vec",
-        "signature": "Sort-\u003eMaybe Integer"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:repeat",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Integer -\u003e Term -\u003e Term",
-        "fct-source": "src/SMTLib1-QF_BV.html#repeat",
-        "fct-type": "function",
-        "title": "repeat"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "repeat",
-        "normalized": "Integer-\u003eTerm-\u003eTerm",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Integer-\u003eTerm-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:rotate_left",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Integer -\u003e Term -\u003e Term",
-        "fct-source": "src/SMTLib1-QF_BV.html#rotate_left",
-        "fct-type": "function",
-        "title": "rotate_left"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "rotate_left",
-        "normalized": "Integer-\u003eTerm-\u003eTerm",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Integer-\u003eTerm-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:rotate_right",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Integer -\u003e Term -\u003e Term",
-        "fct-source": "src/SMTLib1-QF_BV.html#rotate_right",
-        "fct-type": "function",
-        "title": "rotate_right"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "rotate_right",
-        "normalized": "Integer-\u003eTerm-\u003eTerm",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Integer-\u003eTerm-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:sign_extend",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Integer -\u003e Term -\u003e Term",
-        "fct-source": "src/SMTLib1-QF_BV.html#sign_extend",
-        "fct-type": "function",
-        "title": "sign_extend"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "sign_extend",
-        "normalized": "Integer-\u003eTerm-\u003eTerm",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Integer-\u003eTerm-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:tBitVec",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Integer -\u003e Sort",
-        "fct-source": "src/SMTLib1-QF_BV.html#tBitVec",
-        "fct-type": "function",
-        "title": "tBitVec"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "tBitVec",
-        "normalized": "Integer-\u003eSort",
-        "package": "smtLib",
-        "partial": "Bit Vec",
-        "signature": "Integer-\u003eSort"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:zero_extend",
-      "description": {
-        "fct-module": "SMTLib1.QF_BV",
-        "fct-package": "smtLib",
-        "fct-signature": "Integer -\u003e Term -\u003e Term",
-        "fct-source": "src/SMTLib1-QF_BV.html#zero_extend",
-        "fct-type": "function",
-        "title": "zero_extend"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1 QF_BV",
-        "module": "SMTLib1.QF_BV",
-        "name": "zero_extend",
-        "normalized": "Integer-\u003eTerm-\u003eTerm",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Integer-\u003eTerm-\u003eTerm"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "module",
-        "fct-source": "src/SMTLib1.html",
-        "fct-type": "module",
-        "title": "SMTLib1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "SMTLib1",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "SMTLib",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:Annot",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "data",
-        "fct-source": "src/SMTLib1-AST.html#Annot",
-        "fct-type": "data",
-        "title": "Annot"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Annot",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Annot",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:Binder",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "data",
-        "fct-source": "src/SMTLib1-AST.html#Binder",
-        "fct-type": "data",
-        "title": "Binder"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Binder",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Binder",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:Command",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "data",
-        "fct-source": "src/SMTLib1-AST.html#Command",
-        "fct-type": "data",
-        "title": "Command"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Command",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Command",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:Conn",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "data",
-        "fct-source": "src/SMTLib1-AST.html#Conn",
-        "fct-type": "data",
-        "title": "Conn"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Conn",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Conn",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:Formula",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "data",
-        "fct-source": "src/SMTLib1-AST.html#Formula",
-        "fct-type": "data",
-        "title": "Formula"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Formula",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Formula",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:FunDecl",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "data",
-        "fct-source": "src/SMTLib1-AST.html#FunDecl",
-        "fct-type": "data",
-        "title": "FunDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "FunDecl",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Fun Decl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:Ident",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "data",
-        "fct-source": "src/SMTLib1-AST.html#Ident",
-        "fct-type": "data",
-        "title": "Ident"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Ident",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Ident",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:Literal",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "data",
-        "fct-source": "src/SMTLib1-AST.html#Literal",
-        "fct-type": "data",
-        "title": "Literal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Literal",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Literal",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:Name",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "newtype",
-        "fct-source": "src/SMTLib1-AST.html#Name",
-        "fct-type": "newtype",
-        "title": "Name"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Name",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:PP",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "class",
-        "fct-source": "src/SMTLib1-PP.html#PP",
-        "fct-type": "class",
-        "title": "PP"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "PP",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "PP",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:PredDecl",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "data",
-        "fct-source": "src/SMTLib1-AST.html#PredDecl",
-        "fct-type": "data",
-        "title": "PredDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "PredDecl",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Pred Decl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:Quant",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "data",
-        "fct-source": "src/SMTLib1-AST.html#Quant",
-        "fct-type": "data",
-        "title": "Quant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Quant",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Quant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:Script",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "data",
-        "fct-source": "src/SMTLib1-AST.html#Script",
-        "fct-type": "data",
-        "title": "Script"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Script",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Script",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:Sort",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "type",
-        "fct-source": "src/SMTLib1-AST.html#Sort",
-        "fct-type": "type",
-        "title": "Sort"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Sort",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Sort",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:Status",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "data",
-        "fct-source": "src/SMTLib1-AST.html#Status",
-        "fct-type": "data",
-        "title": "Status"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Status",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Status",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:Term",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "data",
-        "fct-source": "src/SMTLib1-AST.html#Term",
-        "fct-type": "data",
-        "title": "Term"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Term",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Term",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:-61--47--61-",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Formula",
-        "fct-source": "src/SMTLib1-AST.html#%3D%2F%3D",
-        "fct-type": "function",
-        "title": "(=/=)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "(=/=) =/=",
-        "normalized": "Term-\u003eTerm-\u003eFormula",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eFormula"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:-61--61--61-",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Formula",
-        "fct-source": "src/SMTLib1-AST.html#%3D%3D%3D",
-        "fct-type": "function",
-        "title": "(===)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "(===) ===",
-        "normalized": "Term-\u003eTerm-\u003eFormula",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eFormula"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:.-60-.",
-      "description": {
-        "fct-descr": "\u003cp\u003eFor \u003ccode\u003e\u003ca\u003eInt\u003c/a\u003e\u003c/code\u003e\n\u003c/p\u003e",
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Formula",
-        "fct-source": "src/SMTLib1-AST.html#.%3C.",
-        "fct-type": "function",
-        "title": "(.\u003c.)"
-      },
-      "index": {
-        "description": "For Int",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "(.\u003c.) .\u003c.",
-        "normalized": "Term-\u003eTerm-\u003eFormula",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eFormula"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:.-62-.",
-      "description": {
-        "fct-descr": "\u003cp\u003eFor \u003ccode\u003e\u003ca\u003eInt\u003c/a\u003e\u003c/code\u003e\n\u003c/p\u003e",
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Term -\u003e Formula",
-        "fct-source": "src/SMTLib1-AST.html#.%3E.",
-        "fct-type": "function",
-        "title": "(.\u003e.)"
-      },
-      "index": {
-        "description": "For Int",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "(.\u003e.) .\u003e.",
-        "normalized": "Term-\u003eTerm-\u003eFormula",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTerm-\u003eFormula"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:And",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "And",
-        "fct-source": "src/SMTLib1-AST.html#Conn",
-        "fct-type": "function",
-        "title": "And"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "And",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "And",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:App",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "App Ident [Term]",
-        "fct-source": "src/SMTLib1-AST.html#Term",
-        "fct-type": "function",
-        "title": "App"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "App",
-        "normalized": "App Ident[Term]",
-        "package": "smtLib",
-        "partial": "App",
-        "signature": "App Ident[Term]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Attr",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Attr",
-        "fct-source": "src/SMTLib1-AST.html#Annot",
-        "fct-type": "function",
-        "title": "Attr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Attr",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Attr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Bind",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Bind",
-        "fct-source": "src/SMTLib1-AST.html#Binder",
-        "fct-type": "function",
-        "title": "Bind"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Bind",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Bind",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:CmdAnnot",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "CmdAnnot Annot",
-        "fct-source": "src/SMTLib1-AST.html#Command",
-        "fct-type": "function",
-        "title": "CmdAnnot"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "CmdAnnot",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Cmd Annot",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:CmdAssumption",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "CmdAssumption Formula",
-        "fct-source": "src/SMTLib1-AST.html#Command",
-        "fct-type": "function",
-        "title": "CmdAssumption"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "CmdAssumption",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Cmd Assumption",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:CmdExtraFuns",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "CmdExtraFuns [FunDecl]",
-        "fct-source": "src/SMTLib1-AST.html#Command",
-        "fct-type": "function",
-        "title": "CmdExtraFuns"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "CmdExtraFuns",
-        "normalized": "CmdExtraFuns[FunDecl]",
-        "package": "smtLib",
-        "partial": "Cmd Extra Funs",
-        "signature": "CmdExtraFuns[FunDecl]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:CmdExtraPreds",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "CmdExtraPreds [PredDecl]",
-        "fct-source": "src/SMTLib1-AST.html#Command",
-        "fct-type": "function",
-        "title": "CmdExtraPreds"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "CmdExtraPreds",
-        "normalized": "CmdExtraPreds[PredDecl]",
-        "package": "smtLib",
-        "partial": "Cmd Extra Preds",
-        "signature": "CmdExtraPreds[PredDecl]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:CmdExtraSorts",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "CmdExtraSorts [Sort]",
-        "fct-source": "src/SMTLib1-AST.html#Command",
-        "fct-type": "function",
-        "title": "CmdExtraSorts"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "CmdExtraSorts",
-        "normalized": "CmdExtraSorts[Sort]",
-        "package": "smtLib",
-        "partial": "Cmd Extra Sorts",
-        "signature": "CmdExtraSorts[Sort]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:CmdFormula",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "CmdFormula Formula",
-        "fct-source": "src/SMTLib1-AST.html#Command",
-        "fct-type": "function",
-        "title": "CmdFormula"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "CmdFormula",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Cmd Formula",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:CmdLogic",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "CmdLogic Ident",
-        "fct-source": "src/SMTLib1-AST.html#Command",
-        "fct-type": "function",
-        "title": "CmdLogic"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "CmdLogic",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Cmd Logic",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:CmdNotes",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "CmdNotes String",
-        "fct-source": "src/SMTLib1-AST.html#Command",
-        "fct-type": "function",
-        "title": "CmdNotes"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "CmdNotes",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Cmd Notes",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:CmdStatus",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "CmdStatus Status",
-        "fct-source": "src/SMTLib1-AST.html#Command",
-        "fct-type": "function",
-        "title": "CmdStatus"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "CmdStatus",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Cmd Status",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Conn",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Conn Conn [Formula]",
-        "fct-source": "src/SMTLib1-AST.html#Formula",
-        "fct-type": "function",
-        "title": "Conn"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Conn",
-        "normalized": "Conn Conn[Formula]",
-        "package": "smtLib",
-        "partial": "Conn",
-        "signature": "Conn Conn[Formula]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Exists",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Exists",
-        "fct-source": "src/SMTLib1-AST.html#Quant",
-        "fct-type": "function",
-        "title": "Exists"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Exists",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Exists",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:FAnnot",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "FAnnot Formula [Annot]",
-        "fct-source": "src/SMTLib1-AST.html#Formula",
-        "fct-type": "function",
-        "title": "FAnnot"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "FAnnot",
-        "normalized": "FAnnot Formula[Annot]",
-        "package": "smtLib",
-        "partial": "FAnnot",
-        "signature": "FAnnot Formula[Annot]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:FFalse",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "FFalse",
-        "fct-source": "src/SMTLib1-AST.html#Formula",
-        "fct-type": "function",
-        "title": "FFalse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "FFalse",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "FFalse",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:FLet",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "FLet Name Formula Formula",
-        "fct-source": "src/SMTLib1-AST.html#Formula",
-        "fct-type": "function",
-        "title": "FLet"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "FLet",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "FLet",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:FPred",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "FPred Ident [Term]",
-        "fct-source": "src/SMTLib1-AST.html#Formula",
-        "fct-type": "function",
-        "title": "FPred"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "FPred",
-        "normalized": "FPred Ident[Term]",
-        "package": "smtLib",
-        "partial": "FPred",
-        "signature": "FPred Ident[Term]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:FTrue",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "FTrue",
-        "fct-source": "src/SMTLib1-AST.html#Formula",
-        "fct-type": "function",
-        "title": "FTrue"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "FTrue",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "FTrue",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:FVar",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "FVar Name",
-        "fct-source": "src/SMTLib1-AST.html#Formula",
-        "fct-type": "function",
-        "title": "FVar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "FVar",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "FVar",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Forall",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Forall",
-        "fct-source": "src/SMTLib1-AST.html#Quant",
-        "fct-type": "function",
-        "title": "Forall"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Forall",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Forall",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:FunDecl",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "FunDecl",
-        "fct-source": "src/SMTLib1-AST.html#FunDecl",
-        "fct-type": "function",
-        "title": "FunDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "FunDecl",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Fun Decl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:I",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "I Name [Integer]",
-        "fct-source": "src/SMTLib1-AST.html#Ident",
-        "fct-type": "function",
-        "title": "I"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "I",
-        "normalized": "I Name[Integer]",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "I Name[Integer]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:ITE",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "ITE Formula Term Term",
-        "fct-source": "src/SMTLib1-AST.html#Term",
-        "fct-type": "function",
-        "title": "ITE"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "ITE",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "ITE",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:IfThenElse",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "IfThenElse",
-        "fct-source": "src/SMTLib1-AST.html#Conn",
-        "fct-type": "function",
-        "title": "IfThenElse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "IfThenElse",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "If Then Else",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Iff",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Iff",
-        "fct-source": "src/SMTLib1-AST.html#Conn",
-        "fct-type": "function",
-        "title": "Iff"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Iff",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Iff",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Implies",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Implies",
-        "fct-source": "src/SMTLib1-AST.html#Conn",
-        "fct-type": "function",
-        "title": "Implies"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Implies",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Implies",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Let",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Let Name Term Formula",
-        "fct-source": "src/SMTLib1-AST.html#Formula",
-        "fct-type": "function",
-        "title": "Let"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Let",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Let",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Lit",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Lit Literal",
-        "fct-source": "src/SMTLib1-AST.html#Term",
-        "fct-type": "function",
-        "title": "Lit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Lit",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Lit",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:LitFrac",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "LitFrac Rational",
-        "fct-source": "src/SMTLib1-AST.html#Literal",
-        "fct-type": "function",
-        "title": "LitFrac"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "LitFrac",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Lit Frac",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:LitNum",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "LitNum Integer",
-        "fct-source": "src/SMTLib1-AST.html#Literal",
-        "fct-type": "function",
-        "title": "LitNum"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "LitNum",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Lit Num",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:LitStr",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "LitStr String",
-        "fct-source": "src/SMTLib1-AST.html#Literal",
-        "fct-type": "function",
-        "title": "LitStr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "LitStr",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Lit Str",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:N",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "N String",
-        "fct-source": "src/SMTLib1-AST.html#Name",
-        "fct-type": "function",
-        "title": "N"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "N",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Not",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Not",
-        "fct-source": "src/SMTLib1-AST.html#Conn",
-        "fct-type": "function",
-        "title": "Not"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Not",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Not",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Or",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Or",
-        "fct-source": "src/SMTLib1-AST.html#Conn",
-        "fct-type": "function",
-        "title": "Or"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Or",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Or",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:PredDecl",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "PredDecl",
-        "fct-source": "src/SMTLib1-AST.html#PredDecl",
-        "fct-type": "function",
-        "title": "PredDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "PredDecl",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Pred Decl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Quant",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Quant Quant [Binder] Formula",
-        "fct-source": "src/SMTLib1-AST.html#Formula",
-        "fct-type": "function",
-        "title": "Quant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Quant",
-        "normalized": "Quant Quant[Binder]Formula",
-        "package": "smtLib",
-        "partial": "Quant",
-        "signature": "Quant Quant[Binder]Formula"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Sat",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Sat",
-        "fct-source": "src/SMTLib1-AST.html#Status",
-        "fct-type": "function",
-        "title": "Sat"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Sat",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Sat",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Script",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Script",
-        "fct-source": "src/SMTLib1-AST.html#Script",
-        "fct-type": "function",
-        "title": "Script"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Script",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Script",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:TAnnot",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "TAnnot Term [Annot]",
-        "fct-source": "src/SMTLib1-AST.html#Term",
-        "fct-type": "function",
-        "title": "TAnnot"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "TAnnot",
-        "normalized": "TAnnot Term[Annot]",
-        "package": "smtLib",
-        "partial": "TAnnot",
-        "signature": "TAnnot Term[Annot]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Unknown",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Unknown",
-        "fct-source": "src/SMTLib1-AST.html#Status",
-        "fct-type": "function",
-        "title": "Unknown"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Unknown",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Unknown",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Unsat",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Unsat",
-        "fct-source": "src/SMTLib1-AST.html#Status",
-        "fct-type": "function",
-        "title": "Unsat"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Unsat",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Unsat",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Var",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Var Name",
-        "fct-source": "src/SMTLib1-AST.html#Term",
-        "fct-type": "function",
-        "title": "Var"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Var",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Var",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Xor",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Xor",
-        "fct-source": "src/SMTLib1-AST.html#Conn",
-        "fct-type": "function",
-        "title": "Xor"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "Xor",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Xor",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:assume",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Formula -\u003e Command",
-        "fct-source": "src/SMTLib1-AST.html#assume",
-        "fct-type": "function",
-        "title": "assume"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "assume",
-        "normalized": "Formula-\u003eCommand",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Formula-\u003eCommand"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:attrName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Name",
-        "fct-source": "src/SMTLib1-AST.html#Annot",
-        "fct-type": "function",
-        "title": "attrName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "attrName",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:attrVal",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Maybe String",
-        "fct-source": "src/SMTLib1-AST.html#Annot",
-        "fct-type": "function",
-        "title": "attrVal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "attrVal",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Val",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:bindSort",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Sort",
-        "fct-source": "src/SMTLib1-AST.html#Binder",
-        "fct-type": "function",
-        "title": "bindSort"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "bindSort",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Sort",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:bindVar",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Name",
-        "fct-source": "src/SMTLib1-AST.html#Binder",
-        "fct-type": "function",
-        "title": "bindVar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "bindVar",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Var",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:constDef",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Ident -\u003e Sort -\u003e Command",
-        "fct-source": "src/SMTLib1-AST.html#constDef",
-        "fct-type": "function",
-        "title": "constDef"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "constDef",
-        "normalized": "Ident-\u003eSort-\u003eCommand",
-        "package": "smtLib",
-        "partial": "Def",
-        "signature": "Ident-\u003eSort-\u003eCommand"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:funAnnots",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "[Annot]",
-        "fct-source": "src/SMTLib1-AST.html#FunDecl",
-        "fct-type": "function",
-        "title": "funAnnots"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "funAnnots",
-        "normalized": "[Annot]",
-        "package": "smtLib",
-        "partial": "Annots",
-        "signature": "[Annot]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:funArgs",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "[Sort]",
-        "fct-source": "src/SMTLib1-AST.html#FunDecl",
-        "fct-type": "function",
-        "title": "funArgs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "funArgs",
-        "normalized": "[Sort]",
-        "package": "smtLib",
-        "partial": "Args",
-        "signature": "[Sort]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:funDef",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Ident -\u003e [Sort] -\u003e Sort -\u003e Command",
-        "fct-source": "src/SMTLib1-AST.html#funDef",
-        "fct-type": "function",
-        "title": "funDef"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "funDef",
-        "normalized": "Ident-\u003e[Sort]-\u003eSort-\u003eCommand",
-        "package": "smtLib",
-        "partial": "Def",
-        "signature": "Ident-\u003e[Sort]-\u003eSort-\u003eCommand"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:funName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Ident",
-        "fct-source": "src/SMTLib1-AST.html#FunDecl",
-        "fct-type": "function",
-        "title": "funName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "funName",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:funRes",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Sort",
-        "fct-source": "src/SMTLib1-AST.html#FunDecl",
-        "fct-type": "function",
-        "title": "funRes"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "funRes",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Res",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:goal",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Formula -\u003e Command",
-        "fct-source": "src/SMTLib1-AST.html#goal",
-        "fct-type": "function",
-        "title": "goal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "goal",
-        "normalized": "Formula-\u003eCommand",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Formula-\u003eCommand"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:logic",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Ident -\u003e Command",
-        "fct-source": "src/SMTLib1-AST.html#logic",
-        "fct-type": "function",
-        "title": "logic"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "logic",
-        "normalized": "Ident-\u003eCommand",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Ident-\u003eCommand"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:pp",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "t -\u003e Doc",
-        "fct-source": "src/SMTLib1-PP.html#pp",
-        "fct-type": "method",
-        "title": "pp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "pp",
-        "normalized": "a-\u003eDoc",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "t-\u003eDoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:predAnnots",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "[Annot]",
-        "fct-source": "src/SMTLib1-AST.html#PredDecl",
-        "fct-type": "function",
-        "title": "predAnnots"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "predAnnots",
-        "normalized": "[Annot]",
-        "package": "smtLib",
-        "partial": "Annots",
-        "signature": "[Annot]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:predArgs",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "[Sort]",
-        "fct-source": "src/SMTLib1-AST.html#PredDecl",
-        "fct-type": "function",
-        "title": "predArgs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "predArgs",
-        "normalized": "[Sort]",
-        "package": "smtLib",
-        "partial": "Args",
-        "signature": "[Sort]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:predName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Ident",
-        "fct-source": "src/SMTLib1-AST.html#PredDecl",
-        "fct-type": "function",
-        "title": "predName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "predName",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:scrCommands",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "[Command]",
-        "fct-source": "src/SMTLib1-AST.html#Script",
-        "fct-type": "function",
-        "title": "scrCommands"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "scrCommands",
-        "normalized": "[Command]",
-        "package": "smtLib",
-        "partial": "Commands",
-        "signature": "[Command]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:scrName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Ident",
-        "fct-source": "src/SMTLib1-AST.html#Script",
-        "fct-type": "function",
-        "title": "scrName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "scrName",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:tInt",
-      "description": {
-        "fct-module": "SMTLib1",
-        "fct-package": "smtLib",
-        "fct-signature": "Sort",
-        "fct-source": "src/SMTLib1-AST.html#tInt",
-        "fct-type": "function",
-        "title": "tInt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib1",
-        "module": "SMTLib1",
-        "name": "tInt",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Int",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Array.html#",
-      "description": {
-        "fct-module": "SMTLib2.Array",
-        "fct-package": "smtLib",
-        "fct-signature": "module",
-        "fct-source": "src/SMTLib2-Array.html",
-        "fct-type": "module",
-        "title": "Array"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Array",
-        "module": "SMTLib2.Array",
-        "name": "Array",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Array",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Array.html#v:select",
-      "description": {
-        "fct-module": "SMTLib2.Array",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-Array.html#select",
-        "fct-type": "function",
-        "title": "select"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Array",
-        "module": "SMTLib2.Array",
-        "name": "select",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Array.html#v:store",
-      "description": {
-        "fct-module": "SMTLib2.Array",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-Array.html#store",
-        "fct-type": "function",
-        "title": "store"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Array",
-        "module": "SMTLib2.Array",
-        "name": "store",
-        "normalized": "Expr-\u003eExpr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Array.html#v:tArray",
-      "description": {
-        "fct-module": "SMTLib2.Array",
-        "fct-package": "smtLib",
-        "fct-signature": "Type -\u003e Type -\u003e Type",
-        "fct-source": "src/SMTLib2-Array.html#tArray",
-        "fct-type": "function",
-        "title": "tArray"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Array",
-        "module": "SMTLib2.Array",
-        "name": "tArray",
-        "normalized": "Type-\u003eType-\u003eType",
-        "package": "smtLib",
-        "partial": "Array",
-        "signature": "Type-\u003eType-\u003eType"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "module",
-        "fct-source": "src/SMTLib2-BitVector.html",
-        "fct-type": "module",
-        "title": "BitVector"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "BitVector",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Bit Vector",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bv",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Integer -\u003e Integer -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#bv",
-        "fct-type": "function",
-        "title": "bv"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "bv",
-        "normalized": "Integer-\u003eInteger-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Integer-\u003eInteger-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvadd",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#bvadd",
-        "fct-type": "function",
-        "title": "bvadd"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "bvadd",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvand",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#bvand",
-        "fct-type": "function",
-        "title": "bvand"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "bvand",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvashr",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#bvashr",
-        "fct-type": "function",
-        "title": "bvashr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "bvashr",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvcomp",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#bvcomp",
-        "fct-type": "function",
-        "title": "bvcomp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "bvcomp",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvlshr",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#bvlshr",
-        "fct-type": "function",
-        "title": "bvlshr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "bvlshr",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvmul",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#bvmul",
-        "fct-type": "function",
-        "title": "bvmul"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "bvmul",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvnand",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#bvnand",
-        "fct-type": "function",
-        "title": "bvnand"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "bvnand",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvneg",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#bvneg",
-        "fct-type": "function",
-        "title": "bvneg"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "bvneg",
-        "normalized": "Expr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvnor",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#bvnor",
-        "fct-type": "function",
-        "title": "bvnor"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "bvnor",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvnot",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#bvnot",
-        "fct-type": "function",
-        "title": "bvnot"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "bvnot",
-        "normalized": "Expr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvor",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#bvor",
-        "fct-type": "function",
-        "title": "bvor"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "bvor",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvsdiv",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#bvsdiv",
-        "fct-type": "function",
-        "title": "bvsdiv"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "bvsdiv",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvsge",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#bvsge",
-        "fct-type": "function",
-        "title": "bvsge"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "bvsge",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvsgt",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#bvsgt",
-        "fct-type": "function",
-        "title": "bvsgt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "bvsgt",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvshl",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#bvshl",
-        "fct-type": "function",
-        "title": "bvshl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "bvshl",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvsle",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#bvsle",
-        "fct-type": "function",
-        "title": "bvsle"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "bvsle",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvslt",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#bvslt",
-        "fct-type": "function",
-        "title": "bvslt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "bvslt",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvsmod",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#bvsmod",
-        "fct-type": "function",
-        "title": "bvsmod"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "bvsmod",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvsrem",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#bvsrem",
-        "fct-type": "function",
-        "title": "bvsrem"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "bvsrem",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvsub",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#bvsub",
-        "fct-type": "function",
-        "title": "bvsub"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "bvsub",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvudiv",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#bvudiv",
-        "fct-type": "function",
-        "title": "bvudiv"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "bvudiv",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvuge",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#bvuge",
-        "fct-type": "function",
-        "title": "bvuge"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "bvuge",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvugt",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#bvugt",
-        "fct-type": "function",
-        "title": "bvugt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "bvugt",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvule",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#bvule",
-        "fct-type": "function",
-        "title": "bvule"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "bvule",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvult",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#bvult",
-        "fct-type": "function",
-        "title": "bvult"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "bvult",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvurem",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#bvurem",
-        "fct-type": "function",
-        "title": "bvurem"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "bvurem",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvxnor",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#bvxnor",
-        "fct-type": "function",
-        "title": "bvxnor"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "bvxnor",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvxor",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#bvxor",
-        "fct-type": "function",
-        "title": "bvxor"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "bvxor",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:concat",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#concat",
-        "fct-type": "function",
-        "title": "concat"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "concat",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:extract",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Integer -\u003e Integer -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#extract",
-        "fct-type": "function",
-        "title": "extract"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "extract",
-        "normalized": "Integer-\u003eInteger-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Integer-\u003eInteger-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:repeat",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Integer -\u003e Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#repeat",
-        "fct-type": "function",
-        "title": "repeat"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "repeat",
-        "normalized": "Integer-\u003eExpr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Integer-\u003eExpr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:rotate_left",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Integer -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#rotate_left",
-        "fct-type": "function",
-        "title": "rotate_left"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "rotate_left",
-        "normalized": "Integer-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Integer-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:rotate_right",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Integer -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#rotate_right",
-        "fct-type": "function",
-        "title": "rotate_right"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "rotate_right",
-        "normalized": "Integer-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Integer-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:sign_extend",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Integer -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#sign_extend",
-        "fct-type": "function",
-        "title": "sign_extend"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "sign_extend",
-        "normalized": "Integer-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Integer-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:tBitVec",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Integer -\u003e Type",
-        "fct-source": "src/SMTLib2-BitVector.html#tBitVec",
-        "fct-type": "function",
-        "title": "tBitVec"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "tBitVec",
-        "normalized": "Integer-\u003eType",
-        "package": "smtLib",
-        "partial": "Bit Vec",
-        "signature": "Integer-\u003eType"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:zero_extend",
-      "description": {
-        "fct-module": "SMTLib2.BitVector",
-        "fct-package": "smtLib",
-        "fct-signature": "Integer -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-BitVector.html#zero_extend",
-        "fct-type": "function",
-        "title": "zero_extend"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 BitVector",
-        "module": "SMTLib2.BitVector",
-        "name": "zero_extend",
-        "normalized": "Integer-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Integer-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#",
-      "description": {
-        "fct-module": "SMTLib2.Compat1",
-        "fct-package": "smtLib",
-        "fct-signature": "module",
-        "fct-source": "src/SMTLib2-Compat1.html",
-        "fct-type": "module",
-        "title": "Compat1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Compat1",
-        "module": "SMTLib2.Compat1",
-        "name": "Compat1",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Compat",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#t:Trans",
-      "description": {
-        "fct-module": "SMTLib2.Compat1",
-        "fct-package": "smtLib",
-        "fct-signature": "data",
-        "fct-source": "src/SMTLib2-Compat1.html#Trans",
-        "fct-type": "data",
-        "title": "Trans"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Compat1",
-        "module": "SMTLib2.Compat1",
-        "name": "Trans",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Trans",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:Fail",
-      "description": {
-        "fct-module": "SMTLib2.Compat1",
-        "fct-package": "smtLib",
-        "fct-signature": "Fail Doc",
-        "fct-source": "src/SMTLib2-Compat1.html#Trans",
-        "fct-type": "function",
-        "title": "Fail"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Compat1",
-        "module": "SMTLib2.Compat1",
-        "name": "Fail",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Fail",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:OK",
-      "description": {
-        "fct-module": "SMTLib2.Compat1",
-        "fct-package": "smtLib",
-        "fct-signature": "OK a",
-        "fct-source": "src/SMTLib2-Compat1.html#Trans",
-        "fct-type": "function",
-        "title": "OK"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Compat1",
-        "module": "SMTLib2.Compat1",
-        "name": "OK",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "OK",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:annot",
-      "description": {
-        "fct-module": "SMTLib2.Compat1",
-        "fct-package": "smtLib",
-        "fct-signature": "Annot -\u003e Trans Attr",
-        "fct-source": "src/SMTLib2-Compat1.html#annot",
-        "fct-type": "function",
-        "title": "annot"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Compat1",
-        "module": "SMTLib2.Compat1",
-        "name": "annot",
-        "normalized": "Annot-\u003eTrans Attr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Annot-\u003eTrans Attr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:binder",
-      "description": {
-        "fct-module": "SMTLib2.Compat1",
-        "fct-package": "smtLib",
-        "fct-signature": "Binder -\u003e Binder",
-        "fct-source": "src/SMTLib2-Compat1.html#binder",
-        "fct-type": "function",
-        "title": "binder"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Compat1",
-        "module": "SMTLib2.Compat1",
-        "name": "binder",
-        "normalized": "Binder-\u003eBinder",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Binder-\u003eBinder"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:command",
-      "description": {
-        "fct-module": "SMTLib2.Compat1",
-        "fct-package": "smtLib",
-        "fct-signature": "Command -\u003e Trans [Command]",
-        "fct-source": "src/SMTLib2-Compat1.html#command",
-        "fct-type": "function",
-        "title": "command"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Compat1",
-        "module": "SMTLib2.Compat1",
-        "name": "command",
-        "normalized": "Command-\u003eTrans[Command]",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Command-\u003eTrans[Command]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:err",
-      "description": {
-        "fct-module": "SMTLib2.Compat1",
-        "fct-package": "smtLib",
-        "fct-signature": "Doc -\u003e Trans a",
-        "fct-source": "src/SMTLib2-Compat1.html#err",
-        "fct-type": "function",
-        "title": "err"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Compat1",
-        "module": "SMTLib2.Compat1",
-        "name": "err",
-        "normalized": "Doc-\u003eTrans a",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Doc-\u003eTrans a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:formula",
-      "description": {
-        "fct-module": "SMTLib2.Compat1",
-        "fct-package": "smtLib",
-        "fct-signature": "Formula -\u003e Trans Expr",
-        "fct-source": "src/SMTLib2-Compat1.html#formula",
-        "fct-type": "function",
-        "title": "formula"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Compat1",
-        "module": "SMTLib2.Compat1",
-        "name": "formula",
-        "normalized": "Formula-\u003eTrans Expr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Formula-\u003eTrans Expr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:ident",
-      "description": {
-        "fct-module": "SMTLib2.Compat1",
-        "fct-package": "smtLib",
-        "fct-signature": "Ident -\u003e Ident",
-        "fct-source": "src/SMTLib2-Compat1.html#ident",
-        "fct-type": "function",
-        "title": "ident"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Compat1",
-        "module": "SMTLib2.Compat1",
-        "name": "ident",
-        "normalized": "Ident-\u003eIdent",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Ident-\u003eIdent"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:literal",
-      "description": {
-        "fct-module": "SMTLib2.Compat1",
-        "fct-package": "smtLib",
-        "fct-signature": "Literal -\u003e Literal",
-        "fct-source": "src/SMTLib2-Compat1.html#literal",
-        "fct-type": "function",
-        "title": "literal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Compat1",
-        "module": "SMTLib2.Compat1",
-        "name": "literal",
-        "normalized": "Literal-\u003eLiteral",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Literal-\u003eLiteral"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:name",
-      "description": {
-        "fct-module": "SMTLib2.Compat1",
-        "fct-package": "smtLib",
-        "fct-signature": "Name -\u003e Name",
-        "fct-source": "src/SMTLib2-Compat1.html#name",
-        "fct-type": "function",
-        "title": "name"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Compat1",
-        "module": "SMTLib2.Compat1",
-        "name": "name",
-        "normalized": "Name-\u003eName",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Name-\u003eName"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:quant",
-      "description": {
-        "fct-module": "SMTLib2.Compat1",
-        "fct-package": "smtLib",
-        "fct-signature": "Quant -\u003e Quant",
-        "fct-source": "src/SMTLib2-Compat1.html#quant",
-        "fct-type": "function",
-        "title": "quant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Compat1",
-        "module": "SMTLib2.Compat1",
-        "name": "quant",
-        "normalized": "Quant-\u003eQuant",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Quant-\u003eQuant"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:script",
-      "description": {
-        "fct-module": "SMTLib2.Compat1",
-        "fct-package": "smtLib",
-        "fct-signature": "Script -\u003e Trans Script",
-        "fct-source": "src/SMTLib2-Compat1.html#script",
-        "fct-type": "function",
-        "title": "script"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Compat1",
-        "module": "SMTLib2.Compat1",
-        "name": "script",
-        "normalized": "Script-\u003eTrans Script",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Script-\u003eTrans Script"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:sort",
-      "description": {
-        "fct-module": "SMTLib2.Compat1",
-        "fct-package": "smtLib",
-        "fct-signature": "Sort -\u003e Type",
-        "fct-source": "src/SMTLib2-Compat1.html#sort",
-        "fct-type": "function",
-        "title": "sort"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Compat1",
-        "module": "SMTLib2.Compat1",
-        "name": "sort",
-        "normalized": "Sort-\u003eType",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Sort-\u003eType"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:term",
-      "description": {
-        "fct-module": "SMTLib2.Compat1",
-        "fct-package": "smtLib",
-        "fct-signature": "Term -\u003e Trans Expr",
-        "fct-source": "src/SMTLib2-Compat1.html#term",
-        "fct-type": "function",
-        "title": "term"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Compat1",
-        "module": "SMTLib2.Compat1",
-        "name": "term",
-        "normalized": "Term-\u003eTrans Expr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Term-\u003eTrans Expr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:toEither",
-      "description": {
-        "fct-module": "SMTLib2.Compat1",
-        "fct-package": "smtLib",
-        "fct-signature": "Trans a -\u003e Either Doc a",
-        "fct-source": "src/SMTLib2-Compat1.html#toEither",
-        "fct-type": "function",
-        "title": "toEither"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Compat1",
-        "module": "SMTLib2.Compat1",
-        "name": "toEither",
-        "normalized": "Trans a-\u003eEither Doc a",
-        "package": "smtLib",
-        "partial": "Either",
-        "signature": "Trans a-\u003eEither Doc a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:toMaybe",
-      "description": {
-        "fct-module": "SMTLib2.Compat1",
-        "fct-package": "smtLib",
-        "fct-signature": "Trans a -\u003e Maybe a",
-        "fct-source": "src/SMTLib2-Compat1.html#toMaybe",
-        "fct-type": "function",
-        "title": "toMaybe"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Compat1",
-        "module": "SMTLib2.Compat1",
-        "name": "toMaybe",
-        "normalized": "Trans a-\u003eMaybe a",
-        "package": "smtLib",
-        "partial": "Maybe",
-        "signature": "Trans a-\u003eMaybe a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Core.html#",
-      "description": {
-        "fct-module": "SMTLib2.Core",
-        "fct-package": "smtLib",
-        "fct-signature": "module",
-        "fct-source": "src/SMTLib2-Core.html",
-        "fct-type": "module",
-        "title": "Core"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Core",
-        "module": "SMTLib2.Core",
-        "name": "Core",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Core",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Core.html#v:-61--47--61-",
-      "description": {
-        "fct-module": "SMTLib2.Core",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-Core.html#%3D%2F%3D",
-        "fct-type": "function",
-        "title": "(=/=)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Core",
-        "module": "SMTLib2.Core",
-        "name": "(=/=) =/=",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Core.html#v:-61--61--61-",
-      "description": {
-        "fct-module": "SMTLib2.Core",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-Core.html#%3D%3D%3D",
-        "fct-type": "function",
-        "title": "(===)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Core",
-        "module": "SMTLib2.Core",
-        "name": "(===) ===",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Core.html#v:-61--61--62-",
-      "description": {
-        "fct-module": "SMTLib2.Core",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-Core.html#%3D%3D%3E",
-        "fct-type": "function",
-        "title": "(==\u003e)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Core",
-        "module": "SMTLib2.Core",
-        "name": "(==\u003e) ==\u003e",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Core.html#v:and",
-      "description": {
-        "fct-module": "SMTLib2.Core",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-Core.html#and",
-        "fct-type": "function",
-        "title": "and"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Core",
-        "module": "SMTLib2.Core",
-        "name": "and",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Core.html#v:false",
-      "description": {
-        "fct-module": "SMTLib2.Core",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr",
-        "fct-source": "src/SMTLib2-Core.html#false",
-        "fct-type": "function",
-        "title": "false"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Core",
-        "module": "SMTLib2.Core",
-        "name": "false",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Core.html#v:ite",
-      "description": {
-        "fct-module": "SMTLib2.Core",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-Core.html#ite",
-        "fct-type": "function",
-        "title": "ite"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Core",
-        "module": "SMTLib2.Core",
-        "name": "ite",
-        "normalized": "Expr-\u003eExpr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Core.html#v:not",
-      "description": {
-        "fct-module": "SMTLib2.Core",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-Core.html#not",
-        "fct-type": "function",
-        "title": "not"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Core",
-        "module": "SMTLib2.Core",
-        "name": "not",
-        "normalized": "Expr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Core.html#v:or",
-      "description": {
-        "fct-module": "SMTLib2.Core",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-Core.html#or",
-        "fct-type": "function",
-        "title": "or"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Core",
-        "module": "SMTLib2.Core",
-        "name": "or",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Core.html#v:tBool",
-      "description": {
-        "fct-module": "SMTLib2.Core",
-        "fct-package": "smtLib",
-        "fct-signature": "Type",
-        "fct-source": "src/SMTLib2-Core.html#tBool",
-        "fct-type": "function",
-        "title": "tBool"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Core",
-        "module": "SMTLib2.Core",
-        "name": "tBool",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Bool",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Core.html#v:true",
-      "description": {
-        "fct-module": "SMTLib2.Core",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr",
-        "fct-source": "src/SMTLib2-Core.html#true",
-        "fct-type": "function",
-        "title": "true"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Core",
-        "module": "SMTLib2.Core",
-        "name": "true",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Core.html#v:xor",
-      "description": {
-        "fct-module": "SMTLib2.Core",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-Core.html#xor",
-        "fct-type": "function",
-        "title": "xor"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Core",
-        "module": "SMTLib2.Core",
-        "name": "xor",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Int.html#",
-      "description": {
-        "fct-module": "SMTLib2.Int",
-        "fct-package": "smtLib",
-        "fct-signature": "module",
-        "fct-source": "src/SMTLib2-Int.html",
-        "fct-type": "module",
-        "title": "Int"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Int",
-        "module": "SMTLib2.Int",
-        "name": "Int",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Int",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Int.html#v:nAbs",
-      "description": {
-        "fct-module": "SMTLib2.Int",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-Int.html#nAbs",
-        "fct-type": "function",
-        "title": "nAbs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Int",
-        "module": "SMTLib2.Int",
-        "name": "nAbs",
-        "normalized": "Expr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "Abs",
-        "signature": "Expr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Int.html#v:nAdd",
-      "description": {
-        "fct-module": "SMTLib2.Int",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-Int.html#nAdd",
-        "fct-type": "function",
-        "title": "nAdd"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Int",
-        "module": "SMTLib2.Int",
-        "name": "nAdd",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "Add",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Int.html#v:nDiv",
-      "description": {
-        "fct-module": "SMTLib2.Int",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-Int.html#nDiv",
-        "fct-type": "function",
-        "title": "nDiv"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Int",
-        "module": "SMTLib2.Int",
-        "name": "nDiv",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "Div",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Int.html#v:nGeq",
-      "description": {
-        "fct-module": "SMTLib2.Int",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-Int.html#nGeq",
-        "fct-type": "function",
-        "title": "nGeq"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Int",
-        "module": "SMTLib2.Int",
-        "name": "nGeq",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "Geq",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Int.html#v:nGt",
-      "description": {
-        "fct-module": "SMTLib2.Int",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-Int.html#nGt",
-        "fct-type": "function",
-        "title": "nGt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Int",
-        "module": "SMTLib2.Int",
-        "name": "nGt",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "Gt",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Int.html#v:nLeq",
-      "description": {
-        "fct-module": "SMTLib2.Int",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-Int.html#nLeq",
-        "fct-type": "function",
-        "title": "nLeq"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Int",
-        "module": "SMTLib2.Int",
-        "name": "nLeq",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "Leq",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Int.html#v:nLt",
-      "description": {
-        "fct-module": "SMTLib2.Int",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-Int.html#nLt",
-        "fct-type": "function",
-        "title": "nLt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Int",
-        "module": "SMTLib2.Int",
-        "name": "nLt",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "Lt",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Int.html#v:nMod",
-      "description": {
-        "fct-module": "SMTLib2.Int",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-Int.html#nMod",
-        "fct-type": "function",
-        "title": "nMod"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Int",
-        "module": "SMTLib2.Int",
-        "name": "nMod",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "Mod",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Int.html#v:nMul",
-      "description": {
-        "fct-module": "SMTLib2.Int",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-Int.html#nMul",
-        "fct-type": "function",
-        "title": "nMul"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Int",
-        "module": "SMTLib2.Int",
-        "name": "nMul",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "Mul",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Int.html#v:nNeg",
-      "description": {
-        "fct-module": "SMTLib2.Int",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-Int.html#nNeg",
-        "fct-type": "function",
-        "title": "nNeg"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Int",
-        "module": "SMTLib2.Int",
-        "name": "nNeg",
-        "normalized": "Expr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "Neg",
-        "signature": "Expr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Int.html#v:nSub",
-      "description": {
-        "fct-module": "SMTLib2.Int",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr -\u003e Expr -\u003e Expr",
-        "fct-source": "src/SMTLib2-Int.html#nSub",
-        "fct-type": "function",
-        "title": "nSub"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Int",
-        "module": "SMTLib2.Int",
-        "name": "nSub",
-        "normalized": "Expr-\u003eExpr-\u003eExpr",
-        "package": "smtLib",
-        "partial": "Sub",
-        "signature": "Expr-\u003eExpr-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Int.html#v:num",
-      "description": {
-        "fct-module": "SMTLib2.Int",
-        "fct-package": "smtLib",
-        "fct-signature": "a -\u003e Expr",
-        "fct-source": "src/SMTLib2-Int.html#num",
-        "fct-type": "function",
-        "title": "num"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Int",
-        "module": "SMTLib2.Int",
-        "name": "num",
-        "normalized": "a-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "a-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Int.html#v:tInt",
-      "description": {
-        "fct-module": "SMTLib2.Int",
-        "fct-package": "smtLib",
-        "fct-signature": "Type",
-        "fct-source": "src/SMTLib2-Int.html#tInt",
-        "fct-type": "function",
-        "title": "tInt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2 Int",
-        "module": "SMTLib2.Int",
-        "name": "tInt",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Int",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "module",
-        "fct-source": "src/SMTLib2.html",
-        "fct-type": "module",
-        "title": "SMTLib2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "SMTLib2",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "SMTLib",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#t:Attr",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "data",
-        "fct-source": "src/SMTLib2-AST.html#Attr",
-        "fct-type": "data",
-        "title": "Attr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "Attr",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Attr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#t:AttrVal",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "type",
-        "fct-source": "src/SMTLib2-AST.html#AttrVal",
-        "fct-type": "type",
-        "title": "AttrVal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "AttrVal",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Attr Val",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#t:Binder",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "data",
-        "fct-source": "src/SMTLib2-AST.html#Binder",
-        "fct-type": "data",
-        "title": "Binder"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "Binder",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Binder",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#t:Command",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "data",
-        "fct-source": "src/SMTLib2-AST.html#Command",
-        "fct-type": "data",
-        "title": "Command"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "Command",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Command",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#t:Defn",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "data",
-        "fct-source": "src/SMTLib2-AST.html#Defn",
-        "fct-type": "data",
-        "title": "Defn"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "Defn",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Defn",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#t:Expr",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "data",
-        "fct-source": "src/SMTLib2-AST.html#Expr",
-        "fct-type": "data",
-        "title": "Expr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "Expr",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Expr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#t:Ident",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "data",
-        "fct-source": "src/SMTLib2-AST.html#Ident",
-        "fct-type": "data",
-        "title": "Ident"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "Ident",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Ident",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#t:InfoFlag",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "data",
-        "fct-source": "src/SMTLib2-AST.html#InfoFlag",
-        "fct-type": "data",
-        "title": "InfoFlag"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "InfoFlag",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Info Flag",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#t:Literal",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "data",
-        "fct-source": "src/SMTLib2-AST.html#Literal",
-        "fct-type": "data",
-        "title": "Literal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "Literal",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Literal",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#t:Name",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "newtype",
-        "fct-source": "src/SMTLib2-AST.html#Name",
-        "fct-type": "newtype",
-        "title": "Name"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "Name",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#t:Option",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "data",
-        "fct-source": "src/SMTLib2-AST.html#Option",
-        "fct-type": "data",
-        "title": "Option"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "Option",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Option",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#t:PP",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "class",
-        "fct-source": "src/SMTLib2-PP.html#PP",
-        "fct-type": "class",
-        "title": "PP"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "PP",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "PP",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#t:Quant",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "data",
-        "fct-source": "src/SMTLib2-AST.html#Quant",
-        "fct-type": "data",
-        "title": "Quant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "Quant",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Quant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#t:Script",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "newtype",
-        "fct-source": "src/SMTLib2-AST.html#Script",
-        "fct-type": "newtype",
-        "title": "Script"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "Script",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Script",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#t:Type",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "data",
-        "fct-source": "src/SMTLib2-AST.html#Type",
-        "fct-type": "data",
-        "title": "Type"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "Type",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:Annot",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "Annot Expr [Attr]",
-        "fct-source": "src/SMTLib2-AST.html#Expr",
-        "fct-type": "function",
-        "title": "Annot"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "Annot",
-        "normalized": "Annot Expr[Attr]",
-        "package": "smtLib",
-        "partial": "Annot",
-        "signature": "Annot Expr[Attr]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:App",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "App Ident (Maybe Type) [Expr]",
-        "fct-source": "src/SMTLib2-AST.html#Expr",
-        "fct-type": "function",
-        "title": "App"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "App",
-        "normalized": "App Ident(Maybe Type)[Expr]",
-        "package": "smtLib",
-        "partial": "App",
-        "signature": "App Ident(Maybe Type)[Expr]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:Attr",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "Attr",
-        "fct-source": "src/SMTLib2-AST.html#Attr",
-        "fct-type": "function",
-        "title": "Attr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "Attr",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Attr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:Bind",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "Bind",
-        "fct-source": "src/SMTLib2-AST.html#Binder",
-        "fct-type": "function",
-        "title": "Bind"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "Bind",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Bind",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdAssert",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "CmdAssert Expr",
-        "fct-source": "src/SMTLib2-AST.html#Command",
-        "fct-type": "function",
-        "title": "CmdAssert"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "CmdAssert",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Cmd Assert",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdCheckSat",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "CmdCheckSat",
-        "fct-source": "src/SMTLib2-AST.html#Command",
-        "fct-type": "function",
-        "title": "CmdCheckSat"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "CmdCheckSat",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Cmd Check Sat",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdDeclareFun",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "CmdDeclareFun Name [Type] Type",
-        "fct-source": "src/SMTLib2-AST.html#Command",
-        "fct-type": "function",
-        "title": "CmdDeclareFun"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "CmdDeclareFun",
-        "normalized": "CmdDeclareFun Name[Type]Type",
-        "package": "smtLib",
-        "partial": "Cmd Declare Fun",
-        "signature": "CmdDeclareFun Name[Type]Type"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdDeclareType",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "CmdDeclareType Name Integer",
-        "fct-source": "src/SMTLib2-AST.html#Command",
-        "fct-type": "function",
-        "title": "CmdDeclareType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "CmdDeclareType",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Cmd Declare Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdDefineFun",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "CmdDefineFun Name [Binder] Type Expr",
-        "fct-source": "src/SMTLib2-AST.html#Command",
-        "fct-type": "function",
-        "title": "CmdDefineFun"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "CmdDefineFun",
-        "normalized": "CmdDefineFun Name[Binder]Type Expr",
-        "package": "smtLib",
-        "partial": "Cmd Define Fun",
-        "signature": "CmdDefineFun Name[Binder]Type Expr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdDefineType",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "CmdDefineType Name [Name] Type",
-        "fct-source": "src/SMTLib2-AST.html#Command",
-        "fct-type": "function",
-        "title": "CmdDefineType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "CmdDefineType",
-        "normalized": "CmdDefineType Name[Name]Type",
-        "package": "smtLib",
-        "partial": "Cmd Define Type",
-        "signature": "CmdDefineType Name[Name]Type"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdExit",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "CmdExit",
-        "fct-source": "src/SMTLib2-AST.html#Command",
-        "fct-type": "function",
-        "title": "CmdExit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "CmdExit",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Cmd Exit",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdGetAssertions",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "CmdGetAssertions",
-        "fct-source": "src/SMTLib2-AST.html#Command",
-        "fct-type": "function",
-        "title": "CmdGetAssertions"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "CmdGetAssertions",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Cmd Get Assertions",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdGetInfo",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "CmdGetInfo InfoFlag",
-        "fct-source": "src/SMTLib2-AST.html#Command",
-        "fct-type": "function",
-        "title": "CmdGetInfo"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "CmdGetInfo",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Cmd Get Info",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdGetOption",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "CmdGetOption Name",
-        "fct-source": "src/SMTLib2-AST.html#Command",
-        "fct-type": "function",
-        "title": "CmdGetOption"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "CmdGetOption",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Cmd Get Option",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdGetProof",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "CmdGetProof",
-        "fct-source": "src/SMTLib2-AST.html#Command",
-        "fct-type": "function",
-        "title": "CmdGetProof"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "CmdGetProof",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Cmd Get Proof",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdGetUnsatCore",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "CmdGetUnsatCore",
-        "fct-source": "src/SMTLib2-AST.html#Command",
-        "fct-type": "function",
-        "title": "CmdGetUnsatCore"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "CmdGetUnsatCore",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Cmd Get Unsat Core",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdGetValue",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "CmdGetValue [Expr]",
-        "fct-source": "src/SMTLib2-AST.html#Command",
-        "fct-type": "function",
-        "title": "CmdGetValue"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "CmdGetValue",
-        "normalized": "CmdGetValue[Expr]",
-        "package": "smtLib",
-        "partial": "Cmd Get Value",
-        "signature": "CmdGetValue[Expr]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdPop",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "CmdPop Integer",
-        "fct-source": "src/SMTLib2-AST.html#Command",
-        "fct-type": "function",
-        "title": "CmdPop"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "CmdPop",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Cmd Pop",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdPush",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "CmdPush Integer",
-        "fct-source": "src/SMTLib2-AST.html#Command",
-        "fct-type": "function",
-        "title": "CmdPush"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "CmdPush",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Cmd Push",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdSetInfo",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "CmdSetInfo Attr",
-        "fct-source": "src/SMTLib2-AST.html#Command",
-        "fct-type": "function",
-        "title": "CmdSetInfo"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "CmdSetInfo",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Cmd Set Info",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdSetLogic",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "CmdSetLogic Name",
-        "fct-source": "src/SMTLib2-AST.html#Command",
-        "fct-type": "function",
-        "title": "CmdSetLogic"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "CmdSetLogic",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Cmd Set Logic",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdSetOption",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "CmdSetOption Option",
-        "fct-source": "src/SMTLib2-AST.html#Command",
-        "fct-type": "function",
-        "title": "CmdSetOption"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "CmdSetOption",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Cmd Set Option",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:Defn",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "Defn",
-        "fct-source": "src/SMTLib2-AST.html#Defn",
-        "fct-type": "function",
-        "title": "Defn"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "Defn",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Defn",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:Exists",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "Exists",
-        "fct-source": "src/SMTLib2-AST.html#Quant",
-        "fct-type": "function",
-        "title": "Exists"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "Exists",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Exists",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:Forall",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "Forall",
-        "fct-source": "src/SMTLib2-AST.html#Quant",
-        "fct-type": "function",
-        "title": "Forall"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "Forall",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Forall",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:I",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "I Name [Integer]",
-        "fct-source": "src/SMTLib2-AST.html#Ident",
-        "fct-type": "function",
-        "title": "I"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "I",
-        "normalized": "I Name[Integer]",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "I Name[Integer]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:InfoAllStatistics",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "InfoAllStatistics",
-        "fct-source": "src/SMTLib2-AST.html#InfoFlag",
-        "fct-type": "function",
-        "title": "InfoAllStatistics"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "InfoAllStatistics",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Info All Statistics",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:InfoAttr",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "InfoAttr Attr",
-        "fct-source": "src/SMTLib2-AST.html#InfoFlag",
-        "fct-type": "function",
-        "title": "InfoAttr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "InfoAttr",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Info Attr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:InfoAuthors",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "InfoAuthors",
-        "fct-source": "src/SMTLib2-AST.html#InfoFlag",
-        "fct-type": "function",
-        "title": "InfoAuthors"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "InfoAuthors",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Info Authors",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:InfoErrorBehavior",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "InfoErrorBehavior",
-        "fct-source": "src/SMTLib2-AST.html#InfoFlag",
-        "fct-type": "function",
-        "title": "InfoErrorBehavior"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "InfoErrorBehavior",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Info Error Behavior",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:InfoName",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "InfoName",
-        "fct-source": "src/SMTLib2-AST.html#InfoFlag",
-        "fct-type": "function",
-        "title": "InfoName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "InfoName",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Info Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:InfoReasonUnknown",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "InfoReasonUnknown",
-        "fct-source": "src/SMTLib2-AST.html#InfoFlag",
-        "fct-type": "function",
-        "title": "InfoReasonUnknown"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "InfoReasonUnknown",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Info Reason Unknown",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:InfoStatus",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "InfoStatus",
-        "fct-source": "src/SMTLib2-AST.html#InfoFlag",
-        "fct-type": "function",
-        "title": "InfoStatus"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "InfoStatus",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Info Status",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:InfoVersion",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "InfoVersion",
-        "fct-source": "src/SMTLib2-AST.html#InfoFlag",
-        "fct-type": "function",
-        "title": "InfoVersion"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "InfoVersion",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Info Version",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:Let",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "Let [Defn] Expr",
-        "fct-source": "src/SMTLib2-AST.html#Expr",
-        "fct-type": "function",
-        "title": "Let"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "Let",
-        "normalized": "Let[Defn]Expr",
-        "package": "smtLib",
-        "partial": "Let",
-        "signature": "Let[Defn]Expr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:Lit",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "Lit Literal",
-        "fct-source": "src/SMTLib2-AST.html#Expr",
-        "fct-type": "function",
-        "title": "Lit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "Lit",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Lit",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:LitBV",
-      "description": {
-        "fct-descr": "\u003cp\u003evalue, width (in bits)\n\u003c/p\u003e",
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "LitBV Integer Integer",
-        "fct-source": "src/SMTLib2-AST.html#Literal",
-        "fct-type": "function",
-        "title": "LitBV"
-      },
-      "index": {
-        "description": "value width in bits",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "LitBV",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Lit BV",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:LitFrac",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "LitFrac Rational",
-        "fct-source": "src/SMTLib2-AST.html#Literal",
-        "fct-type": "function",
-        "title": "LitFrac"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "LitFrac",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Lit Frac",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:LitNum",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "LitNum Integer",
-        "fct-source": "src/SMTLib2-AST.html#Literal",
-        "fct-type": "function",
-        "title": "LitNum"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "LitNum",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Lit Num",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:LitStr",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "LitStr String",
-        "fct-source": "src/SMTLib2-AST.html#Literal",
-        "fct-type": "function",
-        "title": "LitStr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "LitStr",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Lit Str",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:N",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "N String",
-        "fct-source": "src/SMTLib2-AST.html#Name",
-        "fct-type": "function",
-        "title": "N"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "N",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:OptAttr",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "OptAttr Attr",
-        "fct-source": "src/SMTLib2-AST.html#Option",
-        "fct-type": "function",
-        "title": "OptAttr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "OptAttr",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Opt Attr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:OptDiagnosticOutputChannel",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "OptDiagnosticOutputChannel String",
-        "fct-source": "src/SMTLib2-AST.html#Option",
-        "fct-type": "function",
-        "title": "OptDiagnosticOutputChannel"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "OptDiagnosticOutputChannel",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Opt Diagnostic Output Channel",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:OptExpandDefinitions",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "OptExpandDefinitions Bool",
-        "fct-source": "src/SMTLib2-AST.html#Option",
-        "fct-type": "function",
-        "title": "OptExpandDefinitions"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "OptExpandDefinitions",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Opt Expand Definitions",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:OptInteractiveMode",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "OptInteractiveMode Bool",
-        "fct-source": "src/SMTLib2-AST.html#Option",
-        "fct-type": "function",
-        "title": "OptInteractiveMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "OptInteractiveMode",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Opt Interactive Mode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:OptPrintSuccess",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "OptPrintSuccess Bool",
-        "fct-source": "src/SMTLib2-AST.html#Option",
-        "fct-type": "function",
-        "title": "OptPrintSuccess"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "OptPrintSuccess",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Opt Print Success",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:OptProduceAssignments",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "OptProduceAssignments Bool",
-        "fct-source": "src/SMTLib2-AST.html#Option",
-        "fct-type": "function",
-        "title": "OptProduceAssignments"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "OptProduceAssignments",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Opt Produce Assignments",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:OptProduceModels",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "OptProduceModels Bool",
-        "fct-source": "src/SMTLib2-AST.html#Option",
-        "fct-type": "function",
-        "title": "OptProduceModels"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "OptProduceModels",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Opt Produce Models",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:OptProduceProofs",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "OptProduceProofs Bool",
-        "fct-source": "src/SMTLib2-AST.html#Option",
-        "fct-type": "function",
-        "title": "OptProduceProofs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "OptProduceProofs",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Opt Produce Proofs",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:OptProduceUnsatCores",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "OptProduceUnsatCores Bool",
-        "fct-source": "src/SMTLib2-AST.html#Option",
-        "fct-type": "function",
-        "title": "OptProduceUnsatCores"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "OptProduceUnsatCores",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Opt Produce Unsat Cores",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:OptRandomSeed",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "OptRandomSeed Integer",
-        "fct-source": "src/SMTLib2-AST.html#Option",
-        "fct-type": "function",
-        "title": "OptRandomSeed"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "OptRandomSeed",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Opt Random Seed",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:OptRegularOutputChannel",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "OptRegularOutputChannel String",
-        "fct-source": "src/SMTLib2-AST.html#Option",
-        "fct-type": "function",
-        "title": "OptRegularOutputChannel"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "OptRegularOutputChannel",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Opt Regular Output Channel",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:OptVerbosity",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "OptVerbosity Integer",
-        "fct-source": "src/SMTLib2-AST.html#Option",
-        "fct-type": "function",
-        "title": "OptVerbosity"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "OptVerbosity",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Opt Verbosity",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:Quant",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "Quant Quant [Binder] Expr",
-        "fct-source": "src/SMTLib2-AST.html#Expr",
-        "fct-type": "function",
-        "title": "Quant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "Quant",
-        "normalized": "Quant Quant[Binder]Expr",
-        "package": "smtLib",
-        "partial": "Quant",
-        "signature": "Quant Quant[Binder]Expr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:Script",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "Script [Command]",
-        "fct-source": "src/SMTLib2-AST.html#Script",
-        "fct-type": "function",
-        "title": "Script"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "Script",
-        "normalized": "Script[Command]",
-        "package": "smtLib",
-        "partial": "Script",
-        "signature": "Script[Command]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:TApp",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "TApp Ident [Type]",
-        "fct-source": "src/SMTLib2-AST.html#Type",
-        "fct-type": "function",
-        "title": "TApp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "TApp",
-        "normalized": "TApp Ident[Type]",
-        "package": "smtLib",
-        "partial": "TApp",
-        "signature": "TApp Ident[Type]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:TVar",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "TVar Name",
-        "fct-source": "src/SMTLib2-AST.html#Type",
-        "fct-type": "function",
-        "title": "TVar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "TVar",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "TVar",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:app",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "Ident -\u003e [Expr] -\u003e Expr",
-        "fct-source": "src/SMTLib2-AST.html#app",
-        "fct-type": "function",
-        "title": "app"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "app",
-        "normalized": "Ident-\u003e[Expr]-\u003eExpr",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "Ident-\u003e[Expr]-\u003eExpr"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:attrName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "Name",
-        "fct-source": "src/SMTLib2-AST.html#Attr",
-        "fct-type": "function",
-        "title": "attrName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "attrName",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:attrVal",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "Maybe AttrVal",
-        "fct-source": "src/SMTLib2-AST.html#Attr",
-        "fct-type": "function",
-        "title": "attrVal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "attrVal",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Val",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:bindType",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "Type",
-        "fct-source": "src/SMTLib2-AST.html#Binder",
-        "fct-type": "function",
-        "title": "bindType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "bindType",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:bindVar",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "Name",
-        "fct-source": "src/SMTLib2-AST.html#Binder",
-        "fct-type": "function",
-        "title": "bindVar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "bindVar",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Var",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:defExpr",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "Expr",
-        "fct-source": "src/SMTLib2-AST.html#Defn",
-        "fct-type": "function",
-        "title": "defExpr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "defExpr",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Expr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:defVar",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "Name",
-        "fct-source": "src/SMTLib2-AST.html#Defn",
-        "fct-type": "function",
-        "title": "defVar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "defVar",
-        "normalized": "",
-        "package": "smtLib",
-        "partial": "Var",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:pp",
-      "description": {
-        "fct-module": "SMTLib2",
-        "fct-package": "smtLib",
-        "fct-signature": "t -\u003e Doc",
-        "fct-source": "src/SMTLib2-PP.html#pp",
-        "fct-type": "method",
-        "title": "pp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "SMTLib2",
-        "module": "SMTLib2",
-        "name": "pp",
-        "normalized": "a-\u003eDoc",
-        "package": "smtLib",
-        "partial": "",
-        "signature": "t-\u003eDoc"
-      }
-    }
-  }
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "smtLib"
+      },
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_AUFBV",
+          "name": "QF_AUFBV",
+          "package": "smtLib",
+          "source": "src/SMTLib1-QF_AUFBV.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_AUFBV",
+          "module": "SMTLib1.QF_AUFBV",
+          "name": "QF_AUFBV",
+          "package": "smtLib",
+          "partial": "QF AUFBV",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_AUFBV.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cpre\u003eselect array index\u003c/pre\u003e",
+          "module": "SMTLib1.QF_AUFBV",
+          "name": "select",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Term",
+          "source": "src/SMTLib1-QF_AUFBV.html#select",
+          "type": "function"
+        },
+        "index": {
+          "description": "select array index",
+          "hierarchy": "SMTLib1 QF_AUFBV",
+          "module": "SMTLib1.QF_AUFBV",
+          "name": "select",
+          "normalized": "Term-\u003eTerm-\u003eTerm",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_AUFBV.html#v:select"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cpre\u003estore array index value\u003c/pre\u003e",
+          "module": "SMTLib1.QF_AUFBV",
+          "name": "store",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Term -\u003e Term",
+          "source": "src/SMTLib1-QF_AUFBV.html#store",
+          "type": "function"
+        },
+        "index": {
+          "description": "store array index value",
+          "hierarchy": "SMTLib1 QF_AUFBV",
+          "module": "SMTLib1.QF_AUFBV",
+          "name": "store",
+          "normalized": "Term-\u003eTerm-\u003eTerm-\u003eTerm",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eTerm-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_AUFBV.html#v:store"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003e'tArray i n' is an array indexed by bitvectors of widht \u003ccode\u003ei\u003c/code\u003e,\n and storing bitvectors of width \u003ccode\u003en\u003c/code\u003e.\n\u003c/p\u003e",
+          "module": "SMTLib1.QF_AUFBV",
+          "name": "tArray",
+          "package": "smtLib",
+          "signature": "Integer -\u003e Integer -\u003e Sort",
+          "source": "src/SMTLib1-QF_AUFBV.html#tArray",
+          "type": "function"
+        },
+        "index": {
+          "description": "tArray is an array indexed by bitvectors of widht and storing bitvectors of width",
+          "hierarchy": "SMTLib1 QF_AUFBV",
+          "module": "SMTLib1.QF_AUFBV",
+          "name": "tArray",
+          "normalized": "Integer-\u003eInteger-\u003eSort",
+          "package": "smtLib",
+          "partial": "Array",
+          "signature": "Integer-\u003eInteger-\u003eSort",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_AUFBV.html#v:tArray"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "QF_BV",
+          "package": "smtLib",
+          "source": "src/SMTLib1-QF_BV.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "QF_BV",
+          "package": "smtLib",
+          "partial": "QF BV",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eBitVec[1]\n\u003c/p\u003e",
+          "module": "SMTLib1.QF_BV",
+          "name": "bit0",
+          "package": "smtLib",
+          "signature": "Term",
+          "source": "src/SMTLib1-QF_BV.html#bit0",
+          "type": "function"
+        },
+        "index": {
+          "description": "BitVec",
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "bit0",
+          "package": "smtLib",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bit0"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eBitVec[1]\n\u003c/p\u003e",
+          "module": "SMTLib1.QF_BV",
+          "name": "bit1",
+          "package": "smtLib",
+          "signature": "Term",
+          "source": "src/SMTLib1-QF_BV.html#bit1",
+          "type": "function"
+        },
+        "index": {
+          "description": "BitVec",
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "bit1",
+          "package": "smtLib",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bit1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "bv",
+          "package": "smtLib",
+          "signature": "Integer -\u003e Integer -\u003e Term",
+          "source": "src/SMTLib1-QF_BV.html#bv",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "bv",
+          "normalized": "Integer-\u003eInteger-\u003eTerm",
+          "package": "smtLib",
+          "signature": "Integer-\u003eInteger-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bv"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "bvadd",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Term",
+          "source": "src/SMTLib1-QF_BV.html#bvadd",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "bvadd",
+          "normalized": "Term-\u003eTerm-\u003eTerm",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvadd"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "bvand",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Term",
+          "source": "src/SMTLib1-QF_BV.html#bvand",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "bvand",
+          "normalized": "Term-\u003eTerm-\u003eTerm",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvand"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "bvashr",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Term",
+          "source": "src/SMTLib1-QF_BV.html#bvashr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "bvashr",
+          "normalized": "Term-\u003eTerm-\u003eTerm",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvashr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "bvcomp",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Term",
+          "source": "src/SMTLib1-QF_BV.html#bvcomp",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "bvcomp",
+          "normalized": "Term-\u003eTerm-\u003eTerm",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvcomp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "bvlshr",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Term",
+          "source": "src/SMTLib1-QF_BV.html#bvlshr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "bvlshr",
+          "normalized": "Term-\u003eTerm-\u003eTerm",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvlshr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "bvmul",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Term",
+          "source": "src/SMTLib1-QF_BV.html#bvmul",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "bvmul",
+          "normalized": "Term-\u003eTerm-\u003eTerm",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvmul"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "bvnand",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Term",
+          "source": "src/SMTLib1-QF_BV.html#bvnand",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "bvnand",
+          "normalized": "Term-\u003eTerm-\u003eTerm",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvnand"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "bvneg",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term",
+          "source": "src/SMTLib1-QF_BV.html#bvneg",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "bvneg",
+          "normalized": "Term-\u003eTerm",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvneg"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "bvnor",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Term",
+          "source": "src/SMTLib1-QF_BV.html#bvnor",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "bvnor",
+          "normalized": "Term-\u003eTerm-\u003eTerm",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvnor"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "bvnot",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term",
+          "source": "src/SMTLib1-QF_BV.html#bvnot",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "bvnot",
+          "normalized": "Term-\u003eTerm",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvnot"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "bvor",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Term",
+          "source": "src/SMTLib1-QF_BV.html#bvor",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "bvor",
+          "normalized": "Term-\u003eTerm-\u003eTerm",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvor"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "bvsdiv",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Term",
+          "source": "src/SMTLib1-QF_BV.html#bvsdiv",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "bvsdiv",
+          "normalized": "Term-\u003eTerm-\u003eTerm",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvsdiv"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "bvsge",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Formula",
+          "source": "src/SMTLib1-QF_BV.html#bvsge",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "bvsge",
+          "normalized": "Term-\u003eTerm-\u003eFormula",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eFormula",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvsge"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "bvsgt",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Formula",
+          "source": "src/SMTLib1-QF_BV.html#bvsgt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "bvsgt",
+          "normalized": "Term-\u003eTerm-\u003eFormula",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eFormula",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvsgt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "bvshl",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Term",
+          "source": "src/SMTLib1-QF_BV.html#bvshl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "bvshl",
+          "normalized": "Term-\u003eTerm-\u003eTerm",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvshl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "bvsle",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Formula",
+          "source": "src/SMTLib1-QF_BV.html#bvsle",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "bvsle",
+          "normalized": "Term-\u003eTerm-\u003eFormula",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eFormula",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvsle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "bvslt",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Formula",
+          "source": "src/SMTLib1-QF_BV.html#bvslt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "bvslt",
+          "normalized": "Term-\u003eTerm-\u003eFormula",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eFormula",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvslt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "bvsmod",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Term",
+          "source": "src/SMTLib1-QF_BV.html#bvsmod",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "bvsmod",
+          "normalized": "Term-\u003eTerm-\u003eTerm",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvsmod"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "bvsrem",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Term",
+          "source": "src/SMTLib1-QF_BV.html#bvsrem",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "bvsrem",
+          "normalized": "Term-\u003eTerm-\u003eTerm",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvsrem"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "bvsub",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Term",
+          "source": "src/SMTLib1-QF_BV.html#bvsub",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "bvsub",
+          "normalized": "Term-\u003eTerm-\u003eTerm",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvsub"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "bvudiv",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Term",
+          "source": "src/SMTLib1-QF_BV.html#bvudiv",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "bvudiv",
+          "normalized": "Term-\u003eTerm-\u003eTerm",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvudiv"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "bvuge",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Formula",
+          "source": "src/SMTLib1-QF_BV.html#bvuge",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "bvuge",
+          "normalized": "Term-\u003eTerm-\u003eFormula",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eFormula",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvuge"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "bvugt",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Formula",
+          "source": "src/SMTLib1-QF_BV.html#bvugt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "bvugt",
+          "normalized": "Term-\u003eTerm-\u003eFormula",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eFormula",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvugt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "bvule",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Formula",
+          "source": "src/SMTLib1-QF_BV.html#bvule",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "bvule",
+          "normalized": "Term-\u003eTerm-\u003eFormula",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eFormula",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvule"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "bvurem",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Term",
+          "source": "src/SMTLib1-QF_BV.html#bvurem",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "bvurem",
+          "normalized": "Term-\u003eTerm-\u003eTerm",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvurem"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "bvxnor",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Term",
+          "source": "src/SMTLib1-QF_BV.html#bvxnor",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "bvxnor",
+          "normalized": "Term-\u003eTerm-\u003eTerm",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvxnor"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "bvxor",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Term",
+          "source": "src/SMTLib1-QF_BV.html#bvxor",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "bvxor",
+          "normalized": "Term-\u003eTerm-\u003eTerm",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:bvxor"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdl\u003e\u003cdt\u003em\u003c/dt\u003e\u003cdd\u003e -\u003e [n] -\u003e [m+n]\n\u003c/dd\u003e\u003c/dl\u003e",
+          "module": "SMTLib1.QF_BV",
+          "name": "concat",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Term",
+          "source": "src/SMTLib1-QF_BV.html#concat",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "concat",
+          "normalized": "Term-\u003eTerm-\u003eTerm",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:concat"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "extract",
+          "package": "smtLib",
+          "signature": "Integer -\u003e Integer -\u003e Term -\u003e Term",
+          "source": "src/SMTLib1-QF_BV.html#extract",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "extract",
+          "normalized": "Integer-\u003eInteger-\u003eTerm-\u003eTerm",
+          "package": "smtLib",
+          "signature": "Integer-\u003eInteger-\u003eTerm-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:extract"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "isBitVec",
+          "package": "smtLib",
+          "signature": "Sort -\u003e Maybe Integer",
+          "source": "src/SMTLib1-QF_BV.html#isBitVec",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "isBitVec",
+          "normalized": "Sort-\u003eMaybe Integer",
+          "package": "smtLib",
+          "partial": "Bit Vec",
+          "signature": "Sort-\u003eMaybe Integer",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:isBitVec"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "repeat",
+          "package": "smtLib",
+          "signature": "Integer -\u003e Term -\u003e Term",
+          "source": "src/SMTLib1-QF_BV.html#repeat",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "repeat",
+          "normalized": "Integer-\u003eTerm-\u003eTerm",
+          "package": "smtLib",
+          "signature": "Integer-\u003eTerm-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:repeat"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "rotate_left",
+          "package": "smtLib",
+          "signature": "Integer -\u003e Term -\u003e Term",
+          "source": "src/SMTLib1-QF_BV.html#rotate_left",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "rotate_left",
+          "normalized": "Integer-\u003eTerm-\u003eTerm",
+          "package": "smtLib",
+          "signature": "Integer-\u003eTerm-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:rotate_left"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "rotate_right",
+          "package": "smtLib",
+          "signature": "Integer -\u003e Term -\u003e Term",
+          "source": "src/SMTLib1-QF_BV.html#rotate_right",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "rotate_right",
+          "normalized": "Integer-\u003eTerm-\u003eTerm",
+          "package": "smtLib",
+          "signature": "Integer-\u003eTerm-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:rotate_right"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "sign_extend",
+          "package": "smtLib",
+          "signature": "Integer -\u003e Term -\u003e Term",
+          "source": "src/SMTLib1-QF_BV.html#sign_extend",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "sign_extend",
+          "normalized": "Integer-\u003eTerm-\u003eTerm",
+          "package": "smtLib",
+          "signature": "Integer-\u003eTerm-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:sign_extend"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "tBitVec",
+          "package": "smtLib",
+          "signature": "Integer -\u003e Sort",
+          "source": "src/SMTLib1-QF_BV.html#tBitVec",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "tBitVec",
+          "normalized": "Integer-\u003eSort",
+          "package": "smtLib",
+          "partial": "Bit Vec",
+          "signature": "Integer-\u003eSort",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:tBitVec"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1.QF_BV",
+          "name": "zero_extend",
+          "package": "smtLib",
+          "signature": "Integer -\u003e Term -\u003e Term",
+          "source": "src/SMTLib1-QF_BV.html#zero_extend",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1 QF_BV",
+          "module": "SMTLib1.QF_BV",
+          "name": "zero_extend",
+          "normalized": "Integer-\u003eTerm-\u003eTerm",
+          "package": "smtLib",
+          "signature": "Integer-\u003eTerm-\u003eTerm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1-QF_BV.html#v:zero_extend"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "SMTLib1",
+          "package": "smtLib",
+          "source": "src/SMTLib1.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "SMTLib1",
+          "package": "smtLib",
+          "partial": "SMTLib",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Annot",
+          "package": "smtLib",
+          "source": "src/SMTLib1-AST.html#Annot",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Annot",
+          "package": "smtLib",
+          "partial": "Annot",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:Annot"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Binder",
+          "package": "smtLib",
+          "source": "src/SMTLib1-AST.html#Binder",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Binder",
+          "package": "smtLib",
+          "partial": "Binder",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:Binder"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Command",
+          "package": "smtLib",
+          "source": "src/SMTLib1-AST.html#Command",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Command",
+          "package": "smtLib",
+          "partial": "Command",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:Command"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Conn",
+          "package": "smtLib",
+          "source": "src/SMTLib1-AST.html#Conn",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Conn",
+          "package": "smtLib",
+          "partial": "Conn",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:Conn"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Formula",
+          "package": "smtLib",
+          "source": "src/SMTLib1-AST.html#Formula",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Formula",
+          "package": "smtLib",
+          "partial": "Formula",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:Formula"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "FunDecl",
+          "package": "smtLib",
+          "source": "src/SMTLib1-AST.html#FunDecl",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "FunDecl",
+          "package": "smtLib",
+          "partial": "Fun Decl",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:FunDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Ident",
+          "package": "smtLib",
+          "source": "src/SMTLib1-AST.html#Ident",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Ident",
+          "package": "smtLib",
+          "partial": "Ident",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:Ident"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Literal",
+          "package": "smtLib",
+          "source": "src/SMTLib1-AST.html#Literal",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Literal",
+          "package": "smtLib",
+          "partial": "Literal",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:Literal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Name",
+          "package": "smtLib",
+          "source": "src/SMTLib1-AST.html#Name",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Name",
+          "package": "smtLib",
+          "partial": "Name",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:Name"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "PP",
+          "package": "smtLib",
+          "source": "src/SMTLib1-PP.html#PP",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "PP",
+          "package": "smtLib",
+          "partial": "PP",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:PP"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "PredDecl",
+          "package": "smtLib",
+          "source": "src/SMTLib1-AST.html#PredDecl",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "PredDecl",
+          "package": "smtLib",
+          "partial": "Pred Decl",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:PredDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Quant",
+          "package": "smtLib",
+          "source": "src/SMTLib1-AST.html#Quant",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Quant",
+          "package": "smtLib",
+          "partial": "Quant",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:Quant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Script",
+          "package": "smtLib",
+          "source": "src/SMTLib1-AST.html#Script",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Script",
+          "package": "smtLib",
+          "partial": "Script",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:Script"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Sort",
+          "package": "smtLib",
+          "source": "src/SMTLib1-AST.html#Sort",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Sort",
+          "package": "smtLib",
+          "partial": "Sort",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:Sort"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Status",
+          "package": "smtLib",
+          "source": "src/SMTLib1-AST.html#Status",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Status",
+          "package": "smtLib",
+          "partial": "Status",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:Status"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Term",
+          "package": "smtLib",
+          "source": "src/SMTLib1-AST.html#Term",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Term",
+          "package": "smtLib",
+          "partial": "Term",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#t:Term"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "(=/=)",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Formula",
+          "source": "src/SMTLib1-AST.html#%3D%2F%3D",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "(=/=) =/=",
+          "normalized": "Term-\u003eTerm-\u003eFormula",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eFormula",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:-61--47--61-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "(===)",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Formula",
+          "source": "src/SMTLib1-AST.html#%3D%3D%3D",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "(===) ===",
+          "normalized": "Term-\u003eTerm-\u003eFormula",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eFormula",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:-61--61--61-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eFor \u003ccode\u003e\u003ca\u003eInt\u003c/a\u003e\u003c/code\u003e\n\u003c/p\u003e",
+          "module": "SMTLib1",
+          "name": "(.\u003c.)",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Formula",
+          "source": "src/SMTLib1-AST.html#.%3C.",
+          "type": "function"
+        },
+        "index": {
+          "description": "For Int",
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "(.\u003c.) .\u003c.",
+          "normalized": "Term-\u003eTerm-\u003eFormula",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eFormula",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:.-60-."
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eFor \u003ccode\u003e\u003ca\u003eInt\u003c/a\u003e\u003c/code\u003e\n\u003c/p\u003e",
+          "module": "SMTLib1",
+          "name": "(.\u003e.)",
+          "package": "smtLib",
+          "signature": "Term -\u003e Term -\u003e Formula",
+          "source": "src/SMTLib1-AST.html#.%3E.",
+          "type": "function"
+        },
+        "index": {
+          "description": "For Int",
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "(.\u003e.) .\u003e.",
+          "normalized": "Term-\u003eTerm-\u003eFormula",
+          "package": "smtLib",
+          "signature": "Term-\u003eTerm-\u003eFormula",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:.-62-."
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "And",
+          "package": "smtLib",
+          "signature": "And",
+          "source": "src/SMTLib1-AST.html#Conn",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "And",
+          "package": "smtLib",
+          "partial": "And",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:And"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "App",
+          "package": "smtLib",
+          "signature": "App Ident [Term]",
+          "source": "src/SMTLib1-AST.html#Term",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "App",
+          "normalized": "App Ident[Term]",
+          "package": "smtLib",
+          "partial": "App",
+          "signature": "App Ident[Term]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:App"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Attr",
+          "package": "smtLib",
+          "signature": "Attr",
+          "source": "src/SMTLib1-AST.html#Annot",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Attr",
+          "package": "smtLib",
+          "partial": "Attr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Attr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Bind",
+          "package": "smtLib",
+          "signature": "Bind",
+          "source": "src/SMTLib1-AST.html#Binder",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Bind",
+          "package": "smtLib",
+          "partial": "Bind",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Bind"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "CmdAnnot",
+          "package": "smtLib",
+          "signature": "CmdAnnot Annot",
+          "source": "src/SMTLib1-AST.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "CmdAnnot",
+          "package": "smtLib",
+          "partial": "Cmd Annot",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:CmdAnnot"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "CmdAssumption",
+          "package": "smtLib",
+          "signature": "CmdAssumption Formula",
+          "source": "src/SMTLib1-AST.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "CmdAssumption",
+          "package": "smtLib",
+          "partial": "Cmd Assumption",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:CmdAssumption"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "CmdExtraFuns",
+          "package": "smtLib",
+          "signature": "CmdExtraFuns [FunDecl]",
+          "source": "src/SMTLib1-AST.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "CmdExtraFuns",
+          "normalized": "CmdExtraFuns[FunDecl]",
+          "package": "smtLib",
+          "partial": "Cmd Extra Funs",
+          "signature": "CmdExtraFuns[FunDecl]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:CmdExtraFuns"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "CmdExtraPreds",
+          "package": "smtLib",
+          "signature": "CmdExtraPreds [PredDecl]",
+          "source": "src/SMTLib1-AST.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "CmdExtraPreds",
+          "normalized": "CmdExtraPreds[PredDecl]",
+          "package": "smtLib",
+          "partial": "Cmd Extra Preds",
+          "signature": "CmdExtraPreds[PredDecl]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:CmdExtraPreds"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "CmdExtraSorts",
+          "package": "smtLib",
+          "signature": "CmdExtraSorts [Sort]",
+          "source": "src/SMTLib1-AST.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "CmdExtraSorts",
+          "normalized": "CmdExtraSorts[Sort]",
+          "package": "smtLib",
+          "partial": "Cmd Extra Sorts",
+          "signature": "CmdExtraSorts[Sort]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:CmdExtraSorts"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "CmdFormula",
+          "package": "smtLib",
+          "signature": "CmdFormula Formula",
+          "source": "src/SMTLib1-AST.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "CmdFormula",
+          "package": "smtLib",
+          "partial": "Cmd Formula",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:CmdFormula"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "CmdLogic",
+          "package": "smtLib",
+          "signature": "CmdLogic Ident",
+          "source": "src/SMTLib1-AST.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "CmdLogic",
+          "package": "smtLib",
+          "partial": "Cmd Logic",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:CmdLogic"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "CmdNotes",
+          "package": "smtLib",
+          "signature": "CmdNotes String",
+          "source": "src/SMTLib1-AST.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "CmdNotes",
+          "package": "smtLib",
+          "partial": "Cmd Notes",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:CmdNotes"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "CmdStatus",
+          "package": "smtLib",
+          "signature": "CmdStatus Status",
+          "source": "src/SMTLib1-AST.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "CmdStatus",
+          "package": "smtLib",
+          "partial": "Cmd Status",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:CmdStatus"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Conn",
+          "package": "smtLib",
+          "signature": "Conn Conn [Formula]",
+          "source": "src/SMTLib1-AST.html#Formula",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Conn",
+          "normalized": "Conn Conn[Formula]",
+          "package": "smtLib",
+          "partial": "Conn",
+          "signature": "Conn Conn[Formula]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Conn"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Exists",
+          "package": "smtLib",
+          "signature": "Exists",
+          "source": "src/SMTLib1-AST.html#Quant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Exists",
+          "package": "smtLib",
+          "partial": "Exists",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Exists"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "FAnnot",
+          "package": "smtLib",
+          "signature": "FAnnot Formula [Annot]",
+          "source": "src/SMTLib1-AST.html#Formula",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "FAnnot",
+          "normalized": "FAnnot Formula[Annot]",
+          "package": "smtLib",
+          "partial": "FAnnot",
+          "signature": "FAnnot Formula[Annot]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:FAnnot"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "FFalse",
+          "package": "smtLib",
+          "signature": "FFalse",
+          "source": "src/SMTLib1-AST.html#Formula",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "FFalse",
+          "package": "smtLib",
+          "partial": "FFalse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:FFalse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "FLet",
+          "package": "smtLib",
+          "signature": "FLet Name Formula Formula",
+          "source": "src/SMTLib1-AST.html#Formula",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "FLet",
+          "package": "smtLib",
+          "partial": "FLet",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:FLet"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "FPred",
+          "package": "smtLib",
+          "signature": "FPred Ident [Term]",
+          "source": "src/SMTLib1-AST.html#Formula",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "FPred",
+          "normalized": "FPred Ident[Term]",
+          "package": "smtLib",
+          "partial": "FPred",
+          "signature": "FPred Ident[Term]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:FPred"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "FTrue",
+          "package": "smtLib",
+          "signature": "FTrue",
+          "source": "src/SMTLib1-AST.html#Formula",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "FTrue",
+          "package": "smtLib",
+          "partial": "FTrue",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:FTrue"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "FVar",
+          "package": "smtLib",
+          "signature": "FVar Name",
+          "source": "src/SMTLib1-AST.html#Formula",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "FVar",
+          "package": "smtLib",
+          "partial": "FVar",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:FVar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Forall",
+          "package": "smtLib",
+          "signature": "Forall",
+          "source": "src/SMTLib1-AST.html#Quant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Forall",
+          "package": "smtLib",
+          "partial": "Forall",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Forall"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "FunDecl",
+          "package": "smtLib",
+          "signature": "FunDecl",
+          "source": "src/SMTLib1-AST.html#FunDecl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "FunDecl",
+          "package": "smtLib",
+          "partial": "Fun Decl",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:FunDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "I",
+          "package": "smtLib",
+          "signature": "I Name [Integer]",
+          "source": "src/SMTLib1-AST.html#Ident",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "I",
+          "normalized": "I Name[Integer]",
+          "package": "smtLib",
+          "signature": "I Name[Integer]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:I"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "ITE",
+          "package": "smtLib",
+          "signature": "ITE Formula Term Term",
+          "source": "src/SMTLib1-AST.html#Term",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "ITE",
+          "package": "smtLib",
+          "partial": "ITE",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:ITE"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "IfThenElse",
+          "package": "smtLib",
+          "signature": "IfThenElse",
+          "source": "src/SMTLib1-AST.html#Conn",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "IfThenElse",
+          "package": "smtLib",
+          "partial": "If Then Else",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:IfThenElse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Iff",
+          "package": "smtLib",
+          "signature": "Iff",
+          "source": "src/SMTLib1-AST.html#Conn",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Iff",
+          "package": "smtLib",
+          "partial": "Iff",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Iff"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Implies",
+          "package": "smtLib",
+          "signature": "Implies",
+          "source": "src/SMTLib1-AST.html#Conn",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Implies",
+          "package": "smtLib",
+          "partial": "Implies",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Implies"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Let",
+          "package": "smtLib",
+          "signature": "Let Name Term Formula",
+          "source": "src/SMTLib1-AST.html#Formula",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Let",
+          "package": "smtLib",
+          "partial": "Let",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Let"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Lit",
+          "package": "smtLib",
+          "signature": "Lit Literal",
+          "source": "src/SMTLib1-AST.html#Term",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Lit",
+          "package": "smtLib",
+          "partial": "Lit",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Lit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "LitFrac",
+          "package": "smtLib",
+          "signature": "LitFrac Rational",
+          "source": "src/SMTLib1-AST.html#Literal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "LitFrac",
+          "package": "smtLib",
+          "partial": "Lit Frac",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:LitFrac"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "LitNum",
+          "package": "smtLib",
+          "signature": "LitNum Integer",
+          "source": "src/SMTLib1-AST.html#Literal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "LitNum",
+          "package": "smtLib",
+          "partial": "Lit Num",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:LitNum"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "LitStr",
+          "package": "smtLib",
+          "signature": "LitStr String",
+          "source": "src/SMTLib1-AST.html#Literal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "LitStr",
+          "package": "smtLib",
+          "partial": "Lit Str",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:LitStr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "N",
+          "package": "smtLib",
+          "signature": "N String",
+          "source": "src/SMTLib1-AST.html#Name",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "N",
+          "package": "smtLib",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:N"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Not",
+          "package": "smtLib",
+          "signature": "Not",
+          "source": "src/SMTLib1-AST.html#Conn",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Not",
+          "package": "smtLib",
+          "partial": "Not",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Not"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Or",
+          "package": "smtLib",
+          "signature": "Or",
+          "source": "src/SMTLib1-AST.html#Conn",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Or",
+          "package": "smtLib",
+          "partial": "Or",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Or"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "PredDecl",
+          "package": "smtLib",
+          "signature": "PredDecl",
+          "source": "src/SMTLib1-AST.html#PredDecl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "PredDecl",
+          "package": "smtLib",
+          "partial": "Pred Decl",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:PredDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Quant",
+          "package": "smtLib",
+          "signature": "Quant Quant [Binder] Formula",
+          "source": "src/SMTLib1-AST.html#Formula",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Quant",
+          "normalized": "Quant Quant[Binder]Formula",
+          "package": "smtLib",
+          "partial": "Quant",
+          "signature": "Quant Quant[Binder]Formula",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Quant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Sat",
+          "package": "smtLib",
+          "signature": "Sat",
+          "source": "src/SMTLib1-AST.html#Status",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Sat",
+          "package": "smtLib",
+          "partial": "Sat",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Sat"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Script",
+          "package": "smtLib",
+          "signature": "Script",
+          "source": "src/SMTLib1-AST.html#Script",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Script",
+          "package": "smtLib",
+          "partial": "Script",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Script"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "TAnnot",
+          "package": "smtLib",
+          "signature": "TAnnot Term [Annot]",
+          "source": "src/SMTLib1-AST.html#Term",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "TAnnot",
+          "normalized": "TAnnot Term[Annot]",
+          "package": "smtLib",
+          "partial": "TAnnot",
+          "signature": "TAnnot Term[Annot]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:TAnnot"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Unknown",
+          "package": "smtLib",
+          "signature": "Unknown",
+          "source": "src/SMTLib1-AST.html#Status",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Unknown",
+          "package": "smtLib",
+          "partial": "Unknown",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Unknown"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Unsat",
+          "package": "smtLib",
+          "signature": "Unsat",
+          "source": "src/SMTLib1-AST.html#Status",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Unsat",
+          "package": "smtLib",
+          "partial": "Unsat",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Unsat"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Var",
+          "package": "smtLib",
+          "signature": "Var Name",
+          "source": "src/SMTLib1-AST.html#Term",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Var",
+          "package": "smtLib",
+          "partial": "Var",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Var"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "Xor",
+          "package": "smtLib",
+          "signature": "Xor",
+          "source": "src/SMTLib1-AST.html#Conn",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "Xor",
+          "package": "smtLib",
+          "partial": "Xor",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:Xor"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "assume",
+          "package": "smtLib",
+          "signature": "Formula -\u003e Command",
+          "source": "src/SMTLib1-AST.html#assume",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "assume",
+          "normalized": "Formula-\u003eCommand",
+          "package": "smtLib",
+          "signature": "Formula-\u003eCommand",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:assume"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "attrName",
+          "package": "smtLib",
+          "signature": "Name",
+          "source": "src/SMTLib1-AST.html#Annot",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "attrName",
+          "package": "smtLib",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:attrName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "attrVal",
+          "package": "smtLib",
+          "signature": "Maybe String",
+          "source": "src/SMTLib1-AST.html#Annot",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "attrVal",
+          "package": "smtLib",
+          "partial": "Val",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:attrVal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "bindSort",
+          "package": "smtLib",
+          "signature": "Sort",
+          "source": "src/SMTLib1-AST.html#Binder",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "bindSort",
+          "package": "smtLib",
+          "partial": "Sort",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:bindSort"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "bindVar",
+          "package": "smtLib",
+          "signature": "Name",
+          "source": "src/SMTLib1-AST.html#Binder",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "bindVar",
+          "package": "smtLib",
+          "partial": "Var",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:bindVar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "constDef",
+          "package": "smtLib",
+          "signature": "Ident -\u003e Sort -\u003e Command",
+          "source": "src/SMTLib1-AST.html#constDef",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "constDef",
+          "normalized": "Ident-\u003eSort-\u003eCommand",
+          "package": "smtLib",
+          "partial": "Def",
+          "signature": "Ident-\u003eSort-\u003eCommand",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:constDef"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "funAnnots",
+          "package": "smtLib",
+          "signature": "[Annot]",
+          "source": "src/SMTLib1-AST.html#FunDecl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "funAnnots",
+          "normalized": "[Annot]",
+          "package": "smtLib",
+          "partial": "Annots",
+          "signature": "[Annot]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:funAnnots"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "funArgs",
+          "package": "smtLib",
+          "signature": "[Sort]",
+          "source": "src/SMTLib1-AST.html#FunDecl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "funArgs",
+          "normalized": "[Sort]",
+          "package": "smtLib",
+          "partial": "Args",
+          "signature": "[Sort]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:funArgs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "funDef",
+          "package": "smtLib",
+          "signature": "Ident -\u003e [Sort] -\u003e Sort -\u003e Command",
+          "source": "src/SMTLib1-AST.html#funDef",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "funDef",
+          "normalized": "Ident-\u003e[Sort]-\u003eSort-\u003eCommand",
+          "package": "smtLib",
+          "partial": "Def",
+          "signature": "Ident-\u003e[Sort]-\u003eSort-\u003eCommand",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:funDef"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "funName",
+          "package": "smtLib",
+          "signature": "Ident",
+          "source": "src/SMTLib1-AST.html#FunDecl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "funName",
+          "package": "smtLib",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:funName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "funRes",
+          "package": "smtLib",
+          "signature": "Sort",
+          "source": "src/SMTLib1-AST.html#FunDecl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "funRes",
+          "package": "smtLib",
+          "partial": "Res",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:funRes"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "goal",
+          "package": "smtLib",
+          "signature": "Formula -\u003e Command",
+          "source": "src/SMTLib1-AST.html#goal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "goal",
+          "normalized": "Formula-\u003eCommand",
+          "package": "smtLib",
+          "signature": "Formula-\u003eCommand",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:goal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "logic",
+          "package": "smtLib",
+          "signature": "Ident -\u003e Command",
+          "source": "src/SMTLib1-AST.html#logic",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "logic",
+          "normalized": "Ident-\u003eCommand",
+          "package": "smtLib",
+          "signature": "Ident-\u003eCommand",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:logic"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "pp",
+          "package": "smtLib",
+          "signature": "t -\u003e Doc",
+          "source": "src/SMTLib1-PP.html#pp",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "pp",
+          "normalized": "a-\u003eDoc",
+          "package": "smtLib",
+          "signature": "t-\u003eDoc",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:pp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "predAnnots",
+          "package": "smtLib",
+          "signature": "[Annot]",
+          "source": "src/SMTLib1-AST.html#PredDecl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "predAnnots",
+          "normalized": "[Annot]",
+          "package": "smtLib",
+          "partial": "Annots",
+          "signature": "[Annot]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:predAnnots"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "predArgs",
+          "package": "smtLib",
+          "signature": "[Sort]",
+          "source": "src/SMTLib1-AST.html#PredDecl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "predArgs",
+          "normalized": "[Sort]",
+          "package": "smtLib",
+          "partial": "Args",
+          "signature": "[Sort]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:predArgs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "predName",
+          "package": "smtLib",
+          "signature": "Ident",
+          "source": "src/SMTLib1-AST.html#PredDecl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "predName",
+          "package": "smtLib",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:predName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "scrCommands",
+          "package": "smtLib",
+          "signature": "[Command]",
+          "source": "src/SMTLib1-AST.html#Script",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "scrCommands",
+          "normalized": "[Command]",
+          "package": "smtLib",
+          "partial": "Commands",
+          "signature": "[Command]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:scrCommands"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "scrName",
+          "package": "smtLib",
+          "signature": "Ident",
+          "source": "src/SMTLib1-AST.html#Script",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "scrName",
+          "package": "smtLib",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:scrName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib1",
+          "name": "tInt",
+          "package": "smtLib",
+          "signature": "Sort",
+          "source": "src/SMTLib1-AST.html#tInt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib1",
+          "module": "SMTLib1",
+          "name": "tInt",
+          "package": "smtLib",
+          "partial": "Int",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib1.html#v:tInt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Array",
+          "name": "Array",
+          "package": "smtLib",
+          "source": "src/SMTLib2-Array.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Array",
+          "module": "SMTLib2.Array",
+          "name": "Array",
+          "package": "smtLib",
+          "partial": "Array",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Array.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Array",
+          "name": "select",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-Array.html#select",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Array",
+          "module": "SMTLib2.Array",
+          "name": "select",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Array.html#v:select"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Array",
+          "name": "store",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-Array.html#store",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Array",
+          "module": "SMTLib2.Array",
+          "name": "store",
+          "normalized": "Expr-\u003eExpr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Array.html#v:store"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Array",
+          "name": "tArray",
+          "package": "smtLib",
+          "signature": "Type -\u003e Type -\u003e Type",
+          "source": "src/SMTLib2-Array.html#tArray",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Array",
+          "module": "SMTLib2.Array",
+          "name": "tArray",
+          "normalized": "Type-\u003eType-\u003eType",
+          "package": "smtLib",
+          "partial": "Array",
+          "signature": "Type-\u003eType-\u003eType",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Array.html#v:tArray"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "BitVector",
+          "package": "smtLib",
+          "source": "src/SMTLib2-BitVector.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "BitVector",
+          "package": "smtLib",
+          "partial": "Bit Vector",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "bv",
+          "package": "smtLib",
+          "signature": "Integer -\u003e Integer -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#bv",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "bv",
+          "normalized": "Integer-\u003eInteger-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Integer-\u003eInteger-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bv"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "bvadd",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#bvadd",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "bvadd",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvadd"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "bvand",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#bvand",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "bvand",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvand"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "bvashr",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#bvashr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "bvashr",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvashr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "bvcomp",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#bvcomp",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "bvcomp",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvcomp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "bvlshr",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#bvlshr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "bvlshr",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvlshr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "bvmul",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#bvmul",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "bvmul",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvmul"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "bvnand",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#bvnand",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "bvnand",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvnand"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "bvneg",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#bvneg",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "bvneg",
+          "normalized": "Expr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvneg"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "bvnor",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#bvnor",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "bvnor",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvnor"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "bvnot",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#bvnot",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "bvnot",
+          "normalized": "Expr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvnot"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "bvor",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#bvor",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "bvor",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvor"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "bvsdiv",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#bvsdiv",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "bvsdiv",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvsdiv"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "bvsge",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#bvsge",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "bvsge",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvsge"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "bvsgt",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#bvsgt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "bvsgt",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvsgt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "bvshl",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#bvshl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "bvshl",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvshl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "bvsle",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#bvsle",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "bvsle",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvsle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "bvslt",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#bvslt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "bvslt",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvslt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "bvsmod",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#bvsmod",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "bvsmod",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvsmod"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "bvsrem",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#bvsrem",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "bvsrem",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvsrem"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "bvsub",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#bvsub",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "bvsub",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvsub"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "bvudiv",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#bvudiv",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "bvudiv",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvudiv"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "bvuge",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#bvuge",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "bvuge",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvuge"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "bvugt",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#bvugt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "bvugt",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvugt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "bvule",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#bvule",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "bvule",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvule"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "bvult",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#bvult",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "bvult",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvult"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "bvurem",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#bvurem",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "bvurem",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvurem"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "bvxnor",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#bvxnor",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "bvxnor",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvxnor"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "bvxor",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#bvxor",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "bvxor",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:bvxor"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "concat",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#concat",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "concat",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:concat"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "extract",
+          "package": "smtLib",
+          "signature": "Integer -\u003e Integer -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#extract",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "extract",
+          "normalized": "Integer-\u003eInteger-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Integer-\u003eInteger-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:extract"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "repeat",
+          "package": "smtLib",
+          "signature": "Integer -\u003e Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#repeat",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "repeat",
+          "normalized": "Integer-\u003eExpr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Integer-\u003eExpr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:repeat"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "rotate_left",
+          "package": "smtLib",
+          "signature": "Integer -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#rotate_left",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "rotate_left",
+          "normalized": "Integer-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Integer-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:rotate_left"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "rotate_right",
+          "package": "smtLib",
+          "signature": "Integer -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#rotate_right",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "rotate_right",
+          "normalized": "Integer-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Integer-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:rotate_right"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "sign_extend",
+          "package": "smtLib",
+          "signature": "Integer -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#sign_extend",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "sign_extend",
+          "normalized": "Integer-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Integer-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:sign_extend"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "tBitVec",
+          "package": "smtLib",
+          "signature": "Integer -\u003e Type",
+          "source": "src/SMTLib2-BitVector.html#tBitVec",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "tBitVec",
+          "normalized": "Integer-\u003eType",
+          "package": "smtLib",
+          "partial": "Bit Vec",
+          "signature": "Integer-\u003eType",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:tBitVec"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.BitVector",
+          "name": "zero_extend",
+          "package": "smtLib",
+          "signature": "Integer -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-BitVector.html#zero_extend",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 BitVector",
+          "module": "SMTLib2.BitVector",
+          "name": "zero_extend",
+          "normalized": "Integer-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Integer-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-BitVector.html#v:zero_extend"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Compat1",
+          "name": "Compat1",
+          "package": "smtLib",
+          "source": "src/SMTLib2-Compat1.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Compat1",
+          "module": "SMTLib2.Compat1",
+          "name": "Compat1",
+          "package": "smtLib",
+          "partial": "Compat",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Compat1",
+          "name": "Trans",
+          "package": "smtLib",
+          "source": "src/SMTLib2-Compat1.html#Trans",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Compat1",
+          "module": "SMTLib2.Compat1",
+          "name": "Trans",
+          "package": "smtLib",
+          "partial": "Trans",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#t:Trans"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Compat1",
+          "name": "Fail",
+          "package": "smtLib",
+          "signature": "Fail Doc",
+          "source": "src/SMTLib2-Compat1.html#Trans",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Compat1",
+          "module": "SMTLib2.Compat1",
+          "name": "Fail",
+          "package": "smtLib",
+          "partial": "Fail",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:Fail"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Compat1",
+          "name": "OK",
+          "package": "smtLib",
+          "signature": "OK a",
+          "source": "src/SMTLib2-Compat1.html#Trans",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Compat1",
+          "module": "SMTLib2.Compat1",
+          "name": "OK",
+          "package": "smtLib",
+          "partial": "OK",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:OK"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Compat1",
+          "name": "annot",
+          "package": "smtLib",
+          "signature": "Annot -\u003e Trans Attr",
+          "source": "src/SMTLib2-Compat1.html#annot",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Compat1",
+          "module": "SMTLib2.Compat1",
+          "name": "annot",
+          "normalized": "Annot-\u003eTrans Attr",
+          "package": "smtLib",
+          "signature": "Annot-\u003eTrans Attr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:annot"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Compat1",
+          "name": "binder",
+          "package": "smtLib",
+          "signature": "Binder -\u003e Binder",
+          "source": "src/SMTLib2-Compat1.html#binder",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Compat1",
+          "module": "SMTLib2.Compat1",
+          "name": "binder",
+          "normalized": "Binder-\u003eBinder",
+          "package": "smtLib",
+          "signature": "Binder-\u003eBinder",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:binder"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Compat1",
+          "name": "command",
+          "package": "smtLib",
+          "signature": "Command -\u003e Trans [Command]",
+          "source": "src/SMTLib2-Compat1.html#command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Compat1",
+          "module": "SMTLib2.Compat1",
+          "name": "command",
+          "normalized": "Command-\u003eTrans[Command]",
+          "package": "smtLib",
+          "signature": "Command-\u003eTrans[Command]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:command"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Compat1",
+          "name": "err",
+          "package": "smtLib",
+          "signature": "Doc -\u003e Trans a",
+          "source": "src/SMTLib2-Compat1.html#err",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Compat1",
+          "module": "SMTLib2.Compat1",
+          "name": "err",
+          "normalized": "Doc-\u003eTrans a",
+          "package": "smtLib",
+          "signature": "Doc-\u003eTrans a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:err"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Compat1",
+          "name": "formula",
+          "package": "smtLib",
+          "signature": "Formula -\u003e Trans Expr",
+          "source": "src/SMTLib2-Compat1.html#formula",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Compat1",
+          "module": "SMTLib2.Compat1",
+          "name": "formula",
+          "normalized": "Formula-\u003eTrans Expr",
+          "package": "smtLib",
+          "signature": "Formula-\u003eTrans Expr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:formula"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Compat1",
+          "name": "ident",
+          "package": "smtLib",
+          "signature": "Ident -\u003e Ident",
+          "source": "src/SMTLib2-Compat1.html#ident",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Compat1",
+          "module": "SMTLib2.Compat1",
+          "name": "ident",
+          "normalized": "Ident-\u003eIdent",
+          "package": "smtLib",
+          "signature": "Ident-\u003eIdent",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:ident"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Compat1",
+          "name": "literal",
+          "package": "smtLib",
+          "signature": "Literal -\u003e Literal",
+          "source": "src/SMTLib2-Compat1.html#literal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Compat1",
+          "module": "SMTLib2.Compat1",
+          "name": "literal",
+          "normalized": "Literal-\u003eLiteral",
+          "package": "smtLib",
+          "signature": "Literal-\u003eLiteral",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:literal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Compat1",
+          "name": "name",
+          "package": "smtLib",
+          "signature": "Name -\u003e Name",
+          "source": "src/SMTLib2-Compat1.html#name",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Compat1",
+          "module": "SMTLib2.Compat1",
+          "name": "name",
+          "normalized": "Name-\u003eName",
+          "package": "smtLib",
+          "signature": "Name-\u003eName",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:name"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Compat1",
+          "name": "quant",
+          "package": "smtLib",
+          "signature": "Quant -\u003e Quant",
+          "source": "src/SMTLib2-Compat1.html#quant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Compat1",
+          "module": "SMTLib2.Compat1",
+          "name": "quant",
+          "normalized": "Quant-\u003eQuant",
+          "package": "smtLib",
+          "signature": "Quant-\u003eQuant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:quant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Compat1",
+          "name": "script",
+          "package": "smtLib",
+          "signature": "Script -\u003e Trans Script",
+          "source": "src/SMTLib2-Compat1.html#script",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Compat1",
+          "module": "SMTLib2.Compat1",
+          "name": "script",
+          "normalized": "Script-\u003eTrans Script",
+          "package": "smtLib",
+          "signature": "Script-\u003eTrans Script",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:script"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Compat1",
+          "name": "sort",
+          "package": "smtLib",
+          "signature": "Sort -\u003e Type",
+          "source": "src/SMTLib2-Compat1.html#sort",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Compat1",
+          "module": "SMTLib2.Compat1",
+          "name": "sort",
+          "normalized": "Sort-\u003eType",
+          "package": "smtLib",
+          "signature": "Sort-\u003eType",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:sort"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Compat1",
+          "name": "term",
+          "package": "smtLib",
+          "signature": "Term -\u003e Trans Expr",
+          "source": "src/SMTLib2-Compat1.html#term",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Compat1",
+          "module": "SMTLib2.Compat1",
+          "name": "term",
+          "normalized": "Term-\u003eTrans Expr",
+          "package": "smtLib",
+          "signature": "Term-\u003eTrans Expr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:term"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Compat1",
+          "name": "toEither",
+          "package": "smtLib",
+          "signature": "Trans a -\u003e Either Doc a",
+          "source": "src/SMTLib2-Compat1.html#toEither",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Compat1",
+          "module": "SMTLib2.Compat1",
+          "name": "toEither",
+          "normalized": "Trans a-\u003eEither Doc a",
+          "package": "smtLib",
+          "partial": "Either",
+          "signature": "Trans a-\u003eEither Doc a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:toEither"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Compat1",
+          "name": "toMaybe",
+          "package": "smtLib",
+          "signature": "Trans a -\u003e Maybe a",
+          "source": "src/SMTLib2-Compat1.html#toMaybe",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Compat1",
+          "module": "SMTLib2.Compat1",
+          "name": "toMaybe",
+          "normalized": "Trans a-\u003eMaybe a",
+          "package": "smtLib",
+          "partial": "Maybe",
+          "signature": "Trans a-\u003eMaybe a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Compat1.html#v:toMaybe"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Core",
+          "name": "Core",
+          "package": "smtLib",
+          "source": "src/SMTLib2-Core.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Core",
+          "module": "SMTLib2.Core",
+          "name": "Core",
+          "package": "smtLib",
+          "partial": "Core",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Core.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Core",
+          "name": "(=/=)",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-Core.html#%3D%2F%3D",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Core",
+          "module": "SMTLib2.Core",
+          "name": "(=/=) =/=",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Core.html#v:-61--47--61-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Core",
+          "name": "(===)",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-Core.html#%3D%3D%3D",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Core",
+          "module": "SMTLib2.Core",
+          "name": "(===) ===",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Core.html#v:-61--61--61-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Core",
+          "name": "(==\u003e)",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-Core.html#%3D%3D%3E",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Core",
+          "module": "SMTLib2.Core",
+          "name": "(==\u003e) ==\u003e",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Core.html#v:-61--61--62-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Core",
+          "name": "and",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-Core.html#and",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Core",
+          "module": "SMTLib2.Core",
+          "name": "and",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Core.html#v:and"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Core",
+          "name": "false",
+          "package": "smtLib",
+          "signature": "Expr",
+          "source": "src/SMTLib2-Core.html#false",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Core",
+          "module": "SMTLib2.Core",
+          "name": "false",
+          "package": "smtLib",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Core.html#v:false"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Core",
+          "name": "ite",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-Core.html#ite",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Core",
+          "module": "SMTLib2.Core",
+          "name": "ite",
+          "normalized": "Expr-\u003eExpr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Core.html#v:ite"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Core",
+          "name": "not",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr",
+          "source": "src/SMTLib2-Core.html#not",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Core",
+          "module": "SMTLib2.Core",
+          "name": "not",
+          "normalized": "Expr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Core.html#v:not"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Core",
+          "name": "or",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-Core.html#or",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Core",
+          "module": "SMTLib2.Core",
+          "name": "or",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Core.html#v:or"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Core",
+          "name": "tBool",
+          "package": "smtLib",
+          "signature": "Type",
+          "source": "src/SMTLib2-Core.html#tBool",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Core",
+          "module": "SMTLib2.Core",
+          "name": "tBool",
+          "package": "smtLib",
+          "partial": "Bool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Core.html#v:tBool"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Core",
+          "name": "true",
+          "package": "smtLib",
+          "signature": "Expr",
+          "source": "src/SMTLib2-Core.html#true",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Core",
+          "module": "SMTLib2.Core",
+          "name": "true",
+          "package": "smtLib",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Core.html#v:true"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Core",
+          "name": "xor",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-Core.html#xor",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Core",
+          "module": "SMTLib2.Core",
+          "name": "xor",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Core.html#v:xor"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Int",
+          "name": "Int",
+          "package": "smtLib",
+          "source": "src/SMTLib2-Int.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Int",
+          "module": "SMTLib2.Int",
+          "name": "Int",
+          "package": "smtLib",
+          "partial": "Int",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Int.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Int",
+          "name": "nAbs",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr",
+          "source": "src/SMTLib2-Int.html#nAbs",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Int",
+          "module": "SMTLib2.Int",
+          "name": "nAbs",
+          "normalized": "Expr-\u003eExpr",
+          "package": "smtLib",
+          "partial": "Abs",
+          "signature": "Expr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Int.html#v:nAbs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Int",
+          "name": "nAdd",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-Int.html#nAdd",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Int",
+          "module": "SMTLib2.Int",
+          "name": "nAdd",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "partial": "Add",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Int.html#v:nAdd"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Int",
+          "name": "nDiv",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-Int.html#nDiv",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Int",
+          "module": "SMTLib2.Int",
+          "name": "nDiv",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "partial": "Div",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Int.html#v:nDiv"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Int",
+          "name": "nGeq",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-Int.html#nGeq",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Int",
+          "module": "SMTLib2.Int",
+          "name": "nGeq",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "partial": "Geq",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Int.html#v:nGeq"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Int",
+          "name": "nGt",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-Int.html#nGt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Int",
+          "module": "SMTLib2.Int",
+          "name": "nGt",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "partial": "Gt",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Int.html#v:nGt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Int",
+          "name": "nLeq",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-Int.html#nLeq",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Int",
+          "module": "SMTLib2.Int",
+          "name": "nLeq",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "partial": "Leq",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Int.html#v:nLeq"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Int",
+          "name": "nLt",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-Int.html#nLt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Int",
+          "module": "SMTLib2.Int",
+          "name": "nLt",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "partial": "Lt",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Int.html#v:nLt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Int",
+          "name": "nMod",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-Int.html#nMod",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Int",
+          "module": "SMTLib2.Int",
+          "name": "nMod",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "partial": "Mod",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Int.html#v:nMod"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Int",
+          "name": "nMul",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-Int.html#nMul",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Int",
+          "module": "SMTLib2.Int",
+          "name": "nMul",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "partial": "Mul",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Int.html#v:nMul"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Int",
+          "name": "nNeg",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr",
+          "source": "src/SMTLib2-Int.html#nNeg",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Int",
+          "module": "SMTLib2.Int",
+          "name": "nNeg",
+          "normalized": "Expr-\u003eExpr",
+          "package": "smtLib",
+          "partial": "Neg",
+          "signature": "Expr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Int.html#v:nNeg"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Int",
+          "name": "nSub",
+          "package": "smtLib",
+          "signature": "Expr -\u003e Expr -\u003e Expr",
+          "source": "src/SMTLib2-Int.html#nSub",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Int",
+          "module": "SMTLib2.Int",
+          "name": "nSub",
+          "normalized": "Expr-\u003eExpr-\u003eExpr",
+          "package": "smtLib",
+          "partial": "Sub",
+          "signature": "Expr-\u003eExpr-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Int.html#v:nSub"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Int",
+          "name": "num",
+          "package": "smtLib",
+          "signature": "a -\u003e Expr",
+          "source": "src/SMTLib2-Int.html#num",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Int",
+          "module": "SMTLib2.Int",
+          "name": "num",
+          "normalized": "a-\u003eExpr",
+          "package": "smtLib",
+          "signature": "a-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Int.html#v:num"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2.Int",
+          "name": "tInt",
+          "package": "smtLib",
+          "signature": "Type",
+          "source": "src/SMTLib2-Int.html#tInt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2 Int",
+          "module": "SMTLib2.Int",
+          "name": "tInt",
+          "package": "smtLib",
+          "partial": "Int",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2-Int.html#v:tInt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "SMTLib2",
+          "package": "smtLib",
+          "source": "src/SMTLib2.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "SMTLib2",
+          "package": "smtLib",
+          "partial": "SMTLib",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "Attr",
+          "package": "smtLib",
+          "source": "src/SMTLib2-AST.html#Attr",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "Attr",
+          "package": "smtLib",
+          "partial": "Attr",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#t:Attr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "AttrVal",
+          "package": "smtLib",
+          "source": "src/SMTLib2-AST.html#AttrVal",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "AttrVal",
+          "package": "smtLib",
+          "partial": "Attr Val",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#t:AttrVal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "Binder",
+          "package": "smtLib",
+          "source": "src/SMTLib2-AST.html#Binder",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "Binder",
+          "package": "smtLib",
+          "partial": "Binder",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#t:Binder"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "Command",
+          "package": "smtLib",
+          "source": "src/SMTLib2-AST.html#Command",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "Command",
+          "package": "smtLib",
+          "partial": "Command",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#t:Command"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "Defn",
+          "package": "smtLib",
+          "source": "src/SMTLib2-AST.html#Defn",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "Defn",
+          "package": "smtLib",
+          "partial": "Defn",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#t:Defn"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "Expr",
+          "package": "smtLib",
+          "source": "src/SMTLib2-AST.html#Expr",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "Expr",
+          "package": "smtLib",
+          "partial": "Expr",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#t:Expr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "Ident",
+          "package": "smtLib",
+          "source": "src/SMTLib2-AST.html#Ident",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "Ident",
+          "package": "smtLib",
+          "partial": "Ident",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#t:Ident"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "InfoFlag",
+          "package": "smtLib",
+          "source": "src/SMTLib2-AST.html#InfoFlag",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "InfoFlag",
+          "package": "smtLib",
+          "partial": "Info Flag",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#t:InfoFlag"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "Literal",
+          "package": "smtLib",
+          "source": "src/SMTLib2-AST.html#Literal",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "Literal",
+          "package": "smtLib",
+          "partial": "Literal",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#t:Literal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "Name",
+          "package": "smtLib",
+          "source": "src/SMTLib2-AST.html#Name",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "Name",
+          "package": "smtLib",
+          "partial": "Name",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#t:Name"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "Option",
+          "package": "smtLib",
+          "source": "src/SMTLib2-AST.html#Option",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "Option",
+          "package": "smtLib",
+          "partial": "Option",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#t:Option"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "PP",
+          "package": "smtLib",
+          "source": "src/SMTLib2-PP.html#PP",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "PP",
+          "package": "smtLib",
+          "partial": "PP",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#t:PP"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "Quant",
+          "package": "smtLib",
+          "source": "src/SMTLib2-AST.html#Quant",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "Quant",
+          "package": "smtLib",
+          "partial": "Quant",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#t:Quant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "Script",
+          "package": "smtLib",
+          "source": "src/SMTLib2-AST.html#Script",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "Script",
+          "package": "smtLib",
+          "partial": "Script",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#t:Script"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "Type",
+          "package": "smtLib",
+          "source": "src/SMTLib2-AST.html#Type",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "Type",
+          "package": "smtLib",
+          "partial": "Type",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#t:Type"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "Annot",
+          "package": "smtLib",
+          "signature": "Annot Expr [Attr]",
+          "source": "src/SMTLib2-AST.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "Annot",
+          "normalized": "Annot Expr[Attr]",
+          "package": "smtLib",
+          "partial": "Annot",
+          "signature": "Annot Expr[Attr]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:Annot"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "App",
+          "package": "smtLib",
+          "signature": "App Ident (Maybe Type) [Expr]",
+          "source": "src/SMTLib2-AST.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "App",
+          "normalized": "App Ident(Maybe Type)[Expr]",
+          "package": "smtLib",
+          "partial": "App",
+          "signature": "App Ident(Maybe Type)[Expr]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:App"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "Attr",
+          "package": "smtLib",
+          "signature": "Attr",
+          "source": "src/SMTLib2-AST.html#Attr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "Attr",
+          "package": "smtLib",
+          "partial": "Attr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:Attr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "Bind",
+          "package": "smtLib",
+          "signature": "Bind",
+          "source": "src/SMTLib2-AST.html#Binder",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "Bind",
+          "package": "smtLib",
+          "partial": "Bind",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:Bind"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "CmdAssert",
+          "package": "smtLib",
+          "signature": "CmdAssert Expr",
+          "source": "src/SMTLib2-AST.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "CmdAssert",
+          "package": "smtLib",
+          "partial": "Cmd Assert",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdAssert"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "CmdCheckSat",
+          "package": "smtLib",
+          "signature": "CmdCheckSat",
+          "source": "src/SMTLib2-AST.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "CmdCheckSat",
+          "package": "smtLib",
+          "partial": "Cmd Check Sat",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdCheckSat"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "CmdDeclareFun",
+          "package": "smtLib",
+          "signature": "CmdDeclareFun Name [Type] Type",
+          "source": "src/SMTLib2-AST.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "CmdDeclareFun",
+          "normalized": "CmdDeclareFun Name[Type]Type",
+          "package": "smtLib",
+          "partial": "Cmd Declare Fun",
+          "signature": "CmdDeclareFun Name[Type]Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdDeclareFun"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "CmdDeclareType",
+          "package": "smtLib",
+          "signature": "CmdDeclareType Name Integer",
+          "source": "src/SMTLib2-AST.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "CmdDeclareType",
+          "package": "smtLib",
+          "partial": "Cmd Declare Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdDeclareType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "CmdDefineFun",
+          "package": "smtLib",
+          "signature": "CmdDefineFun Name [Binder] Type Expr",
+          "source": "src/SMTLib2-AST.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "CmdDefineFun",
+          "normalized": "CmdDefineFun Name[Binder]Type Expr",
+          "package": "smtLib",
+          "partial": "Cmd Define Fun",
+          "signature": "CmdDefineFun Name[Binder]Type Expr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdDefineFun"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "CmdDefineType",
+          "package": "smtLib",
+          "signature": "CmdDefineType Name [Name] Type",
+          "source": "src/SMTLib2-AST.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "CmdDefineType",
+          "normalized": "CmdDefineType Name[Name]Type",
+          "package": "smtLib",
+          "partial": "Cmd Define Type",
+          "signature": "CmdDefineType Name[Name]Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdDefineType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "CmdExit",
+          "package": "smtLib",
+          "signature": "CmdExit",
+          "source": "src/SMTLib2-AST.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "CmdExit",
+          "package": "smtLib",
+          "partial": "Cmd Exit",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdExit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "CmdGetAssertions",
+          "package": "smtLib",
+          "signature": "CmdGetAssertions",
+          "source": "src/SMTLib2-AST.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "CmdGetAssertions",
+          "package": "smtLib",
+          "partial": "Cmd Get Assertions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdGetAssertions"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "CmdGetInfo",
+          "package": "smtLib",
+          "signature": "CmdGetInfo InfoFlag",
+          "source": "src/SMTLib2-AST.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "CmdGetInfo",
+          "package": "smtLib",
+          "partial": "Cmd Get Info",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdGetInfo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "CmdGetOption",
+          "package": "smtLib",
+          "signature": "CmdGetOption Name",
+          "source": "src/SMTLib2-AST.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "CmdGetOption",
+          "package": "smtLib",
+          "partial": "Cmd Get Option",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdGetOption"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "CmdGetProof",
+          "package": "smtLib",
+          "signature": "CmdGetProof",
+          "source": "src/SMTLib2-AST.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "CmdGetProof",
+          "package": "smtLib",
+          "partial": "Cmd Get Proof",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdGetProof"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "CmdGetUnsatCore",
+          "package": "smtLib",
+          "signature": "CmdGetUnsatCore",
+          "source": "src/SMTLib2-AST.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "CmdGetUnsatCore",
+          "package": "smtLib",
+          "partial": "Cmd Get Unsat Core",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdGetUnsatCore"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "CmdGetValue",
+          "package": "smtLib",
+          "signature": "CmdGetValue [Expr]",
+          "source": "src/SMTLib2-AST.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "CmdGetValue",
+          "normalized": "CmdGetValue[Expr]",
+          "package": "smtLib",
+          "partial": "Cmd Get Value",
+          "signature": "CmdGetValue[Expr]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdGetValue"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "CmdPop",
+          "package": "smtLib",
+          "signature": "CmdPop Integer",
+          "source": "src/SMTLib2-AST.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "CmdPop",
+          "package": "smtLib",
+          "partial": "Cmd Pop",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdPop"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "CmdPush",
+          "package": "smtLib",
+          "signature": "CmdPush Integer",
+          "source": "src/SMTLib2-AST.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "CmdPush",
+          "package": "smtLib",
+          "partial": "Cmd Push",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdPush"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "CmdSetInfo",
+          "package": "smtLib",
+          "signature": "CmdSetInfo Attr",
+          "source": "src/SMTLib2-AST.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "CmdSetInfo",
+          "package": "smtLib",
+          "partial": "Cmd Set Info",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdSetInfo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "CmdSetLogic",
+          "package": "smtLib",
+          "signature": "CmdSetLogic Name",
+          "source": "src/SMTLib2-AST.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "CmdSetLogic",
+          "package": "smtLib",
+          "partial": "Cmd Set Logic",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdSetLogic"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "CmdSetOption",
+          "package": "smtLib",
+          "signature": "CmdSetOption Option",
+          "source": "src/SMTLib2-AST.html#Command",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "CmdSetOption",
+          "package": "smtLib",
+          "partial": "Cmd Set Option",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:CmdSetOption"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "Defn",
+          "package": "smtLib",
+          "signature": "Defn",
+          "source": "src/SMTLib2-AST.html#Defn",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "Defn",
+          "package": "smtLib",
+          "partial": "Defn",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:Defn"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "Exists",
+          "package": "smtLib",
+          "signature": "Exists",
+          "source": "src/SMTLib2-AST.html#Quant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "Exists",
+          "package": "smtLib",
+          "partial": "Exists",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:Exists"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "Forall",
+          "package": "smtLib",
+          "signature": "Forall",
+          "source": "src/SMTLib2-AST.html#Quant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "Forall",
+          "package": "smtLib",
+          "partial": "Forall",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:Forall"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "I",
+          "package": "smtLib",
+          "signature": "I Name [Integer]",
+          "source": "src/SMTLib2-AST.html#Ident",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "I",
+          "normalized": "I Name[Integer]",
+          "package": "smtLib",
+          "signature": "I Name[Integer]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:I"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "InfoAllStatistics",
+          "package": "smtLib",
+          "signature": "InfoAllStatistics",
+          "source": "src/SMTLib2-AST.html#InfoFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "InfoAllStatistics",
+          "package": "smtLib",
+          "partial": "Info All Statistics",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:InfoAllStatistics"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "InfoAttr",
+          "package": "smtLib",
+          "signature": "InfoAttr Attr",
+          "source": "src/SMTLib2-AST.html#InfoFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "InfoAttr",
+          "package": "smtLib",
+          "partial": "Info Attr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:InfoAttr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "InfoAuthors",
+          "package": "smtLib",
+          "signature": "InfoAuthors",
+          "source": "src/SMTLib2-AST.html#InfoFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "InfoAuthors",
+          "package": "smtLib",
+          "partial": "Info Authors",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:InfoAuthors"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "InfoErrorBehavior",
+          "package": "smtLib",
+          "signature": "InfoErrorBehavior",
+          "source": "src/SMTLib2-AST.html#InfoFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "InfoErrorBehavior",
+          "package": "smtLib",
+          "partial": "Info Error Behavior",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:InfoErrorBehavior"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "InfoName",
+          "package": "smtLib",
+          "signature": "InfoName",
+          "source": "src/SMTLib2-AST.html#InfoFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "InfoName",
+          "package": "smtLib",
+          "partial": "Info Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:InfoName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "InfoReasonUnknown",
+          "package": "smtLib",
+          "signature": "InfoReasonUnknown",
+          "source": "src/SMTLib2-AST.html#InfoFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "InfoReasonUnknown",
+          "package": "smtLib",
+          "partial": "Info Reason Unknown",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:InfoReasonUnknown"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "InfoStatus",
+          "package": "smtLib",
+          "signature": "InfoStatus",
+          "source": "src/SMTLib2-AST.html#InfoFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "InfoStatus",
+          "package": "smtLib",
+          "partial": "Info Status",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:InfoStatus"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "InfoVersion",
+          "package": "smtLib",
+          "signature": "InfoVersion",
+          "source": "src/SMTLib2-AST.html#InfoFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "InfoVersion",
+          "package": "smtLib",
+          "partial": "Info Version",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:InfoVersion"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "Let",
+          "package": "smtLib",
+          "signature": "Let [Defn] Expr",
+          "source": "src/SMTLib2-AST.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "Let",
+          "normalized": "Let[Defn]Expr",
+          "package": "smtLib",
+          "partial": "Let",
+          "signature": "Let[Defn]Expr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:Let"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "Lit",
+          "package": "smtLib",
+          "signature": "Lit Literal",
+          "source": "src/SMTLib2-AST.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "Lit",
+          "package": "smtLib",
+          "partial": "Lit",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:Lit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003evalue, width (in bits)\n\u003c/p\u003e",
+          "module": "SMTLib2",
+          "name": "LitBV",
+          "package": "smtLib",
+          "signature": "LitBV Integer Integer",
+          "source": "src/SMTLib2-AST.html#Literal",
+          "type": "function"
+        },
+        "index": {
+          "description": "value width in bits",
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "LitBV",
+          "package": "smtLib",
+          "partial": "Lit BV",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:LitBV"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "LitFrac",
+          "package": "smtLib",
+          "signature": "LitFrac Rational",
+          "source": "src/SMTLib2-AST.html#Literal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "LitFrac",
+          "package": "smtLib",
+          "partial": "Lit Frac",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:LitFrac"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "LitNum",
+          "package": "smtLib",
+          "signature": "LitNum Integer",
+          "source": "src/SMTLib2-AST.html#Literal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "LitNum",
+          "package": "smtLib",
+          "partial": "Lit Num",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:LitNum"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "LitStr",
+          "package": "smtLib",
+          "signature": "LitStr String",
+          "source": "src/SMTLib2-AST.html#Literal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "LitStr",
+          "package": "smtLib",
+          "partial": "Lit Str",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:LitStr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "N",
+          "package": "smtLib",
+          "signature": "N String",
+          "source": "src/SMTLib2-AST.html#Name",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "N",
+          "package": "smtLib",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:N"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "OptAttr",
+          "package": "smtLib",
+          "signature": "OptAttr Attr",
+          "source": "src/SMTLib2-AST.html#Option",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "OptAttr",
+          "package": "smtLib",
+          "partial": "Opt Attr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:OptAttr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "OptDiagnosticOutputChannel",
+          "package": "smtLib",
+          "signature": "OptDiagnosticOutputChannel String",
+          "source": "src/SMTLib2-AST.html#Option",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "OptDiagnosticOutputChannel",
+          "package": "smtLib",
+          "partial": "Opt Diagnostic Output Channel",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:OptDiagnosticOutputChannel"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "OptExpandDefinitions",
+          "package": "smtLib",
+          "signature": "OptExpandDefinitions Bool",
+          "source": "src/SMTLib2-AST.html#Option",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "OptExpandDefinitions",
+          "package": "smtLib",
+          "partial": "Opt Expand Definitions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:OptExpandDefinitions"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "OptInteractiveMode",
+          "package": "smtLib",
+          "signature": "OptInteractiveMode Bool",
+          "source": "src/SMTLib2-AST.html#Option",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "OptInteractiveMode",
+          "package": "smtLib",
+          "partial": "Opt Interactive Mode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:OptInteractiveMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "OptPrintSuccess",
+          "package": "smtLib",
+          "signature": "OptPrintSuccess Bool",
+          "source": "src/SMTLib2-AST.html#Option",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "OptPrintSuccess",
+          "package": "smtLib",
+          "partial": "Opt Print Success",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:OptPrintSuccess"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "OptProduceAssignments",
+          "package": "smtLib",
+          "signature": "OptProduceAssignments Bool",
+          "source": "src/SMTLib2-AST.html#Option",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "OptProduceAssignments",
+          "package": "smtLib",
+          "partial": "Opt Produce Assignments",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:OptProduceAssignments"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "OptProduceModels",
+          "package": "smtLib",
+          "signature": "OptProduceModels Bool",
+          "source": "src/SMTLib2-AST.html#Option",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "OptProduceModels",
+          "package": "smtLib",
+          "partial": "Opt Produce Models",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:OptProduceModels"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "OptProduceProofs",
+          "package": "smtLib",
+          "signature": "OptProduceProofs Bool",
+          "source": "src/SMTLib2-AST.html#Option",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "OptProduceProofs",
+          "package": "smtLib",
+          "partial": "Opt Produce Proofs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:OptProduceProofs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "OptProduceUnsatCores",
+          "package": "smtLib",
+          "signature": "OptProduceUnsatCores Bool",
+          "source": "src/SMTLib2-AST.html#Option",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "OptProduceUnsatCores",
+          "package": "smtLib",
+          "partial": "Opt Produce Unsat Cores",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:OptProduceUnsatCores"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "OptRandomSeed",
+          "package": "smtLib",
+          "signature": "OptRandomSeed Integer",
+          "source": "src/SMTLib2-AST.html#Option",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "OptRandomSeed",
+          "package": "smtLib",
+          "partial": "Opt Random Seed",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:OptRandomSeed"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "OptRegularOutputChannel",
+          "package": "smtLib",
+          "signature": "OptRegularOutputChannel String",
+          "source": "src/SMTLib2-AST.html#Option",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "OptRegularOutputChannel",
+          "package": "smtLib",
+          "partial": "Opt Regular Output Channel",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:OptRegularOutputChannel"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "OptVerbosity",
+          "package": "smtLib",
+          "signature": "OptVerbosity Integer",
+          "source": "src/SMTLib2-AST.html#Option",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "OptVerbosity",
+          "package": "smtLib",
+          "partial": "Opt Verbosity",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:OptVerbosity"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "Quant",
+          "package": "smtLib",
+          "signature": "Quant Quant [Binder] Expr",
+          "source": "src/SMTLib2-AST.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "Quant",
+          "normalized": "Quant Quant[Binder]Expr",
+          "package": "smtLib",
+          "partial": "Quant",
+          "signature": "Quant Quant[Binder]Expr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:Quant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "Script",
+          "package": "smtLib",
+          "signature": "Script [Command]",
+          "source": "src/SMTLib2-AST.html#Script",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "Script",
+          "normalized": "Script[Command]",
+          "package": "smtLib",
+          "partial": "Script",
+          "signature": "Script[Command]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:Script"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "TApp",
+          "package": "smtLib",
+          "signature": "TApp Ident [Type]",
+          "source": "src/SMTLib2-AST.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "TApp",
+          "normalized": "TApp Ident[Type]",
+          "package": "smtLib",
+          "partial": "TApp",
+          "signature": "TApp Ident[Type]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:TApp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "TVar",
+          "package": "smtLib",
+          "signature": "TVar Name",
+          "source": "src/SMTLib2-AST.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "TVar",
+          "package": "smtLib",
+          "partial": "TVar",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:TVar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "app",
+          "package": "smtLib",
+          "signature": "Ident -\u003e [Expr] -\u003e Expr",
+          "source": "src/SMTLib2-AST.html#app",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "app",
+          "normalized": "Ident-\u003e[Expr]-\u003eExpr",
+          "package": "smtLib",
+          "signature": "Ident-\u003e[Expr]-\u003eExpr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:app"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "attrName",
+          "package": "smtLib",
+          "signature": "Name",
+          "source": "src/SMTLib2-AST.html#Attr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "attrName",
+          "package": "smtLib",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:attrName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "attrVal",
+          "package": "smtLib",
+          "signature": "Maybe AttrVal",
+          "source": "src/SMTLib2-AST.html#Attr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "attrVal",
+          "package": "smtLib",
+          "partial": "Val",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:attrVal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "bindType",
+          "package": "smtLib",
+          "signature": "Type",
+          "source": "src/SMTLib2-AST.html#Binder",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "bindType",
+          "package": "smtLib",
+          "partial": "Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:bindType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "bindVar",
+          "package": "smtLib",
+          "signature": "Name",
+          "source": "src/SMTLib2-AST.html#Binder",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "bindVar",
+          "package": "smtLib",
+          "partial": "Var",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:bindVar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "defExpr",
+          "package": "smtLib",
+          "signature": "Expr",
+          "source": "src/SMTLib2-AST.html#Defn",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "defExpr",
+          "package": "smtLib",
+          "partial": "Expr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:defExpr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "defVar",
+          "package": "smtLib",
+          "signature": "Name",
+          "source": "src/SMTLib2-AST.html#Defn",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "defVar",
+          "package": "smtLib",
+          "partial": "Var",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:defVar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "SMTLib2",
+          "name": "pp",
+          "package": "smtLib",
+          "signature": "t -\u003e Doc",
+          "source": "src/SMTLib2-PP.html#pp",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "SMTLib2",
+          "module": "SMTLib2",
+          "name": "pp",
+          "normalized": "a-\u003eDoc",
+          "package": "smtLib",
+          "signature": "t-\u003eDoc",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/smtLib/docs/SMTLib2.html#v:pp"
+      }
+    }
+  ]
 ]

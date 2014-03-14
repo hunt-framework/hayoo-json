@@ -1,174 +1,173 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hunit-parsec/docs/Test-HUnit-Parsec.html#",
-      "description": {
-        "fct-module": "Test.HUnit.Parsec",
-        "fct-package": "hunit-parsec",
-        "fct-signature": "module",
-        "fct-source": "src/Test-HUnit-Parsec.html",
-        "fct-type": "module",
-        "title": "Parsec"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "hunit-parsec"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Test HUnit Parsec",
-        "module": "Test.HUnit.Parsec",
-        "name": "Parsec",
-        "normalized": "",
-        "package": "hunit-parsec",
-        "partial": "Parsec",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hunit-parsec/docs/Test-HUnit-Parsec.html#t:ParsecTest",
-      "description": {
-        "fct-module": "Test.HUnit.Parsec",
-        "fct-package": "hunit-parsec",
-        "fct-signature": "data",
-        "fct-source": "src/Test-HUnit-Parsec.html#ParsecTest",
-        "fct-type": "data",
-        "title": "ParsecTest"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Test HUnit Parsec",
-        "module": "Test.HUnit.Parsec",
-        "name": "ParsecTest",
-        "normalized": "",
-        "package": "hunit-parsec",
-        "partial": "Parsec Test",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Test.HUnit.Parsec",
+          "name": "Parsec",
+          "package": "hunit-parsec",
+          "source": "src/Test-HUnit-Parsec.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Test HUnit Parsec",
+          "module": "Test.HUnit.Parsec",
+          "name": "Parsec",
+          "package": "hunit-parsec",
+          "partial": "Parsec",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/hunit-parsec/docs/Test-HUnit-Parsec.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Test.HUnit.Parsec",
+          "name": "ParsecTest",
+          "package": "hunit-parsec",
+          "source": "src/Test-HUnit-Parsec.html#ParsecTest",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Test HUnit Parsec",
+          "module": "Test.HUnit.Parsec",
+          "name": "ParsecTest",
+          "package": "hunit-parsec",
+          "partial": "Parsec Test",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/hunit-parsec/docs/Test-HUnit-Parsec.html#t:ParsecTest"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Test.HUnit.Parsec",
+          "name": "ParsecTest",
+          "package": "hunit-parsec",
+          "signature": "ParsecTest",
+          "source": "src/Test-HUnit-Parsec.html#ParsecTest",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Test HUnit Parsec",
+          "module": "Test.HUnit.Parsec",
+          "name": "ParsecTest",
+          "package": "hunit-parsec",
+          "partial": "Parsec Test",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hunit-parsec/docs/Test-HUnit-Parsec.html#v:ParsecTest"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Test.HUnit.Parsec",
+          "name": "initState",
+          "package": "hunit-parsec",
+          "signature": "st",
+          "source": "src/Test-HUnit-Parsec.html#ParsecTest",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Test HUnit Parsec",
+          "module": "Test.HUnit.Parsec",
+          "name": "initState",
+          "package": "hunit-parsec",
+          "partial": "State",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hunit-parsec/docs/Test-HUnit-Parsec.html#v:initState"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Test.HUnit.Parsec",
+          "name": "negativeCases",
+          "package": "hunit-parsec",
+          "signature": "[[tok]]",
+          "source": "src/Test-HUnit-Parsec.html#ParsecTest",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Test HUnit Parsec",
+          "module": "Test.HUnit.Parsec",
+          "name": "negativeCases",
+          "normalized": "[[a]]",
+          "package": "hunit-parsec",
+          "partial": "Cases",
+          "signature": "[[tok]]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hunit-parsec/docs/Test-HUnit-Parsec.html#v:negativeCases"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Test.HUnit.Parsec",
+          "name": "parser",
+          "package": "hunit-parsec",
+          "signature": "GenParser tok st t",
+          "source": "src/Test-HUnit-Parsec.html#ParsecTest",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Test HUnit Parsec",
+          "module": "Test.HUnit.Parsec",
+          "name": "parser",
+          "package": "hunit-parsec",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hunit-parsec/docs/Test-HUnit-Parsec.html#v:parser"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Test.HUnit.Parsec",
+          "name": "positiveCases",
+          "package": "hunit-parsec",
+          "signature": "[(t, [[tok]])]",
+          "source": "src/Test-HUnit-Parsec.html#ParsecTest",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Test HUnit Parsec",
+          "module": "Test.HUnit.Parsec",
+          "name": "positiveCases",
+          "normalized": "[(a,[[b]])]",
+          "package": "hunit-parsec",
+          "partial": "Cases",
+          "signature": "[(t,[[tok]])]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hunit-parsec/docs/Test-HUnit-Parsec.html#v:positiveCases"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hunit-parsec/docs/Test-HUnit-Parsec.html#v:ParsecTest",
-      "description": {
-        "fct-module": "Test.HUnit.Parsec",
-        "fct-package": "hunit-parsec",
-        "fct-signature": "ParsecTest",
-        "fct-source": "src/Test-HUnit-Parsec.html#ParsecTest",
-        "fct-type": "function",
-        "title": "ParsecTest"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Test HUnit Parsec",
-        "module": "Test.HUnit.Parsec",
-        "name": "ParsecTest",
-        "normalized": "",
-        "package": "hunit-parsec",
-        "partial": "Parsec Test",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hunit-parsec/docs/Test-HUnit-Parsec.html#v:initState",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Test.HUnit.Parsec",
-        "fct-package": "hunit-parsec",
-        "fct-signature": "st",
-        "fct-source": "src/Test-HUnit-Parsec.html#ParsecTest",
-        "fct-type": "function",
-        "title": "initState"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Test HUnit Parsec",
-        "module": "Test.HUnit.Parsec",
-        "name": "initState",
-        "normalized": "",
-        "package": "hunit-parsec",
-        "partial": "State",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hunit-parsec/docs/Test-HUnit-Parsec.html#v:negativeCases",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Test.HUnit.Parsec",
-        "fct-package": "hunit-parsec",
-        "fct-signature": "[[tok]]",
-        "fct-source": "src/Test-HUnit-Parsec.html#ParsecTest",
-        "fct-type": "function",
-        "title": "negativeCases"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Test HUnit Parsec",
-        "module": "Test.HUnit.Parsec",
-        "name": "negativeCases",
-        "normalized": "[[a]]",
-        "package": "hunit-parsec",
-        "partial": "Cases",
-        "signature": "[[tok]]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hunit-parsec/docs/Test-HUnit-Parsec.html#v:parser",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Test.HUnit.Parsec",
-        "fct-package": "hunit-parsec",
-        "fct-signature": "GenParser tok st t",
-        "fct-source": "src/Test-HUnit-Parsec.html#ParsecTest",
-        "fct-type": "function",
-        "title": "parser"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Test HUnit Parsec",
-        "module": "Test.HUnit.Parsec",
-        "name": "parser",
-        "normalized": "",
-        "package": "hunit-parsec",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hunit-parsec/docs/Test-HUnit-Parsec.html#v:positiveCases",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Test.HUnit.Parsec",
-        "fct-package": "hunit-parsec",
-        "fct-signature": "[(t, [[tok]])]",
-        "fct-source": "src/Test-HUnit-Parsec.html#ParsecTest",
-        "fct-type": "function",
-        "title": "positiveCases"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Test HUnit Parsec",
-        "module": "Test.HUnit.Parsec",
-        "name": "positiveCases",
-        "normalized": "[(a,[[b]])]",
-        "package": "hunit-parsec",
-        "partial": "Cases",
-        "signature": "[(t,[[tok]])]"
-      }
-    }
-  }
+  ]
 ]

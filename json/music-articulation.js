@@ -1,27 +1,41 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/music-articulation/docs/Music-Articulation.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eProvides abstract musical articulations.\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Music.Articulation",
-        "fct-package": "music-articulation",
-        "fct-signature": "module",
-        "fct-source": "src/Music-Articulation.html",
-        "fct-type": "module",
-        "title": "Articulation"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "music-articulation"
       },
-      "index": {
-        "description": "Provides abstract musical articulations",
-        "hierarchy": "Music Articulation",
-        "module": "Music.Articulation",
-        "name": "Articulation",
-        "normalized": "",
-        "package": "music-articulation",
-        "partial": "Articulation",
-        "signature": ""
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eProvides abstract musical articulations.\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Music.Articulation",
+          "name": "Articulation",
+          "package": "music-articulation",
+          "source": "src/Music-Articulation.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "Provides abstract musical articulations",
+          "hierarchy": "Music Articulation",
+          "module": "Music.Articulation",
+          "name": "Articulation",
+          "package": "music-articulation",
+          "partial": "Articulation",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/music-articulation/docs/Music-Articulation.html#"
       }
     }
-  }
+  ]
 ]

@@ -1,50 +1,63 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hack2-interface-wai/docs/Hack2-Interface-Wai.html#",
-      "description": {
-        "fct-module": "Hack2.Interface.Wai",
-        "fct-package": "hack2-interface-wai",
-        "fct-signature": "module",
-        "fct-source": "src/Hack2-Interface-Wai.html",
-        "fct-type": "module",
-        "title": "Wai"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "hack2-interface-wai"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Hack2 Interface Wai",
-        "module": "Hack2.Interface.Wai",
-        "name": "Wai",
-        "normalized": "",
-        "package": "hack2-interface-wai",
-        "partial": "Wai",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hack2-interface-wai/docs/Hack2-Interface-Wai.html#v:hackAppToWaiApp",
-      "description": {
-        "fct-module": "Hack2.Interface.Wai",
-        "fct-package": "hack2-interface-wai",
-        "fct-signature": "Application -\u003e Application",
-        "fct-source": "src/Hack2-Interface-Wai.html#hackAppToWaiApp",
-        "fct-type": "function",
-        "title": "hackAppToWaiApp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Hack2 Interface Wai",
-        "module": "Hack2.Interface.Wai",
-        "name": "hackAppToWaiApp",
-        "normalized": "Application-\u003eApplication",
-        "package": "hack2-interface-wai",
-        "partial": "App To Wai App",
-        "signature": "Application-\u003eApplication"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Hack2.Interface.Wai",
+          "name": "Wai",
+          "package": "hack2-interface-wai",
+          "source": "src/Hack2-Interface-Wai.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Hack2 Interface Wai",
+          "module": "Hack2.Interface.Wai",
+          "name": "Wai",
+          "package": "hack2-interface-wai",
+          "partial": "Wai",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/hack2-interface-wai/docs/Hack2-Interface-Wai.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Hack2.Interface.Wai",
+          "name": "hackAppToWaiApp",
+          "package": "hack2-interface-wai",
+          "signature": "Application -\u003e Application",
+          "source": "src/Hack2-Interface-Wai.html#hackAppToWaiApp",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Hack2 Interface Wai",
+          "module": "Hack2.Interface.Wai",
+          "name": "hackAppToWaiApp",
+          "normalized": "Application-\u003eApplication",
+          "package": "hack2-interface-wai",
+          "partial": "App To Wai App",
+          "signature": "Application-\u003eApplication",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hack2-interface-wai/docs/Hack2-Interface-Wai.html#v:hackAppToWaiApp"
       }
     }
-  }
+  ]
 ]

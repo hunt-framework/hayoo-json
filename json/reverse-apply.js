@@ -1,75 +1,87 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/reverse-apply/docs/Control-Apply-Reverse.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eProvides a standard version of the reverse apply operator.\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Control.Apply.Reverse",
-        "fct-package": "reverse-apply",
-        "fct-signature": "module",
-        "fct-source": "src/Control-Apply-Reverse.html",
-        "fct-type": "module",
-        "title": "Reverse"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "reverse-apply"
       },
-      "index": {
-        "description": "Provides standard version of the reverse apply operator",
-        "hierarchy": "Control Apply Reverse",
-        "module": "Control.Apply.Reverse",
-        "name": "Reverse",
-        "normalized": "",
-        "package": "reverse-apply",
-        "partial": "Reverse",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/reverse-apply/docs/Control-Apply-Reverse.html#v:-38-",
-      "description": {
-        "fct-module": "Control.Apply.Reverse",
-        "fct-package": "reverse-apply",
-        "fct-signature": "b -\u003e (b -\u003e c) -\u003e c",
-        "fct-source": "src/Control-Apply-Reverse.html#%26",
-        "fct-type": "function",
-        "title": "(&)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Apply Reverse",
-        "module": "Control.Apply.Reverse",
-        "name": "(&) &",
-        "normalized": "a-\u003e(a-\u003eb)-\u003eb",
-        "package": "reverse-apply",
-        "partial": "",
-        "signature": "b-\u003e(b-\u003ec)-\u003ec"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eProvides a standard version of the reverse apply operator.\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Control.Apply.Reverse",
+          "name": "Reverse",
+          "package": "reverse-apply",
+          "source": "src/Control-Apply-Reverse.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "Provides standard version of the reverse apply operator",
+          "hierarchy": "Control Apply Reverse",
+          "module": "Control.Apply.Reverse",
+          "name": "Reverse",
+          "package": "reverse-apply",
+          "partial": "Reverse",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/reverse-apply/docs/Control-Apply-Reverse.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Apply.Reverse",
+          "name": "(&)",
+          "package": "reverse-apply",
+          "signature": "b -\u003e (b -\u003e c) -\u003e c",
+          "source": "src/Control-Apply-Reverse.html#%26",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Apply Reverse",
+          "module": "Control.Apply.Reverse",
+          "name": "(&) &",
+          "normalized": "a-\u003e(a-\u003eb)-\u003eb",
+          "package": "reverse-apply",
+          "signature": "b-\u003e(b-\u003ec)-\u003ec",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/reverse-apply/docs/Control-Apply-Reverse.html#v:-38-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Apply.Reverse",
+          "name": "(&!)",
+          "package": "reverse-apply",
+          "signature": "b -\u003e (b -\u003e c) -\u003e c",
+          "source": "src/Control-Apply-Reverse.html#%26%21",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Apply Reverse",
+          "module": "Control.Apply.Reverse",
+          "name": "(&!) &!",
+          "normalized": "a-\u003e(a-\u003eb)-\u003eb",
+          "package": "reverse-apply",
+          "signature": "b-\u003e(b-\u003ec)-\u003ec",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/reverse-apply/docs/Control-Apply-Reverse.html#v:-38--33-"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/reverse-apply/docs/Control-Apply-Reverse.html#v:-38--33-",
-      "description": {
-        "fct-module": "Control.Apply.Reverse",
-        "fct-package": "reverse-apply",
-        "fct-signature": "b -\u003e (b -\u003e c) -\u003e c",
-        "fct-source": "src/Control-Apply-Reverse.html#%26%21",
-        "fct-type": "function",
-        "title": "(&!)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Apply Reverse",
-        "module": "Control.Apply.Reverse",
-        "name": "(&!) &!",
-        "normalized": "a-\u003e(a-\u003eb)-\u003eb",
-        "package": "reverse-apply",
-        "partial": "",
-        "signature": "b-\u003e(b-\u003ec)-\u003ec"
-      }
-    }
-  }
+  ]
 ]

@@ -1,26 +1,39 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/fixed-point-vector/docs/Data-Fixed-Binary-Unboxed.html#",
-      "description": {
-        "fct-module": "Data.Fixed.Binary.Unboxed",
-        "fct-package": "fixed-point-vector",
-        "fct-signature": "module",
-        "fct-source": "src/Data-Fixed-Binary-Unboxed.html",
-        "fct-type": "module",
-        "title": "Unboxed"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "fixed-point-vector"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Fixed Binary Unboxed",
-        "module": "Data.Fixed.Binary.Unboxed",
-        "name": "Unboxed",
-        "normalized": "",
-        "package": "fixed-point-vector",
-        "partial": "Unboxed",
-        "signature": ""
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Fixed.Binary.Unboxed",
+          "name": "Unboxed",
+          "package": "fixed-point-vector",
+          "source": "src/Data-Fixed-Binary-Unboxed.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data Fixed Binary Unboxed",
+          "module": "Data.Fixed.Binary.Unboxed",
+          "name": "Unboxed",
+          "package": "fixed-point-vector",
+          "partial": "Unboxed",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/fixed-point-vector/docs/Data-Fixed-Binary-Unboxed.html#"
       }
     }
-  }
+  ]
 ]

@@ -1,242 +1,230 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/function-combine/docs/Control-Combine.html#",
-      "description": {
-        "fct-module": "Control.Combine",
-        "fct-package": "function-combine",
-        "fct-signature": "module",
-        "fct-source": "src/Control-Combine.html",
-        "fct-type": "module",
-        "title": "Combine"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "function-combine"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Combine",
-        "module": "Control.Combine",
-        "name": "Combine",
-        "normalized": "",
-        "package": "function-combine",
-        "partial": "Combine",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/function-combine/docs/Control-Combine.html#t:C",
-      "description": {
-        "fct-module": "Control.Combine",
-        "fct-package": "function-combine",
-        "fct-signature": "data",
-        "fct-source": "src/Control-Combine.html#C",
-        "fct-type": "data",
-        "title": "C"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Combine",
-        "module": "Control.Combine",
-        "name": "C",
-        "normalized": "",
-        "package": "function-combine",
-        "partial": "",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Combine",
+          "name": "Combine",
+          "package": "function-combine",
+          "source": "src/Control-Combine.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Control Combine",
+          "module": "Control.Combine",
+          "name": "Combine",
+          "package": "function-combine",
+          "partial": "Combine",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/function-combine/docs/Control-Combine.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Combine",
+          "name": "C",
+          "package": "function-combine",
+          "source": "src/Control-Combine.html#C",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Control Combine",
+          "module": "Control.Combine",
+          "name": "C",
+          "package": "function-combine",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/function-combine/docs/Control-Combine.html#t:C"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Combine",
+          "name": "Compose",
+          "package": "function-combine",
+          "source": "src/Control-Combine.html#Compose",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Control Combine",
+          "module": "Control.Combine",
+          "name": "Compose",
+          "package": "function-combine",
+          "partial": "Compose",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/function-combine/docs/Control-Combine.html#t:Compose"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Combine",
+          "name": "ComposeType",
+          "package": "function-combine",
+          "source": "src/Control-Combine.html#ComposeType",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Control Combine",
+          "module": "Control.Combine",
+          "name": "ComposeType",
+          "package": "function-combine",
+          "partial": "Compose Type",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/function-combine/docs/Control-Combine.html#t:ComposeType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Combine",
+          "name": "FlipType",
+          "package": "function-combine",
+          "source": "src/Control-Combine.html#FlipType",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Control Combine",
+          "module": "Control.Combine",
+          "name": "FlipType",
+          "package": "function-combine",
+          "partial": "Flip Type",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/function-combine/docs/Control-Combine.html#t:FlipType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Combine",
+          "name": "R",
+          "package": "function-combine",
+          "source": "src/Control-Combine.html#R",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Control Combine",
+          "module": "Control.Combine",
+          "name": "R",
+          "package": "function-combine",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/function-combine/docs/Control-Combine.html#t:R"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Combine",
+          "name": "Rot",
+          "package": "function-combine",
+          "source": "src/Control-Combine.html#Rot",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Control Combine",
+          "module": "Control.Combine",
+          "name": "Rot",
+          "package": "function-combine",
+          "partial": "Rot",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/function-combine/docs/Control-Combine.html#t:Rot"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Combine",
+          "name": "RotType",
+          "package": "function-combine",
+          "source": "src/Control-Combine.html#RotType",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Control Combine",
+          "module": "Control.Combine",
+          "name": "RotType",
+          "package": "function-combine",
+          "partial": "Rot Type",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/function-combine/docs/Control-Combine.html#t:RotType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Combine",
+          "name": "compose",
+          "package": "function-combine",
+          "signature": "n -\u003e a -\u003e b -\u003e c",
+          "source": "src/Control-Combine.html#compose",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Control Combine",
+          "module": "Control.Combine",
+          "name": "compose",
+          "normalized": "a-\u003eb-\u003ec-\u003ed",
+          "package": "function-combine",
+          "signature": "n-\u003ea-\u003eb-\u003ec",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/function-combine/docs/Control-Combine.html#v:compose"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Combine",
+          "name": "rot",
+          "package": "function-combine",
+          "signature": "n -\u003e a -\u003e b",
+          "source": "src/Control-Combine.html#rot",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Control Combine",
+          "module": "Control.Combine",
+          "name": "rot",
+          "normalized": "a-\u003eb-\u003ec",
+          "package": "function-combine",
+          "signature": "n-\u003ea-\u003eb",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/function-combine/docs/Control-Combine.html#v:rot"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/function-combine/docs/Control-Combine.html#t:Compose",
-      "description": {
-        "fct-module": "Control.Combine",
-        "fct-package": "function-combine",
-        "fct-signature": "class",
-        "fct-source": "src/Control-Combine.html#Compose",
-        "fct-type": "class",
-        "title": "Compose"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Combine",
-        "module": "Control.Combine",
-        "name": "Compose",
-        "normalized": "",
-        "package": "function-combine",
-        "partial": "Compose",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/function-combine/docs/Control-Combine.html#t:ComposeType",
-      "description": {
-        "fct-module": "Control.Combine",
-        "fct-package": "function-combine",
-        "fct-signature": "class",
-        "fct-source": "src/Control-Combine.html#ComposeType",
-        "fct-type": "class",
-        "title": "ComposeType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Combine",
-        "module": "Control.Combine",
-        "name": "ComposeType",
-        "normalized": "",
-        "package": "function-combine",
-        "partial": "Compose Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/function-combine/docs/Control-Combine.html#t:FlipType",
-      "description": {
-        "fct-module": "Control.Combine",
-        "fct-package": "function-combine",
-        "fct-signature": "class",
-        "fct-source": "src/Control-Combine.html#FlipType",
-        "fct-type": "class",
-        "title": "FlipType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Combine",
-        "module": "Control.Combine",
-        "name": "FlipType",
-        "normalized": "",
-        "package": "function-combine",
-        "partial": "Flip Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/function-combine/docs/Control-Combine.html#t:R",
-      "description": {
-        "fct-module": "Control.Combine",
-        "fct-package": "function-combine",
-        "fct-signature": "data",
-        "fct-source": "src/Control-Combine.html#R",
-        "fct-type": "data",
-        "title": "R"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Combine",
-        "module": "Control.Combine",
-        "name": "R",
-        "normalized": "",
-        "package": "function-combine",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/function-combine/docs/Control-Combine.html#t:Rot",
-      "description": {
-        "fct-module": "Control.Combine",
-        "fct-package": "function-combine",
-        "fct-signature": "class",
-        "fct-source": "src/Control-Combine.html#Rot",
-        "fct-type": "class",
-        "title": "Rot"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Combine",
-        "module": "Control.Combine",
-        "name": "Rot",
-        "normalized": "",
-        "package": "function-combine",
-        "partial": "Rot",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/function-combine/docs/Control-Combine.html#t:RotType",
-      "description": {
-        "fct-module": "Control.Combine",
-        "fct-package": "function-combine",
-        "fct-signature": "class",
-        "fct-source": "src/Control-Combine.html#RotType",
-        "fct-type": "class",
-        "title": "RotType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Combine",
-        "module": "Control.Combine",
-        "name": "RotType",
-        "normalized": "",
-        "package": "function-combine",
-        "partial": "Rot Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/function-combine/docs/Control-Combine.html#v:compose",
-      "description": {
-        "fct-module": "Control.Combine",
-        "fct-package": "function-combine",
-        "fct-signature": "n -\u003e a -\u003e b -\u003e c",
-        "fct-source": "src/Control-Combine.html#compose",
-        "fct-type": "method",
-        "title": "compose"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Combine",
-        "module": "Control.Combine",
-        "name": "compose",
-        "normalized": "a-\u003eb-\u003ec-\u003ed",
-        "package": "function-combine",
-        "partial": "",
-        "signature": "n-\u003ea-\u003eb-\u003ec"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/function-combine/docs/Control-Combine.html#v:rot",
-      "description": {
-        "fct-module": "Control.Combine",
-        "fct-package": "function-combine",
-        "fct-signature": "n -\u003e a -\u003e b",
-        "fct-source": "src/Control-Combine.html#rot",
-        "fct-type": "method",
-        "title": "rot"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Combine",
-        "module": "Control.Combine",
-        "name": "rot",
-        "normalized": "a-\u003eb-\u003ec",
-        "package": "function-combine",
-        "partial": "",
-        "signature": "n-\u003ea-\u003eb"
-      }
-    }
-  }
+  ]
 ]

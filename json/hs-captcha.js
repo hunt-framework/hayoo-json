@@ -1,50 +1,63 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hs-captcha/docs/Graphics-Captcha.html#",
-      "description": {
-        "fct-module": "Graphics.Captcha",
-        "fct-package": "hs-captcha",
-        "fct-signature": "module",
-        "fct-source": "src/Graphics-Captcha.html",
-        "fct-type": "module",
-        "title": "Captcha"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "hs-captcha"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Captcha",
-        "module": "Graphics.Captcha",
-        "name": "Captcha",
-        "normalized": "",
-        "package": "hs-captcha",
-        "partial": "Captcha",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hs-captcha/docs/Graphics-Captcha.html#v:makeCaptcha",
-      "description": {
-        "fct-module": "Graphics.Captcha",
-        "fct-package": "hs-captcha",
-        "fct-signature": "IO (String, ByteString)",
-        "fct-source": "src/Graphics-Captcha.html#makeCaptcha",
-        "fct-type": "function",
-        "title": "makeCaptcha"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Captcha",
-        "module": "Graphics.Captcha",
-        "name": "makeCaptcha",
-        "normalized": "IO(String,ByteString)",
-        "package": "hs-captcha",
-        "partial": "Captcha",
-        "signature": "IO(String,ByteString)"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Captcha",
+          "name": "Captcha",
+          "package": "hs-captcha",
+          "source": "src/Graphics-Captcha.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Graphics Captcha",
+          "module": "Graphics.Captcha",
+          "name": "Captcha",
+          "package": "hs-captcha",
+          "partial": "Captcha",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/hs-captcha/docs/Graphics-Captcha.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Captcha",
+          "name": "makeCaptcha",
+          "package": "hs-captcha",
+          "signature": "IO (String, ByteString)",
+          "source": "src/Graphics-Captcha.html#makeCaptcha",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics Captcha",
+          "module": "Graphics.Captcha",
+          "name": "makeCaptcha",
+          "normalized": "IO(String,ByteString)",
+          "package": "hs-captcha",
+          "partial": "Captcha",
+          "signature": "IO(String,ByteString)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hs-captcha/docs/Graphics-Captcha.html#v:makeCaptcha"
       }
     }
-  }
+  ]
 ]

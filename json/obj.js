@@ -1,51 +1,65 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/obj/docs/Graphics-Formats-Obj.html#t:ObjModel",
-      "description": {
-        "fct-module": "Graphics.Formats.Obj",
-        "fct-package": "obj",
-        "fct-signature": "data",
-        "fct-source": "http://hackage.haskell.org/package/obj/docs/src/Graphics-Formats-Obj-ObjModel.html#ObjModel",
-        "fct-type": "unknown",
-        "title": "ObjModel"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "obj"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics Formats Obj",
-        "module": "Graphics.Formats.Obj",
-        "name": "ObjModel",
-        "normalized": "",
-        "package": "obj",
-        "partial": "Obj Model",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/obj/docs/Graphics-Formats-Obj.html#v:objFromFile",
-      "description": {
-        "fct-descr": "Loads an Obj model from a file given a list of search paths to find\n   materials and textures at.\n",
-        "fct-module": "Graphics.Formats.Obj",
-        "fct-package": "obj",
-        "fct-signature": "FilePath -\u003e [FilePath] -\u003e IO ObjModel",
-        "fct-source": "http://hackage.haskell.org/package/obj/docs/src/Graphics-Formats-Obj.html#objFromFile",
-        "fct-type": "unknown",
-        "title": "objFromFile"
-      },
-      "index": {
-        "description": "Loads an Obj model from file given list of search paths to find materials and textures at",
-        "hierarchy": "Graphics Formats Obj",
-        "module": "Graphics.Formats.Obj",
-        "name": "objFromFile",
-        "normalized": "FilePath-\u003e[FilePath]-\u003eIO ObjModel",
-        "package": "obj",
-        "partial": "From File",
-        "signature": "FilePath-\u003e[FilePath]-\u003eIO ObjModel"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.Formats.Obj",
+          "name": "ObjModel",
+          "package": "obj",
+          "source": "http://hackage.haskell.org/package/obj/docs/src/Graphics-Formats-Obj-ObjModel.html#ObjModel",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Graphics Formats Obj",
+          "module": "Graphics.Formats.Obj",
+          "name": "ObjModel",
+          "package": "obj",
+          "partial": "Obj Model",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/obj/docs/Graphics-Formats-Obj.html#t:ObjModel"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "Loads an Obj model from a file given a list of search paths to find\n   materials and textures at.\n",
+          "module": "Graphics.Formats.Obj",
+          "name": "objFromFile",
+          "package": "obj",
+          "signature": "FilePath -\u003e [FilePath] -\u003e IO ObjModel",
+          "source": "http://hackage.haskell.org/package/obj/docs/src/Graphics-Formats-Obj.html#objFromFile",
+          "type": "function"
+        },
+        "index": {
+          "description": "Loads an Obj model from file given list of search paths to find materials and textures at",
+          "hierarchy": "Graphics Formats Obj",
+          "module": "Graphics.Formats.Obj",
+          "name": "objFromFile",
+          "normalized": "FilePath-\u003e[FilePath]-\u003eIO ObjModel",
+          "package": "obj",
+          "partial": "From File",
+          "signature": "FilePath-\u003e[FilePath]-\u003eIO ObjModel",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/obj/docs/Graphics-Formats-Obj.html#v:objFromFile"
       }
     }
-  }
+  ]
 ]

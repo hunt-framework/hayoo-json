@@ -1,26 +1,39 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/copilot/docs/Language-Copilot.html#",
-      "description": {
-        "fct-module": "Language.Copilot",
-        "fct-package": "copilot",
-        "fct-signature": "module",
-        "fct-source": "src/Language-Copilot.html",
-        "fct-type": "module",
-        "title": "Copilot"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "copilot"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Copilot",
-        "module": "Language.Copilot",
-        "name": "Copilot",
-        "normalized": "",
-        "package": "copilot",
-        "partial": "Copilot",
-        "signature": ""
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Copilot",
+          "name": "Copilot",
+          "package": "copilot",
+          "source": "src/Language-Copilot.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language Copilot",
+          "module": "Language.Copilot",
+          "name": "Copilot",
+          "package": "copilot",
+          "partial": "Copilot",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/copilot/docs/Language-Copilot.html#"
       }
     }
-  }
+  ]
 ]

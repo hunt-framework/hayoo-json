@@ -1,491 +1,474 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#",
-      "description": {
-        "fct-module": "Crypto.Paillier",
-        "fct-package": "Paillier",
-        "fct-signature": "module",
-        "fct-source": "src/Crypto-Paillier.html",
-        "fct-type": "module",
-        "title": "Paillier"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "Paillier"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Crypto Paillier",
-        "module": "Crypto.Paillier",
-        "name": "Paillier",
-        "normalized": "",
-        "package": "Paillier",
-        "partial": "Paillier",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#t:CipherText",
-      "description": {
-        "fct-module": "Crypto.Paillier",
-        "fct-package": "Paillier",
-        "fct-signature": "type",
-        "fct-source": "src/Crypto-Paillier.html#CipherText",
-        "fct-type": "type",
-        "title": "CipherText"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Crypto Paillier",
-        "module": "Crypto.Paillier",
-        "name": "CipherText",
-        "normalized": "",
-        "package": "Paillier",
-        "partial": "Cipher Text",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Crypto.Paillier",
+          "name": "Paillier",
+          "package": "Paillier",
+          "source": "src/Crypto-Paillier.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Crypto Paillier",
+          "module": "Crypto.Paillier",
+          "name": "Paillier",
+          "package": "Paillier",
+          "partial": "Paillier",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Crypto.Paillier",
+          "name": "CipherText",
+          "package": "Paillier",
+          "source": "src/Crypto-Paillier.html#CipherText",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Crypto Paillier",
+          "module": "Crypto.Paillier",
+          "name": "CipherText",
+          "package": "Paillier",
+          "partial": "Cipher Text",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#t:CipherText"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Crypto.Paillier",
+          "name": "PlainText",
+          "package": "Paillier",
+          "source": "src/Crypto-Paillier.html#PlainText",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Crypto Paillier",
+          "module": "Crypto.Paillier",
+          "name": "PlainText",
+          "package": "Paillier",
+          "partial": "Plain Text",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#t:PlainText"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Crypto.Paillier",
+          "name": "PrvKey",
+          "package": "Paillier",
+          "source": "src/Crypto-Paillier.html#PrvKey",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Crypto Paillier",
+          "module": "Crypto.Paillier",
+          "name": "PrvKey",
+          "package": "Paillier",
+          "partial": "Prv Key",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#t:PrvKey"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Crypto.Paillier",
+          "name": "PubKey",
+          "package": "Paillier",
+          "source": "src/Crypto-Paillier.html#PubKey",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Crypto Paillier",
+          "module": "Crypto.Paillier",
+          "name": "PubKey",
+          "package": "Paillier",
+          "partial": "Pub Key",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#t:PubKey"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Crypto.Paillier",
+          "name": "PrvKey",
+          "package": "Paillier",
+          "signature": "PrvKey",
+          "source": "src/Crypto-Paillier.html#PrvKey",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Crypto Paillier",
+          "module": "Crypto.Paillier",
+          "name": "PrvKey",
+          "package": "Paillier",
+          "partial": "Prv Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#v:PrvKey"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Crypto.Paillier",
+          "name": "PubKey",
+          "package": "Paillier",
+          "signature": "PubKey",
+          "source": "src/Crypto-Paillier.html#PubKey",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Crypto Paillier",
+          "module": "Crypto.Paillier",
+          "name": "PubKey",
+          "package": "Paillier",
+          "partial": "Pub Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#v:PubKey"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003edeterministic version of encryption\n\u003c/p\u003e",
+          "module": "Crypto.Paillier",
+          "name": "_encrypt",
+          "package": "Paillier",
+          "signature": "PubKey -\u003e PlainText -\u003e Integer -\u003e CipherText",
+          "source": "src/Crypto-Paillier.html#_encrypt",
+          "type": "function"
+        },
+        "index": {
+          "description": "deterministic version of encryption",
+          "hierarchy": "Crypto Paillier",
+          "module": "Crypto.Paillier",
+          "name": "_encrypt",
+          "normalized": "PubKey-\u003ePlainText-\u003eInteger-\u003eCipherText",
+          "package": "Paillier",
+          "signature": "PubKey-\u003ePlainText-\u003eInteger-\u003eCipherText",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#v:_encrypt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ee.g., 2048\n\u003c/p\u003e",
+          "module": "Crypto.Paillier",
+          "name": "bits",
+          "package": "Paillier",
+          "signature": "Int",
+          "source": "src/Crypto-Paillier.html#PubKey",
+          "type": "function"
+        },
+        "index": {
+          "description": "e.g",
+          "hierarchy": "Crypto Paillier",
+          "module": "Crypto.Paillier",
+          "name": "bits",
+          "package": "Paillier",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#v:bits"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eHomomorphic multiplication of plaintexts\n An encrypted plaintext raised to the power of another plaintext will decrypt to the product of the two plaintexts.\n\u003c/p\u003e",
+          "module": "Crypto.Paillier",
+          "name": "cipherExp",
+          "package": "Paillier",
+          "signature": "PubKey -\u003e CipherText -\u003e PlainText -\u003e CipherText",
+          "source": "src/Crypto-Paillier.html#cipherExp",
+          "type": "function"
+        },
+        "index": {
+          "description": "Homomorphic multiplication of plaintexts An encrypted plaintext raised to the power of another plaintext will decrypt to the product of the two plaintexts",
+          "hierarchy": "Crypto Paillier",
+          "module": "Crypto.Paillier",
+          "name": "cipherExp",
+          "normalized": "PubKey-\u003eCipherText-\u003ePlainText-\u003eCipherText",
+          "package": "Paillier",
+          "partial": "Exp",
+          "signature": "PubKey-\u003eCipherText-\u003ePlainText-\u003eCipherText",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#v:cipherExp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eciphetext muliplication is known as homomorphic addition of plaintexts\n\u003c/p\u003e",
+          "module": "Crypto.Paillier",
+          "name": "cipherMul",
+          "package": "Paillier",
+          "signature": "PubKey -\u003e CipherText -\u003e CipherText -\u003e CipherText",
+          "source": "src/Crypto-Paillier.html#cipherMul",
+          "type": "function"
+        },
+        "index": {
+          "description": "ciphetext muliplication is known as homomorphic addition of plaintexts",
+          "hierarchy": "Crypto Paillier",
+          "module": "Crypto.Paillier",
+          "name": "cipherMul",
+          "normalized": "PubKey-\u003eCipherText-\u003eCipherText-\u003eCipherText",
+          "package": "Paillier",
+          "partial": "Mul",
+          "signature": "PubKey-\u003eCipherText-\u003eCipherText-\u003eCipherText",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#v:cipherMul"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Crypto.Paillier",
+          "name": "decrypt",
+          "package": "Paillier",
+          "signature": "PrvKey -\u003e PubKey -\u003e CipherText -\u003e PlainText",
+          "source": "src/Crypto-Paillier.html#decrypt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Crypto Paillier",
+          "module": "Crypto.Paillier",
+          "name": "decrypt",
+          "normalized": "PrvKey-\u003ePubKey-\u003eCipherText-\u003ePlainText",
+          "package": "Paillier",
+          "signature": "PrvKey-\u003ePubKey-\u003eCipherText-\u003ePlainText",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#v:decrypt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Crypto.Paillier",
+          "name": "encrypt",
+          "package": "Paillier",
+          "signature": "PubKey -\u003e PlainText -\u003e IO CipherText",
+          "source": "src/Crypto-Paillier.html#encrypt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Crypto Paillier",
+          "module": "Crypto.Paillier",
+          "name": "encrypt",
+          "normalized": "PubKey-\u003ePlainText-\u003eIO CipherText",
+          "package": "Paillier",
+          "signature": "PubKey-\u003ePlainText-\u003eIO CipherText",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#v:encrypt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Crypto.Paillier",
+          "name": "genKey",
+          "package": "Paillier",
+          "signature": "Int -\u003e IO (PubKey, PrvKey)",
+          "source": "src/Crypto-Paillier.html#genKey",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Crypto Paillier",
+          "module": "Crypto.Paillier",
+          "name": "genKey",
+          "normalized": "Int-\u003eIO(PubKey,PrvKey)",
+          "package": "Paillier",
+          "partial": "Key",
+          "signature": "Int-\u003eIO(PubKey,PrvKey)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#v:genKey"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Crypto.Paillier",
+          "name": "generateR",
+          "package": "Paillier",
+          "signature": "SystemRNG -\u003e PubKey -\u003e Integer -\u003e Integer",
+          "source": "src/Crypto-Paillier.html#generateR",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Crypto Paillier",
+          "module": "Crypto.Paillier",
+          "name": "generateR",
+          "normalized": "SystemRNG-\u003ePubKey-\u003eInteger-\u003eInteger",
+          "package": "Paillier",
+          "signature": "SystemRNG-\u003ePubKey-\u003eInteger-\u003eInteger",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#v:generateR"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003egenerator = n+1\n\u003c/p\u003e",
+          "module": "Crypto.Paillier",
+          "name": "generator",
+          "package": "Paillier",
+          "signature": "Integer",
+          "source": "src/Crypto-Paillier.html#PubKey",
+          "type": "function"
+        },
+        "index": {
+          "description": "generator",
+          "hierarchy": "Crypto Paillier",
+          "module": "Crypto.Paillier",
+          "name": "generator",
+          "package": "Paillier",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#v:generator"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003elambda(n) = lcm(p-1, q-1)\n\u003c/p\u003e",
+          "module": "Crypto.Paillier",
+          "name": "lambda",
+          "package": "Paillier",
+          "signature": "Integer",
+          "source": "src/Crypto-Paillier.html#PrvKey",
+          "type": "function"
+        },
+        "index": {
+          "description": "lambda lcm p-1 q-1",
+          "hierarchy": "Crypto Paillier",
+          "module": "Crypto.Paillier",
+          "name": "lambda",
+          "package": "Paillier",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#v:lambda"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003en = pq\n\u003c/p\u003e",
+          "module": "Crypto.Paillier",
+          "name": "nModulo",
+          "package": "Paillier",
+          "signature": "Integer",
+          "source": "src/Crypto-Paillier.html#PubKey",
+          "type": "function"
+        },
+        "index": {
+          "description": "pq",
+          "hierarchy": "Crypto Paillier",
+          "module": "Crypto.Paillier",
+          "name": "nModulo",
+          "package": "Paillier",
+          "partial": "Modulo",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#v:nModulo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003en^2\n\u003c/p\u003e",
+          "module": "Crypto.Paillier",
+          "name": "nSquare",
+          "package": "Paillier",
+          "signature": "Integer",
+          "source": "src/Crypto-Paillier.html#PubKey",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Crypto Paillier",
+          "module": "Crypto.Paillier",
+          "name": "nSquare",
+          "package": "Paillier",
+          "partial": "Square",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#v:nSquare"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Crypto.Paillier",
+          "name": "x",
+          "package": "Paillier",
+          "signature": "Integer",
+          "source": "src/Crypto-Paillier.html#PrvKey",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Crypto Paillier",
+          "module": "Crypto.Paillier",
+          "name": "x",
+          "package": "Paillier",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#v:x"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#t:PlainText",
-      "description": {
-        "fct-module": "Crypto.Paillier",
-        "fct-package": "Paillier",
-        "fct-signature": "type",
-        "fct-source": "src/Crypto-Paillier.html#PlainText",
-        "fct-type": "type",
-        "title": "PlainText"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Crypto Paillier",
-        "module": "Crypto.Paillier",
-        "name": "PlainText",
-        "normalized": "",
-        "package": "Paillier",
-        "partial": "Plain Text",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#t:PrvKey",
-      "description": {
-        "fct-module": "Crypto.Paillier",
-        "fct-package": "Paillier",
-        "fct-signature": "data",
-        "fct-source": "src/Crypto-Paillier.html#PrvKey",
-        "fct-type": "data",
-        "title": "PrvKey"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Crypto Paillier",
-        "module": "Crypto.Paillier",
-        "name": "PrvKey",
-        "normalized": "",
-        "package": "Paillier",
-        "partial": "Prv Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#t:PubKey",
-      "description": {
-        "fct-module": "Crypto.Paillier",
-        "fct-package": "Paillier",
-        "fct-signature": "data",
-        "fct-source": "src/Crypto-Paillier.html#PubKey",
-        "fct-type": "data",
-        "title": "PubKey"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Crypto Paillier",
-        "module": "Crypto.Paillier",
-        "name": "PubKey",
-        "normalized": "",
-        "package": "Paillier",
-        "partial": "Pub Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#v:PrvKey",
-      "description": {
-        "fct-module": "Crypto.Paillier",
-        "fct-package": "Paillier",
-        "fct-signature": "PrvKey",
-        "fct-source": "src/Crypto-Paillier.html#PrvKey",
-        "fct-type": "function",
-        "title": "PrvKey"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Crypto Paillier",
-        "module": "Crypto.Paillier",
-        "name": "PrvKey",
-        "normalized": "",
-        "package": "Paillier",
-        "partial": "Prv Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#v:PubKey",
-      "description": {
-        "fct-module": "Crypto.Paillier",
-        "fct-package": "Paillier",
-        "fct-signature": "PubKey",
-        "fct-source": "src/Crypto-Paillier.html#PubKey",
-        "fct-type": "function",
-        "title": "PubKey"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Crypto Paillier",
-        "module": "Crypto.Paillier",
-        "name": "PubKey",
-        "normalized": "",
-        "package": "Paillier",
-        "partial": "Pub Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#v:_encrypt",
-      "description": {
-        "fct-descr": "\u003cp\u003edeterministic version of encryption\n\u003c/p\u003e",
-        "fct-module": "Crypto.Paillier",
-        "fct-package": "Paillier",
-        "fct-signature": "PubKey -\u003e PlainText -\u003e Integer -\u003e CipherText",
-        "fct-source": "src/Crypto-Paillier.html#_encrypt",
-        "fct-type": "function",
-        "title": "_encrypt"
-      },
-      "index": {
-        "description": "deterministic version of encryption",
-        "hierarchy": "Crypto Paillier",
-        "module": "Crypto.Paillier",
-        "name": "_encrypt",
-        "normalized": "PubKey-\u003ePlainText-\u003eInteger-\u003eCipherText",
-        "package": "Paillier",
-        "partial": "",
-        "signature": "PubKey-\u003ePlainText-\u003eInteger-\u003eCipherText"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#v:bits",
-      "description": {
-        "fct-descr": "\u003cp\u003ee.g., 2048\n\u003c/p\u003e",
-        "fct-module": "Crypto.Paillier",
-        "fct-package": "Paillier",
-        "fct-signature": "Int",
-        "fct-source": "src/Crypto-Paillier.html#PubKey",
-        "fct-type": "function",
-        "title": "bits"
-      },
-      "index": {
-        "description": "e.g",
-        "hierarchy": "Crypto Paillier",
-        "module": "Crypto.Paillier",
-        "name": "bits",
-        "normalized": "",
-        "package": "Paillier",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#v:cipherExp",
-      "description": {
-        "fct-descr": "\u003cp\u003eHomomorphic multiplication of plaintexts\n An encrypted plaintext raised to the power of another plaintext will decrypt to the product of the two plaintexts.\n\u003c/p\u003e",
-        "fct-module": "Crypto.Paillier",
-        "fct-package": "Paillier",
-        "fct-signature": "PubKey -\u003e CipherText -\u003e PlainText -\u003e CipherText",
-        "fct-source": "src/Crypto-Paillier.html#cipherExp",
-        "fct-type": "function",
-        "title": "cipherExp"
-      },
-      "index": {
-        "description": "Homomorphic multiplication of plaintexts An encrypted plaintext raised to the power of another plaintext will decrypt to the product of the two plaintexts",
-        "hierarchy": "Crypto Paillier",
-        "module": "Crypto.Paillier",
-        "name": "cipherExp",
-        "normalized": "PubKey-\u003eCipherText-\u003ePlainText-\u003eCipherText",
-        "package": "Paillier",
-        "partial": "Exp",
-        "signature": "PubKey-\u003eCipherText-\u003ePlainText-\u003eCipherText"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#v:cipherMul",
-      "description": {
-        "fct-descr": "\u003cp\u003eciphetext muliplication is known as homomorphic addition of plaintexts\n\u003c/p\u003e",
-        "fct-module": "Crypto.Paillier",
-        "fct-package": "Paillier",
-        "fct-signature": "PubKey -\u003e CipherText -\u003e CipherText -\u003e CipherText",
-        "fct-source": "src/Crypto-Paillier.html#cipherMul",
-        "fct-type": "function",
-        "title": "cipherMul"
-      },
-      "index": {
-        "description": "ciphetext muliplication is known as homomorphic addition of plaintexts",
-        "hierarchy": "Crypto Paillier",
-        "module": "Crypto.Paillier",
-        "name": "cipherMul",
-        "normalized": "PubKey-\u003eCipherText-\u003eCipherText-\u003eCipherText",
-        "package": "Paillier",
-        "partial": "Mul",
-        "signature": "PubKey-\u003eCipherText-\u003eCipherText-\u003eCipherText"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#v:decrypt",
-      "description": {
-        "fct-module": "Crypto.Paillier",
-        "fct-package": "Paillier",
-        "fct-signature": "PrvKey -\u003e PubKey -\u003e CipherText -\u003e PlainText",
-        "fct-source": "src/Crypto-Paillier.html#decrypt",
-        "fct-type": "function",
-        "title": "decrypt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Crypto Paillier",
-        "module": "Crypto.Paillier",
-        "name": "decrypt",
-        "normalized": "PrvKey-\u003ePubKey-\u003eCipherText-\u003ePlainText",
-        "package": "Paillier",
-        "partial": "",
-        "signature": "PrvKey-\u003ePubKey-\u003eCipherText-\u003ePlainText"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#v:encrypt",
-      "description": {
-        "fct-module": "Crypto.Paillier",
-        "fct-package": "Paillier",
-        "fct-signature": "PubKey -\u003e PlainText -\u003e IO CipherText",
-        "fct-source": "src/Crypto-Paillier.html#encrypt",
-        "fct-type": "function",
-        "title": "encrypt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Crypto Paillier",
-        "module": "Crypto.Paillier",
-        "name": "encrypt",
-        "normalized": "PubKey-\u003ePlainText-\u003eIO CipherText",
-        "package": "Paillier",
-        "partial": "",
-        "signature": "PubKey-\u003ePlainText-\u003eIO CipherText"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#v:genKey",
-      "description": {
-        "fct-module": "Crypto.Paillier",
-        "fct-package": "Paillier",
-        "fct-signature": "Int -\u003e IO (PubKey, PrvKey)",
-        "fct-source": "src/Crypto-Paillier.html#genKey",
-        "fct-type": "function",
-        "title": "genKey"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Crypto Paillier",
-        "module": "Crypto.Paillier",
-        "name": "genKey",
-        "normalized": "Int-\u003eIO(PubKey,PrvKey)",
-        "package": "Paillier",
-        "partial": "Key",
-        "signature": "Int-\u003eIO(PubKey,PrvKey)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#v:generateR",
-      "description": {
-        "fct-module": "Crypto.Paillier",
-        "fct-package": "Paillier",
-        "fct-signature": "SystemRNG -\u003e PubKey -\u003e Integer -\u003e Integer",
-        "fct-source": "src/Crypto-Paillier.html#generateR",
-        "fct-type": "function",
-        "title": "generateR"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Crypto Paillier",
-        "module": "Crypto.Paillier",
-        "name": "generateR",
-        "normalized": "SystemRNG-\u003ePubKey-\u003eInteger-\u003eInteger",
-        "package": "Paillier",
-        "partial": "",
-        "signature": "SystemRNG-\u003ePubKey-\u003eInteger-\u003eInteger"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#v:generator",
-      "description": {
-        "fct-descr": "\u003cp\u003egenerator = n+1\n\u003c/p\u003e",
-        "fct-module": "Crypto.Paillier",
-        "fct-package": "Paillier",
-        "fct-signature": "Integer",
-        "fct-source": "src/Crypto-Paillier.html#PubKey",
-        "fct-type": "function",
-        "title": "generator"
-      },
-      "index": {
-        "description": "generator",
-        "hierarchy": "Crypto Paillier",
-        "module": "Crypto.Paillier",
-        "name": "generator",
-        "normalized": "",
-        "package": "Paillier",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#v:lambda",
-      "description": {
-        "fct-descr": "\u003cp\u003elambda(n) = lcm(p-1, q-1)\n\u003c/p\u003e",
-        "fct-module": "Crypto.Paillier",
-        "fct-package": "Paillier",
-        "fct-signature": "Integer",
-        "fct-source": "src/Crypto-Paillier.html#PrvKey",
-        "fct-type": "function",
-        "title": "lambda"
-      },
-      "index": {
-        "description": "lambda lcm p-1 q-1",
-        "hierarchy": "Crypto Paillier",
-        "module": "Crypto.Paillier",
-        "name": "lambda",
-        "normalized": "",
-        "package": "Paillier",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#v:nModulo",
-      "description": {
-        "fct-descr": "\u003cp\u003en = pq\n\u003c/p\u003e",
-        "fct-module": "Crypto.Paillier",
-        "fct-package": "Paillier",
-        "fct-signature": "Integer",
-        "fct-source": "src/Crypto-Paillier.html#PubKey",
-        "fct-type": "function",
-        "title": "nModulo"
-      },
-      "index": {
-        "description": "pq",
-        "hierarchy": "Crypto Paillier",
-        "module": "Crypto.Paillier",
-        "name": "nModulo",
-        "normalized": "",
-        "package": "Paillier",
-        "partial": "Modulo",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#v:nSquare",
-      "description": {
-        "fct-descr": "\u003cp\u003en^2\n\u003c/p\u003e",
-        "fct-module": "Crypto.Paillier",
-        "fct-package": "Paillier",
-        "fct-signature": "Integer",
-        "fct-source": "src/Crypto-Paillier.html#PubKey",
-        "fct-type": "function",
-        "title": "nSquare"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Crypto Paillier",
-        "module": "Crypto.Paillier",
-        "name": "nSquare",
-        "normalized": "",
-        "package": "Paillier",
-        "partial": "Square",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/Paillier/docs/Crypto-Paillier.html#v:x",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Crypto.Paillier",
-        "fct-package": "Paillier",
-        "fct-signature": "Integer",
-        "fct-source": "src/Crypto-Paillier.html#PrvKey",
-        "fct-type": "function",
-        "title": "x"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Crypto Paillier",
-        "module": "Crypto.Paillier",
-        "name": "x",
-        "normalized": "",
-        "package": "Paillier",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

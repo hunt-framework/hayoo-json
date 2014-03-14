@@ -1,1188 +1,1092 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "module",
-        "fct-source": "src/Porte-Ports.html",
-        "fct-type": "module",
-        "title": "Ports"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "porte"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "Ports",
-        "normalized": "",
-        "package": "porte",
-        "partial": "Ports",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:BuildDepends",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "type",
-        "fct-source": "src/Porte-Ports.html#BuildDepends",
-        "fct-type": "type",
-        "title": "BuildDepends"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "BuildDepends",
-        "normalized": "",
-        "package": "porte",
-        "partial": "Build Depends",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "Ports",
+          "package": "porte",
+          "source": "src/Porte-Ports.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "Ports",
+          "package": "porte",
+          "partial": "Ports",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "BuildDepends",
+          "package": "porte",
+          "source": "src/Porte-Ports.html#BuildDepends",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "BuildDepends",
+          "package": "porte",
+          "partial": "Build Depends",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:BuildDepends"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "Categories",
+          "package": "porte",
+          "source": "src/Porte-Ports.html#Categories",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "Categories",
+          "package": "porte",
+          "partial": "Categories",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:Categories"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "Comment",
+          "package": "porte",
+          "source": "src/Porte-Ports.html#Comment",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "Comment",
+          "package": "porte",
+          "partial": "Comment",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:Comment"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "DescriptionPath",
+          "package": "porte",
+          "source": "src/Porte-Ports.html#DescriptionPath",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "DescriptionPath",
+          "package": "porte",
+          "partial": "Description Path",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:DescriptionPath"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "DistributionName",
+          "package": "porte",
+          "source": "src/Porte-Ports.html#DistributionName",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "DistributionName",
+          "package": "porte",
+          "partial": "Distribution Name",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:DistributionName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "ExtractDepends",
+          "package": "porte",
+          "source": "src/Porte-Ports.html#ExtractDepends",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "ExtractDepends",
+          "package": "porte",
+          "partial": "Extract Depends",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:ExtractDepends"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "FetchDepends",
+          "package": "porte",
+          "source": "src/Porte-Ports.html#FetchDepends",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "FetchDepends",
+          "package": "porte",
+          "partial": "Fetch Depends",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:FetchDepends"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "Maintainer",
+          "package": "porte",
+          "source": "src/Porte-Ports.html#Maintainer",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "Maintainer",
+          "package": "porte",
+          "partial": "Maintainer",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:Maintainer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "Name",
+          "package": "porte",
+          "source": "src/Porte-Ports.html#Name",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "Name",
+          "package": "porte",
+          "partial": "Name",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:Name"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "PatchDepends",
+          "package": "porte",
+          "source": "src/Porte-Ports.html#PatchDepends",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "PatchDepends",
+          "package": "porte",
+          "partial": "Patch Depends",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:PatchDepends"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "Path",
+          "package": "porte",
+          "source": "src/Porte-Ports.html#Path",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "Path",
+          "package": "porte",
+          "partial": "Path",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:Path"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "Port",
+          "package": "porte",
+          "source": "src/Porte-Ports.html#Port",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "Port",
+          "package": "porte",
+          "partial": "Port",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:Port"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "PortDescription",
+          "package": "porte",
+          "source": "src/Porte-Ports.html#PortDescription",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "PortDescription",
+          "package": "porte",
+          "partial": "Port Description",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:PortDescription"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "PortField",
+          "package": "porte",
+          "source": "src/Porte-Ports.html#PortField",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "PortField",
+          "package": "porte",
+          "partial": "Port Field",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:PortField"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "PortQuery",
+          "package": "porte",
+          "source": "src/Porte-Ports.html#PortQuery",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "PortQuery",
+          "package": "porte",
+          "partial": "Port Query",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:PortQuery"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "Prefix",
+          "package": "porte",
+          "source": "src/Porte-Ports.html#Prefix",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "Prefix",
+          "package": "porte",
+          "partial": "Prefix",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:Prefix"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "RunDepends",
+          "package": "porte",
+          "source": "src/Porte-Ports.html#RunDepends",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "RunDepends",
+          "package": "porte",
+          "partial": "Run Depends",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:RunDepends"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "Website",
+          "package": "porte",
+          "source": "src/Porte-Ports.html#Website",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "Website",
+          "package": "porte",
+          "partial": "Website",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:Website"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "Port",
+          "package": "porte",
+          "signature": "Port",
+          "source": "src/Porte-Ports.html#Port",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "Port",
+          "package": "porte",
+          "partial": "Port",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:Port"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "buildDepends",
+          "package": "porte",
+          "signature": "BuildDepends",
+          "source": "src/Porte-Ports.html#Port",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "buildDepends",
+          "package": "porte",
+          "partial": "Depends",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:buildDepends"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "categories",
+          "package": "porte",
+          "signature": "Categories",
+          "source": "src/Porte-Ports.html#Port",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "categories",
+          "package": "porte",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:categories"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "comment",
+          "package": "porte",
+          "signature": "Comment",
+          "source": "src/Porte-Ports.html#Port",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "comment",
+          "package": "porte",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:comment"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "description",
+          "package": "porte",
+          "signature": "Port -\u003e IO (Maybe ByteString)",
+          "source": "src/Porte-Ports.html#description",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "description",
+          "normalized": "Port-\u003eIO(Maybe ByteString)",
+          "package": "porte",
+          "signature": "Port-\u003eIO(Maybe ByteString)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:description"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "descriptionPath",
+          "package": "porte",
+          "signature": "DescriptionPath",
+          "source": "src/Porte-Ports.html#Port",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "descriptionPath",
+          "package": "porte",
+          "partial": "Path",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:descriptionPath"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "distributionName",
+          "package": "porte",
+          "signature": "DistributionName",
+          "source": "src/Porte-Ports.html#Port",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "distributionName",
+          "package": "porte",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:distributionName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "extractDepends",
+          "package": "porte",
+          "signature": "ExtractDepends",
+          "source": "src/Porte-Ports.html#Port",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "extractDepends",
+          "package": "porte",
+          "partial": "Depends",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:extractDepends"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "find",
+          "package": "porte",
+          "signature": "PortQuery -\u003e [Port] -\u003e [Port]",
+          "source": "src/Porte-Ports.html#find",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "find",
+          "normalized": "PortQuery-\u003e[Port]-\u003e[Port]",
+          "package": "porte",
+          "signature": "PortQuery-\u003e[Port]-\u003e[Port]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:find"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "glue",
+          "package": "porte",
+          "signature": "(Port -\u003e [ByteString]) -\u003e Port -\u003e ByteString",
+          "source": "src/Porte-Ports.html#glue",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "glue",
+          "normalized": "(Port-\u003e[ByteString])-\u003ePort-\u003eByteString",
+          "package": "porte",
+          "signature": "(Port-\u003e[ByteString])-\u003ePort-\u003eByteString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:glue"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "hPutPort",
+          "package": "porte",
+          "signature": "Handle -\u003e [PortField] -\u003e Port -\u003e IO ()",
+          "source": "src/Porte-Ports.html#hPutPort",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "hPutPort",
+          "normalized": "Handle-\u003e[PortField]-\u003ePort-\u003eIO()",
+          "package": "porte",
+          "partial": "Put Port",
+          "signature": "Handle-\u003e[PortField]-\u003ePort-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:hPutPort"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "hPutPorts",
+          "package": "porte",
+          "signature": "Handle -\u003e [PortField] -\u003e [Port] -\u003e IO ()",
+          "source": "src/Porte-Ports.html#hPutPorts",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "hPutPorts",
+          "normalized": "Handle-\u003e[PortField]-\u003e[Port]-\u003eIO()",
+          "package": "porte",
+          "partial": "Put Ports",
+          "signature": "Handle-\u003e[PortField]-\u003e[Port]-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:hPutPorts"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "index",
+          "package": "porte",
+          "signature": "Maybe String -\u003e IO [Port]",
+          "source": "src/Porte-Ports.html#index",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "index",
+          "normalized": "Maybe String-\u003eIO[Port]",
+          "package": "porte",
+          "signature": "Maybe String-\u003eIO[Port]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:index"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "maintainer",
+          "package": "porte",
+          "signature": "Maintainer",
+          "source": "src/Porte-Ports.html#Port",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "maintainer",
+          "package": "porte",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:maintainer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "name",
+          "package": "porte",
+          "signature": "Name",
+          "source": "src/Porte-Ports.html#Port",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "name",
+          "package": "porte",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:name"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "parseEntry",
+          "package": "porte",
+          "signature": "ByteString -\u003e Port",
+          "source": "src/Porte-Ports.html#parseEntry",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "parseEntry",
+          "normalized": "ByteString-\u003ePort",
+          "package": "porte",
+          "partial": "Entry",
+          "signature": "ByteString-\u003ePort",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:parseEntry"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "parseIndex",
+          "package": "porte",
+          "signature": "ByteString -\u003e [Port]",
+          "source": "src/Porte-Ports.html#parseIndex",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "parseIndex",
+          "normalized": "ByteString-\u003e[Port]",
+          "package": "porte",
+          "partial": "Index",
+          "signature": "ByteString-\u003e[Port]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:parseIndex"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "path",
+          "package": "porte",
+          "signature": "Path",
+          "source": "src/Porte-Ports.html#Port",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "path",
+          "package": "porte",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:path"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "putPort",
+          "package": "porte",
+          "signature": "[PortField] -\u003e Port -\u003e IO ()",
+          "source": "src/Porte-Ports.html#putPort",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "putPort",
+          "normalized": "[PortField]-\u003ePort-\u003eIO()",
+          "package": "porte",
+          "partial": "Port",
+          "signature": "[PortField]-\u003ePort-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:putPort"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "putPorts",
+          "package": "porte",
+          "signature": "[PortField] -\u003e [Port] -\u003e IO ()",
+          "source": "src/Porte-Ports.html#putPorts",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "putPorts",
+          "normalized": "[PortField]-\u003e[Port]-\u003eIO()",
+          "package": "porte",
+          "partial": "Ports",
+          "signature": "[PortField]-\u003e[Port]-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:putPorts"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "search",
+          "package": "porte",
+          "signature": "PortQuery -\u003e [Port] -\u003e [Port]",
+          "source": "src/Porte-Ports.html#search",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "search",
+          "normalized": "PortQuery-\u003e[Port]-\u003e[Port]",
+          "package": "porte",
+          "signature": "PortQuery-\u003e[Port]-\u003e[Port]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:search"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "toField",
+          "package": "porte",
+          "signature": "String -\u003e Maybe PortField",
+          "source": "src/Porte-Ports.html#toField",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "toField",
+          "normalized": "String-\u003eMaybe PortField",
+          "package": "porte",
+          "partial": "Field",
+          "signature": "String-\u003eMaybe PortField",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:toField"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Ports",
+          "name": "website",
+          "package": "porte",
+          "signature": "Website",
+          "source": "src/Porte-Ports.html#Port",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Porte Ports",
+          "module": "Porte.Ports",
+          "name": "website",
+          "package": "porte",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:website"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Statistics",
+          "name": "Statistics",
+          "package": "porte",
+          "source": "src/Porte-Statistics.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Porte Statistics",
+          "module": "Porte.Statistics",
+          "name": "Statistics",
+          "package": "porte",
+          "partial": "Statistics",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Statistics.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Statistics",
+          "name": "FieldFrequency",
+          "package": "porte",
+          "source": "src/Porte-Statistics.html#FieldFrequency",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Porte Statistics",
+          "module": "Porte.Statistics",
+          "name": "FieldFrequency",
+          "package": "porte",
+          "partial": "Field Frequency",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Statistics.html#t:FieldFrequency"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Statistics",
+          "name": "FrequencyMap",
+          "package": "porte",
+          "source": "src/Porte-Statistics.html#FrequencyMap",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Porte Statistics",
+          "module": "Porte.Statistics",
+          "name": "FrequencyMap",
+          "package": "porte",
+          "partial": "Frequency Map",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Statistics.html#t:FrequencyMap"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Statistics",
+          "name": "mapFrequency",
+          "package": "porte",
+          "signature": "[ByteString] -\u003e FrequencyMap",
+          "source": "src/Porte-Statistics.html#mapFrequency",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Porte Statistics",
+          "module": "Porte.Statistics",
+          "name": "mapFrequency",
+          "normalized": "[ByteString]-\u003eFrequencyMap",
+          "package": "porte",
+          "partial": "Frequency",
+          "signature": "[ByteString]-\u003eFrequencyMap",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Statistics.html#v:mapFrequency"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Statistics",
+          "name": "printFrequency",
+          "package": "porte",
+          "signature": "FieldFrequency -\u003e IO ()",
+          "source": "src/Porte-Statistics.html#printFrequency",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Porte Statistics",
+          "module": "Porte.Statistics",
+          "name": "printFrequency",
+          "normalized": "FieldFrequency-\u003eIO()",
+          "package": "porte",
+          "partial": "Frequency",
+          "signature": "FieldFrequency-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Statistics.html#v:printFrequency"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Tool",
+          "name": "Tool",
+          "package": "porte",
+          "source": "src/Porte-Tool.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Porte Tool",
+          "module": "Porte.Tool",
+          "name": "Tool",
+          "package": "porte",
+          "partial": "Tool",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Tool.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Porte.Tool",
+          "name": "toolMain",
+          "package": "porte",
+          "signature": "IO ()",
+          "source": "src/Porte-Tool.html#toolMain",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Porte Tool",
+          "module": "Porte.Tool",
+          "name": "toolMain",
+          "normalized": "IO()",
+          "package": "porte",
+          "partial": "Main",
+          "signature": "IO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Tool.html#v:toolMain"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:Categories",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "type",
-        "fct-source": "src/Porte-Ports.html#Categories",
-        "fct-type": "type",
-        "title": "Categories"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "Categories",
-        "normalized": "",
-        "package": "porte",
-        "partial": "Categories",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:Comment",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "type",
-        "fct-source": "src/Porte-Ports.html#Comment",
-        "fct-type": "type",
-        "title": "Comment"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "Comment",
-        "normalized": "",
-        "package": "porte",
-        "partial": "Comment",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:DescriptionPath",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "type",
-        "fct-source": "src/Porte-Ports.html#DescriptionPath",
-        "fct-type": "type",
-        "title": "DescriptionPath"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "DescriptionPath",
-        "normalized": "",
-        "package": "porte",
-        "partial": "Description Path",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:DistributionName",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "type",
-        "fct-source": "src/Porte-Ports.html#DistributionName",
-        "fct-type": "type",
-        "title": "DistributionName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "DistributionName",
-        "normalized": "",
-        "package": "porte",
-        "partial": "Distribution Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:ExtractDepends",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "type",
-        "fct-source": "src/Porte-Ports.html#ExtractDepends",
-        "fct-type": "type",
-        "title": "ExtractDepends"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "ExtractDepends",
-        "normalized": "",
-        "package": "porte",
-        "partial": "Extract Depends",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:FetchDepends",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "type",
-        "fct-source": "src/Porte-Ports.html#FetchDepends",
-        "fct-type": "type",
-        "title": "FetchDepends"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "FetchDepends",
-        "normalized": "",
-        "package": "porte",
-        "partial": "Fetch Depends",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:Maintainer",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "type",
-        "fct-source": "src/Porte-Ports.html#Maintainer",
-        "fct-type": "type",
-        "title": "Maintainer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "Maintainer",
-        "normalized": "",
-        "package": "porte",
-        "partial": "Maintainer",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:Name",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "type",
-        "fct-source": "src/Porte-Ports.html#Name",
-        "fct-type": "type",
-        "title": "Name"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "Name",
-        "normalized": "",
-        "package": "porte",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:PatchDepends",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "type",
-        "fct-source": "src/Porte-Ports.html#PatchDepends",
-        "fct-type": "type",
-        "title": "PatchDepends"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "PatchDepends",
-        "normalized": "",
-        "package": "porte",
-        "partial": "Patch Depends",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:Path",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "type",
-        "fct-source": "src/Porte-Ports.html#Path",
-        "fct-type": "type",
-        "title": "Path"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "Path",
-        "normalized": "",
-        "package": "porte",
-        "partial": "Path",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:Port",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "data",
-        "fct-source": "src/Porte-Ports.html#Port",
-        "fct-type": "data",
-        "title": "Port"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "Port",
-        "normalized": "",
-        "package": "porte",
-        "partial": "Port",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:PortDescription",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "type",
-        "fct-source": "src/Porte-Ports.html#PortDescription",
-        "fct-type": "type",
-        "title": "PortDescription"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "PortDescription",
-        "normalized": "",
-        "package": "porte",
-        "partial": "Port Description",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:PortField",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "type",
-        "fct-source": "src/Porte-Ports.html#PortField",
-        "fct-type": "type",
-        "title": "PortField"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "PortField",
-        "normalized": "",
-        "package": "porte",
-        "partial": "Port Field",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:PortQuery",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "type",
-        "fct-source": "src/Porte-Ports.html#PortQuery",
-        "fct-type": "type",
-        "title": "PortQuery"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "PortQuery",
-        "normalized": "",
-        "package": "porte",
-        "partial": "Port Query",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:Prefix",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "type",
-        "fct-source": "src/Porte-Ports.html#Prefix",
-        "fct-type": "type",
-        "title": "Prefix"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "Prefix",
-        "normalized": "",
-        "package": "porte",
-        "partial": "Prefix",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:RunDepends",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "type",
-        "fct-source": "src/Porte-Ports.html#RunDepends",
-        "fct-type": "type",
-        "title": "RunDepends"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "RunDepends",
-        "normalized": "",
-        "package": "porte",
-        "partial": "Run Depends",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#t:Website",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "type",
-        "fct-source": "src/Porte-Ports.html#Website",
-        "fct-type": "type",
-        "title": "Website"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "Website",
-        "normalized": "",
-        "package": "porte",
-        "partial": "Website",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:Port",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "Port",
-        "fct-source": "src/Porte-Ports.html#Port",
-        "fct-type": "function",
-        "title": "Port"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "Port",
-        "normalized": "",
-        "package": "porte",
-        "partial": "Port",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:buildDepends",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "BuildDepends",
-        "fct-source": "src/Porte-Ports.html#Port",
-        "fct-type": "function",
-        "title": "buildDepends"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "buildDepends",
-        "normalized": "",
-        "package": "porte",
-        "partial": "Depends",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:categories",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "Categories",
-        "fct-source": "src/Porte-Ports.html#Port",
-        "fct-type": "function",
-        "title": "categories"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "categories",
-        "normalized": "",
-        "package": "porte",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:comment",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "Comment",
-        "fct-source": "src/Porte-Ports.html#Port",
-        "fct-type": "function",
-        "title": "comment"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "comment",
-        "normalized": "",
-        "package": "porte",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:description",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "Port -\u003e IO (Maybe ByteString)",
-        "fct-source": "src/Porte-Ports.html#description",
-        "fct-type": "function",
-        "title": "description"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "description",
-        "normalized": "Port-\u003eIO(Maybe ByteString)",
-        "package": "porte",
-        "partial": "",
-        "signature": "Port-\u003eIO(Maybe ByteString)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:descriptionPath",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "DescriptionPath",
-        "fct-source": "src/Porte-Ports.html#Port",
-        "fct-type": "function",
-        "title": "descriptionPath"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "descriptionPath",
-        "normalized": "",
-        "package": "porte",
-        "partial": "Path",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:distributionName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "DistributionName",
-        "fct-source": "src/Porte-Ports.html#Port",
-        "fct-type": "function",
-        "title": "distributionName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "distributionName",
-        "normalized": "",
-        "package": "porte",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:extractDepends",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "ExtractDepends",
-        "fct-source": "src/Porte-Ports.html#Port",
-        "fct-type": "function",
-        "title": "extractDepends"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "extractDepends",
-        "normalized": "",
-        "package": "porte",
-        "partial": "Depends",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:find",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "PortQuery -\u003e [Port] -\u003e [Port]",
-        "fct-source": "src/Porte-Ports.html#find",
-        "fct-type": "function",
-        "title": "find"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "find",
-        "normalized": "PortQuery-\u003e[Port]-\u003e[Port]",
-        "package": "porte",
-        "partial": "",
-        "signature": "PortQuery-\u003e[Port]-\u003e[Port]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:glue",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "(Port -\u003e [ByteString]) -\u003e Port -\u003e ByteString",
-        "fct-source": "src/Porte-Ports.html#glue",
-        "fct-type": "function",
-        "title": "glue"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "glue",
-        "normalized": "(Port-\u003e[ByteString])-\u003ePort-\u003eByteString",
-        "package": "porte",
-        "partial": "",
-        "signature": "(Port-\u003e[ByteString])-\u003ePort-\u003eByteString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:hPutPort",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "Handle -\u003e [PortField] -\u003e Port -\u003e IO ()",
-        "fct-source": "src/Porte-Ports.html#hPutPort",
-        "fct-type": "function",
-        "title": "hPutPort"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "hPutPort",
-        "normalized": "Handle-\u003e[PortField]-\u003ePort-\u003eIO()",
-        "package": "porte",
-        "partial": "Put Port",
-        "signature": "Handle-\u003e[PortField]-\u003ePort-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:hPutPorts",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "Handle -\u003e [PortField] -\u003e [Port] -\u003e IO ()",
-        "fct-source": "src/Porte-Ports.html#hPutPorts",
-        "fct-type": "function",
-        "title": "hPutPorts"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "hPutPorts",
-        "normalized": "Handle-\u003e[PortField]-\u003e[Port]-\u003eIO()",
-        "package": "porte",
-        "partial": "Put Ports",
-        "signature": "Handle-\u003e[PortField]-\u003e[Port]-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:index",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "Maybe String -\u003e IO [Port]",
-        "fct-source": "src/Porte-Ports.html#index",
-        "fct-type": "function",
-        "title": "index"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "index",
-        "normalized": "Maybe String-\u003eIO[Port]",
-        "package": "porte",
-        "partial": "",
-        "signature": "Maybe String-\u003eIO[Port]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:maintainer",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "Maintainer",
-        "fct-source": "src/Porte-Ports.html#Port",
-        "fct-type": "function",
-        "title": "maintainer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "maintainer",
-        "normalized": "",
-        "package": "porte",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:name",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "Name",
-        "fct-source": "src/Porte-Ports.html#Port",
-        "fct-type": "function",
-        "title": "name"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "name",
-        "normalized": "",
-        "package": "porte",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:parseEntry",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "ByteString -\u003e Port",
-        "fct-source": "src/Porte-Ports.html#parseEntry",
-        "fct-type": "function",
-        "title": "parseEntry"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "parseEntry",
-        "normalized": "ByteString-\u003ePort",
-        "package": "porte",
-        "partial": "Entry",
-        "signature": "ByteString-\u003ePort"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:parseIndex",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "ByteString -\u003e [Port]",
-        "fct-source": "src/Porte-Ports.html#parseIndex",
-        "fct-type": "function",
-        "title": "parseIndex"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "parseIndex",
-        "normalized": "ByteString-\u003e[Port]",
-        "package": "porte",
-        "partial": "Index",
-        "signature": "ByteString-\u003e[Port]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:path",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "Path",
-        "fct-source": "src/Porte-Ports.html#Port",
-        "fct-type": "function",
-        "title": "path"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "path",
-        "normalized": "",
-        "package": "porte",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:putPort",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "[PortField] -\u003e Port -\u003e IO ()",
-        "fct-source": "src/Porte-Ports.html#putPort",
-        "fct-type": "function",
-        "title": "putPort"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "putPort",
-        "normalized": "[PortField]-\u003ePort-\u003eIO()",
-        "package": "porte",
-        "partial": "Port",
-        "signature": "[PortField]-\u003ePort-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:putPorts",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "[PortField] -\u003e [Port] -\u003e IO ()",
-        "fct-source": "src/Porte-Ports.html#putPorts",
-        "fct-type": "function",
-        "title": "putPorts"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "putPorts",
-        "normalized": "[PortField]-\u003e[Port]-\u003eIO()",
-        "package": "porte",
-        "partial": "Ports",
-        "signature": "[PortField]-\u003e[Port]-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:search",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "PortQuery -\u003e [Port] -\u003e [Port]",
-        "fct-source": "src/Porte-Ports.html#search",
-        "fct-type": "function",
-        "title": "search"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "search",
-        "normalized": "PortQuery-\u003e[Port]-\u003e[Port]",
-        "package": "porte",
-        "partial": "",
-        "signature": "PortQuery-\u003e[Port]-\u003e[Port]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:toField",
-      "description": {
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "String -\u003e Maybe PortField",
-        "fct-source": "src/Porte-Ports.html#toField",
-        "fct-type": "function",
-        "title": "toField"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "toField",
-        "normalized": "String-\u003eMaybe PortField",
-        "package": "porte",
-        "partial": "Field",
-        "signature": "String-\u003eMaybe PortField"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Ports.html#v:website",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Porte.Ports",
-        "fct-package": "porte",
-        "fct-signature": "Website",
-        "fct-source": "src/Porte-Ports.html#Port",
-        "fct-type": "function",
-        "title": "website"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Ports",
-        "module": "Porte.Ports",
-        "name": "website",
-        "normalized": "",
-        "package": "porte",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Statistics.html#",
-      "description": {
-        "fct-module": "Porte.Statistics",
-        "fct-package": "porte",
-        "fct-signature": "module",
-        "fct-source": "src/Porte-Statistics.html",
-        "fct-type": "module",
-        "title": "Statistics"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Statistics",
-        "module": "Porte.Statistics",
-        "name": "Statistics",
-        "normalized": "",
-        "package": "porte",
-        "partial": "Statistics",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Statistics.html#t:FieldFrequency",
-      "description": {
-        "fct-module": "Porte.Statistics",
-        "fct-package": "porte",
-        "fct-signature": "type",
-        "fct-source": "src/Porte-Statistics.html#FieldFrequency",
-        "fct-type": "type",
-        "title": "FieldFrequency"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Statistics",
-        "module": "Porte.Statistics",
-        "name": "FieldFrequency",
-        "normalized": "",
-        "package": "porte",
-        "partial": "Field Frequency",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Statistics.html#t:FrequencyMap",
-      "description": {
-        "fct-module": "Porte.Statistics",
-        "fct-package": "porte",
-        "fct-signature": "type",
-        "fct-source": "src/Porte-Statistics.html#FrequencyMap",
-        "fct-type": "type",
-        "title": "FrequencyMap"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Statistics",
-        "module": "Porte.Statistics",
-        "name": "FrequencyMap",
-        "normalized": "",
-        "package": "porte",
-        "partial": "Frequency Map",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Statistics.html#v:mapFrequency",
-      "description": {
-        "fct-module": "Porte.Statistics",
-        "fct-package": "porte",
-        "fct-signature": "[ByteString] -\u003e FrequencyMap",
-        "fct-source": "src/Porte-Statistics.html#mapFrequency",
-        "fct-type": "function",
-        "title": "mapFrequency"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Statistics",
-        "module": "Porte.Statistics",
-        "name": "mapFrequency",
-        "normalized": "[ByteString]-\u003eFrequencyMap",
-        "package": "porte",
-        "partial": "Frequency",
-        "signature": "[ByteString]-\u003eFrequencyMap"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Statistics.html#v:printFrequency",
-      "description": {
-        "fct-module": "Porte.Statistics",
-        "fct-package": "porte",
-        "fct-signature": "FieldFrequency -\u003e IO ()",
-        "fct-source": "src/Porte-Statistics.html#printFrequency",
-        "fct-type": "function",
-        "title": "printFrequency"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Statistics",
-        "module": "Porte.Statistics",
-        "name": "printFrequency",
-        "normalized": "FieldFrequency-\u003eIO()",
-        "package": "porte",
-        "partial": "Frequency",
-        "signature": "FieldFrequency-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Tool.html#",
-      "description": {
-        "fct-module": "Porte.Tool",
-        "fct-package": "porte",
-        "fct-signature": "module",
-        "fct-source": "src/Porte-Tool.html",
-        "fct-type": "module",
-        "title": "Tool"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Tool",
-        "module": "Porte.Tool",
-        "name": "Tool",
-        "normalized": "",
-        "package": "porte",
-        "partial": "Tool",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/porte/docs/Porte-Tool.html#v:toolMain",
-      "description": {
-        "fct-module": "Porte.Tool",
-        "fct-package": "porte",
-        "fct-signature": "IO ()",
-        "fct-source": "src/Porte-Tool.html#toolMain",
-        "fct-type": "function",
-        "title": "toolMain"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Porte Tool",
-        "module": "Porte.Tool",
-        "name": "toolMain",
-        "normalized": "IO()",
-        "package": "porte",
-        "partial": "Main",
-        "signature": "IO()"
-      }
-    }
-  }
+  ]
 ]

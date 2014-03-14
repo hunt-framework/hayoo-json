@@ -1,338 +1,338 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gitlib-test/docs/Git-Smoke.html#",
-      "description": {
-        "fct-module": "Git.Smoke",
-        "fct-package": "gitlib-test",
-        "fct-signature": "module",
-        "fct-source": "src/Git-Smoke.html",
-        "fct-type": "module",
-        "title": "Smoke"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "gitlib-test"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Git Smoke",
-        "module": "Git.Smoke",
-        "name": "Smoke",
-        "normalized": "",
-        "package": "gitlib-test",
-        "partial": "Smoke",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gitlib-test/docs/Git-Smoke.html#t:Kind",
-      "description": {
-        "fct-module": "Git.Smoke",
-        "fct-package": "gitlib-test",
-        "fct-signature": "data",
-        "fct-source": "src/Git-Smoke.html#Kind",
-        "fct-type": "data",
-        "title": "Kind"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Git Smoke",
-        "module": "Git.Smoke",
-        "name": "Kind",
-        "normalized": "",
-        "package": "gitlib-test",
-        "partial": "Kind",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Git.Smoke",
+          "name": "Smoke",
+          "package": "gitlib-test",
+          "source": "src/Git-Smoke.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Git Smoke",
+          "module": "Git.Smoke",
+          "name": "Smoke",
+          "package": "gitlib-test",
+          "partial": "Smoke",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/gitlib-test/docs/Git-Smoke.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Git.Smoke",
+          "name": "Kind",
+          "package": "gitlib-test",
+          "source": "src/Git-Smoke.html#Kind",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Git Smoke",
+          "module": "Git.Smoke",
+          "name": "Kind",
+          "package": "gitlib-test",
+          "partial": "Kind",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/gitlib-test/docs/Git-Smoke.html#t:Kind"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Git.Smoke",
+          "name": "TreeitException",
+          "package": "gitlib-test",
+          "source": "src/Git-Smoke.html#TreeitException",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Git Smoke",
+          "module": "Git.Smoke",
+          "name": "TreeitException",
+          "package": "gitlib-test",
+          "partial": "Treeit Exception",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/gitlib-test/docs/Git-Smoke.html#t:TreeitException"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Git.Smoke",
+          "name": "Bl",
+          "package": "gitlib-test",
+          "signature": "Bl TreeFilePath",
+          "source": "src/Git-Smoke.html#Kind",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Git Smoke",
+          "module": "Git.Smoke",
+          "name": "Bl",
+          "package": "gitlib-test",
+          "partial": "Bl",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gitlib-test/docs/Git-Smoke.html#v:Bl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Git.Smoke",
+          "name": "Tr",
+          "package": "gitlib-test",
+          "signature": "Tr TreeFilePath",
+          "source": "src/Git-Smoke.html#Kind",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Git Smoke",
+          "module": "Git.Smoke",
+          "name": "Tr",
+          "package": "gitlib-test",
+          "partial": "Tr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gitlib-test/docs/Git-Smoke.html#v:Tr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Git.Smoke",
+          "name": "TreeitException",
+          "package": "gitlib-test",
+          "signature": "TreeitException Text",
+          "source": "src/Git-Smoke.html#TreeitException",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Git Smoke",
+          "module": "Git.Smoke",
+          "name": "TreeitException",
+          "package": "gitlib-test",
+          "partial": "Treeit Exception",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gitlib-test/docs/Git-Smoke.html#v:TreeitException"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Git.Smoke",
+          "name": "doTreeit",
+          "package": "gitlib-test",
+          "signature": "String -\u003e RepositoryFactory n m r -\u003e [Kind] -\u003e TreeT r n a -\u003e m ()",
+          "source": "src/Git-Smoke.html#doTreeit",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Git Smoke",
+          "module": "Git.Smoke",
+          "name": "doTreeit",
+          "normalized": "String-\u003eRepositoryFactory a b c-\u003e[Kind]-\u003eTreeT c a d-\u003eb()",
+          "package": "gitlib-test",
+          "partial": "Treeit",
+          "signature": "String-\u003eRepositoryFactory n m r-\u003e[Kind]-\u003eTreeT r n a-\u003em()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gitlib-test/docs/Git-Smoke.html#v:doTreeit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Git.Smoke",
+          "name": "isBlobKind",
+          "package": "gitlib-test",
+          "signature": "Kind -\u003e Bool",
+          "source": "src/Git-Smoke.html#isBlobKind",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Git Smoke",
+          "module": "Git.Smoke",
+          "name": "isBlobKind",
+          "normalized": "Kind-\u003eBool",
+          "package": "gitlib-test",
+          "partial": "Blob Kind",
+          "signature": "Kind-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gitlib-test/docs/Git-Smoke.html#v:isBlobKind"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Git.Smoke",
+          "name": "kindPath",
+          "package": "gitlib-test",
+          "signature": "Kind -\u003e TreeFilePath",
+          "source": "src/Git-Smoke.html#kindPath",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Git Smoke",
+          "module": "Git.Smoke",
+          "name": "kindPath",
+          "normalized": "Kind-\u003eTreeFilePath",
+          "package": "gitlib-test",
+          "partial": "Path",
+          "signature": "Kind-\u003eTreeFilePath",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gitlib-test/docs/Git-Smoke.html#v:kindPath"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Git.Smoke",
+          "name": "mkBlob",
+          "package": "gitlib-test",
+          "signature": "TreeFilePath -\u003e TreeT r m ()",
+          "source": "src/Git-Smoke.html#mkBlob",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Git Smoke",
+          "module": "Git.Smoke",
+          "name": "mkBlob",
+          "normalized": "TreeFilePath-\u003eTreeT a b()",
+          "package": "gitlib-test",
+          "partial": "Blob",
+          "signature": "TreeFilePath-\u003eTreeT r m()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gitlib-test/docs/Git-Smoke.html#v:mkBlob"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Git.Smoke",
+          "name": "sampleCommit",
+          "package": "gitlib-test",
+          "signature": "TreeOid r -\u003e Signature -\u003e m (Commit r)",
+          "source": "src/Git-Smoke.html#sampleCommit",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Git Smoke",
+          "module": "Git.Smoke",
+          "name": "sampleCommit",
+          "normalized": "TreeOid a-\u003eSignature-\u003eb(Commit a)",
+          "package": "gitlib-test",
+          "partial": "Commit",
+          "signature": "TreeOid r-\u003eSignature-\u003em(Commit r)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gitlib-test/docs/Git-Smoke.html#v:sampleCommit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Git.Smoke",
+          "name": "smokeTestSpec",
+          "package": "gitlib-test",
+          "signature": "RepositoryFactory m IO r -\u003e RepositoryFactory n m s -\u003e Spec",
+          "source": "src/Git-Smoke.html#smokeTestSpec",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Git Smoke",
+          "module": "Git.Smoke",
+          "name": "smokeTestSpec",
+          "normalized": "RepositoryFactory a IO b-\u003eRepositoryFactory c a d-\u003eSpec",
+          "package": "gitlib-test",
+          "partial": "Test Spec",
+          "signature": "RepositoryFactory m IO r-\u003eRepositoryFactory n m s-\u003eSpec",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gitlib-test/docs/Git-Smoke.html#v:smokeTestSpec"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Git.Smoke",
+          "name": "treeit",
+          "package": "gitlib-test",
+          "signature": "String -\u003e RepositoryFactory n m r -\u003e [Kind] -\u003e TreeT r n a -\u003e Spec",
+          "source": "src/Git-Smoke.html#treeit",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Git Smoke",
+          "module": "Git.Smoke",
+          "name": "treeit",
+          "normalized": "String-\u003eRepositoryFactory a b c-\u003e[Kind]-\u003eTreeT c a d-\u003eSpec",
+          "package": "gitlib-test",
+          "signature": "String-\u003eRepositoryFactory n m r-\u003e[Kind]-\u003eTreeT r n a-\u003eSpec",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gitlib-test/docs/Git-Smoke.html#v:treeit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Git.Smoke",
+          "name": "treeitFail",
+          "package": "gitlib-test",
+          "signature": "String -\u003e RepositoryFactory m IO r -\u003e [Kind] -\u003e TreeT r m a -\u003e Spec",
+          "source": "src/Git-Smoke.html#treeitFail",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Git Smoke",
+          "module": "Git.Smoke",
+          "name": "treeitFail",
+          "normalized": "String-\u003eRepositoryFactory a IO b-\u003e[Kind]-\u003eTreeT b a c-\u003eSpec",
+          "package": "gitlib-test",
+          "partial": "Fail",
+          "signature": "String-\u003eRepositoryFactory m IO r-\u003e[Kind]-\u003eTreeT r m a-\u003eSpec",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gitlib-test/docs/Git-Smoke.html#v:treeitFail"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gitlib-test/docs/Git-Smoke.html#t:TreeitException",
-      "description": {
-        "fct-module": "Git.Smoke",
-        "fct-package": "gitlib-test",
-        "fct-signature": "data",
-        "fct-source": "src/Git-Smoke.html#TreeitException",
-        "fct-type": "data",
-        "title": "TreeitException"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Git Smoke",
-        "module": "Git.Smoke",
-        "name": "TreeitException",
-        "normalized": "",
-        "package": "gitlib-test",
-        "partial": "Treeit Exception",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gitlib-test/docs/Git-Smoke.html#v:Bl",
-      "description": {
-        "fct-module": "Git.Smoke",
-        "fct-package": "gitlib-test",
-        "fct-signature": "Bl TreeFilePath",
-        "fct-source": "src/Git-Smoke.html#Kind",
-        "fct-type": "function",
-        "title": "Bl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Git Smoke",
-        "module": "Git.Smoke",
-        "name": "Bl",
-        "normalized": "",
-        "package": "gitlib-test",
-        "partial": "Bl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gitlib-test/docs/Git-Smoke.html#v:Tr",
-      "description": {
-        "fct-module": "Git.Smoke",
-        "fct-package": "gitlib-test",
-        "fct-signature": "Tr TreeFilePath",
-        "fct-source": "src/Git-Smoke.html#Kind",
-        "fct-type": "function",
-        "title": "Tr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Git Smoke",
-        "module": "Git.Smoke",
-        "name": "Tr",
-        "normalized": "",
-        "package": "gitlib-test",
-        "partial": "Tr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gitlib-test/docs/Git-Smoke.html#v:TreeitException",
-      "description": {
-        "fct-module": "Git.Smoke",
-        "fct-package": "gitlib-test",
-        "fct-signature": "TreeitException Text",
-        "fct-source": "src/Git-Smoke.html#TreeitException",
-        "fct-type": "function",
-        "title": "TreeitException"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Git Smoke",
-        "module": "Git.Smoke",
-        "name": "TreeitException",
-        "normalized": "",
-        "package": "gitlib-test",
-        "partial": "Treeit Exception",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gitlib-test/docs/Git-Smoke.html#v:doTreeit",
-      "description": {
-        "fct-module": "Git.Smoke",
-        "fct-package": "gitlib-test",
-        "fct-signature": "String -\u003e RepositoryFactory t m c -\u003e [Kind] -\u003e TreeT t a -\u003e m ()",
-        "fct-source": "src/Git-Smoke.html#doTreeit",
-        "fct-type": "function",
-        "title": "doTreeit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Git Smoke",
-        "module": "Git.Smoke",
-        "name": "doTreeit",
-        "normalized": "String-\u003eRepositoryFactory a b c-\u003e[Kind]-\u003eTreeT a d-\u003eb()",
-        "package": "gitlib-test",
-        "partial": "Treeit",
-        "signature": "String-\u003eRepositoryFactory t m c-\u003e[Kind]-\u003eTreeT t a-\u003em()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gitlib-test/docs/Git-Smoke.html#v:isBlobKind",
-      "description": {
-        "fct-module": "Git.Smoke",
-        "fct-package": "gitlib-test",
-        "fct-signature": "Kind -\u003e Bool",
-        "fct-source": "src/Git-Smoke.html#isBlobKind",
-        "fct-type": "function",
-        "title": "isBlobKind"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Git Smoke",
-        "module": "Git.Smoke",
-        "name": "isBlobKind",
-        "normalized": "Kind-\u003eBool",
-        "package": "gitlib-test",
-        "partial": "Blob Kind",
-        "signature": "Kind-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gitlib-test/docs/Git-Smoke.html#v:kindPath",
-      "description": {
-        "fct-module": "Git.Smoke",
-        "fct-package": "gitlib-test",
-        "fct-signature": "Kind -\u003e TreeFilePath",
-        "fct-source": "src/Git-Smoke.html#kindPath",
-        "fct-type": "function",
-        "title": "kindPath"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Git Smoke",
-        "module": "Git.Smoke",
-        "name": "kindPath",
-        "normalized": "Kind-\u003eTreeFilePath",
-        "package": "gitlib-test",
-        "partial": "Path",
-        "signature": "Kind-\u003eTreeFilePath"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gitlib-test/docs/Git-Smoke.html#v:mkBlob",
-      "description": {
-        "fct-module": "Git.Smoke",
-        "fct-package": "gitlib-test",
-        "fct-signature": "TreeFilePath -\u003e TreeT m ()",
-        "fct-source": "src/Git-Smoke.html#mkBlob",
-        "fct-type": "function",
-        "title": "mkBlob"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Git Smoke",
-        "module": "Git.Smoke",
-        "name": "mkBlob",
-        "normalized": "TreeFilePath-\u003eTreeT a()",
-        "package": "gitlib-test",
-        "partial": "Blob",
-        "signature": "TreeFilePath-\u003eTreeT m()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gitlib-test/docs/Git-Smoke.html#v:sampleCommit",
-      "description": {
-        "fct-module": "Git.Smoke",
-        "fct-package": "gitlib-test",
-        "fct-signature": "TreeOid m -\u003e Signature -\u003e m (Commit m)",
-        "fct-source": "src/Git-Smoke.html#sampleCommit",
-        "fct-type": "function",
-        "title": "sampleCommit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Git Smoke",
-        "module": "Git.Smoke",
-        "name": "sampleCommit",
-        "normalized": "TreeOid a-\u003eSignature-\u003ea(Commit a)",
-        "package": "gitlib-test",
-        "partial": "Commit",
-        "signature": "TreeOid m-\u003eSignature-\u003em(Commit m)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gitlib-test/docs/Git-Smoke.html#v:smokeTestSpec",
-      "description": {
-        "fct-module": "Git.Smoke",
-        "fct-package": "gitlib-test",
-        "fct-signature": "RepositoryFactory t IO c -\u003e RepositoryFactory t2 t c2 -\u003e Spec",
-        "fct-source": "src/Git-Smoke.html#smokeTestSpec",
-        "fct-type": "function",
-        "title": "smokeTestSpec"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Git Smoke",
-        "module": "Git.Smoke",
-        "name": "smokeTestSpec",
-        "normalized": "RepositoryFactory a IO b-\u003eRepositoryFactory a a b-\u003eSpec",
-        "package": "gitlib-test",
-        "partial": "Test Spec",
-        "signature": "RepositoryFactory t IO c-\u003eRepositoryFactory t t c-\u003eSpec"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gitlib-test/docs/Git-Smoke.html#v:treeit",
-      "description": {
-        "fct-module": "Git.Smoke",
-        "fct-package": "gitlib-test",
-        "fct-signature": "String -\u003e RepositoryFactory t m c -\u003e [Kind] -\u003e TreeT t a -\u003e Spec",
-        "fct-source": "src/Git-Smoke.html#treeit",
-        "fct-type": "function",
-        "title": "treeit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Git Smoke",
-        "module": "Git.Smoke",
-        "name": "treeit",
-        "normalized": "String-\u003eRepositoryFactory a b c-\u003e[Kind]-\u003eTreeT a d-\u003eSpec",
-        "package": "gitlib-test",
-        "partial": "",
-        "signature": "String-\u003eRepositoryFactory t m c-\u003e[Kind]-\u003eTreeT t a-\u003eSpec"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gitlib-test/docs/Git-Smoke.html#v:treeitFail",
-      "description": {
-        "fct-module": "Git.Smoke",
-        "fct-package": "gitlib-test",
-        "fct-signature": "String -\u003e RepositoryFactory t IO c -\u003e [Kind] -\u003e TreeT t a -\u003e Spec",
-        "fct-source": "src/Git-Smoke.html#treeitFail",
-        "fct-type": "function",
-        "title": "treeitFail"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Git Smoke",
-        "module": "Git.Smoke",
-        "name": "treeitFail",
-        "normalized": "String-\u003eRepositoryFactory a IO b-\u003e[Kind]-\u003eTreeT a c-\u003eSpec",
-        "package": "gitlib-test",
-        "partial": "Fail",
-        "signature": "String-\u003eRepositoryFactory t IO c-\u003e[Kind]-\u003eTreeT t a-\u003eSpec"
-      }
-    }
-  }
+  ]
 ]

@@ -1,26 +1,39 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hdbc-tuple/docs/Database-HDBC-Tuple.html#",
-      "description": {
-        "fct-module": "Database.HDBC.Tuple",
-        "fct-package": "hdbc-tuple",
-        "fct-signature": "module",
-        "fct-source": "src/Database-HDBC-Tuple.html",
-        "fct-type": "module",
-        "title": "Tuple"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "hdbc-tuple"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Database HDBC Tuple",
-        "module": "Database.HDBC.Tuple",
-        "name": "Tuple",
-        "normalized": "",
-        "package": "hdbc-tuple",
-        "partial": "Tuple",
-        "signature": ""
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Database.HDBC.Tuple",
+          "name": "Tuple",
+          "package": "hdbc-tuple",
+          "source": "src/Database-HDBC-Tuple.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Database HDBC Tuple",
+          "module": "Database.HDBC.Tuple",
+          "name": "Tuple",
+          "package": "hdbc-tuple",
+          "partial": "Tuple",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/hdbc-tuple/docs/Database-HDBC-Tuple.html#"
       }
     }
-  }
+  ]
 ]

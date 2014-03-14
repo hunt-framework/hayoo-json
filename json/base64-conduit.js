@@ -1,122 +1,125 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/base64-conduit/docs/Data-Conduit-Base64.html#",
-      "description": {
-        "fct-module": "Data.Conduit.Base64",
-        "fct-package": "base64-conduit",
-        "fct-signature": "module",
-        "fct-source": "src/Data-Conduit-Base64.html",
-        "fct-type": "module",
-        "title": "Base64"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "base64-conduit"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Conduit Base64",
-        "module": "Data.Conduit.Base64",
-        "name": "Base64",
-        "normalized": "",
-        "package": "base64-conduit",
-        "partial": "Base",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/base64-conduit/docs/Data-Conduit-Base64.html#v:decode",
-      "description": {
-        "fct-module": "Data.Conduit.Base64",
-        "fct-package": "base64-conduit",
-        "fct-signature": "Conduit ByteString m ByteString",
-        "fct-source": "src/Data-Conduit-Base64.html#decode",
-        "fct-type": "function",
-        "title": "decode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Conduit Base64",
-        "module": "Data.Conduit.Base64",
-        "name": "decode",
-        "normalized": "",
-        "package": "base64-conduit",
-        "partial": "",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Conduit.Base64",
+          "name": "Base64",
+          "package": "base64-conduit",
+          "source": "src/Data-Conduit-Base64.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data Conduit Base64",
+          "module": "Data.Conduit.Base64",
+          "name": "Base64",
+          "package": "base64-conduit",
+          "partial": "Base",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/base64-conduit/docs/Data-Conduit-Base64.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Conduit.Base64",
+          "name": "decode",
+          "package": "base64-conduit",
+          "signature": "Conduit ByteString m ByteString",
+          "source": "src/Data-Conduit-Base64.html#decode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Conduit Base64",
+          "module": "Data.Conduit.Base64",
+          "name": "decode",
+          "package": "base64-conduit",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/base64-conduit/docs/Data-Conduit-Base64.html#v:decode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Conduit.Base64",
+          "name": "decodeURL",
+          "package": "base64-conduit",
+          "signature": "Conduit ByteString m ByteString",
+          "source": "src/Data-Conduit-Base64.html#decodeURL",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Conduit Base64",
+          "module": "Data.Conduit.Base64",
+          "name": "decodeURL",
+          "package": "base64-conduit",
+          "partial": "URL",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/base64-conduit/docs/Data-Conduit-Base64.html#v:decodeURL"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Conduit.Base64",
+          "name": "encode",
+          "package": "base64-conduit",
+          "signature": "Conduit ByteString m ByteString",
+          "source": "src/Data-Conduit-Base64.html#encode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Conduit Base64",
+          "module": "Data.Conduit.Base64",
+          "name": "encode",
+          "package": "base64-conduit",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/base64-conduit/docs/Data-Conduit-Base64.html#v:encode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Conduit.Base64",
+          "name": "encodeURL",
+          "package": "base64-conduit",
+          "signature": "Conduit ByteString m ByteString",
+          "source": "src/Data-Conduit-Base64.html#encodeURL",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Conduit Base64",
+          "module": "Data.Conduit.Base64",
+          "name": "encodeURL",
+          "package": "base64-conduit",
+          "partial": "URL",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/base64-conduit/docs/Data-Conduit-Base64.html#v:encodeURL"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/base64-conduit/docs/Data-Conduit-Base64.html#v:decodeURL",
-      "description": {
-        "fct-module": "Data.Conduit.Base64",
-        "fct-package": "base64-conduit",
-        "fct-signature": "Conduit ByteString m ByteString",
-        "fct-source": "src/Data-Conduit-Base64.html#decodeURL",
-        "fct-type": "function",
-        "title": "decodeURL"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Conduit Base64",
-        "module": "Data.Conduit.Base64",
-        "name": "decodeURL",
-        "normalized": "",
-        "package": "base64-conduit",
-        "partial": "URL",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/base64-conduit/docs/Data-Conduit-Base64.html#v:encode",
-      "description": {
-        "fct-module": "Data.Conduit.Base64",
-        "fct-package": "base64-conduit",
-        "fct-signature": "Conduit ByteString m ByteString",
-        "fct-source": "src/Data-Conduit-Base64.html#encode",
-        "fct-type": "function",
-        "title": "encode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Conduit Base64",
-        "module": "Data.Conduit.Base64",
-        "name": "encode",
-        "normalized": "",
-        "package": "base64-conduit",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/base64-conduit/docs/Data-Conduit-Base64.html#v:encodeURL",
-      "description": {
-        "fct-module": "Data.Conduit.Base64",
-        "fct-package": "base64-conduit",
-        "fct-signature": "Conduit ByteString m ByteString",
-        "fct-source": "src/Data-Conduit-Base64.html#encodeURL",
-        "fct-type": "function",
-        "title": "encodeURL"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Conduit Base64",
-        "module": "Data.Conduit.Base64",
-        "name": "encodeURL",
-        "normalized": "",
-        "package": "base64-conduit",
-        "partial": "URL",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

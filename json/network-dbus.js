@@ -1,2656 +1,2479 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#",
-      "description": {
-        "fct-module": "Network.DBus.Connection",
-        "fct-package": "network-dbus",
-        "fct-signature": "module",
-        "fct-source": "src/Network-DBus-Connection.html",
-        "fct-type": "module",
-        "title": "Connection"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Connection",
-        "module": "Network.DBus.Connection",
-        "name": "Connection",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Connection",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#t:Connection",
-      "description": {
-        "fct-module": "Network.DBus.Connection",
-        "fct-package": "network-dbus",
-        "fct-signature": "data",
-        "fct-source": "src/Network-DBus-Connection.html#Connection",
-        "fct-type": "data",
-        "title": "Connection"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Connection",
-        "module": "Network.DBus.Connection",
-        "name": "Connection",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Connection",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#t:ConnectionAddress",
-      "description": {
-        "fct-module": "Network.DBus.Connection",
-        "fct-package": "network-dbus",
-        "fct-signature": "data",
-        "fct-source": "src/Network-DBus-Connection.html#ConnectionAddress",
-        "fct-type": "data",
-        "title": "ConnectionAddress"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Connection",
-        "module": "Network.DBus.Connection",
-        "name": "ConnectionAddress",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Connection Address",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#t:Handler",
-      "description": {
-        "fct-module": "Network.DBus.Connection",
-        "fct-package": "network-dbus",
-        "fct-signature": "type",
-        "fct-source": "src/Network-DBus-Connection.html#Handler",
-        "fct-type": "type",
-        "title": "Handler"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Connection",
-        "module": "Network.DBus.Connection",
-        "name": "Handler",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Handler",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#t:MatchClause",
-      "description": {
-        "fct-module": "Network.DBus.Connection",
-        "fct-package": "network-dbus",
-        "fct-signature": "data",
-        "fct-source": "src/Network-DBus-Connection.html#MatchClause",
-        "fct-type": "data",
-        "title": "MatchClause"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Connection",
-        "module": "Network.DBus.Connection",
-        "name": "MatchClause",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Match Clause",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#t:MatchRule",
-      "description": {
-        "fct-module": "Network.DBus.Connection",
-        "fct-package": "network-dbus",
-        "fct-signature": "type",
-        "fct-source": "src/Network-DBus-Connection.html#MatchRule",
-        "fct-type": "type",
-        "title": "MatchRule"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Connection",
-        "module": "Network.DBus.Connection",
-        "name": "MatchRule",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Match Rule",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:MatchArg",
-      "description": {
-        "fct-module": "Network.DBus.Connection",
-        "fct-package": "network-dbus",
-        "fct-signature": "MatchArg Int DString",
-        "fct-source": "src/Network-DBus-Connection.html#MatchClause",
-        "fct-type": "function",
-        "title": "MatchArg"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Connection",
-        "module": "Network.DBus.Connection",
-        "name": "MatchArg",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Match Arg",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:MatchDestination",
-      "description": {
-        "fct-module": "Network.DBus.Connection",
-        "fct-package": "network-dbus",
-        "fct-signature": "MatchDestination DString",
-        "fct-source": "src/Network-DBus-Connection.html#MatchClause",
-        "fct-type": "function",
-        "title": "MatchDestination"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Connection",
-        "module": "Network.DBus.Connection",
-        "name": "MatchDestination",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Match Destination",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:MatchInterface",
-      "description": {
-        "fct-module": "Network.DBus.Connection",
-        "fct-package": "network-dbus",
-        "fct-signature": "MatchInterface DString",
-        "fct-source": "src/Network-DBus-Connection.html#MatchClause",
-        "fct-type": "function",
-        "title": "MatchInterface"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Connection",
-        "module": "Network.DBus.Connection",
-        "name": "MatchInterface",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Match Interface",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:MatchMember",
-      "description": {
-        "fct-module": "Network.DBus.Connection",
-        "fct-package": "network-dbus",
-        "fct-signature": "MatchMember DString",
-        "fct-source": "src/Network-DBus-Connection.html#MatchClause",
-        "fct-type": "function",
-        "title": "MatchMember"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Connection",
-        "module": "Network.DBus.Connection",
-        "name": "MatchMember",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Match Member",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:MatchPath",
-      "description": {
-        "fct-module": "Network.DBus.Connection",
-        "fct-package": "network-dbus",
-        "fct-signature": "MatchPath ObjectPath",
-        "fct-source": "src/Network-DBus-Connection.html#MatchClause",
-        "fct-type": "function",
-        "title": "MatchPath"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Connection",
-        "module": "Network.DBus.Connection",
-        "name": "MatchPath",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Match Path",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:MatchSender",
-      "description": {
-        "fct-module": "Network.DBus.Connection",
-        "fct-package": "network-dbus",
-        "fct-signature": "MatchSender DString",
-        "fct-source": "src/Network-DBus-Connection.html#MatchClause",
-        "fct-type": "function",
-        "title": "MatchSender"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Connection",
-        "module": "Network.DBus.Connection",
-        "name": "MatchSender",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Match Sender",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:MatchType",
-      "description": {
-        "fct-module": "Network.DBus.Connection",
-        "fct-package": "network-dbus",
-        "fct-signature": "MatchType MessageType",
-        "fct-source": "src/Network-DBus-Connection.html#MatchClause",
-        "fct-type": "function",
-        "title": "MatchType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Connection",
-        "module": "Network.DBus.Connection",
-        "name": "MatchType",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Match Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:Unix",
-      "description": {
-        "fct-module": "Network.DBus.Connection",
-        "fct-package": "network-dbus",
-        "fct-signature": "Unix",
-        "fct-source": "src/Network-DBus-Connection.html#ConnectionAddress",
-        "fct-type": "function",
-        "title": "Unix"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Connection",
-        "module": "Network.DBus.Connection",
-        "name": "Unix",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Unix",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:UnixAbstract",
-      "description": {
-        "fct-module": "Network.DBus.Connection",
-        "fct-package": "network-dbus",
-        "fct-signature": "UnixAbstract",
-        "fct-source": "src/Network-DBus-Connection.html#ConnectionAddress",
-        "fct-type": "function",
-        "title": "UnixAbstract"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Connection",
-        "module": "Network.DBus.Connection",
-        "name": "UnixAbstract",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Unix Abstract",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:addHandler",
-      "description": {
-        "fct-module": "Network.DBus.Connection",
-        "fct-package": "network-dbus",
-        "fct-signature": "Connection -\u003e Maybe MatchRule -\u003e Handler -\u003e IO Int",
-        "fct-source": "src/Network-DBus-Connection.html#addHandler",
-        "fct-type": "function",
-        "title": "addHandler"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Connection",
-        "module": "Network.DBus.Connection",
-        "name": "addHandler",
-        "normalized": "Connection-\u003eMaybe MatchRule-\u003eHandler-\u003eIO Int",
-        "package": "network-dbus",
-        "partial": "Handler",
-        "signature": "Connection-\u003eMaybe MatchRule-\u003eHandler-\u003eIO Int"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:addrGuid",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.DBus.Connection",
-        "fct-package": "network-dbus",
-        "fct-signature": "Maybe String",
-        "fct-source": "src/Network-DBus-Connection.html#ConnectionAddress",
-        "fct-type": "function",
-        "title": "addrGuid"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Connection",
-        "module": "Network.DBus.Connection",
-        "name": "addrGuid",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Guid",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:addrPath",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.DBus.Connection",
-        "fct-package": "network-dbus",
-        "fct-signature": "String",
-        "fct-source": "src/Network-DBus-Connection.html#ConnectionAddress",
-        "fct-type": "function",
-        "title": "addrPath"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Connection",
-        "module": "Network.DBus.Connection",
-        "name": "addrPath",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Path",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:connectToBus",
-      "description": {
-        "fct-module": "Network.DBus.Connection",
-        "fct-package": "network-dbus",
-        "fct-signature": "ConnectionAddress -\u003e IO Connection",
-        "fct-source": "src/Network-DBus-Connection.html#connectToBus",
-        "fct-type": "function",
-        "title": "connectToBus"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Connection",
-        "module": "Network.DBus.Connection",
-        "name": "connectToBus",
-        "normalized": "ConnectionAddress-\u003eIO Connection",
-        "package": "network-dbus",
-        "partial": "To Bus",
-        "signature": "ConnectionAddress-\u003eIO Connection"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:getSessionBusAddress",
-      "description": {
-        "fct-module": "Network.DBus.Connection",
-        "fct-package": "network-dbus",
-        "fct-signature": "IO (Maybe ConnectionAddress)",
-        "fct-source": "src/Network-DBus-Connection.html#getSessionBusAddress",
-        "fct-type": "function",
-        "title": "getSessionBusAddress"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Connection",
-        "module": "Network.DBus.Connection",
-        "name": "getSessionBusAddress",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Session Bus Address",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:getSystemBusAddress",
-      "description": {
-        "fct-module": "Network.DBus.Connection",
-        "fct-package": "network-dbus",
-        "fct-signature": "IO (Maybe ConnectionAddress)",
-        "fct-source": "src/Network-DBus-Connection.html#getSystemBusAddress",
-        "fct-type": "function",
-        "title": "getSystemBusAddress"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Connection",
-        "module": "Network.DBus.Connection",
-        "name": "getSystemBusAddress",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "System Bus Address",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:parseAddress",
-      "description": {
-        "fct-module": "Network.DBus.Connection",
-        "fct-package": "network-dbus",
-        "fct-signature": "String -\u003e Maybe ConnectionAddress",
-        "fct-source": "src/Network-DBus-Connection.html#parseAddress",
-        "fct-type": "function",
-        "title": "parseAddress"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Connection",
-        "module": "Network.DBus.Connection",
-        "name": "parseAddress",
-        "normalized": "String-\u003eMaybe ConnectionAddress",
-        "package": "network-dbus",
-        "partial": "Address",
-        "signature": "String-\u003eMaybe ConnectionAddress"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:removeHandler",
-      "description": {
-        "fct-module": "Network.DBus.Connection",
-        "fct-package": "network-dbus",
-        "fct-signature": "Connection -\u003e Int -\u003e IO ()",
-        "fct-source": "src/Network-DBus-Connection.html#removeHandler",
-        "fct-type": "function",
-        "title": "removeHandler"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Connection",
-        "module": "Network.DBus.Connection",
-        "name": "removeHandler",
-        "normalized": "Connection-\u003eInt-\u003eIO()",
-        "package": "network-dbus",
-        "partial": "Handler",
-        "signature": "Connection-\u003eInt-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:sendAndWait",
-      "description": {
-        "fct-module": "Network.DBus.Connection",
-        "fct-package": "network-dbus",
-        "fct-signature": "Connection -\u003e Message -\u003e IO Message",
-        "fct-source": "src/Network-DBus-Connection.html#sendAndWait",
-        "fct-type": "function",
-        "title": "sendAndWait"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Connection",
-        "module": "Network.DBus.Connection",
-        "name": "sendAndWait",
-        "normalized": "Connection-\u003eMessage-\u003eIO Message",
-        "package": "network-dbus",
-        "partial": "And Wait",
-        "signature": "Connection-\u003eMessage-\u003eIO Message"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:sendMessage",
-      "description": {
-        "fct-module": "Network.DBus.Connection",
-        "fct-package": "network-dbus",
-        "fct-signature": "Connection -\u003e Message -\u003e IO Word32",
-        "fct-source": "src/Network-DBus-Connection.html#sendMessage",
-        "fct-type": "function",
-        "title": "sendMessage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Connection",
-        "module": "Network.DBus.Connection",
-        "name": "sendMessage",
-        "normalized": "Connection-\u003eMessage-\u003eIO Word",
-        "package": "network-dbus",
-        "partial": "Message",
-        "signature": "Connection-\u003eMessage-\u003eIO Word"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:uniqueName",
-      "description": {
-        "fct-module": "Network.DBus.Connection",
-        "fct-package": "network-dbus",
-        "fct-signature": "Connection -\u003e DString",
-        "fct-source": "src/Network-DBus-Connection.html#uniqueName",
-        "fct-type": "function",
-        "title": "uniqueName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Connection",
-        "module": "Network.DBus.Connection",
-        "name": "uniqueName",
-        "normalized": "Connection-\u003eDString",
-        "package": "network-dbus",
-        "partial": "Name",
-        "signature": "Connection-\u003eDString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#",
-      "description": {
-        "fct-module": "Network.DBus.Message",
-        "fct-package": "network-dbus",
-        "fct-signature": "module",
-        "fct-source": "src/Network-DBus-Message.html",
-        "fct-type": "module",
-        "title": "Message"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Message",
-        "module": "Network.DBus.Message",
-        "name": "Message",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Message",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#t:Flag",
-      "description": {
-        "fct-module": "Network.DBus.Message",
-        "fct-package": "network-dbus",
-        "fct-signature": "data",
-        "fct-source": "src/Network-DBus-Message.html#Flag",
-        "fct-type": "data",
-        "title": "Flag"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Message",
-        "module": "Network.DBus.Message",
-        "name": "Flag",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Flag",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#t:Message",
-      "description": {
-        "fct-module": "Network.DBus.Message",
-        "fct-package": "network-dbus",
-        "fct-signature": "data",
-        "fct-source": "src/Network-DBus-Message.html#Message",
-        "fct-type": "data",
-        "title": "Message"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Message",
-        "module": "Network.DBus.Message",
-        "name": "Message",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Message",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#t:MessageType",
-      "description": {
-        "fct-module": "Network.DBus.Message",
-        "fct-package": "network-dbus",
-        "fct-signature": "data",
-        "fct-source": "src/Network-DBus-Message.html#MessageType",
-        "fct-type": "data",
-        "title": "MessageType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Message",
-        "module": "Network.DBus.Message",
-        "name": "MessageType",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Message Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:Error",
-      "description": {
-        "fct-module": "Network.DBus.Message",
-        "fct-package": "network-dbus",
-        "fct-signature": "Error",
-        "fct-source": "src/Network-DBus-Message.html#MessageType",
-        "fct-type": "function",
-        "title": "Error"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Message",
-        "module": "Network.DBus.Message",
-        "name": "Error",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Error",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:Message",
-      "description": {
-        "fct-module": "Network.DBus.Message",
-        "fct-package": "network-dbus",
-        "fct-signature": "Message",
-        "fct-source": "src/Network-DBus-Message.html#Message",
-        "fct-type": "function",
-        "title": "Message"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Message",
-        "module": "Network.DBus.Message",
-        "name": "Message",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Message",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:MethodCall",
-      "description": {
-        "fct-module": "Network.DBus.Message",
-        "fct-package": "network-dbus",
-        "fct-signature": "MethodCall",
-        "fct-source": "src/Network-DBus-Message.html#MessageType",
-        "fct-type": "function",
-        "title": "MethodCall"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Message",
-        "module": "Network.DBus.Message",
-        "name": "MethodCall",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Method Call",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:MethodReturn",
-      "description": {
-        "fct-module": "Network.DBus.Message",
-        "fct-package": "network-dbus",
-        "fct-signature": "MethodReturn",
-        "fct-source": "src/Network-DBus-Message.html#MessageType",
-        "fct-type": "function",
-        "title": "MethodReturn"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Message",
-        "module": "Network.DBus.Message",
-        "name": "MethodReturn",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Method Return",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:NoAutoStart",
-      "description": {
-        "fct-module": "Network.DBus.Message",
-        "fct-package": "network-dbus",
-        "fct-signature": "NoAutoStart",
-        "fct-source": "src/Network-DBus-Message.html#Flag",
-        "fct-type": "function",
-        "title": "NoAutoStart"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Message",
-        "module": "Network.DBus.Message",
-        "name": "NoAutoStart",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "No Auto Start",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:NoReplyExpected",
-      "description": {
-        "fct-module": "Network.DBus.Message",
-        "fct-package": "network-dbus",
-        "fct-signature": "NoReplyExpected",
-        "fct-source": "src/Network-DBus-Message.html#Flag",
-        "fct-type": "function",
-        "title": "NoReplyExpected"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Message",
-        "module": "Network.DBus.Message",
-        "name": "NoReplyExpected",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "No Reply Expected",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:Signal",
-      "description": {
-        "fct-module": "Network.DBus.Message",
-        "fct-package": "network-dbus",
-        "fct-signature": "Signal",
-        "fct-source": "src/Network-DBus-Message.html#MessageType",
-        "fct-type": "function",
-        "title": "Signal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Message",
-        "module": "Network.DBus.Message",
-        "name": "Signal",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Signal",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:dbusProtocolVersion",
-      "description": {
-        "fct-module": "Network.DBus.Message",
-        "fct-package": "network-dbus",
-        "fct-signature": "Word8",
-        "fct-source": "src/Network-DBus-Message.html#dbusProtocolVersion",
-        "fct-type": "function",
-        "title": "dbusProtocolVersion"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Message",
-        "module": "Network.DBus.Message",
-        "name": "dbusProtocolVersion",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Protocol Version",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:deserializeMessage",
-      "description": {
-        "fct-module": "Network.DBus.Message",
-        "fct-package": "network-dbus",
-        "fct-signature": "ByteString -\u003e (Message, ByteString)",
-        "fct-source": "src/Network-DBus-Message.html#deserializeMessage",
-        "fct-type": "function",
-        "title": "deserializeMessage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Message",
-        "module": "Network.DBus.Message",
-        "name": "deserializeMessage",
-        "normalized": "ByteString-\u003e(Message,ByteString)",
-        "package": "network-dbus",
-        "partial": "Message",
-        "signature": "ByteString-\u003e(Message,ByteString)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:endiannessValue",
-      "description": {
-        "fct-module": "Network.DBus.Message",
-        "fct-package": "network-dbus",
-        "fct-signature": "Endianness -\u003e Word8",
-        "fct-source": "src/Network-DBus-Message.html#endiannessValue",
-        "fct-type": "function",
-        "title": "endiannessValue"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Message",
-        "module": "Network.DBus.Message",
-        "name": "endiannessValue",
-        "normalized": "Endianness-\u003eWord",
-        "package": "network-dbus",
-        "partial": "Value",
-        "signature": "Endianness-\u003eWord"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:mBody",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.DBus.Message",
-        "fct-package": "network-dbus",
-        "fct-signature": "[Variant]",
-        "fct-source": "src/Network-DBus-Message.html#Message",
-        "fct-type": "function",
-        "title": "mBody"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Message",
-        "module": "Network.DBus.Message",
-        "name": "mBody",
-        "normalized": "[Variant]",
-        "package": "network-dbus",
-        "partial": "Body",
-        "signature": "[Variant]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:mDestination",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.DBus.Message",
-        "fct-package": "network-dbus",
-        "fct-signature": "Maybe DString",
-        "fct-source": "src/Network-DBus-Message.html#Message",
-        "fct-type": "function",
-        "title": "mDestination"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Message",
-        "module": "Network.DBus.Message",
-        "name": "mDestination",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Destination",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:mErrorName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.DBus.Message",
-        "fct-package": "network-dbus",
-        "fct-signature": "Maybe DString",
-        "fct-source": "src/Network-DBus-Message.html#Message",
-        "fct-type": "function",
-        "title": "mErrorName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Message",
-        "module": "Network.DBus.Message",
-        "name": "mErrorName",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Error Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:mFlags",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.DBus.Message",
-        "fct-package": "network-dbus",
-        "fct-signature": "[Flag]",
-        "fct-source": "src/Network-DBus-Message.html#Message",
-        "fct-type": "function",
-        "title": "mFlags"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Message",
-        "module": "Network.DBus.Message",
-        "name": "mFlags",
-        "normalized": "[Flag]",
-        "package": "network-dbus",
-        "partial": "Flags",
-        "signature": "[Flag]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:mInterface",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.DBus.Message",
-        "fct-package": "network-dbus",
-        "fct-signature": "Maybe DString",
-        "fct-source": "src/Network-DBus-Message.html#Message",
-        "fct-type": "function",
-        "title": "mInterface"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Message",
-        "module": "Network.DBus.Message",
-        "name": "mInterface",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Interface",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:mMember",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.DBus.Message",
-        "fct-package": "network-dbus",
-        "fct-signature": "Maybe DString",
-        "fct-source": "src/Network-DBus-Message.html#Message",
-        "fct-type": "function",
-        "title": "mMember"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Message",
-        "module": "Network.DBus.Message",
-        "name": "mMember",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Member",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:mPath",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.DBus.Message",
-        "fct-package": "network-dbus",
-        "fct-signature": "Maybe ObjectPath",
-        "fct-source": "src/Network-DBus-Message.html#Message",
-        "fct-type": "function",
-        "title": "mPath"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Message",
-        "module": "Network.DBus.Message",
-        "name": "mPath",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Path",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:mReplySerial",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.DBus.Message",
-        "fct-package": "network-dbus",
-        "fct-signature": "Maybe Word32",
-        "fct-source": "src/Network-DBus-Message.html#Message",
-        "fct-type": "function",
-        "title": "mReplySerial"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Message",
-        "module": "Network.DBus.Message",
-        "name": "mReplySerial",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Reply Serial",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:mSender",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.DBus.Message",
-        "fct-package": "network-dbus",
-        "fct-signature": "Maybe DString",
-        "fct-source": "src/Network-DBus-Message.html#Message",
-        "fct-type": "function",
-        "title": "mSender"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Message",
-        "module": "Network.DBus.Message",
-        "name": "mSender",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Sender",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:mSerial",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.DBus.Message",
-        "fct-package": "network-dbus",
-        "fct-signature": "Word32",
-        "fct-source": "src/Network-DBus-Message.html#Message",
-        "fct-type": "function",
-        "title": "mSerial"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Message",
-        "module": "Network.DBus.Message",
-        "name": "mSerial",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Serial",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:mType",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.DBus.Message",
-        "fct-package": "network-dbus",
-        "fct-signature": "MessageType",
-        "fct-source": "src/Network-DBus-Message.html#Message",
-        "fct-type": "function",
-        "title": "mType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Message",
-        "module": "Network.DBus.Message",
-        "name": "mType",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:methodCall",
-      "description": {
-        "fct-module": "Network.DBus.Message",
-        "fct-package": "network-dbus",
-        "fct-signature": "DString -\u003e DString -\u003e DString -\u003e ObjectPath -\u003e [Variant] -\u003e Message",
-        "fct-source": "src/Network-DBus-Message.html#methodCall",
-        "fct-type": "function",
-        "title": "methodCall"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Message",
-        "module": "Network.DBus.Message",
-        "name": "methodCall",
-        "normalized": "DString-\u003eDString-\u003eDString-\u003eObjectPath-\u003e[Variant]-\u003eMessage",
-        "package": "network-dbus",
-        "partial": "Call",
-        "signature": "DString-\u003eDString-\u003eDString-\u003eObjectPath-\u003e[Variant]-\u003eMessage"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:readMessage",
-      "description": {
-        "fct-module": "Network.DBus.Message",
-        "fct-package": "network-dbus",
-        "fct-signature": "Handle -\u003e IO Message",
-        "fct-source": "src/Network-DBus-Message.html#readMessage",
-        "fct-type": "function",
-        "title": "readMessage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Message",
-        "module": "Network.DBus.Message",
-        "name": "readMessage",
-        "normalized": "Handle-\u003eIO Message",
-        "package": "network-dbus",
-        "partial": "Message",
-        "signature": "Handle-\u003eIO Message"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:serializeMessage",
-      "description": {
-        "fct-module": "Network.DBus.Message",
-        "fct-package": "network-dbus",
-        "fct-signature": "Message -\u003e ByteString",
-        "fct-source": "src/Network-DBus-Message.html#serializeMessage",
-        "fct-type": "function",
-        "title": "serializeMessage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Message",
-        "module": "Network.DBus.Message",
-        "name": "serializeMessage",
-        "normalized": "Message-\u003eByteString",
-        "package": "network-dbus",
-        "partial": "Message",
-        "signature": "Message-\u003eByteString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:writeMessage",
-      "description": {
-        "fct-module": "Network.DBus.Message",
-        "fct-package": "network-dbus",
-        "fct-signature": "Handle -\u003e Message -\u003e IO ()",
-        "fct-source": "src/Network-DBus-Message.html#writeMessage",
-        "fct-type": "function",
-        "title": "writeMessage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Message",
-        "module": "Network.DBus.Message",
-        "name": "writeMessage",
-        "normalized": "Handle-\u003eMessage-\u003eIO()",
-        "package": "network-dbus",
-        "partial": "Message",
-        "signature": "Handle-\u003eMessage-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#",
-      "description": {
-        "fct-module": "Network.DBus.Type",
-        "fct-package": "network-dbus",
-        "fct-signature": "module",
-        "fct-source": "src/Network-DBus-Type.html",
-        "fct-type": "module",
-        "title": "Type"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Type",
-        "module": "Network.DBus.Type",
-        "name": "Type",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#t:DBasicType",
-      "description": {
-        "fct-module": "Network.DBus.Type",
-        "fct-package": "network-dbus",
-        "fct-signature": "data",
-        "fct-source": "src/Network-DBus-Type.html#DBasicType",
-        "fct-type": "data",
-        "title": "DBasicType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Type",
-        "module": "Network.DBus.Type",
-        "name": "DBasicType",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "DBasic Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#t:DType",
-      "description": {
-        "fct-module": "Network.DBus.Type",
-        "fct-package": "network-dbus",
-        "fct-signature": "data",
-        "fct-source": "src/Network-DBus-Type.html#DType",
-        "fct-type": "data",
-        "title": "DType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Type",
-        "module": "Network.DBus.Type",
-        "name": "DType",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "DType",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#t:Signature",
-      "description": {
-        "fct-module": "Network.DBus.Type",
-        "fct-package": "network-dbus",
-        "fct-signature": "newtype",
-        "fct-source": "src/Network-DBus-Type.html#Signature",
-        "fct-type": "newtype",
-        "title": "Signature"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Type",
-        "module": "Network.DBus.Type",
-        "name": "Signature",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Signature",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DBasicType",
-      "description": {
-        "fct-module": "Network.DBus.Type",
-        "fct-package": "network-dbus",
-        "fct-signature": "DBasicType DBasicType",
-        "fct-source": "src/Network-DBus-Type.html#DType",
-        "fct-type": "function",
-        "title": "DBasicType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Type",
-        "module": "Network.DBus.Type",
-        "name": "DBasicType",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "DBasic Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeArray",
-      "description": {
-        "fct-module": "Network.DBus.Type",
-        "fct-package": "network-dbus",
-        "fct-signature": "DTypeArray DType",
-        "fct-source": "src/Network-DBus-Type.html#DType",
-        "fct-type": "function",
-        "title": "DTypeArray"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Type",
-        "module": "Network.DBus.Type",
-        "name": "DTypeArray",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "DType Array",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeBoolean",
-      "description": {
-        "fct-module": "Network.DBus.Type",
-        "fct-package": "network-dbus",
-        "fct-signature": "DTypeBoolean",
-        "fct-source": "src/Network-DBus-Type.html#DBasicType",
-        "fct-type": "function",
-        "title": "DTypeBoolean"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Type",
-        "module": "Network.DBus.Type",
-        "name": "DTypeBoolean",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "DType Boolean",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeByte",
-      "description": {
-        "fct-module": "Network.DBus.Type",
-        "fct-package": "network-dbus",
-        "fct-signature": "DTypeByte",
-        "fct-source": "src/Network-DBus-Type.html#DBasicType",
-        "fct-type": "function",
-        "title": "DTypeByte"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Type",
-        "module": "Network.DBus.Type",
-        "name": "DTypeByte",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "DType Byte",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeDictEntry",
-      "description": {
-        "fct-module": "Network.DBus.Type",
-        "fct-package": "network-dbus",
-        "fct-signature": "DTypeDictEntry DBasicType DType",
-        "fct-source": "src/Network-DBus-Type.html#DType",
-        "fct-type": "function",
-        "title": "DTypeDictEntry"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Type",
-        "module": "Network.DBus.Type",
-        "name": "DTypeDictEntry",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "DType Dict Entry",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeDouble",
-      "description": {
-        "fct-module": "Network.DBus.Type",
-        "fct-package": "network-dbus",
-        "fct-signature": "DTypeDouble",
-        "fct-source": "src/Network-DBus-Type.html#DBasicType",
-        "fct-type": "function",
-        "title": "DTypeDouble"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Type",
-        "module": "Network.DBus.Type",
-        "name": "DTypeDouble",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "DType Double",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeInt16",
-      "description": {
-        "fct-module": "Network.DBus.Type",
-        "fct-package": "network-dbus",
-        "fct-signature": "DTypeInt16",
-        "fct-source": "src/Network-DBus-Type.html#DBasicType",
-        "fct-type": "function",
-        "title": "DTypeInt16"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Type",
-        "module": "Network.DBus.Type",
-        "name": "DTypeInt16",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "DType Int",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeInt32",
-      "description": {
-        "fct-module": "Network.DBus.Type",
-        "fct-package": "network-dbus",
-        "fct-signature": "DTypeInt32",
-        "fct-source": "src/Network-DBus-Type.html#DBasicType",
-        "fct-type": "function",
-        "title": "DTypeInt32"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Type",
-        "module": "Network.DBus.Type",
-        "name": "DTypeInt32",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "DType Int",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeInt64",
-      "description": {
-        "fct-module": "Network.DBus.Type",
-        "fct-package": "network-dbus",
-        "fct-signature": "DTypeInt64",
-        "fct-source": "src/Network-DBus-Type.html#DBasicType",
-        "fct-type": "function",
-        "title": "DTypeInt64"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Type",
-        "module": "Network.DBus.Type",
-        "name": "DTypeInt64",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "DType Int",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeObjectPath",
-      "description": {
-        "fct-module": "Network.DBus.Type",
-        "fct-package": "network-dbus",
-        "fct-signature": "DTypeObjectPath",
-        "fct-source": "src/Network-DBus-Type.html#DBasicType",
-        "fct-type": "function",
-        "title": "DTypeObjectPath"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Type",
-        "module": "Network.DBus.Type",
-        "name": "DTypeObjectPath",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "DType Object Path",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeSignature",
-      "description": {
-        "fct-module": "Network.DBus.Type",
-        "fct-package": "network-dbus",
-        "fct-signature": "DTypeSignature",
-        "fct-source": "src/Network-DBus-Type.html#DBasicType",
-        "fct-type": "function",
-        "title": "DTypeSignature"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Type",
-        "module": "Network.DBus.Type",
-        "name": "DTypeSignature",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "DType Signature",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeString",
-      "description": {
-        "fct-module": "Network.DBus.Type",
-        "fct-package": "network-dbus",
-        "fct-signature": "DTypeString",
-        "fct-source": "src/Network-DBus-Type.html#DBasicType",
-        "fct-type": "function",
-        "title": "DTypeString"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Type",
-        "module": "Network.DBus.Type",
-        "name": "DTypeString",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "DType String",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeStruct",
-      "description": {
-        "fct-module": "Network.DBus.Type",
-        "fct-package": "network-dbus",
-        "fct-signature": "DTypeStruct DType [DType]",
-        "fct-source": "src/Network-DBus-Type.html#DType",
-        "fct-type": "function",
-        "title": "DTypeStruct"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Type",
-        "module": "Network.DBus.Type",
-        "name": "DTypeStruct",
-        "normalized": "DTypeStruct DType[DType]",
-        "package": "network-dbus",
-        "partial": "DType Struct",
-        "signature": "DTypeStruct DType[DType]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeUInt16",
-      "description": {
-        "fct-module": "Network.DBus.Type",
-        "fct-package": "network-dbus",
-        "fct-signature": "DTypeUInt16",
-        "fct-source": "src/Network-DBus-Type.html#DBasicType",
-        "fct-type": "function",
-        "title": "DTypeUInt16"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Type",
-        "module": "Network.DBus.Type",
-        "name": "DTypeUInt16",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "DType UInt",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeUInt32",
-      "description": {
-        "fct-module": "Network.DBus.Type",
-        "fct-package": "network-dbus",
-        "fct-signature": "DTypeUInt32",
-        "fct-source": "src/Network-DBus-Type.html#DBasicType",
-        "fct-type": "function",
-        "title": "DTypeUInt32"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Type",
-        "module": "Network.DBus.Type",
-        "name": "DTypeUInt32",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "DType UInt",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeUInt64",
-      "description": {
-        "fct-module": "Network.DBus.Type",
-        "fct-package": "network-dbus",
-        "fct-signature": "DTypeUInt64",
-        "fct-source": "src/Network-DBus-Type.html#DBasicType",
-        "fct-type": "function",
-        "title": "DTypeUInt64"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Type",
-        "module": "Network.DBus.Type",
-        "name": "DTypeUInt64",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "DType UInt",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeVariant",
-      "description": {
-        "fct-module": "Network.DBus.Type",
-        "fct-package": "network-dbus",
-        "fct-signature": "DTypeVariant",
-        "fct-source": "src/Network-DBus-Type.html#DType",
-        "fct-type": "function",
-        "title": "DTypeVariant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Type",
-        "module": "Network.DBus.Type",
-        "name": "DTypeVariant",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "DType Variant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:Signature",
-      "description": {
-        "fct-module": "Network.DBus.Type",
-        "fct-package": "network-dbus",
-        "fct-signature": "Signature [DType]",
-        "fct-source": "src/Network-DBus-Type.html#Signature",
-        "fct-type": "function",
-        "title": "Signature"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Type",
-        "module": "Network.DBus.Type",
-        "name": "Signature",
-        "normalized": "Signature[DType]",
-        "package": "network-dbus",
-        "partial": "Signature",
-        "signature": "Signature[DType]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:hasExcessiveNesting",
-      "description": {
-        "fct-module": "Network.DBus.Type",
-        "fct-package": "network-dbus",
-        "fct-signature": "DType -\u003e Bool",
-        "fct-source": "src/Network-DBus-Type.html#hasExcessiveNesting",
-        "fct-type": "function",
-        "title": "hasExcessiveNesting"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Type",
-        "module": "Network.DBus.Type",
-        "name": "hasExcessiveNesting",
-        "normalized": "DType-\u003eBool",
-        "package": "network-dbus",
-        "partial": "Excessive Nesting",
-        "signature": "DType-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:prettyType",
-      "description": {
-        "fct-module": "Network.DBus.Type",
-        "fct-package": "network-dbus",
-        "fct-signature": "t -\u003e String",
-        "fct-source": "src/Network-DBus-Type.html#prettyType",
-        "fct-type": "function",
-        "title": "prettyType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Type",
-        "module": "Network.DBus.Type",
-        "name": "prettyType",
-        "normalized": "a-\u003eString",
-        "package": "network-dbus",
-        "partial": "Type",
-        "signature": "t-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#",
-      "description": {
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "module",
-        "fct-source": "src/Network-DBus-Value.html",
-        "fct-type": "module",
-        "title": "Value"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "Value",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Value",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#t:Bytes",
-      "description": {
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "type",
-        "fct-source": "src/Network-DBus-Value.html#Bytes",
-        "fct-type": "type",
-        "title": "Bytes"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "Bytes",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Bytes",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#t:DBasicTypedValue",
-      "description": {
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "class",
-        "fct-source": "src/Network-DBus-Value.html#DBasicTypedValue",
-        "fct-type": "class",
-        "title": "DBasicTypedValue"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "DBasicTypedValue",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "DBasic Typed Value",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#t:DString",
-      "description": {
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "data",
-        "fct-source": "src/Network-DBus-Value.html#DString",
-        "fct-type": "data",
-        "title": "DString"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "DString",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "DString",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#t:DValue",
-      "description": {
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "class",
-        "fct-source": "src/Network-DBus-Value.html#DValue",
-        "fct-type": "class",
-        "title": "DValue"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "DValue",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "DValue",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#t:Deserializer",
-      "description": {
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "type",
-        "fct-source": "src/Network-DBus-Value.html#Deserializer",
-        "fct-type": "type",
-        "title": "Deserializer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "Deserializer",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Deserializer",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#t:Endianness",
-      "description": {
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "data",
-        "fct-source": "src/Network-DBus-Value.html#Endianness",
-        "fct-type": "data",
-        "title": "Endianness"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "Endianness",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Endianness",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#t:ObjectPath",
-      "description": {
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "data",
-        "fct-source": "src/Network-DBus-Value.html#ObjectPath",
-        "fct-type": "data",
-        "title": "ObjectPath"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "ObjectPath",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Object Path",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#t:Serializer",
-      "description": {
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "type",
-        "fct-source": "src/Network-DBus-Value.html#Serializer",
-        "fct-type": "type",
-        "title": "Serializer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "Serializer",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Serializer",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#t:Variant",
-      "description": {
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "data",
-        "fct-source": "src/Network-DBus-Value.html#Variant",
-        "fct-type": "data",
-        "title": "Variant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "Variant",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Variant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:BigEndian",
-      "description": {
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "BigEndian",
-        "fct-source": "src/Network-DBus-Value.html#Endianness",
-        "fct-type": "function",
-        "title": "BigEndian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "BigEndian",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Big Endian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:LittleEndian",
-      "description": {
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "LittleEndian",
-        "fct-source": "src/Network-DBus-Value.html#Endianness",
-        "fct-type": "function",
-        "title": "LittleEndian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "LittleEndian",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Little Endian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:Variant",
-      "description": {
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "Variant",
-        "fct-source": "src/Network-DBus-Value.html#Variant",
-        "fct-type": "function",
-        "title": "Variant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "Variant",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Variant",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:advanceBy",
-      "description": {
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "Bytes -\u003e Serializer",
-        "fct-source": "src/Network-DBus-Value.html#advanceBy",
-        "fct-type": "function",
-        "title": "advanceBy"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "advanceBy",
-        "normalized": "Bytes-\u003eSerializer",
-        "package": "network-dbus",
-        "partial": "By",
-        "signature": "Bytes-\u003eSerializer"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:alignment",
-      "description": {
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "a -\u003e Bytes",
-        "fct-source": "src/Network-DBus-Value.html#alignment",
-        "fct-type": "method",
-        "title": "alignment"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "alignment",
-        "normalized": "a-\u003eBytes",
-        "package": "network-dbus",
-        "partial": "",
-        "signature": "a-\u003eBytes"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:dbasictype",
-      "description": {
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "a -\u003e DBasicType",
-        "fct-source": "src/Network-DBus-Value.html#dbasictype",
-        "fct-type": "method",
-        "title": "dbasictype"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "dbasictype",
-        "normalized": "a-\u003eDBasicType",
-        "package": "network-dbus",
-        "partial": "",
-        "signature": "a-\u003eDBasicType"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:deserializeAs",
-      "description": {
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "Signature -\u003e Deserializer [Variant]",
-        "fct-source": "src/Network-DBus-Value.html#deserializeAs",
-        "fct-type": "function",
-        "title": "deserializeAs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "deserializeAs",
-        "normalized": "Signature-\u003eDeserializer[Variant]",
-        "package": "network-dbus",
-        "partial": "As",
-        "signature": "Signature-\u003eDeserializer[Variant]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:deserializer",
-      "description": {
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "Deserializer a",
-        "fct-source": "src/Network-DBus-Value.html#deserializer",
-        "fct-type": "method",
-        "title": "deserializer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "deserializer",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:dtype",
-      "description": {
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "a -\u003e DType",
-        "fct-source": "src/Network-DBus-Value.html#dtype",
-        "fct-type": "method",
-        "title": "dtype"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "dtype",
-        "normalized": "a-\u003eDType",
-        "package": "network-dbus",
-        "partial": "",
-        "signature": "a-\u003eDType"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:fromVariant",
-      "description": {
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "Variant -\u003e Maybe a",
-        "fct-source": "src/Network-DBus-Value.html#fromVariant",
-        "fct-type": "function",
-        "title": "fromVariant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "fromVariant",
-        "normalized": "Variant-\u003eMaybe a",
-        "package": "network-dbus",
-        "partial": "Variant",
-        "signature": "Variant-\u003eMaybe a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:getPath",
-      "description": {
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "ObjectPath -\u003e String",
-        "fct-source": "src/Network-DBus-Value.html#getPath",
-        "fct-type": "function",
-        "title": "getPath"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "getPath",
-        "normalized": "ObjectPath-\u003eString",
-        "package": "network-dbus",
-        "partial": "Path",
-        "signature": "ObjectPath-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:getString",
-      "description": {
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "DString -\u003e String",
-        "fct-source": "src/Network-DBus-Value.html#getString",
-        "fct-type": "function",
-        "title": "getString"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "getString",
-        "normalized": "DString-\u003eString",
-        "package": "network-dbus",
-        "partial": "String",
-        "signature": "DString-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:mkDString",
-      "description": {
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "String -\u003e m DString",
-        "fct-source": "src/Network-DBus-Value.html#mkDString",
-        "fct-type": "function",
-        "title": "mkDString"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "mkDString",
-        "normalized": "String-\u003ea DString",
-        "package": "network-dbus",
-        "partial": "DString",
-        "signature": "String-\u003em DString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:mkDString0",
-      "description": {
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "String -\u003e DString",
-        "fct-source": "src/Network-DBus-Value.html#mkDString0",
-        "fct-type": "function",
-        "title": "mkDString0"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "mkDString0",
-        "normalized": "String-\u003eDString",
-        "package": "network-dbus",
-        "partial": "DString",
-        "signature": "String-\u003eDString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:mkObjectPath",
-      "description": {
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "String -\u003e m ObjectPath",
-        "fct-source": "src/Network-DBus-Value.html#mkObjectPath",
-        "fct-type": "function",
-        "title": "mkObjectPath"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "mkObjectPath",
-        "normalized": "String-\u003ea ObjectPath",
-        "package": "network-dbus",
-        "partial": "Object Path",
-        "signature": "String-\u003em ObjectPath"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:padTo",
-      "description": {
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "Bytes -\u003e Serializer",
-        "fct-source": "src/Network-DBus-Value.html#padTo",
-        "fct-type": "function",
-        "title": "padTo"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "padTo",
-        "normalized": "Bytes-\u003eSerializer",
-        "package": "network-dbus",
-        "partial": "To",
-        "signature": "Bytes-\u003eSerializer"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:runDeserializer",
-      "description": {
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "Endianness -\u003e Deserializer a -\u003e ByteString -\u003e a",
-        "fct-source": "src/Network-DBus-Value.html#runDeserializer",
-        "fct-type": "function",
-        "title": "runDeserializer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "runDeserializer",
-        "normalized": "Endianness-\u003eDeserializer a-\u003eByteString-\u003ea",
-        "package": "network-dbus",
-        "partial": "Deserializer",
-        "signature": "Endianness-\u003eDeserializer a-\u003eByteString-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:runSerializer",
-      "description": {
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "Endianness -\u003e Serializer -\u003e ByteString",
-        "fct-source": "src/Network-DBus-Value.html#runSerializer",
-        "fct-type": "function",
-        "title": "runSerializer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "runSerializer",
-        "normalized": "Endianness-\u003eSerializer-\u003eByteString",
-        "package": "network-dbus",
-        "partial": "Serializer",
-        "signature": "Endianness-\u003eSerializer-\u003eByteString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:serializer",
-      "description": {
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "a -\u003e Serializer",
-        "fct-source": "src/Network-DBus-Value.html#serializer",
-        "fct-type": "method",
-        "title": "serializer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "serializer",
-        "normalized": "a-\u003eSerializer",
-        "package": "network-dbus",
-        "partial": "",
-        "signature": "a-\u003eSerializer"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:skipTo",
-      "description": {
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "Bytes -\u003e Deserializer ()",
-        "fct-source": "src/Network-DBus-Value.html#skipTo",
-        "fct-type": "function",
-        "title": "skipTo"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "skipTo",
-        "normalized": "Bytes-\u003eDeserializer()",
-        "package": "network-dbus",
-        "partial": "To",
-        "signature": "Bytes-\u003eDeserializer()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:unVariant",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.DBus.Value",
-        "fct-package": "network-dbus",
-        "fct-signature": "v",
-        "fct-source": "src/Network-DBus-Value.html#Variant",
-        "fct-type": "function",
-        "title": "unVariant"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network DBus Value",
-        "module": "Network.DBus.Value",
-        "name": "unVariant",
-        "normalized": "",
-        "package": "network-dbus",
-        "partial": "Variant",
-        "signature": ""
-      }
-    }
-  }
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "network-dbus"
+      },
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Connection",
+          "name": "Connection",
+          "package": "network-dbus",
+          "source": "src/Network-DBus-Connection.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Network DBus Connection",
+          "module": "Network.DBus.Connection",
+          "name": "Connection",
+          "package": "network-dbus",
+          "partial": "Connection",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Connection",
+          "name": "Connection",
+          "package": "network-dbus",
+          "source": "src/Network-DBus-Connection.html#Connection",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Network DBus Connection",
+          "module": "Network.DBus.Connection",
+          "name": "Connection",
+          "package": "network-dbus",
+          "partial": "Connection",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#t:Connection"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Connection",
+          "name": "ConnectionAddress",
+          "package": "network-dbus",
+          "source": "src/Network-DBus-Connection.html#ConnectionAddress",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Network DBus Connection",
+          "module": "Network.DBus.Connection",
+          "name": "ConnectionAddress",
+          "package": "network-dbus",
+          "partial": "Connection Address",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#t:ConnectionAddress"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Connection",
+          "name": "Handler",
+          "package": "network-dbus",
+          "source": "src/Network-DBus-Connection.html#Handler",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Network DBus Connection",
+          "module": "Network.DBus.Connection",
+          "name": "Handler",
+          "package": "network-dbus",
+          "partial": "Handler",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#t:Handler"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Connection",
+          "name": "MatchClause",
+          "package": "network-dbus",
+          "source": "src/Network-DBus-Connection.html#MatchClause",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Network DBus Connection",
+          "module": "Network.DBus.Connection",
+          "name": "MatchClause",
+          "package": "network-dbus",
+          "partial": "Match Clause",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#t:MatchClause"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Connection",
+          "name": "MatchRule",
+          "package": "network-dbus",
+          "source": "src/Network-DBus-Connection.html#MatchRule",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Network DBus Connection",
+          "module": "Network.DBus.Connection",
+          "name": "MatchRule",
+          "package": "network-dbus",
+          "partial": "Match Rule",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#t:MatchRule"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Connection",
+          "name": "MatchArg",
+          "package": "network-dbus",
+          "signature": "MatchArg Int DString",
+          "source": "src/Network-DBus-Connection.html#MatchClause",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Connection",
+          "module": "Network.DBus.Connection",
+          "name": "MatchArg",
+          "package": "network-dbus",
+          "partial": "Match Arg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:MatchArg"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Connection",
+          "name": "MatchDestination",
+          "package": "network-dbus",
+          "signature": "MatchDestination DString",
+          "source": "src/Network-DBus-Connection.html#MatchClause",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Connection",
+          "module": "Network.DBus.Connection",
+          "name": "MatchDestination",
+          "package": "network-dbus",
+          "partial": "Match Destination",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:MatchDestination"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Connection",
+          "name": "MatchInterface",
+          "package": "network-dbus",
+          "signature": "MatchInterface DString",
+          "source": "src/Network-DBus-Connection.html#MatchClause",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Connection",
+          "module": "Network.DBus.Connection",
+          "name": "MatchInterface",
+          "package": "network-dbus",
+          "partial": "Match Interface",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:MatchInterface"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Connection",
+          "name": "MatchMember",
+          "package": "network-dbus",
+          "signature": "MatchMember DString",
+          "source": "src/Network-DBus-Connection.html#MatchClause",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Connection",
+          "module": "Network.DBus.Connection",
+          "name": "MatchMember",
+          "package": "network-dbus",
+          "partial": "Match Member",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:MatchMember"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Connection",
+          "name": "MatchPath",
+          "package": "network-dbus",
+          "signature": "MatchPath ObjectPath",
+          "source": "src/Network-DBus-Connection.html#MatchClause",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Connection",
+          "module": "Network.DBus.Connection",
+          "name": "MatchPath",
+          "package": "network-dbus",
+          "partial": "Match Path",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:MatchPath"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Connection",
+          "name": "MatchSender",
+          "package": "network-dbus",
+          "signature": "MatchSender DString",
+          "source": "src/Network-DBus-Connection.html#MatchClause",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Connection",
+          "module": "Network.DBus.Connection",
+          "name": "MatchSender",
+          "package": "network-dbus",
+          "partial": "Match Sender",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:MatchSender"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Connection",
+          "name": "MatchType",
+          "package": "network-dbus",
+          "signature": "MatchType MessageType",
+          "source": "src/Network-DBus-Connection.html#MatchClause",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Connection",
+          "module": "Network.DBus.Connection",
+          "name": "MatchType",
+          "package": "network-dbus",
+          "partial": "Match Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:MatchType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Connection",
+          "name": "Unix",
+          "package": "network-dbus",
+          "signature": "Unix",
+          "source": "src/Network-DBus-Connection.html#ConnectionAddress",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Connection",
+          "module": "Network.DBus.Connection",
+          "name": "Unix",
+          "package": "network-dbus",
+          "partial": "Unix",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:Unix"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Connection",
+          "name": "UnixAbstract",
+          "package": "network-dbus",
+          "signature": "UnixAbstract",
+          "source": "src/Network-DBus-Connection.html#ConnectionAddress",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Connection",
+          "module": "Network.DBus.Connection",
+          "name": "UnixAbstract",
+          "package": "network-dbus",
+          "partial": "Unix Abstract",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:UnixAbstract"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Connection",
+          "name": "addHandler",
+          "package": "network-dbus",
+          "signature": "Connection -\u003e Maybe MatchRule -\u003e Handler -\u003e IO Int",
+          "source": "src/Network-DBus-Connection.html#addHandler",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Connection",
+          "module": "Network.DBus.Connection",
+          "name": "addHandler",
+          "normalized": "Connection-\u003eMaybe MatchRule-\u003eHandler-\u003eIO Int",
+          "package": "network-dbus",
+          "partial": "Handler",
+          "signature": "Connection-\u003eMaybe MatchRule-\u003eHandler-\u003eIO Int",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:addHandler"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Connection",
+          "name": "addrGuid",
+          "package": "network-dbus",
+          "signature": "Maybe String",
+          "source": "src/Network-DBus-Connection.html#ConnectionAddress",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Connection",
+          "module": "Network.DBus.Connection",
+          "name": "addrGuid",
+          "package": "network-dbus",
+          "partial": "Guid",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:addrGuid"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Connection",
+          "name": "addrPath",
+          "package": "network-dbus",
+          "signature": "String",
+          "source": "src/Network-DBus-Connection.html#ConnectionAddress",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Connection",
+          "module": "Network.DBus.Connection",
+          "name": "addrPath",
+          "package": "network-dbus",
+          "partial": "Path",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:addrPath"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Connection",
+          "name": "connectToBus",
+          "package": "network-dbus",
+          "signature": "ConnectionAddress -\u003e IO Connection",
+          "source": "src/Network-DBus-Connection.html#connectToBus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Connection",
+          "module": "Network.DBus.Connection",
+          "name": "connectToBus",
+          "normalized": "ConnectionAddress-\u003eIO Connection",
+          "package": "network-dbus",
+          "partial": "To Bus",
+          "signature": "ConnectionAddress-\u003eIO Connection",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:connectToBus"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Connection",
+          "name": "getSessionBusAddress",
+          "package": "network-dbus",
+          "signature": "IO (Maybe ConnectionAddress)",
+          "source": "src/Network-DBus-Connection.html#getSessionBusAddress",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Connection",
+          "module": "Network.DBus.Connection",
+          "name": "getSessionBusAddress",
+          "package": "network-dbus",
+          "partial": "Session Bus Address",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:getSessionBusAddress"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Connection",
+          "name": "getSystemBusAddress",
+          "package": "network-dbus",
+          "signature": "IO (Maybe ConnectionAddress)",
+          "source": "src/Network-DBus-Connection.html#getSystemBusAddress",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Connection",
+          "module": "Network.DBus.Connection",
+          "name": "getSystemBusAddress",
+          "package": "network-dbus",
+          "partial": "System Bus Address",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:getSystemBusAddress"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Connection",
+          "name": "parseAddress",
+          "package": "network-dbus",
+          "signature": "String -\u003e Maybe ConnectionAddress",
+          "source": "src/Network-DBus-Connection.html#parseAddress",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Connection",
+          "module": "Network.DBus.Connection",
+          "name": "parseAddress",
+          "normalized": "String-\u003eMaybe ConnectionAddress",
+          "package": "network-dbus",
+          "partial": "Address",
+          "signature": "String-\u003eMaybe ConnectionAddress",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:parseAddress"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Connection",
+          "name": "removeHandler",
+          "package": "network-dbus",
+          "signature": "Connection -\u003e Int -\u003e IO ()",
+          "source": "src/Network-DBus-Connection.html#removeHandler",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Connection",
+          "module": "Network.DBus.Connection",
+          "name": "removeHandler",
+          "normalized": "Connection-\u003eInt-\u003eIO()",
+          "package": "network-dbus",
+          "partial": "Handler",
+          "signature": "Connection-\u003eInt-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:removeHandler"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Connection",
+          "name": "sendAndWait",
+          "package": "network-dbus",
+          "signature": "Connection -\u003e Message -\u003e IO Message",
+          "source": "src/Network-DBus-Connection.html#sendAndWait",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Connection",
+          "module": "Network.DBus.Connection",
+          "name": "sendAndWait",
+          "normalized": "Connection-\u003eMessage-\u003eIO Message",
+          "package": "network-dbus",
+          "partial": "And Wait",
+          "signature": "Connection-\u003eMessage-\u003eIO Message",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:sendAndWait"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Connection",
+          "name": "sendMessage",
+          "package": "network-dbus",
+          "signature": "Connection -\u003e Message -\u003e IO Word32",
+          "source": "src/Network-DBus-Connection.html#sendMessage",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Connection",
+          "module": "Network.DBus.Connection",
+          "name": "sendMessage",
+          "normalized": "Connection-\u003eMessage-\u003eIO Word",
+          "package": "network-dbus",
+          "partial": "Message",
+          "signature": "Connection-\u003eMessage-\u003eIO Word",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:sendMessage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Connection",
+          "name": "uniqueName",
+          "package": "network-dbus",
+          "signature": "Connection -\u003e DString",
+          "source": "src/Network-DBus-Connection.html#uniqueName",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Connection",
+          "module": "Network.DBus.Connection",
+          "name": "uniqueName",
+          "normalized": "Connection-\u003eDString",
+          "package": "network-dbus",
+          "partial": "Name",
+          "signature": "Connection-\u003eDString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Connection.html#v:uniqueName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Message",
+          "name": "Message",
+          "package": "network-dbus",
+          "source": "src/Network-DBus-Message.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Network DBus Message",
+          "module": "Network.DBus.Message",
+          "name": "Message",
+          "package": "network-dbus",
+          "partial": "Message",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Message",
+          "name": "Flag",
+          "package": "network-dbus",
+          "source": "src/Network-DBus-Message.html#Flag",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Network DBus Message",
+          "module": "Network.DBus.Message",
+          "name": "Flag",
+          "package": "network-dbus",
+          "partial": "Flag",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#t:Flag"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Message",
+          "name": "Message",
+          "package": "network-dbus",
+          "source": "src/Network-DBus-Message.html#Message",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Network DBus Message",
+          "module": "Network.DBus.Message",
+          "name": "Message",
+          "package": "network-dbus",
+          "partial": "Message",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#t:Message"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Message",
+          "name": "MessageType",
+          "package": "network-dbus",
+          "source": "src/Network-DBus-Message.html#MessageType",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Network DBus Message",
+          "module": "Network.DBus.Message",
+          "name": "MessageType",
+          "package": "network-dbus",
+          "partial": "Message Type",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#t:MessageType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Message",
+          "name": "Error",
+          "package": "network-dbus",
+          "signature": "Error",
+          "source": "src/Network-DBus-Message.html#MessageType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Message",
+          "module": "Network.DBus.Message",
+          "name": "Error",
+          "package": "network-dbus",
+          "partial": "Error",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:Error"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Message",
+          "name": "Message",
+          "package": "network-dbus",
+          "signature": "Message",
+          "source": "src/Network-DBus-Message.html#Message",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Message",
+          "module": "Network.DBus.Message",
+          "name": "Message",
+          "package": "network-dbus",
+          "partial": "Message",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:Message"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Message",
+          "name": "MethodCall",
+          "package": "network-dbus",
+          "signature": "MethodCall",
+          "source": "src/Network-DBus-Message.html#MessageType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Message",
+          "module": "Network.DBus.Message",
+          "name": "MethodCall",
+          "package": "network-dbus",
+          "partial": "Method Call",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:MethodCall"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Message",
+          "name": "MethodReturn",
+          "package": "network-dbus",
+          "signature": "MethodReturn",
+          "source": "src/Network-DBus-Message.html#MessageType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Message",
+          "module": "Network.DBus.Message",
+          "name": "MethodReturn",
+          "package": "network-dbus",
+          "partial": "Method Return",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:MethodReturn"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Message",
+          "name": "NoAutoStart",
+          "package": "network-dbus",
+          "signature": "NoAutoStart",
+          "source": "src/Network-DBus-Message.html#Flag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Message",
+          "module": "Network.DBus.Message",
+          "name": "NoAutoStart",
+          "package": "network-dbus",
+          "partial": "No Auto Start",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:NoAutoStart"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Message",
+          "name": "NoReplyExpected",
+          "package": "network-dbus",
+          "signature": "NoReplyExpected",
+          "source": "src/Network-DBus-Message.html#Flag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Message",
+          "module": "Network.DBus.Message",
+          "name": "NoReplyExpected",
+          "package": "network-dbus",
+          "partial": "No Reply Expected",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:NoReplyExpected"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Message",
+          "name": "Signal",
+          "package": "network-dbus",
+          "signature": "Signal",
+          "source": "src/Network-DBus-Message.html#MessageType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Message",
+          "module": "Network.DBus.Message",
+          "name": "Signal",
+          "package": "network-dbus",
+          "partial": "Signal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:Signal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Message",
+          "name": "dbusProtocolVersion",
+          "package": "network-dbus",
+          "signature": "Word8",
+          "source": "src/Network-DBus-Message.html#dbusProtocolVersion",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Message",
+          "module": "Network.DBus.Message",
+          "name": "dbusProtocolVersion",
+          "package": "network-dbus",
+          "partial": "Protocol Version",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:dbusProtocolVersion"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Message",
+          "name": "deserializeMessage",
+          "package": "network-dbus",
+          "signature": "ByteString -\u003e (Message, ByteString)",
+          "source": "src/Network-DBus-Message.html#deserializeMessage",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Message",
+          "module": "Network.DBus.Message",
+          "name": "deserializeMessage",
+          "normalized": "ByteString-\u003e(Message,ByteString)",
+          "package": "network-dbus",
+          "partial": "Message",
+          "signature": "ByteString-\u003e(Message,ByteString)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:deserializeMessage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Message",
+          "name": "endiannessValue",
+          "package": "network-dbus",
+          "signature": "Endianness -\u003e Word8",
+          "source": "src/Network-DBus-Message.html#endiannessValue",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Message",
+          "module": "Network.DBus.Message",
+          "name": "endiannessValue",
+          "normalized": "Endianness-\u003eWord",
+          "package": "network-dbus",
+          "partial": "Value",
+          "signature": "Endianness-\u003eWord",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:endiannessValue"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Message",
+          "name": "mBody",
+          "package": "network-dbus",
+          "signature": "[Variant]",
+          "source": "src/Network-DBus-Message.html#Message",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Message",
+          "module": "Network.DBus.Message",
+          "name": "mBody",
+          "normalized": "[Variant]",
+          "package": "network-dbus",
+          "partial": "Body",
+          "signature": "[Variant]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:mBody"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Message",
+          "name": "mDestination",
+          "package": "network-dbus",
+          "signature": "Maybe DString",
+          "source": "src/Network-DBus-Message.html#Message",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Message",
+          "module": "Network.DBus.Message",
+          "name": "mDestination",
+          "package": "network-dbus",
+          "partial": "Destination",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:mDestination"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Message",
+          "name": "mErrorName",
+          "package": "network-dbus",
+          "signature": "Maybe DString",
+          "source": "src/Network-DBus-Message.html#Message",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Message",
+          "module": "Network.DBus.Message",
+          "name": "mErrorName",
+          "package": "network-dbus",
+          "partial": "Error Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:mErrorName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Message",
+          "name": "mFlags",
+          "package": "network-dbus",
+          "signature": "[Flag]",
+          "source": "src/Network-DBus-Message.html#Message",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Message",
+          "module": "Network.DBus.Message",
+          "name": "mFlags",
+          "normalized": "[Flag]",
+          "package": "network-dbus",
+          "partial": "Flags",
+          "signature": "[Flag]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:mFlags"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Message",
+          "name": "mInterface",
+          "package": "network-dbus",
+          "signature": "Maybe DString",
+          "source": "src/Network-DBus-Message.html#Message",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Message",
+          "module": "Network.DBus.Message",
+          "name": "mInterface",
+          "package": "network-dbus",
+          "partial": "Interface",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:mInterface"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Message",
+          "name": "mMember",
+          "package": "network-dbus",
+          "signature": "Maybe DString",
+          "source": "src/Network-DBus-Message.html#Message",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Message",
+          "module": "Network.DBus.Message",
+          "name": "mMember",
+          "package": "network-dbus",
+          "partial": "Member",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:mMember"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Message",
+          "name": "mPath",
+          "package": "network-dbus",
+          "signature": "Maybe ObjectPath",
+          "source": "src/Network-DBus-Message.html#Message",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Message",
+          "module": "Network.DBus.Message",
+          "name": "mPath",
+          "package": "network-dbus",
+          "partial": "Path",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:mPath"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Message",
+          "name": "mReplySerial",
+          "package": "network-dbus",
+          "signature": "Maybe Word32",
+          "source": "src/Network-DBus-Message.html#Message",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Message",
+          "module": "Network.DBus.Message",
+          "name": "mReplySerial",
+          "package": "network-dbus",
+          "partial": "Reply Serial",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:mReplySerial"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Message",
+          "name": "mSender",
+          "package": "network-dbus",
+          "signature": "Maybe DString",
+          "source": "src/Network-DBus-Message.html#Message",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Message",
+          "module": "Network.DBus.Message",
+          "name": "mSender",
+          "package": "network-dbus",
+          "partial": "Sender",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:mSender"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Message",
+          "name": "mSerial",
+          "package": "network-dbus",
+          "signature": "Word32",
+          "source": "src/Network-DBus-Message.html#Message",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Message",
+          "module": "Network.DBus.Message",
+          "name": "mSerial",
+          "package": "network-dbus",
+          "partial": "Serial",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:mSerial"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Message",
+          "name": "mType",
+          "package": "network-dbus",
+          "signature": "MessageType",
+          "source": "src/Network-DBus-Message.html#Message",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Message",
+          "module": "Network.DBus.Message",
+          "name": "mType",
+          "package": "network-dbus",
+          "partial": "Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:mType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Message",
+          "name": "methodCall",
+          "package": "network-dbus",
+          "signature": "DString -\u003e DString -\u003e DString -\u003e ObjectPath -\u003e [Variant] -\u003e Message",
+          "source": "src/Network-DBus-Message.html#methodCall",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Message",
+          "module": "Network.DBus.Message",
+          "name": "methodCall",
+          "normalized": "DString-\u003eDString-\u003eDString-\u003eObjectPath-\u003e[Variant]-\u003eMessage",
+          "package": "network-dbus",
+          "partial": "Call",
+          "signature": "DString-\u003eDString-\u003eDString-\u003eObjectPath-\u003e[Variant]-\u003eMessage",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:methodCall"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Message",
+          "name": "readMessage",
+          "package": "network-dbus",
+          "signature": "Handle -\u003e IO Message",
+          "source": "src/Network-DBus-Message.html#readMessage",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Message",
+          "module": "Network.DBus.Message",
+          "name": "readMessage",
+          "normalized": "Handle-\u003eIO Message",
+          "package": "network-dbus",
+          "partial": "Message",
+          "signature": "Handle-\u003eIO Message",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:readMessage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Message",
+          "name": "serializeMessage",
+          "package": "network-dbus",
+          "signature": "Message -\u003e ByteString",
+          "source": "src/Network-DBus-Message.html#serializeMessage",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Message",
+          "module": "Network.DBus.Message",
+          "name": "serializeMessage",
+          "normalized": "Message-\u003eByteString",
+          "package": "network-dbus",
+          "partial": "Message",
+          "signature": "Message-\u003eByteString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:serializeMessage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Message",
+          "name": "writeMessage",
+          "package": "network-dbus",
+          "signature": "Handle -\u003e Message -\u003e IO ()",
+          "source": "src/Network-DBus-Message.html#writeMessage",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Message",
+          "module": "Network.DBus.Message",
+          "name": "writeMessage",
+          "normalized": "Handle-\u003eMessage-\u003eIO()",
+          "package": "network-dbus",
+          "partial": "Message",
+          "signature": "Handle-\u003eMessage-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Message.html#v:writeMessage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Type",
+          "name": "Type",
+          "package": "network-dbus",
+          "source": "src/Network-DBus-Type.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Network DBus Type",
+          "module": "Network.DBus.Type",
+          "name": "Type",
+          "package": "network-dbus",
+          "partial": "Type",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Type",
+          "name": "DBasicType",
+          "package": "network-dbus",
+          "source": "src/Network-DBus-Type.html#DBasicType",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Network DBus Type",
+          "module": "Network.DBus.Type",
+          "name": "DBasicType",
+          "package": "network-dbus",
+          "partial": "DBasic Type",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#t:DBasicType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Type",
+          "name": "DType",
+          "package": "network-dbus",
+          "source": "src/Network-DBus-Type.html#DType",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Network DBus Type",
+          "module": "Network.DBus.Type",
+          "name": "DType",
+          "package": "network-dbus",
+          "partial": "DType",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#t:DType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Type",
+          "name": "Signature",
+          "package": "network-dbus",
+          "source": "src/Network-DBus-Type.html#Signature",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Network DBus Type",
+          "module": "Network.DBus.Type",
+          "name": "Signature",
+          "package": "network-dbus",
+          "partial": "Signature",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#t:Signature"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Type",
+          "name": "DBasicType",
+          "package": "network-dbus",
+          "signature": "DBasicType DBasicType",
+          "source": "src/Network-DBus-Type.html#DType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Type",
+          "module": "Network.DBus.Type",
+          "name": "DBasicType",
+          "package": "network-dbus",
+          "partial": "DBasic Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DBasicType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Type",
+          "name": "DTypeArray",
+          "package": "network-dbus",
+          "signature": "DTypeArray DType",
+          "source": "src/Network-DBus-Type.html#DType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Type",
+          "module": "Network.DBus.Type",
+          "name": "DTypeArray",
+          "package": "network-dbus",
+          "partial": "DType Array",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeArray"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Type",
+          "name": "DTypeBoolean",
+          "package": "network-dbus",
+          "signature": "DTypeBoolean",
+          "source": "src/Network-DBus-Type.html#DBasicType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Type",
+          "module": "Network.DBus.Type",
+          "name": "DTypeBoolean",
+          "package": "network-dbus",
+          "partial": "DType Boolean",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeBoolean"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Type",
+          "name": "DTypeByte",
+          "package": "network-dbus",
+          "signature": "DTypeByte",
+          "source": "src/Network-DBus-Type.html#DBasicType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Type",
+          "module": "Network.DBus.Type",
+          "name": "DTypeByte",
+          "package": "network-dbus",
+          "partial": "DType Byte",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeByte"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Type",
+          "name": "DTypeDictEntry",
+          "package": "network-dbus",
+          "signature": "DTypeDictEntry DBasicType DType",
+          "source": "src/Network-DBus-Type.html#DType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Type",
+          "module": "Network.DBus.Type",
+          "name": "DTypeDictEntry",
+          "package": "network-dbus",
+          "partial": "DType Dict Entry",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeDictEntry"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Type",
+          "name": "DTypeDouble",
+          "package": "network-dbus",
+          "signature": "DTypeDouble",
+          "source": "src/Network-DBus-Type.html#DBasicType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Type",
+          "module": "Network.DBus.Type",
+          "name": "DTypeDouble",
+          "package": "network-dbus",
+          "partial": "DType Double",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeDouble"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Type",
+          "name": "DTypeInt16",
+          "package": "network-dbus",
+          "signature": "DTypeInt16",
+          "source": "src/Network-DBus-Type.html#DBasicType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Type",
+          "module": "Network.DBus.Type",
+          "name": "DTypeInt16",
+          "package": "network-dbus",
+          "partial": "DType Int",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeInt16"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Type",
+          "name": "DTypeInt32",
+          "package": "network-dbus",
+          "signature": "DTypeInt32",
+          "source": "src/Network-DBus-Type.html#DBasicType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Type",
+          "module": "Network.DBus.Type",
+          "name": "DTypeInt32",
+          "package": "network-dbus",
+          "partial": "DType Int",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeInt32"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Type",
+          "name": "DTypeInt64",
+          "package": "network-dbus",
+          "signature": "DTypeInt64",
+          "source": "src/Network-DBus-Type.html#DBasicType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Type",
+          "module": "Network.DBus.Type",
+          "name": "DTypeInt64",
+          "package": "network-dbus",
+          "partial": "DType Int",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeInt64"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Type",
+          "name": "DTypeObjectPath",
+          "package": "network-dbus",
+          "signature": "DTypeObjectPath",
+          "source": "src/Network-DBus-Type.html#DBasicType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Type",
+          "module": "Network.DBus.Type",
+          "name": "DTypeObjectPath",
+          "package": "network-dbus",
+          "partial": "DType Object Path",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeObjectPath"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Type",
+          "name": "DTypeSignature",
+          "package": "network-dbus",
+          "signature": "DTypeSignature",
+          "source": "src/Network-DBus-Type.html#DBasicType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Type",
+          "module": "Network.DBus.Type",
+          "name": "DTypeSignature",
+          "package": "network-dbus",
+          "partial": "DType Signature",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeSignature"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Type",
+          "name": "DTypeString",
+          "package": "network-dbus",
+          "signature": "DTypeString",
+          "source": "src/Network-DBus-Type.html#DBasicType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Type",
+          "module": "Network.DBus.Type",
+          "name": "DTypeString",
+          "package": "network-dbus",
+          "partial": "DType String",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeString"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Type",
+          "name": "DTypeStruct",
+          "package": "network-dbus",
+          "signature": "DTypeStruct DType [DType]",
+          "source": "src/Network-DBus-Type.html#DType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Type",
+          "module": "Network.DBus.Type",
+          "name": "DTypeStruct",
+          "normalized": "DTypeStruct DType[DType]",
+          "package": "network-dbus",
+          "partial": "DType Struct",
+          "signature": "DTypeStruct DType[DType]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeStruct"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Type",
+          "name": "DTypeUInt16",
+          "package": "network-dbus",
+          "signature": "DTypeUInt16",
+          "source": "src/Network-DBus-Type.html#DBasicType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Type",
+          "module": "Network.DBus.Type",
+          "name": "DTypeUInt16",
+          "package": "network-dbus",
+          "partial": "DType UInt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeUInt16"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Type",
+          "name": "DTypeUInt32",
+          "package": "network-dbus",
+          "signature": "DTypeUInt32",
+          "source": "src/Network-DBus-Type.html#DBasicType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Type",
+          "module": "Network.DBus.Type",
+          "name": "DTypeUInt32",
+          "package": "network-dbus",
+          "partial": "DType UInt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeUInt32"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Type",
+          "name": "DTypeUInt64",
+          "package": "network-dbus",
+          "signature": "DTypeUInt64",
+          "source": "src/Network-DBus-Type.html#DBasicType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Type",
+          "module": "Network.DBus.Type",
+          "name": "DTypeUInt64",
+          "package": "network-dbus",
+          "partial": "DType UInt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeUInt64"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Type",
+          "name": "DTypeVariant",
+          "package": "network-dbus",
+          "signature": "DTypeVariant",
+          "source": "src/Network-DBus-Type.html#DType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Type",
+          "module": "Network.DBus.Type",
+          "name": "DTypeVariant",
+          "package": "network-dbus",
+          "partial": "DType Variant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:DTypeVariant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Type",
+          "name": "Signature",
+          "package": "network-dbus",
+          "signature": "Signature [DType]",
+          "source": "src/Network-DBus-Type.html#Signature",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Type",
+          "module": "Network.DBus.Type",
+          "name": "Signature",
+          "normalized": "Signature[DType]",
+          "package": "network-dbus",
+          "partial": "Signature",
+          "signature": "Signature[DType]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:Signature"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Type",
+          "name": "hasExcessiveNesting",
+          "package": "network-dbus",
+          "signature": "DType -\u003e Bool",
+          "source": "src/Network-DBus-Type.html#hasExcessiveNesting",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Type",
+          "module": "Network.DBus.Type",
+          "name": "hasExcessiveNesting",
+          "normalized": "DType-\u003eBool",
+          "package": "network-dbus",
+          "partial": "Excessive Nesting",
+          "signature": "DType-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:hasExcessiveNesting"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Type",
+          "name": "prettyType",
+          "package": "network-dbus",
+          "signature": "t -\u003e String",
+          "source": "src/Network-DBus-Type.html#prettyType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Type",
+          "module": "Network.DBus.Type",
+          "name": "prettyType",
+          "normalized": "a-\u003eString",
+          "package": "network-dbus",
+          "partial": "Type",
+          "signature": "t-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Type.html#v:prettyType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "Value",
+          "package": "network-dbus",
+          "source": "src/Network-DBus-Value.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "Value",
+          "package": "network-dbus",
+          "partial": "Value",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "Bytes",
+          "package": "network-dbus",
+          "source": "src/Network-DBus-Value.html#Bytes",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "Bytes",
+          "package": "network-dbus",
+          "partial": "Bytes",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#t:Bytes"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "DBasicTypedValue",
+          "package": "network-dbus",
+          "source": "src/Network-DBus-Value.html#DBasicTypedValue",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "DBasicTypedValue",
+          "package": "network-dbus",
+          "partial": "DBasic Typed Value",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#t:DBasicTypedValue"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "DString",
+          "package": "network-dbus",
+          "source": "src/Network-DBus-Value.html#DString",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "DString",
+          "package": "network-dbus",
+          "partial": "DString",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#t:DString"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "DValue",
+          "package": "network-dbus",
+          "source": "src/Network-DBus-Value.html#DValue",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "DValue",
+          "package": "network-dbus",
+          "partial": "DValue",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#t:DValue"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "Deserializer",
+          "package": "network-dbus",
+          "source": "src/Network-DBus-Value.html#Deserializer",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "Deserializer",
+          "package": "network-dbus",
+          "partial": "Deserializer",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#t:Deserializer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "Endianness",
+          "package": "network-dbus",
+          "source": "src/Network-DBus-Value.html#Endianness",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "Endianness",
+          "package": "network-dbus",
+          "partial": "Endianness",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#t:Endianness"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "ObjectPath",
+          "package": "network-dbus",
+          "source": "src/Network-DBus-Value.html#ObjectPath",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "ObjectPath",
+          "package": "network-dbus",
+          "partial": "Object Path",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#t:ObjectPath"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "Serializer",
+          "package": "network-dbus",
+          "source": "src/Network-DBus-Value.html#Serializer",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "Serializer",
+          "package": "network-dbus",
+          "partial": "Serializer",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#t:Serializer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "Variant",
+          "package": "network-dbus",
+          "source": "src/Network-DBus-Value.html#Variant",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "Variant",
+          "package": "network-dbus",
+          "partial": "Variant",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#t:Variant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "BigEndian",
+          "package": "network-dbus",
+          "signature": "BigEndian",
+          "source": "src/Network-DBus-Value.html#Endianness",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "BigEndian",
+          "package": "network-dbus",
+          "partial": "Big Endian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:BigEndian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "LittleEndian",
+          "package": "network-dbus",
+          "signature": "LittleEndian",
+          "source": "src/Network-DBus-Value.html#Endianness",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "LittleEndian",
+          "package": "network-dbus",
+          "partial": "Little Endian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:LittleEndian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "Variant",
+          "package": "network-dbus",
+          "signature": "Variant",
+          "source": "src/Network-DBus-Value.html#Variant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "Variant",
+          "package": "network-dbus",
+          "partial": "Variant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:Variant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "advanceBy",
+          "package": "network-dbus",
+          "signature": "Bytes -\u003e Serializer",
+          "source": "src/Network-DBus-Value.html#advanceBy",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "advanceBy",
+          "normalized": "Bytes-\u003eSerializer",
+          "package": "network-dbus",
+          "partial": "By",
+          "signature": "Bytes-\u003eSerializer",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:advanceBy"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "alignment",
+          "package": "network-dbus",
+          "signature": "a -\u003e Bytes",
+          "source": "src/Network-DBus-Value.html#alignment",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "alignment",
+          "normalized": "a-\u003eBytes",
+          "package": "network-dbus",
+          "signature": "a-\u003eBytes",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:alignment"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "dbasictype",
+          "package": "network-dbus",
+          "signature": "a -\u003e DBasicType",
+          "source": "src/Network-DBus-Value.html#dbasictype",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "dbasictype",
+          "normalized": "a-\u003eDBasicType",
+          "package": "network-dbus",
+          "signature": "a-\u003eDBasicType",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:dbasictype"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "deserializeAs",
+          "package": "network-dbus",
+          "signature": "Signature -\u003e Deserializer [Variant]",
+          "source": "src/Network-DBus-Value.html#deserializeAs",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "deserializeAs",
+          "normalized": "Signature-\u003eDeserializer[Variant]",
+          "package": "network-dbus",
+          "partial": "As",
+          "signature": "Signature-\u003eDeserializer[Variant]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:deserializeAs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "deserializer",
+          "package": "network-dbus",
+          "signature": "Deserializer a",
+          "source": "src/Network-DBus-Value.html#deserializer",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "deserializer",
+          "package": "network-dbus",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:deserializer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "dtype",
+          "package": "network-dbus",
+          "signature": "a -\u003e DType",
+          "source": "src/Network-DBus-Value.html#dtype",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "dtype",
+          "normalized": "a-\u003eDType",
+          "package": "network-dbus",
+          "signature": "a-\u003eDType",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:dtype"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "fromVariant",
+          "package": "network-dbus",
+          "signature": "Variant -\u003e Maybe a",
+          "source": "src/Network-DBus-Value.html#fromVariant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "fromVariant",
+          "normalized": "Variant-\u003eMaybe a",
+          "package": "network-dbus",
+          "partial": "Variant",
+          "signature": "Variant-\u003eMaybe a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:fromVariant"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "getPath",
+          "package": "network-dbus",
+          "signature": "ObjectPath -\u003e String",
+          "source": "src/Network-DBus-Value.html#getPath",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "getPath",
+          "normalized": "ObjectPath-\u003eString",
+          "package": "network-dbus",
+          "partial": "Path",
+          "signature": "ObjectPath-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:getPath"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "getString",
+          "package": "network-dbus",
+          "signature": "DString -\u003e String",
+          "source": "src/Network-DBus-Value.html#getString",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "getString",
+          "normalized": "DString-\u003eString",
+          "package": "network-dbus",
+          "partial": "String",
+          "signature": "DString-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:getString"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "mkDString",
+          "package": "network-dbus",
+          "signature": "String -\u003e m DString",
+          "source": "src/Network-DBus-Value.html#mkDString",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "mkDString",
+          "normalized": "String-\u003ea DString",
+          "package": "network-dbus",
+          "partial": "DString",
+          "signature": "String-\u003em DString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:mkDString"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "mkDString0",
+          "package": "network-dbus",
+          "signature": "String -\u003e DString",
+          "source": "src/Network-DBus-Value.html#mkDString0",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "mkDString0",
+          "normalized": "String-\u003eDString",
+          "package": "network-dbus",
+          "partial": "DString",
+          "signature": "String-\u003eDString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:mkDString0"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "mkObjectPath",
+          "package": "network-dbus",
+          "signature": "String -\u003e m ObjectPath",
+          "source": "src/Network-DBus-Value.html#mkObjectPath",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "mkObjectPath",
+          "normalized": "String-\u003ea ObjectPath",
+          "package": "network-dbus",
+          "partial": "Object Path",
+          "signature": "String-\u003em ObjectPath",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:mkObjectPath"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "padTo",
+          "package": "network-dbus",
+          "signature": "Bytes -\u003e Serializer",
+          "source": "src/Network-DBus-Value.html#padTo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "padTo",
+          "normalized": "Bytes-\u003eSerializer",
+          "package": "network-dbus",
+          "partial": "To",
+          "signature": "Bytes-\u003eSerializer",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:padTo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "runDeserializer",
+          "package": "network-dbus",
+          "signature": "Endianness -\u003e Deserializer a -\u003e ByteString -\u003e a",
+          "source": "src/Network-DBus-Value.html#runDeserializer",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "runDeserializer",
+          "normalized": "Endianness-\u003eDeserializer a-\u003eByteString-\u003ea",
+          "package": "network-dbus",
+          "partial": "Deserializer",
+          "signature": "Endianness-\u003eDeserializer a-\u003eByteString-\u003ea",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:runDeserializer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "runSerializer",
+          "package": "network-dbus",
+          "signature": "Endianness -\u003e Serializer -\u003e ByteString",
+          "source": "src/Network-DBus-Value.html#runSerializer",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "runSerializer",
+          "normalized": "Endianness-\u003eSerializer-\u003eByteString",
+          "package": "network-dbus",
+          "partial": "Serializer",
+          "signature": "Endianness-\u003eSerializer-\u003eByteString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:runSerializer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "serializer",
+          "package": "network-dbus",
+          "signature": "a -\u003e Serializer",
+          "source": "src/Network-DBus-Value.html#serializer",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "serializer",
+          "normalized": "a-\u003eSerializer",
+          "package": "network-dbus",
+          "signature": "a-\u003eSerializer",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:serializer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "skipTo",
+          "package": "network-dbus",
+          "signature": "Bytes -\u003e Deserializer ()",
+          "source": "src/Network-DBus-Value.html#skipTo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "skipTo",
+          "normalized": "Bytes-\u003eDeserializer()",
+          "package": "network-dbus",
+          "partial": "To",
+          "signature": "Bytes-\u003eDeserializer()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:skipTo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.DBus.Value",
+          "name": "unVariant",
+          "package": "network-dbus",
+          "signature": "v",
+          "source": "src/Network-DBus-Value.html#Variant",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network DBus Value",
+          "module": "Network.DBus.Value",
+          "name": "unVariant",
+          "package": "network-dbus",
+          "partial": "Variant",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/network-dbus/docs/Network-DBus-Value.html#v:unVariant"
+      }
+    }
+  ]
 ]

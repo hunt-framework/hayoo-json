@@ -1,1235 +1,1134 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#",
-      "description": {
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "module",
-        "fct-source": "src/Sound-SonicVisualiser.html",
-        "fct-type": "module",
-        "title": "SonicVisualiser"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "sonic-visualiser"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "SonicVisualiser",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Sonic Visualiser",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#t:Data",
-      "description": {
-        "fct-descr": "\u003cp\u003eThe Data container, either a file on disk or a sparse matrix (a list of\n \u003ccode\u003e\u003ca\u003ePoint\u003c/a\u003e\u003c/code\u003es).\n\u003c/p\u003e",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "data",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Data",
-        "fct-type": "data",
-        "title": "Data"
-      },
-      "index": {
-        "description": "The Data container either file on disk or sparse matrix list of Point",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "Data",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Data",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "SonicVisualiser",
+          "package": "sonic-visualiser",
+          "source": "src/Sound-SonicVisualiser.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "SonicVisualiser",
+          "package": "sonic-visualiser",
+          "partial": "Sonic Visualiser",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eThe Data container, either a file on disk or a sparse matrix (a list of\n \u003ccode\u003e\u003ca\u003ePoint\u003c/a\u003e\u003c/code\u003es).\n\u003c/p\u003e",
+          "module": "Sound.SonicVisualiser",
+          "name": "Data",
+          "package": "sonic-visualiser",
+          "source": "src/Sound-SonicVisualiser-Types.html#Data",
+          "type": "data"
+        },
+        "index": {
+          "description": "The Data container either file on disk or sparse matrix list of Point",
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "Data",
+          "package": "sonic-visualiser",
+          "partial": "Data",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#t:Data"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eA Derivation links a source \u003ccode\u003e\u003ca\u003eModel\u003c/a\u003e\u003c/code\u003e with a \u003ccode\u003e\u003ca\u003eModel\u003c/a\u003e\u003c/code\u003e derived by some kind of\n analysis procedure.\n\u003c/p\u003e",
+          "module": "Sound.SonicVisualiser",
+          "name": "Derivation",
+          "package": "sonic-visualiser",
+          "source": "src/Sound-SonicVisualiser-Types.html#Derivation",
+          "type": "data"
+        },
+        "index": {
+          "description": "Derivation links source Model with Model derived by some kind of analysis procedure",
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "Derivation",
+          "package": "sonic-visualiser",
+          "partial": "Derivation",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#t:Derivation"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eA Sonic Visualiser document.\n Documents contain \u003ccode\u003e\u003ca\u003eModel\u003c/a\u003e\u003c/code\u003es with their corresponding \u003ccode\u003e\u003ca\u003eData\u003c/a\u003e\u003c/code\u003e, \u003ccode\u003e\u003ca\u003eLayer\u003c/a\u003e\u003c/code\u003es and\n \u003ccode\u003e\u003ca\u003eDerivation\u003c/a\u003e\u003c/code\u003es\n\u003c/p\u003e",
+          "module": "Sound.SonicVisualiser",
+          "name": "Document",
+          "package": "sonic-visualiser",
+          "source": "src/Sound-SonicVisualiser-Types.html#Document",
+          "type": "data"
+        },
+        "index": {
+          "description": "Sonic Visualiser document Documents contain Model with their corresponding Data Layer and Derivation",
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "Document",
+          "package": "sonic-visualiser",
+          "partial": "Document",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#t:Document"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "Frame",
+          "package": "sonic-visualiser",
+          "source": "src/Sound-SonicVisualiser-Types.html#Frame",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "Frame",
+          "package": "sonic-visualiser",
+          "partial": "Frame",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#t:Frame"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "FrameCount",
+          "package": "sonic-visualiser",
+          "source": "src/Sound-SonicVisualiser-Types.html#FrameCount",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "FrameCount",
+          "package": "sonic-visualiser",
+          "partial": "Frame Count",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#t:FrameCount"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "Layer",
+          "package": "sonic-visualiser",
+          "source": "src/Sound-SonicVisualiser-Types.html#Layer",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "Layer",
+          "package": "sonic-visualiser",
+          "partial": "Layer",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#t:Layer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eA Layer defines the visual layout of a `Model'\\'s data set.\n\u003c/p\u003e",
+          "module": "Sound.SonicVisualiser",
+          "name": "LayerType",
+          "package": "sonic-visualiser",
+          "source": "src/Sound-SonicVisualiser-Types.html#LayerType",
+          "type": "data"
+        },
+        "index": {
+          "description": "Layer defines the visual layout of Model data set",
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "LayerType",
+          "package": "sonic-visualiser",
+          "partial": "Layer Type",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#t:LayerType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eA Model describes a particular dataset in the Sonic Visualiser project\n file.\n\u003c/p\u003e",
+          "module": "Sound.SonicVisualiser",
+          "name": "Model",
+          "package": "sonic-visualiser",
+          "source": "src/Sound-SonicVisualiser-Types.html#Model",
+          "type": "data"
+        },
+        "index": {
+          "description": "Model describes particular dataset in the Sonic Visualiser project file",
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "Model",
+          "package": "sonic-visualiser",
+          "partial": "Model",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#t:Model"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "ModelType",
+          "package": "sonic-visualiser",
+          "source": "src/Sound-SonicVisualiser-Types.html#ModelType",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "ModelType",
+          "package": "sonic-visualiser",
+          "partial": "Model Type",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#t:ModelType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eA Point specifies a coordinate in a time-series sparse matrix, with an\n optional value and label.\n\u003c/p\u003e",
+          "module": "Sound.SonicVisualiser",
+          "name": "Point",
+          "package": "sonic-visualiser",
+          "source": "src/Sound-SonicVisualiser-Types.html#Point",
+          "type": "data"
+        },
+        "index": {
+          "description": "Point specifies coordinate in time-series sparse matrix with an optional value and label",
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "Point",
+          "package": "sonic-visualiser",
+          "partial": "Point",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#t:Point"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "DataSet",
+          "package": "sonic-visualiser",
+          "signature": "DataSet [Point]",
+          "source": "src/Sound-SonicVisualiser-Types.html#Data",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "DataSet",
+          "normalized": "DataSet[Point]",
+          "package": "sonic-visualiser",
+          "partial": "Data Set",
+          "signature": "DataSet[Point]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:DataSet"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "Derivation",
+          "package": "sonic-visualiser",
+          "signature": "Derivation",
+          "source": "src/Sound-SonicVisualiser-Types.html#Derivation",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "Derivation",
+          "package": "sonic-visualiser",
+          "partial": "Derivation",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:Derivation"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "Document",
+          "package": "sonic-visualiser",
+          "signature": "Document",
+          "source": "src/Sound-SonicVisualiser-Types.html#Document",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "Document",
+          "package": "sonic-visualiser",
+          "partial": "Document",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:Document"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "File",
+          "package": "sonic-visualiser",
+          "signature": "File String",
+          "source": "src/Sound-SonicVisualiser-Types.html#Data",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "File",
+          "package": "sonic-visualiser",
+          "partial": "File",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:File"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "Layer",
+          "package": "sonic-visualiser",
+          "signature": "Layer",
+          "source": "src/Sound-SonicVisualiser-Types.html#Layer",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "Layer",
+          "package": "sonic-visualiser",
+          "partial": "Layer",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:Layer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "Model",
+          "package": "sonic-visualiser",
+          "signature": "Model",
+          "source": "src/Sound-SonicVisualiser-Types.html#Model",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "Model",
+          "package": "sonic-visualiser",
+          "partial": "Model",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:Model"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "Point",
+          "package": "sonic-visualiser",
+          "signature": "Point",
+          "source": "src/Sound-SonicVisualiser-Types.html#Point",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "Point",
+          "package": "sonic-visualiser",
+          "partial": "Point",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:Point"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "SparseMatrix",
+          "package": "sonic-visualiser",
+          "signature": "SparseMatrix",
+          "source": "src/Sound-SonicVisualiser-Types.html#ModelType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "SparseMatrix",
+          "package": "sonic-visualiser",
+          "partial": "Sparse Matrix",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:SparseMatrix"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "TimeInstants",
+          "package": "sonic-visualiser",
+          "signature": "TimeInstants",
+          "source": "src/Sound-SonicVisualiser-Types.html#LayerType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "TimeInstants",
+          "package": "sonic-visualiser",
+          "partial": "Time Instants",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:TimeInstants"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "TimeRuler",
+          "package": "sonic-visualiser",
+          "signature": "TimeRuler",
+          "source": "src/Sound-SonicVisualiser-Types.html#LayerType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "TimeRuler",
+          "package": "sonic-visualiser",
+          "partial": "Time Ruler",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:TimeRuler"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "WaveFile",
+          "package": "sonic-visualiser",
+          "signature": "WaveFile",
+          "source": "src/Sound-SonicVisualiser-Types.html#ModelType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "WaveFile",
+          "package": "sonic-visualiser",
+          "partial": "Wave File",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:WaveFile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "WaveForm",
+          "package": "sonic-visualiser",
+          "signature": "WaveForm",
+          "source": "src/Sound-SonicVisualiser-Types.html#LayerType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "WaveForm",
+          "package": "sonic-visualiser",
+          "partial": "Wave Form",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:WaveForm"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "derivationBlockSize",
+          "package": "sonic-visualiser",
+          "signature": "Int",
+          "source": "src/Sound-SonicVisualiser-Types.html#Derivation",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "derivationBlockSize",
+          "package": "sonic-visualiser",
+          "partial": "Block Size",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:derivationBlockSize"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "derivationChannel",
+          "package": "sonic-visualiser",
+          "signature": "Int",
+          "source": "src/Sound-SonicVisualiser-Types.html#Derivation",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "derivationChannel",
+          "package": "sonic-visualiser",
+          "partial": "Channel",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:derivationChannel"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "derivationDomain",
+          "package": "sonic-visualiser",
+          "signature": "Int",
+          "source": "src/Sound-SonicVisualiser-Types.html#Derivation",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "derivationDomain",
+          "package": "sonic-visualiser",
+          "partial": "Domain",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:derivationDomain"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "derivationModel",
+          "package": "sonic-visualiser",
+          "signature": "Model",
+          "source": "src/Sound-SonicVisualiser-Types.html#Derivation",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "derivationModel",
+          "package": "sonic-visualiser",
+          "partial": "Model",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:derivationModel"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "derivationSource",
+          "package": "sonic-visualiser",
+          "signature": "Model",
+          "source": "src/Sound-SonicVisualiser-Types.html#Derivation",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "derivationSource",
+          "package": "sonic-visualiser",
+          "partial": "Source",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:derivationSource"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "derivationStepSize",
+          "package": "sonic-visualiser",
+          "signature": "Int",
+          "source": "src/Sound-SonicVisualiser-Types.html#Derivation",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "derivationStepSize",
+          "package": "sonic-visualiser",
+          "partial": "Step Size",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:derivationStepSize"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "derivationTransform",
+          "package": "sonic-visualiser",
+          "signature": "String",
+          "source": "src/Sound-SonicVisualiser-Types.html#Derivation",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "derivationTransform",
+          "package": "sonic-visualiser",
+          "partial": "Transform",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:derivationTransform"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "derivationWindowType",
+          "package": "sonic-visualiser",
+          "signature": "Int",
+          "source": "src/Sound-SonicVisualiser-Types.html#Derivation",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "derivationWindowType",
+          "package": "sonic-visualiser",
+          "partial": "Window Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:derivationWindowType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "docDerivations",
+          "package": "sonic-visualiser",
+          "signature": "[Derivation]",
+          "source": "src/Sound-SonicVisualiser-Types.html#Document",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "docDerivations",
+          "normalized": "[Derivation]",
+          "package": "sonic-visualiser",
+          "partial": "Derivations",
+          "signature": "[Derivation]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:docDerivations"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "docLayers",
+          "package": "sonic-visualiser",
+          "signature": "[Layer]",
+          "source": "src/Sound-SonicVisualiser-Types.html#Document",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "docLayers",
+          "normalized": "[Layer]",
+          "package": "sonic-visualiser",
+          "partial": "Layers",
+          "signature": "[Layer]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:docLayers"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "docModels",
+          "package": "sonic-visualiser",
+          "signature": "[Model]",
+          "source": "src/Sound-SonicVisualiser-Types.html#Document",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "docModels",
+          "normalized": "[Model]",
+          "package": "sonic-visualiser",
+          "partial": "Models",
+          "signature": "[Model]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:docModels"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "layerModel",
+          "package": "sonic-visualiser",
+          "signature": "Model",
+          "source": "src/Sound-SonicVisualiser-Types.html#Layer",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "layerModel",
+          "package": "sonic-visualiser",
+          "partial": "Model",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:layerModel"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "layerName",
+          "package": "sonic-visualiser",
+          "signature": "String",
+          "source": "src/Sound-SonicVisualiser-Types.html#Layer",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "layerName",
+          "package": "sonic-visualiser",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:layerName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "modelData",
+          "package": "sonic-visualiser",
+          "signature": "Data",
+          "source": "src/Sound-SonicVisualiser-Types.html#Model",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "modelData",
+          "package": "sonic-visualiser",
+          "partial": "Data",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:modelData"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "modelDimensions",
+          "package": "sonic-visualiser",
+          "signature": "Int",
+          "source": "src/Sound-SonicVisualiser-Types.html#Model",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "modelDimensions",
+          "package": "sonic-visualiser",
+          "partial": "Dimensions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:modelDimensions"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "modelEndFrame",
+          "package": "sonic-visualiser",
+          "signature": "Frame",
+          "source": "src/Sound-SonicVisualiser-Types.html#Model",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "modelEndFrame",
+          "package": "sonic-visualiser",
+          "partial": "End Frame",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:modelEndFrame"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "modelIsMain",
+          "package": "sonic-visualiser",
+          "signature": "Bool",
+          "source": "src/Sound-SonicVisualiser-Types.html#Model",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "modelIsMain",
+          "package": "sonic-visualiser",
+          "partial": "Is Main",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:modelIsMain"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "modelName",
+          "package": "sonic-visualiser",
+          "signature": "String",
+          "source": "src/Sound-SonicVisualiser-Types.html#Model",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "modelName",
+          "package": "sonic-visualiser",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:modelName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "modelResolution",
+          "package": "sonic-visualiser",
+          "signature": "Int",
+          "source": "src/Sound-SonicVisualiser-Types.html#Model",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "modelResolution",
+          "package": "sonic-visualiser",
+          "partial": "Resolution",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:modelResolution"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "modelSampleRate",
+          "package": "sonic-visualiser",
+          "signature": "Double",
+          "source": "src/Sound-SonicVisualiser-Types.html#Model",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "modelSampleRate",
+          "package": "sonic-visualiser",
+          "partial": "Sample Rate",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:modelSampleRate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "modelStartFrame",
+          "package": "sonic-visualiser",
+          "signature": "Frame",
+          "source": "src/Sound-SonicVisualiser-Types.html#Model",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "modelStartFrame",
+          "package": "sonic-visualiser",
+          "partial": "Start Frame",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:modelStartFrame"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "modelType",
+          "package": "sonic-visualiser",
+          "signature": "ModelType",
+          "source": "src/Sound-SonicVisualiser-Types.html#Model",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "modelType",
+          "package": "sonic-visualiser",
+          "partial": "Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:modelType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "pointFrame",
+          "package": "sonic-visualiser",
+          "signature": "Frame",
+          "source": "src/Sound-SonicVisualiser-Types.html#Point",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "pointFrame",
+          "package": "sonic-visualiser",
+          "partial": "Frame",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:pointFrame"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "pointLabel",
+          "package": "sonic-visualiser",
+          "signature": "Maybe String",
+          "source": "src/Sound-SonicVisualiser-Types.html#Point",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "pointLabel",
+          "package": "sonic-visualiser",
+          "partial": "Label",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:pointLabel"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Sound.SonicVisualiser",
+          "name": "pointValue",
+          "package": "sonic-visualiser",
+          "signature": "Maybe Double",
+          "source": "src/Sound-SonicVisualiser-Types.html#Point",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "pointValue",
+          "package": "sonic-visualiser",
+          "partial": "Value",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:pointValue"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eRead a compressed Sonic-Visualiser Document from a lazy ByteString.\n\u003c/p\u003e",
+          "module": "Sound.SonicVisualiser",
+          "name": "read",
+          "package": "sonic-visualiser",
+          "signature": "ByteString -\u003e IO Document",
+          "source": "src/Sound-SonicVisualiser-File.html#read",
+          "type": "function"
+        },
+        "index": {
+          "description": "Read compressed Sonic-Visualiser Document from lazy ByteString",
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "read",
+          "normalized": "ByteString-\u003eIO Document",
+          "package": "sonic-visualiser",
+          "signature": "ByteString-\u003eIO Document",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:read"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eRead a Sonic-Visualiser Document from a file.\n\u003c/p\u003e",
+          "module": "Sound.SonicVisualiser",
+          "name": "readFile",
+          "package": "sonic-visualiser",
+          "signature": "FilePath -\u003e IO Document",
+          "source": "src/Sound-SonicVisualiser-File.html#readFile",
+          "type": "function"
+        },
+        "index": {
+          "description": "Read Sonic-Visualiser Document from file",
+          "hierarchy": "Sound SonicVisualiser",
+          "module": "Sound.SonicVisualiser",
+          "name": "readFile",
+          "normalized": "FilePath-\u003eIO Document",
+          "package": "sonic-visualiser",
+          "partial": "File",
+          "signature": "FilePath-\u003eIO Document",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:readFile"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#t:Derivation",
-      "description": {
-        "fct-descr": "\u003cp\u003eA Derivation links a source \u003ccode\u003e\u003ca\u003eModel\u003c/a\u003e\u003c/code\u003e with a \u003ccode\u003e\u003ca\u003eModel\u003c/a\u003e\u003c/code\u003e derived by some kind of\n analysis procedure.\n\u003c/p\u003e",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "data",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Derivation",
-        "fct-type": "data",
-        "title": "Derivation"
-      },
-      "index": {
-        "description": "Derivation links source Model with Model derived by some kind of analysis procedure",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "Derivation",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Derivation",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#t:Document",
-      "description": {
-        "fct-descr": "\u003cp\u003eA Sonic Visualiser document.\n Documents contain \u003ccode\u003e\u003ca\u003eModel\u003c/a\u003e\u003c/code\u003es with their corresponding \u003ccode\u003e\u003ca\u003eData\u003c/a\u003e\u003c/code\u003e, \u003ccode\u003e\u003ca\u003eLayer\u003c/a\u003e\u003c/code\u003es and\n \u003ccode\u003e\u003ca\u003eDerivation\u003c/a\u003e\u003c/code\u003es\n\u003c/p\u003e",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "data",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Document",
-        "fct-type": "data",
-        "title": "Document"
-      },
-      "index": {
-        "description": "Sonic Visualiser document Documents contain Model with their corresponding Data Layer and Derivation",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "Document",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Document",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#t:Frame",
-      "description": {
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "type",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Frame",
-        "fct-type": "type",
-        "title": "Frame"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "Frame",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Frame",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#t:FrameCount",
-      "description": {
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "type",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#FrameCount",
-        "fct-type": "type",
-        "title": "FrameCount"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "FrameCount",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Frame Count",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#t:Layer",
-      "description": {
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "data",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Layer",
-        "fct-type": "data",
-        "title": "Layer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "Layer",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Layer",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#t:LayerType",
-      "description": {
-        "fct-descr": "\u003cp\u003eA Layer defines the visual layout of a `Model'\\'s data set.\n\u003c/p\u003e",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "data",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#LayerType",
-        "fct-type": "data",
-        "title": "LayerType"
-      },
-      "index": {
-        "description": "Layer defines the visual layout of Model data set",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "LayerType",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Layer Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#t:Model",
-      "description": {
-        "fct-descr": "\u003cp\u003eA Model describes a particular dataset in the Sonic Visualiser project\n file.\n\u003c/p\u003e",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "data",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Model",
-        "fct-type": "data",
-        "title": "Model"
-      },
-      "index": {
-        "description": "Model describes particular dataset in the Sonic Visualiser project file",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "Model",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Model",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#t:ModelType",
-      "description": {
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "data",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#ModelType",
-        "fct-type": "data",
-        "title": "ModelType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "ModelType",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Model Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#t:Point",
-      "description": {
-        "fct-descr": "\u003cp\u003eA Point specifies a coordinate in a time-series sparse matrix, with an\n optional value and label.\n\u003c/p\u003e",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "data",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Point",
-        "fct-type": "data",
-        "title": "Point"
-      },
-      "index": {
-        "description": "Point specifies coordinate in time-series sparse matrix with an optional value and label",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "Point",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Point",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:DataSet",
-      "description": {
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "DataSet [Point]",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Data",
-        "fct-type": "function",
-        "title": "DataSet"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "DataSet",
-        "normalized": "DataSet[Point]",
-        "package": "sonic-visualiser",
-        "partial": "Data Set",
-        "signature": "DataSet[Point]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:Derivation",
-      "description": {
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "Derivation",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Derivation",
-        "fct-type": "function",
-        "title": "Derivation"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "Derivation",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Derivation",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:Document",
-      "description": {
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "Document",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Document",
-        "fct-type": "function",
-        "title": "Document"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "Document",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Document",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:File",
-      "description": {
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "File String",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Data",
-        "fct-type": "function",
-        "title": "File"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "File",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "File",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:Layer",
-      "description": {
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "Layer",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Layer",
-        "fct-type": "function",
-        "title": "Layer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "Layer",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Layer",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:Model",
-      "description": {
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "Model",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Model",
-        "fct-type": "function",
-        "title": "Model"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "Model",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Model",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:Point",
-      "description": {
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "Point",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Point",
-        "fct-type": "function",
-        "title": "Point"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "Point",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Point",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:SparseMatrix",
-      "description": {
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "SparseMatrix",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#ModelType",
-        "fct-type": "function",
-        "title": "SparseMatrix"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "SparseMatrix",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Sparse Matrix",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:TimeInstants",
-      "description": {
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "TimeInstants",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#LayerType",
-        "fct-type": "function",
-        "title": "TimeInstants"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "TimeInstants",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Time Instants",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:TimeRuler",
-      "description": {
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "TimeRuler",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#LayerType",
-        "fct-type": "function",
-        "title": "TimeRuler"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "TimeRuler",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Time Ruler",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:WaveFile",
-      "description": {
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "WaveFile",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#ModelType",
-        "fct-type": "function",
-        "title": "WaveFile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "WaveFile",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Wave File",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:WaveForm",
-      "description": {
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "WaveForm",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#LayerType",
-        "fct-type": "function",
-        "title": "WaveForm"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "WaveForm",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Wave Form",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:derivationBlockSize",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "Int",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Derivation",
-        "fct-type": "function",
-        "title": "derivationBlockSize"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "derivationBlockSize",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Block Size",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:derivationChannel",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "Int",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Derivation",
-        "fct-type": "function",
-        "title": "derivationChannel"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "derivationChannel",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Channel",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:derivationDomain",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "Int",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Derivation",
-        "fct-type": "function",
-        "title": "derivationDomain"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "derivationDomain",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Domain",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:derivationModel",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "Model",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Derivation",
-        "fct-type": "function",
-        "title": "derivationModel"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "derivationModel",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Model",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:derivationSource",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "Model",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Derivation",
-        "fct-type": "function",
-        "title": "derivationSource"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "derivationSource",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Source",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:derivationStepSize",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "Int",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Derivation",
-        "fct-type": "function",
-        "title": "derivationStepSize"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "derivationStepSize",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Step Size",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:derivationTransform",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "String",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Derivation",
-        "fct-type": "function",
-        "title": "derivationTransform"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "derivationTransform",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Transform",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:derivationWindowType",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "Int",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Derivation",
-        "fct-type": "function",
-        "title": "derivationWindowType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "derivationWindowType",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Window Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:docDerivations",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "[Derivation]",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Document",
-        "fct-type": "function",
-        "title": "docDerivations"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "docDerivations",
-        "normalized": "[Derivation]",
-        "package": "sonic-visualiser",
-        "partial": "Derivations",
-        "signature": "[Derivation]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:docLayers",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "[Layer]",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Document",
-        "fct-type": "function",
-        "title": "docLayers"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "docLayers",
-        "normalized": "[Layer]",
-        "package": "sonic-visualiser",
-        "partial": "Layers",
-        "signature": "[Layer]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:docModels",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "[Model]",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Document",
-        "fct-type": "function",
-        "title": "docModels"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "docModels",
-        "normalized": "[Model]",
-        "package": "sonic-visualiser",
-        "partial": "Models",
-        "signature": "[Model]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:layerModel",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "Model",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Layer",
-        "fct-type": "function",
-        "title": "layerModel"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "layerModel",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Model",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:layerName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "String",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Layer",
-        "fct-type": "function",
-        "title": "layerName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "layerName",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:modelData",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "Data",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Model",
-        "fct-type": "function",
-        "title": "modelData"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "modelData",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Data",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:modelDimensions",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "Int",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Model",
-        "fct-type": "function",
-        "title": "modelDimensions"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "modelDimensions",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Dimensions",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:modelEndFrame",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "Frame",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Model",
-        "fct-type": "function",
-        "title": "modelEndFrame"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "modelEndFrame",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "End Frame",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:modelIsMain",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "Bool",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Model",
-        "fct-type": "function",
-        "title": "modelIsMain"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "modelIsMain",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Is Main",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:modelName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "String",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Model",
-        "fct-type": "function",
-        "title": "modelName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "modelName",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:modelResolution",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "Int",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Model",
-        "fct-type": "function",
-        "title": "modelResolution"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "modelResolution",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Resolution",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:modelSampleRate",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "Double",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Model",
-        "fct-type": "function",
-        "title": "modelSampleRate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "modelSampleRate",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Sample Rate",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:modelStartFrame",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "Frame",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Model",
-        "fct-type": "function",
-        "title": "modelStartFrame"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "modelStartFrame",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Start Frame",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:modelType",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "ModelType",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Model",
-        "fct-type": "function",
-        "title": "modelType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "modelType",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:pointFrame",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "Frame",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Point",
-        "fct-type": "function",
-        "title": "pointFrame"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "pointFrame",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Frame",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:pointLabel",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "Maybe String",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Point",
-        "fct-type": "function",
-        "title": "pointLabel"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "pointLabel",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Label",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:pointValue",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "Maybe Double",
-        "fct-source": "src/Sound-SonicVisualiser-Types.html#Point",
-        "fct-type": "function",
-        "title": "pointValue"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "pointValue",
-        "normalized": "",
-        "package": "sonic-visualiser",
-        "partial": "Value",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:read",
-      "description": {
-        "fct-descr": "\u003cp\u003eRead a compressed Sonic-Visualiser Document from a lazy ByteString.\n\u003c/p\u003e",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "ByteString -\u003e IO Document",
-        "fct-source": "src/Sound-SonicVisualiser-File.html#read",
-        "fct-type": "function",
-        "title": "read"
-      },
-      "index": {
-        "description": "Read compressed Sonic-Visualiser Document from lazy ByteString",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "read",
-        "normalized": "ByteString-\u003eIO Document",
-        "package": "sonic-visualiser",
-        "partial": "",
-        "signature": "ByteString-\u003eIO Document"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/sonic-visualiser/docs/Sound-SonicVisualiser.html#v:readFile",
-      "description": {
-        "fct-descr": "\u003cp\u003eRead a Sonic-Visualiser Document from a file.\n\u003c/p\u003e",
-        "fct-module": "Sound.SonicVisualiser",
-        "fct-package": "sonic-visualiser",
-        "fct-signature": "FilePath -\u003e IO Document",
-        "fct-source": "src/Sound-SonicVisualiser-File.html#readFile",
-        "fct-type": "function",
-        "title": "readFile"
-      },
-      "index": {
-        "description": "Read Sonic-Visualiser Document from file",
-        "hierarchy": "Sound SonicVisualiser",
-        "module": "Sound.SonicVisualiser",
-        "name": "readFile",
-        "normalized": "FilePath-\u003eIO Document",
-        "package": "sonic-visualiser",
-        "partial": "File",
-        "signature": "FilePath-\u003eIO Document"
-      }
-    }
-  }
+  ]
 ]

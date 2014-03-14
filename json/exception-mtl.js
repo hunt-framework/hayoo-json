@@ -1,26 +1,39 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/exception-mtl/docs/Control-Monad-Exception-Instances.html#",
-      "description": {
-        "fct-module": "Control.Monad.Exception.Instances",
-        "fct-package": "exception-mtl",
-        "fct-signature": "module",
-        "fct-source": "src/Control-Monad-Exception-Instances.html",
-        "fct-type": "module",
-        "title": "Instances"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "exception-mtl"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Monad Exception Instances",
-        "module": "Control.Monad.Exception.Instances",
-        "name": "Instances",
-        "normalized": "",
-        "package": "exception-mtl",
-        "partial": "Instances",
-        "signature": ""
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Monad.Exception.Instances",
+          "name": "Instances",
+          "package": "exception-mtl",
+          "source": "src/Control-Monad-Exception-Instances.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Control Monad Exception Instances",
+          "module": "Control.Monad.Exception.Instances",
+          "name": "Instances",
+          "package": "exception-mtl",
+          "partial": "Instances",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/exception-mtl/docs/Control-Monad-Exception-Instances.html#"
       }
     }
-  }
+  ]
 ]

@@ -1,52 +1,66 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clippard/docs/System-Clippard.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eA simple library fro copying to the clipboard.\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "System.Clippard",
-        "fct-package": "clippard",
-        "fct-signature": "module",
-        "fct-source": "src/System-Clippard.html",
-        "fct-type": "module",
-        "title": "Clippard"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "clippard"
       },
-      "index": {
-        "description": "simple library fro copying to the clipboard",
-        "hierarchy": "System Clippard",
-        "module": "System.Clippard",
-        "name": "Clippard",
-        "normalized": "",
-        "package": "clippard",
-        "partial": "Clippard",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/clippard/docs/System-Clippard.html#v:paste",
-      "description": {
-        "fct-descr": "\u003cp\u003ePaste text to the command-line. Automagically determines operating system.\n\u003c/p\u003e",
-        "fct-module": "System.Clippard",
-        "fct-package": "clippard",
-        "fct-signature": "String -\u003e IO ()",
-        "fct-source": "src/System-Clippard.html#paste",
-        "fct-type": "function",
-        "title": "paste"
-      },
-      "index": {
-        "description": "Paste text to the command-line Automagically determines operating system",
-        "hierarchy": "System Clippard",
-        "module": "System.Clippard",
-        "name": "paste",
-        "normalized": "String-\u003eIO()",
-        "package": "clippard",
-        "partial": "",
-        "signature": "String-\u003eIO()"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eA simple library fro copying to the clipboard.\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "System.Clippard",
+          "name": "Clippard",
+          "package": "clippard",
+          "source": "src/System-Clippard.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "simple library fro copying to the clipboard",
+          "hierarchy": "System Clippard",
+          "module": "System.Clippard",
+          "name": "Clippard",
+          "package": "clippard",
+          "partial": "Clippard",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/clippard/docs/System-Clippard.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ePaste text to the command-line. Automagically determines operating system.\n\u003c/p\u003e",
+          "module": "System.Clippard",
+          "name": "paste",
+          "package": "clippard",
+          "signature": "String -\u003e IO ()",
+          "source": "src/System-Clippard.html#paste",
+          "type": "function"
+        },
+        "index": {
+          "description": "Paste text to the command-line Automagically determines operating system",
+          "hierarchy": "System Clippard",
+          "module": "System.Clippard",
+          "name": "paste",
+          "normalized": "String-\u003eIO()",
+          "package": "clippard",
+          "signature": "String-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/clippard/docs/System-Clippard.html#v:paste"
       }
     }
-  }
+  ]
 ]

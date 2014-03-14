@@ -1,170 +1,176 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hVOIDP/docs/Dynamic.html#",
-      "description": {
-        "fct-module": "Dynamic",
-        "fct-package": "hVOIDP",
-        "fct-signature": "module",
-        "fct-source": "src/Dynamic.html",
-        "fct-type": "module",
-        "title": "Dynamic"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "hVOIDP"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Dynamic",
-        "module": "Dynamic",
-        "name": "Dynamic",
-        "normalized": "",
-        "package": "hVOIDP",
-        "partial": "Dynamic",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hVOIDP/docs/Dynamic.html#v:dynamic",
-      "description": {
-        "fct-module": "Dynamic",
-        "fct-package": "hVOIDP",
-        "fct-signature": "(Table entry coord -\u003e coord -\u003e entry) -\u003e (coord, coord) -\u003e Table entry coord",
-        "fct-source": "src/Dynamic.html#dynamic",
-        "fct-type": "function",
-        "title": "dynamic"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Dynamic",
-        "module": "Dynamic",
-        "name": "dynamic",
-        "normalized": "(Table a b-\u003eb-\u003ea)-\u003e(b,b)-\u003eTable a b",
-        "package": "hVOIDP",
-        "partial": "",
-        "signature": "(Table entry coord-\u003ecoord-\u003eentry)-\u003e(coord,coord)-\u003eTable entry coord"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Dynamic",
+          "name": "Dynamic",
+          "package": "hVOIDP",
+          "source": "src/Dynamic.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Dynamic",
+          "module": "Dynamic",
+          "name": "Dynamic",
+          "package": "hVOIDP",
+          "partial": "Dynamic",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/hVOIDP/docs/Dynamic.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Dynamic",
+          "name": "dynamic",
+          "package": "hVOIDP",
+          "signature": "(Table entry coord -\u003e coord -\u003e entry) -\u003e (coord, coord) -\u003e Table entry coord",
+          "source": "src/Dynamic.html#dynamic",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Dynamic",
+          "module": "Dynamic",
+          "name": "dynamic",
+          "normalized": "(Table a b-\u003eb-\u003ea)-\u003e(b,b)-\u003eTable a b",
+          "package": "hVOIDP",
+          "signature": "(Table entry coord-\u003ecoord-\u003eentry)-\u003e(coord,coord)-\u003eTable entry coord",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hVOIDP/docs/Dynamic.html#v:dynamic"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Table",
+          "name": "Table",
+          "package": "hVOIDP",
+          "source": "src/Table.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Table",
+          "module": "Table",
+          "name": "Table",
+          "package": "hVOIDP",
+          "partial": "Table",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/hVOIDP/docs/Table.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Table",
+          "name": "Table",
+          "package": "hVOIDP",
+          "source": "src/Table.html#Table",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Table",
+          "module": "Table",
+          "name": "Table",
+          "package": "hVOIDP",
+          "partial": "Table",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/hVOIDP/docs/Table.html#t:Table"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Table",
+          "name": "findTable",
+          "package": "hVOIDP",
+          "signature": "Table a b -\u003e b -\u003e a",
+          "source": "src/Table.html#findTable",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Table",
+          "module": "Table",
+          "name": "findTable",
+          "normalized": "Table a b-\u003eb-\u003ea",
+          "package": "hVOIDP",
+          "partial": "Table",
+          "signature": "Table a b-\u003eb-\u003ea",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hVOIDP/docs/Table.html#v:findTable"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Table",
+          "name": "newTable",
+          "package": "hVOIDP",
+          "signature": "[(b, a)] -\u003e Table a b",
+          "source": "src/Table.html#newTable",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Table",
+          "module": "Table",
+          "name": "newTable",
+          "normalized": "[(a,b)]-\u003eTable b a",
+          "package": "hVOIDP",
+          "partial": "Table",
+          "signature": "[(b,a)]-\u003eTable a b",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hVOIDP/docs/Table.html#v:newTable"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Table",
+          "name": "updTable",
+          "package": "hVOIDP",
+          "signature": "(b, a) -\u003e Table a b -\u003e Table a b",
+          "source": "src/Table.html#updTable",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Table",
+          "module": "Table",
+          "name": "updTable",
+          "normalized": "(a,b)-\u003eTable b a-\u003eTable b a",
+          "package": "hVOIDP",
+          "partial": "Table",
+          "signature": "(b,a)-\u003eTable a b-\u003eTable a b",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hVOIDP/docs/Table.html#v:updTable"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hVOIDP/docs/Table.html#",
-      "description": {
-        "fct-module": "Table",
-        "fct-package": "hVOIDP",
-        "fct-signature": "module",
-        "fct-source": "src/Table.html",
-        "fct-type": "module",
-        "title": "Table"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Table",
-        "module": "Table",
-        "name": "Table",
-        "normalized": "",
-        "package": "hVOIDP",
-        "partial": "Table",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hVOIDP/docs/Table.html#t:Table",
-      "description": {
-        "fct-module": "Table",
-        "fct-package": "hVOIDP",
-        "fct-signature": "data",
-        "fct-source": "src/Table.html#Table",
-        "fct-type": "data",
-        "title": "Table"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Table",
-        "module": "Table",
-        "name": "Table",
-        "normalized": "",
-        "package": "hVOIDP",
-        "partial": "Table",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hVOIDP/docs/Table.html#v:findTable",
-      "description": {
-        "fct-module": "Table",
-        "fct-package": "hVOIDP",
-        "fct-signature": "Table a b -\u003e b -\u003e a",
-        "fct-source": "src/Table.html#findTable",
-        "fct-type": "function",
-        "title": "findTable"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Table",
-        "module": "Table",
-        "name": "findTable",
-        "normalized": "Table a b-\u003eb-\u003ea",
-        "package": "hVOIDP",
-        "partial": "Table",
-        "signature": "Table a b-\u003eb-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hVOIDP/docs/Table.html#v:newTable",
-      "description": {
-        "fct-module": "Table",
-        "fct-package": "hVOIDP",
-        "fct-signature": "[(b, a)] -\u003e Table a b",
-        "fct-source": "src/Table.html#newTable",
-        "fct-type": "function",
-        "title": "newTable"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Table",
-        "module": "Table",
-        "name": "newTable",
-        "normalized": "[(a,b)]-\u003eTable b a",
-        "package": "hVOIDP",
-        "partial": "Table",
-        "signature": "[(b,a)]-\u003eTable a b"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hVOIDP/docs/Table.html#v:updTable",
-      "description": {
-        "fct-module": "Table",
-        "fct-package": "hVOIDP",
-        "fct-signature": "(b, a) -\u003e Table a b -\u003e Table a b",
-        "fct-source": "src/Table.html#updTable",
-        "fct-type": "function",
-        "title": "updTable"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Table",
-        "module": "Table",
-        "name": "updTable",
-        "normalized": "(a,b)-\u003eTable b a-\u003eTable b a",
-        "package": "hVOIDP",
-        "partial": "Table",
-        "signature": "(b,a)-\u003eTable a b-\u003eTable a b"
-      }
-    }
-  }
+  ]
 ]

@@ -1,218 +1,218 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lispparser/docs/Text-ParserCombinators-Parsec-Lisp.html#",
-      "description": {
-        "fct-module": "Text.ParserCombinators.Parsec.Lisp",
-        "fct-package": "lispparser",
-        "fct-signature": "module",
-        "fct-source": "src/Text-ParserCombinators-Parsec-Lisp.html",
-        "fct-type": "module",
-        "title": "Lisp"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "lispparser"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators Parsec Lisp",
-        "module": "Text.ParserCombinators.Parsec.Lisp",
-        "name": "Lisp",
-        "normalized": "",
-        "package": "lispparser",
-        "partial": "Lisp",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lispparser/docs/Text-ParserCombinators-Parsec-Lisp.html#t:LispVal",
-      "description": {
-        "fct-module": "Text.ParserCombinators.Parsec.Lisp",
-        "fct-package": "lispparser",
-        "fct-signature": "data",
-        "fct-source": "src/Text-ParserCombinators-Parsec-Lisp.html#LispVal",
-        "fct-type": "data",
-        "title": "LispVal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators Parsec Lisp",
-        "module": "Text.ParserCombinators.Parsec.Lisp",
-        "name": "LispVal",
-        "normalized": "",
-        "package": "lispparser",
-        "partial": "Lisp Val",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.Parsec.Lisp",
+          "name": "Lisp",
+          "package": "lispparser",
+          "source": "src/Text-ParserCombinators-Parsec-Lisp.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators Parsec Lisp",
+          "module": "Text.ParserCombinators.Parsec.Lisp",
+          "name": "Lisp",
+          "package": "lispparser",
+          "partial": "Lisp",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/lispparser/docs/Text-ParserCombinators-Parsec-Lisp.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.Parsec.Lisp",
+          "name": "LispVal",
+          "package": "lispparser",
+          "source": "src/Text-ParserCombinators-Parsec-Lisp.html#LispVal",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators Parsec Lisp",
+          "module": "Text.ParserCombinators.Parsec.Lisp",
+          "name": "LispVal",
+          "package": "lispparser",
+          "partial": "Lisp Val",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/lispparser/docs/Text-ParserCombinators-Parsec-Lisp.html#t:LispVal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.Parsec.Lisp",
+          "name": "Atom",
+          "package": "lispparser",
+          "signature": "Atom String",
+          "source": "src/Text-ParserCombinators-Parsec-Lisp.html#LispVal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators Parsec Lisp",
+          "module": "Text.ParserCombinators.Parsec.Lisp",
+          "name": "Atom",
+          "package": "lispparser",
+          "partial": "Atom",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lispparser/docs/Text-ParserCombinators-Parsec-Lisp.html#v:Atom"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.Parsec.Lisp",
+          "name": "Bool",
+          "package": "lispparser",
+          "signature": "Bool Bool",
+          "source": "src/Text-ParserCombinators-Parsec-Lisp.html#LispVal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators Parsec Lisp",
+          "module": "Text.ParserCombinators.Parsec.Lisp",
+          "name": "Bool",
+          "package": "lispparser",
+          "partial": "Bool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lispparser/docs/Text-ParserCombinators-Parsec-Lisp.html#v:Bool"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.Parsec.Lisp",
+          "name": "DottedList",
+          "package": "lispparser",
+          "signature": "DottedList [LispVal] LispVal",
+          "source": "src/Text-ParserCombinators-Parsec-Lisp.html#LispVal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators Parsec Lisp",
+          "module": "Text.ParserCombinators.Parsec.Lisp",
+          "name": "DottedList",
+          "normalized": "DottedList[LispVal]LispVal",
+          "package": "lispparser",
+          "partial": "Dotted List",
+          "signature": "DottedList[LispVal]LispVal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lispparser/docs/Text-ParserCombinators-Parsec-Lisp.html#v:DottedList"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.Parsec.Lisp",
+          "name": "List",
+          "package": "lispparser",
+          "signature": "List [LispVal]",
+          "source": "src/Text-ParserCombinators-Parsec-Lisp.html#LispVal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators Parsec Lisp",
+          "module": "Text.ParserCombinators.Parsec.Lisp",
+          "name": "List",
+          "normalized": "List[LispVal]",
+          "package": "lispparser",
+          "partial": "List",
+          "signature": "List[LispVal]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lispparser/docs/Text-ParserCombinators-Parsec-Lisp.html#v:List"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.Parsec.Lisp",
+          "name": "Number",
+          "package": "lispparser",
+          "signature": "Number Integer",
+          "source": "src/Text-ParserCombinators-Parsec-Lisp.html#LispVal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators Parsec Lisp",
+          "module": "Text.ParserCombinators.Parsec.Lisp",
+          "name": "Number",
+          "package": "lispparser",
+          "partial": "Number",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lispparser/docs/Text-ParserCombinators-Parsec-Lisp.html#v:Number"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.Parsec.Lisp",
+          "name": "String",
+          "package": "lispparser",
+          "signature": "String String",
+          "source": "src/Text-ParserCombinators-Parsec-Lisp.html#LispVal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators Parsec Lisp",
+          "module": "Text.ParserCombinators.Parsec.Lisp",
+          "name": "String",
+          "package": "lispparser",
+          "partial": "String",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lispparser/docs/Text-ParserCombinators-Parsec-Lisp.html#v:String"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParserCombinators.Parsec.Lisp",
+          "name": "parseExpr",
+          "package": "lispparser",
+          "signature": "Parser LispVal",
+          "source": "src/Text-ParserCombinators-Parsec-Lisp.html#parseExpr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParserCombinators Parsec Lisp",
+          "module": "Text.ParserCombinators.Parsec.Lisp",
+          "name": "parseExpr",
+          "package": "lispparser",
+          "partial": "Expr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/lispparser/docs/Text-ParserCombinators-Parsec-Lisp.html#v:parseExpr"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lispparser/docs/Text-ParserCombinators-Parsec-Lisp.html#v:Atom",
-      "description": {
-        "fct-module": "Text.ParserCombinators.Parsec.Lisp",
-        "fct-package": "lispparser",
-        "fct-signature": "Atom String",
-        "fct-source": "src/Text-ParserCombinators-Parsec-Lisp.html#LispVal",
-        "fct-type": "function",
-        "title": "Atom"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators Parsec Lisp",
-        "module": "Text.ParserCombinators.Parsec.Lisp",
-        "name": "Atom",
-        "normalized": "",
-        "package": "lispparser",
-        "partial": "Atom",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lispparser/docs/Text-ParserCombinators-Parsec-Lisp.html#v:Bool",
-      "description": {
-        "fct-module": "Text.ParserCombinators.Parsec.Lisp",
-        "fct-package": "lispparser",
-        "fct-signature": "Bool Bool",
-        "fct-source": "src/Text-ParserCombinators-Parsec-Lisp.html#LispVal",
-        "fct-type": "function",
-        "title": "Bool"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators Parsec Lisp",
-        "module": "Text.ParserCombinators.Parsec.Lisp",
-        "name": "Bool",
-        "normalized": "",
-        "package": "lispparser",
-        "partial": "Bool",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lispparser/docs/Text-ParserCombinators-Parsec-Lisp.html#v:DottedList",
-      "description": {
-        "fct-module": "Text.ParserCombinators.Parsec.Lisp",
-        "fct-package": "lispparser",
-        "fct-signature": "DottedList [LispVal] LispVal",
-        "fct-source": "src/Text-ParserCombinators-Parsec-Lisp.html#LispVal",
-        "fct-type": "function",
-        "title": "DottedList"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators Parsec Lisp",
-        "module": "Text.ParserCombinators.Parsec.Lisp",
-        "name": "DottedList",
-        "normalized": "DottedList[LispVal]LispVal",
-        "package": "lispparser",
-        "partial": "Dotted List",
-        "signature": "DottedList[LispVal]LispVal"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lispparser/docs/Text-ParserCombinators-Parsec-Lisp.html#v:List",
-      "description": {
-        "fct-module": "Text.ParserCombinators.Parsec.Lisp",
-        "fct-package": "lispparser",
-        "fct-signature": "List [LispVal]",
-        "fct-source": "src/Text-ParserCombinators-Parsec-Lisp.html#LispVal",
-        "fct-type": "function",
-        "title": "List"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators Parsec Lisp",
-        "module": "Text.ParserCombinators.Parsec.Lisp",
-        "name": "List",
-        "normalized": "List[LispVal]",
-        "package": "lispparser",
-        "partial": "List",
-        "signature": "List[LispVal]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lispparser/docs/Text-ParserCombinators-Parsec-Lisp.html#v:Number",
-      "description": {
-        "fct-module": "Text.ParserCombinators.Parsec.Lisp",
-        "fct-package": "lispparser",
-        "fct-signature": "Number Integer",
-        "fct-source": "src/Text-ParserCombinators-Parsec-Lisp.html#LispVal",
-        "fct-type": "function",
-        "title": "Number"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators Parsec Lisp",
-        "module": "Text.ParserCombinators.Parsec.Lisp",
-        "name": "Number",
-        "normalized": "",
-        "package": "lispparser",
-        "partial": "Number",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lispparser/docs/Text-ParserCombinators-Parsec-Lisp.html#v:String",
-      "description": {
-        "fct-module": "Text.ParserCombinators.Parsec.Lisp",
-        "fct-package": "lispparser",
-        "fct-signature": "String String",
-        "fct-source": "src/Text-ParserCombinators-Parsec-Lisp.html#LispVal",
-        "fct-type": "function",
-        "title": "String"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators Parsec Lisp",
-        "module": "Text.ParserCombinators.Parsec.Lisp",
-        "name": "String",
-        "normalized": "",
-        "package": "lispparser",
-        "partial": "String",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/lispparser/docs/Text-ParserCombinators-Parsec-Lisp.html#v:parseExpr",
-      "description": {
-        "fct-module": "Text.ParserCombinators.Parsec.Lisp",
-        "fct-package": "lispparser",
-        "fct-signature": "Parser LispVal",
-        "fct-source": "src/Text-ParserCombinators-Parsec-Lisp.html#parseExpr",
-        "fct-type": "function",
-        "title": "parseExpr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParserCombinators Parsec Lisp",
-        "module": "Text.ParserCombinators.Parsec.Lisp",
-        "name": "parseExpr",
-        "normalized": "",
-        "package": "lispparser",
-        "partial": "Expr",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

@@ -1,74 +1,84 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/attoparsec-csv/docs/Text-ParseCSV.html#",
-      "description": {
-        "fct-module": "Text.ParseCSV",
-        "fct-package": "attoparsec-csv",
-        "fct-signature": "module",
-        "fct-source": "src/Text-ParseCSV.html",
-        "fct-type": "module",
-        "title": "ParseCSV"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "attoparsec-csv"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParseCSV",
-        "module": "Text.ParseCSV",
-        "name": "ParseCSV",
-        "normalized": "",
-        "package": "attoparsec-csv",
-        "partial": "Parse CSV",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/attoparsec-csv/docs/Text-ParseCSV.html#t:CSV",
-      "description": {
-        "fct-module": "Text.ParseCSV",
-        "fct-package": "attoparsec-csv",
-        "fct-signature": "type",
-        "fct-source": "src/Text-ParseCSV.html#CSV",
-        "fct-type": "type",
-        "title": "CSV"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParseCSV",
-        "module": "Text.ParseCSV",
-        "name": "CSV",
-        "normalized": "",
-        "package": "attoparsec-csv",
-        "partial": "CSV",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParseCSV",
+          "name": "ParseCSV",
+          "package": "attoparsec-csv",
+          "source": "src/Text-ParseCSV.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Text ParseCSV",
+          "module": "Text.ParseCSV",
+          "name": "ParseCSV",
+          "package": "attoparsec-csv",
+          "partial": "Parse CSV",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/attoparsec-csv/docs/Text-ParseCSV.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParseCSV",
+          "name": "CSV",
+          "package": "attoparsec-csv",
+          "source": "src/Text-ParseCSV.html#CSV",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Text ParseCSV",
+          "module": "Text.ParseCSV",
+          "name": "CSV",
+          "package": "attoparsec-csv",
+          "partial": "CSV",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/attoparsec-csv/docs/Text-ParseCSV.html#t:CSV"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.ParseCSV",
+          "name": "parseCSV",
+          "package": "attoparsec-csv",
+          "signature": "Text -\u003e Either String CSV",
+          "source": "src/Text-ParseCSV.html#parseCSV",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text ParseCSV",
+          "module": "Text.ParseCSV",
+          "name": "parseCSV",
+          "normalized": "Text-\u003eEither String CSV",
+          "package": "attoparsec-csv",
+          "partial": "CSV",
+          "signature": "Text-\u003eEither String CSV",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/attoparsec-csv/docs/Text-ParseCSV.html#v:parseCSV"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/attoparsec-csv/docs/Text-ParseCSV.html#v:parseCSV",
-      "description": {
-        "fct-module": "Text.ParseCSV",
-        "fct-package": "attoparsec-csv",
-        "fct-signature": "Text -\u003e Either String CSV",
-        "fct-source": "src/Text-ParseCSV.html#parseCSV",
-        "fct-type": "function",
-        "title": "parseCSV"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text ParseCSV",
-        "module": "Text.ParseCSV",
-        "name": "parseCSV",
-        "normalized": "Text-\u003eEither String CSV",
-        "package": "attoparsec-csv",
-        "partial": "CSV",
-        "signature": "Text-\u003eEither String CSV"
-      }
-    }
-  }
+  ]
 ]

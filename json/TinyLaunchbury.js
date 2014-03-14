@@ -1,268 +1,267 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TinyLaunchbury/docs/TinyLaunchbury.html#",
-      "description": {
-        "fct-module": "TinyLaunchbury",
-        "fct-package": "TinyLaunchbury",
-        "fct-signature": "module",
-        "fct-source": "src/TinyLaunchbury.html",
-        "fct-type": "module",
-        "title": "TinyLaunchbury"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "TinyLaunchbury"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "TinyLaunchbury",
-        "module": "TinyLaunchbury",
-        "name": "TinyLaunchbury",
-        "normalized": "",
-        "package": "TinyLaunchbury",
-        "partial": "Tiny Launchbury",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TinyLaunchbury/docs/TinyLaunchbury.html#t:Expr",
-      "description": {
-        "fct-module": "TinyLaunchbury",
-        "fct-package": "TinyLaunchbury",
-        "fct-signature": "data",
-        "fct-source": "src/TinyLaunchbury.html#Expr",
-        "fct-type": "data",
-        "title": "Expr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "TinyLaunchbury",
-        "module": "TinyLaunchbury",
-        "name": "Expr",
-        "normalized": "",
-        "package": "TinyLaunchbury",
-        "partial": "Expr",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "TinyLaunchbury",
+          "name": "TinyLaunchbury",
+          "package": "TinyLaunchbury",
+          "source": "src/TinyLaunchbury.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "TinyLaunchbury",
+          "module": "TinyLaunchbury",
+          "name": "TinyLaunchbury",
+          "package": "TinyLaunchbury",
+          "partial": "Tiny Launchbury",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/TinyLaunchbury/docs/TinyLaunchbury.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "TinyLaunchbury",
+          "name": "Expr",
+          "package": "TinyLaunchbury",
+          "source": "src/TinyLaunchbury.html#Expr",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "TinyLaunchbury",
+          "module": "TinyLaunchbury",
+          "name": "Expr",
+          "package": "TinyLaunchbury",
+          "partial": "Expr",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/TinyLaunchbury/docs/TinyLaunchbury.html#t:Expr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "TinyLaunchbury",
+          "name": "Apply",
+          "package": "TinyLaunchbury",
+          "signature": "Apply Expr Name",
+          "source": "src/TinyLaunchbury.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "TinyLaunchbury",
+          "module": "TinyLaunchbury",
+          "name": "Apply",
+          "package": "TinyLaunchbury",
+          "partial": "Apply",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/TinyLaunchbury/docs/TinyLaunchbury.html#v:Apply"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "TinyLaunchbury",
+          "name": "Case",
+          "package": "TinyLaunchbury",
+          "signature": "Case Expr Alts",
+          "source": "src/TinyLaunchbury.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "TinyLaunchbury",
+          "module": "TinyLaunchbury",
+          "name": "Case",
+          "package": "TinyLaunchbury",
+          "partial": "Case",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/TinyLaunchbury/docs/TinyLaunchbury.html#v:Case"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "TinyLaunchbury",
+          "name": "Ctor",
+          "package": "TinyLaunchbury",
+          "signature": "Ctor Int [Name]",
+          "source": "src/TinyLaunchbury.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "TinyLaunchbury",
+          "module": "TinyLaunchbury",
+          "name": "Ctor",
+          "normalized": "Ctor Int[Name]",
+          "package": "TinyLaunchbury",
+          "partial": "Ctor",
+          "signature": "Ctor Int[Name]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/TinyLaunchbury/docs/TinyLaunchbury.html#v:Ctor"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "TinyLaunchbury",
+          "name": "Lambda",
+          "package": "TinyLaunchbury",
+          "signature": "Lambda Name Expr",
+          "source": "src/TinyLaunchbury.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "TinyLaunchbury",
+          "module": "TinyLaunchbury",
+          "name": "Lambda",
+          "package": "TinyLaunchbury",
+          "partial": "Lambda",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/TinyLaunchbury/docs/TinyLaunchbury.html#v:Lambda"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "TinyLaunchbury",
+          "name": "Let",
+          "package": "TinyLaunchbury",
+          "signature": "Let Bindings Expr",
+          "source": "src/TinyLaunchbury.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "TinyLaunchbury",
+          "module": "TinyLaunchbury",
+          "name": "Let",
+          "package": "TinyLaunchbury",
+          "partial": "Let",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/TinyLaunchbury/docs/TinyLaunchbury.html#v:Let"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "TinyLaunchbury",
+          "name": "Prim",
+          "package": "TinyLaunchbury",
+          "signature": "Prim Name Expr Expr",
+          "source": "src/TinyLaunchbury.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "TinyLaunchbury",
+          "module": "TinyLaunchbury",
+          "name": "Prim",
+          "package": "TinyLaunchbury",
+          "partial": "Prim",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/TinyLaunchbury/docs/TinyLaunchbury.html#v:Prim"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "TinyLaunchbury",
+          "name": "Var",
+          "package": "TinyLaunchbury",
+          "signature": "Var Name",
+          "source": "src/TinyLaunchbury.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "TinyLaunchbury",
+          "module": "TinyLaunchbury",
+          "name": "Var",
+          "package": "TinyLaunchbury",
+          "partial": "Var",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/TinyLaunchbury/docs/TinyLaunchbury.html#v:Var"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ePrints the result of reduce to stdout.  The main reason for this function\n  is that the log contains newline Chars, and newlines don't format correctly\n  in ghci.\n\u003c/p\u003e",
+          "module": "TinyLaunchbury",
+          "name": "displayReduce",
+          "package": "TinyLaunchbury",
+          "signature": "Expr -\u003e IO ()",
+          "source": "src/TinyLaunchbury.html#displayReduce",
+          "type": "function"
+        },
+        "index": {
+          "description": "Prints the result of reduce to stdout The main reason for this function is that the log contains newline Chars and newlines don format correctly in ghci",
+          "hierarchy": "TinyLaunchbury",
+          "module": "TinyLaunchbury",
+          "name": "displayReduce",
+          "normalized": "Expr-\u003eIO()",
+          "package": "TinyLaunchbury",
+          "partial": "Reduce",
+          "signature": "Expr-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/TinyLaunchbury/docs/TinyLaunchbury.html#v:displayReduce"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eReduces an expression, and returns a string containing the log appended with\n the result\n\u003c/p\u003e",
+          "module": "TinyLaunchbury",
+          "name": "reduce",
+          "package": "TinyLaunchbury",
+          "signature": "Expr -\u003e String",
+          "source": "src/TinyLaunchbury.html#reduce",
+          "type": "function"
+        },
+        "index": {
+          "description": "Reduces an expression and returns string containing the log appended with the result",
+          "hierarchy": "TinyLaunchbury",
+          "module": "TinyLaunchbury",
+          "name": "reduce",
+          "normalized": "Expr-\u003eString",
+          "package": "TinyLaunchbury",
+          "signature": "Expr-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/TinyLaunchbury/docs/TinyLaunchbury.html#v:reduce"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TinyLaunchbury/docs/TinyLaunchbury.html#v:Apply",
-      "description": {
-        "fct-module": "TinyLaunchbury",
-        "fct-package": "TinyLaunchbury",
-        "fct-signature": "Apply Expr Name",
-        "fct-source": "src/TinyLaunchbury.html#Expr",
-        "fct-type": "function",
-        "title": "Apply"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "TinyLaunchbury",
-        "module": "TinyLaunchbury",
-        "name": "Apply",
-        "normalized": "",
-        "package": "TinyLaunchbury",
-        "partial": "Apply",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TinyLaunchbury/docs/TinyLaunchbury.html#v:Case",
-      "description": {
-        "fct-module": "TinyLaunchbury",
-        "fct-package": "TinyLaunchbury",
-        "fct-signature": "Case Expr Alts",
-        "fct-source": "src/TinyLaunchbury.html#Expr",
-        "fct-type": "function",
-        "title": "Case"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "TinyLaunchbury",
-        "module": "TinyLaunchbury",
-        "name": "Case",
-        "normalized": "",
-        "package": "TinyLaunchbury",
-        "partial": "Case",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TinyLaunchbury/docs/TinyLaunchbury.html#v:Ctor",
-      "description": {
-        "fct-module": "TinyLaunchbury",
-        "fct-package": "TinyLaunchbury",
-        "fct-signature": "Ctor Int [Name]",
-        "fct-source": "src/TinyLaunchbury.html#Expr",
-        "fct-type": "function",
-        "title": "Ctor"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "TinyLaunchbury",
-        "module": "TinyLaunchbury",
-        "name": "Ctor",
-        "normalized": "Ctor Int[Name]",
-        "package": "TinyLaunchbury",
-        "partial": "Ctor",
-        "signature": "Ctor Int[Name]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TinyLaunchbury/docs/TinyLaunchbury.html#v:Lambda",
-      "description": {
-        "fct-module": "TinyLaunchbury",
-        "fct-package": "TinyLaunchbury",
-        "fct-signature": "Lambda Name Expr",
-        "fct-source": "src/TinyLaunchbury.html#Expr",
-        "fct-type": "function",
-        "title": "Lambda"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "TinyLaunchbury",
-        "module": "TinyLaunchbury",
-        "name": "Lambda",
-        "normalized": "",
-        "package": "TinyLaunchbury",
-        "partial": "Lambda",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TinyLaunchbury/docs/TinyLaunchbury.html#v:Let",
-      "description": {
-        "fct-module": "TinyLaunchbury",
-        "fct-package": "TinyLaunchbury",
-        "fct-signature": "Let Bindings Expr",
-        "fct-source": "src/TinyLaunchbury.html#Expr",
-        "fct-type": "function",
-        "title": "Let"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "TinyLaunchbury",
-        "module": "TinyLaunchbury",
-        "name": "Let",
-        "normalized": "",
-        "package": "TinyLaunchbury",
-        "partial": "Let",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TinyLaunchbury/docs/TinyLaunchbury.html#v:Prim",
-      "description": {
-        "fct-module": "TinyLaunchbury",
-        "fct-package": "TinyLaunchbury",
-        "fct-signature": "Prim Name Expr Expr",
-        "fct-source": "src/TinyLaunchbury.html#Expr",
-        "fct-type": "function",
-        "title": "Prim"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "TinyLaunchbury",
-        "module": "TinyLaunchbury",
-        "name": "Prim",
-        "normalized": "",
-        "package": "TinyLaunchbury",
-        "partial": "Prim",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TinyLaunchbury/docs/TinyLaunchbury.html#v:Var",
-      "description": {
-        "fct-module": "TinyLaunchbury",
-        "fct-package": "TinyLaunchbury",
-        "fct-signature": "Var Name",
-        "fct-source": "src/TinyLaunchbury.html#Expr",
-        "fct-type": "function",
-        "title": "Var"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "TinyLaunchbury",
-        "module": "TinyLaunchbury",
-        "name": "Var",
-        "normalized": "",
-        "package": "TinyLaunchbury",
-        "partial": "Var",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TinyLaunchbury/docs/TinyLaunchbury.html#v:displayReduce",
-      "description": {
-        "fct-descr": "\u003cp\u003ePrints the result of reduce to stdout.  The main reason for this function\n  is that the log contains newline Chars, and newlines don't format correctly\n  in ghci.\n\u003c/p\u003e",
-        "fct-module": "TinyLaunchbury",
-        "fct-package": "TinyLaunchbury",
-        "fct-signature": "Expr -\u003e IO ()",
-        "fct-source": "src/TinyLaunchbury.html#displayReduce",
-        "fct-type": "function",
-        "title": "displayReduce"
-      },
-      "index": {
-        "description": "Prints the result of reduce to stdout The main reason for this function is that the log contains newline Chars and newlines don format correctly in ghci",
-        "hierarchy": "TinyLaunchbury",
-        "module": "TinyLaunchbury",
-        "name": "displayReduce",
-        "normalized": "Expr-\u003eIO()",
-        "package": "TinyLaunchbury",
-        "partial": "Reduce",
-        "signature": "Expr-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/TinyLaunchbury/docs/TinyLaunchbury.html#v:reduce",
-      "description": {
-        "fct-descr": "\u003cp\u003eReduces an expression, and returns a string containing the log appended with\n the result\n\u003c/p\u003e",
-        "fct-module": "TinyLaunchbury",
-        "fct-package": "TinyLaunchbury",
-        "fct-signature": "Expr -\u003e String",
-        "fct-source": "src/TinyLaunchbury.html#reduce",
-        "fct-type": "function",
-        "title": "reduce"
-      },
-      "index": {
-        "description": "Reduces an expression and returns string containing the log appended with the result",
-        "hierarchy": "TinyLaunchbury",
-        "module": "TinyLaunchbury",
-        "name": "reduce",
-        "normalized": "Expr-\u003eString",
-        "package": "TinyLaunchbury",
-        "partial": "",
-        "signature": "Expr-\u003eString"
-      }
-    }
-  }
+  ]
 ]

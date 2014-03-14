@@ -1,122 +1,135 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aeson-bson/docs/Data-Aeson-Bson.html#",
-      "description": {
-        "fct-module": "Data.Aeson.Bson",
-        "fct-package": "aeson-bson",
-        "fct-signature": "module",
-        "fct-source": "src/Data-Aeson-Bson.html",
-        "fct-type": "module",
-        "title": "Bson"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "aeson-bson"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Aeson Bson",
-        "module": "Data.Aeson.Bson",
-        "name": "Bson",
-        "normalized": "",
-        "package": "aeson-bson",
-        "partial": "Bson",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aeson-bson/docs/Data-Aeson-Bson.html#v:aesonifyValue",
-      "description": {
-        "fct-module": "Data.Aeson.Bson",
-        "fct-package": "aeson-bson",
-        "fct-signature": "Value -\u003e Value",
-        "fct-source": "src/Data-Aeson-Bson.html#aesonifyValue",
-        "fct-type": "function",
-        "title": "aesonifyValue"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Aeson Bson",
-        "module": "Data.Aeson.Bson",
-        "name": "aesonifyValue",
-        "normalized": "Value-\u003eValue",
-        "package": "aeson-bson",
-        "partial": "Value",
-        "signature": "Value-\u003eValue"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Aeson.Bson",
+          "name": "Bson",
+          "package": "aeson-bson",
+          "source": "src/Data-Aeson-Bson.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data Aeson Bson",
+          "module": "Data.Aeson.Bson",
+          "name": "Bson",
+          "package": "aeson-bson",
+          "partial": "Bson",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/aeson-bson/docs/Data-Aeson-Bson.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Aeson.Bson",
+          "name": "aesonifyValue",
+          "package": "aeson-bson",
+          "signature": "Value -\u003e Value",
+          "source": "src/Data-Aeson-Bson.html#aesonifyValue",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Aeson Bson",
+          "module": "Data.Aeson.Bson",
+          "name": "aesonifyValue",
+          "normalized": "Value-\u003eValue",
+          "package": "aeson-bson",
+          "partial": "Value",
+          "signature": "Value-\u003eValue",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aeson-bson/docs/Data-Aeson-Bson.html#v:aesonifyValue"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Aeson.Bson",
+          "name": "bsonifyValue",
+          "package": "aeson-bson",
+          "signature": "Value -\u003e Value",
+          "source": "src/Data-Aeson-Bson.html#bsonifyValue",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Aeson Bson",
+          "module": "Data.Aeson.Bson",
+          "name": "bsonifyValue",
+          "normalized": "Value-\u003eValue",
+          "package": "aeson-bson",
+          "partial": "Value",
+          "signature": "Value-\u003eValue",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aeson-bson/docs/Data-Aeson-Bson.html#v:bsonifyValue"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Aeson.Bson",
+          "name": "toAeson",
+          "package": "aeson-bson",
+          "signature": "Document -\u003e Object",
+          "source": "src/Data-Aeson-Bson.html#toAeson",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Aeson Bson",
+          "module": "Data.Aeson.Bson",
+          "name": "toAeson",
+          "normalized": "Document-\u003eObject",
+          "package": "aeson-bson",
+          "partial": "Aeson",
+          "signature": "Document-\u003eObject",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aeson-bson/docs/Data-Aeson-Bson.html#v:toAeson"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Aeson.Bson",
+          "name": "toBson",
+          "package": "aeson-bson",
+          "signature": "Object -\u003e Document",
+          "source": "src/Data-Aeson-Bson.html#toBson",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Aeson Bson",
+          "module": "Data.Aeson.Bson",
+          "name": "toBson",
+          "normalized": "Object-\u003eDocument",
+          "package": "aeson-bson",
+          "partial": "Bson",
+          "signature": "Object-\u003eDocument",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aeson-bson/docs/Data-Aeson-Bson.html#v:toBson"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aeson-bson/docs/Data-Aeson-Bson.html#v:bsonifyValue",
-      "description": {
-        "fct-module": "Data.Aeson.Bson",
-        "fct-package": "aeson-bson",
-        "fct-signature": "Value -\u003e Value",
-        "fct-source": "src/Data-Aeson-Bson.html#bsonifyValue",
-        "fct-type": "function",
-        "title": "bsonifyValue"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Aeson Bson",
-        "module": "Data.Aeson.Bson",
-        "name": "bsonifyValue",
-        "normalized": "Value-\u003eValue",
-        "package": "aeson-bson",
-        "partial": "Value",
-        "signature": "Value-\u003eValue"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aeson-bson/docs/Data-Aeson-Bson.html#v:toAeson",
-      "description": {
-        "fct-module": "Data.Aeson.Bson",
-        "fct-package": "aeson-bson",
-        "fct-signature": "Document -\u003e Object",
-        "fct-source": "src/Data-Aeson-Bson.html#toAeson",
-        "fct-type": "function",
-        "title": "toAeson"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Aeson Bson",
-        "module": "Data.Aeson.Bson",
-        "name": "toAeson",
-        "normalized": "Document-\u003eObject",
-        "package": "aeson-bson",
-        "partial": "Aeson",
-        "signature": "Document-\u003eObject"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aeson-bson/docs/Data-Aeson-Bson.html#v:toBson",
-      "description": {
-        "fct-module": "Data.Aeson.Bson",
-        "fct-package": "aeson-bson",
-        "fct-signature": "Object -\u003e Document",
-        "fct-source": "src/Data-Aeson-Bson.html#toBson",
-        "fct-type": "function",
-        "title": "toBson"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Aeson Bson",
-        "module": "Data.Aeson.Bson",
-        "name": "toBson",
-        "normalized": "Object-\u003eDocument",
-        "package": "aeson-bson",
-        "partial": "Bson",
-        "signature": "Object-\u003eDocument"
-      }
-    }
-  }
+  ]
 ]

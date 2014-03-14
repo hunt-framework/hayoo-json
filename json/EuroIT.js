@@ -1,194 +1,197 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/EuroIT/docs/Data-EuroIT.html#",
-      "description": {
-        "fct-module": "Data.EuroIT",
-        "fct-package": "EuroIT",
-        "fct-signature": "module",
-        "fct-source": "src/Data-EuroIT.html",
-        "fct-type": "module",
-        "title": "EuroIT"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "EuroIT"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Data EuroIT",
-        "module": "Data.EuroIT",
-        "name": "EuroIT",
-        "normalized": "",
-        "package": "EuroIT",
-        "partial": "Euro IT",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/EuroIT/docs/Data-EuroIT.html#t:DEuro",
-      "description": {
-        "fct-module": "Data.EuroIT",
-        "fct-package": "EuroIT",
-        "fct-signature": "newtype",
-        "fct-source": "src/Data-EuroIT.html#DEuro",
-        "fct-type": "newtype",
-        "title": "DEuro"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data EuroIT",
-        "module": "Data.EuroIT",
-        "name": "DEuro",
-        "normalized": "",
-        "package": "EuroIT",
-        "partial": "DEuro",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.EuroIT",
+          "name": "EuroIT",
+          "package": "EuroIT",
+          "source": "src/Data-EuroIT.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data EuroIT",
+          "module": "Data.EuroIT",
+          "name": "EuroIT",
+          "package": "EuroIT",
+          "partial": "Euro IT",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/EuroIT/docs/Data-EuroIT.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.EuroIT",
+          "name": "DEuro",
+          "package": "EuroIT",
+          "source": "src/Data-EuroIT.html#DEuro",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Data EuroIT",
+          "module": "Data.EuroIT",
+          "name": "DEuro",
+          "package": "EuroIT",
+          "partial": "DEuro",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/EuroIT/docs/Data-EuroIT.html#t:DEuro"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.EuroIT",
+          "name": "Euro",
+          "package": "EuroIT",
+          "source": "src/Data-EuroIT.html#Euro",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Data EuroIT",
+          "module": "Data.EuroIT",
+          "name": "Euro",
+          "package": "EuroIT",
+          "partial": "Euro",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/EuroIT/docs/Data-EuroIT.html#t:Euro"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.EuroIT",
+          "name": "($^)",
+          "package": "EuroIT",
+          "signature": "DEuro -\u003e Euro -\u003e Euro",
+          "source": "src/Data-EuroIT.html#%24%5E",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data EuroIT",
+          "module": "Data.EuroIT",
+          "name": "($^) $^",
+          "normalized": "DEuro-\u003eEuro-\u003eEuro",
+          "package": "EuroIT",
+          "signature": "DEuro-\u003eEuro-\u003eEuro",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/EuroIT/docs/Data-EuroIT.html#v:-36--94-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.EuroIT",
+          "name": "DEuro",
+          "package": "EuroIT",
+          "signature": "DEuro (Euro -\u003e Euro)",
+          "source": "src/Data-EuroIT.html#DEuro",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data EuroIT",
+          "module": "Data.EuroIT",
+          "name": "DEuro",
+          "normalized": "DEuro(Euro-\u003eEuro)",
+          "package": "EuroIT",
+          "partial": "DEuro",
+          "signature": "DEuro(Euro-\u003eEuro)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/EuroIT/docs/Data-EuroIT.html#v:DEuro"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.EuroIT",
+          "name": "Euro",
+          "package": "EuroIT",
+          "signature": "Euro Rational",
+          "source": "src/Data-EuroIT.html#Euro",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data EuroIT",
+          "module": "Data.EuroIT",
+          "name": "Euro",
+          "package": "EuroIT",
+          "partial": "Euro",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/EuroIT/docs/Data-EuroIT.html#v:Euro"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.EuroIT",
+          "name": "mkDEuro",
+          "package": "EuroIT",
+          "signature": "Euro -\u003e DEuro",
+          "source": "src/Data-EuroIT.html#mkDEuro",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data EuroIT",
+          "module": "Data.EuroIT",
+          "name": "mkDEuro",
+          "normalized": "Euro-\u003eDEuro",
+          "package": "EuroIT",
+          "partial": "DEuro",
+          "signature": "Euro-\u003eDEuro",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/EuroIT/docs/Data-EuroIT.html#v:mkDEuro"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.EuroIT",
+          "name": "opposite",
+          "package": "EuroIT",
+          "signature": "DEuro -\u003e DEuro",
+          "source": "src/Data-EuroIT.html#opposite",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data EuroIT",
+          "module": "Data.EuroIT",
+          "name": "opposite",
+          "normalized": "DEuro-\u003eDEuro",
+          "package": "EuroIT",
+          "signature": "DEuro-\u003eDEuro",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/EuroIT/docs/Data-EuroIT.html#v:opposite"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/EuroIT/docs/Data-EuroIT.html#t:Euro",
-      "description": {
-        "fct-module": "Data.EuroIT",
-        "fct-package": "EuroIT",
-        "fct-signature": "newtype",
-        "fct-source": "src/Data-EuroIT.html#Euro",
-        "fct-type": "newtype",
-        "title": "Euro"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data EuroIT",
-        "module": "Data.EuroIT",
-        "name": "Euro",
-        "normalized": "",
-        "package": "EuroIT",
-        "partial": "Euro",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/EuroIT/docs/Data-EuroIT.html#v:-36--94-",
-      "description": {
-        "fct-module": "Data.EuroIT",
-        "fct-package": "EuroIT",
-        "fct-signature": "DEuro -\u003e Euro -\u003e Euro",
-        "fct-source": "src/Data-EuroIT.html#%24%5E",
-        "fct-type": "function",
-        "title": "($^)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data EuroIT",
-        "module": "Data.EuroIT",
-        "name": "($^) $^",
-        "normalized": "DEuro-\u003eEuro-\u003eEuro",
-        "package": "EuroIT",
-        "partial": "",
-        "signature": "DEuro-\u003eEuro-\u003eEuro"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/EuroIT/docs/Data-EuroIT.html#v:DEuro",
-      "description": {
-        "fct-module": "Data.EuroIT",
-        "fct-package": "EuroIT",
-        "fct-signature": "DEuro (Euro -\u003e Euro)",
-        "fct-source": "src/Data-EuroIT.html#DEuro",
-        "fct-type": "function",
-        "title": "DEuro"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data EuroIT",
-        "module": "Data.EuroIT",
-        "name": "DEuro",
-        "normalized": "DEuro(Euro-\u003eEuro)",
-        "package": "EuroIT",
-        "partial": "DEuro",
-        "signature": "DEuro(Euro-\u003eEuro)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/EuroIT/docs/Data-EuroIT.html#v:Euro",
-      "description": {
-        "fct-module": "Data.EuroIT",
-        "fct-package": "EuroIT",
-        "fct-signature": "Euro Rational",
-        "fct-source": "src/Data-EuroIT.html#Euro",
-        "fct-type": "function",
-        "title": "Euro"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data EuroIT",
-        "module": "Data.EuroIT",
-        "name": "Euro",
-        "normalized": "",
-        "package": "EuroIT",
-        "partial": "Euro",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/EuroIT/docs/Data-EuroIT.html#v:mkDEuro",
-      "description": {
-        "fct-module": "Data.EuroIT",
-        "fct-package": "EuroIT",
-        "fct-signature": "Euro -\u003e DEuro",
-        "fct-source": "src/Data-EuroIT.html#mkDEuro",
-        "fct-type": "function",
-        "title": "mkDEuro"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data EuroIT",
-        "module": "Data.EuroIT",
-        "name": "mkDEuro",
-        "normalized": "Euro-\u003eDEuro",
-        "package": "EuroIT",
-        "partial": "DEuro",
-        "signature": "Euro-\u003eDEuro"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/EuroIT/docs/Data-EuroIT.html#v:opposite",
-      "description": {
-        "fct-module": "Data.EuroIT",
-        "fct-package": "EuroIT",
-        "fct-signature": "DEuro -\u003e DEuro",
-        "fct-source": "src/Data-EuroIT.html#opposite",
-        "fct-type": "function",
-        "title": "opposite"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data EuroIT",
-        "module": "Data.EuroIT",
-        "name": "opposite",
-        "normalized": "DEuro-\u003eDEuro",
-        "package": "EuroIT",
-        "partial": "",
-        "signature": "DEuro-\u003eDEuro"
-      }
-    }
-  }
+  ]
 ]

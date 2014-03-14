@@ -1,74 +1,83 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/data-default/docs/Data-Default.html#",
-      "description": {
-        "fct-module": "Data.Default",
-        "fct-package": "data-default",
-        "fct-signature": "module",
-        "fct-source": "src/Data-Default.html",
-        "fct-type": "module",
-        "title": "Default"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "data-default"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Default",
-        "module": "Data.Default",
-        "name": "Default",
-        "normalized": "",
-        "package": "data-default",
-        "partial": "Default",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/data-default/docs/Data-Default.html#t:Default",
-      "description": {
-        "fct-descr": "\u003cp\u003eA class for types with a default value.\n\u003c/p\u003e",
-        "fct-module": "Data.Default",
-        "fct-package": "data-default",
-        "fct-signature": "class",
-        "fct-type": "class",
-        "title": "Default"
-      },
-      "index": {
-        "description": "class for types with default value",
-        "hierarchy": "Data Default",
-        "module": "Data.Default",
-        "name": "Default",
-        "normalized": "",
-        "package": "data-default",
-        "partial": "Default",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Default",
+          "name": "Default",
+          "package": "data-default",
+          "source": "src/Data-Default.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data Default",
+          "module": "Data.Default",
+          "name": "Default",
+          "package": "data-default",
+          "partial": "Default",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/data-default/docs/Data-Default.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eA class for types with a default value.\n\u003c/p\u003e",
+          "module": "Data.Default",
+          "name": "Default",
+          "package": "data-default",
+          "type": "class"
+        },
+        "index": {
+          "description": "class for types with default value",
+          "hierarchy": "Data Default",
+          "module": "Data.Default",
+          "name": "Default",
+          "package": "data-default",
+          "partial": "Default",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/data-default/docs/Data-Default.html#t:Default"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eThe default value for this type.\n\u003c/p\u003e",
+          "module": "Data.Default",
+          "name": "def",
+          "package": "data-default",
+          "signature": "a",
+          "type": "method"
+        },
+        "index": {
+          "description": "The default value for this type",
+          "hierarchy": "Data Default",
+          "module": "Data.Default",
+          "name": "def",
+          "package": "data-default",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/data-default/docs/Data-Default.html#v:def"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/data-default/docs/Data-Default.html#v:def",
-      "description": {
-        "fct-descr": "\u003cp\u003eThe default value for this type.\n\u003c/p\u003e",
-        "fct-module": "Data.Default",
-        "fct-package": "data-default",
-        "fct-signature": "a",
-        "fct-type": "method",
-        "title": "def"
-      },
-      "index": {
-        "description": "The default value for this type",
-        "hierarchy": "Data Default",
-        "module": "Data.Default",
-        "name": "def",
-        "normalized": "",
-        "package": "data-default",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

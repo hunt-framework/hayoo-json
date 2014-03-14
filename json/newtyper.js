@@ -1,122 +1,131 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/newtyper/docs/Control-Newtyper.html#",
-      "description": {
-        "fct-module": "Control.Newtyper",
-        "fct-package": "newtyper",
-        "fct-signature": "module",
-        "fct-source": "src/Control-Newtyper.html",
-        "fct-type": "module",
-        "title": "Newtyper"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "newtyper"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Newtyper",
-        "module": "Control.Newtyper",
-        "name": "Newtyper",
-        "normalized": "",
-        "package": "newtyper",
-        "partial": "Newtyper",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/newtyper/docs/Control-Newtyper.html#v:packF",
-      "description": {
-        "fct-module": "Control.Newtyper",
-        "fct-package": "newtyper",
-        "fct-signature": "(a -\u003e f o) -\u003e a -\u003e f n",
-        "fct-source": "src/Control-Newtyper.html#packF",
-        "fct-type": "function",
-        "title": "packF"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Newtyper",
-        "module": "Control.Newtyper",
-        "name": "packF",
-        "normalized": "(a-\u003eb c)-\u003ea-\u003eb d",
-        "package": "newtyper",
-        "partial": "",
-        "signature": "(a-\u003ef o)-\u003ea-\u003ef n"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Newtyper",
+          "name": "Newtyper",
+          "package": "newtyper",
+          "source": "src/Control-Newtyper.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Control Newtyper",
+          "module": "Control.Newtyper",
+          "name": "Newtyper",
+          "package": "newtyper",
+          "partial": "Newtyper",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/newtyper/docs/Control-Newtyper.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Newtyper",
+          "name": "packF",
+          "package": "newtyper",
+          "signature": "(a -\u003e f o) -\u003e a -\u003e f n",
+          "source": "src/Control-Newtyper.html#packF",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Newtyper",
+          "module": "Control.Newtyper",
+          "name": "packF",
+          "normalized": "(a-\u003eb c)-\u003ea-\u003eb d",
+          "package": "newtyper",
+          "signature": "(a-\u003ef o)-\u003ea-\u003ef n",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/newtyper/docs/Control-Newtyper.html#v:packF"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Newtyper",
+          "name": "packM",
+          "package": "newtyper",
+          "signature": "(a -\u003e m o) -\u003e a -\u003e m n",
+          "source": "src/Control-Newtyper.html#packM",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Newtyper",
+          "module": "Control.Newtyper",
+          "name": "packM",
+          "normalized": "(a-\u003eb c)-\u003ea-\u003eb d",
+          "package": "newtyper",
+          "signature": "(a-\u003em o)-\u003ea-\u003em n",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/newtyper/docs/Control-Newtyper.html#v:packM"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Newtyper",
+          "name": "unpackF",
+          "package": "newtyper",
+          "signature": "(a -\u003e f n) -\u003e a -\u003e f o",
+          "source": "src/Control-Newtyper.html#unpackF",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Newtyper",
+          "module": "Control.Newtyper",
+          "name": "unpackF",
+          "normalized": "(a-\u003eb c)-\u003ea-\u003eb d",
+          "package": "newtyper",
+          "signature": "(a-\u003ef n)-\u003ea-\u003ef o",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/newtyper/docs/Control-Newtyper.html#v:unpackF"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Newtyper",
+          "name": "unpackM",
+          "package": "newtyper",
+          "signature": "(a -\u003e m n) -\u003e a -\u003e m o",
+          "source": "src/Control-Newtyper.html#unpackM",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Newtyper",
+          "module": "Control.Newtyper",
+          "name": "unpackM",
+          "normalized": "(a-\u003eb c)-\u003ea-\u003eb d",
+          "package": "newtyper",
+          "signature": "(a-\u003em n)-\u003ea-\u003em o",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/newtyper/docs/Control-Newtyper.html#v:unpackM"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/newtyper/docs/Control-Newtyper.html#v:packM",
-      "description": {
-        "fct-module": "Control.Newtyper",
-        "fct-package": "newtyper",
-        "fct-signature": "(a -\u003e m o) -\u003e a -\u003e m n",
-        "fct-source": "src/Control-Newtyper.html#packM",
-        "fct-type": "function",
-        "title": "packM"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Newtyper",
-        "module": "Control.Newtyper",
-        "name": "packM",
-        "normalized": "(a-\u003eb c)-\u003ea-\u003eb d",
-        "package": "newtyper",
-        "partial": "",
-        "signature": "(a-\u003em o)-\u003ea-\u003em n"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/newtyper/docs/Control-Newtyper.html#v:unpackF",
-      "description": {
-        "fct-module": "Control.Newtyper",
-        "fct-package": "newtyper",
-        "fct-signature": "(a -\u003e f n) -\u003e a -\u003e f o",
-        "fct-source": "src/Control-Newtyper.html#unpackF",
-        "fct-type": "function",
-        "title": "unpackF"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Newtyper",
-        "module": "Control.Newtyper",
-        "name": "unpackF",
-        "normalized": "(a-\u003eb c)-\u003ea-\u003eb d",
-        "package": "newtyper",
-        "partial": "",
-        "signature": "(a-\u003ef n)-\u003ea-\u003ef o"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/newtyper/docs/Control-Newtyper.html#v:unpackM",
-      "description": {
-        "fct-module": "Control.Newtyper",
-        "fct-package": "newtyper",
-        "fct-signature": "(a -\u003e m n) -\u003e a -\u003e m o",
-        "fct-source": "src/Control-Newtyper.html#unpackM",
-        "fct-type": "function",
-        "title": "unpackM"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Newtyper",
-        "module": "Control.Newtyper",
-        "name": "unpackM",
-        "normalized": "(a-\u003eb c)-\u003ea-\u003eb d",
-        "package": "newtyper",
-        "partial": "",
-        "signature": "(a-\u003em n)-\u003ea-\u003em o"
-      }
-    }
-  }
+  ]
 ]

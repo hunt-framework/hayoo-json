@@ -1,290 +1,281 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/posix-waitpid/docs/System-Posix-Waitpid.html#",
-      "description": {
-        "fct-module": "System.Posix.Waitpid",
-        "fct-package": "posix-waitpid",
-        "fct-signature": "module",
-        "fct-source": "src/System-Posix-Waitpid.html",
-        "fct-type": "module",
-        "title": "Waitpid"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "posix-waitpid"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Waitpid",
-        "module": "System.Posix.Waitpid",
-        "name": "Waitpid",
-        "normalized": "",
-        "package": "posix-waitpid",
-        "partial": "Waitpid",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/posix-waitpid/docs/System-Posix-Waitpid.html#t:Flag",
-      "description": {
-        "fct-module": "System.Posix.Waitpid",
-        "fct-package": "posix-waitpid",
-        "fct-signature": "data",
-        "fct-source": "src/System-Posix-Waitpid.html#Flag",
-        "fct-type": "data",
-        "title": "Flag"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Waitpid",
-        "module": "System.Posix.Waitpid",
-        "name": "Flag",
-        "normalized": "",
-        "package": "posix-waitpid",
-        "partial": "Flag",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Waitpid",
+          "name": "Waitpid",
+          "package": "posix-waitpid",
+          "source": "src/System-Posix-Waitpid.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "System Posix Waitpid",
+          "module": "System.Posix.Waitpid",
+          "name": "Waitpid",
+          "package": "posix-waitpid",
+          "partial": "Waitpid",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/posix-waitpid/docs/System-Posix-Waitpid.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Waitpid",
+          "name": "Flag",
+          "package": "posix-waitpid",
+          "source": "src/System-Posix-Waitpid.html#Flag",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "System Posix Waitpid",
+          "module": "System.Posix.Waitpid",
+          "name": "Flag",
+          "package": "posix-waitpid",
+          "partial": "Flag",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/posix-waitpid/docs/System-Posix-Waitpid.html#t:Flag"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Waitpid",
+          "name": "Status",
+          "package": "posix-waitpid",
+          "source": "src/System-Posix-Waitpid.html#Status",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "System Posix Waitpid",
+          "module": "System.Posix.Waitpid",
+          "name": "Status",
+          "package": "posix-waitpid",
+          "partial": "Status",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/posix-waitpid/docs/System-Posix-Waitpid.html#t:Status"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Waitpid",
+          "name": "Continued",
+          "package": "posix-waitpid",
+          "signature": "Continued",
+          "source": "src/System-Posix-Waitpid.html#Status",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Posix Waitpid",
+          "module": "System.Posix.Waitpid",
+          "name": "Continued",
+          "package": "posix-waitpid",
+          "partial": "Continued",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/posix-waitpid/docs/System-Posix-Waitpid.html#v:Continued"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Waitpid",
+          "name": "Exited",
+          "package": "posix-waitpid",
+          "signature": "Exited Int",
+          "source": "src/System-Posix-Waitpid.html#Status",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Posix Waitpid",
+          "module": "System.Posix.Waitpid",
+          "name": "Exited",
+          "package": "posix-waitpid",
+          "partial": "Exited",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/posix-waitpid/docs/System-Posix-Waitpid.html#v:Exited"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Waitpid",
+          "name": "IncludeContinued",
+          "package": "posix-waitpid",
+          "signature": "IncludeContinued",
+          "source": "src/System-Posix-Waitpid.html#Flag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Posix Waitpid",
+          "module": "System.Posix.Waitpid",
+          "name": "IncludeContinued",
+          "package": "posix-waitpid",
+          "partial": "Include Continued",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/posix-waitpid/docs/System-Posix-Waitpid.html#v:IncludeContinued"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Waitpid",
+          "name": "IncludeUntraced",
+          "package": "posix-waitpid",
+          "signature": "IncludeUntraced",
+          "source": "src/System-Posix-Waitpid.html#Flag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Posix Waitpid",
+          "module": "System.Posix.Waitpid",
+          "name": "IncludeUntraced",
+          "package": "posix-waitpid",
+          "partial": "Include Untraced",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/posix-waitpid/docs/System-Posix-Waitpid.html#v:IncludeUntraced"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Waitpid",
+          "name": "NoHang",
+          "package": "posix-waitpid",
+          "signature": "NoHang",
+          "source": "src/System-Posix-Waitpid.html#Flag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Posix Waitpid",
+          "module": "System.Posix.Waitpid",
+          "name": "NoHang",
+          "package": "posix-waitpid",
+          "partial": "No Hang",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/posix-waitpid/docs/System-Posix-Waitpid.html#v:NoHang"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Waitpid",
+          "name": "Signaled",
+          "package": "posix-waitpid",
+          "signature": "Signaled Signal",
+          "source": "src/System-Posix-Waitpid.html#Status",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Posix Waitpid",
+          "module": "System.Posix.Waitpid",
+          "name": "Signaled",
+          "package": "posix-waitpid",
+          "partial": "Signaled",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/posix-waitpid/docs/System-Posix-Waitpid.html#v:Signaled"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Waitpid",
+          "name": "Stopped",
+          "package": "posix-waitpid",
+          "signature": "Stopped Signal",
+          "source": "src/System-Posix-Waitpid.html#Status",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Posix Waitpid",
+          "module": "System.Posix.Waitpid",
+          "name": "Stopped",
+          "package": "posix-waitpid",
+          "partial": "Stopped",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/posix-waitpid/docs/System-Posix-Waitpid.html#v:Stopped"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Waitpid",
+          "name": "c_waitpid",
+          "package": "posix-waitpid",
+          "signature": "CPid -\u003e Ptr CInt -\u003e CInt -\u003e IO CPid",
+          "source": "src/System-Posix-Waitpid.html#c_waitpid",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Posix Waitpid",
+          "module": "System.Posix.Waitpid",
+          "name": "c_waitpid",
+          "normalized": "CPid-\u003ePtr CInt-\u003eCInt-\u003eIO CPid",
+          "package": "posix-waitpid",
+          "signature": "CPid-\u003ePtr CInt-\u003eCInt-\u003eIO CPid",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/posix-waitpid/docs/System-Posix-Waitpid.html#v:c_waitpid"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Posix.Waitpid",
+          "name": "waitpid",
+          "package": "posix-waitpid",
+          "signature": "CPid -\u003e [Flag] -\u003e IO (Maybe (CPid, Status))",
+          "source": "src/System-Posix-Waitpid.html#waitpid",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Posix Waitpid",
+          "module": "System.Posix.Waitpid",
+          "name": "waitpid",
+          "normalized": "CPid-\u003e[Flag]-\u003eIO(Maybe(CPid,Status))",
+          "package": "posix-waitpid",
+          "signature": "CPid-\u003e[Flag]-\u003eIO(Maybe(CPid,Status))",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/posix-waitpid/docs/System-Posix-Waitpid.html#v:waitpid"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/posix-waitpid/docs/System-Posix-Waitpid.html#t:Status",
-      "description": {
-        "fct-module": "System.Posix.Waitpid",
-        "fct-package": "posix-waitpid",
-        "fct-signature": "data",
-        "fct-source": "src/System-Posix-Waitpid.html#Status",
-        "fct-type": "data",
-        "title": "Status"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Waitpid",
-        "module": "System.Posix.Waitpid",
-        "name": "Status",
-        "normalized": "",
-        "package": "posix-waitpid",
-        "partial": "Status",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/posix-waitpid/docs/System-Posix-Waitpid.html#v:Continued",
-      "description": {
-        "fct-module": "System.Posix.Waitpid",
-        "fct-package": "posix-waitpid",
-        "fct-signature": "Continued",
-        "fct-source": "src/System-Posix-Waitpid.html#Status",
-        "fct-type": "function",
-        "title": "Continued"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Waitpid",
-        "module": "System.Posix.Waitpid",
-        "name": "Continued",
-        "normalized": "",
-        "package": "posix-waitpid",
-        "partial": "Continued",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/posix-waitpid/docs/System-Posix-Waitpid.html#v:Exited",
-      "description": {
-        "fct-module": "System.Posix.Waitpid",
-        "fct-package": "posix-waitpid",
-        "fct-signature": "Exited Int",
-        "fct-source": "src/System-Posix-Waitpid.html#Status",
-        "fct-type": "function",
-        "title": "Exited"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Waitpid",
-        "module": "System.Posix.Waitpid",
-        "name": "Exited",
-        "normalized": "",
-        "package": "posix-waitpid",
-        "partial": "Exited",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/posix-waitpid/docs/System-Posix-Waitpid.html#v:IncludeContinued",
-      "description": {
-        "fct-module": "System.Posix.Waitpid",
-        "fct-package": "posix-waitpid",
-        "fct-signature": "IncludeContinued",
-        "fct-source": "src/System-Posix-Waitpid.html#Flag",
-        "fct-type": "function",
-        "title": "IncludeContinued"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Waitpid",
-        "module": "System.Posix.Waitpid",
-        "name": "IncludeContinued",
-        "normalized": "",
-        "package": "posix-waitpid",
-        "partial": "Include Continued",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/posix-waitpid/docs/System-Posix-Waitpid.html#v:IncludeUntraced",
-      "description": {
-        "fct-module": "System.Posix.Waitpid",
-        "fct-package": "posix-waitpid",
-        "fct-signature": "IncludeUntraced",
-        "fct-source": "src/System-Posix-Waitpid.html#Flag",
-        "fct-type": "function",
-        "title": "IncludeUntraced"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Waitpid",
-        "module": "System.Posix.Waitpid",
-        "name": "IncludeUntraced",
-        "normalized": "",
-        "package": "posix-waitpid",
-        "partial": "Include Untraced",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/posix-waitpid/docs/System-Posix-Waitpid.html#v:NoHang",
-      "description": {
-        "fct-module": "System.Posix.Waitpid",
-        "fct-package": "posix-waitpid",
-        "fct-signature": "NoHang",
-        "fct-source": "src/System-Posix-Waitpid.html#Flag",
-        "fct-type": "function",
-        "title": "NoHang"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Waitpid",
-        "module": "System.Posix.Waitpid",
-        "name": "NoHang",
-        "normalized": "",
-        "package": "posix-waitpid",
-        "partial": "No Hang",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/posix-waitpid/docs/System-Posix-Waitpid.html#v:Signaled",
-      "description": {
-        "fct-module": "System.Posix.Waitpid",
-        "fct-package": "posix-waitpid",
-        "fct-signature": "Signaled Signal",
-        "fct-source": "src/System-Posix-Waitpid.html#Status",
-        "fct-type": "function",
-        "title": "Signaled"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Waitpid",
-        "module": "System.Posix.Waitpid",
-        "name": "Signaled",
-        "normalized": "",
-        "package": "posix-waitpid",
-        "partial": "Signaled",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/posix-waitpid/docs/System-Posix-Waitpid.html#v:Stopped",
-      "description": {
-        "fct-module": "System.Posix.Waitpid",
-        "fct-package": "posix-waitpid",
-        "fct-signature": "Stopped Signal",
-        "fct-source": "src/System-Posix-Waitpid.html#Status",
-        "fct-type": "function",
-        "title": "Stopped"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Waitpid",
-        "module": "System.Posix.Waitpid",
-        "name": "Stopped",
-        "normalized": "",
-        "package": "posix-waitpid",
-        "partial": "Stopped",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/posix-waitpid/docs/System-Posix-Waitpid.html#v:c_waitpid",
-      "description": {
-        "fct-module": "System.Posix.Waitpid",
-        "fct-package": "posix-waitpid",
-        "fct-signature": "CPid -\u003e Ptr CInt -\u003e CInt -\u003e IO CPid",
-        "fct-source": "src/System-Posix-Waitpid.html#c_waitpid",
-        "fct-type": "function",
-        "title": "c_waitpid"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Waitpid",
-        "module": "System.Posix.Waitpid",
-        "name": "c_waitpid",
-        "normalized": "CPid-\u003ePtr CInt-\u003eCInt-\u003eIO CPid",
-        "package": "posix-waitpid",
-        "partial": "",
-        "signature": "CPid-\u003ePtr CInt-\u003eCInt-\u003eIO CPid"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/posix-waitpid/docs/System-Posix-Waitpid.html#v:waitpid",
-      "description": {
-        "fct-module": "System.Posix.Waitpid",
-        "fct-package": "posix-waitpid",
-        "fct-signature": "CPid -\u003e [Flag] -\u003e IO (Maybe (CPid, Status))",
-        "fct-source": "src/System-Posix-Waitpid.html#waitpid",
-        "fct-type": "function",
-        "title": "waitpid"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Posix Waitpid",
-        "module": "System.Posix.Waitpid",
-        "name": "waitpid",
-        "normalized": "CPid-\u003e[Flag]-\u003eIO(Maybe(CPid,Status))",
-        "package": "posix-waitpid",
-        "partial": "",
-        "signature": "CPid-\u003e[Flag]-\u003eIO(Maybe(CPid,Status))"
-      }
-    }
-  }
+  ]
 ]

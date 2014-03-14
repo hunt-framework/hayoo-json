@@ -1,76 +1,86 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grapefruit-ui-gtk/docs/Graphics-UI-Grapefruit-GTK.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eThis module provides a GTK+-based UI backend.\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Graphics.UI.Grapefruit.GTK",
-        "fct-package": "grapefruit-ui-gtk",
-        "fct-signature": "module",
-        "fct-source": "src/Graphics-UI-Grapefruit-GTK.html",
-        "fct-type": "module",
-        "title": "GTK"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "grapefruit-ui-gtk"
       },
-      "index": {
-        "description": "This module provides GTK based UI backend",
-        "hierarchy": "Graphics UI Grapefruit GTK",
-        "module": "Graphics.UI.Grapefruit.GTK",
-        "name": "GTK",
-        "normalized": "",
-        "package": "grapefruit-ui-gtk",
-        "partial": "GTK",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grapefruit-ui-gtk/docs/Graphics-UI-Grapefruit-GTK.html#t:GTK",
-      "description": {
-        "fct-descr": "\u003cp\u003eDenotes the GTK+-based UI backend.\n\u003c/p\u003e\u003cp\u003eSee the documentation of \u003ca\u003eGraphics.UI.Grapefruit.Backend\u003c/a\u003e for an introduction to UI\n        backends.\n\u003c/p\u003e",
-        "fct-module": "Graphics.UI.Grapefruit.GTK",
-        "fct-package": "grapefruit-ui-gtk",
-        "fct-signature": "data",
-        "fct-source": "src/Graphics-UI-Grapefruit-GTK.html#GTK",
-        "fct-type": "data",
-        "title": "GTK"
-      },
-      "index": {
-        "description": "Denotes the GTK based UI backend See the documentation of Graphics.UI.Grapefruit.Backend for an introduction to UI backends",
-        "hierarchy": "Graphics UI Grapefruit GTK",
-        "module": "Graphics.UI.Grapefruit.GTK",
-        "name": "GTK",
-        "normalized": "",
-        "package": "grapefruit-ui-gtk",
-        "partial": "GTK",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eThis module provides a GTK+-based UI backend.\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Graphics.UI.Grapefruit.GTK",
+          "name": "GTK",
+          "package": "grapefruit-ui-gtk",
+          "source": "src/Graphics-UI-Grapefruit-GTK.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "This module provides GTK based UI backend",
+          "hierarchy": "Graphics UI Grapefruit GTK",
+          "module": "Graphics.UI.Grapefruit.GTK",
+          "name": "GTK",
+          "package": "grapefruit-ui-gtk",
+          "partial": "GTK",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/grapefruit-ui-gtk/docs/Graphics-UI-Grapefruit-GTK.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eDenotes the GTK+-based UI backend.\n\u003c/p\u003e\u003cp\u003eSee the documentation of \u003ca\u003eGraphics.UI.Grapefruit.Backend\u003c/a\u003e for an introduction to UI\n        backends.\n\u003c/p\u003e",
+          "module": "Graphics.UI.Grapefruit.GTK",
+          "name": "GTK",
+          "package": "grapefruit-ui-gtk",
+          "source": "src/Graphics-UI-Grapefruit-GTK.html#GTK",
+          "type": "data"
+        },
+        "index": {
+          "description": "Denotes the GTK based UI backend See the documentation of Graphics.UI.Grapefruit.Backend for an introduction to UI backends",
+          "hierarchy": "Graphics UI Grapefruit GTK",
+          "module": "Graphics.UI.Grapefruit.GTK",
+          "name": "GTK",
+          "package": "grapefruit-ui-gtk",
+          "partial": "GTK",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/grapefruit-ui-gtk/docs/Graphics-UI-Grapefruit-GTK.html#t:GTK"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.Grapefruit.GTK",
+          "name": "GTK",
+          "package": "grapefruit-ui-gtk",
+          "signature": "GTK",
+          "source": "src/Graphics-UI-Grapefruit-GTK.html#GTK",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI Grapefruit GTK",
+          "module": "Graphics.UI.Grapefruit.GTK",
+          "name": "GTK",
+          "package": "grapefruit-ui-gtk",
+          "partial": "GTK",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/grapefruit-ui-gtk/docs/Graphics-UI-Grapefruit-GTK.html#v:GTK"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/grapefruit-ui-gtk/docs/Graphics-UI-Grapefruit-GTK.html#v:GTK",
-      "description": {
-        "fct-module": "Graphics.UI.Grapefruit.GTK",
-        "fct-package": "grapefruit-ui-gtk",
-        "fct-signature": "GTK",
-        "fct-source": "src/Graphics-UI-Grapefruit-GTK.html#GTK",
-        "fct-type": "function",
-        "title": "GTK"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI Grapefruit GTK",
-        "module": "Graphics.UI.Grapefruit.GTK",
-        "name": "GTK",
-        "normalized": "",
-        "package": "grapefruit-ui-gtk",
-        "partial": "GTK",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

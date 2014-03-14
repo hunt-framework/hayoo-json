@@ -1,101 +1,110 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/monad-products/docs/Control-Monad-Product.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eMonad Products \n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Control.Monad.Product",
-        "fct-package": "monad-products",
-        "fct-signature": "module",
-        "fct-source": "src/Control-Monad-Product.html",
-        "fct-type": "module",
-        "title": "Product"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "monad-products"
       },
-      "index": {
-        "description": "Monad Products",
-        "hierarchy": "Control Monad Product",
-        "module": "Control.Monad.Product",
-        "name": "Product",
-        "normalized": "",
-        "package": "monad-products",
-        "partial": "Product",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/monad-products/docs/Control-Monad-Product.html#t:Product",
-      "description": {
-        "fct-descr": "\u003cp\u003edisjoint \u003ccode\u003eGraph\u003c/code\u003e union as a \u003ccode\u003e\u003ca\u003eMonad\u003c/a\u003e\u003c/code\u003e product\n\u003c/p\u003e",
-        "fct-module": "Control.Monad.Product",
-        "fct-package": "monad-products",
-        "fct-signature": "newtype",
-        "fct-source": "src/Control-Monad-Product.html#Product",
-        "fct-type": "newtype",
-        "title": "Product"
-      },
-      "index": {
-        "description": "disjoint Graph union as Monad product",
-        "hierarchy": "Control Monad Product",
-        "module": "Control.Monad.Product",
-        "name": "Product",
-        "normalized": "",
-        "package": "monad-products",
-        "partial": "Product",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eMonad Products \n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Control.Monad.Product",
+          "name": "Product",
+          "package": "monad-products",
+          "source": "src/Control-Monad-Product.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "Monad Products",
+          "hierarchy": "Control Monad Product",
+          "module": "Control.Monad.Product",
+          "name": "Product",
+          "package": "monad-products",
+          "partial": "Product",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/monad-products/docs/Control-Monad-Product.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003edisjoint \u003ccode\u003eGraph\u003c/code\u003e union as a \u003ccode\u003e\u003ca\u003eMonad\u003c/a\u003e\u003c/code\u003e product\n\u003c/p\u003e",
+          "module": "Control.Monad.Product",
+          "name": "Product",
+          "package": "monad-products",
+          "source": "src/Control-Monad-Product.html#Product",
+          "type": "newtype"
+        },
+        "index": {
+          "description": "disjoint Graph union as Monad product",
+          "hierarchy": "Control Monad Product",
+          "module": "Control.Monad.Product",
+          "name": "Product",
+          "package": "monad-products",
+          "partial": "Product",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/monad-products/docs/Control-Monad-Product.html#t:Product"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Monad.Product",
+          "name": "Product",
+          "package": "monad-products",
+          "signature": "Product",
+          "source": "src/Control-Monad-Product.html#Product",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Monad Product",
+          "module": "Control.Monad.Product",
+          "name": "Product",
+          "package": "monad-products",
+          "partial": "Product",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/monad-products/docs/Control-Monad-Product.html#v:Product"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Monad.Product",
+          "name": "runProduct",
+          "package": "monad-products",
+          "signature": "(g a, h a)",
+          "source": "src/Control-Monad-Product.html#Product",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Control Monad Product",
+          "module": "Control.Monad.Product",
+          "name": "runProduct",
+          "normalized": "(a b,c b)",
+          "package": "monad-products",
+          "partial": "Product",
+          "signature": "(g a,h a)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/monad-products/docs/Control-Monad-Product.html#v:runProduct"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/monad-products/docs/Control-Monad-Product.html#v:Product",
-      "description": {
-        "fct-module": "Control.Monad.Product",
-        "fct-package": "monad-products",
-        "fct-signature": "Product",
-        "fct-source": "src/Control-Monad-Product.html#Product",
-        "fct-type": "function",
-        "title": "Product"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Monad Product",
-        "module": "Control.Monad.Product",
-        "name": "Product",
-        "normalized": "",
-        "package": "monad-products",
-        "partial": "Product",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/monad-products/docs/Control-Monad-Product.html#v:runProduct",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Control.Monad.Product",
-        "fct-package": "monad-products",
-        "fct-signature": "(g a, h a)",
-        "fct-source": "src/Control-Monad-Product.html#Product",
-        "fct-type": "function",
-        "title": "runProduct"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Monad Product",
-        "module": "Control.Monad.Product",
-        "name": "runProduct",
-        "normalized": "(a b,c b)",
-        "package": "monad-products",
-        "partial": "Product",
-        "signature": "(g a,h a)"
-      }
-    }
-  }
+  ]
 ]

@@ -1,51 +1,63 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/acme-year/docs/Acme-Year.html#",
-      "description": {
-        "fct-module": "Acme.Year",
-        "fct-package": "acme-year",
-        "fct-signature": "module",
-        "fct-source": "src/Acme-Year.html",
-        "fct-type": "module",
-        "title": "Year"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "acme-year"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Acme Year",
-        "module": "Acme.Year",
-        "name": "Year",
-        "normalized": "",
-        "package": "acme-year",
-        "partial": "Year",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/acme-year/docs/Acme-Year.html#v:currentYear",
-      "description": {
-        "fct-descr": "\u003cp\u003eThe current year (e.g. \u003ccode\u003e2014\u003c/code\u003e)\n\u003c/p\u003e",
-        "fct-module": "Acme.Year",
-        "fct-package": "acme-year",
-        "fct-signature": "Int",
-        "fct-source": "src/Acme-Year.html#currentYear",
-        "fct-type": "function",
-        "title": "currentYear"
-      },
-      "index": {
-        "description": "The current year e.g",
-        "hierarchy": "Acme Year",
-        "module": "Acme.Year",
-        "name": "currentYear",
-        "normalized": "",
-        "package": "acme-year",
-        "partial": "Year",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Acme.Year",
+          "name": "Year",
+          "package": "acme-year",
+          "source": "src/Acme-Year.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Acme Year",
+          "module": "Acme.Year",
+          "name": "Year",
+          "package": "acme-year",
+          "partial": "Year",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/acme-year/docs/Acme-Year.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eThe current year (e.g. \u003ccode\u003e2014\u003c/code\u003e)\n\u003c/p\u003e",
+          "module": "Acme.Year",
+          "name": "currentYear",
+          "package": "acme-year",
+          "signature": "Int",
+          "source": "src/Acme-Year.html#currentYear",
+          "type": "function"
+        },
+        "index": {
+          "description": "The current year e.g",
+          "hierarchy": "Acme Year",
+          "module": "Acme.Year",
+          "name": "currentYear",
+          "package": "acme-year",
+          "partial": "Year",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/acme-year/docs/Acme-Year.html#v:currentYear"
       }
     }
-  }
+  ]
 ]

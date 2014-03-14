@@ -1,800 +1,901 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#",
-      "description": {
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "module",
-        "fct-source": "src/Text-XML-YJSVG.html",
-        "fct-type": "module",
-        "title": "YJSVG"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "yjsvg"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "YJSVG",
-        "normalized": "",
-        "package": "yjsvg",
-        "partial": "YJSVG",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#t:Color",
-      "description": {
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "data",
-        "fct-source": "src/Text-XML-YJSVG.html#Color",
-        "fct-type": "data",
-        "title": "Color"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "Color",
-        "normalized": "",
-        "package": "yjsvg",
-        "partial": "Color",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "YJSVG",
+          "package": "yjsvg",
+          "source": "src/Text-XML-YJSVG.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "YJSVG",
+          "package": "yjsvg",
+          "partial": "YJSVG",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "Color",
+          "package": "yjsvg",
+          "source": "src/Text-XML-YJSVG.html#Color",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "Color",
+          "package": "yjsvg",
+          "partial": "Color",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#t:Color"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "Font",
+          "package": "yjsvg",
+          "source": "src/Text-XML-YJSVG.html#Font",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "Font",
+          "package": "yjsvg",
+          "partial": "Font",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#t:Font"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "FontWeight",
+          "package": "yjsvg",
+          "source": "src/Text-XML-YJSVG.html#FontWeight",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "FontWeight",
+          "package": "yjsvg",
+          "partial": "Font Weight",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#t:FontWeight"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "Position",
+          "package": "yjsvg",
+          "source": "src/Text-XML-YJSVG.html#Position",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "Position",
+          "package": "yjsvg",
+          "partial": "Position",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#t:Position"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "SVG",
+          "package": "yjsvg",
+          "source": "src/Text-XML-YJSVG.html#SVG",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "SVG",
+          "package": "yjsvg",
+          "partial": "SVG",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#t:SVG"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "Transform",
+          "package": "yjsvg",
+          "source": "src/Text-XML-YJSVG.html#Transform",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "Transform",
+          "package": "yjsvg",
+          "partial": "Transform",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#t:Transform"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "Bold",
+          "package": "yjsvg",
+          "signature": "Bold",
+          "source": "src/Text-XML-YJSVG.html#FontWeight",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "Bold",
+          "package": "yjsvg",
+          "partial": "Bold",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:Bold"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "Center",
+          "package": "yjsvg",
+          "signature": "Center",
+          "source": "src/Text-XML-YJSVG.html#Position",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "Center",
+          "package": "yjsvg",
+          "partial": "Center",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:Center"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "Circle",
+          "package": "yjsvg",
+          "signature": "Circle Position Double Color",
+          "source": "src/Text-XML-YJSVG.html#SVG",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "Circle",
+          "package": "yjsvg",
+          "partial": "Circle",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:Circle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "ColorName",
+          "package": "yjsvg",
+          "signature": "ColorName",
+          "source": "src/Text-XML-YJSVG.html#Color",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "ColorName",
+          "package": "yjsvg",
+          "partial": "Color Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:ColorName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "Fill",
+          "package": "yjsvg",
+          "signature": "Fill Color",
+          "source": "src/Text-XML-YJSVG.html#SVG",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "Fill",
+          "package": "yjsvg",
+          "partial": "Fill",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:Fill"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "Font",
+          "package": "yjsvg",
+          "signature": "Font",
+          "source": "src/Text-XML-YJSVG.html#Font",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "Font",
+          "package": "yjsvg",
+          "partial": "Font",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:Font"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "Group",
+          "package": "yjsvg",
+          "signature": "Group [Transform] [SVG]",
+          "source": "src/Text-XML-YJSVG.html#SVG",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "Group",
+          "normalized": "Group[Transform][SVG]",
+          "package": "yjsvg",
+          "partial": "Group",
+          "signature": "Group[Transform][SVG]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:Group"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "Image",
+          "package": "yjsvg",
+          "signature": "Image Position Double Double FilePath",
+          "source": "src/Text-XML-YJSVG.html#SVG",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "Image",
+          "package": "yjsvg",
+          "partial": "Image",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:Image"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "Line",
+          "package": "yjsvg",
+          "signature": "Line Position Position Color Double",
+          "source": "src/Text-XML-YJSVG.html#SVG",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "Line",
+          "package": "yjsvg",
+          "partial": "Line",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:Line"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "Matrix",
+          "package": "yjsvg",
+          "signature": "Matrix Double Double Double Double Double Double",
+          "source": "src/Text-XML-YJSVG.html#Transform",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "Matrix",
+          "package": "yjsvg",
+          "partial": "Matrix",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:Matrix"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "Normal",
+          "package": "yjsvg",
+          "signature": "Normal",
+          "source": "src/Text-XML-YJSVG.html#FontWeight",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "Normal",
+          "package": "yjsvg",
+          "partial": "Normal",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:Normal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "Polyline",
+          "package": "yjsvg",
+          "signature": "Polyline [Position] Color Color Double",
+          "source": "src/Text-XML-YJSVG.html#SVG",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "Polyline",
+          "normalized": "Polyline[Position]Color Color Double",
+          "package": "yjsvg",
+          "partial": "Polyline",
+          "signature": "Polyline[Position]Color Color Double",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:Polyline"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "RGB",
+          "package": "yjsvg",
+          "signature": "RGB",
+          "source": "src/Text-XML-YJSVG.html#Color",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "RGB",
+          "package": "yjsvg",
+          "partial": "RGB",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:RGB"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "Rect",
+          "package": "yjsvg",
+          "signature": "Rect Position Double Double Double Color Color",
+          "source": "src/Text-XML-YJSVG.html#SVG",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "Rect",
+          "package": "yjsvg",
+          "partial": "Rect",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:Rect"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "Rotate",
+          "package": "yjsvg",
+          "signature": "Rotate Double (Maybe (Double, Double))",
+          "source": "src/Text-XML-YJSVG.html#Transform",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "Rotate",
+          "normalized": "Rotate Double(Maybe(Double,Double))",
+          "package": "yjsvg",
+          "partial": "Rotate",
+          "signature": "Rotate Double(Maybe(Double,Double))",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:Rotate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "Scale",
+          "package": "yjsvg",
+          "signature": "Scale Double Double",
+          "source": "src/Text-XML-YJSVG.html#Transform",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "Scale",
+          "package": "yjsvg",
+          "partial": "Scale",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:Scale"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "SkewX",
+          "package": "yjsvg",
+          "signature": "SkewX Double",
+          "source": "src/Text-XML-YJSVG.html#Transform",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "SkewX",
+          "package": "yjsvg",
+          "partial": "Skew",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:SkewX"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "SkewY",
+          "package": "yjsvg",
+          "signature": "SkewY Double",
+          "source": "src/Text-XML-YJSVG.html#Transform",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "SkewY",
+          "package": "yjsvg",
+          "partial": "Skew",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:SkewY"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "Text",
+          "package": "yjsvg",
+          "signature": "Text Position Double Color Font String",
+          "source": "src/Text-XML-YJSVG.html#SVG",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "Text",
+          "package": "yjsvg",
+          "partial": "Text",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:Text"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "TopLeft",
+          "package": "yjsvg",
+          "signature": "TopLeft",
+          "source": "src/Text-XML-YJSVG.html#Position",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "TopLeft",
+          "package": "yjsvg",
+          "partial": "Top Left",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:TopLeft"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "Translate",
+          "package": "yjsvg",
+          "signature": "Translate Double Double",
+          "source": "src/Text-XML-YJSVG.html#Transform",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "Translate",
+          "package": "yjsvg",
+          "partial": "Translate",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:Translate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "center",
+          "package": "yjsvg",
+          "signature": "Double -\u003e Double -\u003e Position -\u003e Position",
+          "source": "src/Text-XML-YJSVG.html#center",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "center",
+          "normalized": "Double-\u003eDouble-\u003ePosition-\u003ePosition",
+          "package": "yjsvg",
+          "signature": "Double-\u003eDouble-\u003ePosition-\u003ePosition",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:center"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "colorBlue",
+          "package": "yjsvg",
+          "signature": "Word8",
+          "source": "src/Text-XML-YJSVG.html#Color",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "colorBlue",
+          "package": "yjsvg",
+          "partial": "Blue",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:colorBlue"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "colorGreen",
+          "package": "yjsvg",
+          "signature": "Word8",
+          "source": "src/Text-XML-YJSVG.html#Color",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "colorGreen",
+          "package": "yjsvg",
+          "partial": "Green",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:colorGreen"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "colorName",
+          "package": "yjsvg",
+          "signature": "String",
+          "source": "src/Text-XML-YJSVG.html#Color",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "colorName",
+          "package": "yjsvg",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:colorName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "colorRed",
+          "package": "yjsvg",
+          "signature": "Word8",
+          "source": "src/Text-XML-YJSVG.html#Color",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "colorRed",
+          "package": "yjsvg",
+          "partial": "Red",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:colorRed"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "fontName",
+          "package": "yjsvg",
+          "signature": "String",
+          "source": "src/Text-XML-YJSVG.html#Font",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "fontName",
+          "package": "yjsvg",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:fontName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "fontWeight",
+          "package": "yjsvg",
+          "signature": "FontWeight",
+          "source": "src/Text-XML-YJSVG.html#Font",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "fontWeight",
+          "package": "yjsvg",
+          "partial": "Weight",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:fontWeight"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "posX",
+          "package": "yjsvg",
+          "signature": "Double",
+          "source": "src/Text-XML-YJSVG.html#Position",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "posX",
+          "package": "yjsvg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:posX"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "posY",
+          "package": "yjsvg",
+          "signature": "Double",
+          "source": "src/Text-XML-YJSVG.html#Position",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "posY",
+          "package": "yjsvg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:posY"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "showSVG",
+          "package": "yjsvg",
+          "signature": "Double -\u003e Double -\u003e [SVG] -\u003e String",
+          "source": "src/Text-XML-YJSVG.html#showSVG",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "showSVG",
+          "normalized": "Double-\u003eDouble-\u003e[SVG]-\u003eString",
+          "package": "yjsvg",
+          "partial": "SVG",
+          "signature": "Double-\u003eDouble-\u003e[SVG]-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:showSVG"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "topleft",
+          "package": "yjsvg",
+          "signature": "Double -\u003e Double -\u003e Position -\u003e Position",
+          "source": "src/Text-XML-YJSVG.html#topleft",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "topleft",
+          "normalized": "Double-\u003eDouble-\u003ePosition-\u003ePosition",
+          "package": "yjsvg",
+          "signature": "Double-\u003eDouble-\u003ePosition-\u003ePosition",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:topleft"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.XML.YJSVG",
+          "name": "yjsvgVersion",
+          "package": "yjsvg",
+          "signature": "(Int, String)",
+          "source": "src/Text-XML-YJSVG.html#yjsvgVersion",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text XML YJSVG",
+          "module": "Text.XML.YJSVG",
+          "name": "yjsvgVersion",
+          "normalized": "(Int,String)",
+          "package": "yjsvg",
+          "partial": "Version",
+          "signature": "(Int,String)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:yjsvgVersion"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#t:Position",
-      "description": {
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "data",
-        "fct-source": "src/Text-XML-YJSVG.html#Position",
-        "fct-type": "data",
-        "title": "Position"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "Position",
-        "normalized": "",
-        "package": "yjsvg",
-        "partial": "Position",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#t:SVG",
-      "description": {
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "data",
-        "fct-source": "src/Text-XML-YJSVG.html#SVG",
-        "fct-type": "data",
-        "title": "SVG"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "SVG",
-        "normalized": "",
-        "package": "yjsvg",
-        "partial": "SVG",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#t:Transform",
-      "description": {
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "data",
-        "fct-source": "src/Text-XML-YJSVG.html#Transform",
-        "fct-type": "data",
-        "title": "Transform"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "Transform",
-        "normalized": "",
-        "package": "yjsvg",
-        "partial": "Transform",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:Center",
-      "description": {
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "Center",
-        "fct-source": "src/Text-XML-YJSVG.html#Position",
-        "fct-type": "function",
-        "title": "Center"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "Center",
-        "normalized": "",
-        "package": "yjsvg",
-        "partial": "Center",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:Circle",
-      "description": {
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "Circle Position Double Color",
-        "fct-source": "src/Text-XML-YJSVG.html#SVG",
-        "fct-type": "function",
-        "title": "Circle"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "Circle",
-        "normalized": "",
-        "package": "yjsvg",
-        "partial": "Circle",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:ColorName",
-      "description": {
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "ColorName",
-        "fct-source": "src/Text-XML-YJSVG.html#Color",
-        "fct-type": "function",
-        "title": "ColorName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "ColorName",
-        "normalized": "",
-        "package": "yjsvg",
-        "partial": "Color Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:Fill",
-      "description": {
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "Fill Color",
-        "fct-source": "src/Text-XML-YJSVG.html#SVG",
-        "fct-type": "function",
-        "title": "Fill"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "Fill",
-        "normalized": "",
-        "package": "yjsvg",
-        "partial": "Fill",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:Group",
-      "description": {
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "Group [Transform] [SVG]",
-        "fct-source": "src/Text-XML-YJSVG.html#SVG",
-        "fct-type": "function",
-        "title": "Group"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "Group",
-        "normalized": "Group[Transform][SVG]",
-        "package": "yjsvg",
-        "partial": "Group",
-        "signature": "Group[Transform][SVG]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:Image",
-      "description": {
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "Image Position Double Double FilePath",
-        "fct-source": "src/Text-XML-YJSVG.html#SVG",
-        "fct-type": "function",
-        "title": "Image"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "Image",
-        "normalized": "",
-        "package": "yjsvg",
-        "partial": "Image",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:Line",
-      "description": {
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "Line Position Position Color Double",
-        "fct-source": "src/Text-XML-YJSVG.html#SVG",
-        "fct-type": "function",
-        "title": "Line"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "Line",
-        "normalized": "",
-        "package": "yjsvg",
-        "partial": "Line",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:Matrix",
-      "description": {
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "Matrix Double Double Double Double Double Double",
-        "fct-source": "src/Text-XML-YJSVG.html#Transform",
-        "fct-type": "function",
-        "title": "Matrix"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "Matrix",
-        "normalized": "",
-        "package": "yjsvg",
-        "partial": "Matrix",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:Polyline",
-      "description": {
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "Polyline [Position] Color Color Double",
-        "fct-source": "src/Text-XML-YJSVG.html#SVG",
-        "fct-type": "function",
-        "title": "Polyline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "Polyline",
-        "normalized": "Polyline[Position]Color Color Double",
-        "package": "yjsvg",
-        "partial": "Polyline",
-        "signature": "Polyline[Position]Color Color Double"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:RGB",
-      "description": {
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "RGB",
-        "fct-source": "src/Text-XML-YJSVG.html#Color",
-        "fct-type": "function",
-        "title": "RGB"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "RGB",
-        "normalized": "",
-        "package": "yjsvg",
-        "partial": "RGB",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:Rect",
-      "description": {
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "Rect Position Double Double Double Color Color",
-        "fct-source": "src/Text-XML-YJSVG.html#SVG",
-        "fct-type": "function",
-        "title": "Rect"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "Rect",
-        "normalized": "",
-        "package": "yjsvg",
-        "partial": "Rect",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:Rotate",
-      "description": {
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "Rotate Double (Maybe (Double, Double))",
-        "fct-source": "src/Text-XML-YJSVG.html#Transform",
-        "fct-type": "function",
-        "title": "Rotate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "Rotate",
-        "normalized": "Rotate Double(Maybe(Double,Double))",
-        "package": "yjsvg",
-        "partial": "Rotate",
-        "signature": "Rotate Double(Maybe(Double,Double))"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:Scale",
-      "description": {
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "Scale Double Double",
-        "fct-source": "src/Text-XML-YJSVG.html#Transform",
-        "fct-type": "function",
-        "title": "Scale"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "Scale",
-        "normalized": "",
-        "package": "yjsvg",
-        "partial": "Scale",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:SkewX",
-      "description": {
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "SkewX Double",
-        "fct-source": "src/Text-XML-YJSVG.html#Transform",
-        "fct-type": "function",
-        "title": "SkewX"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "SkewX",
-        "normalized": "",
-        "package": "yjsvg",
-        "partial": "Skew",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:SkewY",
-      "description": {
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "SkewY Double",
-        "fct-source": "src/Text-XML-YJSVG.html#Transform",
-        "fct-type": "function",
-        "title": "SkewY"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "SkewY",
-        "normalized": "",
-        "package": "yjsvg",
-        "partial": "Skew",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:Text",
-      "description": {
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "Text Position Double Color Font String",
-        "fct-source": "src/Text-XML-YJSVG.html#SVG",
-        "fct-type": "function",
-        "title": "Text"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "Text",
-        "normalized": "",
-        "package": "yjsvg",
-        "partial": "Text",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:TopLeft",
-      "description": {
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "TopLeft",
-        "fct-source": "src/Text-XML-YJSVG.html#Position",
-        "fct-type": "function",
-        "title": "TopLeft"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "TopLeft",
-        "normalized": "",
-        "package": "yjsvg",
-        "partial": "Top Left",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:Translate",
-      "description": {
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "Translate Double Double",
-        "fct-source": "src/Text-XML-YJSVG.html#Transform",
-        "fct-type": "function",
-        "title": "Translate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "Translate",
-        "normalized": "",
-        "package": "yjsvg",
-        "partial": "Translate",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:center",
-      "description": {
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "Double -\u003e Double -\u003e Position -\u003e Position",
-        "fct-source": "src/Text-XML-YJSVG.html#topleft",
-        "fct-type": "function",
-        "title": "center"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "center",
-        "normalized": "Double-\u003eDouble-\u003ePosition-\u003ePosition",
-        "package": "yjsvg",
-        "partial": "",
-        "signature": "Double-\u003eDouble-\u003ePosition-\u003ePosition"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:colorBlue",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "Word8",
-        "fct-source": "src/Text-XML-YJSVG.html#Color",
-        "fct-type": "function",
-        "title": "colorBlue"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "colorBlue",
-        "normalized": "",
-        "package": "yjsvg",
-        "partial": "Blue",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:colorGreen",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "Word8",
-        "fct-source": "src/Text-XML-YJSVG.html#Color",
-        "fct-type": "function",
-        "title": "colorGreen"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "colorGreen",
-        "normalized": "",
-        "package": "yjsvg",
-        "partial": "Green",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:colorName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "String",
-        "fct-source": "src/Text-XML-YJSVG.html#Color",
-        "fct-type": "function",
-        "title": "colorName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "colorName",
-        "normalized": "",
-        "package": "yjsvg",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:colorRed",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "Word8",
-        "fct-source": "src/Text-XML-YJSVG.html#Color",
-        "fct-type": "function",
-        "title": "colorRed"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "colorRed",
-        "normalized": "",
-        "package": "yjsvg",
-        "partial": "Red",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:posX",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "Double",
-        "fct-source": "src/Text-XML-YJSVG.html#Position",
-        "fct-type": "function",
-        "title": "posX"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "posX",
-        "normalized": "",
-        "package": "yjsvg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:posY",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "Double",
-        "fct-source": "src/Text-XML-YJSVG.html#Position",
-        "fct-type": "function",
-        "title": "posY"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "posY",
-        "normalized": "",
-        "package": "yjsvg",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:showSVG",
-      "description": {
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "Double -\u003e Double -\u003e [SVG] -\u003e String",
-        "fct-source": "src/Text-XML-YJSVG.html#showSVG",
-        "fct-type": "function",
-        "title": "showSVG"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "showSVG",
-        "normalized": "Double-\u003eDouble-\u003e[SVG]-\u003eString",
-        "package": "yjsvg",
-        "partial": "SVG",
-        "signature": "Double-\u003eDouble-\u003e[SVG]-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:topleft",
-      "description": {
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "Double -\u003e Double -\u003e Position -\u003e Position",
-        "fct-source": "src/Text-XML-YJSVG.html#topleft",
-        "fct-type": "function",
-        "title": "topleft"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "topleft",
-        "normalized": "Double-\u003eDouble-\u003ePosition-\u003ePosition",
-        "package": "yjsvg",
-        "partial": "",
-        "signature": "Double-\u003eDouble-\u003ePosition-\u003ePosition"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yjsvg/docs/Text-XML-YJSVG.html#v:yjsvgVersion",
-      "description": {
-        "fct-module": "Text.XML.YJSVG",
-        "fct-package": "yjsvg",
-        "fct-signature": "(Int, String)",
-        "fct-source": "src/Text-XML-YJSVG.html#yjsvgVersion",
-        "fct-type": "function",
-        "title": "yjsvgVersion"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text XML YJSVG",
-        "module": "Text.XML.YJSVG",
-        "name": "yjsvgVersion",
-        "normalized": "(Int,String)",
-        "package": "yjsvg",
-        "partial": "Version",
-        "signature": "(Int,String)"
-      }
-    }
-  }
+  ]
 ]

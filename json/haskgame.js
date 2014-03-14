@@ -1,2266 +1,2074 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Color.html#",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Color",
-        "fct-package": "haskgame",
-        "fct-signature": "module",
-        "fct-source": "src/Graphics-UI-HaskGame-Color.html",
-        "fct-type": "module",
-        "title": "Color"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Color",
-        "module": "Graphics.UI.HaskGame.Color",
-        "name": "Color",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Color",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Color.html#t:Color",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Color",
-        "fct-package": "haskgame",
-        "fct-signature": "data",
-        "fct-source": "src/Graphics-UI-HaskGame-Color.html#Color",
-        "fct-type": "data",
-        "title": "Color"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Color",
-        "module": "Graphics.UI.HaskGame.Color",
-        "name": "Color",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Color",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Color.html#v:Color",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Color",
-        "fct-package": "haskgame",
-        "fct-signature": "Color",
-        "fct-source": "src/Graphics-UI-HaskGame-Color.html#Color",
-        "fct-type": "function",
-        "title": "Color"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Color",
-        "module": "Graphics.UI.HaskGame.Color",
-        "name": "Color",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Color",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Color.html#v:colorBlue",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Graphics.UI.HaskGame.Color",
-        "fct-package": "haskgame",
-        "fct-signature": "Word8",
-        "fct-source": "src/Graphics-UI-HaskGame-Color.html#Color",
-        "fct-type": "function",
-        "title": "colorBlue"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Color",
-        "module": "Graphics.UI.HaskGame.Color",
-        "name": "colorBlue",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Blue",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Color.html#v:colorGreen",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Graphics.UI.HaskGame.Color",
-        "fct-package": "haskgame",
-        "fct-signature": "Word8",
-        "fct-source": "src/Graphics-UI-HaskGame-Color.html#Color",
-        "fct-type": "function",
-        "title": "colorGreen"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Color",
-        "module": "Graphics.UI.HaskGame.Color",
-        "name": "colorGreen",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Green",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Color.html#v:colorRed",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Graphics.UI.HaskGame.Color",
-        "fct-package": "haskgame",
-        "fct-signature": "Word8",
-        "fct-source": "src/Graphics-UI-HaskGame-Color.html#Color",
-        "fct-type": "function",
-        "title": "colorRed"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Color",
-        "module": "Graphics.UI.HaskGame.Color",
-        "name": "colorRed",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Red",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Font.html#",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Font",
-        "fct-package": "haskgame",
-        "fct-signature": "module",
-        "fct-source": "src/Graphics-UI-HaskGame-Font.html",
-        "fct-type": "module",
-        "title": "Font"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Font",
-        "module": "Graphics.UI.HaskGame.Font",
-        "name": "Font",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Font",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Font.html#t:Font",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Font",
-        "fct-package": "haskgame",
-        "fct-signature": "type",
-        "fct-source": "src/Graphics-UI-HaskGame-Font.html#Font",
-        "fct-type": "type",
-        "title": "Font"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Font",
-        "module": "Graphics.UI.HaskGame.Font",
-        "name": "Font",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Font",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Font.html#v:defaultFont",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Font",
-        "fct-package": "haskgame",
-        "fct-signature": "Int -\u003e IO Font",
-        "fct-source": "src/Graphics-UI-HaskGame-Font.html#defaultFont",
-        "fct-type": "function",
-        "title": "defaultFont"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Font",
-        "module": "Graphics.UI.HaskGame.Font",
-        "name": "defaultFont",
-        "normalized": "Int-\u003eIO Font",
-        "package": "haskgame",
-        "partial": "Font",
-        "signature": "Int-\u003eIO Font"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Font.html#v:renderText",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Font",
-        "fct-package": "haskgame",
-        "fct-signature": "Font -\u003e String -\u003e Color -\u003e IO Surface",
-        "fct-source": "src/Graphics-UI-HaskGame-Font.html#renderText",
-        "fct-type": "function",
-        "title": "renderText"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Font",
-        "module": "Graphics.UI.HaskGame.Font",
-        "name": "renderText",
-        "normalized": "Font-\u003eString-\u003eColor-\u003eIO Surface",
-        "package": "haskgame",
-        "partial": "Text",
-        "signature": "Font-\u003eString-\u003eColor-\u003eIO Surface"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Font.html#v:textSize",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Font",
-        "fct-package": "haskgame",
-        "fct-signature": "Font -\u003e String -\u003e Vector2 Int",
-        "fct-source": "src/Graphics-UI-HaskGame-Font.html#textSize",
-        "fct-type": "function",
-        "title": "textSize"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Font",
-        "module": "Graphics.UI.HaskGame.Font",
-        "name": "textSize",
-        "normalized": "Font-\u003eString-\u003eVector Int",
-        "package": "haskgame",
-        "partial": "Size",
-        "signature": "Font-\u003eString-\u003eVector Int"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Font.html#v:withInit",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Font",
-        "fct-package": "haskgame",
-        "fct-signature": "IO () -\u003e IO ()",
-        "fct-source": "src/Graphics-UI-HaskGame-Font.html#withInit",
-        "fct-type": "function",
-        "title": "withInit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Font",
-        "module": "Graphics.UI.HaskGame.Font",
-        "name": "withInit",
-        "normalized": "IO()-\u003eIO()",
-        "package": "haskgame",
-        "partial": "Init",
-        "signature": "IO()-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Key",
-        "fct-package": "haskgame",
-        "fct-signature": "module",
-        "fct-source": "src/Graphics-UI-HaskGame-Key.html",
-        "fct-type": "module",
-        "title": "Key"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Key",
-        "module": "Graphics.UI.HaskGame.Key",
-        "name": "Key",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#t:KeyGroup",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Key",
-        "fct-package": "haskgame",
-        "fct-signature": "data",
-        "fct-source": "src/Graphics-UI-HaskGame-Key.html#KeyGroup",
-        "fct-type": "data",
-        "title": "KeyGroup"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Key",
-        "module": "Graphics.UI.HaskGame.Key",
-        "name": "KeyGroup",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Key Group",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#t:Keysym",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Key",
-        "fct-package": "haskgame",
-        "fct-signature": "type",
-        "fct-source": "src/Graphics-UI-HaskGame-Key.html#Keysym",
-        "fct-type": "type",
-        "title": "Keysym"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Key",
-        "module": "Graphics.UI.HaskGame.Key",
-        "name": "Keysym",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Keysym",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#t:ModKey",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Key",
-        "fct-package": "haskgame",
-        "fct-signature": "data",
-        "fct-source": "src/Graphics-UI-HaskGame-Key.html#ModKey",
-        "fct-type": "data",
-        "title": "ModKey"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Key",
-        "module": "Graphics.UI.HaskGame.Key",
-        "name": "ModKey",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Mod Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#t:Mods",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Key",
-        "fct-package": "haskgame",
-        "fct-signature": "data",
-        "fct-source": "src/Graphics-UI-HaskGame-Key.html#Mods",
-        "fct-type": "data",
-        "title": "Mods"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Key",
-        "module": "Graphics.UI.HaskGame.Key",
-        "name": "Mods",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Mods",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:KeyGroup",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Key",
-        "fct-package": "haskgame",
-        "fct-signature": "KeyGroup",
-        "fct-source": "src/Graphics-UI-HaskGame-Key.html#KeyGroup",
-        "fct-type": "function",
-        "title": "KeyGroup"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Key",
-        "module": "Graphics.UI.HaskGame.Key",
-        "name": "KeyGroup",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Key Group",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:MkMods",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Key",
-        "fct-package": "haskgame",
-        "fct-signature": "MkMods",
-        "fct-source": "src/Graphics-UI-HaskGame-Key.html#Mods",
-        "fct-type": "function",
-        "title": "MkMods"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Key",
-        "module": "Graphics.UI.HaskGame.Key",
-        "name": "MkMods",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Mk Mods",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:ModKey",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Key",
-        "fct-package": "haskgame",
-        "fct-signature": "ModKey Mods SDLKey",
-        "fct-source": "src/Graphics-UI-HaskGame-Key.html#ModKey",
-        "fct-type": "function",
-        "title": "ModKey"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Key",
-        "module": "Graphics.UI.HaskGame.Key",
-        "name": "ModKey",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Mod Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:alt",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Key",
-        "fct-package": "haskgame",
-        "fct-signature": "Mods",
-        "fct-source": "src/Graphics-UI-HaskGame-Key.html#alt",
-        "fct-type": "function",
-        "title": "alt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Key",
-        "module": "Graphics.UI.HaskGame.Key",
-        "name": "alt",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:asKeyGroup",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Key",
-        "fct-package": "haskgame",
-        "fct-signature": "Mods -\u003e SDLKey -\u003e KeyGroup",
-        "fct-source": "src/Graphics-UI-HaskGame-Key.html#asKeyGroup",
-        "fct-type": "function",
-        "title": "asKeyGroup"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Key",
-        "module": "Graphics.UI.HaskGame.Key",
-        "name": "asKeyGroup",
-        "normalized": "Mods-\u003eSDLKey-\u003eKeyGroup",
-        "package": "haskgame",
-        "partial": "Key Group",
-        "signature": "Mods-\u003eSDLKey-\u003eKeyGroup"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:ctrl",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Key",
-        "fct-package": "haskgame",
-        "fct-signature": "Mods",
-        "fct-source": "src/Graphics-UI-HaskGame-Key.html#ctrl",
-        "fct-type": "function",
-        "title": "ctrl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Key",
-        "module": "Graphics.UI.HaskGame.Key",
-        "name": "ctrl",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:isAlt",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Graphics.UI.HaskGame.Key",
-        "fct-package": "haskgame",
-        "fct-signature": "Bool",
-        "fct-source": "src/Graphics-UI-HaskGame-Key.html#Mods",
-        "fct-type": "function",
-        "title": "isAlt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Key",
-        "module": "Graphics.UI.HaskGame.Key",
-        "name": "isAlt",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Alt",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:isCtrl",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Graphics.UI.HaskGame.Key",
-        "fct-package": "haskgame",
-        "fct-signature": "Bool",
-        "fct-source": "src/Graphics-UI-HaskGame-Key.html#Mods",
-        "fct-type": "function",
-        "title": "isCtrl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Key",
-        "module": "Graphics.UI.HaskGame.Key",
-        "name": "isCtrl",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Ctrl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:isShift",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Graphics.UI.HaskGame.Key",
-        "fct-package": "haskgame",
-        "fct-signature": "Bool",
-        "fct-source": "src/Graphics-UI-HaskGame-Key.html#Mods",
-        "fct-type": "function",
-        "title": "isShift"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Key",
-        "module": "Graphics.UI.HaskGame.Key",
-        "name": "isShift",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Shift",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:keyGroupKeys",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Graphics.UI.HaskGame.Key",
-        "fct-package": "haskgame",
-        "fct-signature": "Set ModKey",
-        "fct-source": "src/Graphics-UI-HaskGame-Key.html#KeyGroup",
-        "fct-type": "function",
-        "title": "keyGroupKeys"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Key",
-        "module": "Graphics.UI.HaskGame.Key",
-        "name": "keyGroupKeys",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Group Keys",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:keyGroupName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Graphics.UI.HaskGame.Key",
-        "fct-package": "haskgame",
-        "fct-signature": "String",
-        "fct-source": "src/Graphics-UI-HaskGame-Key.html#KeyGroup",
-        "fct-type": "function",
-        "title": "keyGroupName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Key",
-        "module": "Graphics.UI.HaskGame.Key",
-        "name": "keyGroupName",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Group Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:keyName",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Key",
-        "fct-package": "haskgame",
-        "fct-signature": "ModKey -\u003e String",
-        "fct-source": "src/Graphics-UI-HaskGame-Key.html#keyName",
-        "fct-type": "function",
-        "title": "keyName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Key",
-        "module": "Graphics.UI.HaskGame.Key",
-        "name": "keyName",
-        "normalized": "ModKey-\u003eString",
-        "package": "haskgame",
-        "partial": "Name",
-        "signature": "ModKey-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:keyOfEvent",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Key",
-        "fct-package": "haskgame",
-        "fct-signature": "Keysym -\u003e ModKey",
-        "fct-source": "src/Graphics-UI-HaskGame-Key.html#keyOfEvent",
-        "fct-type": "function",
-        "title": "keyOfEvent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Key",
-        "module": "Graphics.UI.HaskGame.Key",
-        "name": "keyOfEvent",
-        "normalized": "Keysym-\u003eModKey",
-        "package": "haskgame",
-        "partial": "Of Event",
-        "signature": "Keysym-\u003eModKey"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:noMods",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Key",
-        "fct-package": "haskgame",
-        "fct-signature": "Mods",
-        "fct-source": "src/Graphics-UI-HaskGame-Key.html#noMods",
-        "fct-type": "function",
-        "title": "noMods"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Key",
-        "module": "Graphics.UI.HaskGame.Key",
-        "name": "noMods",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Mods",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:shift",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Key",
-        "fct-package": "haskgame",
-        "fct-signature": "Mods",
-        "fct-source": "src/Graphics-UI-HaskGame-Key.html#shift",
-        "fct-type": "function",
-        "title": "shift"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Key",
-        "module": "Graphics.UI.HaskGame.Key",
-        "name": "shift",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:singletonKeyGroup",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Key",
-        "fct-package": "haskgame",
-        "fct-signature": "ModKey -\u003e KeyGroup",
-        "fct-source": "src/Graphics-UI-HaskGame-Key.html#singletonKeyGroup",
-        "fct-type": "function",
-        "title": "singletonKeyGroup"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Key",
-        "module": "Graphics.UI.HaskGame.Key",
-        "name": "singletonKeyGroup",
-        "normalized": "ModKey-\u003eKeyGroup",
-        "package": "haskgame",
-        "partial": "Key Group",
-        "signature": "ModKey-\u003eKeyGroup"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Keys.html#",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Keys",
-        "fct-package": "haskgame",
-        "fct-signature": "module",
-        "fct-source": "src/Graphics-UI-HaskGame-Keys.html",
-        "fct-type": "module",
-        "title": "Keys"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Keys",
-        "module": "Graphics.UI.HaskGame.Keys",
-        "name": "Keys",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Keys",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Keys.html#t:KeyGroup",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Keys",
-        "fct-package": "haskgame",
-        "fct-signature": "data",
-        "fct-source": "src/Graphics-UI-HaskGame-Key.html#KeyGroup",
-        "fct-type": "data",
-        "title": "KeyGroup"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Keys",
-        "module": "Graphics.UI.HaskGame.Keys",
-        "name": "KeyGroup",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Key Group",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Keys.html#v:KeyGroup",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Keys",
-        "fct-package": "haskgame",
-        "fct-signature": "KeyGroup",
-        "fct-source": "src/Graphics-UI-HaskGame-Key.html#KeyGroup",
-        "fct-type": "function",
-        "title": "KeyGroup"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Keys",
-        "module": "Graphics.UI.HaskGame.Keys",
-        "name": "KeyGroup",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Key Group",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Keys.html#v:allGroups",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Keys",
-        "fct-package": "haskgame",
-        "fct-signature": "[KeyGroup]",
-        "fct-source": "src/Graphics-UI-HaskGame-Keys.html#allGroups",
-        "fct-type": "function",
-        "title": "allGroups"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Keys",
-        "module": "Graphics.UI.HaskGame.Keys",
-        "name": "allGroups",
-        "normalized": "[KeyGroup]",
-        "package": "haskgame",
-        "partial": "Groups",
-        "signature": "[KeyGroup]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Keys.html#v:arrowsGroup",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Keys",
-        "fct-package": "haskgame",
-        "fct-signature": "KeyGroup",
-        "fct-source": "src/Graphics-UI-HaskGame-Keys.html#arrowsGroup",
-        "fct-type": "function",
-        "title": "arrowsGroup"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Keys",
-        "module": "Graphics.UI.HaskGame.Keys",
-        "name": "arrowsGroup",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Group",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Keys.html#v:digitsGroup",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Keys",
-        "fct-package": "haskgame",
-        "fct-signature": "KeyGroup",
-        "fct-source": "src/Graphics-UI-HaskGame-Keys.html#digitsGroup",
-        "fct-type": "function",
-        "title": "digitsGroup"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Keys",
-        "module": "Graphics.UI.HaskGame.Keys",
-        "name": "digitsGroup",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Group",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Keys.html#v:groupsOfKey",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Keys",
-        "fct-package": "haskgame",
-        "fct-signature": "ModKey -\u003e [KeyGroup]",
-        "fct-source": "src/Graphics-UI-HaskGame-Keys.html#groupsOfKey",
-        "fct-type": "function",
-        "title": "groupsOfKey"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Keys",
-        "module": "Graphics.UI.HaskGame.Keys",
-        "name": "groupsOfKey",
-        "normalized": "ModKey-\u003e[KeyGroup]",
-        "package": "haskgame",
-        "partial": "Of Key",
-        "signature": "ModKey-\u003e[KeyGroup]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Keys.html#v:keyGroupKeys",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Graphics.UI.HaskGame.Keys",
-        "fct-package": "haskgame",
-        "fct-signature": "Set ModKey",
-        "fct-source": "src/Graphics-UI-HaskGame-Key.html#KeyGroup",
-        "fct-type": "function",
-        "title": "keyGroupKeys"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Keys",
-        "module": "Graphics.UI.HaskGame.Keys",
-        "name": "keyGroupKeys",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Group Keys",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Keys.html#v:keyGroupName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Graphics.UI.HaskGame.Keys",
-        "fct-package": "haskgame",
-        "fct-signature": "String",
-        "fct-source": "src/Graphics-UI-HaskGame-Key.html#KeyGroup",
-        "fct-type": "function",
-        "title": "keyGroupName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Keys",
-        "module": "Graphics.UI.HaskGame.Keys",
-        "name": "keyGroupName",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Group Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Keys.html#v:keysUnicode",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Keys",
-        "fct-package": "haskgame",
-        "fct-signature": "Map ModKey String",
-        "fct-source": "src/Graphics-UI-HaskGame-Keys.html#keysUnicode",
-        "fct-type": "function",
-        "title": "keysUnicode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Keys",
-        "module": "Graphics.UI.HaskGame.Keys",
-        "name": "keysUnicode",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Unicode",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Keys.html#v:lettersGroup",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Keys",
-        "fct-package": "haskgame",
-        "fct-signature": "KeyGroup",
-        "fct-source": "src/Graphics-UI-HaskGame-Keys.html#lettersGroup",
-        "fct-type": "function",
-        "title": "lettersGroup"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Keys",
-        "module": "Graphics.UI.HaskGame.Keys",
-        "name": "lettersGroup",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Group",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Keys.html#v:lowerCaseGroup",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Keys",
-        "fct-package": "haskgame",
-        "fct-signature": "KeyGroup",
-        "fct-source": "src/Graphics-UI-HaskGame-Keys.html#lowerCaseGroup",
-        "fct-type": "function",
-        "title": "lowerCaseGroup"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Keys",
-        "module": "Graphics.UI.HaskGame.Keys",
-        "name": "lowerCaseGroup",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Case Group",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Keys.html#v:printableGroup",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Keys",
-        "fct-package": "haskgame",
-        "fct-signature": "KeyGroup",
-        "fct-source": "src/Graphics-UI-HaskGame-Keys.html#printableGroup",
-        "fct-type": "function",
-        "title": "printableGroup"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Keys",
-        "module": "Graphics.UI.HaskGame.Keys",
-        "name": "printableGroup",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Group",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Keys.html#v:upperCaseGroup",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Keys",
-        "fct-package": "haskgame",
-        "fct-signature": "KeyGroup",
-        "fct-source": "src/Graphics-UI-HaskGame-Keys.html#upperCaseGroup",
-        "fct-type": "function",
-        "title": "upperCaseGroup"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Keys",
-        "module": "Graphics.UI.HaskGame.Keys",
-        "name": "upperCaseGroup",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Case Group",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Rect",
-        "fct-package": "haskgame",
-        "fct-signature": "module",
-        "fct-source": "src/Graphics-UI-HaskGame-Rect.html",
-        "fct-type": "module",
-        "title": "Rect"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Rect",
-        "module": "Graphics.UI.HaskGame.Rect",
-        "name": "Rect",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Rect",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#t:Rect",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Rect",
-        "fct-package": "haskgame",
-        "fct-signature": "data",
-        "fct-type": "data",
-        "title": "Rect"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Rect",
-        "module": "Graphics.UI.HaskGame.Rect",
-        "name": "Rect",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Rect",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:Rect",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Rect",
-        "fct-package": "haskgame",
-        "fct-signature": "Rect Int Int Int Int",
-        "fct-type": "function",
-        "title": "Rect"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Rect",
-        "module": "Graphics.UI.HaskGame.Rect",
-        "name": "Rect",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Rect",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:fromVectors",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Rect",
-        "fct-package": "haskgame",
-        "fct-signature": "Two (Vector2 Int) -\u003e Rect",
-        "fct-source": "src/Graphics-UI-HaskGame-Rect.html#fromVectors",
-        "fct-type": "function",
-        "title": "fromVectors"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Rect",
-        "module": "Graphics.UI.HaskGame.Rect",
-        "name": "fromVectors",
-        "normalized": "Two(Vector Int)-\u003eRect",
-        "package": "haskgame",
-        "partial": "Vectors",
-        "signature": "Two(Vector Int)-\u003eRect"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:getBottomRight",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Rect",
-        "fct-package": "haskgame",
-        "fct-signature": "Rect -\u003e Vector2 Int",
-        "fct-source": "src/Graphics-UI-HaskGame-Rect.html#getBottomRight",
-        "fct-type": "function",
-        "title": "getBottomRight"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Rect",
-        "module": "Graphics.UI.HaskGame.Rect",
-        "name": "getBottomRight",
-        "normalized": "Rect-\u003eVector Int",
-        "package": "haskgame",
-        "partial": "Bottom Right",
-        "signature": "Rect-\u003eVector Int"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:getSize",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Rect",
-        "fct-package": "haskgame",
-        "fct-signature": "Rect -\u003e Vector2 Int",
-        "fct-source": "src/Graphics-UI-HaskGame-Rect.html#getSize",
-        "fct-type": "function",
-        "title": "getSize"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Rect",
-        "module": "Graphics.UI.HaskGame.Rect",
-        "name": "getSize",
-        "normalized": "Rect-\u003eVector Int",
-        "package": "haskgame",
-        "partial": "Size",
-        "signature": "Rect-\u003eVector Int"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:getTopLeft",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Rect",
-        "fct-package": "haskgame",
-        "fct-signature": "Rect -\u003e Vector2 Int",
-        "fct-source": "src/Graphics-UI-HaskGame-Rect.html#getTopLeft",
-        "fct-type": "function",
-        "title": "getTopLeft"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Rect",
-        "module": "Graphics.UI.HaskGame.Rect",
-        "name": "getTopLeft",
-        "normalized": "Rect-\u003eVector Int",
-        "package": "haskgame",
-        "partial": "Top Left",
-        "signature": "Rect-\u003eVector Int"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:h",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Rect",
-        "fct-package": "haskgame",
-        "fct-signature": "Endo Int -\u003e Endo Rect",
-        "fct-source": "src/Graphics-UI-HaskGame-Rect.html#h",
-        "fct-type": "function",
-        "title": "h"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Rect",
-        "module": "Graphics.UI.HaskGame.Rect",
-        "name": "h",
-        "normalized": "Endo Int-\u003eEndo Rect",
-        "package": "haskgame",
-        "partial": "",
-        "signature": "Endo Int-\u003eEndo Rect"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:inRect",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Rect",
-        "fct-package": "haskgame",
-        "fct-signature": "Endo (Two (Vector2 Int)) -\u003e Endo Rect",
-        "fct-source": "src/Graphics-UI-HaskGame-Rect.html#inRect",
-        "fct-type": "function",
-        "title": "inRect"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Rect",
-        "module": "Graphics.UI.HaskGame.Rect",
-        "name": "inRect",
-        "normalized": "Endo(Two(Vector Int))-\u003eEndo Rect",
-        "package": "haskgame",
-        "partial": "Rect",
-        "signature": "Endo(Two(Vector Int))-\u003eEndo Rect"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:intersect",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Rect",
-        "fct-package": "haskgame",
-        "fct-signature": "Rect -\u003e Rect -\u003e Rect",
-        "fct-source": "src/Graphics-UI-HaskGame-Rect.html#intersect",
-        "fct-type": "function",
-        "title": "intersect"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Rect",
-        "module": "Graphics.UI.HaskGame.Rect",
-        "name": "intersect",
-        "normalized": "Rect-\u003eRect-\u003eRect",
-        "package": "haskgame",
-        "partial": "",
-        "signature": "Rect-\u003eRect-\u003eRect"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:make",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Rect",
-        "fct-package": "haskgame",
-        "fct-signature": "Vector2 Int -\u003e Vector2 Int -\u003e Rect",
-        "fct-source": "src/Graphics-UI-HaskGame-Rect.html#make",
-        "fct-type": "function",
-        "title": "make"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Rect",
-        "module": "Graphics.UI.HaskGame.Rect",
-        "name": "make",
-        "normalized": "Vector Int-\u003eVector Int-\u003eRect",
-        "package": "haskgame",
-        "partial": "",
-        "signature": "Vector Int-\u003eVector Int-\u003eRect"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:makeFromPos",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Rect",
-        "fct-package": "haskgame",
-        "fct-signature": "Vector2 Int -\u003e Rect",
-        "fct-source": "src/Graphics-UI-HaskGame-Rect.html#makeFromPos",
-        "fct-type": "function",
-        "title": "makeFromPos"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Rect",
-        "module": "Graphics.UI.HaskGame.Rect",
-        "name": "makeFromPos",
-        "normalized": "Vector Int-\u003eRect",
-        "package": "haskgame",
-        "partial": "From Pos",
-        "signature": "Vector Int-\u003eRect"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:makeFromSize",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Rect",
-        "fct-package": "haskgame",
-        "fct-signature": "Vector2 Int -\u003e Rect",
-        "fct-source": "src/Graphics-UI-HaskGame-Rect.html#makeFromSize",
-        "fct-type": "function",
-        "title": "makeFromSize"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Rect",
-        "module": "Graphics.UI.HaskGame.Rect",
-        "name": "makeFromSize",
-        "normalized": "Vector Int-\u003eRect",
-        "package": "haskgame",
-        "partial": "From Size",
-        "signature": "Vector Int-\u003eRect"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:pVectorsToVectors",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Rect",
-        "fct-package": "haskgame",
-        "fct-signature": "Endo (Two (Vector2 Int))",
-        "fct-source": "src/Graphics-UI-HaskGame-Rect.html#pVectorsToVectors",
-        "fct-type": "function",
-        "title": "pVectorsToVectors"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Rect",
-        "module": "Graphics.UI.HaskGame.Rect",
-        "name": "pVectorsToVectors",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Vectors To Vectors",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:pos",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Rect",
-        "fct-package": "haskgame",
-        "fct-signature": "Endo (Vector2 Int) -\u003e Endo Rect",
-        "fct-source": "src/Graphics-UI-HaskGame-Rect.html#pos",
-        "fct-type": "function",
-        "title": "pos"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Rect",
-        "module": "Graphics.UI.HaskGame.Rect",
-        "name": "pos",
-        "normalized": "Endo(Vector Int)-\u003eEndo Rect",
-        "package": "haskgame",
-        "partial": "",
-        "signature": "Endo(Vector Int)-\u003eEndo Rect"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:posInside",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Rect",
-        "fct-package": "haskgame",
-        "fct-signature": "Vector2 Int -\u003e Rect -\u003e Bool",
-        "fct-source": "src/Graphics-UI-HaskGame-Rect.html#posInside",
-        "fct-type": "function",
-        "title": "posInside"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Rect",
-        "module": "Graphics.UI.HaskGame.Rect",
-        "name": "posInside",
-        "normalized": "Vector Int-\u003eRect-\u003eBool",
-        "package": "haskgame",
-        "partial": "Inside",
-        "signature": "Vector Int-\u003eRect-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:size",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Rect",
-        "fct-package": "haskgame",
-        "fct-signature": "Endo (Vector2 Int) -\u003e Endo Rect",
-        "fct-source": "src/Graphics-UI-HaskGame-Rect.html#size",
-        "fct-type": "function",
-        "title": "size"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Rect",
-        "module": "Graphics.UI.HaskGame.Rect",
-        "name": "size",
-        "normalized": "Endo(Vector Int)-\u003eEndo Rect",
-        "package": "haskgame",
-        "partial": "",
-        "signature": "Endo(Vector Int)-\u003eEndo Rect"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:toPVectors",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Rect",
-        "fct-package": "haskgame",
-        "fct-signature": "Rect -\u003e Two (Vector2 Int)",
-        "fct-source": "src/Graphics-UI-HaskGame-Rect.html#toPVectors",
-        "fct-type": "function",
-        "title": "toPVectors"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Rect",
-        "module": "Graphics.UI.HaskGame.Rect",
-        "name": "toPVectors",
-        "normalized": "Rect-\u003eTwo(Vector Int)",
-        "package": "haskgame",
-        "partial": "PVectors",
-        "signature": "Rect-\u003eTwo(Vector Int)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:toVectors",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Rect",
-        "fct-package": "haskgame",
-        "fct-signature": "Rect -\u003e Two (Vector2 Int)",
-        "fct-source": "src/Graphics-UI-HaskGame-Rect.html#toVectors",
-        "fct-type": "function",
-        "title": "toVectors"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Rect",
-        "module": "Graphics.UI.HaskGame.Rect",
-        "name": "toVectors",
-        "normalized": "Rect-\u003eTwo(Vector Int)",
-        "package": "haskgame",
-        "partial": "Vectors",
-        "signature": "Rect-\u003eTwo(Vector Int)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:trunc",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Rect",
-        "fct-package": "haskgame",
-        "fct-signature": "Rect -\u003e Rect",
-        "fct-source": "src/Graphics-UI-HaskGame-Rect.html#trunc",
-        "fct-type": "function",
-        "title": "trunc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Rect",
-        "module": "Graphics.UI.HaskGame.Rect",
-        "name": "trunc",
-        "normalized": "Rect-\u003eRect",
-        "package": "haskgame",
-        "partial": "",
-        "signature": "Rect-\u003eRect"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:union",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Rect",
-        "fct-package": "haskgame",
-        "fct-signature": "Rect -\u003e Rect -\u003e Rect",
-        "fct-source": "src/Graphics-UI-HaskGame-Rect.html#union",
-        "fct-type": "function",
-        "title": "union"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Rect",
-        "module": "Graphics.UI.HaskGame.Rect",
-        "name": "union",
-        "normalized": "Rect-\u003eRect-\u003eRect",
-        "package": "haskgame",
-        "partial": "",
-        "signature": "Rect-\u003eRect-\u003eRect"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:vectorsToPVectors",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Rect",
-        "fct-package": "haskgame",
-        "fct-signature": "Endo (Two (Vector2 Int))",
-        "fct-source": "src/Graphics-UI-HaskGame-Rect.html#vectorsToPVectors",
-        "fct-type": "function",
-        "title": "vectorsToPVectors"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Rect",
-        "module": "Graphics.UI.HaskGame.Rect",
-        "name": "vectorsToPVectors",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "To PVectors",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:w",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Rect",
-        "fct-package": "haskgame",
-        "fct-signature": "Endo Int -\u003e Endo Rect",
-        "fct-source": "src/Graphics-UI-HaskGame-Rect.html#w",
-        "fct-type": "function",
-        "title": "w"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Rect",
-        "module": "Graphics.UI.HaskGame.Rect",
-        "name": "w",
-        "normalized": "Endo Int-\u003eEndo Rect",
-        "package": "haskgame",
-        "partial": "",
-        "signature": "Endo Int-\u003eEndo Rect"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:x",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Rect",
-        "fct-package": "haskgame",
-        "fct-signature": "Endo Int -\u003e Endo Rect",
-        "fct-source": "src/Graphics-UI-HaskGame-Rect.html#x",
-        "fct-type": "function",
-        "title": "x"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Rect",
-        "module": "Graphics.UI.HaskGame.Rect",
-        "name": "x",
-        "normalized": "Endo Int-\u003eEndo Rect",
-        "package": "haskgame",
-        "partial": "",
-        "signature": "Endo Int-\u003eEndo Rect"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:y",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Rect",
-        "fct-package": "haskgame",
-        "fct-signature": "Endo Int -\u003e Endo Rect",
-        "fct-source": "src/Graphics-UI-HaskGame-Rect.html#y",
-        "fct-type": "function",
-        "title": "y"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Rect",
-        "module": "Graphics.UI.HaskGame.Rect",
-        "name": "y",
-        "normalized": "Endo Int-\u003eEndo Rect",
-        "package": "haskgame",
-        "partial": "",
-        "signature": "Endo Int-\u003eEndo Rect"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Vector2.html#",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Vector2",
-        "fct-package": "haskgame",
-        "fct-signature": "module",
-        "fct-source": "src/Graphics-UI-HaskGame-Vector2.html",
-        "fct-type": "module",
-        "title": "Vector2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Vector2",
-        "module": "Graphics.UI.HaskGame.Vector2",
-        "name": "Vector2",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Vector",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Vector2.html#t:Vector2",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Vector2",
-        "fct-package": "haskgame",
-        "fct-signature": "data",
-        "fct-source": "src/Graphics-UI-HaskGame-Vector2.html#Vector2",
-        "fct-type": "data",
-        "title": "Vector2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Vector2",
-        "module": "Graphics.UI.HaskGame.Vector2",
-        "name": "Vector2",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Vector",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Vector2.html#v:-42--42--42-",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Vector2",
-        "fct-package": "haskgame",
-        "fct-signature": "Endo a -\u003e Endo a -\u003e Endo (Vector2 a)",
-        "fct-source": "src/Graphics-UI-HaskGame-Vector2.html#%2A%2A%2A",
-        "fct-type": "function",
-        "title": "(***)"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Vector2",
-        "module": "Graphics.UI.HaskGame.Vector2",
-        "name": "(***) ***",
-        "normalized": "Endo a-\u003eEndo a-\u003eEndo(Vector a)",
-        "package": "haskgame",
-        "partial": "",
-        "signature": "Endo a-\u003eEndo a-\u003eEndo(Vector a)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Vector2.html#v:Vector2",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Vector2",
-        "fct-package": "haskgame",
-        "fct-signature": "Vector2 !a !a",
-        "fct-source": "src/Graphics-UI-HaskGame-Vector2.html#Vector2",
-        "fct-type": "function",
-        "title": "Vector2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Vector2",
-        "module": "Graphics.UI.HaskGame.Vector2",
-        "name": "Vector2",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Vector",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Vector2.html#v:both",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Vector2",
-        "fct-package": "haskgame",
-        "fct-signature": "Endo a -\u003e Endo (Vector2 a)",
-        "fct-source": "src/Graphics-UI-HaskGame-Vector2.html#both",
-        "fct-type": "function",
-        "title": "both"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Vector2",
-        "module": "Graphics.UI.HaskGame.Vector2",
-        "name": "both",
-        "normalized": "Endo a-\u003eEndo(Vector a)",
-        "package": "haskgame",
-        "partial": "",
-        "signature": "Endo a-\u003eEndo(Vector a)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Vector2.html#v:first",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Vector2",
-        "fct-package": "haskgame",
-        "fct-signature": "Endo a -\u003e Endo (Vector2 a)",
-        "fct-source": "src/Graphics-UI-HaskGame-Vector2.html#first",
-        "fct-type": "function",
-        "title": "first"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Vector2",
-        "module": "Graphics.UI.HaskGame.Vector2",
-        "name": "first",
-        "normalized": "Endo a-\u003eEndo(Vector a)",
-        "package": "haskgame",
-        "partial": "",
-        "signature": "Endo a-\u003eEndo(Vector a)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Vector2.html#v:fst",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Vector2",
-        "fct-package": "haskgame",
-        "fct-signature": "Vector2 a -\u003e a",
-        "fct-source": "src/Graphics-UI-HaskGame-Vector2.html#fst",
-        "fct-type": "function",
-        "title": "fst"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Vector2",
-        "module": "Graphics.UI.HaskGame.Vector2",
-        "name": "fst",
-        "normalized": "Vector a-\u003ea",
-        "package": "haskgame",
-        "partial": "",
-        "signature": "Vector a-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Vector2.html#v:second",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Vector2",
-        "fct-package": "haskgame",
-        "fct-signature": "Endo a -\u003e Endo (Vector2 a)",
-        "fct-source": "src/Graphics-UI-HaskGame-Vector2.html#second",
-        "fct-type": "function",
-        "title": "second"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Vector2",
-        "module": "Graphics.UI.HaskGame.Vector2",
-        "name": "second",
-        "normalized": "Endo a-\u003eEndo(Vector a)",
-        "package": "haskgame",
-        "partial": "",
-        "signature": "Endo a-\u003eEndo(Vector a)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Vector2.html#v:snd",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Vector2",
-        "fct-package": "haskgame",
-        "fct-signature": "Vector2 a -\u003e a",
-        "fct-source": "src/Graphics-UI-HaskGame-Vector2.html#snd",
-        "fct-type": "function",
-        "title": "snd"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Vector2",
-        "module": "Graphics.UI.HaskGame.Vector2",
-        "name": "snd",
-        "normalized": "Vector a-\u003ea",
-        "package": "haskgame",
-        "partial": "",
-        "signature": "Vector a-\u003ea"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Vector2.html#v:vector2",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame.Vector2",
-        "fct-package": "haskgame",
-        "fct-signature": "(a -\u003e a -\u003e b) -\u003e Vector2 a -\u003e b",
-        "fct-source": "src/Graphics-UI-HaskGame-Vector2.html#vector2",
-        "fct-type": "function",
-        "title": "vector2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame Vector2",
-        "module": "Graphics.UI.HaskGame.Vector2",
-        "name": "vector2",
-        "normalized": "(a-\u003ea-\u003eb)-\u003eVector a-\u003eb",
-        "package": "haskgame",
-        "partial": "",
-        "signature": "(a-\u003ea-\u003eb)-\u003eVector a-\u003eb"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame.html#",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame",
-        "fct-package": "haskgame",
-        "fct-signature": "module",
-        "fct-source": "src/Graphics-UI-HaskGame.html",
-        "fct-type": "module",
-        "title": "HaskGame"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame",
-        "module": "Graphics.UI.HaskGame",
-        "name": "HaskGame",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Hask Game",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame.html#t:Event",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame",
-        "fct-package": "haskgame",
-        "fct-signature": "type",
-        "fct-source": "src/Graphics-UI-HaskGame.html#Event",
-        "fct-type": "type",
-        "title": "Event"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame",
-        "module": "Graphics.UI.HaskGame",
-        "name": "Event",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Event",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame.html#t:Surface",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame",
-        "fct-package": "haskgame",
-        "fct-signature": "type",
-        "fct-source": "src/Graphics-UI-HaskGame.html#Surface",
-        "fct-type": "type",
-        "title": "Surface"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame",
-        "module": "Graphics.UI.HaskGame",
-        "name": "Surface",
-        "normalized": "",
-        "package": "haskgame",
-        "partial": "Surface",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame.html#v:blit",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame",
-        "fct-package": "haskgame",
-        "fct-signature": "Surface -\u003e Vector2 Int -\u003e Surface -\u003e IO ()",
-        "fct-source": "src/Graphics-UI-HaskGame.html#blit",
-        "fct-type": "function",
-        "title": "blit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame",
-        "module": "Graphics.UI.HaskGame",
-        "name": "blit",
-        "normalized": "Surface-\u003eVector Int-\u003eSurface-\u003eIO()",
-        "package": "haskgame",
-        "partial": "",
-        "signature": "Surface-\u003eVector Int-\u003eSurface-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame.html#v:blitPart",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame",
-        "fct-package": "haskgame",
-        "fct-signature": "Surface -\u003e Vector2 Int -\u003e Surface -\u003e Rect -\u003e IO ()",
-        "fct-source": "src/Graphics-UI-HaskGame.html#blitPart",
-        "fct-type": "function",
-        "title": "blitPart"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame",
-        "module": "Graphics.UI.HaskGame",
-        "name": "blitPart",
-        "normalized": "Surface-\u003eVector Int-\u003eSurface-\u003eRect-\u003eIO()",
-        "package": "haskgame",
-        "partial": "Part",
-        "signature": "Surface-\u003eVector Int-\u003eSurface-\u003eRect-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame.html#v:createRGBSurface",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame",
-        "fct-package": "haskgame",
-        "fct-signature": "Vector2 Int -\u003e IO Surface",
-        "fct-source": "src/Graphics-UI-HaskGame.html#createRGBSurface",
-        "fct-type": "function",
-        "title": "createRGBSurface"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame",
-        "module": "Graphics.UI.HaskGame",
-        "name": "createRGBSurface",
-        "normalized": "Vector Int-\u003eIO Surface",
-        "package": "haskgame",
-        "partial": "RGBSurface",
-        "signature": "Vector Int-\u003eIO Surface"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame.html#v:fillRect",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame",
-        "fct-package": "haskgame",
-        "fct-signature": "Surface -\u003e Rect -\u003e Color -\u003e IO ()",
-        "fct-source": "src/Graphics-UI-HaskGame.html#fillRect",
-        "fct-type": "function",
-        "title": "fillRect"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame",
-        "module": "Graphics.UI.HaskGame",
-        "name": "fillRect",
-        "normalized": "Surface-\u003eRect-\u003eColor-\u003eIO()",
-        "package": "haskgame",
-        "partial": "Rect",
-        "signature": "Surface-\u003eRect-\u003eColor-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame.html#v:fillSurface",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame",
-        "fct-package": "haskgame",
-        "fct-signature": "Surface -\u003e Color -\u003e IO ()",
-        "fct-source": "src/Graphics-UI-HaskGame.html#fillSurface",
-        "fct-type": "function",
-        "title": "fillSurface"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame",
-        "module": "Graphics.UI.HaskGame",
-        "name": "fillSurface",
-        "normalized": "Surface-\u003eColor-\u003eIO()",
-        "package": "haskgame",
-        "partial": "Surface",
-        "signature": "Surface-\u003eColor-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame.html#v:getEvents",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame",
-        "fct-package": "haskgame",
-        "fct-signature": "IO [Event]",
-        "fct-source": "src/Graphics-UI-HaskGame.html#getEvents",
-        "fct-type": "function",
-        "title": "getEvents"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame",
-        "module": "Graphics.UI.HaskGame",
-        "name": "getEvents",
-        "normalized": "IO[Event]",
-        "package": "haskgame",
-        "partial": "Events",
-        "signature": "IO[Event]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame.html#v:setVideoMode",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame",
-        "fct-package": "haskgame",
-        "fct-signature": "Vector2 Int -\u003e Int -\u003e IO Surface",
-        "fct-source": "src/Graphics-UI-HaskGame.html#setVideoMode",
-        "fct-type": "function",
-        "title": "setVideoMode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame",
-        "module": "Graphics.UI.HaskGame",
-        "name": "setVideoMode",
-        "normalized": "Vector Int-\u003eInt-\u003eIO Surface",
-        "package": "haskgame",
-        "partial": "Video Mode",
-        "signature": "Vector Int-\u003eInt-\u003eIO Surface"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame.html#v:surfaceSize",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame",
-        "fct-package": "haskgame",
-        "fct-signature": "Surface -\u003e Vector2 Int",
-        "fct-source": "src/Graphics-UI-HaskGame.html#surfaceSize",
-        "fct-type": "function",
-        "title": "surfaceSize"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame",
-        "module": "Graphics.UI.HaskGame",
-        "name": "surfaceSize",
-        "normalized": "Surface-\u003eVector Int",
-        "package": "haskgame",
-        "partial": "Size",
-        "signature": "Surface-\u003eVector Int"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame.html#v:withInit",
-      "description": {
-        "fct-module": "Graphics.UI.HaskGame",
-        "fct-package": "haskgame",
-        "fct-signature": "IO () -\u003e IO ()",
-        "fct-source": "src/Graphics-UI-HaskGame.html#withInit",
-        "fct-type": "function",
-        "title": "withInit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Graphics UI HaskGame",
-        "module": "Graphics.UI.HaskGame",
-        "name": "withInit",
-        "normalized": "IO()-\u003eIO()",
-        "package": "haskgame",
-        "partial": "Init",
-        "signature": "IO()-\u003eIO()"
-      }
-    }
-  }
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "haskgame"
+      },
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Color",
+          "name": "Color",
+          "package": "haskgame",
+          "source": "src/Graphics-UI-HaskGame-Color.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Color",
+          "module": "Graphics.UI.HaskGame.Color",
+          "name": "Color",
+          "package": "haskgame",
+          "partial": "Color",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Color.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Color",
+          "name": "Color",
+          "package": "haskgame",
+          "source": "src/Graphics-UI-HaskGame-Color.html#Color",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Color",
+          "module": "Graphics.UI.HaskGame.Color",
+          "name": "Color",
+          "package": "haskgame",
+          "partial": "Color",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Color.html#t:Color"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Color",
+          "name": "Color",
+          "package": "haskgame",
+          "signature": "Color",
+          "source": "src/Graphics-UI-HaskGame-Color.html#Color",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Color",
+          "module": "Graphics.UI.HaskGame.Color",
+          "name": "Color",
+          "package": "haskgame",
+          "partial": "Color",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Color.html#v:Color"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Color",
+          "name": "colorBlue",
+          "package": "haskgame",
+          "signature": "Word8",
+          "source": "src/Graphics-UI-HaskGame-Color.html#Color",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Color",
+          "module": "Graphics.UI.HaskGame.Color",
+          "name": "colorBlue",
+          "package": "haskgame",
+          "partial": "Blue",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Color.html#v:colorBlue"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Color",
+          "name": "colorGreen",
+          "package": "haskgame",
+          "signature": "Word8",
+          "source": "src/Graphics-UI-HaskGame-Color.html#Color",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Color",
+          "module": "Graphics.UI.HaskGame.Color",
+          "name": "colorGreen",
+          "package": "haskgame",
+          "partial": "Green",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Color.html#v:colorGreen"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Color",
+          "name": "colorRed",
+          "package": "haskgame",
+          "signature": "Word8",
+          "source": "src/Graphics-UI-HaskGame-Color.html#Color",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Color",
+          "module": "Graphics.UI.HaskGame.Color",
+          "name": "colorRed",
+          "package": "haskgame",
+          "partial": "Red",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Color.html#v:colorRed"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Font",
+          "name": "Font",
+          "package": "haskgame",
+          "source": "src/Graphics-UI-HaskGame-Font.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Font",
+          "module": "Graphics.UI.HaskGame.Font",
+          "name": "Font",
+          "package": "haskgame",
+          "partial": "Font",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Font.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Font",
+          "name": "Font",
+          "package": "haskgame",
+          "source": "src/Graphics-UI-HaskGame-Font.html#Font",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Font",
+          "module": "Graphics.UI.HaskGame.Font",
+          "name": "Font",
+          "package": "haskgame",
+          "partial": "Font",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Font.html#t:Font"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Font",
+          "name": "defaultFont",
+          "package": "haskgame",
+          "signature": "Int -\u003e IO Font",
+          "source": "src/Graphics-UI-HaskGame-Font.html#defaultFont",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Font",
+          "module": "Graphics.UI.HaskGame.Font",
+          "name": "defaultFont",
+          "normalized": "Int-\u003eIO Font",
+          "package": "haskgame",
+          "partial": "Font",
+          "signature": "Int-\u003eIO Font",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Font.html#v:defaultFont"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Font",
+          "name": "renderText",
+          "package": "haskgame",
+          "signature": "Font -\u003e String -\u003e Color -\u003e IO Surface",
+          "source": "src/Graphics-UI-HaskGame-Font.html#renderText",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Font",
+          "module": "Graphics.UI.HaskGame.Font",
+          "name": "renderText",
+          "normalized": "Font-\u003eString-\u003eColor-\u003eIO Surface",
+          "package": "haskgame",
+          "partial": "Text",
+          "signature": "Font-\u003eString-\u003eColor-\u003eIO Surface",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Font.html#v:renderText"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Font",
+          "name": "textSize",
+          "package": "haskgame",
+          "signature": "Font -\u003e String -\u003e Vector2 Int",
+          "source": "src/Graphics-UI-HaskGame-Font.html#textSize",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Font",
+          "module": "Graphics.UI.HaskGame.Font",
+          "name": "textSize",
+          "normalized": "Font-\u003eString-\u003eVector Int",
+          "package": "haskgame",
+          "partial": "Size",
+          "signature": "Font-\u003eString-\u003eVector Int",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Font.html#v:textSize"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Font",
+          "name": "withInit",
+          "package": "haskgame",
+          "signature": "IO () -\u003e IO ()",
+          "source": "src/Graphics-UI-HaskGame-Font.html#withInit",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Font",
+          "module": "Graphics.UI.HaskGame.Font",
+          "name": "withInit",
+          "normalized": "IO()-\u003eIO()",
+          "package": "haskgame",
+          "partial": "Init",
+          "signature": "IO()-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Font.html#v:withInit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "Key",
+          "package": "haskgame",
+          "source": "src/Graphics-UI-HaskGame-Key.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Key",
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "Key",
+          "package": "haskgame",
+          "partial": "Key",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "KeyGroup",
+          "package": "haskgame",
+          "source": "src/Graphics-UI-HaskGame-Key.html#KeyGroup",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Key",
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "KeyGroup",
+          "package": "haskgame",
+          "partial": "Key Group",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#t:KeyGroup"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "Keysym",
+          "package": "haskgame",
+          "source": "src/Graphics-UI-HaskGame-Key.html#Keysym",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Key",
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "Keysym",
+          "package": "haskgame",
+          "partial": "Keysym",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#t:Keysym"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "ModKey",
+          "package": "haskgame",
+          "source": "src/Graphics-UI-HaskGame-Key.html#ModKey",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Key",
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "ModKey",
+          "package": "haskgame",
+          "partial": "Mod Key",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#t:ModKey"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "Mods",
+          "package": "haskgame",
+          "source": "src/Graphics-UI-HaskGame-Key.html#Mods",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Key",
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "Mods",
+          "package": "haskgame",
+          "partial": "Mods",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#t:Mods"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Graphics.UI.HaskGame.Key\",\"Graphics.UI.HaskGame.Keys\"]",
+          "name": "KeyGroup",
+          "package": "haskgame",
+          "signature": "KeyGroup",
+          "source": "src/Graphics-UI-HaskGame-Key.html#KeyGroup",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:KeyGroup\",\"http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Keys.html#v:KeyGroup\"]"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Key",
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "KeyGroup",
+          "package": "haskgame",
+          "partial": "Key Group",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:KeyGroup"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "MkMods",
+          "package": "haskgame",
+          "signature": "MkMods",
+          "source": "src/Graphics-UI-HaskGame-Key.html#Mods",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Key",
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "MkMods",
+          "package": "haskgame",
+          "partial": "Mk Mods",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:MkMods"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "ModKey",
+          "package": "haskgame",
+          "signature": "ModKey Mods SDLKey",
+          "source": "src/Graphics-UI-HaskGame-Key.html#ModKey",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Key",
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "ModKey",
+          "package": "haskgame",
+          "partial": "Mod Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:ModKey"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "alt",
+          "package": "haskgame",
+          "signature": "Mods",
+          "source": "src/Graphics-UI-HaskGame-Key.html#alt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Key",
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "alt",
+          "package": "haskgame",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:alt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "asKeyGroup",
+          "package": "haskgame",
+          "signature": "Mods -\u003e SDLKey -\u003e KeyGroup",
+          "source": "src/Graphics-UI-HaskGame-Key.html#asKeyGroup",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Key",
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "asKeyGroup",
+          "normalized": "Mods-\u003eSDLKey-\u003eKeyGroup",
+          "package": "haskgame",
+          "partial": "Key Group",
+          "signature": "Mods-\u003eSDLKey-\u003eKeyGroup",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:asKeyGroup"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "ctrl",
+          "package": "haskgame",
+          "signature": "Mods",
+          "source": "src/Graphics-UI-HaskGame-Key.html#ctrl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Key",
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "ctrl",
+          "package": "haskgame",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:ctrl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "isAlt",
+          "package": "haskgame",
+          "signature": "Bool",
+          "source": "src/Graphics-UI-HaskGame-Key.html#Mods",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Key",
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "isAlt",
+          "package": "haskgame",
+          "partial": "Alt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:isAlt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "isCtrl",
+          "package": "haskgame",
+          "signature": "Bool",
+          "source": "src/Graphics-UI-HaskGame-Key.html#Mods",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Key",
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "isCtrl",
+          "package": "haskgame",
+          "partial": "Ctrl",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:isCtrl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "isShift",
+          "package": "haskgame",
+          "signature": "Bool",
+          "source": "src/Graphics-UI-HaskGame-Key.html#Mods",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Key",
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "isShift",
+          "package": "haskgame",
+          "partial": "Shift",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:isShift"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Graphics.UI.HaskGame.Key\",\"Graphics.UI.HaskGame.Keys\"]",
+          "name": "keyGroupKeys",
+          "package": "haskgame",
+          "signature": "Set ModKey",
+          "source": "src/Graphics-UI-HaskGame-Key.html#KeyGroup",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:keyGroupKeys\",\"http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Keys.html#v:keyGroupKeys\"]"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Key",
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "keyGroupKeys",
+          "package": "haskgame",
+          "partial": "Group Keys",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:keyGroupKeys"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"Graphics.UI.HaskGame.Key\",\"Graphics.UI.HaskGame.Keys\"]",
+          "name": "keyGroupName",
+          "package": "haskgame",
+          "signature": "String",
+          "source": "src/Graphics-UI-HaskGame-Key.html#KeyGroup",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:keyGroupName\",\"http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Keys.html#v:keyGroupName\"]"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Key",
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "keyGroupName",
+          "package": "haskgame",
+          "partial": "Group Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:keyGroupName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "keyName",
+          "package": "haskgame",
+          "signature": "ModKey -\u003e String",
+          "source": "src/Graphics-UI-HaskGame-Key.html#keyName",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Key",
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "keyName",
+          "normalized": "ModKey-\u003eString",
+          "package": "haskgame",
+          "partial": "Name",
+          "signature": "ModKey-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:keyName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "keyOfEvent",
+          "package": "haskgame",
+          "signature": "Keysym -\u003e ModKey",
+          "source": "src/Graphics-UI-HaskGame-Key.html#keyOfEvent",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Key",
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "keyOfEvent",
+          "normalized": "Keysym-\u003eModKey",
+          "package": "haskgame",
+          "partial": "Of Event",
+          "signature": "Keysym-\u003eModKey",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:keyOfEvent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "noMods",
+          "package": "haskgame",
+          "signature": "Mods",
+          "source": "src/Graphics-UI-HaskGame-Key.html#noMods",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Key",
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "noMods",
+          "package": "haskgame",
+          "partial": "Mods",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:noMods"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "shift",
+          "package": "haskgame",
+          "signature": "Mods",
+          "source": "src/Graphics-UI-HaskGame-Key.html#shift",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Key",
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "shift",
+          "package": "haskgame",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:shift"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "singletonKeyGroup",
+          "package": "haskgame",
+          "signature": "ModKey -\u003e KeyGroup",
+          "source": "src/Graphics-UI-HaskGame-Key.html#singletonKeyGroup",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Key",
+          "module": "Graphics.UI.HaskGame.Key",
+          "name": "singletonKeyGroup",
+          "normalized": "ModKey-\u003eKeyGroup",
+          "package": "haskgame",
+          "partial": "Key Group",
+          "signature": "ModKey-\u003eKeyGroup",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Key.html#v:singletonKeyGroup"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Keys",
+          "name": "Keys",
+          "package": "haskgame",
+          "source": "src/Graphics-UI-HaskGame-Keys.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Keys",
+          "module": "Graphics.UI.HaskGame.Keys",
+          "name": "Keys",
+          "package": "haskgame",
+          "partial": "Keys",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Keys.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Keys",
+          "name": "KeyGroup",
+          "package": "haskgame",
+          "source": "src/Graphics-UI-HaskGame-Key.html#KeyGroup",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Keys",
+          "module": "Graphics.UI.HaskGame.Keys",
+          "name": "KeyGroup",
+          "package": "haskgame",
+          "partial": "Key Group",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Keys.html#t:KeyGroup"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Keys",
+          "name": "allGroups",
+          "package": "haskgame",
+          "signature": "[KeyGroup]",
+          "source": "src/Graphics-UI-HaskGame-Keys.html#allGroups",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Keys",
+          "module": "Graphics.UI.HaskGame.Keys",
+          "name": "allGroups",
+          "normalized": "[KeyGroup]",
+          "package": "haskgame",
+          "partial": "Groups",
+          "signature": "[KeyGroup]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Keys.html#v:allGroups"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Keys",
+          "name": "arrowsGroup",
+          "package": "haskgame",
+          "signature": "KeyGroup",
+          "source": "src/Graphics-UI-HaskGame-Keys.html#arrowsGroup",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Keys",
+          "module": "Graphics.UI.HaskGame.Keys",
+          "name": "arrowsGroup",
+          "package": "haskgame",
+          "partial": "Group",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Keys.html#v:arrowsGroup"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Keys",
+          "name": "digitsGroup",
+          "package": "haskgame",
+          "signature": "KeyGroup",
+          "source": "src/Graphics-UI-HaskGame-Keys.html#digitsGroup",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Keys",
+          "module": "Graphics.UI.HaskGame.Keys",
+          "name": "digitsGroup",
+          "package": "haskgame",
+          "partial": "Group",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Keys.html#v:digitsGroup"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Keys",
+          "name": "groupsOfKey",
+          "package": "haskgame",
+          "signature": "ModKey -\u003e [KeyGroup]",
+          "source": "src/Graphics-UI-HaskGame-Keys.html#groupsOfKey",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Keys",
+          "module": "Graphics.UI.HaskGame.Keys",
+          "name": "groupsOfKey",
+          "normalized": "ModKey-\u003e[KeyGroup]",
+          "package": "haskgame",
+          "partial": "Of Key",
+          "signature": "ModKey-\u003e[KeyGroup]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Keys.html#v:groupsOfKey"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Keys",
+          "name": "keysUnicode",
+          "package": "haskgame",
+          "signature": "Map ModKey String",
+          "source": "src/Graphics-UI-HaskGame-Keys.html#keysUnicode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Keys",
+          "module": "Graphics.UI.HaskGame.Keys",
+          "name": "keysUnicode",
+          "package": "haskgame",
+          "partial": "Unicode",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Keys.html#v:keysUnicode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Keys",
+          "name": "lettersGroup",
+          "package": "haskgame",
+          "signature": "KeyGroup",
+          "source": "src/Graphics-UI-HaskGame-Keys.html#lettersGroup",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Keys",
+          "module": "Graphics.UI.HaskGame.Keys",
+          "name": "lettersGroup",
+          "package": "haskgame",
+          "partial": "Group",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Keys.html#v:lettersGroup"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Keys",
+          "name": "lowerCaseGroup",
+          "package": "haskgame",
+          "signature": "KeyGroup",
+          "source": "src/Graphics-UI-HaskGame-Keys.html#lowerCaseGroup",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Keys",
+          "module": "Graphics.UI.HaskGame.Keys",
+          "name": "lowerCaseGroup",
+          "package": "haskgame",
+          "partial": "Case Group",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Keys.html#v:lowerCaseGroup"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Keys",
+          "name": "printableGroup",
+          "package": "haskgame",
+          "signature": "KeyGroup",
+          "source": "src/Graphics-UI-HaskGame-Keys.html#printableGroup",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Keys",
+          "module": "Graphics.UI.HaskGame.Keys",
+          "name": "printableGroup",
+          "package": "haskgame",
+          "partial": "Group",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Keys.html#v:printableGroup"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Keys",
+          "name": "upperCaseGroup",
+          "package": "haskgame",
+          "signature": "KeyGroup",
+          "source": "src/Graphics-UI-HaskGame-Keys.html#upperCaseGroup",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Keys",
+          "module": "Graphics.UI.HaskGame.Keys",
+          "name": "upperCaseGroup",
+          "package": "haskgame",
+          "partial": "Case Group",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Keys.html#v:upperCaseGroup"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "Rect",
+          "package": "haskgame",
+          "source": "src/Graphics-UI-HaskGame-Rect.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Rect",
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "Rect",
+          "package": "haskgame",
+          "partial": "Rect",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "Rect",
+          "package": "haskgame",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Rect",
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "Rect",
+          "package": "haskgame",
+          "partial": "Rect",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#t:Rect"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "Rect",
+          "package": "haskgame",
+          "signature": "Rect Int Int Int Int",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Rect",
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "Rect",
+          "package": "haskgame",
+          "partial": "Rect",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:Rect"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "fromVectors",
+          "package": "haskgame",
+          "signature": "Two (Vector2 Int) -\u003e Rect",
+          "source": "src/Graphics-UI-HaskGame-Rect.html#fromVectors",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Rect",
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "fromVectors",
+          "normalized": "Two(Vector Int)-\u003eRect",
+          "package": "haskgame",
+          "partial": "Vectors",
+          "signature": "Two(Vector Int)-\u003eRect",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:fromVectors"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "getBottomRight",
+          "package": "haskgame",
+          "signature": "Rect -\u003e Vector2 Int",
+          "source": "src/Graphics-UI-HaskGame-Rect.html#getBottomRight",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Rect",
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "getBottomRight",
+          "normalized": "Rect-\u003eVector Int",
+          "package": "haskgame",
+          "partial": "Bottom Right",
+          "signature": "Rect-\u003eVector Int",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:getBottomRight"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "getSize",
+          "package": "haskgame",
+          "signature": "Rect -\u003e Vector2 Int",
+          "source": "src/Graphics-UI-HaskGame-Rect.html#getSize",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Rect",
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "getSize",
+          "normalized": "Rect-\u003eVector Int",
+          "package": "haskgame",
+          "partial": "Size",
+          "signature": "Rect-\u003eVector Int",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:getSize"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "getTopLeft",
+          "package": "haskgame",
+          "signature": "Rect -\u003e Vector2 Int",
+          "source": "src/Graphics-UI-HaskGame-Rect.html#getTopLeft",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Rect",
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "getTopLeft",
+          "normalized": "Rect-\u003eVector Int",
+          "package": "haskgame",
+          "partial": "Top Left",
+          "signature": "Rect-\u003eVector Int",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:getTopLeft"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "h",
+          "package": "haskgame",
+          "signature": "Endo Int -\u003e Endo Rect",
+          "source": "src/Graphics-UI-HaskGame-Rect.html#h",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Rect",
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "h",
+          "normalized": "Endo Int-\u003eEndo Rect",
+          "package": "haskgame",
+          "signature": "Endo Int-\u003eEndo Rect",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:h"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "inRect",
+          "package": "haskgame",
+          "signature": "Endo (Two (Vector2 Int)) -\u003e Endo Rect",
+          "source": "src/Graphics-UI-HaskGame-Rect.html#inRect",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Rect",
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "inRect",
+          "normalized": "Endo(Two(Vector Int))-\u003eEndo Rect",
+          "package": "haskgame",
+          "partial": "Rect",
+          "signature": "Endo(Two(Vector Int))-\u003eEndo Rect",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:inRect"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "intersect",
+          "package": "haskgame",
+          "signature": "Rect -\u003e Rect -\u003e Rect",
+          "source": "src/Graphics-UI-HaskGame-Rect.html#intersect",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Rect",
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "intersect",
+          "normalized": "Rect-\u003eRect-\u003eRect",
+          "package": "haskgame",
+          "signature": "Rect-\u003eRect-\u003eRect",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:intersect"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "make",
+          "package": "haskgame",
+          "signature": "Vector2 Int -\u003e Vector2 Int -\u003e Rect",
+          "source": "src/Graphics-UI-HaskGame-Rect.html#make",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Rect",
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "make",
+          "normalized": "Vector Int-\u003eVector Int-\u003eRect",
+          "package": "haskgame",
+          "signature": "Vector Int-\u003eVector Int-\u003eRect",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:make"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "makeFromPos",
+          "package": "haskgame",
+          "signature": "Vector2 Int -\u003e Rect",
+          "source": "src/Graphics-UI-HaskGame-Rect.html#makeFromPos",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Rect",
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "makeFromPos",
+          "normalized": "Vector Int-\u003eRect",
+          "package": "haskgame",
+          "partial": "From Pos",
+          "signature": "Vector Int-\u003eRect",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:makeFromPos"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "makeFromSize",
+          "package": "haskgame",
+          "signature": "Vector2 Int -\u003e Rect",
+          "source": "src/Graphics-UI-HaskGame-Rect.html#makeFromSize",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Rect",
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "makeFromSize",
+          "normalized": "Vector Int-\u003eRect",
+          "package": "haskgame",
+          "partial": "From Size",
+          "signature": "Vector Int-\u003eRect",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:makeFromSize"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "pVectorsToVectors",
+          "package": "haskgame",
+          "signature": "Endo (Two (Vector2 Int))",
+          "source": "src/Graphics-UI-HaskGame-Rect.html#pVectorsToVectors",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Rect",
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "pVectorsToVectors",
+          "package": "haskgame",
+          "partial": "Vectors To Vectors",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:pVectorsToVectors"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "pos",
+          "package": "haskgame",
+          "signature": "Endo (Vector2 Int) -\u003e Endo Rect",
+          "source": "src/Graphics-UI-HaskGame-Rect.html#pos",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Rect",
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "pos",
+          "normalized": "Endo(Vector Int)-\u003eEndo Rect",
+          "package": "haskgame",
+          "signature": "Endo(Vector Int)-\u003eEndo Rect",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:pos"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "posInside",
+          "package": "haskgame",
+          "signature": "Vector2 Int -\u003e Rect -\u003e Bool",
+          "source": "src/Graphics-UI-HaskGame-Rect.html#posInside",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Rect",
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "posInside",
+          "normalized": "Vector Int-\u003eRect-\u003eBool",
+          "package": "haskgame",
+          "partial": "Inside",
+          "signature": "Vector Int-\u003eRect-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:posInside"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "size",
+          "package": "haskgame",
+          "signature": "Endo (Vector2 Int) -\u003e Endo Rect",
+          "source": "src/Graphics-UI-HaskGame-Rect.html#size",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Rect",
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "size",
+          "normalized": "Endo(Vector Int)-\u003eEndo Rect",
+          "package": "haskgame",
+          "signature": "Endo(Vector Int)-\u003eEndo Rect",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:size"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "toPVectors",
+          "package": "haskgame",
+          "signature": "Rect -\u003e Two (Vector2 Int)",
+          "source": "src/Graphics-UI-HaskGame-Rect.html#toPVectors",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Rect",
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "toPVectors",
+          "normalized": "Rect-\u003eTwo(Vector Int)",
+          "package": "haskgame",
+          "partial": "PVectors",
+          "signature": "Rect-\u003eTwo(Vector Int)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:toPVectors"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "toVectors",
+          "package": "haskgame",
+          "signature": "Rect -\u003e Two (Vector2 Int)",
+          "source": "src/Graphics-UI-HaskGame-Rect.html#toVectors",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Rect",
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "toVectors",
+          "normalized": "Rect-\u003eTwo(Vector Int)",
+          "package": "haskgame",
+          "partial": "Vectors",
+          "signature": "Rect-\u003eTwo(Vector Int)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:toVectors"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "trunc",
+          "package": "haskgame",
+          "signature": "Rect -\u003e Rect",
+          "source": "src/Graphics-UI-HaskGame-Rect.html#trunc",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Rect",
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "trunc",
+          "normalized": "Rect-\u003eRect",
+          "package": "haskgame",
+          "signature": "Rect-\u003eRect",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:trunc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "union",
+          "package": "haskgame",
+          "signature": "Rect -\u003e Rect -\u003e Rect",
+          "source": "src/Graphics-UI-HaskGame-Rect.html#union",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Rect",
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "union",
+          "normalized": "Rect-\u003eRect-\u003eRect",
+          "package": "haskgame",
+          "signature": "Rect-\u003eRect-\u003eRect",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:union"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "vectorsToPVectors",
+          "package": "haskgame",
+          "signature": "Endo (Two (Vector2 Int))",
+          "source": "src/Graphics-UI-HaskGame-Rect.html#vectorsToPVectors",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Rect",
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "vectorsToPVectors",
+          "package": "haskgame",
+          "partial": "To PVectors",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:vectorsToPVectors"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "w",
+          "package": "haskgame",
+          "signature": "Endo Int -\u003e Endo Rect",
+          "source": "src/Graphics-UI-HaskGame-Rect.html#w",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Rect",
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "w",
+          "normalized": "Endo Int-\u003eEndo Rect",
+          "package": "haskgame",
+          "signature": "Endo Int-\u003eEndo Rect",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:w"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "x",
+          "package": "haskgame",
+          "signature": "Endo Int -\u003e Endo Rect",
+          "source": "src/Graphics-UI-HaskGame-Rect.html#x",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Rect",
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "x",
+          "normalized": "Endo Int-\u003eEndo Rect",
+          "package": "haskgame",
+          "signature": "Endo Int-\u003eEndo Rect",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:x"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "y",
+          "package": "haskgame",
+          "signature": "Endo Int -\u003e Endo Rect",
+          "source": "src/Graphics-UI-HaskGame-Rect.html#y",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Rect",
+          "module": "Graphics.UI.HaskGame.Rect",
+          "name": "y",
+          "normalized": "Endo Int-\u003eEndo Rect",
+          "package": "haskgame",
+          "signature": "Endo Int-\u003eEndo Rect",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Rect.html#v:y"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Vector2",
+          "name": "Vector2",
+          "package": "haskgame",
+          "source": "src/Graphics-UI-HaskGame-Vector2.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Vector2",
+          "module": "Graphics.UI.HaskGame.Vector2",
+          "name": "Vector2",
+          "package": "haskgame",
+          "partial": "Vector",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Vector2.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Vector2",
+          "name": "Vector2",
+          "package": "haskgame",
+          "source": "src/Graphics-UI-HaskGame-Vector2.html#Vector2",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Vector2",
+          "module": "Graphics.UI.HaskGame.Vector2",
+          "name": "Vector2",
+          "package": "haskgame",
+          "partial": "Vector",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Vector2.html#t:Vector2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Vector2",
+          "name": "(***)",
+          "package": "haskgame",
+          "signature": "Endo a -\u003e Endo a -\u003e Endo (Vector2 a)",
+          "source": "src/Graphics-UI-HaskGame-Vector2.html#%2A%2A%2A",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Vector2",
+          "module": "Graphics.UI.HaskGame.Vector2",
+          "name": "(***) ***",
+          "normalized": "Endo a-\u003eEndo a-\u003eEndo(Vector a)",
+          "package": "haskgame",
+          "signature": "Endo a-\u003eEndo a-\u003eEndo(Vector a)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Vector2.html#v:-42--42--42-"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Vector2",
+          "name": "Vector2",
+          "package": "haskgame",
+          "signature": "Vector2 !a !a",
+          "source": "src/Graphics-UI-HaskGame-Vector2.html#Vector2",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Vector2",
+          "module": "Graphics.UI.HaskGame.Vector2",
+          "name": "Vector2",
+          "package": "haskgame",
+          "partial": "Vector",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Vector2.html#v:Vector2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Vector2",
+          "name": "both",
+          "package": "haskgame",
+          "signature": "Endo a -\u003e Endo (Vector2 a)",
+          "source": "src/Graphics-UI-HaskGame-Vector2.html#both",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Vector2",
+          "module": "Graphics.UI.HaskGame.Vector2",
+          "name": "both",
+          "normalized": "Endo a-\u003eEndo(Vector a)",
+          "package": "haskgame",
+          "signature": "Endo a-\u003eEndo(Vector a)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Vector2.html#v:both"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Vector2",
+          "name": "first",
+          "package": "haskgame",
+          "signature": "Endo a -\u003e Endo (Vector2 a)",
+          "source": "src/Graphics-UI-HaskGame-Vector2.html#first",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Vector2",
+          "module": "Graphics.UI.HaskGame.Vector2",
+          "name": "first",
+          "normalized": "Endo a-\u003eEndo(Vector a)",
+          "package": "haskgame",
+          "signature": "Endo a-\u003eEndo(Vector a)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Vector2.html#v:first"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Vector2",
+          "name": "fst",
+          "package": "haskgame",
+          "signature": "Vector2 a -\u003e a",
+          "source": "src/Graphics-UI-HaskGame-Vector2.html#fst",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Vector2",
+          "module": "Graphics.UI.HaskGame.Vector2",
+          "name": "fst",
+          "normalized": "Vector a-\u003ea",
+          "package": "haskgame",
+          "signature": "Vector a-\u003ea",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Vector2.html#v:fst"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Vector2",
+          "name": "second",
+          "package": "haskgame",
+          "signature": "Endo a -\u003e Endo (Vector2 a)",
+          "source": "src/Graphics-UI-HaskGame-Vector2.html#second",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Vector2",
+          "module": "Graphics.UI.HaskGame.Vector2",
+          "name": "second",
+          "normalized": "Endo a-\u003eEndo(Vector a)",
+          "package": "haskgame",
+          "signature": "Endo a-\u003eEndo(Vector a)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Vector2.html#v:second"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Vector2",
+          "name": "snd",
+          "package": "haskgame",
+          "signature": "Vector2 a -\u003e a",
+          "source": "src/Graphics-UI-HaskGame-Vector2.html#snd",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Vector2",
+          "module": "Graphics.UI.HaskGame.Vector2",
+          "name": "snd",
+          "normalized": "Vector a-\u003ea",
+          "package": "haskgame",
+          "signature": "Vector a-\u003ea",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Vector2.html#v:snd"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame.Vector2",
+          "name": "vector2",
+          "package": "haskgame",
+          "signature": "(a -\u003e a -\u003e b) -\u003e Vector2 a -\u003e b",
+          "source": "src/Graphics-UI-HaskGame-Vector2.html#vector2",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame Vector2",
+          "module": "Graphics.UI.HaskGame.Vector2",
+          "name": "vector2",
+          "normalized": "(a-\u003ea-\u003eb)-\u003eVector a-\u003eb",
+          "package": "haskgame",
+          "signature": "(a-\u003ea-\u003eb)-\u003eVector a-\u003eb",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame-Vector2.html#v:vector2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame",
+          "name": "HaskGame",
+          "package": "haskgame",
+          "source": "src/Graphics-UI-HaskGame.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame",
+          "module": "Graphics.UI.HaskGame",
+          "name": "HaskGame",
+          "package": "haskgame",
+          "partial": "Hask Game",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame",
+          "name": "Event",
+          "package": "haskgame",
+          "source": "src/Graphics-UI-HaskGame.html#Event",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame",
+          "module": "Graphics.UI.HaskGame",
+          "name": "Event",
+          "package": "haskgame",
+          "partial": "Event",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame.html#t:Event"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame",
+          "name": "Surface",
+          "package": "haskgame",
+          "source": "src/Graphics-UI-HaskGame.html#Surface",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame",
+          "module": "Graphics.UI.HaskGame",
+          "name": "Surface",
+          "package": "haskgame",
+          "partial": "Surface",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame.html#t:Surface"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame",
+          "name": "blit",
+          "package": "haskgame",
+          "signature": "Surface -\u003e Vector2 Int -\u003e Surface -\u003e IO ()",
+          "source": "src/Graphics-UI-HaskGame.html#blit",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame",
+          "module": "Graphics.UI.HaskGame",
+          "name": "blit",
+          "normalized": "Surface-\u003eVector Int-\u003eSurface-\u003eIO()",
+          "package": "haskgame",
+          "signature": "Surface-\u003eVector Int-\u003eSurface-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame.html#v:blit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame",
+          "name": "blitPart",
+          "package": "haskgame",
+          "signature": "Surface -\u003e Vector2 Int -\u003e Surface -\u003e Rect -\u003e IO ()",
+          "source": "src/Graphics-UI-HaskGame.html#blitPart",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame",
+          "module": "Graphics.UI.HaskGame",
+          "name": "blitPart",
+          "normalized": "Surface-\u003eVector Int-\u003eSurface-\u003eRect-\u003eIO()",
+          "package": "haskgame",
+          "partial": "Part",
+          "signature": "Surface-\u003eVector Int-\u003eSurface-\u003eRect-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame.html#v:blitPart"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame",
+          "name": "createRGBSurface",
+          "package": "haskgame",
+          "signature": "Vector2 Int -\u003e IO Surface",
+          "source": "src/Graphics-UI-HaskGame.html#createRGBSurface",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame",
+          "module": "Graphics.UI.HaskGame",
+          "name": "createRGBSurface",
+          "normalized": "Vector Int-\u003eIO Surface",
+          "package": "haskgame",
+          "partial": "RGBSurface",
+          "signature": "Vector Int-\u003eIO Surface",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame.html#v:createRGBSurface"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame",
+          "name": "fillRect",
+          "package": "haskgame",
+          "signature": "Surface -\u003e Rect -\u003e Color -\u003e IO ()",
+          "source": "src/Graphics-UI-HaskGame.html#fillRect",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame",
+          "module": "Graphics.UI.HaskGame",
+          "name": "fillRect",
+          "normalized": "Surface-\u003eRect-\u003eColor-\u003eIO()",
+          "package": "haskgame",
+          "partial": "Rect",
+          "signature": "Surface-\u003eRect-\u003eColor-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame.html#v:fillRect"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame",
+          "name": "fillSurface",
+          "package": "haskgame",
+          "signature": "Surface -\u003e Color -\u003e IO ()",
+          "source": "src/Graphics-UI-HaskGame.html#fillSurface",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame",
+          "module": "Graphics.UI.HaskGame",
+          "name": "fillSurface",
+          "normalized": "Surface-\u003eColor-\u003eIO()",
+          "package": "haskgame",
+          "partial": "Surface",
+          "signature": "Surface-\u003eColor-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame.html#v:fillSurface"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame",
+          "name": "getEvents",
+          "package": "haskgame",
+          "signature": "IO [Event]",
+          "source": "src/Graphics-UI-HaskGame.html#getEvents",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame",
+          "module": "Graphics.UI.HaskGame",
+          "name": "getEvents",
+          "normalized": "IO[Event]",
+          "package": "haskgame",
+          "partial": "Events",
+          "signature": "IO[Event]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame.html#v:getEvents"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame",
+          "name": "setVideoMode",
+          "package": "haskgame",
+          "signature": "Vector2 Int -\u003e Int -\u003e IO Surface",
+          "source": "src/Graphics-UI-HaskGame.html#setVideoMode",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame",
+          "module": "Graphics.UI.HaskGame",
+          "name": "setVideoMode",
+          "normalized": "Vector Int-\u003eInt-\u003eIO Surface",
+          "package": "haskgame",
+          "partial": "Video Mode",
+          "signature": "Vector Int-\u003eInt-\u003eIO Surface",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame.html#v:setVideoMode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame",
+          "name": "surfaceSize",
+          "package": "haskgame",
+          "signature": "Surface -\u003e Vector2 Int",
+          "source": "src/Graphics-UI-HaskGame.html#surfaceSize",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame",
+          "module": "Graphics.UI.HaskGame",
+          "name": "surfaceSize",
+          "normalized": "Surface-\u003eVector Int",
+          "package": "haskgame",
+          "partial": "Size",
+          "signature": "Surface-\u003eVector Int",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame.html#v:surfaceSize"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Graphics.UI.HaskGame",
+          "name": "withInit",
+          "package": "haskgame",
+          "signature": "IO () -\u003e IO ()",
+          "source": "src/Graphics-UI-HaskGame.html#withInit",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Graphics UI HaskGame",
+          "module": "Graphics.UI.HaskGame",
+          "name": "withInit",
+          "normalized": "IO()-\u003eIO()",
+          "package": "haskgame",
+          "partial": "Init",
+          "signature": "IO()-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskgame/docs/Graphics-UI-HaskGame.html#v:withInit"
+      }
+    }
+  ]
 ]

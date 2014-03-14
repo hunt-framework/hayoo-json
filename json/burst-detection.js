@@ -1,273 +1,273 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/burst-detection/docs/Math-Bursts.html#",
-      "description": {
-        "fct-module": "Math.Bursts",
-        "fct-package": "burst-detection",
-        "fct-signature": "module",
-        "fct-source": "src/Math-Bursts.html",
-        "fct-type": "module",
-        "title": "Bursts"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "burst-detection"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Math Bursts",
-        "module": "Math.Bursts",
-        "name": "Bursts",
-        "normalized": "",
-        "package": "burst-detection",
-        "partial": "Bursts",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/burst-detection/docs/Math-Bursts.html#t:Range",
-      "description": {
-        "fct-descr": "\u003cp\u003eRepresentation of ranges.\n\u003c/p\u003e",
-        "fct-module": "Math.Bursts",
-        "fct-package": "burst-detection",
-        "fct-signature": "data",
-        "fct-source": "src/Math-Bursts.html#Range",
-        "fct-type": "data",
-        "title": "Range"
-      },
-      "index": {
-        "description": "Representation of ranges",
-        "hierarchy": "Math Bursts",
-        "module": "Math.Bursts",
-        "name": "Range",
-        "normalized": "",
-        "package": "burst-detection",
-        "partial": "Range",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Math.Bursts",
+          "name": "Bursts",
+          "package": "burst-detection",
+          "source": "src/Math-Bursts.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Math Bursts",
+          "module": "Math.Bursts",
+          "name": "Bursts",
+          "package": "burst-detection",
+          "partial": "Bursts",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/burst-detection/docs/Math-Bursts.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eRepresentation of ranges.\n\u003c/p\u003e",
+          "module": "Math.Bursts",
+          "name": "Range",
+          "package": "burst-detection",
+          "source": "src/Math-Bursts.html#Range",
+          "type": "data"
+        },
+        "index": {
+          "description": "Representation of ranges",
+          "hierarchy": "Math Bursts",
+          "module": "Math.Bursts",
+          "name": "Range",
+          "package": "burst-detection",
+          "partial": "Range",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/burst-detection/docs/Math-Bursts.html#t:Range"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eThe window structure.\n\u003c/p\u003e",
+          "module": "Math.Bursts",
+          "name": "Window",
+          "package": "burst-detection",
+          "source": "src/Math-Bursts.html#Window",
+          "type": "data"
+        },
+        "index": {
+          "description": "The window structure",
+          "hierarchy": "Math Bursts",
+          "module": "Math.Bursts",
+          "name": "Window",
+          "package": "burst-detection",
+          "partial": "Window",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/burst-detection/docs/Math-Bursts.html#t:Window"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Math.Bursts",
+          "name": "Range",
+          "package": "burst-detection",
+          "signature": "Range",
+          "source": "src/Math-Bursts.html#Range",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Math Bursts",
+          "module": "Math.Bursts",
+          "name": "Range",
+          "package": "burst-detection",
+          "partial": "Range",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/burst-detection/docs/Math-Bursts.html#v:Range"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Math.Bursts",
+          "name": "defaultAggregate",
+          "package": "burst-detection",
+          "signature": "a -\u003e a -\u003e (a, a)",
+          "source": "src/Math-Bursts.html#defaultAggregate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Math Bursts",
+          "module": "Math.Bursts",
+          "name": "defaultAggregate",
+          "normalized": "a-\u003ea-\u003e(a,a)",
+          "package": "burst-detection",
+          "partial": "Aggregate",
+          "signature": "a-\u003ea-\u003e(a,a)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/burst-detection/docs/Math-Bursts.html#v:defaultAggregate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInitial empty window.\n\u003c/p\u003e",
+          "module": "Math.Bursts",
+          "name": "initialWindow",
+          "package": "burst-detection",
+          "signature": "Int -\u003e a -\u003e a -\u003e (a -\u003e a -\u003e (a, a)) -\u003e Window a",
+          "source": "src/Math-Bursts.html#initialWindow",
+          "type": "function"
+        },
+        "index": {
+          "description": "Initial empty window",
+          "hierarchy": "Math Bursts",
+          "module": "Math.Bursts",
+          "name": "initialWindow",
+          "normalized": "Int-\u003ea-\u003ea-\u003e(a-\u003ea-\u003e(a,a))-\u003eWindow a",
+          "package": "burst-detection",
+          "partial": "Window",
+          "signature": "Int-\u003ea-\u003ea-\u003e(a-\u003ea-\u003e(a,a))-\u003eWindow a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/burst-detection/docs/Math-Bursts.html#v:initialWindow"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Math.Bursts",
+          "name": "rangeEnd",
+          "package": "burst-detection",
+          "signature": "Int",
+          "source": "src/Math-Bursts.html#Range",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Math Bursts",
+          "module": "Math.Bursts",
+          "name": "rangeEnd",
+          "package": "burst-detection",
+          "partial": "End",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/burst-detection/docs/Math-Bursts.html#v:rangeEnd"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Math.Bursts",
+          "name": "rangeMagn",
+          "package": "burst-detection",
+          "signature": "Int",
+          "source": "src/Math-Bursts.html#Range",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Math Bursts",
+          "module": "Math.Bursts",
+          "name": "rangeMagn",
+          "package": "burst-detection",
+          "partial": "Magn",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/burst-detection/docs/Math-Bursts.html#v:rangeMagn"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Math.Bursts",
+          "name": "rangeStart",
+          "package": "burst-detection",
+          "signature": "Int",
+          "source": "src/Math-Bursts.html#Range",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Math Bursts",
+          "module": "Math.Bursts",
+          "name": "rangeStart",
+          "package": "burst-detection",
+          "partial": "Start",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/burst-detection/docs/Math-Bursts.html#v:rangeStart"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eShifted Binary Tree burst analysis.\n Returns Maybe Range. Just range indicates a burst detected.\n Also returns a new window structure.\n\u003c/p\u003e",
+          "module": "Math.Bursts",
+          "name": "sbtBurstAnalysis",
+          "package": "burst-detection",
+          "signature": "a -\u003e Window a -\u003e (Window a, Maybe Range)",
+          "source": "src/Math-Bursts.html#sbtBurstAnalysis",
+          "type": "function"
+        },
+        "index": {
+          "description": "Shifted Binary Tree burst analysis Returns Maybe Range Just range indicates burst detected Also returns new window structure",
+          "hierarchy": "Math Bursts",
+          "module": "Math.Bursts",
+          "name": "sbtBurstAnalysis",
+          "normalized": "a-\u003eWindow a-\u003e(Window a,Maybe Range)",
+          "package": "burst-detection",
+          "partial": "Burst Analysis",
+          "signature": "a-\u003eWindow a-\u003e(Window a,Maybe Range)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/burst-detection/docs/Math-Bursts.html#v:sbtBurstAnalysis"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Math.Bursts",
+          "name": "sbtBurstAnalysisMany",
+          "package": "burst-detection",
+          "signature": "[a] -\u003e Window a -\u003e (Window a, Maybe Range)",
+          "source": "src/Math-Bursts.html#sbtBurstAnalysisMany",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Math Bursts",
+          "module": "Math.Bursts",
+          "name": "sbtBurstAnalysisMany",
+          "normalized": "[a]-\u003eWindow a-\u003e(Window a,Maybe Range)",
+          "package": "burst-detection",
+          "partial": "Burst Analysis Many",
+          "signature": "[a]-\u003eWindow a-\u003e(Window a,Maybe Range)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/burst-detection/docs/Math-Bursts.html#v:sbtBurstAnalysisMany"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/burst-detection/docs/Math-Bursts.html#t:Window",
-      "description": {
-        "fct-descr": "\u003cp\u003eThe window structure.\n\u003c/p\u003e",
-        "fct-module": "Math.Bursts",
-        "fct-package": "burst-detection",
-        "fct-signature": "data",
-        "fct-source": "src/Math-Bursts.html#Window",
-        "fct-type": "data",
-        "title": "Window"
-      },
-      "index": {
-        "description": "The window structure",
-        "hierarchy": "Math Bursts",
-        "module": "Math.Bursts",
-        "name": "Window",
-        "normalized": "",
-        "package": "burst-detection",
-        "partial": "Window",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/burst-detection/docs/Math-Bursts.html#v:Range",
-      "description": {
-        "fct-module": "Math.Bursts",
-        "fct-package": "burst-detection",
-        "fct-signature": "Range",
-        "fct-source": "src/Math-Bursts.html#Range",
-        "fct-type": "function",
-        "title": "Range"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Math Bursts",
-        "module": "Math.Bursts",
-        "name": "Range",
-        "normalized": "",
-        "package": "burst-detection",
-        "partial": "Range",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/burst-detection/docs/Math-Bursts.html#v:defaultAggregate",
-      "description": {
-        "fct-module": "Math.Bursts",
-        "fct-package": "burst-detection",
-        "fct-signature": "a -\u003e a -\u003e (a, a)",
-        "fct-source": "src/Math-Bursts.html#defaultAggregate",
-        "fct-type": "function",
-        "title": "defaultAggregate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Math Bursts",
-        "module": "Math.Bursts",
-        "name": "defaultAggregate",
-        "normalized": "a-\u003ea-\u003e(a,a)",
-        "package": "burst-detection",
-        "partial": "Aggregate",
-        "signature": "a-\u003ea-\u003e(a,a)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/burst-detection/docs/Math-Bursts.html#v:initialWindow",
-      "description": {
-        "fct-descr": "\u003cp\u003eInitial empty window.\n\u003c/p\u003e",
-        "fct-module": "Math.Bursts",
-        "fct-package": "burst-detection",
-        "fct-signature": "Int -\u003e a -\u003e a -\u003e (a -\u003e a -\u003e (a, a)) -\u003e Window a",
-        "fct-source": "src/Math-Bursts.html#initialWindow",
-        "fct-type": "function",
-        "title": "initialWindow"
-      },
-      "index": {
-        "description": "Initial empty window",
-        "hierarchy": "Math Bursts",
-        "module": "Math.Bursts",
-        "name": "initialWindow",
-        "normalized": "Int-\u003ea-\u003ea-\u003e(a-\u003ea-\u003e(a,a))-\u003eWindow a",
-        "package": "burst-detection",
-        "partial": "Window",
-        "signature": "Int-\u003ea-\u003ea-\u003e(a-\u003ea-\u003e(a,a))-\u003eWindow a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/burst-detection/docs/Math-Bursts.html#v:rangeEnd",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Math.Bursts",
-        "fct-package": "burst-detection",
-        "fct-signature": "!Int",
-        "fct-source": "src/Math-Bursts.html#Range",
-        "fct-type": "function",
-        "title": "rangeEnd"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Math Bursts",
-        "module": "Math.Bursts",
-        "name": "rangeEnd",
-        "normalized": "",
-        "package": "burst-detection",
-        "partial": "End",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/burst-detection/docs/Math-Bursts.html#v:rangeMagn",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Math.Bursts",
-        "fct-package": "burst-detection",
-        "fct-signature": "!Int",
-        "fct-source": "src/Math-Bursts.html#Range",
-        "fct-type": "function",
-        "title": "rangeMagn"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Math Bursts",
-        "module": "Math.Bursts",
-        "name": "rangeMagn",
-        "normalized": "",
-        "package": "burst-detection",
-        "partial": "Magn",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/burst-detection/docs/Math-Bursts.html#v:rangeStart",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Math.Bursts",
-        "fct-package": "burst-detection",
-        "fct-signature": "!Int",
-        "fct-source": "src/Math-Bursts.html#Range",
-        "fct-type": "function",
-        "title": "rangeStart"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Math Bursts",
-        "module": "Math.Bursts",
-        "name": "rangeStart",
-        "normalized": "",
-        "package": "burst-detection",
-        "partial": "Start",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/burst-detection/docs/Math-Bursts.html#v:sbtBurstAnalysis",
-      "description": {
-        "fct-descr": "\u003cp\u003eShifted Binary Tree burst analysis.\n Returns Maybe Range. Just range indicates a burst detected.\n Also returns a new window structure.\n\u003c/p\u003e",
-        "fct-module": "Math.Bursts",
-        "fct-package": "burst-detection",
-        "fct-signature": "a -\u003e Window a -\u003e (Window a, Maybe Range)",
-        "fct-source": "src/Math-Bursts.html#sbtBurstAnalysis",
-        "fct-type": "function",
-        "title": "sbtBurstAnalysis"
-      },
-      "index": {
-        "description": "Shifted Binary Tree burst analysis Returns Maybe Range Just range indicates burst detected Also returns new window structure",
-        "hierarchy": "Math Bursts",
-        "module": "Math.Bursts",
-        "name": "sbtBurstAnalysis",
-        "normalized": "a-\u003eWindow a-\u003e(Window a,Maybe Range)",
-        "package": "burst-detection",
-        "partial": "Burst Analysis",
-        "signature": "a-\u003eWindow a-\u003e(Window a,Maybe Range)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/burst-detection/docs/Math-Bursts.html#v:sbtBurstAnalysisMany",
-      "description": {
-        "fct-module": "Math.Bursts",
-        "fct-package": "burst-detection",
-        "fct-signature": "[a] -\u003e Window a -\u003e (Window a, Maybe Range)",
-        "fct-source": "src/Math-Bursts.html#sbtBurstAnalysisMany",
-        "fct-type": "function",
-        "title": "sbtBurstAnalysisMany"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Math Bursts",
-        "module": "Math.Bursts",
-        "name": "sbtBurstAnalysisMany",
-        "normalized": "[a]-\u003eWindow a-\u003e(Window a,Maybe Range)",
-        "package": "burst-detection",
-        "partial": "Burst Analysis Many",
-        "signature": "[a]-\u003eWindow a-\u003e(Window a,Maybe Range)"
-      }
-    }
-  }
+  ]
 ]

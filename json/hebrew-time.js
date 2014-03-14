@@ -1,627 +1,592 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#",
-      "description": {
-        "fct-module": "Data.Time.Calendar.Hebrew",
-        "fct-package": "hebrew-time",
-        "fct-signature": "module",
-        "fct-source": "src/Data-Time-Calendar-Hebrew.html",
-        "fct-type": "module",
-        "title": "Hebrew"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "hebrew-time"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Time Calendar Hebrew",
-        "module": "Data.Time.Calendar.Hebrew",
-        "name": "Hebrew",
-        "normalized": "",
-        "package": "hebrew-time",
-        "partial": "Hebrew",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#t:HebrewDate",
-      "description": {
-        "fct-module": "Data.Time.Calendar.Hebrew",
-        "fct-package": "hebrew-time",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Time-Calendar-Hebrew.html#HebrewDate",
-        "fct-type": "data",
-        "title": "HebrewDate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Time Calendar Hebrew",
-        "module": "Data.Time.Calendar.Hebrew",
-        "name": "HebrewDate",
-        "normalized": "",
-        "package": "hebrew-time",
-        "partial": "Hebrew Date",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Hebrew",
+          "package": "hebrew-time",
+          "source": "src/Data-Time-Calendar-Hebrew.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data Time Calendar Hebrew",
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Hebrew",
+          "package": "hebrew-time",
+          "partial": "Hebrew",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "HebrewDate",
+          "package": "hebrew-time",
+          "source": "src/Data-Time-Calendar-Hebrew.html#HebrewDate",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Time Calendar Hebrew",
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "HebrewDate",
+          "package": "hebrew-time",
+          "partial": "Hebrew Date",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#t:HebrewDate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Month",
+          "package": "hebrew-time",
+          "source": "src/Data-Time-Calendar-Hebrew.html#Month",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data Time Calendar Hebrew",
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Month",
+          "package": "hebrew-time",
+          "partial": "Month",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#t:Month"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Adar",
+          "package": "hebrew-time",
+          "signature": "Adar",
+          "source": "src/Data-Time-Calendar-Hebrew.html#Month",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Time Calendar Hebrew",
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Adar",
+          "package": "hebrew-time",
+          "partial": "Adar",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:Adar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Adar1",
+          "package": "hebrew-time",
+          "signature": "Adar1",
+          "source": "src/Data-Time-Calendar-Hebrew.html#Month",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Time Calendar Hebrew",
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Adar1",
+          "package": "hebrew-time",
+          "partial": "Adar",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:Adar1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Adar2",
+          "package": "hebrew-time",
+          "signature": "Adar2",
+          "source": "src/Data-Time-Calendar-Hebrew.html#Month",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Time Calendar Hebrew",
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Adar2",
+          "package": "hebrew-time",
+          "partial": "Adar",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:Adar2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Av",
+          "package": "hebrew-time",
+          "signature": "Av",
+          "source": "src/Data-Time-Calendar-Hebrew.html#Month",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Time Calendar Hebrew",
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Av",
+          "package": "hebrew-time",
+          "partial": "Av",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:Av"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Cheshvan",
+          "package": "hebrew-time",
+          "signature": "Cheshvan",
+          "source": "src/Data-Time-Calendar-Hebrew.html#Month",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Time Calendar Hebrew",
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Cheshvan",
+          "package": "hebrew-time",
+          "partial": "Cheshvan",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:Cheshvan"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Elul",
+          "package": "hebrew-time",
+          "signature": "Elul",
+          "source": "src/Data-Time-Calendar-Hebrew.html#Month",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Time Calendar Hebrew",
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Elul",
+          "package": "hebrew-time",
+          "partial": "Elul",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:Elul"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "HebrewDate",
+          "package": "hebrew-time",
+          "signature": "HebrewDate",
+          "source": "src/Data-Time-Calendar-Hebrew.html#HebrewDate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Time Calendar Hebrew",
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "HebrewDate",
+          "package": "hebrew-time",
+          "partial": "Hebrew Date",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:HebrewDate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Iyar",
+          "package": "hebrew-time",
+          "signature": "Iyar",
+          "source": "src/Data-Time-Calendar-Hebrew.html#Month",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Time Calendar Hebrew",
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Iyar",
+          "package": "hebrew-time",
+          "partial": "Iyar",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:Iyar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Kislev",
+          "package": "hebrew-time",
+          "signature": "Kislev",
+          "source": "src/Data-Time-Calendar-Hebrew.html#Month",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Time Calendar Hebrew",
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Kislev",
+          "package": "hebrew-time",
+          "partial": "Kislev",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:Kislev"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Nissan",
+          "package": "hebrew-time",
+          "signature": "Nissan",
+          "source": "src/Data-Time-Calendar-Hebrew.html#Month",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Time Calendar Hebrew",
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Nissan",
+          "package": "hebrew-time",
+          "partial": "Nissan",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:Nissan"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Shevat",
+          "package": "hebrew-time",
+          "signature": "Shevat",
+          "source": "src/Data-Time-Calendar-Hebrew.html#Month",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Time Calendar Hebrew",
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Shevat",
+          "package": "hebrew-time",
+          "partial": "Shevat",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:Shevat"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Sivan",
+          "package": "hebrew-time",
+          "signature": "Sivan",
+          "source": "src/Data-Time-Calendar-Hebrew.html#Month",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Time Calendar Hebrew",
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Sivan",
+          "package": "hebrew-time",
+          "partial": "Sivan",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:Sivan"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Tammuz",
+          "package": "hebrew-time",
+          "signature": "Tammuz",
+          "source": "src/Data-Time-Calendar-Hebrew.html#Month",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Time Calendar Hebrew",
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Tammuz",
+          "package": "hebrew-time",
+          "partial": "Tammuz",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:Tammuz"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Tevet",
+          "package": "hebrew-time",
+          "signature": "Tevet",
+          "source": "src/Data-Time-Calendar-Hebrew.html#Month",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Time Calendar Hebrew",
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Tevet",
+          "package": "hebrew-time",
+          "partial": "Tevet",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:Tevet"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Tishrei",
+          "package": "hebrew-time",
+          "signature": "Tishrei",
+          "source": "src/Data-Time-Calendar-Hebrew.html#Month",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Time Calendar Hebrew",
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "Tishrei",
+          "package": "hebrew-time",
+          "partial": "Tishrei",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:Tishrei"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "anniversaryInYear",
+          "package": "hebrew-time",
+          "signature": "Int-\u003e HebrewDate-\u003e HebrewDate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Time Calendar Hebrew",
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "anniversaryInYear",
+          "normalized": "Int-\u003eHebrewDate-\u003eHebrewDate",
+          "package": "hebrew-time",
+          "partial": "In Year",
+          "signature": "Int-\u003eHebrewDate-\u003eHebrewDate",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:anniversaryInYear"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "date",
+          "package": "hebrew-time",
+          "signature": "Int",
+          "source": "src/Data-Time-Calendar-Hebrew.html#HebrewDate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Time Calendar Hebrew",
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "date",
+          "package": "hebrew-time",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:date"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "fromHebrew",
+          "package": "hebrew-time",
+          "signature": "HebrewDate -\u003e Day",
+          "source": "src/Data-Time-Calendar-Hebrew.html#fromHebrew",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Time Calendar Hebrew",
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "fromHebrew",
+          "normalized": "HebrewDate-\u003eDay",
+          "package": "hebrew-time",
+          "partial": "Hebrew",
+          "signature": "HebrewDate-\u003eDay",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:fromHebrew"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "month",
+          "package": "hebrew-time",
+          "signature": "Month",
+          "source": "src/Data-Time-Calendar-Hebrew.html#HebrewDate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Time Calendar Hebrew",
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "month",
+          "package": "hebrew-time",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:month"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "monthHebrew",
+          "package": "hebrew-time",
+          "signature": "Month -\u003e String",
+          "source": "src/Data-Time-Calendar-Hebrew.html#monthHebrew",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Time Calendar Hebrew",
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "monthHebrew",
+          "normalized": "Month-\u003eString",
+          "package": "hebrew-time",
+          "partial": "Hebrew",
+          "signature": "Month-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:monthHebrew"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "nextAnniversary",
+          "package": "hebrew-time",
+          "signature": "HebrewDate-\u003e HebrewDate-\u003e HebrewDate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Time Calendar Hebrew",
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "nextAnniversary",
+          "normalized": "HebrewDate-\u003eHebrewDate-\u003eHebrewDate",
+          "package": "hebrew-time",
+          "partial": "Anniversary",
+          "signature": "HebrewDate-\u003eHebrewDate-\u003eHebrewDate",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:nextAnniversary"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "toHebrew",
+          "package": "hebrew-time",
+          "signature": "Day -\u003e HebrewDate",
+          "source": "src/Data-Time-Calendar-Hebrew.html#toHebrew",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Time Calendar Hebrew",
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "toHebrew",
+          "normalized": "Day-\u003eHebrewDate",
+          "package": "hebrew-time",
+          "partial": "Hebrew",
+          "signature": "Day-\u003eHebrewDate",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:toHebrew"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "year",
+          "package": "hebrew-time",
+          "signature": "Int",
+          "source": "src/Data-Time-Calendar-Hebrew.html#HebrewDate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data Time Calendar Hebrew",
+          "module": "Data.Time.Calendar.Hebrew",
+          "name": "year",
+          "package": "hebrew-time",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:year"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#t:Month",
-      "description": {
-        "fct-module": "Data.Time.Calendar.Hebrew",
-        "fct-package": "hebrew-time",
-        "fct-signature": "data",
-        "fct-source": "src/Data-Time-Calendar-Hebrew.html#Month",
-        "fct-type": "data",
-        "title": "Month"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Time Calendar Hebrew",
-        "module": "Data.Time.Calendar.Hebrew",
-        "name": "Month",
-        "normalized": "",
-        "package": "hebrew-time",
-        "partial": "Month",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:Adar",
-      "description": {
-        "fct-module": "Data.Time.Calendar.Hebrew",
-        "fct-package": "hebrew-time",
-        "fct-signature": "Adar",
-        "fct-source": "src/Data-Time-Calendar-Hebrew.html#Month",
-        "fct-type": "function",
-        "title": "Adar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Time Calendar Hebrew",
-        "module": "Data.Time.Calendar.Hebrew",
-        "name": "Adar",
-        "normalized": "",
-        "package": "hebrew-time",
-        "partial": "Adar",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:Adar1",
-      "description": {
-        "fct-module": "Data.Time.Calendar.Hebrew",
-        "fct-package": "hebrew-time",
-        "fct-signature": "Adar1",
-        "fct-source": "src/Data-Time-Calendar-Hebrew.html#Month",
-        "fct-type": "function",
-        "title": "Adar1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Time Calendar Hebrew",
-        "module": "Data.Time.Calendar.Hebrew",
-        "name": "Adar1",
-        "normalized": "",
-        "package": "hebrew-time",
-        "partial": "Adar",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:Adar2",
-      "description": {
-        "fct-module": "Data.Time.Calendar.Hebrew",
-        "fct-package": "hebrew-time",
-        "fct-signature": "Adar2",
-        "fct-source": "src/Data-Time-Calendar-Hebrew.html#Month",
-        "fct-type": "function",
-        "title": "Adar2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Time Calendar Hebrew",
-        "module": "Data.Time.Calendar.Hebrew",
-        "name": "Adar2",
-        "normalized": "",
-        "package": "hebrew-time",
-        "partial": "Adar",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:Av",
-      "description": {
-        "fct-module": "Data.Time.Calendar.Hebrew",
-        "fct-package": "hebrew-time",
-        "fct-signature": "Av",
-        "fct-source": "src/Data-Time-Calendar-Hebrew.html#Month",
-        "fct-type": "function",
-        "title": "Av"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Time Calendar Hebrew",
-        "module": "Data.Time.Calendar.Hebrew",
-        "name": "Av",
-        "normalized": "",
-        "package": "hebrew-time",
-        "partial": "Av",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:Cheshvan",
-      "description": {
-        "fct-module": "Data.Time.Calendar.Hebrew",
-        "fct-package": "hebrew-time",
-        "fct-signature": "Cheshvan",
-        "fct-source": "src/Data-Time-Calendar-Hebrew.html#Month",
-        "fct-type": "function",
-        "title": "Cheshvan"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Time Calendar Hebrew",
-        "module": "Data.Time.Calendar.Hebrew",
-        "name": "Cheshvan",
-        "normalized": "",
-        "package": "hebrew-time",
-        "partial": "Cheshvan",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:Elul",
-      "description": {
-        "fct-module": "Data.Time.Calendar.Hebrew",
-        "fct-package": "hebrew-time",
-        "fct-signature": "Elul",
-        "fct-source": "src/Data-Time-Calendar-Hebrew.html#Month",
-        "fct-type": "function",
-        "title": "Elul"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Time Calendar Hebrew",
-        "module": "Data.Time.Calendar.Hebrew",
-        "name": "Elul",
-        "normalized": "",
-        "package": "hebrew-time",
-        "partial": "Elul",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:HebrewDate",
-      "description": {
-        "fct-module": "Data.Time.Calendar.Hebrew",
-        "fct-package": "hebrew-time",
-        "fct-signature": "HebrewDate",
-        "fct-source": "src/Data-Time-Calendar-Hebrew.html#HebrewDate",
-        "fct-type": "function",
-        "title": "HebrewDate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Time Calendar Hebrew",
-        "module": "Data.Time.Calendar.Hebrew",
-        "name": "HebrewDate",
-        "normalized": "",
-        "package": "hebrew-time",
-        "partial": "Hebrew Date",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:Iyar",
-      "description": {
-        "fct-module": "Data.Time.Calendar.Hebrew",
-        "fct-package": "hebrew-time",
-        "fct-signature": "Iyar",
-        "fct-source": "src/Data-Time-Calendar-Hebrew.html#Month",
-        "fct-type": "function",
-        "title": "Iyar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Time Calendar Hebrew",
-        "module": "Data.Time.Calendar.Hebrew",
-        "name": "Iyar",
-        "normalized": "",
-        "package": "hebrew-time",
-        "partial": "Iyar",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:Kislev",
-      "description": {
-        "fct-module": "Data.Time.Calendar.Hebrew",
-        "fct-package": "hebrew-time",
-        "fct-signature": "Kislev",
-        "fct-source": "src/Data-Time-Calendar-Hebrew.html#Month",
-        "fct-type": "function",
-        "title": "Kislev"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Time Calendar Hebrew",
-        "module": "Data.Time.Calendar.Hebrew",
-        "name": "Kislev",
-        "normalized": "",
-        "package": "hebrew-time",
-        "partial": "Kislev",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:Nissan",
-      "description": {
-        "fct-module": "Data.Time.Calendar.Hebrew",
-        "fct-package": "hebrew-time",
-        "fct-signature": "Nissan",
-        "fct-source": "src/Data-Time-Calendar-Hebrew.html#Month",
-        "fct-type": "function",
-        "title": "Nissan"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Time Calendar Hebrew",
-        "module": "Data.Time.Calendar.Hebrew",
-        "name": "Nissan",
-        "normalized": "",
-        "package": "hebrew-time",
-        "partial": "Nissan",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:Shevat",
-      "description": {
-        "fct-module": "Data.Time.Calendar.Hebrew",
-        "fct-package": "hebrew-time",
-        "fct-signature": "Shevat",
-        "fct-source": "src/Data-Time-Calendar-Hebrew.html#Month",
-        "fct-type": "function",
-        "title": "Shevat"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Time Calendar Hebrew",
-        "module": "Data.Time.Calendar.Hebrew",
-        "name": "Shevat",
-        "normalized": "",
-        "package": "hebrew-time",
-        "partial": "Shevat",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:Sivan",
-      "description": {
-        "fct-module": "Data.Time.Calendar.Hebrew",
-        "fct-package": "hebrew-time",
-        "fct-signature": "Sivan",
-        "fct-source": "src/Data-Time-Calendar-Hebrew.html#Month",
-        "fct-type": "function",
-        "title": "Sivan"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Time Calendar Hebrew",
-        "module": "Data.Time.Calendar.Hebrew",
-        "name": "Sivan",
-        "normalized": "",
-        "package": "hebrew-time",
-        "partial": "Sivan",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:Tammuz",
-      "description": {
-        "fct-module": "Data.Time.Calendar.Hebrew",
-        "fct-package": "hebrew-time",
-        "fct-signature": "Tammuz",
-        "fct-source": "src/Data-Time-Calendar-Hebrew.html#Month",
-        "fct-type": "function",
-        "title": "Tammuz"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Time Calendar Hebrew",
-        "module": "Data.Time.Calendar.Hebrew",
-        "name": "Tammuz",
-        "normalized": "",
-        "package": "hebrew-time",
-        "partial": "Tammuz",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:Tevet",
-      "description": {
-        "fct-module": "Data.Time.Calendar.Hebrew",
-        "fct-package": "hebrew-time",
-        "fct-signature": "Tevet",
-        "fct-source": "src/Data-Time-Calendar-Hebrew.html#Month",
-        "fct-type": "function",
-        "title": "Tevet"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Time Calendar Hebrew",
-        "module": "Data.Time.Calendar.Hebrew",
-        "name": "Tevet",
-        "normalized": "",
-        "package": "hebrew-time",
-        "partial": "Tevet",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:Tishrei",
-      "description": {
-        "fct-module": "Data.Time.Calendar.Hebrew",
-        "fct-package": "hebrew-time",
-        "fct-signature": "Tishrei",
-        "fct-source": "src/Data-Time-Calendar-Hebrew.html#Month",
-        "fct-type": "function",
-        "title": "Tishrei"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Time Calendar Hebrew",
-        "module": "Data.Time.Calendar.Hebrew",
-        "name": "Tishrei",
-        "normalized": "",
-        "package": "hebrew-time",
-        "partial": "Tishrei",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:anniversaryInYear",
-      "description": {
-        "fct-module": "Data.Time.Calendar.Hebrew",
-        "fct-package": "hebrew-time",
-        "fct-signature": "Int-\u003e HebrewDate-\u003e HebrewDate",
-        "fct-type": "function",
-        "title": "anniversaryInYear"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Time Calendar Hebrew",
-        "module": "Data.Time.Calendar.Hebrew",
-        "name": "anniversaryInYear",
-        "normalized": "Int-\u003eHebrewDate-\u003eHebrewDate",
-        "package": "hebrew-time",
-        "partial": "In Year",
-        "signature": "Int-\u003eHebrewDate-\u003eHebrewDate"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:date",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Time.Calendar.Hebrew",
-        "fct-package": "hebrew-time",
-        "fct-signature": "Int",
-        "fct-source": "src/Data-Time-Calendar-Hebrew.html#HebrewDate",
-        "fct-type": "function",
-        "title": "date"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Time Calendar Hebrew",
-        "module": "Data.Time.Calendar.Hebrew",
-        "name": "date",
-        "normalized": "",
-        "package": "hebrew-time",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:fromHebrew",
-      "description": {
-        "fct-module": "Data.Time.Calendar.Hebrew",
-        "fct-package": "hebrew-time",
-        "fct-signature": "HebrewDate -\u003e Day",
-        "fct-source": "src/Data-Time-Calendar-Hebrew.html#fromHebrew",
-        "fct-type": "function",
-        "title": "fromHebrew"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Time Calendar Hebrew",
-        "module": "Data.Time.Calendar.Hebrew",
-        "name": "fromHebrew",
-        "normalized": "HebrewDate-\u003eDay",
-        "package": "hebrew-time",
-        "partial": "Hebrew",
-        "signature": "HebrewDate-\u003eDay"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:month",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Time.Calendar.Hebrew",
-        "fct-package": "hebrew-time",
-        "fct-signature": "Month",
-        "fct-source": "src/Data-Time-Calendar-Hebrew.html#HebrewDate",
-        "fct-type": "function",
-        "title": "month"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Time Calendar Hebrew",
-        "module": "Data.Time.Calendar.Hebrew",
-        "name": "month",
-        "normalized": "",
-        "package": "hebrew-time",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:monthHebrew",
-      "description": {
-        "fct-module": "Data.Time.Calendar.Hebrew",
-        "fct-package": "hebrew-time",
-        "fct-signature": "Month -\u003e String",
-        "fct-source": "src/Data-Time-Calendar-Hebrew.html#monthHebrew",
-        "fct-type": "function",
-        "title": "monthHebrew"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Time Calendar Hebrew",
-        "module": "Data.Time.Calendar.Hebrew",
-        "name": "monthHebrew",
-        "normalized": "Month-\u003eString",
-        "package": "hebrew-time",
-        "partial": "Hebrew",
-        "signature": "Month-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:nextAnniversary",
-      "description": {
-        "fct-module": "Data.Time.Calendar.Hebrew",
-        "fct-package": "hebrew-time",
-        "fct-signature": "HebrewDate-\u003e HebrewDate-\u003e HebrewDate",
-        "fct-type": "function",
-        "title": "nextAnniversary"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Time Calendar Hebrew",
-        "module": "Data.Time.Calendar.Hebrew",
-        "name": "nextAnniversary",
-        "normalized": "HebrewDate-\u003eHebrewDate-\u003eHebrewDate",
-        "package": "hebrew-time",
-        "partial": "Anniversary",
-        "signature": "HebrewDate-\u003eHebrewDate-\u003eHebrewDate"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:toHebrew",
-      "description": {
-        "fct-module": "Data.Time.Calendar.Hebrew",
-        "fct-package": "hebrew-time",
-        "fct-signature": "Day -\u003e HebrewDate",
-        "fct-source": "src/Data-Time-Calendar-Hebrew.html#toHebrew",
-        "fct-type": "function",
-        "title": "toHebrew"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Time Calendar Hebrew",
-        "module": "Data.Time.Calendar.Hebrew",
-        "name": "toHebrew",
-        "normalized": "Day-\u003eHebrewDate",
-        "package": "hebrew-time",
-        "partial": "Hebrew",
-        "signature": "Day-\u003eHebrewDate"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hebrew-time/docs/Data-Time-Calendar-Hebrew.html#v:year",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.Time.Calendar.Hebrew",
-        "fct-package": "hebrew-time",
-        "fct-signature": "Int",
-        "fct-source": "src/Data-Time-Calendar-Hebrew.html#HebrewDate",
-        "fct-type": "function",
-        "title": "year"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Time Calendar Hebrew",
-        "module": "Data.Time.Calendar.Hebrew",
-        "name": "year",
-        "normalized": "",
-        "package": "hebrew-time",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

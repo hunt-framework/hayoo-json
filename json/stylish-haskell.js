@@ -1,769 +1,728 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#",
-      "description": {
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "module",
-        "fct-source": "src/Language-Haskell-Stylish.html",
-        "fct-type": "module",
-        "title": "Stylish"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "stylish-haskell"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "Stylish",
-        "normalized": "",
-        "package": "stylish-haskell",
-        "partial": "Stylish",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#t:Align",
-      "description": {
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "data",
-        "fct-source": "src/Language-Haskell-Stylish-Step-Imports.html#Align",
-        "fct-type": "data",
-        "title": "Align"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "Align",
-        "normalized": "",
-        "package": "stylish-haskell",
-        "partial": "Align",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "Stylish",
+          "package": "stylish-haskell",
+          "source": "src/Language-Haskell-Stylish.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "Stylish",
+          "package": "stylish-haskell",
+          "partial": "Stylish",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "Align",
+          "package": "stylish-haskell",
+          "source": "src/Language-Haskell-Stylish-Step-Imports.html#Align",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "Align",
+          "package": "stylish-haskell",
+          "partial": "Align",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#t:Align"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "Config",
+          "package": "stylish-haskell",
+          "source": "src/Language-Haskell-Stylish-Config.html#Config",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "Config",
+          "package": "stylish-haskell",
+          "partial": "Config",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#t:Config"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "Extensions",
+          "package": "stylish-haskell",
+          "source": "src/Language-Haskell-Stylish-Config.html#Extensions",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "Extensions",
+          "package": "stylish-haskell",
+          "partial": "Extensions",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#t:Extensions"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "Lines",
+          "package": "stylish-haskell",
+          "source": "src/Language-Haskell-Stylish-Step.html#Lines",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "Lines",
+          "package": "stylish-haskell",
+          "partial": "Lines",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#t:Lines"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "Step",
+          "package": "stylish-haskell",
+          "source": "src/Language-Haskell-Stylish-Step.html#Step",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "Step",
+          "package": "stylish-haskell",
+          "partial": "Step",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#t:Step"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "Style",
+          "package": "stylish-haskell",
+          "source": "src/Language-Haskell-Stylish-Step-LanguagePragmas.html#Style",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "Style",
+          "package": "stylish-haskell",
+          "partial": "Style",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#t:Style"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "Verbose",
+          "package": "stylish-haskell",
+          "source": "src/Language-Haskell-Stylish-Verbose.html#Verbose",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "Verbose",
+          "package": "stylish-haskell",
+          "partial": "Verbose",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#t:Verbose"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "Compact",
+          "package": "stylish-haskell",
+          "signature": "Compact",
+          "source": "src/Language-Haskell-Stylish-Step-LanguagePragmas.html#Style",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "Compact",
+          "package": "stylish-haskell",
+          "partial": "Compact",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:Compact"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "CompactLine",
+          "package": "stylish-haskell",
+          "signature": "CompactLine",
+          "source": "src/Language-Haskell-Stylish-Step-LanguagePragmas.html#Style",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "CompactLine",
+          "package": "stylish-haskell",
+          "partial": "Compact Line",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:CompactLine"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "Config",
+          "package": "stylish-haskell",
+          "signature": "Config",
+          "source": "src/Language-Haskell-Stylish-Config.html#Config",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "Config",
+          "package": "stylish-haskell",
+          "partial": "Config",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:Config"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "File",
+          "package": "stylish-haskell",
+          "signature": "File",
+          "source": "src/Language-Haskell-Stylish-Step-Imports.html#Align",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "File",
+          "package": "stylish-haskell",
+          "partial": "File",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:File"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "Global",
+          "package": "stylish-haskell",
+          "signature": "Global",
+          "source": "src/Language-Haskell-Stylish-Step-Imports.html#Align",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "Global",
+          "package": "stylish-haskell",
+          "partial": "Global",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:Global"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "Group",
+          "package": "stylish-haskell",
+          "signature": "Group",
+          "source": "src/Language-Haskell-Stylish-Step-Imports.html#Align",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "Group",
+          "package": "stylish-haskell",
+          "partial": "Group",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:Group"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "None",
+          "package": "stylish-haskell",
+          "signature": "None",
+          "source": "src/Language-Haskell-Stylish-Step-Imports.html#Align",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "None",
+          "package": "stylish-haskell",
+          "partial": "None",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:None"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "Vertical",
+          "package": "stylish-haskell",
+          "signature": "Vertical",
+          "source": "src/Language-Haskell-Stylish-Step-LanguagePragmas.html#Style",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "Vertical",
+          "package": "stylish-haskell",
+          "partial": "Vertical",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:Vertical"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "configColumns",
+          "package": "stylish-haskell",
+          "signature": "Int",
+          "source": "src/Language-Haskell-Stylish-Config.html#Config",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "configColumns",
+          "package": "stylish-haskell",
+          "partial": "Columns",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:configColumns"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "configFilePath",
+          "package": "stylish-haskell",
+          "signature": "Verbose -\u003e Maybe FilePath -\u003e IO (Maybe FilePath)",
+          "source": "src/Language-Haskell-Stylish-Config.html#configFilePath",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "configFilePath",
+          "normalized": "Verbose-\u003eMaybe FilePath-\u003eIO(Maybe FilePath)",
+          "package": "stylish-haskell",
+          "partial": "File Path",
+          "signature": "Verbose-\u003eMaybe FilePath-\u003eIO(Maybe FilePath)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:configFilePath"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "configLanguageExtensions",
+          "package": "stylish-haskell",
+          "signature": "[String]",
+          "source": "src/Language-Haskell-Stylish-Config.html#Config",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "configLanguageExtensions",
+          "normalized": "[String]",
+          "package": "stylish-haskell",
+          "partial": "Language Extensions",
+          "signature": "[String]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:configLanguageExtensions"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "configSteps",
+          "package": "stylish-haskell",
+          "signature": "[Step]",
+          "source": "src/Language-Haskell-Stylish-Config.html#Config",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "configSteps",
+          "normalized": "[Step]",
+          "package": "stylish-haskell",
+          "partial": "Steps",
+          "signature": "[Step]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:configSteps"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "defaultConfigFilePath",
+          "package": "stylish-haskell",
+          "signature": "IO FilePath",
+          "source": "src/Language-Haskell-Stylish-Config.html#defaultConfigFilePath",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "defaultConfigFilePath",
+          "package": "stylish-haskell",
+          "partial": "Config File Path",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:defaultConfigFilePath"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "imports",
+          "package": "stylish-haskell",
+          "signature": "Int-\u003e Align-\u003e Step",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "imports",
+          "normalized": "Int-\u003eAlign-\u003eStep",
+          "package": "stylish-haskell",
+          "signature": "Int-\u003eAlign-\u003eStep",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:imports"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "languagePragmas",
+          "package": "stylish-haskell",
+          "signature": "Int-\u003e Style-\u003e Bool-\u003e Step",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "languagePragmas",
+          "normalized": "Int-\u003eStyle-\u003eBool-\u003eStep",
+          "package": "stylish-haskell",
+          "partial": "Pragmas",
+          "signature": "Int-\u003eStyle-\u003eBool-\u003eStep",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:languagePragmas"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "loadConfig",
+          "package": "stylish-haskell",
+          "signature": "Verbose -\u003e Maybe FilePath -\u003e IO Config",
+          "source": "src/Language-Haskell-Stylish-Config.html#loadConfig",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "loadConfig",
+          "normalized": "Verbose-\u003eMaybe FilePath-\u003eIO Config",
+          "package": "stylish-haskell",
+          "partial": "Config",
+          "signature": "Verbose-\u003eMaybe FilePath-\u003eIO Config",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:loadConfig"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "makeVerbose",
+          "package": "stylish-haskell",
+          "signature": "Bool -\u003e Verbose",
+          "source": "src/Language-Haskell-Stylish-Verbose.html#makeVerbose",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "makeVerbose",
+          "normalized": "Bool-\u003eVerbose",
+          "package": "stylish-haskell",
+          "partial": "Verbose",
+          "signature": "Bool-\u003eVerbose",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:makeVerbose"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "records",
+          "package": "stylish-haskell",
+          "signature": "Step",
+          "source": "src/Language-Haskell-Stylish.html#records",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "records",
+          "package": "stylish-haskell",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:records"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "runSteps",
+          "package": "stylish-haskell",
+          "signature": "Extensions -\u003e Maybe FilePath -\u003e [Step] -\u003e Lines -\u003e Either String Lines",
+          "source": "src/Language-Haskell-Stylish.html#runSteps",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "runSteps",
+          "normalized": "Extensions-\u003eMaybe FilePath-\u003e[Step]-\u003eLines-\u003eEither String Lines",
+          "package": "stylish-haskell",
+          "partial": "Steps",
+          "signature": "Extensions-\u003eMaybe FilePath-\u003e[Step]-\u003eLines-\u003eEither String Lines",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:runSteps"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "stepName",
+          "package": "stylish-haskell",
+          "signature": "Step -\u003e String",
+          "source": "src/Language-Haskell-Stylish-Step.html#stepName",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "stepName",
+          "normalized": "Step-\u003eString",
+          "package": "stylish-haskell",
+          "partial": "Name",
+          "signature": "Step-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:stepName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "tabs",
+          "package": "stylish-haskell",
+          "signature": "Int-\u003e Step",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "tabs",
+          "normalized": "Int-\u003eStep",
+          "package": "stylish-haskell",
+          "signature": "Int-\u003eStep",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:tabs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "trailingWhitespace",
+          "package": "stylish-haskell",
+          "signature": "Step",
+          "source": "src/Language-Haskell-Stylish.html#trailingWhitespace",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "trailingWhitespace",
+          "package": "stylish-haskell",
+          "partial": "Whitespace",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:trailingWhitespace"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "unicodeSyntax",
+          "package": "stylish-haskell",
+          "signature": "Bool-\u003e Step",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "unicodeSyntax",
+          "normalized": "Bool-\u003eStep",
+          "package": "stylish-haskell",
+          "partial": "Syntax",
+          "signature": "Bool-\u003eStep",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:unicodeSyntax"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.Haskell.Stylish",
+          "name": "version",
+          "package": "stylish-haskell",
+          "signature": "Version",
+          "source": "src/Paths_stylish_haskell.html#version",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language Haskell Stylish",
+          "module": "Language.Haskell.Stylish",
+          "name": "version",
+          "package": "stylish-haskell",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:version"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#t:Config",
-      "description": {
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "data",
-        "fct-source": "src/Language-Haskell-Stylish-Config.html#Config",
-        "fct-type": "data",
-        "title": "Config"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "Config",
-        "normalized": "",
-        "package": "stylish-haskell",
-        "partial": "Config",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#t:Extensions",
-      "description": {
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "type",
-        "fct-source": "src/Language-Haskell-Stylish-Config.html#Extensions",
-        "fct-type": "type",
-        "title": "Extensions"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "Extensions",
-        "normalized": "",
-        "package": "stylish-haskell",
-        "partial": "Extensions",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#t:Lines",
-      "description": {
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "type",
-        "fct-source": "src/Language-Haskell-Stylish-Step.html#Lines",
-        "fct-type": "type",
-        "title": "Lines"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "Lines",
-        "normalized": "",
-        "package": "stylish-haskell",
-        "partial": "Lines",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#t:Step",
-      "description": {
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "data",
-        "fct-source": "src/Language-Haskell-Stylish-Step.html#Step",
-        "fct-type": "data",
-        "title": "Step"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "Step",
-        "normalized": "",
-        "package": "stylish-haskell",
-        "partial": "Step",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#t:Style",
-      "description": {
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "data",
-        "fct-source": "src/Language-Haskell-Stylish-Step-LanguagePragmas.html#Style",
-        "fct-type": "data",
-        "title": "Style"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "Style",
-        "normalized": "",
-        "package": "stylish-haskell",
-        "partial": "Style",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#t:Verbose",
-      "description": {
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "type",
-        "fct-source": "src/Language-Haskell-Stylish-Verbose.html#Verbose",
-        "fct-type": "type",
-        "title": "Verbose"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "Verbose",
-        "normalized": "",
-        "package": "stylish-haskell",
-        "partial": "Verbose",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:Compact",
-      "description": {
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "Compact",
-        "fct-source": "src/Language-Haskell-Stylish-Step-LanguagePragmas.html#Style",
-        "fct-type": "function",
-        "title": "Compact"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "Compact",
-        "normalized": "",
-        "package": "stylish-haskell",
-        "partial": "Compact",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:CompactLine",
-      "description": {
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "CompactLine",
-        "fct-source": "src/Language-Haskell-Stylish-Step-LanguagePragmas.html#Style",
-        "fct-type": "function",
-        "title": "CompactLine"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "CompactLine",
-        "normalized": "",
-        "package": "stylish-haskell",
-        "partial": "Compact Line",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:Config",
-      "description": {
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "Config",
-        "fct-source": "src/Language-Haskell-Stylish-Config.html#Config",
-        "fct-type": "function",
-        "title": "Config"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "Config",
-        "normalized": "",
-        "package": "stylish-haskell",
-        "partial": "Config",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:File",
-      "description": {
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "File",
-        "fct-source": "src/Language-Haskell-Stylish-Step-Imports.html#Align",
-        "fct-type": "function",
-        "title": "File"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "File",
-        "normalized": "",
-        "package": "stylish-haskell",
-        "partial": "File",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:Global",
-      "description": {
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "Global",
-        "fct-source": "src/Language-Haskell-Stylish-Step-Imports.html#Align",
-        "fct-type": "function",
-        "title": "Global"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "Global",
-        "normalized": "",
-        "package": "stylish-haskell",
-        "partial": "Global",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:Group",
-      "description": {
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "Group",
-        "fct-source": "src/Language-Haskell-Stylish-Step-Imports.html#Align",
-        "fct-type": "function",
-        "title": "Group"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "Group",
-        "normalized": "",
-        "package": "stylish-haskell",
-        "partial": "Group",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:None",
-      "description": {
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "None",
-        "fct-source": "src/Language-Haskell-Stylish-Step-Imports.html#Align",
-        "fct-type": "function",
-        "title": "None"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "None",
-        "normalized": "",
-        "package": "stylish-haskell",
-        "partial": "None",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:Vertical",
-      "description": {
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "Vertical",
-        "fct-source": "src/Language-Haskell-Stylish-Step-LanguagePragmas.html#Style",
-        "fct-type": "function",
-        "title": "Vertical"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "Vertical",
-        "normalized": "",
-        "package": "stylish-haskell",
-        "partial": "Vertical",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:configColumns",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "Int",
-        "fct-source": "src/Language-Haskell-Stylish-Config.html#Config",
-        "fct-type": "function",
-        "title": "configColumns"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "configColumns",
-        "normalized": "",
-        "package": "stylish-haskell",
-        "partial": "Columns",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:configFilePath",
-      "description": {
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "Verbose -\u003e Maybe FilePath -\u003e IO (Maybe FilePath)",
-        "fct-source": "src/Language-Haskell-Stylish-Config.html#configFilePath",
-        "fct-type": "function",
-        "title": "configFilePath"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "configFilePath",
-        "normalized": "Verbose-\u003eMaybe FilePath-\u003eIO(Maybe FilePath)",
-        "package": "stylish-haskell",
-        "partial": "File Path",
-        "signature": "Verbose-\u003eMaybe FilePath-\u003eIO(Maybe FilePath)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:configLanguageExtensions",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "[String]",
-        "fct-source": "src/Language-Haskell-Stylish-Config.html#Config",
-        "fct-type": "function",
-        "title": "configLanguageExtensions"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "configLanguageExtensions",
-        "normalized": "[String]",
-        "package": "stylish-haskell",
-        "partial": "Language Extensions",
-        "signature": "[String]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:configSteps",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "[Step]",
-        "fct-source": "src/Language-Haskell-Stylish-Config.html#Config",
-        "fct-type": "function",
-        "title": "configSteps"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "configSteps",
-        "normalized": "[Step]",
-        "package": "stylish-haskell",
-        "partial": "Steps",
-        "signature": "[Step]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:defaultConfigFilePath",
-      "description": {
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "IO FilePath",
-        "fct-source": "src/Language-Haskell-Stylish-Config.html#defaultConfigFilePath",
-        "fct-type": "function",
-        "title": "defaultConfigFilePath"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "defaultConfigFilePath",
-        "normalized": "",
-        "package": "stylish-haskell",
-        "partial": "Config File Path",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:imports",
-      "description": {
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "Int-\u003e Align-\u003e Step",
-        "fct-type": "function",
-        "title": "imports"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "imports",
-        "normalized": "Int-\u003eAlign-\u003eStep",
-        "package": "stylish-haskell",
-        "partial": "",
-        "signature": "Int-\u003eAlign-\u003eStep"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:languagePragmas",
-      "description": {
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "Int-\u003e Style-\u003e Bool-\u003e Step",
-        "fct-type": "function",
-        "title": "languagePragmas"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "languagePragmas",
-        "normalized": "Int-\u003eStyle-\u003eBool-\u003eStep",
-        "package": "stylish-haskell",
-        "partial": "Pragmas",
-        "signature": "Int-\u003eStyle-\u003eBool-\u003eStep"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:loadConfig",
-      "description": {
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "Verbose -\u003e Maybe FilePath -\u003e IO Config",
-        "fct-source": "src/Language-Haskell-Stylish-Config.html#loadConfig",
-        "fct-type": "function",
-        "title": "loadConfig"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "loadConfig",
-        "normalized": "Verbose-\u003eMaybe FilePath-\u003eIO Config",
-        "package": "stylish-haskell",
-        "partial": "Config",
-        "signature": "Verbose-\u003eMaybe FilePath-\u003eIO Config"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:makeVerbose",
-      "description": {
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "Bool -\u003e Verbose",
-        "fct-source": "src/Language-Haskell-Stylish-Verbose.html#makeVerbose",
-        "fct-type": "function",
-        "title": "makeVerbose"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "makeVerbose",
-        "normalized": "Bool-\u003eVerbose",
-        "package": "stylish-haskell",
-        "partial": "Verbose",
-        "signature": "Bool-\u003eVerbose"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:records",
-      "description": {
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "Step",
-        "fct-source": "src/Language-Haskell-Stylish.html#records",
-        "fct-type": "function",
-        "title": "records"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "records",
-        "normalized": "",
-        "package": "stylish-haskell",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:runSteps",
-      "description": {
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "Extensions -\u003e Maybe FilePath -\u003e [Step] -\u003e Lines -\u003e Either String Lines",
-        "fct-source": "src/Language-Haskell-Stylish.html#runSteps",
-        "fct-type": "function",
-        "title": "runSteps"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "runSteps",
-        "normalized": "Extensions-\u003eMaybe FilePath-\u003e[Step]-\u003eLines-\u003eEither String Lines",
-        "package": "stylish-haskell",
-        "partial": "Steps",
-        "signature": "Extensions-\u003eMaybe FilePath-\u003e[Step]-\u003eLines-\u003eEither String Lines"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:stepName",
-      "description": {
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "Step -\u003e String",
-        "fct-source": "src/Language-Haskell-Stylish-Step.html#stepName",
-        "fct-type": "function",
-        "title": "stepName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "stepName",
-        "normalized": "Step-\u003eString",
-        "package": "stylish-haskell",
-        "partial": "Name",
-        "signature": "Step-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:tabs",
-      "description": {
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "Int-\u003e Step",
-        "fct-type": "function",
-        "title": "tabs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "tabs",
-        "normalized": "Int-\u003eStep",
-        "package": "stylish-haskell",
-        "partial": "",
-        "signature": "Int-\u003eStep"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:trailingWhitespace",
-      "description": {
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "Step",
-        "fct-source": "src/Language-Haskell-Stylish.html#trailingWhitespace",
-        "fct-type": "function",
-        "title": "trailingWhitespace"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "trailingWhitespace",
-        "normalized": "",
-        "package": "stylish-haskell",
-        "partial": "Whitespace",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:unicodeSyntax",
-      "description": {
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "Bool-\u003e Step",
-        "fct-type": "function",
-        "title": "unicodeSyntax"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "unicodeSyntax",
-        "normalized": "Bool-\u003eStep",
-        "package": "stylish-haskell",
-        "partial": "Syntax",
-        "signature": "Bool-\u003eStep"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/stylish-haskell/docs/Language-Haskell-Stylish.html#v:version",
-      "description": {
-        "fct-module": "Language.Haskell.Stylish",
-        "fct-package": "stylish-haskell",
-        "fct-signature": "Version",
-        "fct-source": "src/Paths_stylish_haskell.html#version",
-        "fct-type": "function",
-        "title": "version"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language Haskell Stylish",
-        "module": "Language.Haskell.Stylish",
-        "name": "version",
-        "normalized": "",
-        "package": "stylish-haskell",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

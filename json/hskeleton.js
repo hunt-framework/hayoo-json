@@ -1,268 +1,273 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hskeleton/docs/System-Console-GetOpt-Skeleton.html#",
-      "description": {
-        "fct-module": "System.Console.GetOpt.Skeleton",
-        "fct-package": "hskeleton",
-        "fct-signature": "module",
-        "fct-source": "src/System-Console-GetOpt-Skeleton.html",
-        "fct-type": "module",
-        "title": "Skeleton"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "hskeleton"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "System Console GetOpt Skeleton",
-        "module": "System.Console.GetOpt.Skeleton",
-        "name": "Skeleton",
-        "normalized": "",
-        "package": "hskeleton",
-        "partial": "Skeleton",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hskeleton/docs/System-Console-GetOpt-Skeleton.html#v:mParseArgs",
-      "description": {
-        "fct-descr": "\u003cp\u003eSpecial version of parseArgs for monoids\n\u003c/p\u003e",
-        "fct-module": "System.Console.GetOpt.Skeleton",
-        "fct-package": "hskeleton",
-        "fct-signature": "Version -\u003e [OptDescr (b -\u003e b)] -\u003e (b -\u003e Last StandardFlag) -\u003e [String] -\u003e IO b",
-        "fct-source": "src/System-Console-GetOpt-Skeleton.html#mParseArgs",
-        "fct-type": "function",
-        "title": "mParseArgs"
-      },
-      "index": {
-        "description": "Special version of parseArgs for monoids",
-        "hierarchy": "System Console GetOpt Skeleton",
-        "module": "System.Console.GetOpt.Skeleton",
-        "name": "mParseArgs",
-        "normalized": "Version-\u003e[OptDescr(a-\u003ea)]-\u003e(a-\u003eLast StandardFlag)-\u003e[String]-\u003eIO a",
-        "package": "hskeleton",
-        "partial": "Parse Args",
-        "signature": "Version-\u003e[OptDescr(b-\u003eb)]-\u003e(b-\u003eLast StandardFlag)-\u003e[String]-\u003eIO b"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Console.GetOpt.Skeleton",
+          "name": "Skeleton",
+          "package": "hskeleton",
+          "source": "src/System-Console-GetOpt-Skeleton.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "System Console GetOpt Skeleton",
+          "module": "System.Console.GetOpt.Skeleton",
+          "name": "Skeleton",
+          "package": "hskeleton",
+          "partial": "Skeleton",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/hskeleton/docs/System-Console-GetOpt-Skeleton.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eSpecial version of parseArgs for monoids\n\u003c/p\u003e",
+          "module": "System.Console.GetOpt.Skeleton",
+          "name": "mParseArgs",
+          "package": "hskeleton",
+          "signature": "Version -\u003e [OptDescr (b -\u003e b)] -\u003e (b -\u003e Last StandardFlag) -\u003e [String] -\u003e IO b",
+          "source": "src/System-Console-GetOpt-Skeleton.html#mParseArgs",
+          "type": "function"
+        },
+        "index": {
+          "description": "Special version of parseArgs for monoids",
+          "hierarchy": "System Console GetOpt Skeleton",
+          "module": "System.Console.GetOpt.Skeleton",
+          "name": "mParseArgs",
+          "normalized": "Version-\u003e[OptDescr(a-\u003ea)]-\u003e(a-\u003eLast StandardFlag)-\u003e[String]-\u003eIO a",
+          "package": "hskeleton",
+          "partial": "Parse Args",
+          "signature": "Version-\u003e[OptDescr(b-\u003eb)]-\u003e(b-\u003eLast StandardFlag)-\u003e[String]-\u003eIO b",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hskeleton/docs/System-Console-GetOpt-Skeleton.html#v:mParseArgs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cul\u003e\u003cli\u003ebasic* command-line argument parsing - you may wish to write your own parseArgs, based on\n the source code of this one.\n\u003c/li\u003e\u003c/ul\u003e",
+          "module": "System.Console.GetOpt.Skeleton",
+          "name": "parseArgs",
+          "package": "hskeleton",
+          "signature": "Version -\u003e [OptDescr a] -\u003e ([a] -\u003e b) -\u003e (b -\u003e Maybe StandardFlag) -\u003e [String] -\u003e IO b",
+          "source": "src/System-Console-GetOpt-Skeleton.html#parseArgs",
+          "type": "function"
+        },
+        "index": {
+          "description": "basic command-line argument parsing you may wish to write your own parseArgs based on the source code of this one",
+          "hierarchy": "System Console GetOpt Skeleton",
+          "module": "System.Console.GetOpt.Skeleton",
+          "name": "parseArgs",
+          "normalized": "Version-\u003e[OptDescr a]-\u003e([a]-\u003eb)-\u003e(b-\u003eMaybe StandardFlag)-\u003e[String]-\u003eIO b",
+          "package": "hskeleton",
+          "partial": "Args",
+          "signature": "Version-\u003e[OptDescr a]-\u003e([a]-\u003eb)-\u003e(b-\u003eMaybe StandardFlag)-\u003e[String]-\u003eIO b",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hskeleton/docs/System-Console-GetOpt-Skeleton.html#v:parseArgs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Console.GetOpt.StandardOpts",
+          "name": "StandardOpts",
+          "package": "hskeleton",
+          "source": "src/System-Console-GetOpt-StandardOpts.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "System Console GetOpt StandardOpts",
+          "module": "System.Console.GetOpt.StandardOpts",
+          "name": "StandardOpts",
+          "package": "hskeleton",
+          "partial": "Standard Opts",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/hskeleton/docs/System-Console-GetOpt-StandardOpts.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Console.GetOpt.StandardOpts",
+          "name": "StandardFlag",
+          "package": "hskeleton",
+          "source": "src/System-Console-GetOpt-StandardOpts.html#StandardFlag",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "System Console GetOpt StandardOpts",
+          "module": "System.Console.GetOpt.StandardOpts",
+          "name": "StandardFlag",
+          "package": "hskeleton",
+          "partial": "Standard Flag",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/hskeleton/docs/System-Console-GetOpt-StandardOpts.html#t:StandardFlag"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Console.GetOpt.StandardOpts",
+          "name": "HelpFlag",
+          "package": "hskeleton",
+          "signature": "HelpFlag",
+          "source": "src/System-Console-GetOpt-StandardOpts.html#StandardFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Console GetOpt StandardOpts",
+          "module": "System.Console.GetOpt.StandardOpts",
+          "name": "HelpFlag",
+          "package": "hskeleton",
+          "partial": "Help Flag",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hskeleton/docs/System-Console-GetOpt-StandardOpts.html#v:HelpFlag"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Console.GetOpt.StandardOpts",
+          "name": "VersionFlag",
+          "package": "hskeleton",
+          "signature": "VersionFlag",
+          "source": "src/System-Console-GetOpt-StandardOpts.html#StandardFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Console GetOpt StandardOpts",
+          "module": "System.Console.GetOpt.StandardOpts",
+          "name": "VersionFlag",
+          "package": "hskeleton",
+          "partial": "Version Flag",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hskeleton/docs/System-Console-GetOpt-StandardOpts.html#v:VersionFlag"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Console.GetOpt.StandardOpts",
+          "name": "printHelp",
+          "package": "hskeleton",
+          "signature": "String -\u003e [OptDescr a] -\u003e IO ()",
+          "source": "src/System-Console-GetOpt-StandardOpts.html#printHelp",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Console GetOpt StandardOpts",
+          "module": "System.Console.GetOpt.StandardOpts",
+          "name": "printHelp",
+          "normalized": "String-\u003e[OptDescr a]-\u003eIO()",
+          "package": "hskeleton",
+          "partial": "Help",
+          "signature": "String-\u003e[OptDescr a]-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hskeleton/docs/System-Console-GetOpt-StandardOpts.html#v:printHelp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Console.GetOpt.StandardOpts",
+          "name": "printVersion",
+          "package": "hskeleton",
+          "signature": "String -\u003e Version -\u003e IO ()",
+          "source": "src/System-Console-GetOpt-StandardOpts.html#printVersion",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Console GetOpt StandardOpts",
+          "module": "System.Console.GetOpt.StandardOpts",
+          "name": "printVersion",
+          "normalized": "String-\u003eVersion-\u003eIO()",
+          "package": "hskeleton",
+          "partial": "Version",
+          "signature": "String-\u003eVersion-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hskeleton/docs/System-Console-GetOpt-StandardOpts.html#v:printVersion"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Console.GetOpt.StandardOpts",
+          "name": "standardOptions",
+          "package": "hskeleton",
+          "signature": "[OptDescr StandardFlag]",
+          "source": "src/System-Console-GetOpt-StandardOpts.html#standardOptions",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Console GetOpt StandardOpts",
+          "module": "System.Console.GetOpt.StandardOpts",
+          "name": "standardOptions",
+          "normalized": "[OptDescr StandardFlag]",
+          "package": "hskeleton",
+          "partial": "Options",
+          "signature": "[OptDescr StandardFlag]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hskeleton/docs/System-Console-GetOpt-StandardOpts.html#v:standardOptions"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "System.Console.GetOpt.StandardOpts",
+          "name": "stdOpts",
+          "package": "hskeleton",
+          "signature": "(StandardFlag -\u003e a) -\u003e [OptDescr a]",
+          "source": "src/System-Console-GetOpt-StandardOpts.html#stdOpts",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "System Console GetOpt StandardOpts",
+          "module": "System.Console.GetOpt.StandardOpts",
+          "name": "stdOpts",
+          "normalized": "(StandardFlag-\u003ea)-\u003e[OptDescr a]",
+          "package": "hskeleton",
+          "partial": "Opts",
+          "signature": "(StandardFlag-\u003ea)-\u003e[OptDescr a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hskeleton/docs/System-Console-GetOpt-StandardOpts.html#v:stdOpts"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hskeleton/docs/System-Console-GetOpt-Skeleton.html#v:parseArgs",
-      "description": {
-        "fct-descr": "\u003cul\u003e\u003cli\u003ebasic* command-line argument parsing - you may wish to write your own parseArgs, based on\n the source code of this one.\n\u003c/li\u003e\u003c/ul\u003e",
-        "fct-module": "System.Console.GetOpt.Skeleton",
-        "fct-package": "hskeleton",
-        "fct-signature": "Version -\u003e [OptDescr a] -\u003e ([a] -\u003e b) -\u003e (b -\u003e Maybe StandardFlag) -\u003e [String] -\u003e IO b",
-        "fct-source": "src/System-Console-GetOpt-Skeleton.html#parseArgs",
-        "fct-type": "function",
-        "title": "parseArgs"
-      },
-      "index": {
-        "description": "basic command-line argument parsing you may wish to write your own parseArgs based on the source code of this one",
-        "hierarchy": "System Console GetOpt Skeleton",
-        "module": "System.Console.GetOpt.Skeleton",
-        "name": "parseArgs",
-        "normalized": "Version-\u003e[OptDescr a]-\u003e([a]-\u003eb)-\u003e(b-\u003eMaybe StandardFlag)-\u003e[String]-\u003eIO b",
-        "package": "hskeleton",
-        "partial": "Args",
-        "signature": "Version-\u003e[OptDescr a]-\u003e([a]-\u003eb)-\u003e(b-\u003eMaybe StandardFlag)-\u003e[String]-\u003eIO b"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hskeleton/docs/System-Console-GetOpt-StandardOpts.html#",
-      "description": {
-        "fct-module": "System.Console.GetOpt.StandardOpts",
-        "fct-package": "hskeleton",
-        "fct-signature": "module",
-        "fct-source": "src/System-Console-GetOpt-StandardOpts.html",
-        "fct-type": "module",
-        "title": "StandardOpts"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Console GetOpt StandardOpts",
-        "module": "System.Console.GetOpt.StandardOpts",
-        "name": "StandardOpts",
-        "normalized": "",
-        "package": "hskeleton",
-        "partial": "Standard Opts",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hskeleton/docs/System-Console-GetOpt-StandardOpts.html#t:StandardFlag",
-      "description": {
-        "fct-module": "System.Console.GetOpt.StandardOpts",
-        "fct-package": "hskeleton",
-        "fct-signature": "data",
-        "fct-source": "src/System-Console-GetOpt-StandardOpts.html#StandardFlag",
-        "fct-type": "data",
-        "title": "StandardFlag"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Console GetOpt StandardOpts",
-        "module": "System.Console.GetOpt.StandardOpts",
-        "name": "StandardFlag",
-        "normalized": "",
-        "package": "hskeleton",
-        "partial": "Standard Flag",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hskeleton/docs/System-Console-GetOpt-StandardOpts.html#v:HelpFlag",
-      "description": {
-        "fct-module": "System.Console.GetOpt.StandardOpts",
-        "fct-package": "hskeleton",
-        "fct-signature": "HelpFlag",
-        "fct-source": "src/System-Console-GetOpt-StandardOpts.html#StandardFlag",
-        "fct-type": "function",
-        "title": "HelpFlag"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Console GetOpt StandardOpts",
-        "module": "System.Console.GetOpt.StandardOpts",
-        "name": "HelpFlag",
-        "normalized": "",
-        "package": "hskeleton",
-        "partial": "Help Flag",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hskeleton/docs/System-Console-GetOpt-StandardOpts.html#v:VersionFlag",
-      "description": {
-        "fct-module": "System.Console.GetOpt.StandardOpts",
-        "fct-package": "hskeleton",
-        "fct-signature": "VersionFlag",
-        "fct-source": "src/System-Console-GetOpt-StandardOpts.html#StandardFlag",
-        "fct-type": "function",
-        "title": "VersionFlag"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Console GetOpt StandardOpts",
-        "module": "System.Console.GetOpt.StandardOpts",
-        "name": "VersionFlag",
-        "normalized": "",
-        "package": "hskeleton",
-        "partial": "Version Flag",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hskeleton/docs/System-Console-GetOpt-StandardOpts.html#v:printHelp",
-      "description": {
-        "fct-module": "System.Console.GetOpt.StandardOpts",
-        "fct-package": "hskeleton",
-        "fct-signature": "String -\u003e [OptDescr a] -\u003e IO ()",
-        "fct-source": "src/System-Console-GetOpt-StandardOpts.html#printHelp",
-        "fct-type": "function",
-        "title": "printHelp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Console GetOpt StandardOpts",
-        "module": "System.Console.GetOpt.StandardOpts",
-        "name": "printHelp",
-        "normalized": "String-\u003e[OptDescr a]-\u003eIO()",
-        "package": "hskeleton",
-        "partial": "Help",
-        "signature": "String-\u003e[OptDescr a]-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hskeleton/docs/System-Console-GetOpt-StandardOpts.html#v:printVersion",
-      "description": {
-        "fct-module": "System.Console.GetOpt.StandardOpts",
-        "fct-package": "hskeleton",
-        "fct-signature": "String -\u003e Version -\u003e IO ()",
-        "fct-source": "src/System-Console-GetOpt-StandardOpts.html#printVersion",
-        "fct-type": "function",
-        "title": "printVersion"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Console GetOpt StandardOpts",
-        "module": "System.Console.GetOpt.StandardOpts",
-        "name": "printVersion",
-        "normalized": "String-\u003eVersion-\u003eIO()",
-        "package": "hskeleton",
-        "partial": "Version",
-        "signature": "String-\u003eVersion-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hskeleton/docs/System-Console-GetOpt-StandardOpts.html#v:standardOptions",
-      "description": {
-        "fct-module": "System.Console.GetOpt.StandardOpts",
-        "fct-package": "hskeleton",
-        "fct-signature": "[OptDescr StandardFlag]",
-        "fct-source": "src/System-Console-GetOpt-StandardOpts.html#standardOptions",
-        "fct-type": "function",
-        "title": "standardOptions"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Console GetOpt StandardOpts",
-        "module": "System.Console.GetOpt.StandardOpts",
-        "name": "standardOptions",
-        "normalized": "[OptDescr StandardFlag]",
-        "package": "hskeleton",
-        "partial": "Options",
-        "signature": "[OptDescr StandardFlag]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hskeleton/docs/System-Console-GetOpt-StandardOpts.html#v:stdOpts",
-      "description": {
-        "fct-module": "System.Console.GetOpt.StandardOpts",
-        "fct-package": "hskeleton",
-        "fct-signature": "(StandardFlag -\u003e a) -\u003e [OptDescr a]",
-        "fct-source": "src/System-Console-GetOpt-StandardOpts.html#stdOpts",
-        "fct-type": "function",
-        "title": "stdOpts"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "System Console GetOpt StandardOpts",
-        "module": "System.Console.GetOpt.StandardOpts",
-        "name": "stdOpts",
-        "normalized": "(StandardFlag-\u003ea)-\u003e[OptDescr a]",
-        "package": "hskeleton",
-        "partial": "Opts",
-        "signature": "(StandardFlag-\u003ea)-\u003e[OptDescr a]"
-      }
-    }
-  }
+  ]
 ]

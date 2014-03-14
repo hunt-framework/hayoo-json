@@ -1,261 +1,251 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/type-booleans/docs/Type-Booleans.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eType-level booleans with very basic operations.\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Type.Booleans",
-        "fct-package": "type-booleans",
-        "fct-signature": "module",
-        "fct-source": "src/Type-Booleans.html",
-        "fct-type": "module",
-        "title": "Booleans"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "type-booleans"
       },
-      "index": {
-        "description": "Type-level booleans with very basic operations",
-        "hierarchy": "Type Booleans",
-        "module": "Type.Booleans",
-        "name": "Booleans",
-        "normalized": "",
-        "package": "type-booleans",
-        "partial": "Booleans",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/type-booleans/docs/Type-Booleans.html#t:And",
-      "description": {
-        "fct-module": "Type.Booleans",
-        "fct-package": "type-booleans",
-        "fct-signature": "And",
-        "fct-type": "function",
-        "title": "And"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Type Booleans",
-        "module": "Type.Booleans",
-        "name": "And",
-        "normalized": "",
-        "package": "type-booleans",
-        "partial": "And",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eType-level booleans with very basic operations.\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Type.Booleans",
+          "name": "Booleans",
+          "package": "type-booleans",
+          "source": "src/Type-Booleans.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "Type-level booleans with very basic operations",
+          "hierarchy": "Type Booleans",
+          "module": "Type.Booleans",
+          "name": "Booleans",
+          "package": "type-booleans",
+          "partial": "Booleans",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/type-booleans/docs/Type-Booleans.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Type.Booleans",
+          "name": "And",
+          "package": "type-booleans",
+          "signature": "And",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Type Booleans",
+          "module": "Type.Booleans",
+          "name": "And",
+          "package": "type-booleans",
+          "partial": "And",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/type-booleans/docs/Type-Booleans.html#t:And"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Type.Booleans",
+          "name": "Beq",
+          "package": "type-booleans",
+          "signature": "Beq",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Type Booleans",
+          "module": "Type.Booleans",
+          "name": "Beq",
+          "package": "type-booleans",
+          "partial": "Beq",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/type-booleans/docs/Type-Booleans.html#t:Beq"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Type.Booleans",
+          "name": "False",
+          "package": "type-booleans",
+          "source": "src/Type-Booleans.html#False",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Type Booleans",
+          "module": "Type.Booleans",
+          "name": "False",
+          "package": "type-booleans",
+          "partial": "False",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/type-booleans/docs/Type-Booleans.html#t:False"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Type.Booleans",
+          "name": "If",
+          "package": "type-booleans",
+          "signature": "If",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Type Booleans",
+          "module": "Type.Booleans",
+          "name": "If",
+          "package": "type-booleans",
+          "partial": "If",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/type-booleans/docs/Type-Booleans.html#t:If"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Type.Booleans",
+          "name": "Nand",
+          "package": "type-booleans",
+          "source": "src/Type-Booleans.html#Nand",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Type Booleans",
+          "module": "Type.Booleans",
+          "name": "Nand",
+          "package": "type-booleans",
+          "partial": "Nand",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/type-booleans/docs/Type-Booleans.html#t:Nand"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Type.Booleans",
+          "name": "Nor",
+          "package": "type-booleans",
+          "source": "src/Type-Booleans.html#Nor",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Type Booleans",
+          "module": "Type.Booleans",
+          "name": "Nor",
+          "package": "type-booleans",
+          "partial": "Nor",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/type-booleans/docs/Type-Booleans.html#t:Nor"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Type.Booleans",
+          "name": "Not",
+          "package": "type-booleans",
+          "signature": "Not",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Type Booleans",
+          "module": "Type.Booleans",
+          "name": "Not",
+          "package": "type-booleans",
+          "partial": "Not",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/type-booleans/docs/Type-Booleans.html#t:Not"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Type.Booleans",
+          "name": "Or",
+          "package": "type-booleans",
+          "signature": "Or",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Type Booleans",
+          "module": "Type.Booleans",
+          "name": "Or",
+          "package": "type-booleans",
+          "partial": "Or",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/type-booleans/docs/Type-Booleans.html#t:Or"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Type.Booleans",
+          "name": "True",
+          "package": "type-booleans",
+          "source": "src/Type-Booleans.html#True",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Type Booleans",
+          "module": "Type.Booleans",
+          "name": "True",
+          "package": "type-booleans",
+          "partial": "True",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/type-booleans/docs/Type-Booleans.html#t:True"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Type.Booleans",
+          "name": "Xor",
+          "package": "type-booleans",
+          "signature": "Xor",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Type Booleans",
+          "module": "Type.Booleans",
+          "name": "Xor",
+          "package": "type-booleans",
+          "partial": "Xor",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/type-booleans/docs/Type-Booleans.html#t:Xor"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/type-booleans/docs/Type-Booleans.html#t:Beq",
-      "description": {
-        "fct-module": "Type.Booleans",
-        "fct-package": "type-booleans",
-        "fct-signature": "Beq",
-        "fct-type": "function",
-        "title": "Beq"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Type Booleans",
-        "module": "Type.Booleans",
-        "name": "Beq",
-        "normalized": "",
-        "package": "type-booleans",
-        "partial": "Beq",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/type-booleans/docs/Type-Booleans.html#t:False",
-      "description": {
-        "fct-module": "Type.Booleans",
-        "fct-package": "type-booleans",
-        "fct-signature": "data",
-        "fct-source": "src/Type-Booleans.html#False",
-        "fct-type": "data",
-        "title": "False"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Type Booleans",
-        "module": "Type.Booleans",
-        "name": "False",
-        "normalized": "",
-        "package": "type-booleans",
-        "partial": "False",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/type-booleans/docs/Type-Booleans.html#t:If",
-      "description": {
-        "fct-module": "Type.Booleans",
-        "fct-package": "type-booleans",
-        "fct-signature": "If",
-        "fct-type": "function",
-        "title": "If"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Type Booleans",
-        "module": "Type.Booleans",
-        "name": "If",
-        "normalized": "",
-        "package": "type-booleans",
-        "partial": "If",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/type-booleans/docs/Type-Booleans.html#t:Nand",
-      "description": {
-        "fct-module": "Type.Booleans",
-        "fct-package": "type-booleans",
-        "fct-signature": "type",
-        "fct-source": "src/Type-Booleans.html#Nand",
-        "fct-type": "type",
-        "title": "Nand"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Type Booleans",
-        "module": "Type.Booleans",
-        "name": "Nand",
-        "normalized": "",
-        "package": "type-booleans",
-        "partial": "Nand",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/type-booleans/docs/Type-Booleans.html#t:Nor",
-      "description": {
-        "fct-module": "Type.Booleans",
-        "fct-package": "type-booleans",
-        "fct-signature": "type",
-        "fct-source": "src/Type-Booleans.html#Nor",
-        "fct-type": "type",
-        "title": "Nor"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Type Booleans",
-        "module": "Type.Booleans",
-        "name": "Nor",
-        "normalized": "",
-        "package": "type-booleans",
-        "partial": "Nor",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/type-booleans/docs/Type-Booleans.html#t:Not",
-      "description": {
-        "fct-module": "Type.Booleans",
-        "fct-package": "type-booleans",
-        "fct-signature": "Not",
-        "fct-type": "function",
-        "title": "Not"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Type Booleans",
-        "module": "Type.Booleans",
-        "name": "Not",
-        "normalized": "",
-        "package": "type-booleans",
-        "partial": "Not",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/type-booleans/docs/Type-Booleans.html#t:Or",
-      "description": {
-        "fct-module": "Type.Booleans",
-        "fct-package": "type-booleans",
-        "fct-signature": "Or",
-        "fct-type": "function",
-        "title": "Or"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Type Booleans",
-        "module": "Type.Booleans",
-        "name": "Or",
-        "normalized": "",
-        "package": "type-booleans",
-        "partial": "Or",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/type-booleans/docs/Type-Booleans.html#t:True",
-      "description": {
-        "fct-module": "Type.Booleans",
-        "fct-package": "type-booleans",
-        "fct-signature": "data",
-        "fct-source": "src/Type-Booleans.html#True",
-        "fct-type": "data",
-        "title": "True"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Type Booleans",
-        "module": "Type.Booleans",
-        "name": "True",
-        "normalized": "",
-        "package": "type-booleans",
-        "partial": "True",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/type-booleans/docs/Type-Booleans.html#t:Xor",
-      "description": {
-        "fct-module": "Type.Booleans",
-        "fct-package": "type-booleans",
-        "fct-signature": "Xor",
-        "fct-type": "function",
-        "title": "Xor"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Type Booleans",
-        "module": "Type.Booleans",
-        "name": "Xor",
-        "normalized": "",
-        "package": "type-booleans",
-        "partial": "Xor",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

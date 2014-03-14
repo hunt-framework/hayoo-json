@@ -1,294 +1,304 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aligned-foreignptr/docs/Foreign-ForeignPtr-Aligned.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eA properly aligned ForeignPtr type.\n This can be currently achieved only by wasting some bytes.\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Foreign.ForeignPtr.Aligned",
-        "fct-package": "aligned-foreignptr",
-        "fct-signature": "module",
-        "fct-source": "src/Foreign-ForeignPtr-Aligned.html",
-        "fct-type": "module",
-        "title": "Aligned"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "aligned-foreignptr"
       },
-      "index": {
-        "description": "properly aligned ForeignPtr type This can be currently achieved only by wasting some bytes",
-        "hierarchy": "Foreign ForeignPtr Aligned",
-        "module": "Foreign.ForeignPtr.Aligned",
-        "name": "Aligned",
-        "normalized": "",
-        "package": "aligned-foreignptr",
-        "partial": "Aligned",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aligned-foreignptr/docs/Foreign-ForeignPtr-Aligned.html#t:AlignedForeignPtr",
-      "description": {
-        "fct-descr": "\u003cp\u003eThe aligned ForeignPtr type\n\u003c/p\u003e",
-        "fct-module": "Foreign.ForeignPtr.Aligned",
-        "fct-package": "aligned-foreignptr",
-        "fct-signature": "data",
-        "fct-source": "src/Foreign-ForeignPtr-Aligned.html#AlignedForeignPtr",
-        "fct-type": "data",
-        "title": "AlignedForeignPtr"
-      },
-      "index": {
-        "description": "The aligned ForeignPtr type",
-        "hierarchy": "Foreign ForeignPtr Aligned",
-        "module": "Foreign.ForeignPtr.Aligned",
-        "name": "AlignedForeignPtr",
-        "normalized": "",
-        "package": "aligned-foreignptr",
-        "partial": "Aligned Foreign Ptr",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eA properly aligned ForeignPtr type.\n This can be currently achieved only by wasting some bytes.\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Foreign.ForeignPtr.Aligned",
+          "name": "Aligned",
+          "package": "aligned-foreignptr",
+          "source": "src/Foreign-ForeignPtr-Aligned.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "properly aligned ForeignPtr type This can be currently achieved only by wasting some bytes",
+          "hierarchy": "Foreign ForeignPtr Aligned",
+          "module": "Foreign.ForeignPtr.Aligned",
+          "name": "Aligned",
+          "package": "aligned-foreignptr",
+          "partial": "Aligned",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/aligned-foreignptr/docs/Foreign-ForeignPtr-Aligned.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eThe aligned ForeignPtr type\n\u003c/p\u003e",
+          "module": "Foreign.ForeignPtr.Aligned",
+          "name": "AlignedForeignPtr",
+          "package": "aligned-foreignptr",
+          "source": "src/Foreign-ForeignPtr-Aligned.html#AlignedForeignPtr",
+          "type": "data"
+        },
+        "index": {
+          "description": "The aligned ForeignPtr type",
+          "hierarchy": "Foreign ForeignPtr Aligned",
+          "module": "Foreign.ForeignPtr.Aligned",
+          "name": "AlignedForeignPtr",
+          "package": "aligned-foreignptr",
+          "partial": "Aligned Foreign Ptr",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aligned-foreignptr/docs/Foreign-ForeignPtr-Aligned.html#t:AlignedForeignPtr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eShould be a power of two.\n\u003c/p\u003e",
+          "module": "Foreign.ForeignPtr.Aligned",
+          "name": "Alignment",
+          "package": "aligned-foreignptr",
+          "source": "src/Foreign-ForeignPtr-Aligned.html#Alignment",
+          "type": "data"
+        },
+        "index": {
+          "description": "Should be power of two",
+          "hierarchy": "Foreign ForeignPtr Aligned",
+          "module": "Foreign.ForeignPtr.Aligned",
+          "name": "Alignment",
+          "package": "aligned-foreignptr",
+          "partial": "Alignment",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aligned-foreignptr/docs/Foreign-ForeignPtr-Aligned.html#t:Alignment"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eA \"smart\" constructor which checks whether the input \n is a power of two.\n\u003c/p\u003e",
+          "module": "Foreign.ForeignPtr.Aligned",
+          "name": "align",
+          "package": "aligned-foreignptr",
+          "signature": "Int -\u003e Alignment",
+          "source": "src/Foreign-ForeignPtr-Aligned.html#align",
+          "type": "function"
+        },
+        "index": {
+          "description": "smart constructor which checks whether the input is power of two",
+          "hierarchy": "Foreign ForeignPtr Aligned",
+          "module": "Foreign.ForeignPtr.Aligned",
+          "name": "align",
+          "normalized": "Int-\u003eAlignment",
+          "package": "aligned-foreignptr",
+          "signature": "Int-\u003eAlignment",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aligned-foreignptr/docs/Foreign-ForeignPtr-Aligned.html#v:align"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Foreign.ForeignPtr.Aligned",
+          "name": "castAlignedForeignPtr",
+          "package": "aligned-foreignptr",
+          "signature": "AlignedForeignPtr a -\u003e AlignedForeignPtr b",
+          "source": "src/Foreign-ForeignPtr-Aligned.html#castAlignedForeignPtr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Foreign ForeignPtr Aligned",
+          "module": "Foreign.ForeignPtr.Aligned",
+          "name": "castAlignedForeignPtr",
+          "normalized": "AlignedForeignPtr a-\u003eAlignedForeignPtr b",
+          "package": "aligned-foreignptr",
+          "partial": "Aligned Foreign Ptr",
+          "signature": "AlignedForeignPtr a-\u003eAlignedForeignPtr b",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aligned-foreignptr/docs/Foreign-ForeignPtr-Aligned.html#v:castAlignedForeignPtr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Foreign.ForeignPtr.Aligned",
+          "name": "finalizeAlignedForeignPtr",
+          "package": "aligned-foreignptr",
+          "signature": "AlignedForeignPtr a -\u003e IO ()",
+          "source": "src/Foreign-ForeignPtr-Aligned.html#finalizeAlignedForeignPtr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Foreign ForeignPtr Aligned",
+          "module": "Foreign.ForeignPtr.Aligned",
+          "name": "finalizeAlignedForeignPtr",
+          "normalized": "AlignedForeignPtr a-\u003eIO()",
+          "package": "aligned-foreignptr",
+          "partial": "Aligned Foreign Ptr",
+          "signature": "AlignedForeignPtr a-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aligned-foreignptr/docs/Foreign-ForeignPtr-Aligned.html#v:finalizeAlignedForeignPtr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Foreign.ForeignPtr.Aligned",
+          "name": "fromAlignment",
+          "package": "aligned-foreignptr",
+          "signature": "Alignment -\u003e Int",
+          "source": "src/Foreign-ForeignPtr-Aligned.html#fromAlignment",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Foreign ForeignPtr Aligned",
+          "module": "Foreign.ForeignPtr.Aligned",
+          "name": "fromAlignment",
+          "normalized": "Alignment-\u003eInt",
+          "package": "aligned-foreignptr",
+          "partial": "Alignment",
+          "signature": "Alignment-\u003eInt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aligned-foreignptr/docs/Foreign-ForeignPtr-Aligned.html#v:fromAlignment"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Foreign.ForeignPtr.Aligned",
+          "name": "mallocAlignedForeignPtr",
+          "package": "aligned-foreignptr",
+          "signature": "Alignment -\u003e IO (AlignedForeignPtr a)",
+          "source": "src/Foreign-ForeignPtr-Aligned.html#mallocAlignedForeignPtr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Foreign ForeignPtr Aligned",
+          "module": "Foreign.ForeignPtr.Aligned",
+          "name": "mallocAlignedForeignPtr",
+          "normalized": "Alignment-\u003eIO(AlignedForeignPtr a)",
+          "package": "aligned-foreignptr",
+          "partial": "Aligned Foreign Ptr",
+          "signature": "Alignment-\u003eIO(AlignedForeignPtr a)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aligned-foreignptr/docs/Foreign-ForeignPtr-Aligned.html#v:mallocAlignedForeignPtr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Foreign.ForeignPtr.Aligned",
+          "name": "mallocAlignedForeignPtrArray",
+          "package": "aligned-foreignptr",
+          "signature": "Alignment -\u003e Int -\u003e IO (AlignedForeignPtr a)",
+          "source": "src/Foreign-ForeignPtr-Aligned.html#mallocAlignedForeignPtrArray",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Foreign ForeignPtr Aligned",
+          "module": "Foreign.ForeignPtr.Aligned",
+          "name": "mallocAlignedForeignPtrArray",
+          "normalized": "Alignment-\u003eInt-\u003eIO(AlignedForeignPtr a)",
+          "package": "aligned-foreignptr",
+          "partial": "Aligned Foreign Ptr Array",
+          "signature": "Alignment-\u003eInt-\u003eIO(AlignedForeignPtr a)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aligned-foreignptr/docs/Foreign-ForeignPtr-Aligned.html#v:mallocAlignedForeignPtrArray"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Foreign.ForeignPtr.Aligned",
+          "name": "mallocAlignedForeignPtrBytes",
+          "package": "aligned-foreignptr",
+          "signature": "Alignment -\u003e Int -\u003e IO (AlignedForeignPtr a)",
+          "source": "src/Foreign-ForeignPtr-Aligned.html#mallocAlignedForeignPtrBytes",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Foreign ForeignPtr Aligned",
+          "module": "Foreign.ForeignPtr.Aligned",
+          "name": "mallocAlignedForeignPtrBytes",
+          "normalized": "Alignment-\u003eInt-\u003eIO(AlignedForeignPtr a)",
+          "package": "aligned-foreignptr",
+          "partial": "Aligned Foreign Ptr Bytes",
+          "signature": "Alignment-\u003eInt-\u003eIO(AlignedForeignPtr a)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aligned-foreignptr/docs/Foreign-ForeignPtr-Aligned.html#v:mallocAlignedForeignPtrBytes"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Foreign.ForeignPtr.Aligned",
+          "name": "touchAlignedForeignPtr",
+          "package": "aligned-foreignptr",
+          "signature": "AlignedForeignPtr a -\u003e IO ()",
+          "source": "src/Foreign-ForeignPtr-Aligned.html#touchAlignedForeignPtr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Foreign ForeignPtr Aligned",
+          "module": "Foreign.ForeignPtr.Aligned",
+          "name": "touchAlignedForeignPtr",
+          "normalized": "AlignedForeignPtr a-\u003eIO()",
+          "package": "aligned-foreignptr",
+          "partial": "Aligned Foreign Ptr",
+          "signature": "AlignedForeignPtr a-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aligned-foreignptr/docs/Foreign-ForeignPtr-Aligned.html#v:touchAlignedForeignPtr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Foreign.ForeignPtr.Aligned",
+          "name": "withAlignedForeignPtr",
+          "package": "aligned-foreignptr",
+          "signature": "AlignedForeignPtr a -\u003e (Ptr a -\u003e IO b) -\u003e IO b",
+          "source": "src/Foreign-ForeignPtr-Aligned.html#withAlignedForeignPtr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Foreign ForeignPtr Aligned",
+          "module": "Foreign.ForeignPtr.Aligned",
+          "name": "withAlignedForeignPtr",
+          "normalized": "AlignedForeignPtr a-\u003e(Ptr a-\u003eIO b)-\u003eIO b",
+          "package": "aligned-foreignptr",
+          "partial": "Aligned Foreign Ptr",
+          "signature": "AlignedForeignPtr a-\u003e(Ptr a-\u003eIO b)-\u003eIO b",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aligned-foreignptr/docs/Foreign-ForeignPtr-Aligned.html#v:withAlignedForeignPtr"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aligned-foreignptr/docs/Foreign-ForeignPtr-Aligned.html#t:Alignment",
-      "description": {
-        "fct-descr": "\u003cp\u003eShould be a power of two.\n\u003c/p\u003e",
-        "fct-module": "Foreign.ForeignPtr.Aligned",
-        "fct-package": "aligned-foreignptr",
-        "fct-signature": "data",
-        "fct-source": "src/Foreign-ForeignPtr-Aligned.html#Alignment",
-        "fct-type": "data",
-        "title": "Alignment"
-      },
-      "index": {
-        "description": "Should be power of two",
-        "hierarchy": "Foreign ForeignPtr Aligned",
-        "module": "Foreign.ForeignPtr.Aligned",
-        "name": "Alignment",
-        "normalized": "",
-        "package": "aligned-foreignptr",
-        "partial": "Alignment",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aligned-foreignptr/docs/Foreign-ForeignPtr-Aligned.html#v:align",
-      "description": {
-        "fct-descr": "\u003cp\u003eA \"smart\" constructor which checks whether the input \n is a power of two.\n\u003c/p\u003e",
-        "fct-module": "Foreign.ForeignPtr.Aligned",
-        "fct-package": "aligned-foreignptr",
-        "fct-signature": "Int -\u003e Alignment",
-        "fct-source": "src/Foreign-ForeignPtr-Aligned.html#align",
-        "fct-type": "function",
-        "title": "align"
-      },
-      "index": {
-        "description": "smart constructor which checks whether the input is power of two",
-        "hierarchy": "Foreign ForeignPtr Aligned",
-        "module": "Foreign.ForeignPtr.Aligned",
-        "name": "align",
-        "normalized": "Int-\u003eAlignment",
-        "package": "aligned-foreignptr",
-        "partial": "",
-        "signature": "Int-\u003eAlignment"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aligned-foreignptr/docs/Foreign-ForeignPtr-Aligned.html#v:castAlignedForeignPtr",
-      "description": {
-        "fct-module": "Foreign.ForeignPtr.Aligned",
-        "fct-package": "aligned-foreignptr",
-        "fct-signature": "AlignedForeignPtr a -\u003e AlignedForeignPtr b",
-        "fct-source": "src/Foreign-ForeignPtr-Aligned.html#castAlignedForeignPtr",
-        "fct-type": "function",
-        "title": "castAlignedForeignPtr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Foreign ForeignPtr Aligned",
-        "module": "Foreign.ForeignPtr.Aligned",
-        "name": "castAlignedForeignPtr",
-        "normalized": "AlignedForeignPtr a-\u003eAlignedForeignPtr b",
-        "package": "aligned-foreignptr",
-        "partial": "Aligned Foreign Ptr",
-        "signature": "AlignedForeignPtr a-\u003eAlignedForeignPtr b"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aligned-foreignptr/docs/Foreign-ForeignPtr-Aligned.html#v:finalizeAlignedForeignPtr",
-      "description": {
-        "fct-module": "Foreign.ForeignPtr.Aligned",
-        "fct-package": "aligned-foreignptr",
-        "fct-signature": "AlignedForeignPtr a -\u003e IO ()",
-        "fct-source": "src/Foreign-ForeignPtr-Aligned.html#finalizeAlignedForeignPtr",
-        "fct-type": "function",
-        "title": "finalizeAlignedForeignPtr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Foreign ForeignPtr Aligned",
-        "module": "Foreign.ForeignPtr.Aligned",
-        "name": "finalizeAlignedForeignPtr",
-        "normalized": "AlignedForeignPtr a-\u003eIO()",
-        "package": "aligned-foreignptr",
-        "partial": "Aligned Foreign Ptr",
-        "signature": "AlignedForeignPtr a-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aligned-foreignptr/docs/Foreign-ForeignPtr-Aligned.html#v:fromAlignment",
-      "description": {
-        "fct-module": "Foreign.ForeignPtr.Aligned",
-        "fct-package": "aligned-foreignptr",
-        "fct-signature": "Alignment -\u003e Int",
-        "fct-source": "src/Foreign-ForeignPtr-Aligned.html#fromAlignment",
-        "fct-type": "function",
-        "title": "fromAlignment"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Foreign ForeignPtr Aligned",
-        "module": "Foreign.ForeignPtr.Aligned",
-        "name": "fromAlignment",
-        "normalized": "Alignment-\u003eInt",
-        "package": "aligned-foreignptr",
-        "partial": "Alignment",
-        "signature": "Alignment-\u003eInt"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aligned-foreignptr/docs/Foreign-ForeignPtr-Aligned.html#v:mallocAlignedForeignPtr",
-      "description": {
-        "fct-module": "Foreign.ForeignPtr.Aligned",
-        "fct-package": "aligned-foreignptr",
-        "fct-signature": "Alignment -\u003e IO (AlignedForeignPtr a)",
-        "fct-source": "src/Foreign-ForeignPtr-Aligned.html#mallocAlignedForeignPtr",
-        "fct-type": "function",
-        "title": "mallocAlignedForeignPtr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Foreign ForeignPtr Aligned",
-        "module": "Foreign.ForeignPtr.Aligned",
-        "name": "mallocAlignedForeignPtr",
-        "normalized": "Alignment-\u003eIO(AlignedForeignPtr a)",
-        "package": "aligned-foreignptr",
-        "partial": "Aligned Foreign Ptr",
-        "signature": "Alignment-\u003eIO(AlignedForeignPtr a)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aligned-foreignptr/docs/Foreign-ForeignPtr-Aligned.html#v:mallocAlignedForeignPtrArray",
-      "description": {
-        "fct-module": "Foreign.ForeignPtr.Aligned",
-        "fct-package": "aligned-foreignptr",
-        "fct-signature": "Alignment -\u003e Int -\u003e IO (AlignedForeignPtr a)",
-        "fct-source": "src/Foreign-ForeignPtr-Aligned.html#mallocAlignedForeignPtrArray",
-        "fct-type": "function",
-        "title": "mallocAlignedForeignPtrArray"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Foreign ForeignPtr Aligned",
-        "module": "Foreign.ForeignPtr.Aligned",
-        "name": "mallocAlignedForeignPtrArray",
-        "normalized": "Alignment-\u003eInt-\u003eIO(AlignedForeignPtr a)",
-        "package": "aligned-foreignptr",
-        "partial": "Aligned Foreign Ptr Array",
-        "signature": "Alignment-\u003eInt-\u003eIO(AlignedForeignPtr a)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aligned-foreignptr/docs/Foreign-ForeignPtr-Aligned.html#v:mallocAlignedForeignPtrBytes",
-      "description": {
-        "fct-module": "Foreign.ForeignPtr.Aligned",
-        "fct-package": "aligned-foreignptr",
-        "fct-signature": "Alignment -\u003e Int -\u003e IO (AlignedForeignPtr a)",
-        "fct-source": "src/Foreign-ForeignPtr-Aligned.html#mallocAlignedForeignPtrBytes",
-        "fct-type": "function",
-        "title": "mallocAlignedForeignPtrBytes"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Foreign ForeignPtr Aligned",
-        "module": "Foreign.ForeignPtr.Aligned",
-        "name": "mallocAlignedForeignPtrBytes",
-        "normalized": "Alignment-\u003eInt-\u003eIO(AlignedForeignPtr a)",
-        "package": "aligned-foreignptr",
-        "partial": "Aligned Foreign Ptr Bytes",
-        "signature": "Alignment-\u003eInt-\u003eIO(AlignedForeignPtr a)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aligned-foreignptr/docs/Foreign-ForeignPtr-Aligned.html#v:touchAlignedForeignPtr",
-      "description": {
-        "fct-module": "Foreign.ForeignPtr.Aligned",
-        "fct-package": "aligned-foreignptr",
-        "fct-signature": "AlignedForeignPtr a -\u003e IO ()",
-        "fct-source": "src/Foreign-ForeignPtr-Aligned.html#touchAlignedForeignPtr",
-        "fct-type": "function",
-        "title": "touchAlignedForeignPtr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Foreign ForeignPtr Aligned",
-        "module": "Foreign.ForeignPtr.Aligned",
-        "name": "touchAlignedForeignPtr",
-        "normalized": "AlignedForeignPtr a-\u003eIO()",
-        "package": "aligned-foreignptr",
-        "partial": "Aligned Foreign Ptr",
-        "signature": "AlignedForeignPtr a-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aligned-foreignptr/docs/Foreign-ForeignPtr-Aligned.html#v:withAlignedForeignPtr",
-      "description": {
-        "fct-module": "Foreign.ForeignPtr.Aligned",
-        "fct-package": "aligned-foreignptr",
-        "fct-signature": "AlignedForeignPtr a -\u003e (Ptr a -\u003e IO b) -\u003e IO b",
-        "fct-source": "src/Foreign-ForeignPtr-Aligned.html#withAlignedForeignPtr",
-        "fct-type": "function",
-        "title": "withAlignedForeignPtr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Foreign ForeignPtr Aligned",
-        "module": "Foreign.ForeignPtr.Aligned",
-        "name": "withAlignedForeignPtr",
-        "normalized": "AlignedForeignPtr a-\u003e(Ptr a-\u003eIO b)-\u003eIO b",
-        "package": "aligned-foreignptr",
-        "partial": "Aligned Foreign Ptr",
-        "signature": "AlignedForeignPtr a-\u003e(Ptr a-\u003eIO b)-\u003eIO b"
-      }
-    }
-  }
+  ]
 ]

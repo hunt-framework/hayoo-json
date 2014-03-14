@@ -1,26 +1,39 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/vector-binary/docs/Data-Vector-Binary.html#",
-      "description": {
-        "fct-module": "Data.Vector.Binary",
-        "fct-package": "vector-binary",
-        "fct-signature": "module",
-        "fct-source": "src/Data-Vector-Binary.html",
-        "fct-type": "module",
-        "title": "Binary"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "vector-binary"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Data Vector Binary",
-        "module": "Data.Vector.Binary",
-        "name": "Binary",
-        "normalized": "",
-        "package": "vector-binary",
-        "partial": "Binary",
-        "signature": ""
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.Vector.Binary",
+          "name": "Binary",
+          "package": "vector-binary",
+          "source": "src/Data-Vector-Binary.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Data Vector Binary",
+          "module": "Data.Vector.Binary",
+          "name": "Binary",
+          "package": "vector-binary",
+          "partial": "Binary",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/vector-binary/docs/Data-Vector-Binary.html#"
       }
     }
-  }
+  ]
 ]

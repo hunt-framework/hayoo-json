@@ -1,247 +1,237 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hTalos/docs/Bio-Talos-PhiPsi.html#",
-      "description": {
-        "fct-module": "Bio.Talos.PhiPsi",
-        "fct-package": "hTalos",
-        "fct-signature": "module",
-        "fct-source": "src/Bio-Talos-PhiPsi.html",
-        "fct-type": "module",
-        "title": "PhiPsi"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "hTalos"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Bio Talos PhiPsi",
-        "module": "Bio.Talos.PhiPsi",
-        "name": "PhiPsi",
-        "normalized": "",
-        "package": "hTalos",
-        "partial": "Phi Psi",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hTalos/docs/Bio-Talos-PhiPsi.html#t:PhiPsi",
-      "description": {
-        "fct-module": "Bio.Talos.PhiPsi",
-        "fct-package": "hTalos",
-        "fct-signature": "data",
-        "fct-source": "src/Bio-Talos-PhiPsi.html#PhiPsi",
-        "fct-type": "data",
-        "title": "PhiPsi"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Bio Talos PhiPsi",
-        "module": "Bio.Talos.PhiPsi",
-        "name": "PhiPsi",
-        "normalized": "",
-        "package": "hTalos",
-        "partial": "Phi Psi",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Bio.Talos.PhiPsi",
+          "name": "PhiPsi",
+          "package": "hTalos",
+          "source": "src/Bio-Talos-PhiPsi.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Bio Talos PhiPsi",
+          "module": "Bio.Talos.PhiPsi",
+          "name": "PhiPsi",
+          "package": "hTalos",
+          "partial": "Phi Psi",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/hTalos/docs/Bio-Talos-PhiPsi.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Bio.Talos.PhiPsi",
+          "name": "PhiPsi",
+          "package": "hTalos",
+          "source": "src/Bio-Talos-PhiPsi.html#PhiPsi",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Bio Talos PhiPsi",
+          "module": "Bio.Talos.PhiPsi",
+          "name": "PhiPsi",
+          "package": "hTalos",
+          "partial": "Phi Psi",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/hTalos/docs/Bio-Talos-PhiPsi.html#t:PhiPsi"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Bio.Talos.PhiPsi",
+          "name": "PhiPsi",
+          "package": "hTalos",
+          "signature": "PhiPsi",
+          "source": "src/Bio-Talos-PhiPsi.html#PhiPsi",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Bio Talos PhiPsi",
+          "module": "Bio.Talos.PhiPsi",
+          "name": "PhiPsi",
+          "package": "hTalos",
+          "partial": "Phi Psi",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hTalos/docs/Bio-Talos-PhiPsi.html#v:PhiPsi"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Bio.Talos.PhiPsi",
+          "name": "parsePhiPsi",
+          "package": "hTalos",
+          "signature": "ByteString -\u003e ByteString -\u003e ([PhiPsi], [String])",
+          "source": "src/Bio-Talos-PhiPsi.html#parsePhiPsi",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Bio Talos PhiPsi",
+          "module": "Bio.Talos.PhiPsi",
+          "name": "parsePhiPsi",
+          "normalized": "ByteString-\u003eByteString-\u003e([PhiPsi],[String])",
+          "package": "hTalos",
+          "partial": "Phi Psi",
+          "signature": "ByteString-\u003eByteString-\u003e([PhiPsi],[String])",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hTalos/docs/Bio-Talos-PhiPsi.html#v:parsePhiPsi"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Bio.Talos.PhiPsi",
+          "name": "parsePhiPsiFile",
+          "package": "hTalos",
+          "signature": "String -\u003e IO ([PhiPsi], [String])",
+          "source": "src/Bio-Talos-PhiPsi.html#parsePhiPsiFile",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Bio Talos PhiPsi",
+          "module": "Bio.Talos.PhiPsi",
+          "name": "parsePhiPsiFile",
+          "normalized": "String-\u003eIO([PhiPsi],[String])",
+          "package": "hTalos",
+          "partial": "Phi Psi File",
+          "signature": "String-\u003eIO([PhiPsi],[String])",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hTalos/docs/Bio-Talos-PhiPsi.html#v:parsePhiPsiFile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Bio.Talos.PhiPsi",
+          "name": "phi",
+          "package": "hTalos",
+          "signature": "Double",
+          "source": "src/Bio-Talos-PhiPsi.html#PhiPsi",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Bio Talos PhiPsi",
+          "module": "Bio.Talos.PhiPsi",
+          "name": "phi",
+          "package": "hTalos",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hTalos/docs/Bio-Talos-PhiPsi.html#v:phi"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Bio.Talos.PhiPsi",
+          "name": "psi",
+          "package": "hTalos",
+          "signature": "Double",
+          "source": "src/Bio-Talos-PhiPsi.html#PhiPsi",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Bio Talos PhiPsi",
+          "module": "Bio.Talos.PhiPsi",
+          "name": "psi",
+          "package": "hTalos",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hTalos/docs/Bio-Talos-PhiPsi.html#v:psi"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Bio.Talos.PhiPsi",
+          "name": "resId",
+          "package": "hTalos",
+          "signature": "Int",
+          "source": "src/Bio-Talos-PhiPsi.html#PhiPsi",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Bio Talos PhiPsi",
+          "module": "Bio.Talos.PhiPsi",
+          "name": "resId",
+          "package": "hTalos",
+          "partial": "Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hTalos/docs/Bio-Talos-PhiPsi.html#v:resId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Bio.Talos.PhiPsi",
+          "name": "resName",
+          "package": "hTalos",
+          "signature": "ByteString",
+          "source": "src/Bio-Talos-PhiPsi.html#PhiPsi",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Bio Talos PhiPsi",
+          "module": "Bio.Talos.PhiPsi",
+          "name": "resName",
+          "package": "hTalos",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hTalos/docs/Bio-Talos-PhiPsi.html#v:resName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Bio.Talos.PhiPsi",
+          "name": "ss",
+          "package": "hTalos",
+          "signature": "SS",
+          "source": "src/Bio-Talos-PhiPsi.html#PhiPsi",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Bio Talos PhiPsi",
+          "module": "Bio.Talos.PhiPsi",
+          "name": "ss",
+          "package": "hTalos",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hTalos/docs/Bio-Talos-PhiPsi.html#v:ss"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hTalos/docs/Bio-Talos-PhiPsi.html#v:PhiPsi",
-      "description": {
-        "fct-module": "Bio.Talos.PhiPsi",
-        "fct-package": "hTalos",
-        "fct-signature": "PhiPsi",
-        "fct-source": "src/Bio-Talos-PhiPsi.html#PhiPsi",
-        "fct-type": "function",
-        "title": "PhiPsi"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Bio Talos PhiPsi",
-        "module": "Bio.Talos.PhiPsi",
-        "name": "PhiPsi",
-        "normalized": "",
-        "package": "hTalos",
-        "partial": "Phi Psi",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hTalos/docs/Bio-Talos-PhiPsi.html#v:parsePhiPsi",
-      "description": {
-        "fct-module": "Bio.Talos.PhiPsi",
-        "fct-package": "hTalos",
-        "fct-signature": "ByteString -\u003e ByteString -\u003e ([PhiPsi], [String])",
-        "fct-source": "src/Bio-Talos-PhiPsi.html#parsePhiPsi",
-        "fct-type": "function",
-        "title": "parsePhiPsi"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Bio Talos PhiPsi",
-        "module": "Bio.Talos.PhiPsi",
-        "name": "parsePhiPsi",
-        "normalized": "ByteString-\u003eByteString-\u003e([PhiPsi],[String])",
-        "package": "hTalos",
-        "partial": "Phi Psi",
-        "signature": "ByteString-\u003eByteString-\u003e([PhiPsi],[String])"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hTalos/docs/Bio-Talos-PhiPsi.html#v:parsePhiPsiFile",
-      "description": {
-        "fct-module": "Bio.Talos.PhiPsi",
-        "fct-package": "hTalos",
-        "fct-signature": "String -\u003e IO ([PhiPsi], [String])",
-        "fct-source": "src/Bio-Talos-PhiPsi.html#parsePhiPsiFile",
-        "fct-type": "function",
-        "title": "parsePhiPsiFile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Bio Talos PhiPsi",
-        "module": "Bio.Talos.PhiPsi",
-        "name": "parsePhiPsiFile",
-        "normalized": "String-\u003eIO([PhiPsi],[String])",
-        "package": "hTalos",
-        "partial": "Phi Psi File",
-        "signature": "String-\u003eIO([PhiPsi],[String])"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hTalos/docs/Bio-Talos-PhiPsi.html#v:phi",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Bio.Talos.PhiPsi",
-        "fct-package": "hTalos",
-        "fct-signature": "Double",
-        "fct-source": "src/Bio-Talos-PhiPsi.html#PhiPsi",
-        "fct-type": "function",
-        "title": "phi"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Bio Talos PhiPsi",
-        "module": "Bio.Talos.PhiPsi",
-        "name": "phi",
-        "normalized": "",
-        "package": "hTalos",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hTalos/docs/Bio-Talos-PhiPsi.html#v:psi",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Bio.Talos.PhiPsi",
-        "fct-package": "hTalos",
-        "fct-signature": "Double",
-        "fct-source": "src/Bio-Talos-PhiPsi.html#PhiPsi",
-        "fct-type": "function",
-        "title": "psi"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Bio Talos PhiPsi",
-        "module": "Bio.Talos.PhiPsi",
-        "name": "psi",
-        "normalized": "",
-        "package": "hTalos",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hTalos/docs/Bio-Talos-PhiPsi.html#v:resId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Bio.Talos.PhiPsi",
-        "fct-package": "hTalos",
-        "fct-signature": "Int",
-        "fct-source": "src/Bio-Talos-PhiPsi.html#PhiPsi",
-        "fct-type": "function",
-        "title": "resId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Bio Talos PhiPsi",
-        "module": "Bio.Talos.PhiPsi",
-        "name": "resId",
-        "normalized": "",
-        "package": "hTalos",
-        "partial": "Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hTalos/docs/Bio-Talos-PhiPsi.html#v:resName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Bio.Talos.PhiPsi",
-        "fct-package": "hTalos",
-        "fct-signature": "ByteString",
-        "fct-source": "src/Bio-Talos-PhiPsi.html#PhiPsi",
-        "fct-type": "function",
-        "title": "resName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Bio Talos PhiPsi",
-        "module": "Bio.Talos.PhiPsi",
-        "name": "resName",
-        "normalized": "",
-        "package": "hTalos",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hTalos/docs/Bio-Talos-PhiPsi.html#v:ss",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Bio.Talos.PhiPsi",
-        "fct-package": "hTalos",
-        "fct-signature": "SS",
-        "fct-source": "src/Bio-Talos-PhiPsi.html#PhiPsi",
-        "fct-type": "function",
-        "title": "ss"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Bio Talos PhiPsi",
-        "module": "Bio.Talos.PhiPsi",
-        "name": "ss",
-        "normalized": "",
-        "package": "hTalos",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

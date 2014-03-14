@@ -1,5305 +1,5001 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC-Version.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eGet current version of UUAGC\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "UU.UUAGC.Version",
-        "fct-package": "uuagc",
-        "fct-signature": "module",
-        "fct-source": "src/UU-UUAGC-Version.html",
-        "fct-type": "module",
-        "title": "Version"
-      },
-      "index": {
-        "description": "Get current version of UUAGC",
-        "hierarchy": "UU UUAGC Version",
-        "module": "UU.UUAGC.Version",
-        "name": "Version",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Version",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC-Version.html#v:version",
-      "description": {
-        "fct-module": "UU.UUAGC.Version",
-        "fct-package": "uuagc",
-        "fct-signature": "Version",
-        "fct-source": "src/Paths_uuagc.html#version",
-        "fct-type": "function",
-        "title": "version"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC Version",
-        "module": "UU.UUAGC.Version",
-        "name": "version",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "module",
-        "fct-source": "src/UU-UUAGC.html",
-        "fct-type": "module",
-        "title": "UUAGC"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "UUAGC",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "UUAGC",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#t:Identifier",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "data",
-        "fct-source": "src/Options.html#Identifier",
-        "fct-type": "data",
-        "title": "Identifier"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "Identifier",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Identifier",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#t:ModuleHeader",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "data",
-        "fct-source": "src/Options.html#ModuleHeader",
-        "fct-type": "data",
-        "title": "ModuleHeader"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "ModuleHeader",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Module Header",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#t:MyOptDescr",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "data",
-        "fct-source": "src/Options.html#MyOptDescr",
-        "fct-type": "data",
-        "title": "MyOptDescr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "MyOptDescr",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "My Opt Descr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#t:NontermIdent",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "type",
-        "fct-source": "src/Options.html#NontermIdent",
-        "fct-type": "type",
-        "title": "NontermIdent"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "NontermIdent",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Nonterm Ident",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#t:Options",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "data",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "data",
-        "title": "Options"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "Options",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Options",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:Default",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Default",
-        "fct-source": "src/Options.html#ModuleHeader",
-        "fct-type": "function",
-        "title": "Default"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "Default",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Default",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:Ident",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Ident",
-        "fct-source": "src/Options.html#Identifier",
-        "fct-type": "function",
-        "title": "Ident"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "Ident",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Ident",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:MyOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "MyOpt [Char] [String] (ArgDescr (Options -\u003e Options)) (Options -\u003e String -\u003e [String]) String",
-        "fct-source": "src/Options.html#MyOptDescr",
-        "fct-type": "function",
-        "title": "MyOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "MyOpt",
-        "normalized": "MyOpt[Char][String](ArgDescr(Options-\u003eOptions))(Options-\u003eString-\u003e[String])String",
-        "package": "uuagc",
-        "partial": "My Opt",
-        "signature": "MyOpt[Char][String](ArgDescr(Options-\u003eOptions))(Options-\u003eString-\u003e[String])String"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:Name",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Name String",
-        "fct-source": "src/Options.html#ModuleHeader",
-        "fct-type": "function",
-        "title": "Name"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "Name",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:NoName",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "NoName",
-        "fct-source": "src/Options.html#ModuleHeader",
-        "fct-type": "function",
-        "title": "NoName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "NoName",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "No Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:Options",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "Options"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "Options",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Options",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:aggressiveInlinePragmas",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "aggressiveInlinePragmas"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "aggressiveInlinePragmas",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Inline Pragmas",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:aggressiveInlinePragmasOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#aggressiveInlinePragmasOpt",
-        "fct-type": "function",
-        "title": "aggressiveInlinePragmasOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "aggressiveInlinePragmasOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Inline Pragmas Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:allOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#allOpt",
-        "fct-type": "function",
-        "title": "allOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "allOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:allOptions",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "[MyOptDescr]",
-        "fct-source": "src/Options.html#allOptions",
-        "fct-type": "function",
-        "title": "allOptions"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "allOptions",
-        "normalized": "[MyOptDescr]",
-        "package": "uuagc",
-        "partial": "Options",
-        "signature": "[MyOptDescr]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:allc",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "String",
-        "fct-source": "src/Options.html#allc",
-        "fct-type": "function",
-        "title": "allc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "allc",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:allowSepSemMods",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "allowSepSemMods"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "allowSepSemMods",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Sep Sem Mods",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:attrInfo",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "attrInfo"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "attrInfo",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Info",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:bangpats",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "bangpats"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "bangpats",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:bangpatsOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#bangpatsOpt",
-        "fct-type": "function",
-        "title": "bangpatsOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "bangpatsOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:beQuiet",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "beQuiet"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "beQuiet",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Quiet",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:beQuietOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#beQuietOpt",
-        "fct-type": "function",
-        "title": "beQuietOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "beQuietOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Quiet Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:boolOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "(Options -\u003e Bool) -\u003e Options -\u003e String -\u003e [String]",
-        "fct-source": "src/Options.html#boolOpt",
-        "fct-type": "function",
-        "title": "boolOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "boolOpt",
-        "normalized": "(Options-\u003eBool)-\u003eOptions-\u003eString-\u003e[String]",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "(Options-\u003eBool)-\u003eOptions-\u003eString-\u003e[String]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:breadthFirst",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "breadthFirst"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "breadthFirst",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "First",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:breadthFirstStrict",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "breadthFirstStrict"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "breadthFirstStrict",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "First Strict",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:breadthfirstOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#breadthfirstOpt",
-        "fct-type": "function",
-        "title": "breadthfirstOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "breadthfirstOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:breadthfirstStrictOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#breadthfirstStrictOpt",
-        "fct-type": "function",
-        "title": "breadthfirstStrictOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "breadthfirstStrictOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Strict Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:cases",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "cases"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "cases",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:casesOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#casesOpt",
-        "fct-type": "function",
-        "title": "casesOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "casesOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:cataOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#cataOpt",
-        "fct-type": "function",
-        "title": "cataOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "cataOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:checkParseBlock",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "checkParseBlock"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "checkParseBlock",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Parse Block",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:checkParseRhs",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "checkParseRhs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "checkParseRhs",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Parse Rhs",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:checkParseTy",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "checkParseTy"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "checkParseTy",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Parse Ty",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:clean",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "clean"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "clean",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:cleanOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#cleanOpt",
-        "fct-type": "function",
-        "title": "cleanOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "cleanOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:combineOptions",
-      "description": {
-        "fct-descr": "\u003cp\u003eCombine 2 sets of options\n\u003c/p\u003e",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options -\u003e Options",
-        "fct-source": "src/Options.html#combineOptions",
-        "fct-type": "function",
-        "title": "combineOptions"
-      },
-      "index": {
-        "description": "Combine sets of options",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "combineOptions",
-        "normalized": "Options-\u003eOptions-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Options",
-        "signature": "Options-\u003eOptions-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:compile",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e FilePath -\u003e FilePath -\u003e IO ()",
-        "fct-source": "src/Ag.html#compile",
-        "fct-type": "function",
-        "title": "compile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "compile",
-        "normalized": "Options-\u003eFilePath-\u003eFilePath-\u003eIO()",
-        "package": "uuagc",
-        "partial": "",
-        "signature": "Options-\u003eFilePath-\u003eFilePath-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:condDisableOptimizations",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#condDisableOptimizations",
-        "fct-type": "function",
-        "title": "condDisableOptimizations"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "condDisableOptimizations",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Disable Optimizations",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:constructOptions",
-      "description": {
-        "fct-descr": "\u003cp\u003eUse all parsed options to generate real options\n\u003c/p\u003e",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "[Options -\u003e Options] -\u003e Options",
-        "fct-source": "src/Options.html#constructOptions",
-        "fct-type": "function",
-        "title": "constructOptions"
-      },
-      "index": {
-        "description": "Use all parsed options to generate real options",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "constructOptions",
-        "normalized": "[Options-\u003eOptions]-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Options",
-        "signature": "[Options-\u003eOptions]-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:cycleOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#cycleOpt",
-        "fct-type": "function",
-        "title": "cycleOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "cycleOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:dataOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#dataOpt",
-        "fct-type": "function",
-        "title": "dataOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "dataOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:dataRecOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#dataRecOpt",
-        "fct-type": "function",
-        "title": "dataRecOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "dataRecOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Rec Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:dataRecords",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "dataRecords"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "dataRecords",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Records",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:dataTypes",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "dataTypes"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "dataTypes",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Types",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:doubleColons",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "doubleColons"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "doubleColons",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Colons",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:doubleColonsOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#doubleColonsOpt",
-        "fct-type": "function",
-        "title": "doubleColonsOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "doubleColonsOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Colons Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:dummyTokenVisit",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "dummyTokenVisit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "dummyTokenVisit",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Token Visit",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:dummyTokenVisitOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#dummyTokenVisitOpt",
-        "fct-type": "function",
-        "title": "dummyTokenVisitOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "dummyTokenVisitOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Token Visit Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:dumpcgrammar",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "dumpcgrammar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "dumpcgrammar",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:dumpcgrammarOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#dumpcgrammarOpt",
-        "fct-type": "function",
-        "title": "dumpcgrammarOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "dumpcgrammarOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:dumpgrammar",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "dumpgrammar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "dumpgrammar",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:dumpgrammarOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#dumpgrammarOpt",
-        "fct-type": "function",
-        "title": "dumpgrammarOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "dumpgrammarOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:extends",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Maybe String",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "extends"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "extends",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:extendsOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "String -\u003e Options -\u003e Options",
-        "fct-source": "src/Options.html#extendsOpt",
-        "fct-type": "function",
-        "title": "extendsOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "extendsOpt",
-        "normalized": "String-\u003eOptions-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "String-\u003eOptions-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:failWithCode",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Int -\u003e IO ()",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "failWithCode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "failWithCode",
-        "normalized": "Int-\u003eIO()",
-        "package": "uuagc",
-        "partial": "With Code",
-        "signature": "Int-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:folds",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "folds"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "folds",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:forceIrrefutableOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Maybe String -\u003e Options -\u003e Options",
-        "fct-source": "src/Options.html#forceIrrefutableOpt",
-        "fct-type": "function",
-        "title": "forceIrrefutableOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "forceIrrefutableOpt",
-        "normalized": "Maybe String-\u003eOptions-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Irrefutable Opt",
-        "signature": "Maybe String-\u003eOptions-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:forceIrrefutables",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Maybe String",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "forceIrrefutables"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "forceIrrefutables",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Irrefutables",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:fromMyOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "MyOptDescr -\u003e OptDescr (Options -\u003e Options)",
-        "fct-source": "src/Options.html#fromMyOpt",
-        "fct-type": "function",
-        "title": "fromMyOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "fromMyOpt",
-        "normalized": "MyOptDescr-\u003eOptDescr(Options-\u003eOptions)",
-        "package": "uuagc",
-        "partial": "My Opt",
-        "signature": "MyOptDescr-\u003eOptDescr(Options-\u003eOptions)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genAspectAG",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "genAspectAG"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "genAspectAG",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Aspect AG",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genAspectAGOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#genAspectAGOpt",
-        "fct-type": "function",
-        "title": "genAspectAGOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "genAspectAGOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Aspect AGOpt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genAttrListOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#genAttrListOpt",
-        "fct-type": "function",
-        "title": "genAttrListOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "genAttrListOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Attr List Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genAttributeList",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "genAttributeList"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "genAttributeList",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Attribute List",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genCostCentres",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "genCostCentres"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "genCostCentres",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Cost Centres",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genCostCentresOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#genCostCentresOpt",
-        "fct-type": "function",
-        "title": "genCostCentresOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "genCostCentresOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Cost Centres Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genFileDeps",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "genFileDeps"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "genFileDeps",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "File Deps",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genFileDepsOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#genFileDepsOpt",
-        "fct-type": "function",
-        "title": "genFileDepsOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "genFileDepsOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "File Deps Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genLinePragmas",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "genLinePragmas"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "genLinePragmas",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Line Pragmas",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genLinePragmasOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#genLinePragmasOpt",
-        "fct-type": "function",
-        "title": "genLinePragmasOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "genLinePragmasOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Line Pragmas Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genTraces",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "genTraces"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "genTraces",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Traces",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genTracesOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#genTracesOpt",
-        "fct-type": "function",
-        "title": "genTracesOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "genTracesOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Traces Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genUseTraces",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "genUseTraces"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "genUseTraces",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Use Traces",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genUseTracesOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#genUseTracesOpt",
-        "fct-type": "function",
-        "title": "genUseTracesOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "genUseTracesOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Use Traces Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genVisageOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#genVisageOpt",
-        "fct-type": "function",
-        "title": "genVisageOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "genVisageOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Visage Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genvisage",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "genvisage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "genvisage",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:getName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "String",
-        "fct-source": "src/Options.html#Identifier",
-        "fct-type": "function",
-        "title": "getName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "getName",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:getOptions",
-      "description": {
-        "fct-descr": "\u003cp\u003eCreate Options type from string arguments\n\u003c/p\u003e",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "[String] -\u003e (Options, [String], [String])",
-        "fct-source": "src/Options.html#getOptions",
-        "fct-type": "function",
-        "title": "getOptions"
-      },
-      "index": {
-        "description": "Create Options type from string arguments",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "getOptions",
-        "normalized": "[String]-\u003e(Options,[String],[String])",
-        "package": "uuagc",
-        "partial": "Options",
-        "signature": "[String]-\u003e(Options,[String],[String])"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:getPos",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Pos",
-        "fct-source": "src/Options.html#Identifier",
-        "fct-type": "function",
-        "title": "getPos"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "getPos",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Pos",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:haskellSyntaxOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#haskellSyntaxOpt",
-        "fct-type": "function",
-        "title": "haskellSyntaxOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "haskellSyntaxOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Syntax Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:helpInlining",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "helpInlining"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "helpInlining",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Inlining",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:helpInliningOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#helpInliningOpt",
-        "fct-type": "function",
-        "title": "helpInliningOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "helpInliningOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Inlining Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:helpOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#helpOpt",
-        "fct-type": "function",
-        "title": "helpOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "helpOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:identifier",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "String -\u003e Identifier",
-        "fct-source": "src/Options.html#identifier",
-        "fct-type": "function",
-        "title": "identifier"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "identifier",
-        "normalized": "String-\u003eIdentifier",
-        "package": "uuagc",
-        "partial": "",
-        "signature": "String-\u003eIdentifier"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:kennedyWarren",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "kennedyWarren"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "kennedyWarren",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Warren",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:kennedyWarrenOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#kennedyWarrenOpt",
-        "fct-type": "function",
-        "title": "kennedyWarrenOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "kennedyWarrenOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Warren Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:lateHigherOrderBinding",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "lateHigherOrderBinding"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "lateHigherOrderBinding",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Higher Order Binding",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:lateHigherOrderBindingOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#lateHigherOrderBindingOpt",
-        "fct-type": "function",
-        "title": "lateHigherOrderBindingOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "lateHigherOrderBindingOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Higher Order Binding Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:lcKeywords",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "lcKeywords"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "lcKeywords",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Keywords",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:lcKeywordsOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#lcKeywordsOpt",
-        "fct-type": "function",
-        "title": "lcKeywordsOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "lcKeywordsOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Keywords Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:localCps",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "localCps"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "localCps",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Cps",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:localCpsOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#localCpsOpt",
-        "fct-type": "function",
-        "title": "localCpsOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "localCpsOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Cps Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:mainFilename",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Maybe String",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "mainFilename"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "mainFilename",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Filename",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:mbStringOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "(Options -\u003e Maybe String) -\u003e Options -\u003e String -\u003e [String]",
-        "fct-source": "src/Options.html#mbStringOpt",
-        "fct-type": "function",
-        "title": "mbStringOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "mbStringOpt",
-        "normalized": "(Options-\u003eMaybe String)-\u003eOptions-\u003eString-\u003e[String]",
-        "package": "uuagc",
-        "partial": "String Opt",
-        "signature": "(Options-\u003eMaybe String)-\u003eOptions-\u003eString-\u003e[String]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:modcopy",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "modcopy"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "modcopy",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:modcopyOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#modcopyOpt",
-        "fct-type": "function",
-        "title": "modcopyOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "modcopyOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:moduleName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "ModuleHeader",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "moduleName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "moduleName",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:moduleOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Maybe String -\u003e Options -\u003e Options",
-        "fct-source": "src/Options.html#moduleOpt",
-        "fct-type": "function",
-        "title": "moduleOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "moduleOpt",
-        "normalized": "Maybe String-\u003eOptions-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Maybe String-\u003eOptions-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:moduleOptGet",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e String -\u003e [String]",
-        "fct-source": "src/Options.html#moduleOptGet",
-        "fct-type": "function",
-        "title": "moduleOptGet"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "moduleOptGet",
-        "normalized": "Options-\u003eString-\u003e[String]",
-        "package": "uuagc",
-        "partial": "Opt Get",
-        "signature": "Options-\u003eString-\u003e[String]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:monadic",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "monadic"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "monadic",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:monadicOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#monadicOpt",
-        "fct-type": "function",
-        "title": "monadicOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "monadicOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:monadicWrappers",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "monadicWrappers"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "monadicWrappers",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Wrappers",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:monadicWrappersOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#monadicWrappersOpt",
-        "fct-type": "function",
-        "title": "monadicWrappersOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "monadicWrappersOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Wrappers Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:nest",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "nest"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "nest",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:nestOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#nestOpt",
-        "fct-type": "function",
-        "title": "nestOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "nestOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:newtypes",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "newtypes"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "newtypes",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:newtypesOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#newtypesOpt",
-        "fct-type": "function",
-        "title": "newtypesOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "newtypesOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noEagerBlackholing",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "noEagerBlackholing"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "noEagerBlackholing",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Eager Blackholing",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noEagerBlackholingOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#noEagerBlackholingOpt",
-        "fct-type": "function",
-        "title": "noEagerBlackholingOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "noEagerBlackholingOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Eager Blackholing Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noGroup",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "[String]",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "noGroup"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "noGroup",
-        "normalized": "[String]",
-        "package": "uuagc",
-        "partial": "Group",
-        "signature": "[String]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noGroupOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "String -\u003e Options -\u003e Options",
-        "fct-source": "src/Options.html#noGroupOpt",
-        "fct-type": "function",
-        "title": "noGroupOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "noGroupOpt",
-        "normalized": "String-\u003eOptions-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Group Opt",
-        "signature": "String-\u003eOptions-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noGroupOptGet",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e String -\u003e [String]",
-        "fct-source": "src/Options.html#noGroupOptGet",
-        "fct-type": "function",
-        "title": "noGroupOptGet"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "noGroupOptGet",
-        "normalized": "Options-\u003eString-\u003e[String]",
-        "package": "uuagc",
-        "partial": "Group Opt Get",
-        "signature": "Options-\u003eString-\u003e[String]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noIncludes",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "noIncludes"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "noIncludes",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Includes",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noIncludesOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#noIncludesOpt",
-        "fct-type": "function",
-        "title": "noIncludesOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "noIncludesOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Includes Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noInlinePragmas",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "noInlinePragmas"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "noInlinePragmas",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Inline Pragmas",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noInlinePragmasOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#noInlinePragmasOpt",
-        "fct-type": "function",
-        "title": "noInlinePragmasOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "noInlinePragmasOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Inline Pragmas Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e String -\u003e [String]",
-        "fct-source": "src/Options.html#noOpt",
-        "fct-type": "function",
-        "title": "noOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "noOpt",
-        "normalized": "Options-\u003eString-\u003e[String]",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eString-\u003e[String]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noOptimizations",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "noOptimizations"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "noOptimizations",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Optimizations",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noOptimizeOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#noOptimizeOpt",
-        "fct-type": "function",
-        "title": "noOptimizeOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "noOptimizeOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Optimize Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noOptions",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options",
-        "fct-source": "src/Options.html#noOptions",
-        "fct-type": "function",
-        "title": "noOptions"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "noOptions",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Options",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noPerRuleCostCentres",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "noPerRuleCostCentres"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "noPerRuleCostCentres",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Per Rule Cost Centres",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noPerRuleCostCentresOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#noPerRuleCostCentresOpt",
-        "fct-type": "function",
-        "title": "noPerRuleCostCentresOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "noPerRuleCostCentresOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Per Rule Cost Centres Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noPerRuleTypeSigs",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "noPerRuleTypeSigs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "noPerRuleTypeSigs",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Per Rule Type Sigs",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noPerRuleTypeSigsOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#noPerRuleTypeSigsOpt",
-        "fct-type": "function",
-        "title": "noPerRuleTypeSigsOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "noPerRuleTypeSigsOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Per Rule Type Sigs Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noPerStateTypeSigs",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "noPerStateTypeSigs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "noPerStateTypeSigs",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Per State Type Sigs",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noPerStateTypeSigsOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#noPerStateTypeSigsOpt",
-        "fct-type": "function",
-        "title": "noPerStateTypeSigsOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "noPerStateTypeSigsOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Per State Type Sigs Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noPerVisitCostCentres",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "noPerVisitCostCentres"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "noPerVisitCostCentres",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Per Visit Cost Centres",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noPerVisitCostCentresOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#noPerVisitCostCentresOpt",
-        "fct-type": "function",
-        "title": "noPerVisitCostCentresOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "noPerVisitCostCentresOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Per Visit Cost Centres Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:nocatas",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Set NontermIdent",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "nocatas"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "nocatas",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:nocatasOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "String -\u003e Options -\u003e Options",
-        "fct-source": "src/Options.html#nocatasOpt",
-        "fct-type": "function",
-        "title": "nocatasOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "nocatasOpt",
-        "normalized": "String-\u003eOptions-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "String-\u003eOptions-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:nocatasOptGet",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e String -\u003e [String]",
-        "fct-source": "src/Options.html#nocatasOptGet",
-        "fct-type": "function",
-        "title": "nocatasOptGet"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "nocatasOptGet",
-        "normalized": "Options-\u003eString-\u003e[String]",
-        "package": "uuagc",
-        "partial": "Opt Get",
-        "signature": "Options-\u003eString-\u003e[String]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:ocaml",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "ocaml"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "ocaml",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:ocamlOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#ocamlOpt",
-        "fct-type": "function",
-        "title": "ocamlOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "ocamlOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:optimizeOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#optimizeOpt",
-        "fct-type": "function",
-        "title": "optimizeOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "optimizeOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:options",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "[OptDescr (Options -\u003e Options)]",
-        "fct-source": "src/Options.html#options",
-        "fct-type": "function",
-        "title": "options"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "options",
-        "normalized": "[OptDescr(Options-\u003eOptions)]",
-        "package": "uuagc",
-        "partial": "",
-        "signature": "[OptDescr(Options-\u003eOptions)]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:optionsToString",
-      "description": {
-        "fct-descr": "\u003cp\u003eConvert options back to commandline string\n\u003c/p\u003e",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e [String]",
-        "fct-source": "src/Options.html#optionsToString",
-        "fct-type": "function",
-        "title": "optionsToString"
-      },
-      "index": {
-        "description": "Convert options back to commandline string",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "optionsToString",
-        "normalized": "Options-\u003e[String]",
-        "package": "uuagc",
-        "partial": "To String",
-        "signature": "Options-\u003e[String]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:outputFiles",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "[String]",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "outputFiles"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "outputFiles",
-        "normalized": "[String]",
-        "package": "uuagc",
-        "partial": "Files",
-        "signature": "[String]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:outputOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "String -\u003e Options -\u003e Options",
-        "fct-source": "src/Options.html#outputOpt",
-        "fct-type": "function",
-        "title": "outputOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "outputOpt",
-        "normalized": "String-\u003eOptions-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "String-\u003eOptions-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:outputOptGet",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e String -\u003e [String]",
-        "fct-source": "src/Options.html#outputOptGet",
-        "fct-type": "function",
-        "title": "outputOptGet"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "outputOptGet",
-        "normalized": "Options-\u003eString-\u003e[String]",
-        "package": "uuagc",
-        "partial": "Opt Get",
-        "signature": "Options-\u003eString-\u003e[String]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:outputStr",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "String -\u003e IO ()",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "outputStr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "outputStr",
-        "normalized": "String-\u003eIO()",
-        "package": "uuagc",
-        "partial": "Str",
-        "signature": "String-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:parallelInvoke",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "parallelInvoke"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "parallelInvoke",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Invoke",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:parallelOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#parallelOpt",
-        "fct-type": "function",
-        "title": "parallelOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "parallelOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:parseHsBlockOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#parseHsBlockOpt",
-        "fct-type": "function",
-        "title": "parseHsBlockOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "parseHsBlockOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Hs Block Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:parseHsOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#parseHsOpt",
-        "fct-type": "function",
-        "title": "parseHsOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "parseHsOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Hs Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:parseHsRhsOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#parseHsRhsOpt",
-        "fct-type": "function",
-        "title": "parseHsRhsOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "parseHsRhsOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Hs Rhs Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:parseHsTpOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#parseHsTpOpt",
-        "fct-type": "function",
-        "title": "parseHsTpOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "parseHsTpOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Hs Tp Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:prefix",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "String",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "prefix"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "prefix",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:prefixOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "String -\u003e Options -\u003e Options",
-        "fct-source": "src/Options.html#prefixOpt",
-        "fct-type": "function",
-        "title": "prefixOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "prefixOpt",
-        "normalized": "String-\u003eOptions-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "String-\u003eOptions-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:prettyOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#prettyOpt",
-        "fct-type": "function",
-        "title": "prettyOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "prettyOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:reference",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "reference"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "reference",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:referenceOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#referenceOpt",
-        "fct-type": "function",
-        "title": "referenceOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "referenceOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:rename",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "rename"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "rename",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:renameOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#renameOpt",
-        "fct-type": "function",
-        "title": "renameOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "renameOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:searchPath",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "[String]",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "searchPath"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "searchPath",
-        "normalized": "[String]",
-        "package": "uuagc",
-        "partial": "Path",
-        "signature": "[String]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:searchPathOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "String -\u003e Options -\u003e Options",
-        "fct-source": "src/Options.html#searchPathOpt",
-        "fct-type": "function",
-        "title": "searchPathOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "searchPathOpt",
-        "normalized": "String-\u003eOptions-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Path Opt",
-        "signature": "String-\u003eOptions-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:searchPathOptGet",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e String -\u003e [String]",
-        "fct-source": "src/Options.html#searchPathOptGet",
-        "fct-type": "function",
-        "title": "searchPathOptGet"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "searchPathOptGet",
-        "normalized": "Options-\u003eString-\u003e[String]",
-        "package": "uuagc",
-        "partial": "Path Opt Get",
-        "signature": "Options-\u003eString-\u003e[String]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:selfOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#selfOpt",
-        "fct-type": "function",
-        "title": "selfOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "selfOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:semfuns",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "semfuns"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "semfuns",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:semfunsOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#semfunsOpt",
-        "fct-type": "function",
-        "title": "semfunsOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "semfunsOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:sepSemMods",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "sepSemMods"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "sepSemMods",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Sem Mods",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:sepSemModsOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#sepSemModsOpt",
-        "fct-type": "function",
-        "title": "sepSemModsOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "sepSemModsOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Sem Mods Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:seqOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#seqOpt",
-        "fct-type": "function",
-        "title": "seqOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "seqOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:serializeOption",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e MyOptDescr -\u003e [String]",
-        "fct-source": "src/Options.html#serializeOption",
-        "fct-type": "function",
-        "title": "serializeOption"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "serializeOption",
-        "normalized": "Options-\u003eMyOptDescr-\u003e[String]",
-        "package": "uuagc",
-        "partial": "Option",
-        "signature": "Options-\u003eMyOptDescr-\u003e[String]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:showHelp",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "showHelp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "showHelp",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Help",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:showVersion",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "showVersion"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "showVersion",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Version",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:signaturesOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#signaturesOpt",
-        "fct-type": "function",
-        "title": "signaturesOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "signaturesOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:smacro",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "smacro"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "smacro",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:smacroOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#smacroOpt",
-        "fct-type": "function",
-        "title": "smacroOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "smacroOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:splitSems",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "splitSems"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "splitSems",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Sems",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:splitSemsOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#splitSemsOpt",
-        "fct-type": "function",
-        "title": "splitSemsOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "splitSemsOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Sems Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:stateAsDummyTokenOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#stateAsDummyTokenOpt",
-        "fct-type": "function",
-        "title": "stateAsDummyTokenOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "stateAsDummyTokenOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "As Dummy Token Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:statisticsOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "String -\u003e Options -\u003e Options",
-        "fct-source": "src/Options.html#statisticsOpt",
-        "fct-type": "function",
-        "title": "statisticsOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "statisticsOpt",
-        "normalized": "String-\u003eOptions-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "String-\u003eOptions-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:statsFile",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Maybe String",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "statsFile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "statsFile",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "File",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:strictCases",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "strictCases"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "strictCases",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Cases",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:strictCasesOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#strictCasesOpt",
-        "fct-type": "function",
-        "title": "strictCasesOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "strictCasesOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Cases Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:strictData",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "strictData"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "strictData",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Data",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:strictDataOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#strictDataOpt",
-        "fct-type": "function",
-        "title": "strictDataOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "strictDataOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Data Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:strictDummyToken",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "strictDummyToken"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "strictDummyToken",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Dummy Token",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:strictDummyTokenOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#strictDummyTokenOpt",
-        "fct-type": "function",
-        "title": "strictDummyTokenOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "strictDummyTokenOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Dummy Token Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:strictSemOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#strictSemOpt",
-        "fct-type": "function",
-        "title": "strictSemOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "strictSemOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Sem Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:strictSems",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "strictSems"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "strictSems",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Sems",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:strictWrap",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "strictWrap"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "strictWrap",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Wrap",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:strictWrapOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#strictWrapOpt",
-        "fct-type": "function",
-        "title": "strictWrapOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "strictWrapOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Wrap Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:stricterCases",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "stricterCases"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "stricterCases",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Cases",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:stricterCasesOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#stricterCasesOpt",
-        "fct-type": "function",
-        "title": "stricterCasesOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "stricterCasesOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Cases Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:stringOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "(Options -\u003e String) -\u003e Options -\u003e String -\u003e [String]",
-        "fct-source": "src/Options.html#stringOpt",
-        "fct-type": "function",
-        "title": "stringOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "stringOpt",
-        "normalized": "(Options-\u003eString)-\u003eOptions-\u003eString-\u003e[String]",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "(Options-\u003eString)-\u003eOptions-\u003eString-\u003e[String]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:tupleAsDummyToken",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "tupleAsDummyToken"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "tupleAsDummyToken",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "As Dummy Token",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:tupleAsDummyTokenOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#tupleAsDummyTokenOpt",
-        "fct-type": "function",
-        "title": "tupleAsDummyTokenOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "tupleAsDummyTokenOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "As Dummy Token Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:typeSigs",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "typeSigs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "typeSigs",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Sigs",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:unbox",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "unbox"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "unbox",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:unboxOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#unboxOpt",
-        "fct-type": "function",
-        "title": "unboxOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "unboxOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:uniqueDispenser",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "String",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "uniqueDispenser"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "uniqueDispenser",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Dispenser",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:uniqueDispenserOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "String -\u003e Options -\u003e Options",
-        "fct-source": "src/Options.html#uniqueDispenserOpt",
-        "fct-type": "function",
-        "title": "uniqueDispenserOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "uniqueDispenserOpt",
-        "normalized": "String-\u003eOptions-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Dispenser Opt",
-        "signature": "String-\u003eOptions-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:uuagc",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "[String] -\u003e FilePath -\u003e IO (ExitCode, [FilePath])",
-        "fct-source": "src/UU-UUAGC.html#uuagc",
-        "fct-type": "function",
-        "title": "uuagc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "uuagc",
-        "normalized": "[String]-\u003eFilePath-\u003eIO(ExitCode,[FilePath])",
-        "package": "uuagc",
-        "partial": "",
-        "signature": "[String]-\u003eFilePath-\u003eIO(ExitCode,[FilePath])"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:uuagcMain",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "IO ()",
-        "fct-source": "src/UU-UUAGC.html#uuagcMain",
-        "fct-type": "function",
-        "title": "uuagcMain"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "uuagcMain",
-        "normalized": "IO()",
-        "package": "uuagc",
-        "partial": "Main",
-        "signature": "IO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:verbose",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "verbose"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "verbose",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:verboseOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#verboseOpt",
-        "fct-type": "function",
-        "title": "verboseOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "verboseOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:versionOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#versionOpt",
-        "fct-type": "function",
-        "title": "versionOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "versionOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:visit",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "visit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "visit",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:visitOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#visitOpt",
-        "fct-type": "function",
-        "title": "visitOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "visitOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:visitorsOutput",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "visitorsOutput"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "visitorsOutput",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Output",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:visitorsOutputOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#visitorsOutputOpt",
-        "fct-type": "function",
-        "title": "visitorsOutputOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "visitorsOutputOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Output Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:werrors",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "werrors"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "werrors",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:werrorsOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#werrorsOpt",
-        "fct-type": "function",
-        "title": "werrorsOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "werrorsOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:wignore",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "wignore"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "wignore",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:wignoreOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#wignoreOpt",
-        "fct-type": "function",
-        "title": "wignoreOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "wignoreOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:withCycle",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "withCycle"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "withCycle",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Cycle",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:withSelf",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "withSelf"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "withSelf",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Self",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:withSeq",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "withSeq"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "withSeq",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "Seq",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:wmaxErrsOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "String -\u003e Options -\u003e Options",
-        "fct-source": "src/Options.html#wmaxErrsOpt",
-        "fct-type": "function",
-        "title": "wmaxErrsOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "wmaxErrsOpt",
-        "normalized": "String-\u003eOptions-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Errs Opt",
-        "signature": "String-\u003eOptions-\u003eOptions"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:wmaxErrsOptGet",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e String -\u003e [String]",
-        "fct-source": "src/Options.html#wmaxErrsOptGet",
-        "fct-type": "function",
-        "title": "wmaxErrsOptGet"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "wmaxErrsOptGet",
-        "normalized": "Options-\u003eString-\u003e[String]",
-        "package": "uuagc",
-        "partial": "Errs Opt Get",
-        "signature": "Options-\u003eString-\u003e[String]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:wmaxerrs",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Int",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "wmaxerrs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "wmaxerrs",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:wordsBy",
-      "description": {
-        "fct-descr": "\u003cp\u003eInverse of intercalate\n\u003c/p\u003e",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "(Char -\u003e Bool) -\u003e String -\u003e [String]",
-        "fct-source": "src/Options.html#wordsBy",
-        "fct-type": "function",
-        "title": "wordsBy"
-      },
-      "index": {
-        "description": "Inverse of intercalate",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "wordsBy",
-        "normalized": "(Char-\u003eBool)-\u003eString-\u003e[String]",
-        "package": "uuagc",
-        "partial": "By",
-        "signature": "(Char-\u003eBool)-\u003eString-\u003e[String]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:wrappers",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Bool",
-        "fct-source": "src/Options.html#Options",
-        "fct-type": "function",
-        "title": "wrappers"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "wrappers",
-        "normalized": "",
-        "package": "uuagc",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:wrappersOpt",
-      "description": {
-        "fct-module": "UU.UUAGC",
-        "fct-package": "uuagc",
-        "fct-signature": "Options -\u003e Options",
-        "fct-source": "src/Options.html#wrappersOpt",
-        "fct-type": "function",
-        "title": "wrappersOpt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "UU UUAGC",
-        "module": "UU.UUAGC",
-        "name": "wrappersOpt",
-        "normalized": "Options-\u003eOptions",
-        "package": "uuagc",
-        "partial": "Opt",
-        "signature": "Options-\u003eOptions"
-      }
-    }
-  }
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "uuagc"
+      },
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eGet current version of UUAGC\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "UU.UUAGC.Version",
+          "name": "Version",
+          "package": "uuagc",
+          "source": "src/UU-UUAGC-Version.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "Get current version of UUAGC",
+          "hierarchy": "UU UUAGC Version",
+          "module": "UU.UUAGC.Version",
+          "name": "Version",
+          "package": "uuagc",
+          "partial": "Version",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC-Version.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC.Version",
+          "name": "version",
+          "package": "uuagc",
+          "signature": "Version",
+          "source": "src/Paths_uuagc.html#version",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC Version",
+          "module": "UU.UUAGC.Version",
+          "name": "version",
+          "package": "uuagc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC-Version.html#v:version"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "UUAGC",
+          "package": "uuagc",
+          "source": "src/UU-UUAGC.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "UUAGC",
+          "package": "uuagc",
+          "partial": "UUAGC",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "Identifier",
+          "package": "uuagc",
+          "source": "src/Options.html#Identifier",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "Identifier",
+          "package": "uuagc",
+          "partial": "Identifier",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#t:Identifier"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "ModuleHeader",
+          "package": "uuagc",
+          "source": "src/Options.html#ModuleHeader",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "ModuleHeader",
+          "package": "uuagc",
+          "partial": "Module Header",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#t:ModuleHeader"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "MyOptDescr",
+          "package": "uuagc",
+          "source": "src/Options.html#MyOptDescr",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "MyOptDescr",
+          "package": "uuagc",
+          "partial": "My Opt Descr",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#t:MyOptDescr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "NontermIdent",
+          "package": "uuagc",
+          "source": "src/Options.html#NontermIdent",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "NontermIdent",
+          "package": "uuagc",
+          "partial": "Nonterm Ident",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#t:NontermIdent"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "Options",
+          "package": "uuagc",
+          "source": "src/Options.html#Options",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "Options",
+          "package": "uuagc",
+          "partial": "Options",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#t:Options"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "Default",
+          "package": "uuagc",
+          "signature": "Default",
+          "source": "src/Options.html#ModuleHeader",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "Default",
+          "package": "uuagc",
+          "partial": "Default",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:Default"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "Ident",
+          "package": "uuagc",
+          "signature": "Ident",
+          "source": "src/Options.html#Identifier",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "Ident",
+          "package": "uuagc",
+          "partial": "Ident",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:Ident"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "MyOpt",
+          "package": "uuagc",
+          "signature": "MyOpt [Char] [String] (ArgDescr (Options -\u003e Options)) (Options -\u003e String -\u003e [String]) String",
+          "source": "src/Options.html#MyOptDescr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "MyOpt",
+          "normalized": "MyOpt[Char][String](ArgDescr(Options-\u003eOptions))(Options-\u003eString-\u003e[String])String",
+          "package": "uuagc",
+          "partial": "My Opt",
+          "signature": "MyOpt[Char][String](ArgDescr(Options-\u003eOptions))(Options-\u003eString-\u003e[String])String",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:MyOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "Name",
+          "package": "uuagc",
+          "signature": "Name String",
+          "source": "src/Options.html#ModuleHeader",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "Name",
+          "package": "uuagc",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:Name"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "NoName",
+          "package": "uuagc",
+          "signature": "NoName",
+          "source": "src/Options.html#ModuleHeader",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "NoName",
+          "package": "uuagc",
+          "partial": "No Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:NoName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "Options",
+          "package": "uuagc",
+          "signature": "Options",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "Options",
+          "package": "uuagc",
+          "partial": "Options",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:Options"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "aggressiveInlinePragmas",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "aggressiveInlinePragmas",
+          "package": "uuagc",
+          "partial": "Inline Pragmas",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:aggressiveInlinePragmas"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "aggressiveInlinePragmasOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#aggressiveInlinePragmasOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "aggressiveInlinePragmasOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Inline Pragmas Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:aggressiveInlinePragmasOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "allOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#allOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "allOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:allOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "allOptions",
+          "package": "uuagc",
+          "signature": "[MyOptDescr]",
+          "source": "src/Options.html#allOptions",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "allOptions",
+          "normalized": "[MyOptDescr]",
+          "package": "uuagc",
+          "partial": "Options",
+          "signature": "[MyOptDescr]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:allOptions"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "allc",
+          "package": "uuagc",
+          "signature": "String",
+          "source": "src/Options.html#allc",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "allc",
+          "package": "uuagc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:allc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "allowSepSemMods",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "allowSepSemMods",
+          "package": "uuagc",
+          "partial": "Sep Sem Mods",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:allowSepSemMods"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "attrInfo",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "attrInfo",
+          "package": "uuagc",
+          "partial": "Info",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:attrInfo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "bangpats",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "bangpats",
+          "package": "uuagc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:bangpats"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "bangpatsOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#bangpatsOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "bangpatsOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:bangpatsOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "beQuiet",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "beQuiet",
+          "package": "uuagc",
+          "partial": "Quiet",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:beQuiet"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "beQuietOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#beQuietOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "beQuietOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Quiet Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:beQuietOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "boolOpt",
+          "package": "uuagc",
+          "signature": "(Options -\u003e Bool) -\u003e Options -\u003e String -\u003e [String]",
+          "source": "src/Options.html#boolOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "boolOpt",
+          "normalized": "(Options-\u003eBool)-\u003eOptions-\u003eString-\u003e[String]",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "(Options-\u003eBool)-\u003eOptions-\u003eString-\u003e[String]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:boolOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "breadthFirst",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "breadthFirst",
+          "package": "uuagc",
+          "partial": "First",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:breadthFirst"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "breadthFirstStrict",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "breadthFirstStrict",
+          "package": "uuagc",
+          "partial": "First Strict",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:breadthFirstStrict"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "breadthfirstOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#breadthfirstOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "breadthfirstOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:breadthfirstOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "breadthfirstStrictOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#breadthfirstStrictOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "breadthfirstStrictOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Strict Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:breadthfirstStrictOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "cases",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "cases",
+          "package": "uuagc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:cases"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "casesOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#casesOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "casesOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:casesOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "cataOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#cataOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "cataOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:cataOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "checkParseBlock",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "checkParseBlock",
+          "package": "uuagc",
+          "partial": "Parse Block",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:checkParseBlock"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "checkParseRhs",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "checkParseRhs",
+          "package": "uuagc",
+          "partial": "Parse Rhs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:checkParseRhs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "checkParseTy",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "checkParseTy",
+          "package": "uuagc",
+          "partial": "Parse Ty",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:checkParseTy"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "clean",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "clean",
+          "package": "uuagc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:clean"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "cleanOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#cleanOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "cleanOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:cleanOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eCombine 2 sets of options\n\u003c/p\u003e",
+          "module": "UU.UUAGC",
+          "name": "combineOptions",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options -\u003e Options",
+          "source": "src/Options.html#combineOptions",
+          "type": "function"
+        },
+        "index": {
+          "description": "Combine sets of options",
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "combineOptions",
+          "normalized": "Options-\u003eOptions-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Options",
+          "signature": "Options-\u003eOptions-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:combineOptions"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "compile",
+          "package": "uuagc",
+          "signature": "Options -\u003e FilePath -\u003e FilePath -\u003e IO ()",
+          "source": "src/Ag.html#compile",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "compile",
+          "normalized": "Options-\u003eFilePath-\u003eFilePath-\u003eIO()",
+          "package": "uuagc",
+          "signature": "Options-\u003eFilePath-\u003eFilePath-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:compile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "condDisableOptimizations",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#condDisableOptimizations",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "condDisableOptimizations",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Disable Optimizations",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:condDisableOptimizations"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eUse all parsed options to generate real options\n\u003c/p\u003e",
+          "module": "UU.UUAGC",
+          "name": "constructOptions",
+          "package": "uuagc",
+          "signature": "[Options -\u003e Options] -\u003e Options",
+          "source": "src/Options.html#constructOptions",
+          "type": "function"
+        },
+        "index": {
+          "description": "Use all parsed options to generate real options",
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "constructOptions",
+          "normalized": "[Options-\u003eOptions]-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Options",
+          "signature": "[Options-\u003eOptions]-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:constructOptions"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "cycleOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#cycleOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "cycleOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:cycleOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "dataOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#dataOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "dataOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:dataOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "dataRecOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#dataRecOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "dataRecOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Rec Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:dataRecOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "dataRecords",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "dataRecords",
+          "package": "uuagc",
+          "partial": "Records",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:dataRecords"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "dataTypes",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "dataTypes",
+          "package": "uuagc",
+          "partial": "Types",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:dataTypes"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "doubleColons",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "doubleColons",
+          "package": "uuagc",
+          "partial": "Colons",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:doubleColons"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "doubleColonsOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#doubleColonsOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "doubleColonsOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Colons Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:doubleColonsOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "dummyTokenVisit",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "dummyTokenVisit",
+          "package": "uuagc",
+          "partial": "Token Visit",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:dummyTokenVisit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "dummyTokenVisitOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#dummyTokenVisitOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "dummyTokenVisitOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Token Visit Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:dummyTokenVisitOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "dumpcgrammar",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "dumpcgrammar",
+          "package": "uuagc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:dumpcgrammar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "dumpcgrammarOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#dumpcgrammarOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "dumpcgrammarOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:dumpcgrammarOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "dumpgrammar",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "dumpgrammar",
+          "package": "uuagc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:dumpgrammar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "dumpgrammarOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#dumpgrammarOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "dumpgrammarOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:dumpgrammarOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "extends",
+          "package": "uuagc",
+          "signature": "Maybe String",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "extends",
+          "package": "uuagc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:extends"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "extendsOpt",
+          "package": "uuagc",
+          "signature": "String -\u003e Options -\u003e Options",
+          "source": "src/Options.html#extendsOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "extendsOpt",
+          "normalized": "String-\u003eOptions-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "String-\u003eOptions-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:extendsOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "failWithCode",
+          "package": "uuagc",
+          "signature": "Int -\u003e IO ()",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "failWithCode",
+          "normalized": "Int-\u003eIO()",
+          "package": "uuagc",
+          "partial": "With Code",
+          "signature": "Int-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:failWithCode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "folds",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "folds",
+          "package": "uuagc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:folds"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "forceIrrefutableOpt",
+          "package": "uuagc",
+          "signature": "Maybe String -\u003e Options -\u003e Options",
+          "source": "src/Options.html#forceIrrefutableOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "forceIrrefutableOpt",
+          "normalized": "Maybe String-\u003eOptions-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Irrefutable Opt",
+          "signature": "Maybe String-\u003eOptions-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:forceIrrefutableOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "forceIrrefutables",
+          "package": "uuagc",
+          "signature": "Maybe String",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "forceIrrefutables",
+          "package": "uuagc",
+          "partial": "Irrefutables",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:forceIrrefutables"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "fromMyOpt",
+          "package": "uuagc",
+          "signature": "MyOptDescr -\u003e OptDescr (Options -\u003e Options)",
+          "source": "src/Options.html#fromMyOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "fromMyOpt",
+          "normalized": "MyOptDescr-\u003eOptDescr(Options-\u003eOptions)",
+          "package": "uuagc",
+          "partial": "My Opt",
+          "signature": "MyOptDescr-\u003eOptDescr(Options-\u003eOptions)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:fromMyOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "genAspectAG",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "genAspectAG",
+          "package": "uuagc",
+          "partial": "Aspect AG",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genAspectAG"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "genAspectAGOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#genAspectAGOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "genAspectAGOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Aspect AGOpt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genAspectAGOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "genAttrListOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#genAttrListOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "genAttrListOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Attr List Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genAttrListOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "genAttributeList",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "genAttributeList",
+          "package": "uuagc",
+          "partial": "Attribute List",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genAttributeList"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "genCostCentres",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "genCostCentres",
+          "package": "uuagc",
+          "partial": "Cost Centres",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genCostCentres"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "genCostCentresOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#genCostCentresOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "genCostCentresOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Cost Centres Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genCostCentresOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "genFileDeps",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "genFileDeps",
+          "package": "uuagc",
+          "partial": "File Deps",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genFileDeps"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "genFileDepsOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#genFileDepsOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "genFileDepsOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "File Deps Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genFileDepsOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "genLinePragmas",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "genLinePragmas",
+          "package": "uuagc",
+          "partial": "Line Pragmas",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genLinePragmas"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "genLinePragmasOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#genLinePragmasOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "genLinePragmasOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Line Pragmas Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genLinePragmasOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "genTraces",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "genTraces",
+          "package": "uuagc",
+          "partial": "Traces",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genTraces"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "genTracesOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#genTracesOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "genTracesOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Traces Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genTracesOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "genUseTraces",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "genUseTraces",
+          "package": "uuagc",
+          "partial": "Use Traces",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genUseTraces"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "genUseTracesOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#genUseTracesOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "genUseTracesOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Use Traces Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genUseTracesOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "genVisageOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#genVisageOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "genVisageOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Visage Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genVisageOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "genvisage",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "genvisage",
+          "package": "uuagc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:genvisage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "getName",
+          "package": "uuagc",
+          "signature": "String",
+          "source": "src/Options.html#Identifier",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "getName",
+          "package": "uuagc",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:getName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eCreate Options type from string arguments\n\u003c/p\u003e",
+          "module": "UU.UUAGC",
+          "name": "getOptions",
+          "package": "uuagc",
+          "signature": "[String] -\u003e (Options, [String], [String])",
+          "source": "src/Options.html#getOptions",
+          "type": "function"
+        },
+        "index": {
+          "description": "Create Options type from string arguments",
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "getOptions",
+          "normalized": "[String]-\u003e(Options,[String],[String])",
+          "package": "uuagc",
+          "partial": "Options",
+          "signature": "[String]-\u003e(Options,[String],[String])",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:getOptions"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "getPos",
+          "package": "uuagc",
+          "signature": "Pos",
+          "source": "src/Options.html#Identifier",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "getPos",
+          "package": "uuagc",
+          "partial": "Pos",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:getPos"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "haskellSyntaxOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#haskellSyntaxOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "haskellSyntaxOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Syntax Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:haskellSyntaxOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "helpInlining",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "helpInlining",
+          "package": "uuagc",
+          "partial": "Inlining",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:helpInlining"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "helpInliningOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#helpInliningOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "helpInliningOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Inlining Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:helpInliningOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "helpOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#helpOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "helpOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:helpOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "identifier",
+          "package": "uuagc",
+          "signature": "String -\u003e Identifier",
+          "source": "src/Options.html#identifier",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "identifier",
+          "normalized": "String-\u003eIdentifier",
+          "package": "uuagc",
+          "signature": "String-\u003eIdentifier",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:identifier"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "kennedyWarren",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "kennedyWarren",
+          "package": "uuagc",
+          "partial": "Warren",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:kennedyWarren"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "kennedyWarrenOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#kennedyWarrenOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "kennedyWarrenOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Warren Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:kennedyWarrenOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "lateHigherOrderBinding",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "lateHigherOrderBinding",
+          "package": "uuagc",
+          "partial": "Higher Order Binding",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:lateHigherOrderBinding"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "lateHigherOrderBindingOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#lateHigherOrderBindingOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "lateHigherOrderBindingOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Higher Order Binding Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:lateHigherOrderBindingOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "lcKeywords",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "lcKeywords",
+          "package": "uuagc",
+          "partial": "Keywords",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:lcKeywords"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "lcKeywordsOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#lcKeywordsOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "lcKeywordsOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Keywords Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:lcKeywordsOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "localCps",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "localCps",
+          "package": "uuagc",
+          "partial": "Cps",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:localCps"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "localCpsOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#localCpsOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "localCpsOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Cps Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:localCpsOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "mainFilename",
+          "package": "uuagc",
+          "signature": "Maybe String",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "mainFilename",
+          "package": "uuagc",
+          "partial": "Filename",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:mainFilename"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "mbStringOpt",
+          "package": "uuagc",
+          "signature": "(Options -\u003e Maybe String) -\u003e Options -\u003e String -\u003e [String]",
+          "source": "src/Options.html#mbStringOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "mbStringOpt",
+          "normalized": "(Options-\u003eMaybe String)-\u003eOptions-\u003eString-\u003e[String]",
+          "package": "uuagc",
+          "partial": "String Opt",
+          "signature": "(Options-\u003eMaybe String)-\u003eOptions-\u003eString-\u003e[String]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:mbStringOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "modcopy",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "modcopy",
+          "package": "uuagc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:modcopy"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "modcopyOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#modcopyOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "modcopyOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:modcopyOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "moduleName",
+          "package": "uuagc",
+          "signature": "ModuleHeader",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "moduleName",
+          "package": "uuagc",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:moduleName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "moduleOpt",
+          "package": "uuagc",
+          "signature": "Maybe String -\u003e Options -\u003e Options",
+          "source": "src/Options.html#moduleOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "moduleOpt",
+          "normalized": "Maybe String-\u003eOptions-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Maybe String-\u003eOptions-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:moduleOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "moduleOptGet",
+          "package": "uuagc",
+          "signature": "Options -\u003e String -\u003e [String]",
+          "source": "src/Options.html#moduleOptGet",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "moduleOptGet",
+          "normalized": "Options-\u003eString-\u003e[String]",
+          "package": "uuagc",
+          "partial": "Opt Get",
+          "signature": "Options-\u003eString-\u003e[String]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:moduleOptGet"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "monadic",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "monadic",
+          "package": "uuagc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:monadic"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "monadicOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#monadicOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "monadicOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:monadicOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "monadicWrappers",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "monadicWrappers",
+          "package": "uuagc",
+          "partial": "Wrappers",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:monadicWrappers"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "monadicWrappersOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#monadicWrappersOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "monadicWrappersOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Wrappers Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:monadicWrappersOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "nest",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "nest",
+          "package": "uuagc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:nest"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "nestOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#nestOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "nestOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:nestOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "newtypes",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "newtypes",
+          "package": "uuagc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:newtypes"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "newtypesOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#newtypesOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "newtypesOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:newtypesOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "noEagerBlackholing",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "noEagerBlackholing",
+          "package": "uuagc",
+          "partial": "Eager Blackholing",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noEagerBlackholing"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "noEagerBlackholingOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#noEagerBlackholingOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "noEagerBlackholingOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Eager Blackholing Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noEagerBlackholingOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "noGroup",
+          "package": "uuagc",
+          "signature": "[String]",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "noGroup",
+          "normalized": "[String]",
+          "package": "uuagc",
+          "partial": "Group",
+          "signature": "[String]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noGroup"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "noGroupOpt",
+          "package": "uuagc",
+          "signature": "String -\u003e Options -\u003e Options",
+          "source": "src/Options.html#noGroupOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "noGroupOpt",
+          "normalized": "String-\u003eOptions-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Group Opt",
+          "signature": "String-\u003eOptions-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noGroupOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "noGroupOptGet",
+          "package": "uuagc",
+          "signature": "Options -\u003e String -\u003e [String]",
+          "source": "src/Options.html#noGroupOptGet",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "noGroupOptGet",
+          "normalized": "Options-\u003eString-\u003e[String]",
+          "package": "uuagc",
+          "partial": "Group Opt Get",
+          "signature": "Options-\u003eString-\u003e[String]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noGroupOptGet"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "noIncludes",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "noIncludes",
+          "package": "uuagc",
+          "partial": "Includes",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noIncludes"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "noIncludesOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#noIncludesOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "noIncludesOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Includes Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noIncludesOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "noInlinePragmas",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "noInlinePragmas",
+          "package": "uuagc",
+          "partial": "Inline Pragmas",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noInlinePragmas"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "noInlinePragmasOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#noInlinePragmasOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "noInlinePragmasOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Inline Pragmas Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noInlinePragmasOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "noOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e String -\u003e [String]",
+          "source": "src/Options.html#noOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "noOpt",
+          "normalized": "Options-\u003eString-\u003e[String]",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eString-\u003e[String]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "noOptimizations",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "noOptimizations",
+          "package": "uuagc",
+          "partial": "Optimizations",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noOptimizations"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "noOptimizeOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#noOptimizeOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "noOptimizeOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Optimize Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noOptimizeOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "noOptions",
+          "package": "uuagc",
+          "signature": "Options",
+          "source": "src/Options.html#noOptions",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "noOptions",
+          "package": "uuagc",
+          "partial": "Options",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noOptions"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "noPerRuleCostCentres",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "noPerRuleCostCentres",
+          "package": "uuagc",
+          "partial": "Per Rule Cost Centres",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noPerRuleCostCentres"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "noPerRuleCostCentresOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#noPerRuleCostCentresOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "noPerRuleCostCentresOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Per Rule Cost Centres Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noPerRuleCostCentresOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "noPerRuleTypeSigs",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "noPerRuleTypeSigs",
+          "package": "uuagc",
+          "partial": "Per Rule Type Sigs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noPerRuleTypeSigs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "noPerRuleTypeSigsOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#noPerRuleTypeSigsOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "noPerRuleTypeSigsOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Per Rule Type Sigs Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noPerRuleTypeSigsOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "noPerStateTypeSigs",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "noPerStateTypeSigs",
+          "package": "uuagc",
+          "partial": "Per State Type Sigs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noPerStateTypeSigs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "noPerStateTypeSigsOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#noPerStateTypeSigsOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "noPerStateTypeSigsOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Per State Type Sigs Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noPerStateTypeSigsOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "noPerVisitCostCentres",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "noPerVisitCostCentres",
+          "package": "uuagc",
+          "partial": "Per Visit Cost Centres",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noPerVisitCostCentres"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "noPerVisitCostCentresOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#noPerVisitCostCentresOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "noPerVisitCostCentresOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Per Visit Cost Centres Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:noPerVisitCostCentresOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "nocatas",
+          "package": "uuagc",
+          "signature": "Set NontermIdent",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "nocatas",
+          "package": "uuagc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:nocatas"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "nocatasOpt",
+          "package": "uuagc",
+          "signature": "String -\u003e Options -\u003e Options",
+          "source": "src/Options.html#nocatasOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "nocatasOpt",
+          "normalized": "String-\u003eOptions-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "String-\u003eOptions-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:nocatasOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "nocatasOptGet",
+          "package": "uuagc",
+          "signature": "Options -\u003e String -\u003e [String]",
+          "source": "src/Options.html#nocatasOptGet",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "nocatasOptGet",
+          "normalized": "Options-\u003eString-\u003e[String]",
+          "package": "uuagc",
+          "partial": "Opt Get",
+          "signature": "Options-\u003eString-\u003e[String]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:nocatasOptGet"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "ocaml",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "ocaml",
+          "package": "uuagc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:ocaml"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "ocamlOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#ocamlOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "ocamlOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:ocamlOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "optimizeOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#optimizeOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "optimizeOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:optimizeOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "options",
+          "package": "uuagc",
+          "signature": "[OptDescr (Options -\u003e Options)]",
+          "source": "src/Options.html#options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "options",
+          "normalized": "[OptDescr(Options-\u003eOptions)]",
+          "package": "uuagc",
+          "signature": "[OptDescr(Options-\u003eOptions)]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:options"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eConvert options back to commandline string\n\u003c/p\u003e",
+          "module": "UU.UUAGC",
+          "name": "optionsToString",
+          "package": "uuagc",
+          "signature": "Options -\u003e [String]",
+          "source": "src/Options.html#optionsToString",
+          "type": "function"
+        },
+        "index": {
+          "description": "Convert options back to commandline string",
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "optionsToString",
+          "normalized": "Options-\u003e[String]",
+          "package": "uuagc",
+          "partial": "To String",
+          "signature": "Options-\u003e[String]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:optionsToString"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "outputFiles",
+          "package": "uuagc",
+          "signature": "[String]",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "outputFiles",
+          "normalized": "[String]",
+          "package": "uuagc",
+          "partial": "Files",
+          "signature": "[String]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:outputFiles"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "outputOpt",
+          "package": "uuagc",
+          "signature": "String -\u003e Options -\u003e Options",
+          "source": "src/Options.html#outputOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "outputOpt",
+          "normalized": "String-\u003eOptions-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "String-\u003eOptions-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:outputOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "outputOptGet",
+          "package": "uuagc",
+          "signature": "Options -\u003e String -\u003e [String]",
+          "source": "src/Options.html#outputOptGet",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "outputOptGet",
+          "normalized": "Options-\u003eString-\u003e[String]",
+          "package": "uuagc",
+          "partial": "Opt Get",
+          "signature": "Options-\u003eString-\u003e[String]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:outputOptGet"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "outputStr",
+          "package": "uuagc",
+          "signature": "String -\u003e IO ()",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "outputStr",
+          "normalized": "String-\u003eIO()",
+          "package": "uuagc",
+          "partial": "Str",
+          "signature": "String-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:outputStr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "parallelInvoke",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "parallelInvoke",
+          "package": "uuagc",
+          "partial": "Invoke",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:parallelInvoke"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "parallelOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#parallelOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "parallelOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:parallelOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "parseHsBlockOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#parseHsBlockOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "parseHsBlockOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Hs Block Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:parseHsBlockOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "parseHsOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#parseHsOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "parseHsOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Hs Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:parseHsOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "parseHsRhsOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#parseHsRhsOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "parseHsRhsOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Hs Rhs Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:parseHsRhsOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "parseHsTpOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#parseHsTpOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "parseHsTpOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Hs Tp Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:parseHsTpOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "prefix",
+          "package": "uuagc",
+          "signature": "String",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "prefix",
+          "package": "uuagc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:prefix"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "prefixOpt",
+          "package": "uuagc",
+          "signature": "String -\u003e Options -\u003e Options",
+          "source": "src/Options.html#prefixOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "prefixOpt",
+          "normalized": "String-\u003eOptions-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "String-\u003eOptions-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:prefixOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "prettyOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#prettyOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "prettyOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:prettyOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "reference",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "reference",
+          "package": "uuagc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:reference"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "referenceOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#referenceOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "referenceOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:referenceOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "rename",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "rename",
+          "package": "uuagc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:rename"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "renameOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#renameOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "renameOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:renameOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "searchPath",
+          "package": "uuagc",
+          "signature": "[String]",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "searchPath",
+          "normalized": "[String]",
+          "package": "uuagc",
+          "partial": "Path",
+          "signature": "[String]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:searchPath"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "searchPathOpt",
+          "package": "uuagc",
+          "signature": "String -\u003e Options -\u003e Options",
+          "source": "src/Options.html#searchPathOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "searchPathOpt",
+          "normalized": "String-\u003eOptions-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Path Opt",
+          "signature": "String-\u003eOptions-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:searchPathOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "searchPathOptGet",
+          "package": "uuagc",
+          "signature": "Options -\u003e String -\u003e [String]",
+          "source": "src/Options.html#searchPathOptGet",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "searchPathOptGet",
+          "normalized": "Options-\u003eString-\u003e[String]",
+          "package": "uuagc",
+          "partial": "Path Opt Get",
+          "signature": "Options-\u003eString-\u003e[String]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:searchPathOptGet"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "selfOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#selfOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "selfOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:selfOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "semfuns",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "semfuns",
+          "package": "uuagc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:semfuns"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "semfunsOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#semfunsOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "semfunsOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:semfunsOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "sepSemMods",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "sepSemMods",
+          "package": "uuagc",
+          "partial": "Sem Mods",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:sepSemMods"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "sepSemModsOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#sepSemModsOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "sepSemModsOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Sem Mods Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:sepSemModsOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "seqOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#seqOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "seqOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:seqOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "serializeOption",
+          "package": "uuagc",
+          "signature": "Options -\u003e MyOptDescr -\u003e [String]",
+          "source": "src/Options.html#serializeOption",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "serializeOption",
+          "normalized": "Options-\u003eMyOptDescr-\u003e[String]",
+          "package": "uuagc",
+          "partial": "Option",
+          "signature": "Options-\u003eMyOptDescr-\u003e[String]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:serializeOption"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "showHelp",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "showHelp",
+          "package": "uuagc",
+          "partial": "Help",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:showHelp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "showVersion",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "showVersion",
+          "package": "uuagc",
+          "partial": "Version",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:showVersion"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "signaturesOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#signaturesOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "signaturesOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:signaturesOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "smacro",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "smacro",
+          "package": "uuagc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:smacro"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "smacroOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#smacroOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "smacroOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:smacroOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "splitSems",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "splitSems",
+          "package": "uuagc",
+          "partial": "Sems",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:splitSems"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "splitSemsOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#splitSemsOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "splitSemsOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Sems Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:splitSemsOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "stateAsDummyTokenOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#stateAsDummyTokenOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "stateAsDummyTokenOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "As Dummy Token Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:stateAsDummyTokenOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "statisticsOpt",
+          "package": "uuagc",
+          "signature": "String -\u003e Options -\u003e Options",
+          "source": "src/Options.html#statisticsOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "statisticsOpt",
+          "normalized": "String-\u003eOptions-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "String-\u003eOptions-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:statisticsOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "statsFile",
+          "package": "uuagc",
+          "signature": "Maybe String",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "statsFile",
+          "package": "uuagc",
+          "partial": "File",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:statsFile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "strictCases",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "strictCases",
+          "package": "uuagc",
+          "partial": "Cases",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:strictCases"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "strictCasesOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#strictCasesOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "strictCasesOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Cases Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:strictCasesOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "strictData",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "strictData",
+          "package": "uuagc",
+          "partial": "Data",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:strictData"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "strictDataOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#strictDataOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "strictDataOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Data Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:strictDataOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "strictDummyToken",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "strictDummyToken",
+          "package": "uuagc",
+          "partial": "Dummy Token",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:strictDummyToken"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "strictDummyTokenOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#strictDummyTokenOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "strictDummyTokenOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Dummy Token Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:strictDummyTokenOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "strictSemOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#strictSemOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "strictSemOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Sem Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:strictSemOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "strictSems",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "strictSems",
+          "package": "uuagc",
+          "partial": "Sems",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:strictSems"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "strictWrap",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "strictWrap",
+          "package": "uuagc",
+          "partial": "Wrap",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:strictWrap"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "strictWrapOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#strictWrapOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "strictWrapOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Wrap Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:strictWrapOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "stricterCases",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "stricterCases",
+          "package": "uuagc",
+          "partial": "Cases",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:stricterCases"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "stricterCasesOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#stricterCasesOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "stricterCasesOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Cases Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:stricterCasesOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "stringOpt",
+          "package": "uuagc",
+          "signature": "(Options -\u003e String) -\u003e Options -\u003e String -\u003e [String]",
+          "source": "src/Options.html#stringOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "stringOpt",
+          "normalized": "(Options-\u003eString)-\u003eOptions-\u003eString-\u003e[String]",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "(Options-\u003eString)-\u003eOptions-\u003eString-\u003e[String]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:stringOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "tupleAsDummyToken",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "tupleAsDummyToken",
+          "package": "uuagc",
+          "partial": "As Dummy Token",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:tupleAsDummyToken"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "tupleAsDummyTokenOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#tupleAsDummyTokenOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "tupleAsDummyTokenOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "As Dummy Token Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:tupleAsDummyTokenOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "typeSigs",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "typeSigs",
+          "package": "uuagc",
+          "partial": "Sigs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:typeSigs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "unbox",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "unbox",
+          "package": "uuagc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:unbox"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "unboxOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#unboxOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "unboxOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:unboxOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "uniqueDispenser",
+          "package": "uuagc",
+          "signature": "String",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "uniqueDispenser",
+          "package": "uuagc",
+          "partial": "Dispenser",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:uniqueDispenser"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "uniqueDispenserOpt",
+          "package": "uuagc",
+          "signature": "String -\u003e Options -\u003e Options",
+          "source": "src/Options.html#uniqueDispenserOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "uniqueDispenserOpt",
+          "normalized": "String-\u003eOptions-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Dispenser Opt",
+          "signature": "String-\u003eOptions-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:uniqueDispenserOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "uuagc",
+          "package": "uuagc",
+          "signature": "[String] -\u003e FilePath -\u003e IO (ExitCode, [FilePath])",
+          "source": "src/UU-UUAGC.html#uuagc",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "uuagc",
+          "normalized": "[String]-\u003eFilePath-\u003eIO(ExitCode,[FilePath])",
+          "package": "uuagc",
+          "signature": "[String]-\u003eFilePath-\u003eIO(ExitCode,[FilePath])",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:uuagc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "uuagcMain",
+          "package": "uuagc",
+          "signature": "IO ()",
+          "source": "src/UU-UUAGC.html#uuagcMain",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "uuagcMain",
+          "normalized": "IO()",
+          "package": "uuagc",
+          "partial": "Main",
+          "signature": "IO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:uuagcMain"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "verbose",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "verbose",
+          "package": "uuagc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:verbose"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "verboseOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#verboseOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "verboseOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:verboseOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "versionOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#versionOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "versionOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:versionOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "visit",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "visit",
+          "package": "uuagc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:visit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "visitOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#visitOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "visitOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:visitOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "visitorsOutput",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "visitorsOutput",
+          "package": "uuagc",
+          "partial": "Output",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:visitorsOutput"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "visitorsOutputOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#visitorsOutputOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "visitorsOutputOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Output Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:visitorsOutputOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "werrors",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "werrors",
+          "package": "uuagc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:werrors"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "werrorsOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#werrorsOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "werrorsOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:werrorsOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "wignore",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "wignore",
+          "package": "uuagc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:wignore"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "wignoreOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#wignoreOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "wignoreOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:wignoreOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "withCycle",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "withCycle",
+          "package": "uuagc",
+          "partial": "Cycle",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:withCycle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "withSelf",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "withSelf",
+          "package": "uuagc",
+          "partial": "Self",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:withSelf"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "withSeq",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "withSeq",
+          "package": "uuagc",
+          "partial": "Seq",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:withSeq"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "wmaxErrsOpt",
+          "package": "uuagc",
+          "signature": "String -\u003e Options -\u003e Options",
+          "source": "src/Options.html#wmaxErrsOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "wmaxErrsOpt",
+          "normalized": "String-\u003eOptions-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Errs Opt",
+          "signature": "String-\u003eOptions-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:wmaxErrsOpt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "wmaxErrsOptGet",
+          "package": "uuagc",
+          "signature": "Options -\u003e String -\u003e [String]",
+          "source": "src/Options.html#wmaxErrsOptGet",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "wmaxErrsOptGet",
+          "normalized": "Options-\u003eString-\u003e[String]",
+          "package": "uuagc",
+          "partial": "Errs Opt Get",
+          "signature": "Options-\u003eString-\u003e[String]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:wmaxErrsOptGet"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "wmaxerrs",
+          "package": "uuagc",
+          "signature": "Int",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "wmaxerrs",
+          "package": "uuagc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:wmaxerrs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInverse of intercalate\n\u003c/p\u003e",
+          "module": "UU.UUAGC",
+          "name": "wordsBy",
+          "package": "uuagc",
+          "signature": "(Char -\u003e Bool) -\u003e String -\u003e [String]",
+          "source": "src/Options.html#wordsBy",
+          "type": "function"
+        },
+        "index": {
+          "description": "Inverse of intercalate",
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "wordsBy",
+          "normalized": "(Char-\u003eBool)-\u003eString-\u003e[String]",
+          "package": "uuagc",
+          "partial": "By",
+          "signature": "(Char-\u003eBool)-\u003eString-\u003e[String]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:wordsBy"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "wrappers",
+          "package": "uuagc",
+          "signature": "Bool",
+          "source": "src/Options.html#Options",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "wrappers",
+          "package": "uuagc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:wrappers"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "UU.UUAGC",
+          "name": "wrappersOpt",
+          "package": "uuagc",
+          "signature": "Options -\u003e Options",
+          "source": "src/Options.html#wrappersOpt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "UU UUAGC",
+          "module": "UU.UUAGC",
+          "name": "wrappersOpt",
+          "normalized": "Options-\u003eOptions",
+          "package": "uuagc",
+          "partial": "Opt",
+          "signature": "Options-\u003eOptions",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uuagc/docs/UU-UUAGC.html#v:wrappersOpt"
+      }
+    }
+  ]
 ]

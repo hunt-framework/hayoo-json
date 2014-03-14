@@ -1,98 +1,103 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/DrIFT/docs/DrIFT-Version.html#",
-      "description": {
-        "fct-module": "DrIFT.Version",
-        "fct-package": "DrIFT",
-        "fct-signature": "module",
-        "fct-source": "src/DrIFT-Version.html",
-        "fct-type": "module",
-        "title": "Version"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "DrIFT"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "DrIFT Version",
-        "module": "DrIFT.Version",
-        "name": "Version",
-        "normalized": "",
-        "package": "DrIFT",
-        "partial": "Version",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/DrIFT/docs/DrIFT-Version.html#v:fullName",
-      "description": {
-        "fct-module": "DrIFT.Version",
-        "fct-package": "DrIFT",
-        "fct-signature": "String",
-        "fct-source": "src/DrIFT-Version.html#fullName",
-        "fct-type": "function",
-        "title": "fullName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "DrIFT Version",
-        "module": "DrIFT.Version",
-        "name": "fullName",
-        "normalized": "",
-        "package": "DrIFT",
-        "partial": "Name",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "DrIFT.Version",
+          "name": "Version",
+          "package": "DrIFT",
+          "source": "src/DrIFT-Version.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "DrIFT Version",
+          "module": "DrIFT.Version",
+          "name": "Version",
+          "package": "DrIFT",
+          "partial": "Version",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/DrIFT/docs/DrIFT-Version.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "DrIFT.Version",
+          "name": "fullName",
+          "package": "DrIFT",
+          "signature": "String",
+          "source": "src/DrIFT-Version.html#fullName",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "DrIFT Version",
+          "module": "DrIFT.Version",
+          "name": "fullName",
+          "package": "DrIFT",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/DrIFT/docs/DrIFT-Version.html#v:fullName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "DrIFT.Version",
+          "name": "package",
+          "package": "DrIFT",
+          "signature": "String",
+          "source": "src/DrIFT-Version.html#package",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "DrIFT Version",
+          "module": "DrIFT.Version",
+          "name": "package",
+          "package": "DrIFT",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/DrIFT/docs/DrIFT-Version.html#v:package"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "DrIFT.Version",
+          "name": "version",
+          "package": "DrIFT",
+          "signature": "String",
+          "source": "src/DrIFT-Version.html#version",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "DrIFT Version",
+          "module": "DrIFT.Version",
+          "name": "version",
+          "package": "DrIFT",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/DrIFT/docs/DrIFT-Version.html#v:version"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/DrIFT/docs/DrIFT-Version.html#v:package",
-      "description": {
-        "fct-module": "DrIFT.Version",
-        "fct-package": "DrIFT",
-        "fct-signature": "String",
-        "fct-source": "src/DrIFT-Version.html#package",
-        "fct-type": "function",
-        "title": "package"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "DrIFT Version",
-        "module": "DrIFT.Version",
-        "name": "package",
-        "normalized": "",
-        "package": "DrIFT",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/DrIFT/docs/DrIFT-Version.html#v:version",
-      "description": {
-        "fct-module": "DrIFT.Version",
-        "fct-package": "DrIFT",
-        "fct-signature": "String",
-        "fct-source": "src/DrIFT-Version.html#version",
-        "fct-type": "function",
-        "title": "version"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "DrIFT Version",
-        "module": "DrIFT.Version",
-        "name": "version",
-        "normalized": "",
-        "package": "DrIFT",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

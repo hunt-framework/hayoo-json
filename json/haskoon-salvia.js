@@ -1,74 +1,84 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskoon-salvia/docs/Factis-Haskoon-WebSalvia.html#",
-      "description": {
-        "fct-module": "Factis.Haskoon.WebSalvia",
-        "fct-package": "haskoon-salvia",
-        "fct-signature": "module",
-        "fct-source": "src/Factis-Haskoon-WebSalvia.html",
-        "fct-type": "module",
-        "title": "WebSalvia"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "haskoon-salvia"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Factis Haskoon WebSalvia",
-        "module": "Factis.Haskoon.WebSalvia",
-        "name": "WebSalvia",
-        "normalized": "",
-        "package": "haskoon-salvia",
-        "partial": "Web Salvia",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskoon-salvia/docs/Factis-Haskoon-WebSalvia.html#t:WebSalvia",
-      "description": {
-        "fct-module": "Factis.Haskoon.WebSalvia",
-        "fct-package": "haskoon-salvia",
-        "fct-signature": "data",
-        "fct-source": "src/Factis-Haskoon-WebSalvia.html#WebSalvia",
-        "fct-type": "data",
-        "title": "WebSalvia"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Factis Haskoon WebSalvia",
-        "module": "Factis.Haskoon.WebSalvia",
-        "name": "WebSalvia",
-        "normalized": "",
-        "package": "haskoon-salvia",
-        "partial": "Web Salvia",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Factis.Haskoon.WebSalvia",
+          "name": "WebSalvia",
+          "package": "haskoon-salvia",
+          "source": "src/Factis-Haskoon-WebSalvia.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Factis Haskoon WebSalvia",
+          "module": "Factis.Haskoon.WebSalvia",
+          "name": "WebSalvia",
+          "package": "haskoon-salvia",
+          "partial": "Web Salvia",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/haskoon-salvia/docs/Factis-Haskoon-WebSalvia.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Factis.Haskoon.WebSalvia",
+          "name": "WebSalvia",
+          "package": "haskoon-salvia",
+          "source": "src/Factis-Haskoon-WebSalvia.html#WebSalvia",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Factis Haskoon WebSalvia",
+          "module": "Factis.Haskoon.WebSalvia",
+          "name": "WebSalvia",
+          "package": "haskoon-salvia",
+          "partial": "Web Salvia",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/haskoon-salvia/docs/Factis-Haskoon-WebSalvia.html#t:WebSalvia"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Factis.Haskoon.WebSalvia",
+          "name": "salviaMain",
+          "package": "haskoon-salvia",
+          "signature": "String -\u003e PortNumber -\u003e WebSalvia (Handler ()) (WebRes (WebSalvia (Handler ()))) -\u003e IO ()",
+          "source": "src/Factis-Haskoon-WebSalvia.html#salviaMain",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Factis Haskoon WebSalvia",
+          "module": "Factis.Haskoon.WebSalvia",
+          "name": "salviaMain",
+          "normalized": "String-\u003ePortNumber-\u003eWebSalvia(Handler())(WebRes(WebSalvia(Handler())))-\u003eIO()",
+          "package": "haskoon-salvia",
+          "partial": "Main",
+          "signature": "String-\u003ePortNumber-\u003eWebSalvia(Handler())(WebRes(WebSalvia(Handler())))-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskoon-salvia/docs/Factis-Haskoon-WebSalvia.html#v:salviaMain"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskoon-salvia/docs/Factis-Haskoon-WebSalvia.html#v:salviaMain",
-      "description": {
-        "fct-module": "Factis.Haskoon.WebSalvia",
-        "fct-package": "haskoon-salvia",
-        "fct-signature": "String -\u003e PortNumber -\u003e WebSalvia (Handler ()) (WebRes (WebSalvia (Handler ()))) -\u003e IO ()",
-        "fct-source": "src/Factis-Haskoon-WebSalvia.html#salviaMain",
-        "fct-type": "function",
-        "title": "salviaMain"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Factis Haskoon WebSalvia",
-        "module": "Factis.Haskoon.WebSalvia",
-        "name": "salviaMain",
-        "normalized": "String-\u003ePortNumber-\u003eWebSalvia(Handler())(WebRes(WebSalvia(Handler())))-\u003eIO()",
-        "package": "haskoon-salvia",
-        "partial": "Main",
-        "signature": "String-\u003ePortNumber-\u003eWebSalvia(Handler())(WebRes(WebSalvia(Handler())))-\u003eIO()"
-      }
-    }
-  }
+  ]
 ]

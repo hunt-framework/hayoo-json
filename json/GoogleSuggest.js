@@ -1,2210 +1,2042 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "module",
-        "fct-source": "src/Google-Suggest.html",
-        "fct-type": "module",
-        "title": "Suggest"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Suggest",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Suggest",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#t:Language",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "data",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "data",
-        "title": "Language"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Language",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Language",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Afrikaans",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Afrikaans",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Afrikaans"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Afrikaans",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Afrikaans",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Albanian",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Albanian",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Albanian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Albanian",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Albanian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Amharic",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Amharic",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Amharic"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Amharic",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Amharic",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Arabic",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Arabic",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Arabic"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Arabic",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Arabic",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Armenian",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Armenian",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Armenian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Armenian",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Armenian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Azerbaijani",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Azerbaijani",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Azerbaijani"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Azerbaijani",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Azerbaijani",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Basque",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Basque",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Basque"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Basque",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Basque",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Belarusian",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Belarusian",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Belarusian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Belarusian",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Belarusian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Bengali",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Bengali",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Bengali"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Bengali",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Bengali",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Bihari",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Bihari",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Bihari"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Bihari",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Bihari",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Bulgarian",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Bulgarian",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Bulgarian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Bulgarian",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Bulgarian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Burmese",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Burmese",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Burmese"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Burmese",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Burmese",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Catalan",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Catalan",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Catalan"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Catalan",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Catalan",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Cherokee",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Cherokee",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Cherokee"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Cherokee",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Cherokee",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Chinese",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Chinese",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Chinese"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Chinese",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Chinese",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:ChineseSimplified",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "ChineseSimplified",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "ChineseSimplified"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "ChineseSimplified",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Chinese Simplified",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:ChineseTraditional",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "ChineseTraditional",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "ChineseTraditional"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "ChineseTraditional",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Chinese Traditional",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Croatian",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Croatian",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Croatian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Croatian",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Croatian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Czech",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Czech",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Czech"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Czech",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Czech",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Danish",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Danish",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Danish"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Danish",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Danish",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Dhivehi",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Dhivehi",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Dhivehi"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Dhivehi",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Dhivehi",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Dutch",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Dutch",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Dutch"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Dutch",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Dutch",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:English",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "English",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "English"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "English",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "English",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Esperanto",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Esperanto",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Esperanto"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Esperanto",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Esperanto",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Estonian",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Estonian",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Estonian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Estonian",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Estonian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Filipino",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Filipino",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Filipino"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Filipino",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Filipino",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Finnish",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Finnish",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Finnish"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Finnish",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Finnish",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:French",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "French",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "French"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "French",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "French",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Galician",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Galician",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Galician"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Galician",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Galician",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Georgian",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Georgian",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Georgian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Georgian",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Georgian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:German",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "German",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "German"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "German",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "German",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Greek",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Greek",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Greek"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Greek",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Greek",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Guarani",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Guarani",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Guarani"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Guarani",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Guarani",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Gujarati",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Gujarati",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Gujarati"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Gujarati",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Gujarati",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Hebrew",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Hebrew",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Hebrew"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Hebrew",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Hebrew",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Hindi",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Hindi",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Hindi"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Hindi",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Hindi",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Hungarian",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Hungarian",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Hungarian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Hungarian",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Hungarian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Icelandic",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Icelandic",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Icelandic"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Icelandic",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Icelandic",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Indonesian",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Indonesian",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Indonesian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Indonesian",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Indonesian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Inuktitut",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Inuktitut",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Inuktitut"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Inuktitut",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Inuktitut",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Italian",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Italian",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Italian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Italian",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Italian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Japanese",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Japanese",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Japanese"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Japanese",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Japanese",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Kannada",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Kannada",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Kannada"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Kannada",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Kannada",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Kazakh",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Kazakh",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Kazakh"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Kazakh",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Kazakh",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Khmer",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Khmer",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Khmer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Khmer",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Khmer",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Korean",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Korean",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Korean"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Korean",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Korean",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Kurdish",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Kurdish",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Kurdish"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Kurdish",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Kurdish",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Kyrgyz",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Kyrgyz",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Kyrgyz"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Kyrgyz",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Kyrgyz",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Laothian",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Laothian",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Laothian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Laothian",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Laothian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Latvian",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Latvian",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Latvian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Latvian",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Latvian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Lithuanian",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Lithuanian",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Lithuanian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Lithuanian",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Lithuanian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Macedonian",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Macedonian",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Macedonian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Macedonian",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Macedonian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Malay",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Malay",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Malay"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Malay",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Malay",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Malayalam",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Malayalam",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Malayalam"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Malayalam",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Malayalam",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Maltese",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Maltese",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Maltese"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Maltese",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Maltese",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Marathi",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Marathi",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Marathi"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Marathi",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Marathi",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Mongolian",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Mongolian",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Mongolian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Mongolian",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Mongolian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Nepali",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Nepali",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Nepali"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Nepali",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Nepali",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Norwegian",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Norwegian",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Norwegian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Norwegian",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Norwegian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Oriya",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Oriya",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Oriya"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Oriya",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Oriya",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Pashto",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Pashto",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Pashto"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Pashto",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Pashto",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Persian",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Persian",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Persian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Persian",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Persian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Polish",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Polish",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Polish"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Polish",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Polish",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Portuguese",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Portuguese",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Portuguese"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Portuguese",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Portuguese",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Punjabi",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Punjabi",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Punjabi"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Punjabi",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Punjabi",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Romanian",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Romanian",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Romanian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Romanian",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Romanian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Russian",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Russian",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Russian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Russian",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Russian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Sanskrit",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Sanskrit",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Sanskrit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Sanskrit",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Sanskrit",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Serbian",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Serbian",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Serbian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Serbian",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Serbian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Sindhi",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Sindhi",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Sindhi"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Sindhi",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Sindhi",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Sinhalese",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Sinhalese",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Sinhalese"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Sinhalese",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Sinhalese",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Slovak",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Slovak",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Slovak"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Slovak",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Slovak",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Slovenian",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Slovenian",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Slovenian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Slovenian",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Slovenian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Spanish",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Spanish",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Spanish"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Spanish",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Spanish",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Swahili",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Swahili",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Swahili"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Swahili",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Swahili",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Swedish",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Swedish",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Swedish"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Swedish",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Swedish",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Tagalog",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Tagalog",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Tagalog"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Tagalog",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Tagalog",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Tajik",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Tajik",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Tajik"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Tajik",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Tajik",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Tamil",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Tamil",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Tamil"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Tamil",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Tamil",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Telugu",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Telugu",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Telugu"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Telugu",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Telugu",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Thai",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Thai",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Thai"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Thai",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Thai",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Tibetan",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Tibetan",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Tibetan"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Tibetan",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Tibetan",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Turkish",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Turkish",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Turkish"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Turkish",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Turkish",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Uighur",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Uighur",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Uighur"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Uighur",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Uighur",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Ukrainian",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Ukrainian",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Ukrainian"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Ukrainian",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Ukrainian",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Unknown",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Unknown",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Unknown"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Unknown",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Unknown",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Urdu",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Urdu",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Urdu"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Urdu",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Urdu",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Uzbek",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Uzbek",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Uzbek"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Uzbek",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Uzbek",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Vietnamese",
-      "description": {
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "Vietnamese",
-        "fct-source": "src/Google-Suggest.html#Language",
-        "fct-type": "function",
-        "title": "Vietnamese"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "Vietnamese",
-        "normalized": "",
-        "package": "GoogleSuggest",
-        "partial": "Vietnamese",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:suggest",
-      "description": {
-        "fct-descr": "\u003cp\u003eGet [(suggestions, queries)] from Google Suggest.\n\u003c/p\u003e",
-        "fct-module": "Google.Suggest",
-        "fct-package": "GoogleSuggest",
-        "fct-signature": "String-\u003e Maybe Language-\u003e IO (Either String [(String, Int)])",
-        "fct-type": "function",
-        "title": "suggest"
-      },
-      "index": {
-        "description": "Get suggestions queries from Google Suggest",
-        "hierarchy": "Google Suggest",
-        "module": "Google.Suggest",
-        "name": "suggest",
-        "normalized": "String-\u003eMaybe Language-\u003eIO(Either String[(String,Int)])",
-        "package": "GoogleSuggest",
-        "partial": "",
-        "signature": "String-\u003eMaybe Language-\u003eIO(Either String[(String,Int)])"
-      }
-    }
-  }
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "GoogleSuggest"
+      },
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Suggest",
+          "package": "GoogleSuggest",
+          "source": "src/Google-Suggest.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Suggest",
+          "package": "GoogleSuggest",
+          "partial": "Suggest",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Language",
+          "package": "GoogleSuggest",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Language",
+          "package": "GoogleSuggest",
+          "partial": "Language",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#t:Language"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Afrikaans",
+          "package": "GoogleSuggest",
+          "signature": "Afrikaans",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Afrikaans",
+          "package": "GoogleSuggest",
+          "partial": "Afrikaans",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Afrikaans"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Albanian",
+          "package": "GoogleSuggest",
+          "signature": "Albanian",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Albanian",
+          "package": "GoogleSuggest",
+          "partial": "Albanian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Albanian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Amharic",
+          "package": "GoogleSuggest",
+          "signature": "Amharic",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Amharic",
+          "package": "GoogleSuggest",
+          "partial": "Amharic",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Amharic"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Arabic",
+          "package": "GoogleSuggest",
+          "signature": "Arabic",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Arabic",
+          "package": "GoogleSuggest",
+          "partial": "Arabic",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Arabic"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Armenian",
+          "package": "GoogleSuggest",
+          "signature": "Armenian",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Armenian",
+          "package": "GoogleSuggest",
+          "partial": "Armenian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Armenian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Azerbaijani",
+          "package": "GoogleSuggest",
+          "signature": "Azerbaijani",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Azerbaijani",
+          "package": "GoogleSuggest",
+          "partial": "Azerbaijani",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Azerbaijani"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Basque",
+          "package": "GoogleSuggest",
+          "signature": "Basque",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Basque",
+          "package": "GoogleSuggest",
+          "partial": "Basque",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Basque"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Belarusian",
+          "package": "GoogleSuggest",
+          "signature": "Belarusian",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Belarusian",
+          "package": "GoogleSuggest",
+          "partial": "Belarusian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Belarusian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Bengali",
+          "package": "GoogleSuggest",
+          "signature": "Bengali",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Bengali",
+          "package": "GoogleSuggest",
+          "partial": "Bengali",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Bengali"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Bihari",
+          "package": "GoogleSuggest",
+          "signature": "Bihari",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Bihari",
+          "package": "GoogleSuggest",
+          "partial": "Bihari",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Bihari"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Bulgarian",
+          "package": "GoogleSuggest",
+          "signature": "Bulgarian",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Bulgarian",
+          "package": "GoogleSuggest",
+          "partial": "Bulgarian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Bulgarian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Burmese",
+          "package": "GoogleSuggest",
+          "signature": "Burmese",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Burmese",
+          "package": "GoogleSuggest",
+          "partial": "Burmese",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Burmese"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Catalan",
+          "package": "GoogleSuggest",
+          "signature": "Catalan",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Catalan",
+          "package": "GoogleSuggest",
+          "partial": "Catalan",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Catalan"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Cherokee",
+          "package": "GoogleSuggest",
+          "signature": "Cherokee",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Cherokee",
+          "package": "GoogleSuggest",
+          "partial": "Cherokee",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Cherokee"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Chinese",
+          "package": "GoogleSuggest",
+          "signature": "Chinese",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Chinese",
+          "package": "GoogleSuggest",
+          "partial": "Chinese",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Chinese"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "ChineseSimplified",
+          "package": "GoogleSuggest",
+          "signature": "ChineseSimplified",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "ChineseSimplified",
+          "package": "GoogleSuggest",
+          "partial": "Chinese Simplified",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:ChineseSimplified"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "ChineseTraditional",
+          "package": "GoogleSuggest",
+          "signature": "ChineseTraditional",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "ChineseTraditional",
+          "package": "GoogleSuggest",
+          "partial": "Chinese Traditional",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:ChineseTraditional"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Croatian",
+          "package": "GoogleSuggest",
+          "signature": "Croatian",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Croatian",
+          "package": "GoogleSuggest",
+          "partial": "Croatian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Croatian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Czech",
+          "package": "GoogleSuggest",
+          "signature": "Czech",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Czech",
+          "package": "GoogleSuggest",
+          "partial": "Czech",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Czech"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Danish",
+          "package": "GoogleSuggest",
+          "signature": "Danish",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Danish",
+          "package": "GoogleSuggest",
+          "partial": "Danish",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Danish"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Dhivehi",
+          "package": "GoogleSuggest",
+          "signature": "Dhivehi",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Dhivehi",
+          "package": "GoogleSuggest",
+          "partial": "Dhivehi",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Dhivehi"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Dutch",
+          "package": "GoogleSuggest",
+          "signature": "Dutch",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Dutch",
+          "package": "GoogleSuggest",
+          "partial": "Dutch",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Dutch"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "English",
+          "package": "GoogleSuggest",
+          "signature": "English",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "English",
+          "package": "GoogleSuggest",
+          "partial": "English",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:English"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Esperanto",
+          "package": "GoogleSuggest",
+          "signature": "Esperanto",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Esperanto",
+          "package": "GoogleSuggest",
+          "partial": "Esperanto",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Esperanto"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Estonian",
+          "package": "GoogleSuggest",
+          "signature": "Estonian",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Estonian",
+          "package": "GoogleSuggest",
+          "partial": "Estonian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Estonian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Filipino",
+          "package": "GoogleSuggest",
+          "signature": "Filipino",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Filipino",
+          "package": "GoogleSuggest",
+          "partial": "Filipino",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Filipino"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Finnish",
+          "package": "GoogleSuggest",
+          "signature": "Finnish",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Finnish",
+          "package": "GoogleSuggest",
+          "partial": "Finnish",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Finnish"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "French",
+          "package": "GoogleSuggest",
+          "signature": "French",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "French",
+          "package": "GoogleSuggest",
+          "partial": "French",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:French"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Galician",
+          "package": "GoogleSuggest",
+          "signature": "Galician",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Galician",
+          "package": "GoogleSuggest",
+          "partial": "Galician",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Galician"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Georgian",
+          "package": "GoogleSuggest",
+          "signature": "Georgian",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Georgian",
+          "package": "GoogleSuggest",
+          "partial": "Georgian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Georgian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "German",
+          "package": "GoogleSuggest",
+          "signature": "German",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "German",
+          "package": "GoogleSuggest",
+          "partial": "German",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:German"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Greek",
+          "package": "GoogleSuggest",
+          "signature": "Greek",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Greek",
+          "package": "GoogleSuggest",
+          "partial": "Greek",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Greek"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Guarani",
+          "package": "GoogleSuggest",
+          "signature": "Guarani",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Guarani",
+          "package": "GoogleSuggest",
+          "partial": "Guarani",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Guarani"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Gujarati",
+          "package": "GoogleSuggest",
+          "signature": "Gujarati",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Gujarati",
+          "package": "GoogleSuggest",
+          "partial": "Gujarati",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Gujarati"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Hebrew",
+          "package": "GoogleSuggest",
+          "signature": "Hebrew",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Hebrew",
+          "package": "GoogleSuggest",
+          "partial": "Hebrew",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Hebrew"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Hindi",
+          "package": "GoogleSuggest",
+          "signature": "Hindi",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Hindi",
+          "package": "GoogleSuggest",
+          "partial": "Hindi",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Hindi"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Hungarian",
+          "package": "GoogleSuggest",
+          "signature": "Hungarian",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Hungarian",
+          "package": "GoogleSuggest",
+          "partial": "Hungarian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Hungarian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Icelandic",
+          "package": "GoogleSuggest",
+          "signature": "Icelandic",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Icelandic",
+          "package": "GoogleSuggest",
+          "partial": "Icelandic",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Icelandic"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Indonesian",
+          "package": "GoogleSuggest",
+          "signature": "Indonesian",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Indonesian",
+          "package": "GoogleSuggest",
+          "partial": "Indonesian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Indonesian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Inuktitut",
+          "package": "GoogleSuggest",
+          "signature": "Inuktitut",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Inuktitut",
+          "package": "GoogleSuggest",
+          "partial": "Inuktitut",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Inuktitut"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Italian",
+          "package": "GoogleSuggest",
+          "signature": "Italian",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Italian",
+          "package": "GoogleSuggest",
+          "partial": "Italian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Italian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Japanese",
+          "package": "GoogleSuggest",
+          "signature": "Japanese",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Japanese",
+          "package": "GoogleSuggest",
+          "partial": "Japanese",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Japanese"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Kannada",
+          "package": "GoogleSuggest",
+          "signature": "Kannada",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Kannada",
+          "package": "GoogleSuggest",
+          "partial": "Kannada",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Kannada"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Kazakh",
+          "package": "GoogleSuggest",
+          "signature": "Kazakh",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Kazakh",
+          "package": "GoogleSuggest",
+          "partial": "Kazakh",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Kazakh"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Khmer",
+          "package": "GoogleSuggest",
+          "signature": "Khmer",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Khmer",
+          "package": "GoogleSuggest",
+          "partial": "Khmer",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Khmer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Korean",
+          "package": "GoogleSuggest",
+          "signature": "Korean",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Korean",
+          "package": "GoogleSuggest",
+          "partial": "Korean",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Korean"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Kurdish",
+          "package": "GoogleSuggest",
+          "signature": "Kurdish",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Kurdish",
+          "package": "GoogleSuggest",
+          "partial": "Kurdish",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Kurdish"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Kyrgyz",
+          "package": "GoogleSuggest",
+          "signature": "Kyrgyz",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Kyrgyz",
+          "package": "GoogleSuggest",
+          "partial": "Kyrgyz",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Kyrgyz"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Laothian",
+          "package": "GoogleSuggest",
+          "signature": "Laothian",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Laothian",
+          "package": "GoogleSuggest",
+          "partial": "Laothian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Laothian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Latvian",
+          "package": "GoogleSuggest",
+          "signature": "Latvian",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Latvian",
+          "package": "GoogleSuggest",
+          "partial": "Latvian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Latvian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Lithuanian",
+          "package": "GoogleSuggest",
+          "signature": "Lithuanian",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Lithuanian",
+          "package": "GoogleSuggest",
+          "partial": "Lithuanian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Lithuanian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Macedonian",
+          "package": "GoogleSuggest",
+          "signature": "Macedonian",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Macedonian",
+          "package": "GoogleSuggest",
+          "partial": "Macedonian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Macedonian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Malay",
+          "package": "GoogleSuggest",
+          "signature": "Malay",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Malay",
+          "package": "GoogleSuggest",
+          "partial": "Malay",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Malay"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Malayalam",
+          "package": "GoogleSuggest",
+          "signature": "Malayalam",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Malayalam",
+          "package": "GoogleSuggest",
+          "partial": "Malayalam",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Malayalam"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Maltese",
+          "package": "GoogleSuggest",
+          "signature": "Maltese",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Maltese",
+          "package": "GoogleSuggest",
+          "partial": "Maltese",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Maltese"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Marathi",
+          "package": "GoogleSuggest",
+          "signature": "Marathi",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Marathi",
+          "package": "GoogleSuggest",
+          "partial": "Marathi",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Marathi"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Mongolian",
+          "package": "GoogleSuggest",
+          "signature": "Mongolian",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Mongolian",
+          "package": "GoogleSuggest",
+          "partial": "Mongolian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Mongolian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Nepali",
+          "package": "GoogleSuggest",
+          "signature": "Nepali",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Nepali",
+          "package": "GoogleSuggest",
+          "partial": "Nepali",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Nepali"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Norwegian",
+          "package": "GoogleSuggest",
+          "signature": "Norwegian",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Norwegian",
+          "package": "GoogleSuggest",
+          "partial": "Norwegian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Norwegian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Oriya",
+          "package": "GoogleSuggest",
+          "signature": "Oriya",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Oriya",
+          "package": "GoogleSuggest",
+          "partial": "Oriya",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Oriya"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Pashto",
+          "package": "GoogleSuggest",
+          "signature": "Pashto",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Pashto",
+          "package": "GoogleSuggest",
+          "partial": "Pashto",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Pashto"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Persian",
+          "package": "GoogleSuggest",
+          "signature": "Persian",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Persian",
+          "package": "GoogleSuggest",
+          "partial": "Persian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Persian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Polish",
+          "package": "GoogleSuggest",
+          "signature": "Polish",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Polish",
+          "package": "GoogleSuggest",
+          "partial": "Polish",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Polish"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Portuguese",
+          "package": "GoogleSuggest",
+          "signature": "Portuguese",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Portuguese",
+          "package": "GoogleSuggest",
+          "partial": "Portuguese",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Portuguese"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Punjabi",
+          "package": "GoogleSuggest",
+          "signature": "Punjabi",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Punjabi",
+          "package": "GoogleSuggest",
+          "partial": "Punjabi",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Punjabi"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Romanian",
+          "package": "GoogleSuggest",
+          "signature": "Romanian",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Romanian",
+          "package": "GoogleSuggest",
+          "partial": "Romanian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Romanian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Russian",
+          "package": "GoogleSuggest",
+          "signature": "Russian",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Russian",
+          "package": "GoogleSuggest",
+          "partial": "Russian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Russian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Sanskrit",
+          "package": "GoogleSuggest",
+          "signature": "Sanskrit",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Sanskrit",
+          "package": "GoogleSuggest",
+          "partial": "Sanskrit",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Sanskrit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Serbian",
+          "package": "GoogleSuggest",
+          "signature": "Serbian",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Serbian",
+          "package": "GoogleSuggest",
+          "partial": "Serbian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Serbian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Sindhi",
+          "package": "GoogleSuggest",
+          "signature": "Sindhi",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Sindhi",
+          "package": "GoogleSuggest",
+          "partial": "Sindhi",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Sindhi"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Sinhalese",
+          "package": "GoogleSuggest",
+          "signature": "Sinhalese",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Sinhalese",
+          "package": "GoogleSuggest",
+          "partial": "Sinhalese",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Sinhalese"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Slovak",
+          "package": "GoogleSuggest",
+          "signature": "Slovak",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Slovak",
+          "package": "GoogleSuggest",
+          "partial": "Slovak",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Slovak"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Slovenian",
+          "package": "GoogleSuggest",
+          "signature": "Slovenian",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Slovenian",
+          "package": "GoogleSuggest",
+          "partial": "Slovenian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Slovenian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Spanish",
+          "package": "GoogleSuggest",
+          "signature": "Spanish",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Spanish",
+          "package": "GoogleSuggest",
+          "partial": "Spanish",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Spanish"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Swahili",
+          "package": "GoogleSuggest",
+          "signature": "Swahili",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Swahili",
+          "package": "GoogleSuggest",
+          "partial": "Swahili",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Swahili"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Swedish",
+          "package": "GoogleSuggest",
+          "signature": "Swedish",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Swedish",
+          "package": "GoogleSuggest",
+          "partial": "Swedish",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Swedish"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Tagalog",
+          "package": "GoogleSuggest",
+          "signature": "Tagalog",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Tagalog",
+          "package": "GoogleSuggest",
+          "partial": "Tagalog",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Tagalog"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Tajik",
+          "package": "GoogleSuggest",
+          "signature": "Tajik",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Tajik",
+          "package": "GoogleSuggest",
+          "partial": "Tajik",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Tajik"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Tamil",
+          "package": "GoogleSuggest",
+          "signature": "Tamil",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Tamil",
+          "package": "GoogleSuggest",
+          "partial": "Tamil",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Tamil"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Telugu",
+          "package": "GoogleSuggest",
+          "signature": "Telugu",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Telugu",
+          "package": "GoogleSuggest",
+          "partial": "Telugu",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Telugu"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Thai",
+          "package": "GoogleSuggest",
+          "signature": "Thai",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Thai",
+          "package": "GoogleSuggest",
+          "partial": "Thai",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Thai"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Tibetan",
+          "package": "GoogleSuggest",
+          "signature": "Tibetan",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Tibetan",
+          "package": "GoogleSuggest",
+          "partial": "Tibetan",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Tibetan"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Turkish",
+          "package": "GoogleSuggest",
+          "signature": "Turkish",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Turkish",
+          "package": "GoogleSuggest",
+          "partial": "Turkish",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Turkish"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Uighur",
+          "package": "GoogleSuggest",
+          "signature": "Uighur",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Uighur",
+          "package": "GoogleSuggest",
+          "partial": "Uighur",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Uighur"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Ukrainian",
+          "package": "GoogleSuggest",
+          "signature": "Ukrainian",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Ukrainian",
+          "package": "GoogleSuggest",
+          "partial": "Ukrainian",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Ukrainian"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Unknown",
+          "package": "GoogleSuggest",
+          "signature": "Unknown",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Unknown",
+          "package": "GoogleSuggest",
+          "partial": "Unknown",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Unknown"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Urdu",
+          "package": "GoogleSuggest",
+          "signature": "Urdu",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Urdu",
+          "package": "GoogleSuggest",
+          "partial": "Urdu",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Urdu"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Uzbek",
+          "package": "GoogleSuggest",
+          "signature": "Uzbek",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Uzbek",
+          "package": "GoogleSuggest",
+          "partial": "Uzbek",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Uzbek"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Google.Suggest",
+          "name": "Vietnamese",
+          "package": "GoogleSuggest",
+          "signature": "Vietnamese",
+          "source": "src/Google-Suggest.html#Language",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "Vietnamese",
+          "package": "GoogleSuggest",
+          "partial": "Vietnamese",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:Vietnamese"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eGet [(suggestions, queries)] from Google Suggest.\n\u003c/p\u003e",
+          "module": "Google.Suggest",
+          "name": "suggest",
+          "package": "GoogleSuggest",
+          "signature": "String-\u003e Maybe Language-\u003e IO (Either String [(String, Int)])",
+          "type": "function"
+        },
+        "index": {
+          "description": "Get suggestions queries from Google Suggest",
+          "hierarchy": "Google Suggest",
+          "module": "Google.Suggest",
+          "name": "suggest",
+          "normalized": "String-\u003eMaybe Language-\u003eIO(Either String[(String,Int)])",
+          "package": "GoogleSuggest",
+          "signature": "String-\u003eMaybe Language-\u003eIO(Either String[(String,Int)])",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/GoogleSuggest/docs/Google-Suggest.html#v:suggest"
+      }
+    }
+  ]
 ]

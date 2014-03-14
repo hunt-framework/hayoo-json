@@ -1,2581 +1,2351 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Check.html#",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Check",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "module",
-        "fct-source": "src/Language-MessagePack-IDL-Check.html",
-        "fct-type": "module",
-        "title": "Check"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Check",
-        "module": "Language.MessagePack.IDL.Check",
-        "name": "Check",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Check",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Check.html#v:check",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Check",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Spec -\u003e Bool",
-        "fct-source": "src/Language-MessagePack-IDL-Check.html#check",
-        "fct-type": "function",
-        "title": "check"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Check",
-        "module": "Language.MessagePack.IDL.Check",
-        "name": "check",
-        "normalized": "Spec-\u003eBool",
-        "package": "msgpack-idl",
-        "partial": "",
-        "signature": "Spec-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Cpp.html#",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Cpp",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "module",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Cpp.html",
-        "fct-type": "module",
-        "title": "Cpp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Cpp",
-        "module": "Language.MessagePack.IDL.CodeGen.Cpp",
-        "name": "Cpp",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Cpp",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Cpp.html#t:Config",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Cpp",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "data",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Cpp.html#Config",
-        "fct-type": "data",
-        "title": "Config"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Cpp",
-        "module": "Language.MessagePack.IDL.CodeGen.Cpp",
-        "name": "Config",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Config",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Cpp.html#v:Config",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Cpp",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Config",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Cpp.html#Config",
-        "fct-type": "function",
-        "title": "Config"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Cpp",
-        "module": "Language.MessagePack.IDL.CodeGen.Cpp",
-        "name": "Config",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Config",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Cpp.html#v:configFilePath",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Cpp",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "FilePath",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Cpp.html#Config",
-        "fct-type": "function",
-        "title": "configFilePath"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Cpp",
-        "module": "Language.MessagePack.IDL.CodeGen.Cpp",
-        "name": "configFilePath",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "File Path",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Cpp.html#v:configNameSpace",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Cpp",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "String",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Cpp.html#Config",
-        "fct-type": "function",
-        "title": "configNameSpace"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Cpp",
-        "module": "Language.MessagePack.IDL.CodeGen.Cpp",
-        "name": "configNameSpace",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Name Space",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Cpp.html#v:configPFICommon",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Cpp",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Bool",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Cpp.html#Config",
-        "fct-type": "function",
-        "title": "configPFICommon"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Cpp",
-        "module": "Language.MessagePack.IDL.CodeGen.Cpp",
-        "name": "configPFICommon",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "PFICommon",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Cpp.html#v:generate",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Cpp",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Config -\u003e Spec -\u003e IO ()",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Cpp.html#generate",
-        "fct-type": "function",
-        "title": "generate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Cpp",
-        "module": "Language.MessagePack.IDL.CodeGen.Cpp",
-        "name": "generate",
-        "normalized": "Config-\u003eSpec-\u003eIO()",
-        "package": "msgpack-idl",
-        "partial": "",
-        "signature": "Config-\u003eSpec-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Erlang.html#",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Erlang",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "module",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Erlang.html",
-        "fct-type": "module",
-        "title": "Erlang"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Erlang",
-        "module": "Language.MessagePack.IDL.CodeGen.Erlang",
-        "name": "Erlang",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Erlang",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Erlang.html#t:Config",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Erlang",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "data",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Erlang.html#Config",
-        "fct-type": "data",
-        "title": "Config"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Erlang",
-        "module": "Language.MessagePack.IDL.CodeGen.Erlang",
-        "name": "Config",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Config",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Erlang.html#v:Config",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Erlang",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Config",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Erlang.html#Config",
-        "fct-type": "function",
-        "title": "Config"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Erlang",
-        "module": "Language.MessagePack.IDL.CodeGen.Erlang",
-        "name": "Config",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Config",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Erlang.html#v:configFilePath",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Erlang",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "FilePath",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Erlang.html#Config",
-        "fct-type": "function",
-        "title": "configFilePath"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Erlang",
-        "module": "Language.MessagePack.IDL.CodeGen.Erlang",
-        "name": "configFilePath",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "File Path",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Erlang.html#v:generate",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Erlang",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Config -\u003e Spec -\u003e IO ()",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Erlang.html#generate",
-        "fct-type": "function",
-        "title": "generate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Erlang",
-        "module": "Language.MessagePack.IDL.CodeGen.Erlang",
-        "name": "generate",
-        "normalized": "Config-\u003eSpec-\u003eIO()",
-        "package": "msgpack-idl",
-        "partial": "",
-        "signature": "Config-\u003eSpec-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Haskell.html#",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Haskell",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "module",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Haskell.html",
-        "fct-type": "module",
-        "title": "Haskell"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Haskell",
-        "module": "Language.MessagePack.IDL.CodeGen.Haskell",
-        "name": "Haskell",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Haskell",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Haskell.html#t:Config",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Haskell",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "data",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Haskell.html#Config",
-        "fct-type": "data",
-        "title": "Config"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Haskell",
-        "module": "Language.MessagePack.IDL.CodeGen.Haskell",
-        "name": "Config",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Config",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Haskell.html#v:Config",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Haskell",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Config",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Haskell.html#Config",
-        "fct-type": "function",
-        "title": "Config"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Haskell",
-        "module": "Language.MessagePack.IDL.CodeGen.Haskell",
-        "name": "Config",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Config",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Haskell.html#v:configFilePath",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Haskell",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "FilePath",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Haskell.html#Config",
-        "fct-type": "function",
-        "title": "configFilePath"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Haskell",
-        "module": "Language.MessagePack.IDL.CodeGen.Haskell",
-        "name": "configFilePath",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "File Path",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Haskell.html#v:generate",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Haskell",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Config -\u003e Spec -\u003e IO ()",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Haskell.html#generate",
-        "fct-type": "function",
-        "title": "generate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Haskell",
-        "module": "Language.MessagePack.IDL.CodeGen.Haskell",
-        "name": "generate",
-        "normalized": "Config-\u003eSpec-\u003eIO()",
-        "package": "msgpack-idl",
-        "partial": "",
-        "signature": "Config-\u003eSpec-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Java.html#",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Java",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "module",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Java.html",
-        "fct-type": "module",
-        "title": "Java"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Java",
-        "module": "Language.MessagePack.IDL.CodeGen.Java",
-        "name": "Java",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Java",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Java.html#t:Config",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Java",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "data",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Java.html#Config",
-        "fct-type": "data",
-        "title": "Config"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Java",
-        "module": "Language.MessagePack.IDL.CodeGen.Java",
-        "name": "Config",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Config",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Java.html#v:Config",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Java",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Config",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Java.html#Config",
-        "fct-type": "function",
-        "title": "Config"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Java",
-        "module": "Language.MessagePack.IDL.CodeGen.Java",
-        "name": "Config",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Config",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Java.html#v:configFilePath",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Java",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "FilePath",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Java.html#Config",
-        "fct-type": "function",
-        "title": "configFilePath"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Java",
-        "module": "Language.MessagePack.IDL.CodeGen.Java",
-        "name": "configFilePath",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "File Path",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Java.html#v:configPackage",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Java",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "String",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Java.html#Config",
-        "fct-type": "function",
-        "title": "configPackage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Java",
-        "module": "Language.MessagePack.IDL.CodeGen.Java",
-        "name": "configPackage",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Package",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Java.html#v:generate",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Java",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Config -\u003e Spec -\u003e IO ()",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Java.html#generate",
-        "fct-type": "function",
-        "title": "generate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Java",
-        "module": "Language.MessagePack.IDL.CodeGen.Java",
-        "name": "generate",
-        "normalized": "Config-\u003eSpec-\u003eIO()",
-        "package": "msgpack-idl",
-        "partial": "",
-        "signature": "Config-\u003eSpec-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Perl.html#",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Perl",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "module",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Perl.html",
-        "fct-type": "module",
-        "title": "Perl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Perl",
-        "module": "Language.MessagePack.IDL.CodeGen.Perl",
-        "name": "Perl",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Perl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Perl.html#t:Config",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Perl",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "data",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Perl.html#Config",
-        "fct-type": "data",
-        "title": "Config"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Perl",
-        "module": "Language.MessagePack.IDL.CodeGen.Perl",
-        "name": "Config",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Config",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Perl.html#v:Config",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Perl",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Config",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Perl.html#Config",
-        "fct-type": "function",
-        "title": "Config"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Perl",
-        "module": "Language.MessagePack.IDL.CodeGen.Perl",
-        "name": "Config",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Config",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Perl.html#v:configFilePath",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Perl",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "FilePath",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Perl.html#Config",
-        "fct-type": "function",
-        "title": "configFilePath"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Perl",
-        "module": "Language.MessagePack.IDL.CodeGen.Perl",
-        "name": "configFilePath",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "File Path",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Perl.html#v:configNameSpace",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Perl",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "String",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Perl.html#Config",
-        "fct-type": "function",
-        "title": "configNameSpace"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Perl",
-        "module": "Language.MessagePack.IDL.CodeGen.Perl",
-        "name": "configNameSpace",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Name Space",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Perl.html#v:generate",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Perl",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Config -\u003e Spec -\u003e IO ()",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Perl.html#generate",
-        "fct-type": "function",
-        "title": "generate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Perl",
-        "module": "Language.MessagePack.IDL.CodeGen.Perl",
-        "name": "generate",
-        "normalized": "Config-\u003eSpec-\u003eIO()",
-        "package": "msgpack-idl",
-        "partial": "",
-        "signature": "Config-\u003eSpec-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Php.html#",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Php",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "module",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Php.html",
-        "fct-type": "module",
-        "title": "Php"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Php",
-        "module": "Language.MessagePack.IDL.CodeGen.Php",
-        "name": "Php",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Php",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Php.html#t:Config",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Php",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "data",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Php.html#Config",
-        "fct-type": "data",
-        "title": "Config"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Php",
-        "module": "Language.MessagePack.IDL.CodeGen.Php",
-        "name": "Config",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Config",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Php.html#v:Config",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Php",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Config",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Php.html#Config",
-        "fct-type": "function",
-        "title": "Config"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Php",
-        "module": "Language.MessagePack.IDL.CodeGen.Php",
-        "name": "Config",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Config",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Php.html#v:configFilePath",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Php",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "FilePath",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Php.html#Config",
-        "fct-type": "function",
-        "title": "configFilePath"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Php",
-        "module": "Language.MessagePack.IDL.CodeGen.Php",
-        "name": "configFilePath",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "File Path",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Php.html#v:generate",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Php",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Config -\u003e Spec -\u003e IO ()",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Php.html#generate",
-        "fct-type": "function",
-        "title": "generate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Php",
-        "module": "Language.MessagePack.IDL.CodeGen.Php",
-        "name": "generate",
-        "normalized": "Config-\u003eSpec-\u003eIO()",
-        "package": "msgpack-idl",
-        "partial": "",
-        "signature": "Config-\u003eSpec-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Python.html#",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Python",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "module",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Python.html",
-        "fct-type": "module",
-        "title": "Python"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Python",
-        "module": "Language.MessagePack.IDL.CodeGen.Python",
-        "name": "Python",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Python",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Python.html#t:Config",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Python",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "data",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Python.html#Config",
-        "fct-type": "data",
-        "title": "Config"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Python",
-        "module": "Language.MessagePack.IDL.CodeGen.Python",
-        "name": "Config",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Config",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Python.html#v:Config",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Python",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Config",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Python.html#Config",
-        "fct-type": "function",
-        "title": "Config"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Python",
-        "module": "Language.MessagePack.IDL.CodeGen.Python",
-        "name": "Config",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Config",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Python.html#v:configFilePath",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Python",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "FilePath",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Python.html#Config",
-        "fct-type": "function",
-        "title": "configFilePath"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Python",
-        "module": "Language.MessagePack.IDL.CodeGen.Python",
-        "name": "configFilePath",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "File Path",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Python.html#v:generate",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Python",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Config -\u003e Spec -\u003e IO ()",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Python.html#generate",
-        "fct-type": "function",
-        "title": "generate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Python",
-        "module": "Language.MessagePack.IDL.CodeGen.Python",
-        "name": "generate",
-        "normalized": "Config-\u003eSpec-\u003eIO()",
-        "package": "msgpack-idl",
-        "partial": "",
-        "signature": "Config-\u003eSpec-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Ruby.html#",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Ruby",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "module",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Ruby.html",
-        "fct-type": "module",
-        "title": "Ruby"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Ruby",
-        "module": "Language.MessagePack.IDL.CodeGen.Ruby",
-        "name": "Ruby",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Ruby",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Ruby.html#t:Config",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Ruby",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "data",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Ruby.html#Config",
-        "fct-type": "data",
-        "title": "Config"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Ruby",
-        "module": "Language.MessagePack.IDL.CodeGen.Ruby",
-        "name": "Config",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Config",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Ruby.html#v:Config",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Ruby",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Config",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Ruby.html#Config",
-        "fct-type": "function",
-        "title": "Config"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Ruby",
-        "module": "Language.MessagePack.IDL.CodeGen.Ruby",
-        "name": "Config",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Config",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Ruby.html#v:configFilePath",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Ruby",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "FilePath",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Ruby.html#Config",
-        "fct-type": "function",
-        "title": "configFilePath"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Ruby",
-        "module": "Language.MessagePack.IDL.CodeGen.Ruby",
-        "name": "configFilePath",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "File Path",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Ruby.html#v:configModule",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Ruby",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "String",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Ruby.html#Config",
-        "fct-type": "function",
-        "title": "configModule"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Ruby",
-        "module": "Language.MessagePack.IDL.CodeGen.Ruby",
-        "name": "configModule",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Module",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Ruby.html#v:generate",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.CodeGen.Ruby",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Config -\u003e Spec -\u003e IO ()",
-        "fct-source": "src/Language-MessagePack-IDL-CodeGen-Ruby.html#generate",
-        "fct-type": "function",
-        "title": "generate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL CodeGen Ruby",
-        "module": "Language.MessagePack.IDL.CodeGen.Ruby",
-        "name": "generate",
-        "normalized": "Config-\u003eSpec-\u003eIO()",
-        "package": "msgpack-idl",
-        "partial": "",
-        "signature": "Config-\u003eSpec-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Internal.html#",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Internal",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "module",
-        "fct-source": "src/Language-MessagePack-IDL-Internal.html",
-        "fct-type": "module",
-        "title": "Internal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Internal",
-        "module": "Language.MessagePack.IDL.Internal",
-        "name": "Internal",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Internal",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Internal.html#v:withDirectory",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Internal",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "FilePath -\u003e IO a -\u003e IO a",
-        "fct-source": "src/Language-MessagePack-IDL-Internal.html#withDirectory",
-        "fct-type": "function",
-        "title": "withDirectory"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Internal",
-        "module": "Language.MessagePack.IDL.Internal",
-        "name": "withDirectory",
-        "normalized": "FilePath-\u003eIO a-\u003eIO a",
-        "package": "msgpack-idl",
-        "partial": "Directory",
-        "signature": "FilePath-\u003eIO a-\u003eIO a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Parser.html#",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Parser",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "module",
-        "fct-source": "src/Language-MessagePack-IDL-Parser.html",
-        "fct-type": "module",
-        "title": "Parser"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Parser",
-        "module": "Language.MessagePack.IDL.Parser",
-        "name": "Parser",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Parser",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Parser.html#v:idl",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Parser",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Parser (MemoTable str) str s Spec",
-        "fct-source": "src/Language-MessagePack-IDL-Parser.html#idl",
-        "fct-type": "function",
-        "title": "idl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Parser",
-        "module": "Language.MessagePack.IDL.Parser",
-        "name": "idl",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "module",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html",
-        "fct-type": "module",
-        "title": "Syntax"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "Syntax",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Syntax",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#t:Decl",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "data",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
-        "fct-type": "data",
-        "title": "Decl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "Decl",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Decl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#t:Field",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "data",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Field",
-        "fct-type": "data",
-        "title": "Field"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "Field",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Field",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#t:Literal",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "data",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Literal",
-        "fct-type": "data",
-        "title": "Literal"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "Literal",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Literal",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#t:Method",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "data",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Method",
-        "fct-type": "data",
-        "title": "Method"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "Method",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Method",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#t:Spec",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "type",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Spec",
-        "fct-type": "type",
-        "title": "Spec"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "Spec",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Spec",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#t:Type",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "data",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Type",
-        "fct-type": "data",
-        "title": "Type"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "Type",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:Field",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Field",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Field",
-        "fct-type": "function",
-        "title": "Field"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "Field",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Field",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:Function",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Function",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Method",
-        "fct-type": "function",
-        "title": "Function"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "Function",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Function",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:InheritAll",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "InheritAll",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Method",
-        "fct-type": "function",
-        "title": "InheritAll"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "InheritAll",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Inherit All",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:InheritName",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "InheritName Text",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Method",
-        "fct-type": "function",
-        "title": "InheritName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "InheritName",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Inherit Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:LBool",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "LBool Bool",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Literal",
-        "fct-type": "function",
-        "title": "LBool"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "LBool",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "LBool",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:LFloat",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "LFloat Double",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Literal",
-        "fct-type": "function",
-        "title": "LFloat"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "LFloat",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "LFloat",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:LInt",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "LInt Int",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Literal",
-        "fct-type": "function",
-        "title": "LInt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "LInt",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "LInt",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:LNull",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "LNull",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Literal",
-        "fct-type": "function",
-        "title": "LNull"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "LNull",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "LNull",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:LString",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "LString Text",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Literal",
-        "fct-type": "function",
-        "title": "LString"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "LString",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "LString",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:MPEnum",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "MPEnum",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
-        "fct-type": "function",
-        "title": "MPEnum"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "MPEnum",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "MPEnum",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:MPException",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "MPException",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
-        "fct-type": "function",
-        "title": "MPException"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "MPException",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "MPException",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:MPMessage",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "MPMessage",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
-        "fct-type": "function",
-        "title": "MPMessage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "MPMessage",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "MPMessage",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:MPService",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "MPService",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
-        "fct-type": "function",
-        "title": "MPService"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "MPService",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "MPService",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:MPType",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "MPType",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
-        "fct-type": "function",
-        "title": "MPType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "MPType",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "MPType",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:TBool",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "TBool",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Type",
-        "fct-type": "function",
-        "title": "TBool"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "TBool",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "TBool",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:TFloat",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "TFloat Bool",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Type",
-        "fct-type": "function",
-        "title": "TFloat"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "TFloat",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "TFloat",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:TInt",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "TInt Bool Int",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Type",
-        "fct-type": "function",
-        "title": "TInt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "TInt",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "TInt",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:TList",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "TList Type",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Type",
-        "fct-type": "function",
-        "title": "TList"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "TList",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "TList",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:TMap",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "TMap Type Type",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Type",
-        "fct-type": "function",
-        "title": "TMap"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "TMap",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "TMap",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:TNullable",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "TNullable Type",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Type",
-        "fct-type": "function",
-        "title": "TNullable"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "TNullable",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "TNullable",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:TObject",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "TObject",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Type",
-        "fct-type": "function",
-        "title": "TObject"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "TObject",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "TObject",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:TRaw",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "TRaw",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Type",
-        "fct-type": "function",
-        "title": "TRaw"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "TRaw",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "TRaw",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:TString",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "TString",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Type",
-        "fct-type": "function",
-        "title": "TString"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "TString",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "TString",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:TTuple",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "TTuple [Type]",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Type",
-        "fct-type": "function",
-        "title": "TTuple"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "TTuple",
-        "normalized": "TTuple[Type]",
-        "package": "msgpack-idl",
-        "partial": "TTuple",
-        "signature": "TTuple[Type]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:TUserDef",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "TUserDef Text [Type]",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Type",
-        "fct-type": "function",
-        "title": "TUserDef"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "TUserDef",
-        "normalized": "TUserDef Text[Type]",
-        "package": "msgpack-idl",
-        "partial": "TUser Def",
-        "signature": "TUserDef Text[Type]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:enumMem",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "[(Int, Text)]",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
-        "fct-type": "function",
-        "title": "enumMem"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "enumMem",
-        "normalized": "[(Int,Text)]",
-        "package": "msgpack-idl",
-        "partial": "Mem",
-        "signature": "[(Int,Text)]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:enumName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Text",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
-        "fct-type": "function",
-        "title": "enumName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "enumName",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:excFields",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "[Field]",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
-        "fct-type": "function",
-        "title": "excFields"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "excFields",
-        "normalized": "[Field]",
-        "package": "msgpack-idl",
-        "partial": "Fields",
-        "signature": "[Field]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:excName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Text",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
-        "fct-type": "function",
-        "title": "excName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "excName",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:excParam",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "[Text]",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
-        "fct-type": "function",
-        "title": "excParam"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "excParam",
-        "normalized": "[Text]",
-        "package": "msgpack-idl",
-        "partial": "Param",
-        "signature": "[Text]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:excSuper",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Maybe Text",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
-        "fct-type": "function",
-        "title": "excSuper"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "excSuper",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Super",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:fldDefault",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Maybe Literal",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Field",
-        "fct-type": "function",
-        "title": "fldDefault"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "fldDefault",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Default",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:fldId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Int",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Field",
-        "fct-type": "function",
-        "title": "fldId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "fldId",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:fldName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Text",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Field",
-        "fct-type": "function",
-        "title": "fldName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "fldName",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:fldType",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Type",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Field",
-        "fct-type": "function",
-        "title": "fldType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "fldType",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:methodArgs",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "[Field]",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Method",
-        "fct-type": "function",
-        "title": "methodArgs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "methodArgs",
-        "normalized": "[Field]",
-        "package": "msgpack-idl",
-        "partial": "Args",
-        "signature": "[Field]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:methodInherit",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Bool",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Method",
-        "fct-type": "function",
-        "title": "methodInherit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "methodInherit",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Inherit",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:methodName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Text",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Method",
-        "fct-type": "function",
-        "title": "methodName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "methodName",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:methodRetType",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Maybe Type",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Method",
-        "fct-type": "function",
-        "title": "methodRetType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "methodRetType",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Ret Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:msgFields",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "[Field]",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
-        "fct-type": "function",
-        "title": "msgFields"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "msgFields",
-        "normalized": "[Field]",
-        "package": "msgpack-idl",
-        "partial": "Fields",
-        "signature": "[Field]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:msgName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Text",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
-        "fct-type": "function",
-        "title": "msgName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "msgName",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:msgParam",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "[Text]",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
-        "fct-type": "function",
-        "title": "msgParam"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "msgParam",
-        "normalized": "[Text]",
-        "package": "msgpack-idl",
-        "partial": "Param",
-        "signature": "[Text]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:serviceMethods",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "[Method]",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
-        "fct-type": "function",
-        "title": "serviceMethods"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "serviceMethods",
-        "normalized": "[Method]",
-        "package": "msgpack-idl",
-        "partial": "Methods",
-        "signature": "[Method]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:serviceName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Text",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
-        "fct-type": "function",
-        "title": "serviceName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "serviceName",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:serviceVersion",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Maybe Int",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
-        "fct-type": "function",
-        "title": "serviceVersion"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "serviceVersion",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Version",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:tyName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Text",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
-        "fct-type": "function",
-        "title": "tyName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "tyName",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:tyType",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Language.MessagePack.IDL.Syntax",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "Type",
-        "fct-source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
-        "fct-type": "function",
-        "title": "tyType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL Syntax",
-        "module": "Language.MessagePack.IDL.Syntax",
-        "name": "tyType",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL.html#",
-      "description": {
-        "fct-module": "Language.MessagePack.IDL",
-        "fct-package": "msgpack-idl",
-        "fct-signature": "module",
-        "fct-source": "src/Language-MessagePack-IDL.html",
-        "fct-type": "module",
-        "title": "IDL"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language MessagePack IDL",
-        "module": "Language.MessagePack.IDL",
-        "name": "IDL",
-        "normalized": "",
-        "package": "msgpack-idl",
-        "partial": "IDL",
-        "signature": ""
-      }
-    }
-  }
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "msgpack-idl"
+      },
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Check",
+          "name": "Check",
+          "package": "msgpack-idl",
+          "source": "src/Language-MessagePack-IDL-Check.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Check",
+          "module": "Language.MessagePack.IDL.Check",
+          "name": "Check",
+          "package": "msgpack-idl",
+          "partial": "Check",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Check.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Check",
+          "name": "check",
+          "package": "msgpack-idl",
+          "signature": "Spec -\u003e Bool",
+          "source": "src/Language-MessagePack-IDL-Check.html#check",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Check",
+          "module": "Language.MessagePack.IDL.Check",
+          "name": "check",
+          "normalized": "Spec-\u003eBool",
+          "package": "msgpack-idl",
+          "signature": "Spec-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Check.html#v:check"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Cpp",
+          "name": "Cpp",
+          "package": "msgpack-idl",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Cpp.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Cpp",
+          "module": "Language.MessagePack.IDL.CodeGen.Cpp",
+          "name": "Cpp",
+          "package": "msgpack-idl",
+          "partial": "Cpp",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Cpp.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Cpp",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Cpp.html#Config",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Cpp",
+          "module": "Language.MessagePack.IDL.CodeGen.Cpp",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "partial": "Config",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Cpp.html#t:Config"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Cpp",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "signature": "Config",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Cpp.html#Config",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Cpp",
+          "module": "Language.MessagePack.IDL.CodeGen.Cpp",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "partial": "Config",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Cpp.html#v:Config"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Cpp",
+          "name": "configFilePath",
+          "package": "msgpack-idl",
+          "signature": "FilePath",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Cpp.html#Config",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Cpp",
+          "module": "Language.MessagePack.IDL.CodeGen.Cpp",
+          "name": "configFilePath",
+          "package": "msgpack-idl",
+          "partial": "File Path",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Cpp.html#v:configFilePath"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Cpp",
+          "name": "configNameSpace",
+          "package": "msgpack-idl",
+          "signature": "String",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Cpp.html#Config",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Cpp",
+          "module": "Language.MessagePack.IDL.CodeGen.Cpp",
+          "name": "configNameSpace",
+          "package": "msgpack-idl",
+          "partial": "Name Space",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Cpp.html#v:configNameSpace"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Cpp",
+          "name": "configPFICommon",
+          "package": "msgpack-idl",
+          "signature": "Bool",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Cpp.html#Config",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Cpp",
+          "module": "Language.MessagePack.IDL.CodeGen.Cpp",
+          "name": "configPFICommon",
+          "package": "msgpack-idl",
+          "partial": "PFICommon",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Cpp.html#v:configPFICommon"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Cpp",
+          "name": "generate",
+          "package": "msgpack-idl",
+          "signature": "Config -\u003e Spec -\u003e IO ()",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Cpp.html#generate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Cpp",
+          "module": "Language.MessagePack.IDL.CodeGen.Cpp",
+          "name": "generate",
+          "normalized": "Config-\u003eSpec-\u003eIO()",
+          "package": "msgpack-idl",
+          "signature": "Config-\u003eSpec-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Cpp.html#v:generate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Erlang",
+          "name": "Erlang",
+          "package": "msgpack-idl",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Erlang.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Erlang",
+          "module": "Language.MessagePack.IDL.CodeGen.Erlang",
+          "name": "Erlang",
+          "package": "msgpack-idl",
+          "partial": "Erlang",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Erlang.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Erlang",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Erlang.html#Config",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Erlang",
+          "module": "Language.MessagePack.IDL.CodeGen.Erlang",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "partial": "Config",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Erlang.html#t:Config"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Erlang",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "signature": "Config",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Erlang.html#Config",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Erlang",
+          "module": "Language.MessagePack.IDL.CodeGen.Erlang",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "partial": "Config",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Erlang.html#v:Config"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Erlang",
+          "name": "configFilePath",
+          "package": "msgpack-idl",
+          "signature": "FilePath",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Erlang.html#Config",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Erlang",
+          "module": "Language.MessagePack.IDL.CodeGen.Erlang",
+          "name": "configFilePath",
+          "package": "msgpack-idl",
+          "partial": "File Path",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Erlang.html#v:configFilePath"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Erlang",
+          "name": "generate",
+          "package": "msgpack-idl",
+          "signature": "Config -\u003e Spec -\u003e IO ()",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Erlang.html#generate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Erlang",
+          "module": "Language.MessagePack.IDL.CodeGen.Erlang",
+          "name": "generate",
+          "normalized": "Config-\u003eSpec-\u003eIO()",
+          "package": "msgpack-idl",
+          "signature": "Config-\u003eSpec-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Erlang.html#v:generate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Haskell",
+          "name": "Haskell",
+          "package": "msgpack-idl",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Haskell.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Haskell",
+          "module": "Language.MessagePack.IDL.CodeGen.Haskell",
+          "name": "Haskell",
+          "package": "msgpack-idl",
+          "partial": "Haskell",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Haskell.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Haskell",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Haskell.html#Config",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Haskell",
+          "module": "Language.MessagePack.IDL.CodeGen.Haskell",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "partial": "Config",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Haskell.html#t:Config"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Haskell",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "signature": "Config",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Haskell.html#Config",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Haskell",
+          "module": "Language.MessagePack.IDL.CodeGen.Haskell",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "partial": "Config",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Haskell.html#v:Config"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Haskell",
+          "name": "configFilePath",
+          "package": "msgpack-idl",
+          "signature": "FilePath",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Haskell.html#Config",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Haskell",
+          "module": "Language.MessagePack.IDL.CodeGen.Haskell",
+          "name": "configFilePath",
+          "package": "msgpack-idl",
+          "partial": "File Path",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Haskell.html#v:configFilePath"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Haskell",
+          "name": "generate",
+          "package": "msgpack-idl",
+          "signature": "Config -\u003e Spec -\u003e IO ()",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Haskell.html#generate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Haskell",
+          "module": "Language.MessagePack.IDL.CodeGen.Haskell",
+          "name": "generate",
+          "normalized": "Config-\u003eSpec-\u003eIO()",
+          "package": "msgpack-idl",
+          "signature": "Config-\u003eSpec-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Haskell.html#v:generate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Java",
+          "name": "Java",
+          "package": "msgpack-idl",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Java.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Java",
+          "module": "Language.MessagePack.IDL.CodeGen.Java",
+          "name": "Java",
+          "package": "msgpack-idl",
+          "partial": "Java",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Java.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Java",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Java.html#Config",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Java",
+          "module": "Language.MessagePack.IDL.CodeGen.Java",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "partial": "Config",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Java.html#t:Config"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Java",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "signature": "Config",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Java.html#Config",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Java",
+          "module": "Language.MessagePack.IDL.CodeGen.Java",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "partial": "Config",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Java.html#v:Config"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Java",
+          "name": "configFilePath",
+          "package": "msgpack-idl",
+          "signature": "FilePath",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Java.html#Config",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Java",
+          "module": "Language.MessagePack.IDL.CodeGen.Java",
+          "name": "configFilePath",
+          "package": "msgpack-idl",
+          "partial": "File Path",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Java.html#v:configFilePath"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Java",
+          "name": "configPackage",
+          "package": "msgpack-idl",
+          "signature": "String",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Java.html#Config",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Java",
+          "module": "Language.MessagePack.IDL.CodeGen.Java",
+          "name": "configPackage",
+          "package": "msgpack-idl",
+          "partial": "Package",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Java.html#v:configPackage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Java",
+          "name": "generate",
+          "package": "msgpack-idl",
+          "signature": "Config -\u003e Spec -\u003e IO ()",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Java.html#generate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Java",
+          "module": "Language.MessagePack.IDL.CodeGen.Java",
+          "name": "generate",
+          "normalized": "Config-\u003eSpec-\u003eIO()",
+          "package": "msgpack-idl",
+          "signature": "Config-\u003eSpec-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Java.html#v:generate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Perl",
+          "name": "Perl",
+          "package": "msgpack-idl",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Perl.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Perl",
+          "module": "Language.MessagePack.IDL.CodeGen.Perl",
+          "name": "Perl",
+          "package": "msgpack-idl",
+          "partial": "Perl",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Perl.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Perl",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Perl.html#Config",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Perl",
+          "module": "Language.MessagePack.IDL.CodeGen.Perl",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "partial": "Config",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Perl.html#t:Config"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Perl",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "signature": "Config",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Perl.html#Config",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Perl",
+          "module": "Language.MessagePack.IDL.CodeGen.Perl",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "partial": "Config",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Perl.html#v:Config"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Perl",
+          "name": "configFilePath",
+          "package": "msgpack-idl",
+          "signature": "FilePath",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Perl.html#Config",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Perl",
+          "module": "Language.MessagePack.IDL.CodeGen.Perl",
+          "name": "configFilePath",
+          "package": "msgpack-idl",
+          "partial": "File Path",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Perl.html#v:configFilePath"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Perl",
+          "name": "configNameSpace",
+          "package": "msgpack-idl",
+          "signature": "String",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Perl.html#Config",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Perl",
+          "module": "Language.MessagePack.IDL.CodeGen.Perl",
+          "name": "configNameSpace",
+          "package": "msgpack-idl",
+          "partial": "Name Space",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Perl.html#v:configNameSpace"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Perl",
+          "name": "generate",
+          "package": "msgpack-idl",
+          "signature": "Config -\u003e Spec -\u003e IO ()",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Perl.html#generate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Perl",
+          "module": "Language.MessagePack.IDL.CodeGen.Perl",
+          "name": "generate",
+          "normalized": "Config-\u003eSpec-\u003eIO()",
+          "package": "msgpack-idl",
+          "signature": "Config-\u003eSpec-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Perl.html#v:generate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Php",
+          "name": "Php",
+          "package": "msgpack-idl",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Php.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Php",
+          "module": "Language.MessagePack.IDL.CodeGen.Php",
+          "name": "Php",
+          "package": "msgpack-idl",
+          "partial": "Php",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Php.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Php",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Php.html#Config",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Php",
+          "module": "Language.MessagePack.IDL.CodeGen.Php",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "partial": "Config",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Php.html#t:Config"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Php",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "signature": "Config",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Php.html#Config",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Php",
+          "module": "Language.MessagePack.IDL.CodeGen.Php",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "partial": "Config",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Php.html#v:Config"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Php",
+          "name": "configFilePath",
+          "package": "msgpack-idl",
+          "signature": "FilePath",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Php.html#Config",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Php",
+          "module": "Language.MessagePack.IDL.CodeGen.Php",
+          "name": "configFilePath",
+          "package": "msgpack-idl",
+          "partial": "File Path",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Php.html#v:configFilePath"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Php",
+          "name": "generate",
+          "package": "msgpack-idl",
+          "signature": "Config -\u003e Spec -\u003e IO ()",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Php.html#generate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Php",
+          "module": "Language.MessagePack.IDL.CodeGen.Php",
+          "name": "generate",
+          "normalized": "Config-\u003eSpec-\u003eIO()",
+          "package": "msgpack-idl",
+          "signature": "Config-\u003eSpec-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Php.html#v:generate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Python",
+          "name": "Python",
+          "package": "msgpack-idl",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Python.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Python",
+          "module": "Language.MessagePack.IDL.CodeGen.Python",
+          "name": "Python",
+          "package": "msgpack-idl",
+          "partial": "Python",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Python.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Python",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Python.html#Config",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Python",
+          "module": "Language.MessagePack.IDL.CodeGen.Python",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "partial": "Config",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Python.html#t:Config"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Python",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "signature": "Config",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Python.html#Config",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Python",
+          "module": "Language.MessagePack.IDL.CodeGen.Python",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "partial": "Config",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Python.html#v:Config"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Python",
+          "name": "configFilePath",
+          "package": "msgpack-idl",
+          "signature": "FilePath",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Python.html#Config",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Python",
+          "module": "Language.MessagePack.IDL.CodeGen.Python",
+          "name": "configFilePath",
+          "package": "msgpack-idl",
+          "partial": "File Path",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Python.html#v:configFilePath"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Python",
+          "name": "generate",
+          "package": "msgpack-idl",
+          "signature": "Config -\u003e Spec -\u003e IO ()",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Python.html#generate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Python",
+          "module": "Language.MessagePack.IDL.CodeGen.Python",
+          "name": "generate",
+          "normalized": "Config-\u003eSpec-\u003eIO()",
+          "package": "msgpack-idl",
+          "signature": "Config-\u003eSpec-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Python.html#v:generate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Ruby",
+          "name": "Ruby",
+          "package": "msgpack-idl",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Ruby.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Ruby",
+          "module": "Language.MessagePack.IDL.CodeGen.Ruby",
+          "name": "Ruby",
+          "package": "msgpack-idl",
+          "partial": "Ruby",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Ruby.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Ruby",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Ruby.html#Config",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Ruby",
+          "module": "Language.MessagePack.IDL.CodeGen.Ruby",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "partial": "Config",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Ruby.html#t:Config"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Ruby",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "signature": "Config",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Ruby.html#Config",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Ruby",
+          "module": "Language.MessagePack.IDL.CodeGen.Ruby",
+          "name": "Config",
+          "package": "msgpack-idl",
+          "partial": "Config",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Ruby.html#v:Config"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Ruby",
+          "name": "configFilePath",
+          "package": "msgpack-idl",
+          "signature": "FilePath",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Ruby.html#Config",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Ruby",
+          "module": "Language.MessagePack.IDL.CodeGen.Ruby",
+          "name": "configFilePath",
+          "package": "msgpack-idl",
+          "partial": "File Path",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Ruby.html#v:configFilePath"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Ruby",
+          "name": "configModule",
+          "package": "msgpack-idl",
+          "signature": "String",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Ruby.html#Config",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Ruby",
+          "module": "Language.MessagePack.IDL.CodeGen.Ruby",
+          "name": "configModule",
+          "package": "msgpack-idl",
+          "partial": "Module",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Ruby.html#v:configModule"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.CodeGen.Ruby",
+          "name": "generate",
+          "package": "msgpack-idl",
+          "signature": "Config -\u003e Spec -\u003e IO ()",
+          "source": "src/Language-MessagePack-IDL-CodeGen-Ruby.html#generate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL CodeGen Ruby",
+          "module": "Language.MessagePack.IDL.CodeGen.Ruby",
+          "name": "generate",
+          "normalized": "Config-\u003eSpec-\u003eIO()",
+          "package": "msgpack-idl",
+          "signature": "Config-\u003eSpec-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-CodeGen-Ruby.html#v:generate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Internal",
+          "name": "Internal",
+          "package": "msgpack-idl",
+          "source": "src/Language-MessagePack-IDL-Internal.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Internal",
+          "module": "Language.MessagePack.IDL.Internal",
+          "name": "Internal",
+          "package": "msgpack-idl",
+          "partial": "Internal",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Internal.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Internal",
+          "name": "withDirectory",
+          "package": "msgpack-idl",
+          "signature": "FilePath -\u003e IO a -\u003e IO a",
+          "source": "src/Language-MessagePack-IDL-Internal.html#withDirectory",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Internal",
+          "module": "Language.MessagePack.IDL.Internal",
+          "name": "withDirectory",
+          "normalized": "FilePath-\u003eIO a-\u003eIO a",
+          "package": "msgpack-idl",
+          "partial": "Directory",
+          "signature": "FilePath-\u003eIO a-\u003eIO a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Internal.html#v:withDirectory"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Parser",
+          "name": "Parser",
+          "package": "msgpack-idl",
+          "source": "src/Language-MessagePack-IDL-Parser.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Parser",
+          "module": "Language.MessagePack.IDL.Parser",
+          "name": "Parser",
+          "package": "msgpack-idl",
+          "partial": "Parser",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Parser.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Parser",
+          "name": "idl",
+          "package": "msgpack-idl",
+          "signature": "Parser (MemoTable str) str s Spec",
+          "source": "src/Language-MessagePack-IDL-Parser.html#idl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Parser",
+          "module": "Language.MessagePack.IDL.Parser",
+          "name": "idl",
+          "package": "msgpack-idl",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Parser.html#v:idl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "Syntax",
+          "package": "msgpack-idl",
+          "source": "src/Language-MessagePack-IDL-Syntax.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "Syntax",
+          "package": "msgpack-idl",
+          "partial": "Syntax",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "Decl",
+          "package": "msgpack-idl",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "Decl",
+          "package": "msgpack-idl",
+          "partial": "Decl",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#t:Decl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "Field",
+          "package": "msgpack-idl",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Field",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "Field",
+          "package": "msgpack-idl",
+          "partial": "Field",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#t:Field"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "Literal",
+          "package": "msgpack-idl",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Literal",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "Literal",
+          "package": "msgpack-idl",
+          "partial": "Literal",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#t:Literal"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "Method",
+          "package": "msgpack-idl",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Method",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "Method",
+          "package": "msgpack-idl",
+          "partial": "Method",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#t:Method"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "Spec",
+          "package": "msgpack-idl",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Spec",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "Spec",
+          "package": "msgpack-idl",
+          "partial": "Spec",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#t:Spec"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "Type",
+          "package": "msgpack-idl",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Type",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "Type",
+          "package": "msgpack-idl",
+          "partial": "Type",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#t:Type"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "Field",
+          "package": "msgpack-idl",
+          "signature": "Field",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Field",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "Field",
+          "package": "msgpack-idl",
+          "partial": "Field",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:Field"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "Function",
+          "package": "msgpack-idl",
+          "signature": "Function",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Method",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "Function",
+          "package": "msgpack-idl",
+          "partial": "Function",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:Function"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "InheritAll",
+          "package": "msgpack-idl",
+          "signature": "InheritAll",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Method",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "InheritAll",
+          "package": "msgpack-idl",
+          "partial": "Inherit All",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:InheritAll"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "InheritName",
+          "package": "msgpack-idl",
+          "signature": "InheritName Text",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Method",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "InheritName",
+          "package": "msgpack-idl",
+          "partial": "Inherit Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:InheritName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "LBool",
+          "package": "msgpack-idl",
+          "signature": "LBool Bool",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Literal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "LBool",
+          "package": "msgpack-idl",
+          "partial": "LBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:LBool"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "LFloat",
+          "package": "msgpack-idl",
+          "signature": "LFloat Double",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Literal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "LFloat",
+          "package": "msgpack-idl",
+          "partial": "LFloat",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:LFloat"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "LInt",
+          "package": "msgpack-idl",
+          "signature": "LInt Int",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Literal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "LInt",
+          "package": "msgpack-idl",
+          "partial": "LInt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:LInt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "LNull",
+          "package": "msgpack-idl",
+          "signature": "LNull",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Literal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "LNull",
+          "package": "msgpack-idl",
+          "partial": "LNull",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:LNull"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "LString",
+          "package": "msgpack-idl",
+          "signature": "LString Text",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Literal",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "LString",
+          "package": "msgpack-idl",
+          "partial": "LString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:LString"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "MPEnum",
+          "package": "msgpack-idl",
+          "signature": "MPEnum",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "MPEnum",
+          "package": "msgpack-idl",
+          "partial": "MPEnum",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:MPEnum"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "MPException",
+          "package": "msgpack-idl",
+          "signature": "MPException",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "MPException",
+          "package": "msgpack-idl",
+          "partial": "MPException",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:MPException"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "MPMessage",
+          "package": "msgpack-idl",
+          "signature": "MPMessage",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "MPMessage",
+          "package": "msgpack-idl",
+          "partial": "MPMessage",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:MPMessage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "MPService",
+          "package": "msgpack-idl",
+          "signature": "MPService",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "MPService",
+          "package": "msgpack-idl",
+          "partial": "MPService",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:MPService"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "MPType",
+          "package": "msgpack-idl",
+          "signature": "MPType",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "MPType",
+          "package": "msgpack-idl",
+          "partial": "MPType",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:MPType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "TBool",
+          "package": "msgpack-idl",
+          "signature": "TBool",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "TBool",
+          "package": "msgpack-idl",
+          "partial": "TBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:TBool"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "TFloat",
+          "package": "msgpack-idl",
+          "signature": "TFloat Bool",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "TFloat",
+          "package": "msgpack-idl",
+          "partial": "TFloat",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:TFloat"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "TInt",
+          "package": "msgpack-idl",
+          "signature": "TInt Bool Int",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "TInt",
+          "package": "msgpack-idl",
+          "partial": "TInt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:TInt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "TList",
+          "package": "msgpack-idl",
+          "signature": "TList Type",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "TList",
+          "package": "msgpack-idl",
+          "partial": "TList",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:TList"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "TMap",
+          "package": "msgpack-idl",
+          "signature": "TMap Type Type",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "TMap",
+          "package": "msgpack-idl",
+          "partial": "TMap",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:TMap"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "TNullable",
+          "package": "msgpack-idl",
+          "signature": "TNullable Type",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "TNullable",
+          "package": "msgpack-idl",
+          "partial": "TNullable",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:TNullable"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "TObject",
+          "package": "msgpack-idl",
+          "signature": "TObject",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "TObject",
+          "package": "msgpack-idl",
+          "partial": "TObject",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:TObject"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "TRaw",
+          "package": "msgpack-idl",
+          "signature": "TRaw",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "TRaw",
+          "package": "msgpack-idl",
+          "partial": "TRaw",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:TRaw"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "TString",
+          "package": "msgpack-idl",
+          "signature": "TString",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "TString",
+          "package": "msgpack-idl",
+          "partial": "TString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:TString"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "TTuple",
+          "package": "msgpack-idl",
+          "signature": "TTuple [Type]",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "TTuple",
+          "normalized": "TTuple[Type]",
+          "package": "msgpack-idl",
+          "partial": "TTuple",
+          "signature": "TTuple[Type]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:TTuple"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "TUserDef",
+          "package": "msgpack-idl",
+          "signature": "TUserDef Text [Type]",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "TUserDef",
+          "normalized": "TUserDef Text[Type]",
+          "package": "msgpack-idl",
+          "partial": "TUser Def",
+          "signature": "TUserDef Text[Type]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:TUserDef"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "enumMem",
+          "package": "msgpack-idl",
+          "signature": "[(Int, Text)]",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "enumMem",
+          "normalized": "[(Int,Text)]",
+          "package": "msgpack-idl",
+          "partial": "Mem",
+          "signature": "[(Int,Text)]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:enumMem"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "enumName",
+          "package": "msgpack-idl",
+          "signature": "Text",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "enumName",
+          "package": "msgpack-idl",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:enumName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "excFields",
+          "package": "msgpack-idl",
+          "signature": "[Field]",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "excFields",
+          "normalized": "[Field]",
+          "package": "msgpack-idl",
+          "partial": "Fields",
+          "signature": "[Field]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:excFields"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "excName",
+          "package": "msgpack-idl",
+          "signature": "Text",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "excName",
+          "package": "msgpack-idl",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:excName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "excParam",
+          "package": "msgpack-idl",
+          "signature": "[Text]",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "excParam",
+          "normalized": "[Text]",
+          "package": "msgpack-idl",
+          "partial": "Param",
+          "signature": "[Text]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:excParam"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "excSuper",
+          "package": "msgpack-idl",
+          "signature": "Maybe Text",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "excSuper",
+          "package": "msgpack-idl",
+          "partial": "Super",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:excSuper"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "fldDefault",
+          "package": "msgpack-idl",
+          "signature": "Maybe Literal",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Field",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "fldDefault",
+          "package": "msgpack-idl",
+          "partial": "Default",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:fldDefault"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "fldId",
+          "package": "msgpack-idl",
+          "signature": "Int",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Field",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "fldId",
+          "package": "msgpack-idl",
+          "partial": "Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:fldId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "fldName",
+          "package": "msgpack-idl",
+          "signature": "Text",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Field",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "fldName",
+          "package": "msgpack-idl",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:fldName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "fldType",
+          "package": "msgpack-idl",
+          "signature": "Type",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Field",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "fldType",
+          "package": "msgpack-idl",
+          "partial": "Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:fldType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "methodArgs",
+          "package": "msgpack-idl",
+          "signature": "[Field]",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Method",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "methodArgs",
+          "normalized": "[Field]",
+          "package": "msgpack-idl",
+          "partial": "Args",
+          "signature": "[Field]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:methodArgs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "methodInherit",
+          "package": "msgpack-idl",
+          "signature": "Bool",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Method",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "methodInherit",
+          "package": "msgpack-idl",
+          "partial": "Inherit",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:methodInherit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "methodName",
+          "package": "msgpack-idl",
+          "signature": "Text",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Method",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "methodName",
+          "package": "msgpack-idl",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:methodName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "methodRetType",
+          "package": "msgpack-idl",
+          "signature": "Maybe Type",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Method",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "methodRetType",
+          "package": "msgpack-idl",
+          "partial": "Ret Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:methodRetType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "msgFields",
+          "package": "msgpack-idl",
+          "signature": "[Field]",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "msgFields",
+          "normalized": "[Field]",
+          "package": "msgpack-idl",
+          "partial": "Fields",
+          "signature": "[Field]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:msgFields"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "msgName",
+          "package": "msgpack-idl",
+          "signature": "Text",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "msgName",
+          "package": "msgpack-idl",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:msgName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "msgParam",
+          "package": "msgpack-idl",
+          "signature": "[Text]",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "msgParam",
+          "normalized": "[Text]",
+          "package": "msgpack-idl",
+          "partial": "Param",
+          "signature": "[Text]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:msgParam"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "serviceMethods",
+          "package": "msgpack-idl",
+          "signature": "[Method]",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "serviceMethods",
+          "normalized": "[Method]",
+          "package": "msgpack-idl",
+          "partial": "Methods",
+          "signature": "[Method]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:serviceMethods"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "serviceName",
+          "package": "msgpack-idl",
+          "signature": "Text",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "serviceName",
+          "package": "msgpack-idl",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:serviceName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "serviceVersion",
+          "package": "msgpack-idl",
+          "signature": "Maybe Int",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "serviceVersion",
+          "package": "msgpack-idl",
+          "partial": "Version",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:serviceVersion"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "tyName",
+          "package": "msgpack-idl",
+          "signature": "Text",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "tyName",
+          "package": "msgpack-idl",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:tyName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "tyType",
+          "package": "msgpack-idl",
+          "signature": "Type",
+          "source": "src/Language-MessagePack-IDL-Syntax.html#Decl",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL Syntax",
+          "module": "Language.MessagePack.IDL.Syntax",
+          "name": "tyType",
+          "package": "msgpack-idl",
+          "partial": "Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL-Syntax.html#v:tyType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.MessagePack.IDL",
+          "name": "IDL",
+          "package": "msgpack-idl",
+          "source": "src/Language-MessagePack-IDL.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language MessagePack IDL",
+          "module": "Language.MessagePack.IDL",
+          "name": "IDL",
+          "package": "msgpack-idl",
+          "partial": "IDL",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/msgpack-idl/docs/Language-MessagePack-IDL.html#"
+      }
+    }
+  ]
 ]

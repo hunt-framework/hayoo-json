@@ -1,26 +1,39 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/yesod-json/docs/Yesod-Json.html#",
-      "description": {
-        "fct-module": "Yesod.Json",
-        "fct-package": "yesod-json",
-        "fct-signature": "module",
-        "fct-source": "src/Yesod-Json.html",
-        "fct-type": "module",
-        "title": "Json"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "yesod-json"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Yesod Json",
-        "module": "Yesod.Json",
-        "name": "Json",
-        "normalized": "",
-        "package": "yesod-json",
-        "partial": "Json",
-        "signature": ""
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Yesod.Json",
+          "name": "Json",
+          "package": "yesod-json",
+          "source": "src/Yesod-Json.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Yesod Json",
+          "module": "Yesod.Json",
+          "name": "Json",
+          "package": "yesod-json",
+          "partial": "Json",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/yesod-json/docs/Yesod-Json.html#"
       }
     }
-  }
+  ]
 ]

@@ -1,4443 +1,3903 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Parse.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eParsing GTFS files.\n\u003c/p\u003e\u003cp\u003eBesides these functions, this module provides many orphan\n instances of \u003ccode\u003e\u003ccode\u003e\u003ca\u003eField\u003c/a\u003e\u003c/code\u003e\u003c/code\u003e and \u003ccode\u003e\u003ccode\u003e\u003ca\u003eParseRow\u003c/a\u003e\u003c/code\u003e\u003c/code\u003e.\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Data.GTFS.Parse",
-        "fct-package": "gtfs",
-        "fct-signature": "module",
-        "fct-source": "src/Data-GTFS-Parse.html",
-        "fct-type": "module",
-        "title": "Parse"
-      },
-      "index": {
-        "description": "Parsing GTFS files Besides these functions this module provides many orphan instances of Field and ParseRow",
-        "hierarchy": "Data GTFS Parse",
-        "module": "Data.GTFS.Parse",
-        "name": "Parse",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Parse",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Parse.html#v:parseFeed",
-      "description": {
-        "fct-descr": "\u003cp\u003eParse an entire feed directory.\n\u003c/p\u003e\u003cp\u003eEach individual file is read and parsed only when its field in \u003ccode\u003e\u003ccode\u003e\u003ca\u003eFeed\u003c/a\u003e\u003c/code\u003e\u003c/code\u003e\n is forced.  The usual caveats of lazy I/O apply.  Parsing within a file\n is not lazy.\n\u003c/p\u003e\u003cp\u003eAlternatives to this function include \u003ccode\u003e\u003ccode\u003e\u003ca\u003eparseFile\u003c/a\u003e\u003c/code\u003e\u003c/code\u003e and \u003ccode\u003e\u003ccode\u003e\u003ca\u003eparseRow\u003c/a\u003e\u003c/code\u003e\u003c/code\u003e.\n\u003c/p\u003e",
-        "fct-module": "Data.GTFS.Parse",
-        "fct-package": "gtfs",
-        "fct-signature": "FilePath -\u003e IO Feed",
-        "fct-source": "src/Data-GTFS-Parse.html#parseFeed",
-        "fct-type": "function",
-        "title": "parseFeed"
-      },
-      "index": {
-        "description": "Parse an entire feed directory Each individual file is read and parsed only when its field in Feed is forced The usual caveats of lazy apply Parsing within file is not lazy Alternatives to this function include parseFile and parseRow",
-        "hierarchy": "Data GTFS Parse",
-        "module": "Data.GTFS.Parse",
-        "name": "parseFeed",
-        "normalized": "FilePath-\u003eIO Feed",
-        "package": "gtfs",
-        "partial": "Feed",
-        "signature": "FilePath-\u003eIO Feed"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Parse.html#v:parseFile",
-      "description": {
-        "fct-descr": "\u003cp\u003eParse a single GTFS data file.\n\u003c/p\u003e\u003cp\u003eSince some files are optional, this produces an empty list\n if the file does not exist.\n\u003c/p\u003e",
-        "fct-module": "Data.GTFS.Parse",
-        "fct-package": "gtfs",
-        "fct-signature": "FilePath -\u003e IO [a]",
-        "fct-source": "src/Data-GTFS-Parse.html#parseFile",
-        "fct-type": "function",
-        "title": "parseFile"
-      },
-      "index": {
-        "description": "Parse single GTFS data file Since some files are optional this produces an empty list if the file does not exist",
-        "hierarchy": "Data GTFS Parse",
-        "module": "Data.GTFS.Parse",
-        "name": "parseFile",
-        "normalized": "FilePath-\u003eIO[a]",
-        "package": "gtfs",
-        "partial": "File",
-        "signature": "FilePath-\u003eIO[a]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eTypes in a GTFS feed.\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "module",
-        "fct-source": "src/Data-GTFS-Types.html",
-        "fct-type": "module",
-        "title": "Types"
-      },
-      "index": {
-        "description": "Types in GTFS feed",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Types",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Types",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Agency",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "data",
-        "fct-source": "src/Data-GTFS-Types.html#Agency",
-        "fct-type": "data",
-        "title": "Agency"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Agency",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Agency",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:AgencyID",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "type",
-        "fct-source": "src/Data-GTFS-Types.html#AgencyID",
-        "fct-type": "type",
-        "title": "AgencyID"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "AgencyID",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Agency ID",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:BlockID",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "type",
-        "fct-source": "src/Data-GTFS-Types.html#BlockID",
-        "fct-type": "type",
-        "title": "BlockID"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "BlockID",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Block ID",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Calendar",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "data",
-        "fct-source": "src/Data-GTFS-Types.html#Calendar",
-        "fct-type": "data",
-        "title": "Calendar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Calendar",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Calendar",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:CalendarDate",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "data",
-        "fct-source": "src/Data-GTFS-Types.html#CalendarDate",
-        "fct-type": "data",
-        "title": "CalendarDate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "CalendarDate",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Calendar Date",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Color",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "type",
-        "fct-source": "src/Data-GTFS-Types.html#Color",
-        "fct-type": "type",
-        "title": "Color"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Color",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Color",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Currency",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "type",
-        "fct-source": "src/Data-GTFS-Types.html#Currency",
-        "fct-type": "type",
-        "title": "Currency"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Currency",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Currency",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Date",
-      "description": {
-        "fct-descr": "\u003cp\u003eYear, month, day.\n\u003c/p\u003e",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "data",
-        "fct-source": "src/Data-GTFS-Types.html#Date",
-        "fct-type": "data",
-        "title": "Date"
-      },
-      "index": {
-        "description": "Year month day",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Date",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Date",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:DirectionID",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "data",
-        "fct-source": "src/Data-GTFS-Types.html#DirectionID",
-        "fct-type": "data",
-        "title": "DirectionID"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "DirectionID",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Direction ID",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Distance",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "type",
-        "fct-source": "src/Data-GTFS-Types.html#Distance",
-        "fct-type": "type",
-        "title": "Distance"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Distance",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Distance",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:ExceptionType",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "data",
-        "fct-source": "src/Data-GTFS-Types.html#ExceptionType",
-        "fct-type": "data",
-        "title": "ExceptionType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "ExceptionType",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Exception Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:FareAttribute",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "data",
-        "fct-source": "src/Data-GTFS-Types.html#FareAttribute",
-        "fct-type": "data",
-        "title": "FareAttribute"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "FareAttribute",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Fare Attribute",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:FareID",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "type",
-        "fct-source": "src/Data-GTFS-Types.html#FareID",
-        "fct-type": "type",
-        "title": "FareID"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "FareID",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Fare ID",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:FareRule",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "data",
-        "fct-source": "src/Data-GTFS-Types.html#FareRule",
-        "fct-type": "data",
-        "title": "FareRule"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "FareRule",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Fare Rule",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Feed",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "data",
-        "fct-source": "src/Data-GTFS-Types.html#Feed",
-        "fct-type": "data",
-        "title": "Feed"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Feed",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Feed",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Frequency",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "data",
-        "fct-source": "src/Data-GTFS-Types.html#Frequency",
-        "fct-type": "data",
-        "title": "Frequency"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Frequency",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Frequency",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Language",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "type",
-        "fct-source": "src/Data-GTFS-Types.html#Language",
-        "fct-type": "type",
-        "title": "Language"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Language",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Language",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:LatLon",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "type",
-        "fct-source": "src/Data-GTFS-Types.html#LatLon",
-        "fct-type": "type",
-        "title": "LatLon"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "LatLon",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Lat Lon",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:LocationType",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "data",
-        "fct-source": "src/Data-GTFS-Types.html#LocationType",
-        "fct-type": "data",
-        "title": "LocationType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "LocationType",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Location Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:OnOffType",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "data",
-        "fct-source": "src/Data-GTFS-Types.html#OnOffType",
-        "fct-type": "data",
-        "title": "OnOffType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "OnOffType",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "On Off Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:PaymentMethod",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "data",
-        "fct-source": "src/Data-GTFS-Types.html#PaymentMethod",
-        "fct-type": "data",
-        "title": "PaymentMethod"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "PaymentMethod",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Payment Method",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Phone",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "type",
-        "fct-source": "src/Data-GTFS-Types.html#Phone",
-        "fct-type": "type",
-        "title": "Phone"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Phone",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Phone",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Price",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "type",
-        "fct-source": "src/Data-GTFS-Types.html#Price",
-        "fct-type": "type",
-        "title": "Price"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Price",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Price",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Route",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "data",
-        "fct-source": "src/Data-GTFS-Types.html#Route",
-        "fct-type": "data",
-        "title": "Route"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Route",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Route",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:RouteID",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "type",
-        "fct-source": "src/Data-GTFS-Types.html#RouteID",
-        "fct-type": "type",
-        "title": "RouteID"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "RouteID",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Route ID",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:RouteType",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "data",
-        "fct-source": "src/Data-GTFS-Types.html#RouteType",
-        "fct-type": "data",
-        "title": "RouteType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "RouteType",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Route Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Seconds",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "type",
-        "fct-source": "src/Data-GTFS-Types.html#Seconds",
-        "fct-type": "type",
-        "title": "Seconds"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Seconds",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Seconds",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Sequence",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "type",
-        "fct-source": "src/Data-GTFS-Types.html#Sequence",
-        "fct-type": "type",
-        "title": "Sequence"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Sequence",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Sequence",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:ServiceFlag",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "data",
-        "fct-source": "src/Data-GTFS-Types.html#ServiceFlag",
-        "fct-type": "data",
-        "title": "ServiceFlag"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "ServiceFlag",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Service Flag",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:ServiceID",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "type",
-        "fct-source": "src/Data-GTFS-Types.html#ServiceID",
-        "fct-type": "type",
-        "title": "ServiceID"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "ServiceID",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Service ID",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Shape",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "data",
-        "fct-source": "src/Data-GTFS-Types.html#Shape",
-        "fct-type": "data",
-        "title": "Shape"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Shape",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Shape",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:ShapeID",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "type",
-        "fct-source": "src/Data-GTFS-Types.html#ShapeID",
-        "fct-type": "type",
-        "title": "ShapeID"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "ShapeID",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Shape ID",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Stop",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "data",
-        "fct-source": "src/Data-GTFS-Types.html#Stop",
-        "fct-type": "data",
-        "title": "Stop"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Stop",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Stop",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:StopID",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "type",
-        "fct-source": "src/Data-GTFS-Types.html#StopID",
-        "fct-type": "type",
-        "title": "StopID"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "StopID",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Stop ID",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:StopTime",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "data",
-        "fct-source": "src/Data-GTFS-Types.html#StopTime",
-        "fct-type": "data",
-        "title": "StopTime"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "StopTime",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Stop Time",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Time",
-      "description": {
-        "fct-descr": "\u003cp\u003eHour, minute, second.\n\u003c/p\u003e\u003cp\u003eHours over 23 are legal, representing the next day\n relative to the start of a trip.\n\u003c/p\u003e",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "data",
-        "fct-source": "src/Data-GTFS-Types.html#Time",
-        "fct-type": "data",
-        "title": "Time"
-      },
-      "index": {
-        "description": "Hour minute second Hours over are legal representing the next day relative to the start of trip",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Time",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Time",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Timezone",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "type",
-        "fct-source": "src/Data-GTFS-Types.html#Timezone",
-        "fct-type": "type",
-        "title": "Timezone"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Timezone",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Timezone",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Transfer",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "data",
-        "fct-source": "src/Data-GTFS-Types.html#Transfer",
-        "fct-type": "data",
-        "title": "Transfer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Transfer",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Transfer",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:TransferLimit",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "type",
-        "fct-source": "src/Data-GTFS-Types.html#TransferLimit",
-        "fct-type": "type",
-        "title": "TransferLimit"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "TransferLimit",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Transfer Limit",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:TransferType",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "data",
-        "fct-source": "src/Data-GTFS-Types.html#TransferType",
-        "fct-type": "data",
-        "title": "TransferType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "TransferType",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Transfer Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Trip",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "data",
-        "fct-source": "src/Data-GTFS-Types.html#Trip",
-        "fct-type": "data",
-        "title": "Trip"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Trip",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Trip",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:TripID",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "type",
-        "fct-source": "src/Data-GTFS-Types.html#TripID",
-        "fct-type": "type",
-        "title": "TripID"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "TripID",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Trip ID",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:URL",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "type",
-        "fct-source": "src/Data-GTFS-Types.html#URL",
-        "fct-type": "type",
-        "title": "URL"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "URL",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "URL",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:ZoneID",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "type",
-        "fct-source": "src/Data-GTFS-Types.html#ZoneID",
-        "fct-type": "type",
-        "title": "ZoneID"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "ZoneID",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Zone ID",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Agency",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Agency",
-        "fct-source": "src/Data-GTFS-Types.html#Agency",
-        "fct-type": "function",
-        "title": "Agency"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Agency",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Agency",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Bus",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Bus",
-        "fct-source": "src/Data-GTFS-Types.html#RouteType",
-        "fct-type": "function",
-        "title": "Bus"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Bus",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Bus",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:CableCar",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "CableCar",
-        "fct-source": "src/Data-GTFS-Types.html#RouteType",
-        "fct-type": "function",
-        "title": "CableCar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "CableCar",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Cable Car",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Calendar",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Calendar",
-        "fct-source": "src/Data-GTFS-Types.html#Calendar",
-        "fct-type": "function",
-        "title": "Calendar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Calendar",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Calendar",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:CalendarDate",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "CalendarDate",
-        "fct-source": "src/Data-GTFS-Types.html#CalendarDate",
-        "fct-type": "function",
-        "title": "CalendarDate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "CalendarDate",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Calendar Date",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Date",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Date Int Int Int",
-        "fct-source": "src/Data-GTFS-Types.html#Date",
-        "fct-type": "function",
-        "title": "Date"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Date",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Date",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:DirectionA",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "DirectionA",
-        "fct-source": "src/Data-GTFS-Types.html#DirectionID",
-        "fct-type": "function",
-        "title": "DirectionA"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "DirectionA",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Direction",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:DirectionB",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "DirectionB",
-        "fct-source": "src/Data-GTFS-Types.html#DirectionID",
-        "fct-type": "function",
-        "title": "DirectionB"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "DirectionB",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Direction",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:FareAttribute",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "FareAttribute",
-        "fct-source": "src/Data-GTFS-Types.html#FareAttribute",
-        "fct-type": "function",
-        "title": "FareAttribute"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "FareAttribute",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Fare Attribute",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:FareRule",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "FareRule",
-        "fct-source": "src/Data-GTFS-Types.html#FareRule",
-        "fct-type": "function",
-        "title": "FareRule"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "FareRule",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Fare Rule",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Feed",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Feed",
-        "fct-source": "src/Data-GTFS-Types.html#Feed",
-        "fct-type": "function",
-        "title": "Feed"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Feed",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Feed",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Ferry",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Ferry",
-        "fct-source": "src/Data-GTFS-Types.html#RouteType",
-        "fct-type": "function",
-        "title": "Ferry"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Ferry",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Ferry",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Frequency",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Frequency",
-        "fct-source": "src/Data-GTFS-Types.html#Frequency",
-        "fct-type": "function",
-        "title": "Frequency"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Frequency",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Frequency",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Funicular",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Funicular",
-        "fct-source": "src/Data-GTFS-Types.html#RouteType",
-        "fct-type": "function",
-        "title": "Funicular"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Funicular",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Funicular",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Gondola",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Gondola",
-        "fct-source": "src/Data-GTFS-Types.html#RouteType",
-        "fct-type": "function",
-        "title": "Gondola"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Gondola",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Gondola",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:HasService",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "HasService",
-        "fct-source": "src/Data-GTFS-Types.html#ServiceFlag",
-        "fct-type": "function",
-        "title": "HasService"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "HasService",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Has Service",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:LocStation",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "LocStation",
-        "fct-source": "src/Data-GTFS-Types.html#LocationType",
-        "fct-type": "function",
-        "title": "LocStation"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "LocStation",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Loc Station",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:LocStop",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "LocStop",
-        "fct-source": "src/Data-GTFS-Types.html#LocationType",
-        "fct-type": "function",
-        "title": "LocStop"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "LocStop",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Loc Stop",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Metro",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Metro",
-        "fct-source": "src/Data-GTFS-Types.html#RouteType",
-        "fct-type": "function",
-        "title": "Metro"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Metro",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Metro",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:MinimumTransfer",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "MinimumTransfer",
-        "fct-source": "src/Data-GTFS-Types.html#TransferType",
-        "fct-type": "function",
-        "title": "MinimumTransfer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "MinimumTransfer",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Minimum Transfer",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:MustAskDriver",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "MustAskDriver",
-        "fct-source": "src/Data-GTFS-Types.html#OnOffType",
-        "fct-type": "function",
-        "title": "MustAskDriver"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "MustAskDriver",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Must Ask Driver",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:MustPhone",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "MustPhone",
-        "fct-source": "src/Data-GTFS-Types.html#OnOffType",
-        "fct-type": "function",
-        "title": "MustPhone"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "MustPhone",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Must Phone",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:NoException",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "NoException",
-        "fct-source": "src/Data-GTFS-Types.html#ExceptionType",
-        "fct-type": "function",
-        "title": "NoException"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "NoException",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "No Exception",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:NoService",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "NoService",
-        "fct-source": "src/Data-GTFS-Types.html#ServiceFlag",
-        "fct-type": "function",
-        "title": "NoService"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "NoService",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "No Service",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:NoTransfer",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "NoTransfer",
-        "fct-source": "src/Data-GTFS-Types.html#TransferType",
-        "fct-type": "function",
-        "title": "NoTransfer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "NoTransfer",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "No Transfer",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:NotAvailable",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "NotAvailable",
-        "fct-source": "src/Data-GTFS-Types.html#OnOffType",
-        "fct-type": "function",
-        "title": "NotAvailable"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "NotAvailable",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Not Available",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:PayBeforeBoarding",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "PayBeforeBoarding",
-        "fct-source": "src/Data-GTFS-Types.html#PaymentMethod",
-        "fct-type": "function",
-        "title": "PayBeforeBoarding"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "PayBeforeBoarding",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Pay Before Boarding",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:PayOnBoard",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "PayOnBoard",
-        "fct-source": "src/Data-GTFS-Types.html#PaymentMethod",
-        "fct-type": "function",
-        "title": "PayOnBoard"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "PayOnBoard",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Pay On Board",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Rail",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Rail",
-        "fct-source": "src/Data-GTFS-Types.html#RouteType",
-        "fct-type": "function",
-        "title": "Rail"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Rail",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Rail",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:RecommendedTransfer",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "RecommendedTransfer",
-        "fct-source": "src/Data-GTFS-Types.html#TransferType",
-        "fct-type": "function",
-        "title": "RecommendedTransfer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "RecommendedTransfer",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Recommended Transfer",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:RegularlyScheduled",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "RegularlyScheduled",
-        "fct-source": "src/Data-GTFS-Types.html#OnOffType",
-        "fct-type": "function",
-        "title": "RegularlyScheduled"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "RegularlyScheduled",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Regularly Scheduled",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Route",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Route",
-        "fct-source": "src/Data-GTFS-Types.html#Route",
-        "fct-type": "function",
-        "title": "Route"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Route",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Route",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:ServiceAdded",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "ServiceAdded",
-        "fct-source": "src/Data-GTFS-Types.html#ExceptionType",
-        "fct-type": "function",
-        "title": "ServiceAdded"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "ServiceAdded",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Service Added",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:ServiceRemoved",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "ServiceRemoved",
-        "fct-source": "src/Data-GTFS-Types.html#ExceptionType",
-        "fct-type": "function",
-        "title": "ServiceRemoved"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "ServiceRemoved",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Service Removed",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Shape",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Shape",
-        "fct-source": "src/Data-GTFS-Types.html#Shape",
-        "fct-type": "function",
-        "title": "Shape"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Shape",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Shape",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Stop",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Stop",
-        "fct-source": "src/Data-GTFS-Types.html#Stop",
-        "fct-type": "function",
-        "title": "Stop"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Stop",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Stop",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:StopTime",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "StopTime",
-        "fct-source": "src/Data-GTFS-Types.html#StopTime",
-        "fct-type": "function",
-        "title": "StopTime"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "StopTime",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Stop Time",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Time",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Time Int Int Int",
-        "fct-source": "src/Data-GTFS-Types.html#Time",
-        "fct-type": "function",
-        "title": "Time"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Time",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Time",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:TimedTransfer",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "TimedTransfer",
-        "fct-source": "src/Data-GTFS-Types.html#TransferType",
-        "fct-type": "function",
-        "title": "TimedTransfer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "TimedTransfer",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Timed Transfer",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Tram",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Tram",
-        "fct-source": "src/Data-GTFS-Types.html#RouteType",
-        "fct-type": "function",
-        "title": "Tram"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Tram",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Tram",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Transfer",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Transfer",
-        "fct-source": "src/Data-GTFS-Types.html#Transfer",
-        "fct-type": "function",
-        "title": "Transfer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Transfer",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Transfer",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Trip",
-      "description": {
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Trip",
-        "fct-source": "src/Data-GTFS-Types.html#Trip",
-        "fct-type": "function",
-        "title": "Trip"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "Trip",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "Trip",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:a_agency_id",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Maybe AgencyID",
-        "fct-source": "src/Data-GTFS-Types.html#Agency",
-        "fct-type": "function",
-        "title": "a_agency_id"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "a_agency_id",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:a_agency_lang",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Maybe Language",
-        "fct-source": "src/Data-GTFS-Types.html#Agency",
-        "fct-type": "function",
-        "title": "a_agency_lang"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "a_agency_lang",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:a_agency_name",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "String",
-        "fct-source": "src/Data-GTFS-Types.html#Agency",
-        "fct-type": "function",
-        "title": "a_agency_name"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "a_agency_name",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:a_agency_phone",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Maybe Phone",
-        "fct-source": "src/Data-GTFS-Types.html#Agency",
-        "fct-type": "function",
-        "title": "a_agency_phone"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "a_agency_phone",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:a_agency_timezone",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Timezone",
-        "fct-source": "src/Data-GTFS-Types.html#Agency",
-        "fct-type": "function",
-        "title": "a_agency_timezone"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "a_agency_timezone",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:a_agency_url",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "URL",
-        "fct-source": "src/Data-GTFS-Types.html#Agency",
-        "fct-type": "function",
-        "title": "a_agency_url"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "a_agency_url",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:c_end_date",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Date",
-        "fct-source": "src/Data-GTFS-Types.html#Calendar",
-        "fct-type": "function",
-        "title": "c_end_date"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "c_end_date",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:c_friday",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "ServiceFlag",
-        "fct-source": "src/Data-GTFS-Types.html#Calendar",
-        "fct-type": "function",
-        "title": "c_friday"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "c_friday",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:c_monday",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "ServiceFlag",
-        "fct-source": "src/Data-GTFS-Types.html#Calendar",
-        "fct-type": "function",
-        "title": "c_monday"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "c_monday",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:c_saturday",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "ServiceFlag",
-        "fct-source": "src/Data-GTFS-Types.html#Calendar",
-        "fct-type": "function",
-        "title": "c_saturday"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "c_saturday",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:c_service_id",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "ServiceID",
-        "fct-source": "src/Data-GTFS-Types.html#Calendar",
-        "fct-type": "function",
-        "title": "c_service_id"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "c_service_id",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:c_start_date",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Date",
-        "fct-source": "src/Data-GTFS-Types.html#Calendar",
-        "fct-type": "function",
-        "title": "c_start_date"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "c_start_date",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:c_sunday",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "ServiceFlag",
-        "fct-source": "src/Data-GTFS-Types.html#Calendar",
-        "fct-type": "function",
-        "title": "c_sunday"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "c_sunday",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:c_thursday",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "ServiceFlag",
-        "fct-source": "src/Data-GTFS-Types.html#Calendar",
-        "fct-type": "function",
-        "title": "c_thursday"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "c_thursday",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:c_tuesday",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "ServiceFlag",
-        "fct-source": "src/Data-GTFS-Types.html#Calendar",
-        "fct-type": "function",
-        "title": "c_tuesday"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "c_tuesday",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:c_wednesday",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "ServiceFlag",
-        "fct-source": "src/Data-GTFS-Types.html#Calendar",
-        "fct-type": "function",
-        "title": "c_wednesday"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "c_wednesday",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:cd_date",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Date",
-        "fct-source": "src/Data-GTFS-Types.html#CalendarDate",
-        "fct-type": "function",
-        "title": "cd_date"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "cd_date",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:cd_exception_type",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "ExceptionType",
-        "fct-source": "src/Data-GTFS-Types.html#CalendarDate",
-        "fct-type": "function",
-        "title": "cd_exception_type"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "cd_exception_type",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:cd_service_id",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "ServiceID",
-        "fct-source": "src/Data-GTFS-Types.html#CalendarDate",
-        "fct-type": "function",
-        "title": "cd_service_id"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "cd_service_id",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:f_agency",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "[Agency]",
-        "fct-source": "src/Data-GTFS-Types.html#Feed",
-        "fct-type": "function",
-        "title": "f_agency"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "f_agency",
-        "normalized": "[Agency]",
-        "package": "gtfs",
-        "partial": "",
-        "signature": "[Agency]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:f_calendar",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "[Calendar]",
-        "fct-source": "src/Data-GTFS-Types.html#Feed",
-        "fct-type": "function",
-        "title": "f_calendar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "f_calendar",
-        "normalized": "[Calendar]",
-        "package": "gtfs",
-        "partial": "",
-        "signature": "[Calendar]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:f_calendar_dates",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "[CalendarDate]",
-        "fct-source": "src/Data-GTFS-Types.html#Feed",
-        "fct-type": "function",
-        "title": "f_calendar_dates"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "f_calendar_dates",
-        "normalized": "[CalendarDate]",
-        "package": "gtfs",
-        "partial": "",
-        "signature": "[CalendarDate]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:f_fare_attributes",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "[FareAttribute]",
-        "fct-source": "src/Data-GTFS-Types.html#Feed",
-        "fct-type": "function",
-        "title": "f_fare_attributes"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "f_fare_attributes",
-        "normalized": "[FareAttribute]",
-        "package": "gtfs",
-        "partial": "",
-        "signature": "[FareAttribute]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:f_fare_rules",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "[FareRule]",
-        "fct-source": "src/Data-GTFS-Types.html#Feed",
-        "fct-type": "function",
-        "title": "f_fare_rules"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "f_fare_rules",
-        "normalized": "[FareRule]",
-        "package": "gtfs",
-        "partial": "",
-        "signature": "[FareRule]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:f_frequencies",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "[Frequency]",
-        "fct-source": "src/Data-GTFS-Types.html#Feed",
-        "fct-type": "function",
-        "title": "f_frequencies"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "f_frequencies",
-        "normalized": "[Frequency]",
-        "package": "gtfs",
-        "partial": "",
-        "signature": "[Frequency]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:f_routes",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "[Route]",
-        "fct-source": "src/Data-GTFS-Types.html#Feed",
-        "fct-type": "function",
-        "title": "f_routes"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "f_routes",
-        "normalized": "[Route]",
-        "package": "gtfs",
-        "partial": "",
-        "signature": "[Route]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:f_shapes",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "[Shape]",
-        "fct-source": "src/Data-GTFS-Types.html#Feed",
-        "fct-type": "function",
-        "title": "f_shapes"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "f_shapes",
-        "normalized": "[Shape]",
-        "package": "gtfs",
-        "partial": "",
-        "signature": "[Shape]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:f_stop_times",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "[StopTime]",
-        "fct-source": "src/Data-GTFS-Types.html#Feed",
-        "fct-type": "function",
-        "title": "f_stop_times"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "f_stop_times",
-        "normalized": "[StopTime]",
-        "package": "gtfs",
-        "partial": "",
-        "signature": "[StopTime]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:f_stops",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "[Stop]",
-        "fct-source": "src/Data-GTFS-Types.html#Feed",
-        "fct-type": "function",
-        "title": "f_stops"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "f_stops",
-        "normalized": "[Stop]",
-        "package": "gtfs",
-        "partial": "",
-        "signature": "[Stop]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:f_transfers",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "[Transfer]",
-        "fct-source": "src/Data-GTFS-Types.html#Feed",
-        "fct-type": "function",
-        "title": "f_transfers"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "f_transfers",
-        "normalized": "[Transfer]",
-        "package": "gtfs",
-        "partial": "",
-        "signature": "[Transfer]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:f_trips",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "[Trip]",
-        "fct-source": "src/Data-GTFS-Types.html#Feed",
-        "fct-type": "function",
-        "title": "f_trips"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "f_trips",
-        "normalized": "[Trip]",
-        "package": "gtfs",
-        "partial": "",
-        "signature": "[Trip]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:fa_currency_type",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Currency",
-        "fct-source": "src/Data-GTFS-Types.html#FareAttribute",
-        "fct-type": "function",
-        "title": "fa_currency_type"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "fa_currency_type",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:fa_fare_id",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "FareID",
-        "fct-source": "src/Data-GTFS-Types.html#FareAttribute",
-        "fct-type": "function",
-        "title": "fa_fare_id"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "fa_fare_id",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:fa_payment_method",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "PaymentMethod",
-        "fct-source": "src/Data-GTFS-Types.html#FareAttribute",
-        "fct-type": "function",
-        "title": "fa_payment_method"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "fa_payment_method",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:fa_price",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Price",
-        "fct-source": "src/Data-GTFS-Types.html#FareAttribute",
-        "fct-type": "function",
-        "title": "fa_price"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "fa_price",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:fa_transfer_duration",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Maybe Seconds",
-        "fct-source": "src/Data-GTFS-Types.html#FareAttribute",
-        "fct-type": "function",
-        "title": "fa_transfer_duration"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "fa_transfer_duration",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:fa_transfers",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "TransferLimit",
-        "fct-source": "src/Data-GTFS-Types.html#FareAttribute",
-        "fct-type": "function",
-        "title": "fa_transfers"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "fa_transfers",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:fq_end_time",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Time",
-        "fct-source": "src/Data-GTFS-Types.html#Frequency",
-        "fct-type": "function",
-        "title": "fq_end_time"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "fq_end_time",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:fq_headway_secs",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Seconds",
-        "fct-source": "src/Data-GTFS-Types.html#Frequency",
-        "fct-type": "function",
-        "title": "fq_headway_secs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "fq_headway_secs",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:fq_start_time",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Time",
-        "fct-source": "src/Data-GTFS-Types.html#Frequency",
-        "fct-type": "function",
-        "title": "fq_start_time"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "fq_start_time",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:fq_trip_id",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "TripID",
-        "fct-source": "src/Data-GTFS-Types.html#Frequency",
-        "fct-type": "function",
-        "title": "fq_trip_id"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "fq_trip_id",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:fr_contains_id",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Maybe ZoneID",
-        "fct-source": "src/Data-GTFS-Types.html#FareRule",
-        "fct-type": "function",
-        "title": "fr_contains_id"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "fr_contains_id",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:fr_destination_id",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Maybe ZoneID",
-        "fct-source": "src/Data-GTFS-Types.html#FareRule",
-        "fct-type": "function",
-        "title": "fr_destination_id"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "fr_destination_id",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:fr_fare_id",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "FareID",
-        "fct-source": "src/Data-GTFS-Types.html#FareRule",
-        "fct-type": "function",
-        "title": "fr_fare_id"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "fr_fare_id",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:fr_origin_id",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Maybe ZoneID",
-        "fct-source": "src/Data-GTFS-Types.html#FareRule",
-        "fct-type": "function",
-        "title": "fr_origin_id"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "fr_origin_id",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:fr_route_id",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Maybe RouteID",
-        "fct-source": "src/Data-GTFS-Types.html#FareRule",
-        "fct-type": "function",
-        "title": "fr_route_id"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "fr_route_id",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:r_agency_id",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Maybe AgencyID",
-        "fct-source": "src/Data-GTFS-Types.html#Route",
-        "fct-type": "function",
-        "title": "r_agency_id"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "r_agency_id",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:r_route_color",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Maybe Color",
-        "fct-source": "src/Data-GTFS-Types.html#Route",
-        "fct-type": "function",
-        "title": "r_route_color"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "r_route_color",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:r_route_desc",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Maybe String",
-        "fct-source": "src/Data-GTFS-Types.html#Route",
-        "fct-type": "function",
-        "title": "r_route_desc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "r_route_desc",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:r_route_id",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "RouteID",
-        "fct-source": "src/Data-GTFS-Types.html#Route",
-        "fct-type": "function",
-        "title": "r_route_id"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "r_route_id",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:r_route_long_name",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "String",
-        "fct-source": "src/Data-GTFS-Types.html#Route",
-        "fct-type": "function",
-        "title": "r_route_long_name"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "r_route_long_name",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:r_route_short_name",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "String",
-        "fct-source": "src/Data-GTFS-Types.html#Route",
-        "fct-type": "function",
-        "title": "r_route_short_name"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "r_route_short_name",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:r_route_text_color",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Maybe Color",
-        "fct-source": "src/Data-GTFS-Types.html#Route",
-        "fct-type": "function",
-        "title": "r_route_text_color"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "r_route_text_color",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:r_route_type",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "RouteType",
-        "fct-source": "src/Data-GTFS-Types.html#Route",
-        "fct-type": "function",
-        "title": "r_route_type"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "r_route_type",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:r_route_url",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Maybe URL",
-        "fct-source": "src/Data-GTFS-Types.html#Route",
-        "fct-type": "function",
-        "title": "r_route_url"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "r_route_url",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:s_location_type",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Maybe LocationType",
-        "fct-source": "src/Data-GTFS-Types.html#Stop",
-        "fct-type": "function",
-        "title": "s_location_type"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "s_location_type",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:s_parent_station",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Maybe StopID",
-        "fct-source": "src/Data-GTFS-Types.html#Stop",
-        "fct-type": "function",
-        "title": "s_parent_station"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "s_parent_station",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:s_stop_code",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Maybe String",
-        "fct-source": "src/Data-GTFS-Types.html#Stop",
-        "fct-type": "function",
-        "title": "s_stop_code"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "s_stop_code",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:s_stop_desc",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Maybe String",
-        "fct-source": "src/Data-GTFS-Types.html#Stop",
-        "fct-type": "function",
-        "title": "s_stop_desc"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "s_stop_desc",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:s_stop_id",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "StopID",
-        "fct-source": "src/Data-GTFS-Types.html#Stop",
-        "fct-type": "function",
-        "title": "s_stop_id"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "s_stop_id",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:s_stop_lat",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "LatLon",
-        "fct-source": "src/Data-GTFS-Types.html#Stop",
-        "fct-type": "function",
-        "title": "s_stop_lat"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "s_stop_lat",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:s_stop_lon",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "LatLon",
-        "fct-source": "src/Data-GTFS-Types.html#Stop",
-        "fct-type": "function",
-        "title": "s_stop_lon"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "s_stop_lon",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:s_stop_name",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "String",
-        "fct-source": "src/Data-GTFS-Types.html#Stop",
-        "fct-type": "function",
-        "title": "s_stop_name"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "s_stop_name",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:s_stop_url",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Maybe URL",
-        "fct-source": "src/Data-GTFS-Types.html#Stop",
-        "fct-type": "function",
-        "title": "s_stop_url"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "s_stop_url",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:s_zone_id",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Maybe ZoneID",
-        "fct-source": "src/Data-GTFS-Types.html#Stop",
-        "fct-type": "function",
-        "title": "s_zone_id"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "s_zone_id",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:sh_shape_dist_traveled",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Maybe Distance",
-        "fct-source": "src/Data-GTFS-Types.html#Shape",
-        "fct-type": "function",
-        "title": "sh_shape_dist_traveled"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "sh_shape_dist_traveled",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:sh_shape_id",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "ShapeID",
-        "fct-source": "src/Data-GTFS-Types.html#Shape",
-        "fct-type": "function",
-        "title": "sh_shape_id"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "sh_shape_id",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:sh_shape_pt_lat",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "LatLon",
-        "fct-source": "src/Data-GTFS-Types.html#Shape",
-        "fct-type": "function",
-        "title": "sh_shape_pt_lat"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "sh_shape_pt_lat",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:sh_shape_pt_lon",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "LatLon",
-        "fct-source": "src/Data-GTFS-Types.html#Shape",
-        "fct-type": "function",
-        "title": "sh_shape_pt_lon"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "sh_shape_pt_lon",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:sh_shape_pt_sequence",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Sequence",
-        "fct-source": "src/Data-GTFS-Types.html#Shape",
-        "fct-type": "function",
-        "title": "sh_shape_pt_sequence"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "sh_shape_pt_sequence",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:st_arrival_time",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Time",
-        "fct-source": "src/Data-GTFS-Types.html#StopTime",
-        "fct-type": "function",
-        "title": "st_arrival_time"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "st_arrival_time",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:st_departure_time",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Time",
-        "fct-source": "src/Data-GTFS-Types.html#StopTime",
-        "fct-type": "function",
-        "title": "st_departure_time"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "st_departure_time",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:st_drop_off_type",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Maybe OnOffType",
-        "fct-source": "src/Data-GTFS-Types.html#StopTime",
-        "fct-type": "function",
-        "title": "st_drop_off_type"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "st_drop_off_type",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:st_pickup_type",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Maybe OnOffType",
-        "fct-source": "src/Data-GTFS-Types.html#StopTime",
-        "fct-type": "function",
-        "title": "st_pickup_type"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "st_pickup_type",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:st_shape_dist_traveled",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Maybe Distance",
-        "fct-source": "src/Data-GTFS-Types.html#StopTime",
-        "fct-type": "function",
-        "title": "st_shape_dist_traveled"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "st_shape_dist_traveled",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:st_stop_headsign",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Maybe String",
-        "fct-source": "src/Data-GTFS-Types.html#StopTime",
-        "fct-type": "function",
-        "title": "st_stop_headsign"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "st_stop_headsign",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:st_stop_id",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "StopID",
-        "fct-source": "src/Data-GTFS-Types.html#StopTime",
-        "fct-type": "function",
-        "title": "st_stop_id"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "st_stop_id",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:st_stop_sequence",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Sequence",
-        "fct-source": "src/Data-GTFS-Types.html#StopTime",
-        "fct-type": "function",
-        "title": "st_stop_sequence"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "st_stop_sequence",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:st_trip_id",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "TripID",
-        "fct-source": "src/Data-GTFS-Types.html#StopTime",
-        "fct-type": "function",
-        "title": "st_trip_id"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "st_trip_id",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:t_block_id",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Maybe BlockID",
-        "fct-source": "src/Data-GTFS-Types.html#Trip",
-        "fct-type": "function",
-        "title": "t_block_id"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "t_block_id",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:t_direction_id",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Maybe DirectionID",
-        "fct-source": "src/Data-GTFS-Types.html#Trip",
-        "fct-type": "function",
-        "title": "t_direction_id"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "t_direction_id",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:t_route_id",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "RouteID",
-        "fct-source": "src/Data-GTFS-Types.html#Trip",
-        "fct-type": "function",
-        "title": "t_route_id"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "t_route_id",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:t_service_id",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "ServiceID",
-        "fct-source": "src/Data-GTFS-Types.html#Trip",
-        "fct-type": "function",
-        "title": "t_service_id"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "t_service_id",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:t_shape_id",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Maybe ShapeID",
-        "fct-source": "src/Data-GTFS-Types.html#Trip",
-        "fct-type": "function",
-        "title": "t_shape_id"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "t_shape_id",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:t_trip_headsign",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Maybe String",
-        "fct-source": "src/Data-GTFS-Types.html#Trip",
-        "fct-type": "function",
-        "title": "t_trip_headsign"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "t_trip_headsign",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:t_trip_id",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "TripID",
-        "fct-source": "src/Data-GTFS-Types.html#Trip",
-        "fct-type": "function",
-        "title": "t_trip_id"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "t_trip_id",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:t_trip_short_name",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Maybe String",
-        "fct-source": "src/Data-GTFS-Types.html#Trip",
-        "fct-type": "function",
-        "title": "t_trip_short_name"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "t_trip_short_name",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:x_from_stop_id",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "StopID",
-        "fct-source": "src/Data-GTFS-Types.html#Transfer",
-        "fct-type": "function",
-        "title": "x_from_stop_id"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "x_from_stop_id",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:x_min_transfer_time",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "Maybe Seconds",
-        "fct-source": "src/Data-GTFS-Types.html#Transfer",
-        "fct-type": "function",
-        "title": "x_min_transfer_time"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "x_min_transfer_time",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:x_to_stop_id",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "StopID",
-        "fct-source": "src/Data-GTFS-Types.html#Transfer",
-        "fct-type": "function",
-        "title": "x_to_stop_id"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "x_to_stop_id",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:x_transfer_type",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Data.GTFS.Types",
-        "fct-package": "gtfs",
-        "fct-signature": "TransferType",
-        "fct-source": "src/Data-GTFS-Types.html#Transfer",
-        "fct-type": "function",
-        "title": "x_transfer_type"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Data GTFS Types",
-        "module": "Data.GTFS.Types",
-        "name": "x_transfer_type",
-        "normalized": "",
-        "package": "gtfs",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  }
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "gtfs"
+      },
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eParsing GTFS files.\n\u003c/p\u003e\u003cp\u003eBesides these functions, this module provides many orphan\n instances of \u003ccode\u003e\u003ccode\u003e\u003ca\u003eField\u003c/a\u003e\u003c/code\u003e\u003c/code\u003e and \u003ccode\u003e\u003ccode\u003e\u003ca\u003eParseRow\u003c/a\u003e\u003c/code\u003e\u003c/code\u003e.\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Data.GTFS.Parse",
+          "name": "Parse",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Parse.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "Parsing GTFS files Besides these functions this module provides many orphan instances of Field and ParseRow",
+          "hierarchy": "Data GTFS Parse",
+          "module": "Data.GTFS.Parse",
+          "name": "Parse",
+          "package": "gtfs",
+          "partial": "Parse",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Parse.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eParse an entire feed directory.\n\u003c/p\u003e\u003cp\u003eEach individual file is read and parsed only when its field in \u003ccode\u003e\u003ccode\u003e\u003ca\u003eFeed\u003c/a\u003e\u003c/code\u003e\u003c/code\u003e\n is forced.  The usual caveats of lazy I/O apply.  Parsing within a file\n is not lazy.\n\u003c/p\u003e\u003cp\u003eAlternatives to this function include \u003ccode\u003e\u003ccode\u003e\u003ca\u003eparseFile\u003c/a\u003e\u003c/code\u003e\u003c/code\u003e and \u003ccode\u003e\u003ccode\u003e\u003ca\u003eparseRow\u003c/a\u003e\u003c/code\u003e\u003c/code\u003e.\n\u003c/p\u003e",
+          "module": "Data.GTFS.Parse",
+          "name": "parseFeed",
+          "package": "gtfs",
+          "signature": "FilePath -\u003e IO Feed",
+          "source": "src/Data-GTFS-Parse.html#parseFeed",
+          "type": "function"
+        },
+        "index": {
+          "description": "Parse an entire feed directory Each individual file is read and parsed only when its field in Feed is forced The usual caveats of lazy apply Parsing within file is not lazy Alternatives to this function include parseFile and parseRow",
+          "hierarchy": "Data GTFS Parse",
+          "module": "Data.GTFS.Parse",
+          "name": "parseFeed",
+          "normalized": "FilePath-\u003eIO Feed",
+          "package": "gtfs",
+          "partial": "Feed",
+          "signature": "FilePath-\u003eIO Feed",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Parse.html#v:parseFeed"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eParse a single GTFS data file.\n\u003c/p\u003e\u003cp\u003eSince some files are optional, this produces an empty list\n if the file does not exist.\n\u003c/p\u003e",
+          "module": "Data.GTFS.Parse",
+          "name": "parseFile",
+          "package": "gtfs",
+          "signature": "FilePath -\u003e IO [a]",
+          "source": "src/Data-GTFS-Parse.html#parseFile",
+          "type": "function"
+        },
+        "index": {
+          "description": "Parse single GTFS data file Since some files are optional this produces an empty list if the file does not exist",
+          "hierarchy": "Data GTFS Parse",
+          "module": "Data.GTFS.Parse",
+          "name": "parseFile",
+          "normalized": "FilePath-\u003eIO[a]",
+          "package": "gtfs",
+          "partial": "File",
+          "signature": "FilePath-\u003eIO[a]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Parse.html#v:parseFile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eTypes in a GTFS feed.\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Data.GTFS.Types",
+          "name": "Types",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "Types in GTFS feed",
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Types",
+          "package": "gtfs",
+          "partial": "Types",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Agency",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#Agency",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Agency",
+          "package": "gtfs",
+          "partial": "Agency",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Agency"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "AgencyID",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#AgencyID",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "AgencyID",
+          "package": "gtfs",
+          "partial": "Agency ID",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:AgencyID"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "BlockID",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#BlockID",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "BlockID",
+          "package": "gtfs",
+          "partial": "Block ID",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:BlockID"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Calendar",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#Calendar",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Calendar",
+          "package": "gtfs",
+          "partial": "Calendar",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Calendar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "CalendarDate",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#CalendarDate",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "CalendarDate",
+          "package": "gtfs",
+          "partial": "Calendar Date",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:CalendarDate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Color",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#Color",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Color",
+          "package": "gtfs",
+          "partial": "Color",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Color"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Currency",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#Currency",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Currency",
+          "package": "gtfs",
+          "partial": "Currency",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Currency"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eYear, month, day.\n\u003c/p\u003e",
+          "module": "Data.GTFS.Types",
+          "name": "Date",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#Date",
+          "type": "data"
+        },
+        "index": {
+          "description": "Year month day",
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Date",
+          "package": "gtfs",
+          "partial": "Date",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Date"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "DirectionID",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#DirectionID",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "DirectionID",
+          "package": "gtfs",
+          "partial": "Direction ID",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:DirectionID"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Distance",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#Distance",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Distance",
+          "package": "gtfs",
+          "partial": "Distance",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Distance"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "ExceptionType",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#ExceptionType",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "ExceptionType",
+          "package": "gtfs",
+          "partial": "Exception Type",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:ExceptionType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "FareAttribute",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#FareAttribute",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "FareAttribute",
+          "package": "gtfs",
+          "partial": "Fare Attribute",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:FareAttribute"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "FareID",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#FareID",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "FareID",
+          "package": "gtfs",
+          "partial": "Fare ID",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:FareID"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "FareRule",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#FareRule",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "FareRule",
+          "package": "gtfs",
+          "partial": "Fare Rule",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:FareRule"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Feed",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#Feed",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Feed",
+          "package": "gtfs",
+          "partial": "Feed",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Feed"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Frequency",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#Frequency",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Frequency",
+          "package": "gtfs",
+          "partial": "Frequency",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Frequency"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Language",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#Language",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Language",
+          "package": "gtfs",
+          "partial": "Language",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Language"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "LatLon",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#LatLon",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "LatLon",
+          "package": "gtfs",
+          "partial": "Lat Lon",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:LatLon"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "LocationType",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#LocationType",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "LocationType",
+          "package": "gtfs",
+          "partial": "Location Type",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:LocationType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "OnOffType",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#OnOffType",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "OnOffType",
+          "package": "gtfs",
+          "partial": "On Off Type",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:OnOffType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "PaymentMethod",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#PaymentMethod",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "PaymentMethod",
+          "package": "gtfs",
+          "partial": "Payment Method",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:PaymentMethod"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Phone",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#Phone",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Phone",
+          "package": "gtfs",
+          "partial": "Phone",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Phone"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Price",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#Price",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Price",
+          "package": "gtfs",
+          "partial": "Price",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Price"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Route",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#Route",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Route",
+          "package": "gtfs",
+          "partial": "Route",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Route"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "RouteID",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#RouteID",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "RouteID",
+          "package": "gtfs",
+          "partial": "Route ID",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:RouteID"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "RouteType",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#RouteType",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "RouteType",
+          "package": "gtfs",
+          "partial": "Route Type",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:RouteType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Seconds",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#Seconds",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Seconds",
+          "package": "gtfs",
+          "partial": "Seconds",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Seconds"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Sequence",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#Sequence",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Sequence",
+          "package": "gtfs",
+          "partial": "Sequence",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Sequence"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "ServiceFlag",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#ServiceFlag",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "ServiceFlag",
+          "package": "gtfs",
+          "partial": "Service Flag",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:ServiceFlag"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "ServiceID",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#ServiceID",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "ServiceID",
+          "package": "gtfs",
+          "partial": "Service ID",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:ServiceID"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Shape",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#Shape",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Shape",
+          "package": "gtfs",
+          "partial": "Shape",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Shape"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "ShapeID",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#ShapeID",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "ShapeID",
+          "package": "gtfs",
+          "partial": "Shape ID",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:ShapeID"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Stop",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#Stop",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Stop",
+          "package": "gtfs",
+          "partial": "Stop",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Stop"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "StopID",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#StopID",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "StopID",
+          "package": "gtfs",
+          "partial": "Stop ID",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:StopID"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "StopTime",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#StopTime",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "StopTime",
+          "package": "gtfs",
+          "partial": "Stop Time",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:StopTime"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eHour, minute, second.\n\u003c/p\u003e\u003cp\u003eHours over 23 are legal, representing the next day\n relative to the start of a trip.\n\u003c/p\u003e",
+          "module": "Data.GTFS.Types",
+          "name": "Time",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#Time",
+          "type": "data"
+        },
+        "index": {
+          "description": "Hour minute second Hours over are legal representing the next day relative to the start of trip",
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Time",
+          "package": "gtfs",
+          "partial": "Time",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Time"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Timezone",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#Timezone",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Timezone",
+          "package": "gtfs",
+          "partial": "Timezone",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Timezone"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Transfer",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#Transfer",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Transfer",
+          "package": "gtfs",
+          "partial": "Transfer",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Transfer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "TransferLimit",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#TransferLimit",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "TransferLimit",
+          "package": "gtfs",
+          "partial": "Transfer Limit",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:TransferLimit"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "TransferType",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#TransferType",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "TransferType",
+          "package": "gtfs",
+          "partial": "Transfer Type",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:TransferType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Trip",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#Trip",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Trip",
+          "package": "gtfs",
+          "partial": "Trip",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:Trip"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "TripID",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#TripID",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "TripID",
+          "package": "gtfs",
+          "partial": "Trip ID",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:TripID"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "URL",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#URL",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "URL",
+          "package": "gtfs",
+          "partial": "URL",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:URL"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "ZoneID",
+          "package": "gtfs",
+          "source": "src/Data-GTFS-Types.html#ZoneID",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "ZoneID",
+          "package": "gtfs",
+          "partial": "Zone ID",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#t:ZoneID"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Agency",
+          "package": "gtfs",
+          "signature": "Agency",
+          "source": "src/Data-GTFS-Types.html#Agency",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Agency",
+          "package": "gtfs",
+          "partial": "Agency",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Agency"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Bus",
+          "package": "gtfs",
+          "signature": "Bus",
+          "source": "src/Data-GTFS-Types.html#RouteType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Bus",
+          "package": "gtfs",
+          "partial": "Bus",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Bus"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "CableCar",
+          "package": "gtfs",
+          "signature": "CableCar",
+          "source": "src/Data-GTFS-Types.html#RouteType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "CableCar",
+          "package": "gtfs",
+          "partial": "Cable Car",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:CableCar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Calendar",
+          "package": "gtfs",
+          "signature": "Calendar",
+          "source": "src/Data-GTFS-Types.html#Calendar",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Calendar",
+          "package": "gtfs",
+          "partial": "Calendar",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Calendar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "CalendarDate",
+          "package": "gtfs",
+          "signature": "CalendarDate",
+          "source": "src/Data-GTFS-Types.html#CalendarDate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "CalendarDate",
+          "package": "gtfs",
+          "partial": "Calendar Date",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:CalendarDate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Date",
+          "package": "gtfs",
+          "signature": "Date Int Int Int",
+          "source": "src/Data-GTFS-Types.html#Date",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Date",
+          "package": "gtfs",
+          "partial": "Date",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Date"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "DirectionA",
+          "package": "gtfs",
+          "signature": "DirectionA",
+          "source": "src/Data-GTFS-Types.html#DirectionID",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "DirectionA",
+          "package": "gtfs",
+          "partial": "Direction",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:DirectionA"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "DirectionB",
+          "package": "gtfs",
+          "signature": "DirectionB",
+          "source": "src/Data-GTFS-Types.html#DirectionID",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "DirectionB",
+          "package": "gtfs",
+          "partial": "Direction",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:DirectionB"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "FareAttribute",
+          "package": "gtfs",
+          "signature": "FareAttribute",
+          "source": "src/Data-GTFS-Types.html#FareAttribute",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "FareAttribute",
+          "package": "gtfs",
+          "partial": "Fare Attribute",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:FareAttribute"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "FareRule",
+          "package": "gtfs",
+          "signature": "FareRule",
+          "source": "src/Data-GTFS-Types.html#FareRule",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "FareRule",
+          "package": "gtfs",
+          "partial": "Fare Rule",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:FareRule"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Feed",
+          "package": "gtfs",
+          "signature": "Feed",
+          "source": "src/Data-GTFS-Types.html#Feed",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Feed",
+          "package": "gtfs",
+          "partial": "Feed",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Feed"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Ferry",
+          "package": "gtfs",
+          "signature": "Ferry",
+          "source": "src/Data-GTFS-Types.html#RouteType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Ferry",
+          "package": "gtfs",
+          "partial": "Ferry",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Ferry"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Frequency",
+          "package": "gtfs",
+          "signature": "Frequency",
+          "source": "src/Data-GTFS-Types.html#Frequency",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Frequency",
+          "package": "gtfs",
+          "partial": "Frequency",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Frequency"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Funicular",
+          "package": "gtfs",
+          "signature": "Funicular",
+          "source": "src/Data-GTFS-Types.html#RouteType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Funicular",
+          "package": "gtfs",
+          "partial": "Funicular",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Funicular"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Gondola",
+          "package": "gtfs",
+          "signature": "Gondola",
+          "source": "src/Data-GTFS-Types.html#RouteType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Gondola",
+          "package": "gtfs",
+          "partial": "Gondola",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Gondola"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "HasService",
+          "package": "gtfs",
+          "signature": "HasService",
+          "source": "src/Data-GTFS-Types.html#ServiceFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "HasService",
+          "package": "gtfs",
+          "partial": "Has Service",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:HasService"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "LocStation",
+          "package": "gtfs",
+          "signature": "LocStation",
+          "source": "src/Data-GTFS-Types.html#LocationType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "LocStation",
+          "package": "gtfs",
+          "partial": "Loc Station",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:LocStation"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "LocStop",
+          "package": "gtfs",
+          "signature": "LocStop",
+          "source": "src/Data-GTFS-Types.html#LocationType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "LocStop",
+          "package": "gtfs",
+          "partial": "Loc Stop",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:LocStop"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Metro",
+          "package": "gtfs",
+          "signature": "Metro",
+          "source": "src/Data-GTFS-Types.html#RouteType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Metro",
+          "package": "gtfs",
+          "partial": "Metro",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Metro"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "MinimumTransfer",
+          "package": "gtfs",
+          "signature": "MinimumTransfer",
+          "source": "src/Data-GTFS-Types.html#TransferType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "MinimumTransfer",
+          "package": "gtfs",
+          "partial": "Minimum Transfer",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:MinimumTransfer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "MustAskDriver",
+          "package": "gtfs",
+          "signature": "MustAskDriver",
+          "source": "src/Data-GTFS-Types.html#OnOffType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "MustAskDriver",
+          "package": "gtfs",
+          "partial": "Must Ask Driver",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:MustAskDriver"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "MustPhone",
+          "package": "gtfs",
+          "signature": "MustPhone",
+          "source": "src/Data-GTFS-Types.html#OnOffType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "MustPhone",
+          "package": "gtfs",
+          "partial": "Must Phone",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:MustPhone"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "NoException",
+          "package": "gtfs",
+          "signature": "NoException",
+          "source": "src/Data-GTFS-Types.html#ExceptionType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "NoException",
+          "package": "gtfs",
+          "partial": "No Exception",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:NoException"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "NoService",
+          "package": "gtfs",
+          "signature": "NoService",
+          "source": "src/Data-GTFS-Types.html#ServiceFlag",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "NoService",
+          "package": "gtfs",
+          "partial": "No Service",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:NoService"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "NoTransfer",
+          "package": "gtfs",
+          "signature": "NoTransfer",
+          "source": "src/Data-GTFS-Types.html#TransferType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "NoTransfer",
+          "package": "gtfs",
+          "partial": "No Transfer",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:NoTransfer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "NotAvailable",
+          "package": "gtfs",
+          "signature": "NotAvailable",
+          "source": "src/Data-GTFS-Types.html#OnOffType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "NotAvailable",
+          "package": "gtfs",
+          "partial": "Not Available",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:NotAvailable"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "PayBeforeBoarding",
+          "package": "gtfs",
+          "signature": "PayBeforeBoarding",
+          "source": "src/Data-GTFS-Types.html#PaymentMethod",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "PayBeforeBoarding",
+          "package": "gtfs",
+          "partial": "Pay Before Boarding",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:PayBeforeBoarding"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "PayOnBoard",
+          "package": "gtfs",
+          "signature": "PayOnBoard",
+          "source": "src/Data-GTFS-Types.html#PaymentMethod",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "PayOnBoard",
+          "package": "gtfs",
+          "partial": "Pay On Board",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:PayOnBoard"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Rail",
+          "package": "gtfs",
+          "signature": "Rail",
+          "source": "src/Data-GTFS-Types.html#RouteType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Rail",
+          "package": "gtfs",
+          "partial": "Rail",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Rail"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "RecommendedTransfer",
+          "package": "gtfs",
+          "signature": "RecommendedTransfer",
+          "source": "src/Data-GTFS-Types.html#TransferType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "RecommendedTransfer",
+          "package": "gtfs",
+          "partial": "Recommended Transfer",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:RecommendedTransfer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "RegularlyScheduled",
+          "package": "gtfs",
+          "signature": "RegularlyScheduled",
+          "source": "src/Data-GTFS-Types.html#OnOffType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "RegularlyScheduled",
+          "package": "gtfs",
+          "partial": "Regularly Scheduled",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:RegularlyScheduled"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Route",
+          "package": "gtfs",
+          "signature": "Route",
+          "source": "src/Data-GTFS-Types.html#Route",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Route",
+          "package": "gtfs",
+          "partial": "Route",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Route"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "ServiceAdded",
+          "package": "gtfs",
+          "signature": "ServiceAdded",
+          "source": "src/Data-GTFS-Types.html#ExceptionType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "ServiceAdded",
+          "package": "gtfs",
+          "partial": "Service Added",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:ServiceAdded"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "ServiceRemoved",
+          "package": "gtfs",
+          "signature": "ServiceRemoved",
+          "source": "src/Data-GTFS-Types.html#ExceptionType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "ServiceRemoved",
+          "package": "gtfs",
+          "partial": "Service Removed",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:ServiceRemoved"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Shape",
+          "package": "gtfs",
+          "signature": "Shape",
+          "source": "src/Data-GTFS-Types.html#Shape",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Shape",
+          "package": "gtfs",
+          "partial": "Shape",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Shape"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Stop",
+          "package": "gtfs",
+          "signature": "Stop",
+          "source": "src/Data-GTFS-Types.html#Stop",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Stop",
+          "package": "gtfs",
+          "partial": "Stop",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Stop"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "StopTime",
+          "package": "gtfs",
+          "signature": "StopTime",
+          "source": "src/Data-GTFS-Types.html#StopTime",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "StopTime",
+          "package": "gtfs",
+          "partial": "Stop Time",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:StopTime"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Time",
+          "package": "gtfs",
+          "signature": "Time Int Int Int",
+          "source": "src/Data-GTFS-Types.html#Time",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Time",
+          "package": "gtfs",
+          "partial": "Time",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Time"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "TimedTransfer",
+          "package": "gtfs",
+          "signature": "TimedTransfer",
+          "source": "src/Data-GTFS-Types.html#TransferType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "TimedTransfer",
+          "package": "gtfs",
+          "partial": "Timed Transfer",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:TimedTransfer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Tram",
+          "package": "gtfs",
+          "signature": "Tram",
+          "source": "src/Data-GTFS-Types.html#RouteType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Tram",
+          "package": "gtfs",
+          "partial": "Tram",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Tram"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Transfer",
+          "package": "gtfs",
+          "signature": "Transfer",
+          "source": "src/Data-GTFS-Types.html#Transfer",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Transfer",
+          "package": "gtfs",
+          "partial": "Transfer",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Transfer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "Trip",
+          "package": "gtfs",
+          "signature": "Trip",
+          "source": "src/Data-GTFS-Types.html#Trip",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "Trip",
+          "package": "gtfs",
+          "partial": "Trip",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:Trip"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "a_agency_id",
+          "package": "gtfs",
+          "signature": "Maybe AgencyID",
+          "source": "src/Data-GTFS-Types.html#Agency",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "a_agency_id",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:a_agency_id"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "a_agency_lang",
+          "package": "gtfs",
+          "signature": "Maybe Language",
+          "source": "src/Data-GTFS-Types.html#Agency",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "a_agency_lang",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:a_agency_lang"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "a_agency_name",
+          "package": "gtfs",
+          "signature": "String",
+          "source": "src/Data-GTFS-Types.html#Agency",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "a_agency_name",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:a_agency_name"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "a_agency_phone",
+          "package": "gtfs",
+          "signature": "Maybe Phone",
+          "source": "src/Data-GTFS-Types.html#Agency",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "a_agency_phone",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:a_agency_phone"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "a_agency_timezone",
+          "package": "gtfs",
+          "signature": "Timezone",
+          "source": "src/Data-GTFS-Types.html#Agency",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "a_agency_timezone",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:a_agency_timezone"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "a_agency_url",
+          "package": "gtfs",
+          "signature": "URL",
+          "source": "src/Data-GTFS-Types.html#Agency",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "a_agency_url",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:a_agency_url"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "c_end_date",
+          "package": "gtfs",
+          "signature": "Date",
+          "source": "src/Data-GTFS-Types.html#Calendar",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "c_end_date",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:c_end_date"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "c_friday",
+          "package": "gtfs",
+          "signature": "ServiceFlag",
+          "source": "src/Data-GTFS-Types.html#Calendar",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "c_friday",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:c_friday"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "c_monday",
+          "package": "gtfs",
+          "signature": "ServiceFlag",
+          "source": "src/Data-GTFS-Types.html#Calendar",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "c_monday",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:c_monday"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "c_saturday",
+          "package": "gtfs",
+          "signature": "ServiceFlag",
+          "source": "src/Data-GTFS-Types.html#Calendar",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "c_saturday",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:c_saturday"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "c_service_id",
+          "package": "gtfs",
+          "signature": "ServiceID",
+          "source": "src/Data-GTFS-Types.html#Calendar",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "c_service_id",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:c_service_id"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "c_start_date",
+          "package": "gtfs",
+          "signature": "Date",
+          "source": "src/Data-GTFS-Types.html#Calendar",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "c_start_date",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:c_start_date"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "c_sunday",
+          "package": "gtfs",
+          "signature": "ServiceFlag",
+          "source": "src/Data-GTFS-Types.html#Calendar",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "c_sunday",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:c_sunday"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "c_thursday",
+          "package": "gtfs",
+          "signature": "ServiceFlag",
+          "source": "src/Data-GTFS-Types.html#Calendar",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "c_thursday",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:c_thursday"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "c_tuesday",
+          "package": "gtfs",
+          "signature": "ServiceFlag",
+          "source": "src/Data-GTFS-Types.html#Calendar",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "c_tuesday",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:c_tuesday"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "c_wednesday",
+          "package": "gtfs",
+          "signature": "ServiceFlag",
+          "source": "src/Data-GTFS-Types.html#Calendar",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "c_wednesday",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:c_wednesday"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "cd_date",
+          "package": "gtfs",
+          "signature": "Date",
+          "source": "src/Data-GTFS-Types.html#CalendarDate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "cd_date",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:cd_date"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "cd_exception_type",
+          "package": "gtfs",
+          "signature": "ExceptionType",
+          "source": "src/Data-GTFS-Types.html#CalendarDate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "cd_exception_type",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:cd_exception_type"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "cd_service_id",
+          "package": "gtfs",
+          "signature": "ServiceID",
+          "source": "src/Data-GTFS-Types.html#CalendarDate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "cd_service_id",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:cd_service_id"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "f_agency",
+          "package": "gtfs",
+          "signature": "[Agency]",
+          "source": "src/Data-GTFS-Types.html#Feed",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "f_agency",
+          "normalized": "[Agency]",
+          "package": "gtfs",
+          "signature": "[Agency]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:f_agency"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "f_calendar",
+          "package": "gtfs",
+          "signature": "[Calendar]",
+          "source": "src/Data-GTFS-Types.html#Feed",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "f_calendar",
+          "normalized": "[Calendar]",
+          "package": "gtfs",
+          "signature": "[Calendar]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:f_calendar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "f_calendar_dates",
+          "package": "gtfs",
+          "signature": "[CalendarDate]",
+          "source": "src/Data-GTFS-Types.html#Feed",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "f_calendar_dates",
+          "normalized": "[CalendarDate]",
+          "package": "gtfs",
+          "signature": "[CalendarDate]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:f_calendar_dates"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "f_fare_attributes",
+          "package": "gtfs",
+          "signature": "[FareAttribute]",
+          "source": "src/Data-GTFS-Types.html#Feed",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "f_fare_attributes",
+          "normalized": "[FareAttribute]",
+          "package": "gtfs",
+          "signature": "[FareAttribute]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:f_fare_attributes"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "f_fare_rules",
+          "package": "gtfs",
+          "signature": "[FareRule]",
+          "source": "src/Data-GTFS-Types.html#Feed",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "f_fare_rules",
+          "normalized": "[FareRule]",
+          "package": "gtfs",
+          "signature": "[FareRule]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:f_fare_rules"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "f_frequencies",
+          "package": "gtfs",
+          "signature": "[Frequency]",
+          "source": "src/Data-GTFS-Types.html#Feed",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "f_frequencies",
+          "normalized": "[Frequency]",
+          "package": "gtfs",
+          "signature": "[Frequency]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:f_frequencies"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "f_routes",
+          "package": "gtfs",
+          "signature": "[Route]",
+          "source": "src/Data-GTFS-Types.html#Feed",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "f_routes",
+          "normalized": "[Route]",
+          "package": "gtfs",
+          "signature": "[Route]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:f_routes"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "f_shapes",
+          "package": "gtfs",
+          "signature": "[Shape]",
+          "source": "src/Data-GTFS-Types.html#Feed",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "f_shapes",
+          "normalized": "[Shape]",
+          "package": "gtfs",
+          "signature": "[Shape]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:f_shapes"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "f_stop_times",
+          "package": "gtfs",
+          "signature": "[StopTime]",
+          "source": "src/Data-GTFS-Types.html#Feed",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "f_stop_times",
+          "normalized": "[StopTime]",
+          "package": "gtfs",
+          "signature": "[StopTime]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:f_stop_times"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "f_stops",
+          "package": "gtfs",
+          "signature": "[Stop]",
+          "source": "src/Data-GTFS-Types.html#Feed",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "f_stops",
+          "normalized": "[Stop]",
+          "package": "gtfs",
+          "signature": "[Stop]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:f_stops"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "f_transfers",
+          "package": "gtfs",
+          "signature": "[Transfer]",
+          "source": "src/Data-GTFS-Types.html#Feed",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "f_transfers",
+          "normalized": "[Transfer]",
+          "package": "gtfs",
+          "signature": "[Transfer]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:f_transfers"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "f_trips",
+          "package": "gtfs",
+          "signature": "[Trip]",
+          "source": "src/Data-GTFS-Types.html#Feed",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "f_trips",
+          "normalized": "[Trip]",
+          "package": "gtfs",
+          "signature": "[Trip]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:f_trips"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "fa_currency_type",
+          "package": "gtfs",
+          "signature": "Currency",
+          "source": "src/Data-GTFS-Types.html#FareAttribute",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "fa_currency_type",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:fa_currency_type"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "fa_fare_id",
+          "package": "gtfs",
+          "signature": "FareID",
+          "source": "src/Data-GTFS-Types.html#FareAttribute",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "fa_fare_id",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:fa_fare_id"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "fa_payment_method",
+          "package": "gtfs",
+          "signature": "PaymentMethod",
+          "source": "src/Data-GTFS-Types.html#FareAttribute",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "fa_payment_method",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:fa_payment_method"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "fa_price",
+          "package": "gtfs",
+          "signature": "Price",
+          "source": "src/Data-GTFS-Types.html#FareAttribute",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "fa_price",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:fa_price"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "fa_transfer_duration",
+          "package": "gtfs",
+          "signature": "Maybe Seconds",
+          "source": "src/Data-GTFS-Types.html#FareAttribute",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "fa_transfer_duration",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:fa_transfer_duration"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "fa_transfers",
+          "package": "gtfs",
+          "signature": "TransferLimit",
+          "source": "src/Data-GTFS-Types.html#FareAttribute",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "fa_transfers",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:fa_transfers"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "fq_end_time",
+          "package": "gtfs",
+          "signature": "Time",
+          "source": "src/Data-GTFS-Types.html#Frequency",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "fq_end_time",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:fq_end_time"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "fq_headway_secs",
+          "package": "gtfs",
+          "signature": "Seconds",
+          "source": "src/Data-GTFS-Types.html#Frequency",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "fq_headway_secs",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:fq_headway_secs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "fq_start_time",
+          "package": "gtfs",
+          "signature": "Time",
+          "source": "src/Data-GTFS-Types.html#Frequency",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "fq_start_time",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:fq_start_time"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "fq_trip_id",
+          "package": "gtfs",
+          "signature": "TripID",
+          "source": "src/Data-GTFS-Types.html#Frequency",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "fq_trip_id",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:fq_trip_id"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "fr_contains_id",
+          "package": "gtfs",
+          "signature": "Maybe ZoneID",
+          "source": "src/Data-GTFS-Types.html#FareRule",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "fr_contains_id",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:fr_contains_id"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "fr_destination_id",
+          "package": "gtfs",
+          "signature": "Maybe ZoneID",
+          "source": "src/Data-GTFS-Types.html#FareRule",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "fr_destination_id",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:fr_destination_id"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "fr_fare_id",
+          "package": "gtfs",
+          "signature": "FareID",
+          "source": "src/Data-GTFS-Types.html#FareRule",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "fr_fare_id",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:fr_fare_id"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "fr_origin_id",
+          "package": "gtfs",
+          "signature": "Maybe ZoneID",
+          "source": "src/Data-GTFS-Types.html#FareRule",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "fr_origin_id",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:fr_origin_id"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "fr_route_id",
+          "package": "gtfs",
+          "signature": "Maybe RouteID",
+          "source": "src/Data-GTFS-Types.html#FareRule",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "fr_route_id",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:fr_route_id"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "r_agency_id",
+          "package": "gtfs",
+          "signature": "Maybe AgencyID",
+          "source": "src/Data-GTFS-Types.html#Route",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "r_agency_id",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:r_agency_id"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "r_route_color",
+          "package": "gtfs",
+          "signature": "Maybe Color",
+          "source": "src/Data-GTFS-Types.html#Route",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "r_route_color",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:r_route_color"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "r_route_desc",
+          "package": "gtfs",
+          "signature": "Maybe String",
+          "source": "src/Data-GTFS-Types.html#Route",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "r_route_desc",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:r_route_desc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "r_route_id",
+          "package": "gtfs",
+          "signature": "RouteID",
+          "source": "src/Data-GTFS-Types.html#Route",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "r_route_id",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:r_route_id"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "r_route_long_name",
+          "package": "gtfs",
+          "signature": "String",
+          "source": "src/Data-GTFS-Types.html#Route",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "r_route_long_name",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:r_route_long_name"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "r_route_short_name",
+          "package": "gtfs",
+          "signature": "String",
+          "source": "src/Data-GTFS-Types.html#Route",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "r_route_short_name",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:r_route_short_name"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "r_route_text_color",
+          "package": "gtfs",
+          "signature": "Maybe Color",
+          "source": "src/Data-GTFS-Types.html#Route",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "r_route_text_color",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:r_route_text_color"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "r_route_type",
+          "package": "gtfs",
+          "signature": "RouteType",
+          "source": "src/Data-GTFS-Types.html#Route",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "r_route_type",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:r_route_type"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "r_route_url",
+          "package": "gtfs",
+          "signature": "Maybe URL",
+          "source": "src/Data-GTFS-Types.html#Route",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "r_route_url",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:r_route_url"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "s_location_type",
+          "package": "gtfs",
+          "signature": "Maybe LocationType",
+          "source": "src/Data-GTFS-Types.html#Stop",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "s_location_type",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:s_location_type"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "s_parent_station",
+          "package": "gtfs",
+          "signature": "Maybe StopID",
+          "source": "src/Data-GTFS-Types.html#Stop",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "s_parent_station",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:s_parent_station"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "s_stop_code",
+          "package": "gtfs",
+          "signature": "Maybe String",
+          "source": "src/Data-GTFS-Types.html#Stop",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "s_stop_code",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:s_stop_code"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "s_stop_desc",
+          "package": "gtfs",
+          "signature": "Maybe String",
+          "source": "src/Data-GTFS-Types.html#Stop",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "s_stop_desc",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:s_stop_desc"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "s_stop_id",
+          "package": "gtfs",
+          "signature": "StopID",
+          "source": "src/Data-GTFS-Types.html#Stop",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "s_stop_id",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:s_stop_id"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "s_stop_lat",
+          "package": "gtfs",
+          "signature": "LatLon",
+          "source": "src/Data-GTFS-Types.html#Stop",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "s_stop_lat",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:s_stop_lat"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "s_stop_lon",
+          "package": "gtfs",
+          "signature": "LatLon",
+          "source": "src/Data-GTFS-Types.html#Stop",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "s_stop_lon",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:s_stop_lon"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "s_stop_name",
+          "package": "gtfs",
+          "signature": "String",
+          "source": "src/Data-GTFS-Types.html#Stop",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "s_stop_name",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:s_stop_name"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "s_stop_url",
+          "package": "gtfs",
+          "signature": "Maybe URL",
+          "source": "src/Data-GTFS-Types.html#Stop",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "s_stop_url",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:s_stop_url"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "s_zone_id",
+          "package": "gtfs",
+          "signature": "Maybe ZoneID",
+          "source": "src/Data-GTFS-Types.html#Stop",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "s_zone_id",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:s_zone_id"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "sh_shape_dist_traveled",
+          "package": "gtfs",
+          "signature": "Maybe Distance",
+          "source": "src/Data-GTFS-Types.html#Shape",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "sh_shape_dist_traveled",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:sh_shape_dist_traveled"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "sh_shape_id",
+          "package": "gtfs",
+          "signature": "ShapeID",
+          "source": "src/Data-GTFS-Types.html#Shape",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "sh_shape_id",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:sh_shape_id"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "sh_shape_pt_lat",
+          "package": "gtfs",
+          "signature": "LatLon",
+          "source": "src/Data-GTFS-Types.html#Shape",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "sh_shape_pt_lat",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:sh_shape_pt_lat"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "sh_shape_pt_lon",
+          "package": "gtfs",
+          "signature": "LatLon",
+          "source": "src/Data-GTFS-Types.html#Shape",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "sh_shape_pt_lon",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:sh_shape_pt_lon"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "sh_shape_pt_sequence",
+          "package": "gtfs",
+          "signature": "Sequence",
+          "source": "src/Data-GTFS-Types.html#Shape",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "sh_shape_pt_sequence",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:sh_shape_pt_sequence"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "st_arrival_time",
+          "package": "gtfs",
+          "signature": "Time",
+          "source": "src/Data-GTFS-Types.html#StopTime",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "st_arrival_time",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:st_arrival_time"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "st_departure_time",
+          "package": "gtfs",
+          "signature": "Time",
+          "source": "src/Data-GTFS-Types.html#StopTime",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "st_departure_time",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:st_departure_time"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "st_drop_off_type",
+          "package": "gtfs",
+          "signature": "Maybe OnOffType",
+          "source": "src/Data-GTFS-Types.html#StopTime",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "st_drop_off_type",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:st_drop_off_type"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "st_pickup_type",
+          "package": "gtfs",
+          "signature": "Maybe OnOffType",
+          "source": "src/Data-GTFS-Types.html#StopTime",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "st_pickup_type",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:st_pickup_type"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "st_shape_dist_traveled",
+          "package": "gtfs",
+          "signature": "Maybe Distance",
+          "source": "src/Data-GTFS-Types.html#StopTime",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "st_shape_dist_traveled",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:st_shape_dist_traveled"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "st_stop_headsign",
+          "package": "gtfs",
+          "signature": "Maybe String",
+          "source": "src/Data-GTFS-Types.html#StopTime",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "st_stop_headsign",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:st_stop_headsign"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "st_stop_id",
+          "package": "gtfs",
+          "signature": "StopID",
+          "source": "src/Data-GTFS-Types.html#StopTime",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "st_stop_id",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:st_stop_id"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "st_stop_sequence",
+          "package": "gtfs",
+          "signature": "Sequence",
+          "source": "src/Data-GTFS-Types.html#StopTime",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "st_stop_sequence",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:st_stop_sequence"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "st_trip_id",
+          "package": "gtfs",
+          "signature": "TripID",
+          "source": "src/Data-GTFS-Types.html#StopTime",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "st_trip_id",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:st_trip_id"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "t_block_id",
+          "package": "gtfs",
+          "signature": "Maybe BlockID",
+          "source": "src/Data-GTFS-Types.html#Trip",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "t_block_id",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:t_block_id"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "t_direction_id",
+          "package": "gtfs",
+          "signature": "Maybe DirectionID",
+          "source": "src/Data-GTFS-Types.html#Trip",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "t_direction_id",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:t_direction_id"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "t_route_id",
+          "package": "gtfs",
+          "signature": "RouteID",
+          "source": "src/Data-GTFS-Types.html#Trip",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "t_route_id",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:t_route_id"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "t_service_id",
+          "package": "gtfs",
+          "signature": "ServiceID",
+          "source": "src/Data-GTFS-Types.html#Trip",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "t_service_id",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:t_service_id"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "t_shape_id",
+          "package": "gtfs",
+          "signature": "Maybe ShapeID",
+          "source": "src/Data-GTFS-Types.html#Trip",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "t_shape_id",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:t_shape_id"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "t_trip_headsign",
+          "package": "gtfs",
+          "signature": "Maybe String",
+          "source": "src/Data-GTFS-Types.html#Trip",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "t_trip_headsign",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:t_trip_headsign"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "t_trip_id",
+          "package": "gtfs",
+          "signature": "TripID",
+          "source": "src/Data-GTFS-Types.html#Trip",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "t_trip_id",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:t_trip_id"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "t_trip_short_name",
+          "package": "gtfs",
+          "signature": "Maybe String",
+          "source": "src/Data-GTFS-Types.html#Trip",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "t_trip_short_name",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:t_trip_short_name"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "x_from_stop_id",
+          "package": "gtfs",
+          "signature": "StopID",
+          "source": "src/Data-GTFS-Types.html#Transfer",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "x_from_stop_id",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:x_from_stop_id"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "x_min_transfer_time",
+          "package": "gtfs",
+          "signature": "Maybe Seconds",
+          "source": "src/Data-GTFS-Types.html#Transfer",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "x_min_transfer_time",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:x_min_transfer_time"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "x_to_stop_id",
+          "package": "gtfs",
+          "signature": "StopID",
+          "source": "src/Data-GTFS-Types.html#Transfer",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "x_to_stop_id",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:x_to_stop_id"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Data.GTFS.Types",
+          "name": "x_transfer_type",
+          "package": "gtfs",
+          "signature": "TransferType",
+          "source": "src/Data-GTFS-Types.html#Transfer",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Data GTFS Types",
+          "module": "Data.GTFS.Types",
+          "name": "x_transfer_type",
+          "package": "gtfs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/gtfs/docs/Data-GTFS-Types.html#v:x_transfer_type"
+      }
+    }
+  ]
 ]

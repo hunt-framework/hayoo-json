@@ -1,50 +1,63 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/frquotes/docs/Text-FrQuotes.html#",
-      "description": {
-        "fct-module": "Text.FrQuotes",
-        "fct-package": "frquotes",
-        "fct-signature": "module",
-        "fct-source": "src/Text-FrQuotes.html",
-        "fct-type": "module",
-        "title": "FrQuotes"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "frquotes"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Text FrQuotes",
-        "module": "Text.FrQuotes",
-        "name": "FrQuotes",
-        "normalized": "",
-        "package": "frquotes",
-        "partial": "Fr Quotes",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/frquotes/docs/Text-FrQuotes.html#v:frQuotes",
-      "description": {
-        "fct-module": "Text.FrQuotes",
-        "fct-package": "frquotes",
-        "fct-signature": "String -\u003e String",
-        "fct-source": "src/Text-FrQuotes.html#frQuotes",
-        "fct-type": "function",
-        "title": "frQuotes"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Text FrQuotes",
-        "module": "Text.FrQuotes",
-        "name": "frQuotes",
-        "normalized": "String-\u003eString",
-        "package": "frquotes",
-        "partial": "Quotes",
-        "signature": "String-\u003eString"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.FrQuotes",
+          "name": "FrQuotes",
+          "package": "frquotes",
+          "source": "src/Text-FrQuotes.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Text FrQuotes",
+          "module": "Text.FrQuotes",
+          "name": "FrQuotes",
+          "package": "frquotes",
+          "partial": "Fr Quotes",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/frquotes/docs/Text-FrQuotes.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Text.FrQuotes",
+          "name": "frQuotes",
+          "package": "frquotes",
+          "signature": "String -\u003e String",
+          "source": "src/Text-FrQuotes.html#frQuotes",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Text FrQuotes",
+          "module": "Text.FrQuotes",
+          "name": "frQuotes",
+          "normalized": "String-\u003eString",
+          "package": "frquotes",
+          "partial": "Quotes",
+          "signature": "String-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/frquotes/docs/Text-FrQuotes.html#v:frQuotes"
       }
     }
-  }
+  ]
 ]

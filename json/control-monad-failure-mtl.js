@@ -1,50 +1,60 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/control-monad-failure-mtl/docs/Control-Monad-Failure-MTL.html#",
-      "description": {
-        "fct-module": "Control.Monad.Failure.MTL",
-        "fct-package": "control-monad-failure-mtl",
-        "fct-signature": "module",
-        "fct-source": "src/Control-Monad-Failure-MTL.html",
-        "fct-type": "module",
-        "title": "MTL"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "control-monad-failure-mtl"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Monad Failure MTL",
-        "module": "Control.Monad.Failure.MTL",
-        "name": "MTL",
-        "normalized": "",
-        "package": "control-monad-failure-mtl",
-        "partial": "MTL",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/control-monad-failure-mtl/docs/Control-Monad-Failure.html#",
-      "description": {
-        "fct-module": "Control.Monad.Failure",
-        "fct-package": "control-monad-failure-mtl",
-        "fct-signature": "module",
-        "fct-source": "src/Control-Monad-Failure.html",
-        "fct-type": "module",
-        "title": "Failure"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Control Monad Failure",
-        "module": "Control.Monad.Failure",
-        "name": "Failure",
-        "normalized": "",
-        "package": "control-monad-failure-mtl",
-        "partial": "Failure",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Monad.Failure.MTL",
+          "name": "MTL",
+          "package": "control-monad-failure-mtl",
+          "source": "src/Control-Monad-Failure-MTL.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Control Monad Failure MTL",
+          "module": "Control.Monad.Failure.MTL",
+          "name": "MTL",
+          "package": "control-monad-failure-mtl",
+          "partial": "MTL",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/control-monad-failure-mtl/docs/Control-Monad-Failure-MTL.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Control.Monad.Failure",
+          "name": "Failure",
+          "package": "control-monad-failure-mtl",
+          "source": "src/Control-Monad-Failure.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Control Monad Failure",
+          "module": "Control.Monad.Failure",
+          "name": "Failure",
+          "package": "control-monad-failure-mtl",
+          "partial": "Failure",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/control-monad-failure-mtl/docs/Control-Monad-Failure.html#"
       }
     }
-  }
+  ]
 ]

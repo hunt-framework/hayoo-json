@@ -1,50 +1,62 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskintex/docs/Haskintex.html#",
-      "description": {
-        "fct-module": "Haskintex",
-        "fct-package": "haskintex",
-        "fct-signature": "module",
-        "fct-source": "src/Haskintex.html",
-        "fct-type": "module",
-        "title": "Haskintex"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "haskintex"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Haskintex",
-        "module": "Haskintex",
-        "name": "Haskintex",
-        "normalized": "",
-        "package": "haskintex",
-        "partial": "Haskintex",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/haskintex/docs/Haskintex.html#v:haskintex",
-      "description": {
-        "fct-module": "Haskintex",
-        "fct-package": "haskintex",
-        "fct-signature": "[String] -\u003e IO ()",
-        "fct-source": "src/Haskintex.html#haskintex",
-        "fct-type": "function",
-        "title": "haskintex"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Haskintex",
-        "module": "Haskintex",
-        "name": "haskintex",
-        "normalized": "[String]-\u003eIO()",
-        "package": "haskintex",
-        "partial": "",
-        "signature": "[String]-\u003eIO()"
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Haskintex",
+          "name": "Haskintex",
+          "package": "haskintex",
+          "source": "src/Haskintex.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Haskintex",
+          "module": "Haskintex",
+          "name": "Haskintex",
+          "package": "haskintex",
+          "partial": "Haskintex",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/haskintex/docs/Haskintex.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Haskintex",
+          "name": "haskintex",
+          "package": "haskintex",
+          "signature": "[String] -\u003e IO ()",
+          "source": "src/Haskintex.html#haskintex",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Haskintex",
+          "module": "Haskintex",
+          "name": "haskintex",
+          "normalized": "[String]-\u003eIO()",
+          "package": "haskintex",
+          "signature": "[String]-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/haskintex/docs/Haskintex.html#v:haskintex"
       }
     }
-  }
+  ]
 ]

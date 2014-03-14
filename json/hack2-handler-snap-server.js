@@ -1,195 +1,198 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hack2-handler-snap-server/docs/Hack2-Handler-SnapServer.html#",
-      "description": {
-        "fct-module": "Hack2.Handler.SnapServer",
-        "fct-package": "hack2-handler-snap-server",
-        "fct-signature": "module",
-        "fct-source": "src/Hack2-Handler-SnapServer.html",
-        "fct-type": "module",
-        "title": "SnapServer"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "hack2-handler-snap-server"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Hack2 Handler SnapServer",
-        "module": "Hack2.Handler.SnapServer",
-        "name": "SnapServer",
-        "normalized": "",
-        "package": "hack2-handler-snap-server",
-        "partial": "Snap Server",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hack2-handler-snap-server/docs/Hack2-Handler-SnapServer.html#t:ServerConfig",
-      "description": {
-        "fct-module": "Hack2.Handler.SnapServer",
-        "fct-package": "hack2-handler-snap-server",
-        "fct-signature": "data",
-        "fct-source": "src/Hack2-Handler-SnapServer.html#ServerConfig",
-        "fct-type": "data",
-        "title": "ServerConfig"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Hack2 Handler SnapServer",
-        "module": "Hack2.Handler.SnapServer",
-        "name": "ServerConfig",
-        "normalized": "",
-        "package": "hack2-handler-snap-server",
-        "partial": "Server Config",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Hack2.Handler.SnapServer",
+          "name": "SnapServer",
+          "package": "hack2-handler-snap-server",
+          "source": "src/Hack2-Handler-SnapServer.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Hack2 Handler SnapServer",
+          "module": "Hack2.Handler.SnapServer",
+          "name": "SnapServer",
+          "package": "hack2-handler-snap-server",
+          "partial": "Snap Server",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/hack2-handler-snap-server/docs/Hack2-Handler-SnapServer.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Hack2.Handler.SnapServer",
+          "name": "ServerConfig",
+          "package": "hack2-handler-snap-server",
+          "source": "src/Hack2-Handler-SnapServer.html#ServerConfig",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Hack2 Handler SnapServer",
+          "module": "Hack2.Handler.SnapServer",
+          "name": "ServerConfig",
+          "package": "hack2-handler-snap-server",
+          "partial": "Server Config",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/hack2-handler-snap-server/docs/Hack2-Handler-SnapServer.html#t:ServerConfig"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Hack2.Handler.SnapServer",
+          "name": "ServerConfig",
+          "package": "hack2-handler-snap-server",
+          "signature": "ServerConfig",
+          "source": "src/Hack2-Handler-SnapServer.html#ServerConfig",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Hack2 Handler SnapServer",
+          "module": "Hack2.Handler.SnapServer",
+          "name": "ServerConfig",
+          "package": "hack2-handler-snap-server",
+          "partial": "Server Config",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hack2-handler-snap-server/docs/Hack2-Handler-SnapServer.html#v:ServerConfig"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Hack2.Handler.SnapServer",
+          "name": "hackAppToSnap",
+          "package": "hack2-handler-snap-server",
+          "signature": "Application -\u003e Snap ()",
+          "source": "src/Hack2-Handler-SnapServer.html#hackAppToSnap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Hack2 Handler SnapServer",
+          "module": "Hack2.Handler.SnapServer",
+          "name": "hackAppToSnap",
+          "normalized": "Application-\u003eSnap()",
+          "package": "hack2-handler-snap-server",
+          "partial": "App To Snap",
+          "signature": "Application-\u003eSnap()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hack2-handler-snap-server/docs/Hack2-Handler-SnapServer.html#v:hackAppToSnap"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Hack2.Handler.SnapServer",
+          "name": "port",
+          "package": "hack2-handler-snap-server",
+          "signature": "Int",
+          "source": "src/Hack2-Handler-SnapServer.html#ServerConfig",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Hack2 Handler SnapServer",
+          "module": "Hack2.Handler.SnapServer",
+          "name": "port",
+          "package": "hack2-handler-snap-server",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hack2-handler-snap-server/docs/Hack2-Handler-SnapServer.html#v:port"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Hack2.Handler.SnapServer",
+          "name": "run",
+          "package": "hack2-handler-snap-server",
+          "signature": "Application -\u003e IO ()",
+          "source": "src/Hack2-Handler-SnapServer.html#run",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Hack2 Handler SnapServer",
+          "module": "Hack2.Handler.SnapServer",
+          "name": "run",
+          "normalized": "Application-\u003eIO()",
+          "package": "hack2-handler-snap-server",
+          "signature": "Application-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hack2-handler-snap-server/docs/Hack2-Handler-SnapServer.html#v:run"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Hack2.Handler.SnapServer",
+          "name": "runWithConfig",
+          "package": "hack2-handler-snap-server",
+          "signature": "ServerConfig -\u003e Application -\u003e IO ()",
+          "source": "src/Hack2-Handler-SnapServer.html#runWithConfig",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Hack2 Handler SnapServer",
+          "module": "Hack2.Handler.SnapServer",
+          "name": "runWithConfig",
+          "normalized": "ServerConfig-\u003eApplication-\u003eIO()",
+          "package": "hack2-handler-snap-server",
+          "partial": "With Config",
+          "signature": "ServerConfig-\u003eApplication-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hack2-handler-snap-server/docs/Hack2-Handler-SnapServer.html#v:runWithConfig"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Hack2.Handler.SnapServer",
+          "name": "runWithSnapServerConfig",
+          "package": "hack2-handler-snap-server",
+          "signature": "Config Snap a -\u003e Application -\u003e IO ()",
+          "source": "src/Hack2-Handler-SnapServer.html#runWithSnapServerConfig",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Hack2 Handler SnapServer",
+          "module": "Hack2.Handler.SnapServer",
+          "name": "runWithSnapServerConfig",
+          "normalized": "Config Snap a-\u003eApplication-\u003eIO()",
+          "package": "hack2-handler-snap-server",
+          "partial": "With Snap Server Config",
+          "signature": "Config Snap a-\u003eApplication-\u003eIO()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/hack2-handler-snap-server/docs/Hack2-Handler-SnapServer.html#v:runWithSnapServerConfig"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hack2-handler-snap-server/docs/Hack2-Handler-SnapServer.html#v:ServerConfig",
-      "description": {
-        "fct-module": "Hack2.Handler.SnapServer",
-        "fct-package": "hack2-handler-snap-server",
-        "fct-signature": "ServerConfig",
-        "fct-source": "src/Hack2-Handler-SnapServer.html#ServerConfig",
-        "fct-type": "function",
-        "title": "ServerConfig"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Hack2 Handler SnapServer",
-        "module": "Hack2.Handler.SnapServer",
-        "name": "ServerConfig",
-        "normalized": "",
-        "package": "hack2-handler-snap-server",
-        "partial": "Server Config",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hack2-handler-snap-server/docs/Hack2-Handler-SnapServer.html#v:hackAppToSnap",
-      "description": {
-        "fct-module": "Hack2.Handler.SnapServer",
-        "fct-package": "hack2-handler-snap-server",
-        "fct-signature": "Application -\u003e Snap ()",
-        "fct-source": "src/Hack2-Handler-SnapServer.html#hackAppToSnap",
-        "fct-type": "function",
-        "title": "hackAppToSnap"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Hack2 Handler SnapServer",
-        "module": "Hack2.Handler.SnapServer",
-        "name": "hackAppToSnap",
-        "normalized": "Application-\u003eSnap()",
-        "package": "hack2-handler-snap-server",
-        "partial": "App To Snap",
-        "signature": "Application-\u003eSnap()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hack2-handler-snap-server/docs/Hack2-Handler-SnapServer.html#v:port",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Hack2.Handler.SnapServer",
-        "fct-package": "hack2-handler-snap-server",
-        "fct-signature": "Int",
-        "fct-source": "src/Hack2-Handler-SnapServer.html#ServerConfig",
-        "fct-type": "function",
-        "title": "port"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Hack2 Handler SnapServer",
-        "module": "Hack2.Handler.SnapServer",
-        "name": "port",
-        "normalized": "",
-        "package": "hack2-handler-snap-server",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hack2-handler-snap-server/docs/Hack2-Handler-SnapServer.html#v:run",
-      "description": {
-        "fct-module": "Hack2.Handler.SnapServer",
-        "fct-package": "hack2-handler-snap-server",
-        "fct-signature": "Application -\u003e IO ()",
-        "fct-source": "src/Hack2-Handler-SnapServer.html#run",
-        "fct-type": "function",
-        "title": "run"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Hack2 Handler SnapServer",
-        "module": "Hack2.Handler.SnapServer",
-        "name": "run",
-        "normalized": "Application-\u003eIO()",
-        "package": "hack2-handler-snap-server",
-        "partial": "",
-        "signature": "Application-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hack2-handler-snap-server/docs/Hack2-Handler-SnapServer.html#v:runWithConfig",
-      "description": {
-        "fct-module": "Hack2.Handler.SnapServer",
-        "fct-package": "hack2-handler-snap-server",
-        "fct-signature": "ServerConfig -\u003e Application -\u003e IO ()",
-        "fct-source": "src/Hack2-Handler-SnapServer.html#runWithConfig",
-        "fct-type": "function",
-        "title": "runWithConfig"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Hack2 Handler SnapServer",
-        "module": "Hack2.Handler.SnapServer",
-        "name": "runWithConfig",
-        "normalized": "ServerConfig-\u003eApplication-\u003eIO()",
-        "package": "hack2-handler-snap-server",
-        "partial": "With Config",
-        "signature": "ServerConfig-\u003eApplication-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hack2-handler-snap-server/docs/Hack2-Handler-SnapServer.html#v:runWithSnapServerConfig",
-      "description": {
-        "fct-module": "Hack2.Handler.SnapServer",
-        "fct-package": "hack2-handler-snap-server",
-        "fct-signature": "Config Snap a -\u003e Application -\u003e IO ()",
-        "fct-source": "src/Hack2-Handler-SnapServer.html#runWithSnapServerConfig",
-        "fct-type": "function",
-        "title": "runWithSnapServerConfig"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Hack2 Handler SnapServer",
-        "module": "Hack2.Handler.SnapServer",
-        "name": "runWithSnapServerConfig",
-        "normalized": "Config Snap a-\u003eApplication-\u003eIO()",
-        "package": "hack2-handler-snap-server",
-        "partial": "With Snap Server Config",
-        "signature": "Config Snap a-\u003eApplication-\u003eIO()"
-      }
-    }
-  }
+  ]
 ]

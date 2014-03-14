@@ -1,877 +1,830 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#",
-      "description": {
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "module",
-        "fct-source": "src/Network-URI-Enumerator.html",
-        "fct-type": "module",
-        "title": "Enumerator"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "uri-enumerator"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "Enumerator",
-        "normalized": "",
-        "package": "uri-enumerator",
-        "partial": "Enumerator",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#t:Scheme",
-      "description": {
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "data",
-        "fct-source": "src/Network-URI-Enumerator.html#Scheme",
-        "fct-type": "data",
-        "title": "Scheme"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "Scheme",
-        "normalized": "",
-        "package": "uri-enumerator",
-        "partial": "Scheme",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "Enumerator",
+          "package": "uri-enumerator",
+          "source": "src/Network-URI-Enumerator.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "Enumerator",
+          "package": "uri-enumerator",
+          "partial": "Enumerator",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "Scheme",
+          "package": "uri-enumerator",
+          "source": "src/Network-URI-Enumerator.html#Scheme",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "Scheme",
+          "package": "uri-enumerator",
+          "partial": "Scheme",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#t:Scheme"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "SchemeMap",
+          "package": "uri-enumerator",
+          "source": "src/Network-URI-Enumerator.html#SchemeMap",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "SchemeMap",
+          "package": "uri-enumerator",
+          "partial": "Scheme Map",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#t:SchemeMap"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "URI",
+          "package": "uri-enumerator",
+          "source": "src/Network-URI-Enumerator.html#URI",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "URI",
+          "package": "uri-enumerator",
+          "partial": "URI",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#t:URI"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "URIAuth",
+          "package": "uri-enumerator",
+          "source": "src/Network-URI-Enumerator.html#URIAuth",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "URIAuth",
+          "package": "uri-enumerator",
+          "partial": "URIAuth",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#t:URIAuth"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "URIException",
+          "package": "uri-enumerator",
+          "source": "src/Network-URI-Enumerator.html#URIException",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "URIException",
+          "package": "uri-enumerator",
+          "partial": "URIException",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#t:URIException"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "InvalidRelativeReference",
+          "package": "uri-enumerator",
+          "signature": "InvalidRelativeReference Text",
+          "source": "src/Network-URI-Enumerator.html#URIException",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "InvalidRelativeReference",
+          "package": "uri-enumerator",
+          "partial": "Invalid Relative Reference",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:InvalidRelativeReference"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "InvalidURI",
+          "package": "uri-enumerator",
+          "signature": "InvalidURI Text",
+          "source": "src/Network-URI-Enumerator.html#URIException",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "InvalidURI",
+          "package": "uri-enumerator",
+          "partial": "Invalid URI",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:InvalidURI"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "Scheme",
+          "package": "uri-enumerator",
+          "signature": "Scheme",
+          "source": "src/Network-URI-Enumerator.html#Scheme",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "Scheme",
+          "package": "uri-enumerator",
+          "partial": "Scheme",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:Scheme"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "URI",
+          "package": "uri-enumerator",
+          "signature": "URI",
+          "source": "src/Network-URI-Enumerator.html#URI",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "URI",
+          "package": "uri-enumerator",
+          "partial": "URI",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:URI"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "URIAuth",
+          "package": "uri-enumerator",
+          "signature": "URIAuth",
+          "source": "src/Network-URI-Enumerator.html#URIAuth",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "URIAuth",
+          "package": "uri-enumerator",
+          "partial": "URIAuth",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:URIAuth"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "UnknownReadScheme",
+          "package": "uri-enumerator",
+          "signature": "UnknownReadScheme URI",
+          "source": "src/Network-URI-Enumerator.html#URIException",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "UnknownReadScheme",
+          "package": "uri-enumerator",
+          "partial": "Unknown Read Scheme",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:UnknownReadScheme"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "UnknownWriteScheme",
+          "package": "uri-enumerator",
+          "signature": "UnknownWriteScheme URI",
+          "source": "src/Network-URI-Enumerator.html#URIException",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "UnknownWriteScheme",
+          "package": "uri-enumerator",
+          "partial": "Unknown Write Scheme",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:UnknownWriteScheme"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "copyURI",
+          "package": "uri-enumerator",
+          "signature": "SchemeMap m -\u003e URI -\u003e URI -\u003e m ()",
+          "source": "src/Network-URI-Enumerator.html#copyURI",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "copyURI",
+          "normalized": "SchemeMap a-\u003eURI-\u003eURI-\u003ea()",
+          "package": "uri-enumerator",
+          "partial": "URI",
+          "signature": "SchemeMap m-\u003eURI-\u003eURI-\u003em()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:copyURI"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "fromNetworkURI",
+          "package": "uri-enumerator",
+          "signature": "URI -\u003e URI",
+          "source": "src/Network-URI-Enumerator.html#fromNetworkURI",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "fromNetworkURI",
+          "normalized": "URI-\u003eURI",
+          "package": "uri-enumerator",
+          "partial": "Network URI",
+          "signature": "URI-\u003eURI",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:fromNetworkURI"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "hasExtension",
+          "package": "uri-enumerator",
+          "signature": "URI -\u003e Text -\u003e Bool",
+          "source": "src/Network-URI-Enumerator.html#hasExtension",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "hasExtension",
+          "normalized": "URI-\u003eText-\u003eBool",
+          "package": "uri-enumerator",
+          "partial": "Extension",
+          "signature": "URI-\u003eText-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:hasExtension"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "nullURI",
+          "package": "uri-enumerator",
+          "signature": "URI",
+          "source": "src/Network-URI-Enumerator.html#nullURI",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "nullURI",
+          "package": "uri-enumerator",
+          "partial": "URI",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:nullURI"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "parseRelativeReference",
+          "package": "uri-enumerator",
+          "signature": "Text -\u003e m URI",
+          "source": "src/Network-URI-Enumerator.html#parseRelativeReference",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "parseRelativeReference",
+          "normalized": "Text-\u003ea URI",
+          "package": "uri-enumerator",
+          "partial": "Relative Reference",
+          "signature": "Text-\u003em URI",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:parseRelativeReference"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "parseURI",
+          "package": "uri-enumerator",
+          "signature": "Text -\u003e m URI",
+          "source": "src/Network-URI-Enumerator.html#parseURI",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "parseURI",
+          "normalized": "Text-\u003ea URI",
+          "package": "uri-enumerator",
+          "partial": "URI",
+          "signature": "Text-\u003em URI",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:parseURI"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "parseURIReference",
+          "package": "uri-enumerator",
+          "signature": "Text -\u003e m URI",
+          "source": "src/Network-URI-Enumerator.html#parseURIReference",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "parseURIReference",
+          "normalized": "Text-\u003ea URI",
+          "package": "uri-enumerator",
+          "partial": "URIReference",
+          "signature": "Text-\u003em URI",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:parseURIReference"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "readURI",
+          "package": "uri-enumerator",
+          "signature": "SchemeMap m -\u003e URI -\u003e Enumerator ByteString m b",
+          "source": "src/Network-URI-Enumerator.html#readURI",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "readURI",
+          "normalized": "SchemeMap a-\u003eURI-\u003eEnumerator ByteString a b",
+          "package": "uri-enumerator",
+          "partial": "URI",
+          "signature": "SchemeMap m-\u003eURI-\u003eEnumerator ByteString m b",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:readURI"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "relativeTo",
+          "package": "uri-enumerator",
+          "signature": "URI -\u003e URI -\u003e Maybe URI",
+          "source": "src/Network-URI-Enumerator.html#relativeTo",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "relativeTo",
+          "normalized": "URI-\u003eURI-\u003eMaybe URI",
+          "package": "uri-enumerator",
+          "partial": "To",
+          "signature": "URI-\u003eURI-\u003eMaybe URI",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:relativeTo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "schemeNames",
+          "package": "uri-enumerator",
+          "signature": "Set Text",
+          "source": "src/Network-URI-Enumerator.html#Scheme",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "schemeNames",
+          "package": "uri-enumerator",
+          "partial": "Names",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:schemeNames"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "schemeReader",
+          "package": "uri-enumerator",
+          "signature": "forall b.  Maybe (URI -\u003e Enumerator ByteString m b)",
+          "source": "src/Network-URI-Enumerator.html#Scheme",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "schemeReader",
+          "normalized": "a b Maybe(URI-\u003eEnumerator ByteString c d)",
+          "package": "uri-enumerator",
+          "partial": "Reader",
+          "signature": "forall b. Maybe(URI-\u003eEnumerator ByteString m b)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:schemeReader"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "schemeWriter",
+          "package": "uri-enumerator",
+          "signature": "Maybe (URI -\u003e Enumerator ByteString m () -\u003e m ())",
+          "source": "src/Network-URI-Enumerator.html#Scheme",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "schemeWriter",
+          "normalized": "Maybe(URI-\u003eEnumerator ByteString a()-\u003ea())",
+          "package": "uri-enumerator",
+          "partial": "Writer",
+          "signature": "Maybe(URI-\u003eEnumerator ByteString m()-\u003em())",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:schemeWriter"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "toNetworkURI",
+          "package": "uri-enumerator",
+          "signature": "URI -\u003e URI",
+          "source": "src/Network-URI-Enumerator.html#toNetworkURI",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "toNetworkURI",
+          "normalized": "URI-\u003eURI",
+          "package": "uri-enumerator",
+          "partial": "Network URI",
+          "signature": "URI-\u003eURI",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:toNetworkURI"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "toSchemeMap",
+          "package": "uri-enumerator",
+          "signature": "[Scheme m] -\u003e SchemeMap m",
+          "source": "src/Network-URI-Enumerator.html#toSchemeMap",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "toSchemeMap",
+          "normalized": "[Scheme a]-\u003eSchemeMap a",
+          "package": "uri-enumerator",
+          "partial": "Scheme Map",
+          "signature": "[Scheme m]-\u003eSchemeMap m",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:toSchemeMap"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "uriAuthority",
+          "package": "uri-enumerator",
+          "signature": "Maybe URIAuth",
+          "source": "src/Network-URI-Enumerator.html#URI",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "uriAuthority",
+          "package": "uri-enumerator",
+          "partial": "Authority",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:uriAuthority"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "uriFragment",
+          "package": "uri-enumerator",
+          "signature": "Text",
+          "source": "src/Network-URI-Enumerator.html#URI",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "uriFragment",
+          "package": "uri-enumerator",
+          "partial": "Fragment",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:uriFragment"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "uriPath",
+          "package": "uri-enumerator",
+          "signature": "Text",
+          "source": "src/Network-URI-Enumerator.html#URI",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "uriPath",
+          "package": "uri-enumerator",
+          "partial": "Path",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:uriPath"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "uriPort",
+          "package": "uri-enumerator",
+          "signature": "Text",
+          "source": "src/Network-URI-Enumerator.html#URIAuth",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "uriPort",
+          "package": "uri-enumerator",
+          "partial": "Port",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:uriPort"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "uriQuery",
+          "package": "uri-enumerator",
+          "signature": "Text",
+          "source": "src/Network-URI-Enumerator.html#URI",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "uriQuery",
+          "package": "uri-enumerator",
+          "partial": "Query",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:uriQuery"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "uriRegName",
+          "package": "uri-enumerator",
+          "signature": "Text",
+          "source": "src/Network-URI-Enumerator.html#URIAuth",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "uriRegName",
+          "package": "uri-enumerator",
+          "partial": "Reg Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:uriRegName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "uriScheme",
+          "package": "uri-enumerator",
+          "signature": "Text",
+          "source": "src/Network-URI-Enumerator.html#URI",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "uriScheme",
+          "package": "uri-enumerator",
+          "partial": "Scheme",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:uriScheme"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "uriUserInfo",
+          "package": "uri-enumerator",
+          "signature": "Text",
+          "source": "src/Network-URI-Enumerator.html#URIAuth",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "uriUserInfo",
+          "package": "uri-enumerator",
+          "partial": "User Info",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:uriUserInfo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Network.URI.Enumerator",
+          "name": "writeURI",
+          "package": "uri-enumerator",
+          "signature": "SchemeMap m -\u003e URI -\u003e Enumerator ByteString m () -\u003e m ()",
+          "source": "src/Network-URI-Enumerator.html#writeURI",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Network URI Enumerator",
+          "module": "Network.URI.Enumerator",
+          "name": "writeURI",
+          "normalized": "SchemeMap a-\u003eURI-\u003eEnumerator ByteString a()-\u003ea()",
+          "package": "uri-enumerator",
+          "partial": "URI",
+          "signature": "SchemeMap m-\u003eURI-\u003eEnumerator ByteString m()-\u003em()",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:writeURI"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#t:SchemeMap",
-      "description": {
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "type",
-        "fct-source": "src/Network-URI-Enumerator.html#SchemeMap",
-        "fct-type": "type",
-        "title": "SchemeMap"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "SchemeMap",
-        "normalized": "",
-        "package": "uri-enumerator",
-        "partial": "Scheme Map",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#t:URI",
-      "description": {
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "data",
-        "fct-source": "src/Network-URI-Enumerator.html#URI",
-        "fct-type": "data",
-        "title": "URI"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "URI",
-        "normalized": "",
-        "package": "uri-enumerator",
-        "partial": "URI",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#t:URIAuth",
-      "description": {
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "data",
-        "fct-source": "src/Network-URI-Enumerator.html#URIAuth",
-        "fct-type": "data",
-        "title": "URIAuth"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "URIAuth",
-        "normalized": "",
-        "package": "uri-enumerator",
-        "partial": "URIAuth",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#t:URIException",
-      "description": {
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "data",
-        "fct-source": "src/Network-URI-Enumerator.html#URIException",
-        "fct-type": "data",
-        "title": "URIException"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "URIException",
-        "normalized": "",
-        "package": "uri-enumerator",
-        "partial": "URIException",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:InvalidRelativeReference",
-      "description": {
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "InvalidRelativeReference Text",
-        "fct-source": "src/Network-URI-Enumerator.html#URIException",
-        "fct-type": "function",
-        "title": "InvalidRelativeReference"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "InvalidRelativeReference",
-        "normalized": "",
-        "package": "uri-enumerator",
-        "partial": "Invalid Relative Reference",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:InvalidURI",
-      "description": {
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "InvalidURI Text",
-        "fct-source": "src/Network-URI-Enumerator.html#URIException",
-        "fct-type": "function",
-        "title": "InvalidURI"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "InvalidURI",
-        "normalized": "",
-        "package": "uri-enumerator",
-        "partial": "Invalid URI",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:Scheme",
-      "description": {
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "Scheme",
-        "fct-source": "src/Network-URI-Enumerator.html#Scheme",
-        "fct-type": "function",
-        "title": "Scheme"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "Scheme",
-        "normalized": "",
-        "package": "uri-enumerator",
-        "partial": "Scheme",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:URI",
-      "description": {
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "URI",
-        "fct-source": "src/Network-URI-Enumerator.html#URI",
-        "fct-type": "function",
-        "title": "URI"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "URI",
-        "normalized": "",
-        "package": "uri-enumerator",
-        "partial": "URI",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:URIAuth",
-      "description": {
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "URIAuth",
-        "fct-source": "src/Network-URI-Enumerator.html#URIAuth",
-        "fct-type": "function",
-        "title": "URIAuth"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "URIAuth",
-        "normalized": "",
-        "package": "uri-enumerator",
-        "partial": "URIAuth",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:UnknownReadScheme",
-      "description": {
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "UnknownReadScheme URI",
-        "fct-source": "src/Network-URI-Enumerator.html#URIException",
-        "fct-type": "function",
-        "title": "UnknownReadScheme"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "UnknownReadScheme",
-        "normalized": "",
-        "package": "uri-enumerator",
-        "partial": "Unknown Read Scheme",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:UnknownWriteScheme",
-      "description": {
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "UnknownWriteScheme URI",
-        "fct-source": "src/Network-URI-Enumerator.html#URIException",
-        "fct-type": "function",
-        "title": "UnknownWriteScheme"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "UnknownWriteScheme",
-        "normalized": "",
-        "package": "uri-enumerator",
-        "partial": "Unknown Write Scheme",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:copyURI",
-      "description": {
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "SchemeMap m -\u003e URI -\u003e URI -\u003e m ()",
-        "fct-source": "src/Network-URI-Enumerator.html#copyURI",
-        "fct-type": "function",
-        "title": "copyURI"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "copyURI",
-        "normalized": "SchemeMap a-\u003eURI-\u003eURI-\u003ea()",
-        "package": "uri-enumerator",
-        "partial": "URI",
-        "signature": "SchemeMap m-\u003eURI-\u003eURI-\u003em()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:fromNetworkURI",
-      "description": {
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "URI -\u003e URI",
-        "fct-source": "src/Network-URI-Enumerator.html#fromNetworkURI",
-        "fct-type": "function",
-        "title": "fromNetworkURI"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "fromNetworkURI",
-        "normalized": "URI-\u003eURI",
-        "package": "uri-enumerator",
-        "partial": "Network URI",
-        "signature": "URI-\u003eURI"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:hasExtension",
-      "description": {
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "URI -\u003e Text -\u003e Bool",
-        "fct-source": "src/Network-URI-Enumerator.html#hasExtension",
-        "fct-type": "function",
-        "title": "hasExtension"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "hasExtension",
-        "normalized": "URI-\u003eText-\u003eBool",
-        "package": "uri-enumerator",
-        "partial": "Extension",
-        "signature": "URI-\u003eText-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:nullURI",
-      "description": {
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "URI",
-        "fct-source": "src/Network-URI-Enumerator.html#nullURI",
-        "fct-type": "function",
-        "title": "nullURI"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "nullURI",
-        "normalized": "",
-        "package": "uri-enumerator",
-        "partial": "URI",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:parseRelativeReference",
-      "description": {
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "Text -\u003e m URI",
-        "fct-source": "src/Network-URI-Enumerator.html#parseRelativeReference",
-        "fct-type": "function",
-        "title": "parseRelativeReference"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "parseRelativeReference",
-        "normalized": "Text-\u003ea URI",
-        "package": "uri-enumerator",
-        "partial": "Relative Reference",
-        "signature": "Text-\u003em URI"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:parseURI",
-      "description": {
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "Text -\u003e m URI",
-        "fct-source": "src/Network-URI-Enumerator.html#parseURI",
-        "fct-type": "function",
-        "title": "parseURI"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "parseURI",
-        "normalized": "Text-\u003ea URI",
-        "package": "uri-enumerator",
-        "partial": "URI",
-        "signature": "Text-\u003em URI"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:parseURIReference",
-      "description": {
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "Text -\u003e m URI",
-        "fct-source": "src/Network-URI-Enumerator.html#parseURIReference",
-        "fct-type": "function",
-        "title": "parseURIReference"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "parseURIReference",
-        "normalized": "Text-\u003ea URI",
-        "package": "uri-enumerator",
-        "partial": "URIReference",
-        "signature": "Text-\u003em URI"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:readURI",
-      "description": {
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "SchemeMap m -\u003e URI -\u003e Enumerator ByteString m b",
-        "fct-source": "src/Network-URI-Enumerator.html#readURI",
-        "fct-type": "function",
-        "title": "readURI"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "readURI",
-        "normalized": "SchemeMap a-\u003eURI-\u003eEnumerator ByteString a b",
-        "package": "uri-enumerator",
-        "partial": "URI",
-        "signature": "SchemeMap m-\u003eURI-\u003eEnumerator ByteString m b"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:relativeTo",
-      "description": {
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "URI -\u003e URI -\u003e Maybe URI",
-        "fct-source": "src/Network-URI-Enumerator.html#relativeTo",
-        "fct-type": "function",
-        "title": "relativeTo"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "relativeTo",
-        "normalized": "URI-\u003eURI-\u003eMaybe URI",
-        "package": "uri-enumerator",
-        "partial": "To",
-        "signature": "URI-\u003eURI-\u003eMaybe URI"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:schemeNames",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "Set Text",
-        "fct-source": "src/Network-URI-Enumerator.html#Scheme",
-        "fct-type": "function",
-        "title": "schemeNames"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "schemeNames",
-        "normalized": "",
-        "package": "uri-enumerator",
-        "partial": "Names",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:schemeReader",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "forall b.  Maybe (URI -\u003e Enumerator ByteString m b)",
-        "fct-source": "src/Network-URI-Enumerator.html#Scheme",
-        "fct-type": "function",
-        "title": "schemeReader"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "schemeReader",
-        "normalized": "a b Maybe(URI-\u003eEnumerator ByteString c d)",
-        "package": "uri-enumerator",
-        "partial": "Reader",
-        "signature": "forall b. Maybe(URI-\u003eEnumerator ByteString m b)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:schemeWriter",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "Maybe (URI -\u003e Enumerator ByteString m () -\u003e m ())",
-        "fct-source": "src/Network-URI-Enumerator.html#Scheme",
-        "fct-type": "function",
-        "title": "schemeWriter"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "schemeWriter",
-        "normalized": "Maybe(URI-\u003eEnumerator ByteString a()-\u003ea())",
-        "package": "uri-enumerator",
-        "partial": "Writer",
-        "signature": "Maybe(URI-\u003eEnumerator ByteString m()-\u003em())"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:toNetworkURI",
-      "description": {
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "URI -\u003e URI",
-        "fct-source": "src/Network-URI-Enumerator.html#toNetworkURI",
-        "fct-type": "function",
-        "title": "toNetworkURI"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "toNetworkURI",
-        "normalized": "URI-\u003eURI",
-        "package": "uri-enumerator",
-        "partial": "Network URI",
-        "signature": "URI-\u003eURI"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:toSchemeMap",
-      "description": {
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "[Scheme m] -\u003e SchemeMap m",
-        "fct-source": "src/Network-URI-Enumerator.html#toSchemeMap",
-        "fct-type": "function",
-        "title": "toSchemeMap"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "toSchemeMap",
-        "normalized": "[Scheme a]-\u003eSchemeMap a",
-        "package": "uri-enumerator",
-        "partial": "Scheme Map",
-        "signature": "[Scheme m]-\u003eSchemeMap m"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:uriAuthority",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "Maybe URIAuth",
-        "fct-source": "src/Network-URI-Enumerator.html#URI",
-        "fct-type": "function",
-        "title": "uriAuthority"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "uriAuthority",
-        "normalized": "",
-        "package": "uri-enumerator",
-        "partial": "Authority",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:uriFragment",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "Text",
-        "fct-source": "src/Network-URI-Enumerator.html#URI",
-        "fct-type": "function",
-        "title": "uriFragment"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "uriFragment",
-        "normalized": "",
-        "package": "uri-enumerator",
-        "partial": "Fragment",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:uriPath",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "Text",
-        "fct-source": "src/Network-URI-Enumerator.html#URI",
-        "fct-type": "function",
-        "title": "uriPath"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "uriPath",
-        "normalized": "",
-        "package": "uri-enumerator",
-        "partial": "Path",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:uriPort",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "Text",
-        "fct-source": "src/Network-URI-Enumerator.html#URIAuth",
-        "fct-type": "function",
-        "title": "uriPort"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "uriPort",
-        "normalized": "",
-        "package": "uri-enumerator",
-        "partial": "Port",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:uriQuery",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "Text",
-        "fct-source": "src/Network-URI-Enumerator.html#URI",
-        "fct-type": "function",
-        "title": "uriQuery"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "uriQuery",
-        "normalized": "",
-        "package": "uri-enumerator",
-        "partial": "Query",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:uriRegName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "Text",
-        "fct-source": "src/Network-URI-Enumerator.html#URIAuth",
-        "fct-type": "function",
-        "title": "uriRegName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "uriRegName",
-        "normalized": "",
-        "package": "uri-enumerator",
-        "partial": "Reg Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:uriScheme",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "Text",
-        "fct-source": "src/Network-URI-Enumerator.html#URI",
-        "fct-type": "function",
-        "title": "uriScheme"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "uriScheme",
-        "normalized": "",
-        "package": "uri-enumerator",
-        "partial": "Scheme",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:uriUserInfo",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "Text",
-        "fct-source": "src/Network-URI-Enumerator.html#URIAuth",
-        "fct-type": "function",
-        "title": "uriUserInfo"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "uriUserInfo",
-        "normalized": "",
-        "package": "uri-enumerator",
-        "partial": "User Info",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/uri-enumerator/docs/Network-URI-Enumerator.html#v:writeURI",
-      "description": {
-        "fct-module": "Network.URI.Enumerator",
-        "fct-package": "uri-enumerator",
-        "fct-signature": "SchemeMap m -\u003e URI -\u003e Enumerator ByteString m () -\u003e m ()",
-        "fct-source": "src/Network-URI-Enumerator.html#writeURI",
-        "fct-type": "function",
-        "title": "writeURI"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Network URI Enumerator",
-        "module": "Network.URI.Enumerator",
-        "name": "writeURI",
-        "normalized": "SchemeMap a-\u003eURI-\u003eEnumerator ByteString a()-\u003ea()",
-        "package": "uri-enumerator",
-        "partial": "URI",
-        "signature": "SchemeMap m-\u003eURI-\u003eEnumerator ByteString m()-\u003em()"
-      }
-    }
-  }
+  ]
 ]

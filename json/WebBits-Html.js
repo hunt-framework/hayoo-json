@@ -1,1257 +1,1124 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Instances.html#",
-      "description": {
-        "fct-module": "BrownPLT.Html.Instances",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "module",
-        "fct-source": "src/BrownPLT-Html-Instances.html",
-        "fct-type": "module",
-        "title": "Instances"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "WebBits-Html"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html Instances",
-        "module": "BrownPLT.Html.Instances",
-        "name": "Instances",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Instances",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-PermissiveParser.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eA structure-recovering parser for malformed documents.\n\u003c/p\u003e\u003cp\u003eCopyright 2007-2008 Arjun Guha.\n Based on HtmlPrag 0.16 Copyright (C) 2003 - 2005 Neil W. Van Dyke.  \n\u003c/p\u003e\u003cp\u003eThis program is Free Software; you can redistribute it and/or modify it under\n the terms of the GNU Lesser General Public License as published by the Free\n Software Foundation; either version 2.1 of the License, or (at your option)\n any later version.  This program is distributed in the hope that it will be\n useful, but without any warranty; without even the implied warranty of\n merchantability or fitness for a particular purpose.  See \n \u003ca\u003ehttp://www.gnu.org/copyleft/lesser.html\u003c/a\u003e for details.  For other license\n options and consulting, contact the author.\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "BrownPLT.Html.PermissiveParser",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "module",
-        "fct-source": "src/BrownPLT-Html-PermissiveParser.html",
-        "fct-type": "module",
-        "title": "PermissiveParser"
-      },
-      "index": {
-        "description": "structure-recovering parser for malformed documents Copyright Arjun Guha Based on HtmlPrag Copyright Neil Van Dyke This program is Free Software you can redistribute it and or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation either version of the License or at your option any later version This program is distributed in the hope that it will be useful but without any warranty without even the implied warranty of merchantability or fitness for particular purpose See http www.gnu.org copyleft lesser.html for details For other license options and consulting contact the author",
-        "hierarchy": "BrownPLT Html PermissiveParser",
-        "module": "BrownPLT.Html.PermissiveParser",
-        "name": "PermissiveParser",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Permissive Parser",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.Instances",
+          "name": "Instances",
+          "package": "WebBits-Html",
+          "source": "src/BrownPLT-Html-Instances.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html Instances",
+          "module": "BrownPLT.Html.Instances",
+          "name": "Instances",
+          "package": "WebBits-Html",
+          "partial": "Instances",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Instances.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eA structure-recovering parser for malformed documents.\n\u003c/p\u003e\u003cp\u003eCopyright 2007-2008 Arjun Guha.\n Based on HtmlPrag 0.16 Copyright (C) 2003 - 2005 Neil W. Van Dyke.  \n\u003c/p\u003e\u003cp\u003eThis program is Free Software; you can redistribute it and/or modify it under\n the terms of the GNU Lesser General Public License as published by the Free\n Software Foundation; either version 2.1 of the License, or (at your option)\n any later version.  This program is distributed in the hope that it will be\n useful, but without any warranty; without even the implied warranty of\n merchantability or fitness for a particular purpose.  See \n \u003ca\u003ehttp://www.gnu.org/copyleft/lesser.html\u003c/a\u003e for details.  For other license\n options and consulting, contact the author.\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "BrownPLT.Html.PermissiveParser",
+          "name": "PermissiveParser",
+          "package": "WebBits-Html",
+          "source": "src/BrownPLT-Html-PermissiveParser.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "structure-recovering parser for malformed documents Copyright Arjun Guha Based on HtmlPrag Copyright Neil Van Dyke This program is Free Software you can redistribute it and or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation either version of the License or at your option any later version This program is distributed in the hope that it will be useful but without any warranty without even the implied warranty of merchantability or fitness for particular purpose See http www.gnu.org copyleft lesser.html for details For other license options and consulting contact the author",
+          "hierarchy": "BrownPLT Html PermissiveParser",
+          "module": "BrownPLT.Html.PermissiveParser",
+          "name": "PermissiveParser",
+          "package": "WebBits-Html",
+          "partial": "Permissive Parser",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-PermissiveParser.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.PermissiveParser",
+          "name": "Token",
+          "package": "WebBits-Html",
+          "source": "src/BrownPLT-Html-PermissiveParser.html#Token",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html PermissiveParser",
+          "module": "BrownPLT.Html.PermissiveParser",
+          "name": "Token",
+          "package": "WebBits-Html",
+          "partial": "Token",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-PermissiveParser.html#t:Token"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.PermissiveParser",
+          "name": "Warning",
+          "package": "WebBits-Html",
+          "source": "src/BrownPLT-Html-PermissiveParser.html#Warning",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html PermissiveParser",
+          "module": "BrownPLT.Html.PermissiveParser",
+          "name": "Warning",
+          "package": "WebBits-Html",
+          "partial": "Warning",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-PermissiveParser.html#t:Warning"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.PermissiveParser",
+          "name": "StringWarning",
+          "package": "WebBits-Html",
+          "signature": "StringWarning SourcePos String",
+          "source": "src/BrownPLT-Html-PermissiveParser.html#Warning",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html PermissiveParser",
+          "module": "BrownPLT.Html.PermissiveParser",
+          "name": "StringWarning",
+          "package": "WebBits-Html",
+          "partial": "String Warning",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-PermissiveParser.html#v:StringWarning"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.PermissiveParser",
+          "name": "html",
+          "package": "WebBits-Html",
+          "signature": "CharParser [Warning] (Html SourcePos s)",
+          "source": "src/BrownPLT-Html-PermissiveParser.html#html",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html PermissiveParser",
+          "module": "BrownPLT.Html.PermissiveParser",
+          "name": "html",
+          "normalized": "CharParser[Warning](Html SourcePos a)",
+          "package": "WebBits-Html",
+          "signature": "CharParser[Warning](Html SourcePos s)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-PermissiveParser.html#v:html"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"BrownPLT.Html.PermissiveParser\",\"BrownPLT.Html\"]",
+          "name": "parseHtmlFromFile",
+          "package": "WebBits-Html",
+          "signature": "String -\u003e IO (Either ParseError (Html SourcePos s, [Warning]))",
+          "source": "src/BrownPLT-Html-PermissiveParser.html#parseHtmlFromFile",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-PermissiveParser.html#v:parseHtmlFromFile\",\"http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html.html#v:parseHtmlFromFile\"]"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html PermissiveParser",
+          "module": "BrownPLT.Html.PermissiveParser",
+          "name": "parseHtmlFromFile",
+          "normalized": "String-\u003eIO(Either ParseError(Html SourcePos a,[Warning]))",
+          "package": "WebBits-Html",
+          "partial": "Html From File",
+          "signature": "String-\u003eIO(Either ParseError(Html SourcePos s,[Warning]))",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-PermissiveParser.html#v:parseHtmlFromFile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"BrownPLT.Html.PermissiveParser\",\"BrownPLT.Html\"]",
+          "name": "parseHtmlFromString",
+          "package": "WebBits-Html",
+          "signature": "String -\u003e String -\u003e Either ParseError (Html SourcePos s, [Warning])",
+          "source": "src/BrownPLT-Html-PermissiveParser.html#parseHtmlFromString",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-PermissiveParser.html#v:parseHtmlFromString\",\"http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html.html#v:parseHtmlFromString\"]"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html PermissiveParser",
+          "module": "BrownPLT.Html.PermissiveParser",
+          "name": "parseHtmlFromString",
+          "normalized": "String-\u003eString-\u003eEither ParseError(Html SourcePos a,[Warning])",
+          "package": "WebBits-Html",
+          "partial": "Html From String",
+          "signature": "String-\u003eString-\u003eEither ParseError(Html SourcePos s,[Warning])",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-PermissiveParser.html#v:parseHtmlFromString"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.PermissiveParser",
+          "name": "tokens",
+          "package": "WebBits-Html",
+          "signature": "CharParser [Warning] [Token s]",
+          "source": "src/BrownPLT-Html-PermissiveParser.html#tokens",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html PermissiveParser",
+          "module": "BrownPLT.Html.PermissiveParser",
+          "name": "tokens",
+          "normalized": "CharParser[Warning][Token a]",
+          "package": "WebBits-Html",
+          "signature": "CharParser[Warning][Token s]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-PermissiveParser.html#v:tokens"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003ePretty-printer for HTML.  This modules exports no names.  It only defines\n instances of \u003ccode\u003ePrettyPrintable\u003c/code\u003e for HTML. \n\u003c/p\u003e\u003c/div\u003e",
+          "module": "BrownPLT.Html.PrettyPrint",
+          "name": "PrettyPrint",
+          "package": "WebBits-Html",
+          "source": "src/BrownPLT-Html-PrettyPrint.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "Pretty-printer for HTML This modules exports no names It only defines instances of PrettyPrintable for HTML",
+          "hierarchy": "BrownPLT Html PrettyPrint",
+          "module": "BrownPLT.Html.PrettyPrint",
+          "name": "PrettyPrint",
+          "package": "WebBits-Html",
+          "partial": "Pretty Print",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-PrettyPrint.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.PrettyPrint",
+          "name": "html",
+          "package": "WebBits-Html",
+          "signature": "Html a s -\u003e Doc",
+          "source": "src/BrownPLT-Html-PrettyPrint.html#html",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html PrettyPrint",
+          "module": "BrownPLT.Html.PrettyPrint",
+          "name": "html",
+          "normalized": "Html a b-\u003eDoc",
+          "package": "WebBits-Html",
+          "signature": "Html a s-\u003eDoc",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-PrettyPrint.html#v:html"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "[\"BrownPLT.Html.PrettyPrint\",\"BrownPLT.Html\"]",
+          "name": "renderHtml",
+          "package": "WebBits-Html",
+          "signature": "Html a s -\u003e String",
+          "source": "src/BrownPLT-Html-PrettyPrint.html#renderHtml",
+          "type": "function",
+          "uris": "[\"http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-PrettyPrint.html#v:renderHtml\",\"http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html.html#v:renderHtml\"]"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html PrettyPrint",
+          "module": "BrownPLT.Html.PrettyPrint",
+          "name": "renderHtml",
+          "normalized": "Html a b-\u003eString",
+          "package": "WebBits-Html",
+          "partial": "Html",
+          "signature": "Html a s-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-PrettyPrint.html#v:renderHtml"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.RawScript",
+          "name": "RawScript",
+          "package": "WebBits-Html",
+          "source": "src/BrownPLT-Html-RawScript.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html RawScript",
+          "module": "BrownPLT.Html.RawScript",
+          "name": "RawScript",
+          "package": "WebBits-Html",
+          "partial": "Raw Script",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-RawScript.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.RawScript",
+          "name": "RawHtml",
+          "package": "WebBits-Html",
+          "source": "src/BrownPLT-Html-RawScript.html#RawHtml",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html RawScript",
+          "module": "BrownPLT.Html.RawScript",
+          "name": "RawHtml",
+          "package": "WebBits-Html",
+          "partial": "Raw Html",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-RawScript.html#t:RawHtml"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.RawScript",
+          "name": "RawScript",
+          "package": "WebBits-Html",
+          "source": "src/BrownPLT-Html-RawScript.html#RawScript",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html RawScript",
+          "module": "BrownPLT.Html.RawScript",
+          "name": "RawScript",
+          "package": "WebBits-Html",
+          "partial": "Raw Script",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-RawScript.html#t:RawScript"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.RawScript",
+          "name": "RawScript",
+          "package": "WebBits-Html",
+          "signature": "RawScript String",
+          "source": "src/BrownPLT-Html-RawScript.html#RawScript",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html RawScript",
+          "module": "BrownPLT.Html.RawScript",
+          "name": "RawScript",
+          "package": "WebBits-Html",
+          "partial": "Raw Script",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-RawScript.html#v:RawScript"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.RawScript",
+          "name": "parseFromFile",
+          "package": "WebBits-Html",
+          "signature": "Parser a -\u003e SourceName -\u003e IO (Either ParseError a)",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html RawScript",
+          "module": "BrownPLT.Html.RawScript",
+          "name": "parseFromFile",
+          "normalized": "Parser a-\u003eSourceName-\u003eIO(Either ParseError a)",
+          "package": "WebBits-Html",
+          "partial": "From File",
+          "signature": "Parser a-\u003eSourceName-\u003eIO(Either ParseError a)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-RawScript.html#v:parseFromFile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.RawScript",
+          "name": "parseFromString",
+          "package": "WebBits-Html",
+          "signature": "String -\u003e RawHtml",
+          "source": "src/BrownPLT-Html-RawScript.html#parseFromString",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html RawScript",
+          "module": "BrownPLT.Html.RawScript",
+          "name": "parseFromString",
+          "normalized": "String-\u003eRawHtml",
+          "package": "WebBits-Html",
+          "partial": "From String",
+          "signature": "String-\u003eRawHtml",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-RawScript.html#v:parseFromString"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eDatatypes for HTML parameterized over an annotation type and a script type.\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "BrownPLT.Html.Syntax",
+          "name": "Syntax",
+          "package": "WebBits-Html",
+          "source": "src/BrownPLT-Html-Syntax.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "Datatypes for HTML parameterized over an annotation type and script type",
+          "hierarchy": "BrownPLT Html Syntax",
+          "module": "BrownPLT.Html.Syntax",
+          "name": "Syntax",
+          "package": "WebBits-Html",
+          "partial": "Syntax",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.Syntax",
+          "name": "Attribute",
+          "package": "WebBits-Html",
+          "source": "src/BrownPLT-Html-Syntax.html#Attribute",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html Syntax",
+          "module": "BrownPLT.Html.Syntax",
+          "name": "Attribute",
+          "package": "WebBits-Html",
+          "partial": "Attribute",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#t:Attribute"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.Syntax",
+          "name": "AttributeValue",
+          "package": "WebBits-Html",
+          "source": "src/BrownPLT-Html-Syntax.html#AttributeValue",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html Syntax",
+          "module": "BrownPLT.Html.Syntax",
+          "name": "AttributeValue",
+          "package": "WebBits-Html",
+          "partial": "Attribute Value",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#t:AttributeValue"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.Syntax",
+          "name": "Html",
+          "package": "WebBits-Html",
+          "source": "src/BrownPLT-Html-Syntax.html#Html",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html Syntax",
+          "module": "BrownPLT.Html.Syntax",
+          "name": "Html",
+          "package": "WebBits-Html",
+          "partial": "Html",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#t:Html"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.Syntax",
+          "name": "HtmlId",
+          "package": "WebBits-Html",
+          "source": "src/BrownPLT-Html-Syntax.html#HtmlId",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html Syntax",
+          "module": "BrownPLT.Html.Syntax",
+          "name": "HtmlId",
+          "package": "WebBits-Html",
+          "partial": "Html Id",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#t:HtmlId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eA type \u003ccode\u003et\u003c/code\u003e of the \u003ccode\u003e\u003ca\u003eScript\u003c/a\u003e\u003c/code\u003e class can be parsed using \u003ccode\u003eParsec\u003c/code\u003e.  \u003ccode\u003et\u003c/code\u003e is of\n kind '* -\u003e *', as the parsed AST should be annotated with souce locations\n (see \u003ccode\u003e\u003ca\u003eSourcePos\u003c/a\u003e\u003c/code\u003e).\n\u003c/p\u003e\u003cp\u003eThe big deal here is that we can embed a parser for some scripting language,\n (e.g. Javascript) into this HTML parser with ease, while preserving source\n locations.  The Html datatype is parameterized over a script parser (an\n instance of Script).\n\u003c/p\u003e",
+          "module": "BrownPLT.Html.Syntax",
+          "name": "Script",
+          "package": "WebBits-Html",
+          "source": "src/BrownPLT-Html-Syntax.html#Script",
+          "type": "class"
+        },
+        "index": {
+          "description": "type of the Script class can be parsed using Parsec is of kind as the parsed AST should be annotated with souce locations see SourcePos The big deal here is that we can embed parser for some scripting language e.g Javascript into this HTML parser with ease while preserving source locations The Html datatype is parameterized over script parser an instance of Script",
+          "hierarchy": "BrownPLT Html Syntax",
+          "module": "BrownPLT.Html.Syntax",
+          "name": "Script",
+          "package": "WebBits-Html",
+          "partial": "Script",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#t:Script"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.Syntax",
+          "name": "Attribute",
+          "package": "WebBits-Html",
+          "signature": "Attribute HtmlId AttributeValue a",
+          "source": "src/BrownPLT-Html-Syntax.html#Attribute",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html Syntax",
+          "module": "BrownPLT.Html.Syntax",
+          "name": "Attribute",
+          "package": "WebBits-Html",
+          "partial": "Attribute",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:Attribute"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.Syntax",
+          "name": "AttributeExpr",
+          "package": "WebBits-Html",
+          "signature": "AttributeExpr a HtmlId s String",
+          "source": "src/BrownPLT-Html-Syntax.html#Attribute",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html Syntax",
+          "module": "BrownPLT.Html.Syntax",
+          "name": "AttributeExpr",
+          "package": "WebBits-Html",
+          "partial": "Attribute Expr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:AttributeExpr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.Syntax",
+          "name": "Comment",
+          "package": "WebBits-Html",
+          "signature": "Comment String a",
+          "source": "src/BrownPLT-Html-Syntax.html#Html",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html Syntax",
+          "module": "BrownPLT.Html.Syntax",
+          "name": "Comment",
+          "package": "WebBits-Html",
+          "partial": "Comment",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:Comment"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.Syntax",
+          "name": "Element",
+          "package": "WebBits-Html",
+          "signature": "Element HtmlId [Attribute a sc] [Html a sc] a",
+          "source": "src/BrownPLT-Html-Syntax.html#Html",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html Syntax",
+          "module": "BrownPLT.Html.Syntax",
+          "name": "Element",
+          "normalized": "Element HtmlId[Attribute a b][Html a b]a",
+          "package": "WebBits-Html",
+          "partial": "Element",
+          "signature": "Element HtmlId[Attribute a sc][Html a sc]a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:Element"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003emust be a non-empty list\n\u003c/p\u003e",
+          "module": "BrownPLT.Html.Syntax",
+          "name": "HtmlSeq",
+          "package": "WebBits-Html",
+          "signature": "HtmlSeq [Html a sc]",
+          "source": "src/BrownPLT-Html-Syntax.html#Html",
+          "type": "function"
+        },
+        "index": {
+          "description": "must be non-empty list",
+          "hierarchy": "BrownPLT Html Syntax",
+          "module": "BrownPLT.Html.Syntax",
+          "name": "HtmlSeq",
+          "normalized": "HtmlSeq[Html a b]",
+          "package": "WebBits-Html",
+          "partial": "Html Seq",
+          "signature": "HtmlSeq[Html a sc]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:HtmlSeq"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.Syntax",
+          "name": "InlineScript",
+          "package": "WebBits-Html",
+          "signature": "InlineScript sc a String",
+          "source": "src/BrownPLT-Html-Syntax.html#Html",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html Syntax",
+          "module": "BrownPLT.Html.Syntax",
+          "name": "InlineScript",
+          "package": "WebBits-Html",
+          "partial": "Inline Script",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:InlineScript"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.Syntax",
+          "name": "ProcessingInstruction",
+          "package": "WebBits-Html",
+          "signature": "ProcessingInstruction String a",
+          "source": "src/BrownPLT-Html-Syntax.html#Html",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html Syntax",
+          "module": "BrownPLT.Html.Syntax",
+          "name": "ProcessingInstruction",
+          "package": "WebBits-Html",
+          "partial": "Processing Instruction",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:ProcessingInstruction"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.Syntax",
+          "name": "Script",
+          "package": "WebBits-Html",
+          "signature": "Script sc a",
+          "source": "src/BrownPLT-Html-Syntax.html#Html",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html Syntax",
+          "module": "BrownPLT.Html.Syntax",
+          "name": "Script",
+          "package": "WebBits-Html",
+          "partial": "Script",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:Script"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.Syntax",
+          "name": "Text",
+          "package": "WebBits-Html",
+          "signature": "Text String a",
+          "source": "src/BrownPLT-Html-Syntax.html#Html",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html Syntax",
+          "module": "BrownPLT.Html.Syntax",
+          "name": "Text",
+          "package": "WebBits-Html",
+          "partial": "Text",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:Text"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.Syntax",
+          "name": "attributeSet",
+          "package": "WebBits-Html",
+          "signature": "HtmlId -\u003e String -\u003e [Attribute a s] -\u003e [Attribute a s]",
+          "source": "src/BrownPLT-Html-Syntax.html#attributeSet",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html Syntax",
+          "module": "BrownPLT.Html.Syntax",
+          "name": "attributeSet",
+          "normalized": "HtmlId-\u003eString-\u003e[Attribute a b]-\u003e[Attribute a b]",
+          "package": "WebBits-Html",
+          "partial": "Set",
+          "signature": "HtmlId-\u003eString-\u003e[Attribute a s]-\u003e[Attribute a s]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:attributeSet"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.Syntax",
+          "name": "attributeUpdate",
+          "package": "WebBits-Html",
+          "signature": "HtmlId -\u003e (String -\u003e String) -\u003e [Attribute a s] -\u003e [Attribute a s]",
+          "source": "src/BrownPLT-Html-Syntax.html#attributeUpdate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html Syntax",
+          "module": "BrownPLT.Html.Syntax",
+          "name": "attributeUpdate",
+          "normalized": "HtmlId-\u003e(String-\u003eString)-\u003e[Attribute a b]-\u003e[Attribute a b]",
+          "package": "WebBits-Html",
+          "partial": "Update",
+          "signature": "HtmlId-\u003e(String-\u003eString)-\u003e[Attribute a s]-\u003e[Attribute a s]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:attributeUpdate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eReturns the value of the attribute in the list, or \u003ccode\u003e\u003ca\u003eNothing\u003c/a\u003e\u003c/code\u003e if it doesn't\n exist of the value is an inline-expression.\n\u003c/p\u003e",
+          "module": "BrownPLT.Html.Syntax",
+          "name": "attributeValue",
+          "package": "WebBits-Html",
+          "signature": "HtmlId -\u003e [Attribute a s] -\u003e Maybe String",
+          "source": "src/BrownPLT-Html-Syntax.html#attributeValue",
+          "type": "function"
+        },
+        "index": {
+          "description": "Returns the value of the attribute in the list or Nothing if it doesn exist of the value is an inline-expression",
+          "hierarchy": "BrownPLT Html Syntax",
+          "module": "BrownPLT.Html.Syntax",
+          "name": "attributeValue",
+          "normalized": "HtmlId-\u003e[Attribute a b]-\u003eMaybe String",
+          "package": "WebBits-Html",
+          "partial": "Value",
+          "signature": "HtmlId-\u003e[Attribute a s]-\u003eMaybe String",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:attributeValue"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.Syntax",
+          "name": "isAttributeExpr",
+          "package": "WebBits-Html",
+          "signature": "Attribute t t1 -\u003e Bool",
+          "source": "src/BrownPLT-Html-Syntax.html#isAttributeExpr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html Syntax",
+          "module": "BrownPLT.Html.Syntax",
+          "name": "isAttributeExpr",
+          "normalized": "Attribute a a-\u003eBool",
+          "package": "WebBits-Html",
+          "partial": "Attribute Expr",
+          "signature": "Attribute t t-\u003eBool",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:isAttributeExpr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.Syntax",
+          "name": "parseAttributeScript",
+          "package": "WebBits-Html",
+          "signature": "Maybe (CharParser a t)",
+          "source": "src/BrownPLT-Html-Syntax.html#parseAttributeScript",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html Syntax",
+          "module": "BrownPLT.Html.Syntax",
+          "name": "parseAttributeScript",
+          "package": "WebBits-Html",
+          "partial": "Attribute Script",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:parseAttributeScript"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.Syntax",
+          "name": "parseInlineScript",
+          "package": "WebBits-Html",
+          "signature": "Maybe (CharParser a t)",
+          "source": "src/BrownPLT-Html-Syntax.html#parseInlineScript",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html Syntax",
+          "module": "BrownPLT.Html.Syntax",
+          "name": "parseInlineScript",
+          "package": "WebBits-Html",
+          "partial": "Inline Script",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:parseInlineScript"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.Syntax",
+          "name": "parseScriptBlock",
+          "package": "WebBits-Html",
+          "signature": "[Attribute SourcePos t] -\u003e CharParser a t",
+          "source": "src/BrownPLT-Html-Syntax.html#parseScriptBlock",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html Syntax",
+          "module": "BrownPLT.Html.Syntax",
+          "name": "parseScriptBlock",
+          "normalized": "[Attribute SourcePos a]-\u003eCharParser b a",
+          "package": "WebBits-Html",
+          "partial": "Script Block",
+          "signature": "[Attribute SourcePos t]-\u003eCharParser a t",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:parseScriptBlock"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.Html.Syntax",
+          "name": "prettyPrintScript",
+          "package": "WebBits-Html",
+          "signature": "t -\u003e Doc",
+          "source": "src/BrownPLT-Html-Syntax.html#prettyPrintScript",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "BrownPLT Html Syntax",
+          "module": "BrownPLT.Html.Syntax",
+          "name": "prettyPrintScript",
+          "normalized": "a-\u003eDoc",
+          "package": "WebBits-Html",
+          "partial": "Print Script",
+          "signature": "t-\u003eDoc",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:prettyPrintScript"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eRexports various modules of the HTML library.  It's best to use this in lieu\n of selectively importing the following libraries.\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "BrownPLT.Html",
+          "name": "Html",
+          "package": "WebBits-Html",
+          "source": "src/BrownPLT-Html.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "Rexports various modules of the HTML library It best to use this in lieu of selectively importing the following libraries",
+          "hierarchy": "BrownPLT Html",
+          "module": "BrownPLT.Html",
+          "name": "Html",
+          "package": "WebBits-Html",
+          "partial": "Html",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eCrawls an HTML page for JavaScript\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "BrownPLT.JavaScript.Crawl",
+          "name": "Crawl",
+          "package": "WebBits-Html",
+          "source": "src/BrownPLT-JavaScript-Crawl.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "Crawls an HTML page for JavaScript",
+          "hierarchy": "BrownPLT JavaScript Crawl",
+          "module": "BrownPLT.JavaScript.Crawl",
+          "name": "Crawl",
+          "package": "WebBits-Html",
+          "partial": "Crawl",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-JavaScript-Crawl.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.JavaScript.Crawl",
+          "name": "getPageJavaScript",
+          "package": "WebBits-Html",
+          "signature": "ParsedJsHtml -\u003e IO [ParsedStatement]",
+          "source": "src/BrownPLT-JavaScript-Crawl.html#getPageJavaScript",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "BrownPLT JavaScript Crawl",
+          "module": "BrownPLT.JavaScript.Crawl",
+          "name": "getPageJavaScript",
+          "normalized": "ParsedJsHtml-\u003eIO[ParsedStatement]",
+          "package": "WebBits-Html",
+          "partial": "Page Java Script",
+          "signature": "ParsedJsHtml-\u003eIO[ParsedStatement]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-JavaScript-Crawl.html#v:getPageJavaScript"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.JavaScript.HtmlEmbedding",
+          "name": "HtmlEmbedding",
+          "package": "WebBits-Html",
+          "source": "src/BrownPLT-JavaScript-HtmlEmbedding.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "BrownPLT JavaScript HtmlEmbedding",
+          "module": "BrownPLT.JavaScript.HtmlEmbedding",
+          "name": "HtmlEmbedding",
+          "package": "WebBits-Html",
+          "partial": "Html Embedding",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-JavaScript-HtmlEmbedding.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.JavaScript.HtmlEmbedding",
+          "name": "JsHtml",
+          "package": "WebBits-Html",
+          "source": "src/BrownPLT-JavaScript-HtmlEmbedding.html#JsHtml",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "BrownPLT JavaScript HtmlEmbedding",
+          "module": "BrownPLT.JavaScript.HtmlEmbedding",
+          "name": "JsHtml",
+          "package": "WebBits-Html",
+          "partial": "Js Html",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-JavaScript-HtmlEmbedding.html#t:JsHtml"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.JavaScript.HtmlEmbedding",
+          "name": "ParsedJavaScript",
+          "package": "WebBits-Html",
+          "source": "src/BrownPLT-JavaScript-HtmlEmbedding.html#ParsedJavaScript",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "BrownPLT JavaScript HtmlEmbedding",
+          "module": "BrownPLT.JavaScript.HtmlEmbedding",
+          "name": "ParsedJavaScript",
+          "package": "WebBits-Html",
+          "partial": "Parsed Java Script",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-JavaScript-HtmlEmbedding.html#t:ParsedJavaScript"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.JavaScript.HtmlEmbedding",
+          "name": "ParsedJsHtml",
+          "package": "WebBits-Html",
+          "source": "src/BrownPLT-JavaScript-HtmlEmbedding.html#ParsedJsHtml",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "BrownPLT JavaScript HtmlEmbedding",
+          "module": "BrownPLT.JavaScript.HtmlEmbedding",
+          "name": "ParsedJsHtml",
+          "package": "WebBits-Html",
+          "partial": "Parsed Js Html",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-JavaScript-HtmlEmbedding.html#t:ParsedJsHtml"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "BrownPLT.JavaScript.HtmlEmbedding",
+          "name": "ParsedStatement",
+          "package": "WebBits-Html",
+          "source": "src/BrownPLT-JavaScript-HtmlEmbedding.html#ParsedStatement",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "BrownPLT JavaScript HtmlEmbedding",
+          "module": "BrownPLT.JavaScript.HtmlEmbedding",
+          "name": "ParsedStatement",
+          "package": "WebBits-Html",
+          "partial": "Parsed Statement",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-JavaScript-HtmlEmbedding.html#t:ParsedStatement"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-PermissiveParser.html#t:Token",
-      "description": {
-        "fct-module": "BrownPLT.Html.PermissiveParser",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "data",
-        "fct-source": "src/BrownPLT-Html-PermissiveParser.html#Token",
-        "fct-type": "data",
-        "title": "Token"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html PermissiveParser",
-        "module": "BrownPLT.Html.PermissiveParser",
-        "name": "Token",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Token",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-PermissiveParser.html#t:Warning",
-      "description": {
-        "fct-module": "BrownPLT.Html.PermissiveParser",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "data",
-        "fct-source": "src/BrownPLT-Html-PermissiveParser.html#Warning",
-        "fct-type": "data",
-        "title": "Warning"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html PermissiveParser",
-        "module": "BrownPLT.Html.PermissiveParser",
-        "name": "Warning",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Warning",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-PermissiveParser.html#v:StringWarning",
-      "description": {
-        "fct-module": "BrownPLT.Html.PermissiveParser",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "StringWarning SourcePos String",
-        "fct-source": "src/BrownPLT-Html-PermissiveParser.html#Warning",
-        "fct-type": "function",
-        "title": "StringWarning"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html PermissiveParser",
-        "module": "BrownPLT.Html.PermissiveParser",
-        "name": "StringWarning",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "String Warning",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-PermissiveParser.html#v:html",
-      "description": {
-        "fct-module": "BrownPLT.Html.PermissiveParser",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "CharParser [Warning] (Html SourcePos s)",
-        "fct-source": "src/BrownPLT-Html-PermissiveParser.html#html",
-        "fct-type": "function",
-        "title": "html"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html PermissiveParser",
-        "module": "BrownPLT.Html.PermissiveParser",
-        "name": "html",
-        "normalized": "CharParser[Warning](Html SourcePos a)",
-        "package": "WebBits-Html",
-        "partial": "",
-        "signature": "CharParser[Warning](Html SourcePos s)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-PermissiveParser.html#v:parseHtmlFromFile",
-      "description": {
-        "fct-module": "BrownPLT.Html.PermissiveParser",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "String -\u003e IO (Either ParseError (Html SourcePos s, [Warning]))",
-        "fct-source": "src/BrownPLT-Html-PermissiveParser.html#parseHtmlFromFile",
-        "fct-type": "function",
-        "title": "parseHtmlFromFile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html PermissiveParser",
-        "module": "BrownPLT.Html.PermissiveParser",
-        "name": "parseHtmlFromFile",
-        "normalized": "String-\u003eIO(Either ParseError(Html SourcePos a,[Warning]))",
-        "package": "WebBits-Html",
-        "partial": "Html From File",
-        "signature": "String-\u003eIO(Either ParseError(Html SourcePos s,[Warning]))"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-PermissiveParser.html#v:parseHtmlFromString",
-      "description": {
-        "fct-module": "BrownPLT.Html.PermissiveParser",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "String -\u003e String -\u003e Either ParseError (Html SourcePos s, [Warning])",
-        "fct-source": "src/BrownPLT-Html-PermissiveParser.html#parseHtmlFromString",
-        "fct-type": "function",
-        "title": "parseHtmlFromString"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html PermissiveParser",
-        "module": "BrownPLT.Html.PermissiveParser",
-        "name": "parseHtmlFromString",
-        "normalized": "String-\u003eString-\u003eEither ParseError(Html SourcePos a,[Warning])",
-        "package": "WebBits-Html",
-        "partial": "Html From String",
-        "signature": "String-\u003eString-\u003eEither ParseError(Html SourcePos s,[Warning])"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-PermissiveParser.html#v:tokens",
-      "description": {
-        "fct-module": "BrownPLT.Html.PermissiveParser",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "CharParser [Warning] [Token s]",
-        "fct-source": "src/BrownPLT-Html-PermissiveParser.html#tokens",
-        "fct-type": "function",
-        "title": "tokens"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html PermissiveParser",
-        "module": "BrownPLT.Html.PermissiveParser",
-        "name": "tokens",
-        "normalized": "CharParser[Warning][Token a]",
-        "package": "WebBits-Html",
-        "partial": "",
-        "signature": "CharParser[Warning][Token s]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-PrettyPrint.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003ePretty-printer for HTML.  This modules exports no names.  It only defines\n instances of \u003ccode\u003ePrettyPrintable\u003c/code\u003e for HTML. \n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "BrownPLT.Html.PrettyPrint",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "module",
-        "fct-source": "src/BrownPLT-Html-PrettyPrint.html",
-        "fct-type": "module",
-        "title": "PrettyPrint"
-      },
-      "index": {
-        "description": "Pretty-printer for HTML This modules exports no names It only defines instances of PrettyPrintable for HTML",
-        "hierarchy": "BrownPLT Html PrettyPrint",
-        "module": "BrownPLT.Html.PrettyPrint",
-        "name": "PrettyPrint",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Pretty Print",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-PrettyPrint.html#v:html",
-      "description": {
-        "fct-module": "BrownPLT.Html.PrettyPrint",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "Html a s -\u003e Doc",
-        "fct-source": "src/BrownPLT-Html-PrettyPrint.html#html",
-        "fct-type": "function",
-        "title": "html"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html PrettyPrint",
-        "module": "BrownPLT.Html.PrettyPrint",
-        "name": "html",
-        "normalized": "Html a b-\u003eDoc",
-        "package": "WebBits-Html",
-        "partial": "",
-        "signature": "Html a s-\u003eDoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-PrettyPrint.html#v:renderHtml",
-      "description": {
-        "fct-module": "BrownPLT.Html.PrettyPrint",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "Html a s -\u003e String",
-        "fct-source": "src/BrownPLT-Html-PrettyPrint.html#renderHtml",
-        "fct-type": "function",
-        "title": "renderHtml"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html PrettyPrint",
-        "module": "BrownPLT.Html.PrettyPrint",
-        "name": "renderHtml",
-        "normalized": "Html a b-\u003eString",
-        "package": "WebBits-Html",
-        "partial": "Html",
-        "signature": "Html a s-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-RawScript.html#",
-      "description": {
-        "fct-module": "BrownPLT.Html.RawScript",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "module",
-        "fct-source": "src/BrownPLT-Html-RawScript.html",
-        "fct-type": "module",
-        "title": "RawScript"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html RawScript",
-        "module": "BrownPLT.Html.RawScript",
-        "name": "RawScript",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Raw Script",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-RawScript.html#t:RawHtml",
-      "description": {
-        "fct-module": "BrownPLT.Html.RawScript",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "type",
-        "fct-source": "src/BrownPLT-Html-RawScript.html#RawHtml",
-        "fct-type": "type",
-        "title": "RawHtml"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html RawScript",
-        "module": "BrownPLT.Html.RawScript",
-        "name": "RawHtml",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Raw Html",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-RawScript.html#t:RawScript",
-      "description": {
-        "fct-module": "BrownPLT.Html.RawScript",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "data",
-        "fct-source": "src/BrownPLT-Html-RawScript.html#RawScript",
-        "fct-type": "data",
-        "title": "RawScript"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html RawScript",
-        "module": "BrownPLT.Html.RawScript",
-        "name": "RawScript",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Raw Script",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-RawScript.html#v:RawScript",
-      "description": {
-        "fct-module": "BrownPLT.Html.RawScript",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "RawScript String",
-        "fct-source": "src/BrownPLT-Html-RawScript.html#RawScript",
-        "fct-type": "function",
-        "title": "RawScript"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html RawScript",
-        "module": "BrownPLT.Html.RawScript",
-        "name": "RawScript",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Raw Script",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-RawScript.html#v:parseFromFile",
-      "description": {
-        "fct-module": "BrownPLT.Html.RawScript",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "Parser a -\u003e SourceName -\u003e IO (Either ParseError a)",
-        "fct-type": "function",
-        "title": "parseFromFile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html RawScript",
-        "module": "BrownPLT.Html.RawScript",
-        "name": "parseFromFile",
-        "normalized": "Parser a-\u003eSourceName-\u003eIO(Either ParseError a)",
-        "package": "WebBits-Html",
-        "partial": "From File",
-        "signature": "Parser a-\u003eSourceName-\u003eIO(Either ParseError a)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-RawScript.html#v:parseFromString",
-      "description": {
-        "fct-module": "BrownPLT.Html.RawScript",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "String -\u003e RawHtml",
-        "fct-source": "src/BrownPLT-Html-RawScript.html#parseFromString",
-        "fct-type": "function",
-        "title": "parseFromString"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html RawScript",
-        "module": "BrownPLT.Html.RawScript",
-        "name": "parseFromString",
-        "normalized": "String-\u003eRawHtml",
-        "package": "WebBits-Html",
-        "partial": "From String",
-        "signature": "String-\u003eRawHtml"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eDatatypes for HTML parameterized over an annotation type and a script type.\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "BrownPLT.Html.Syntax",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "module",
-        "fct-source": "src/BrownPLT-Html-Syntax.html",
-        "fct-type": "module",
-        "title": "Syntax"
-      },
-      "index": {
-        "description": "Datatypes for HTML parameterized over an annotation type and script type",
-        "hierarchy": "BrownPLT Html Syntax",
-        "module": "BrownPLT.Html.Syntax",
-        "name": "Syntax",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Syntax",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#t:Attribute",
-      "description": {
-        "fct-module": "BrownPLT.Html.Syntax",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "data",
-        "fct-source": "src/BrownPLT-Html-Syntax.html#Attribute",
-        "fct-type": "data",
-        "title": "Attribute"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html Syntax",
-        "module": "BrownPLT.Html.Syntax",
-        "name": "Attribute",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Attribute",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#t:AttributeValue",
-      "description": {
-        "fct-module": "BrownPLT.Html.Syntax",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "type",
-        "fct-source": "src/BrownPLT-Html-Syntax.html#AttributeValue",
-        "fct-type": "type",
-        "title": "AttributeValue"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html Syntax",
-        "module": "BrownPLT.Html.Syntax",
-        "name": "AttributeValue",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Attribute Value",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#t:Html",
-      "description": {
-        "fct-module": "BrownPLT.Html.Syntax",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "data",
-        "fct-source": "src/BrownPLT-Html-Syntax.html#Html",
-        "fct-type": "data",
-        "title": "Html"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html Syntax",
-        "module": "BrownPLT.Html.Syntax",
-        "name": "Html",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Html",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#t:HtmlId",
-      "description": {
-        "fct-module": "BrownPLT.Html.Syntax",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "type",
-        "fct-source": "src/BrownPLT-Html-Syntax.html#HtmlId",
-        "fct-type": "type",
-        "title": "HtmlId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html Syntax",
-        "module": "BrownPLT.Html.Syntax",
-        "name": "HtmlId",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Html Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#t:Script",
-      "description": {
-        "fct-descr": "\u003cp\u003eA type \u003ccode\u003et\u003c/code\u003e of the \u003ccode\u003e\u003ca\u003eScript\u003c/a\u003e\u003c/code\u003e class can be parsed using \u003ccode\u003eParsec\u003c/code\u003e.  \u003ccode\u003et\u003c/code\u003e is of\n kind '* -\u003e *', as the parsed AST should be annotated with souce locations\n (see \u003ccode\u003e\u003ca\u003eSourcePos\u003c/a\u003e\u003c/code\u003e).\n\u003c/p\u003e\u003cp\u003eThe big deal here is that we can embed a parser for some scripting language,\n (e.g. Javascript) into this HTML parser with ease, while preserving source\n locations.  The Html datatype is parameterized over a script parser (an\n instance of Script).\n\u003c/p\u003e",
-        "fct-module": "BrownPLT.Html.Syntax",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "class",
-        "fct-source": "src/BrownPLT-Html-Syntax.html#Script",
-        "fct-type": "class",
-        "title": "Script"
-      },
-      "index": {
-        "description": "type of the Script class can be parsed using Parsec is of kind as the parsed AST should be annotated with souce locations see SourcePos The big deal here is that we can embed parser for some scripting language e.g Javascript into this HTML parser with ease while preserving source locations The Html datatype is parameterized over script parser an instance of Script",
-        "hierarchy": "BrownPLT Html Syntax",
-        "module": "BrownPLT.Html.Syntax",
-        "name": "Script",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Script",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:Attribute",
-      "description": {
-        "fct-module": "BrownPLT.Html.Syntax",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "Attribute HtmlId AttributeValue a",
-        "fct-source": "src/BrownPLT-Html-Syntax.html#Attribute",
-        "fct-type": "function",
-        "title": "Attribute"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html Syntax",
-        "module": "BrownPLT.Html.Syntax",
-        "name": "Attribute",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Attribute",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:AttributeExpr",
-      "description": {
-        "fct-module": "BrownPLT.Html.Syntax",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "AttributeExpr a HtmlId s String",
-        "fct-source": "src/BrownPLT-Html-Syntax.html#Attribute",
-        "fct-type": "function",
-        "title": "AttributeExpr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html Syntax",
-        "module": "BrownPLT.Html.Syntax",
-        "name": "AttributeExpr",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Attribute Expr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:Comment",
-      "description": {
-        "fct-module": "BrownPLT.Html.Syntax",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "Comment String a",
-        "fct-source": "src/BrownPLT-Html-Syntax.html#Html",
-        "fct-type": "function",
-        "title": "Comment"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html Syntax",
-        "module": "BrownPLT.Html.Syntax",
-        "name": "Comment",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Comment",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:Element",
-      "description": {
-        "fct-module": "BrownPLT.Html.Syntax",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "Element HtmlId [Attribute a sc] [Html a sc] a",
-        "fct-source": "src/BrownPLT-Html-Syntax.html#Html",
-        "fct-type": "function",
-        "title": "Element"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html Syntax",
-        "module": "BrownPLT.Html.Syntax",
-        "name": "Element",
-        "normalized": "Element HtmlId[Attribute a b][Html a b]a",
-        "package": "WebBits-Html",
-        "partial": "Element",
-        "signature": "Element HtmlId[Attribute a sc][Html a sc]a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:HtmlSeq",
-      "description": {
-        "fct-descr": "\u003cp\u003emust be a non-empty list\n\u003c/p\u003e",
-        "fct-module": "BrownPLT.Html.Syntax",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "HtmlSeq [Html a sc]",
-        "fct-source": "src/BrownPLT-Html-Syntax.html#Html",
-        "fct-type": "function",
-        "title": "HtmlSeq"
-      },
-      "index": {
-        "description": "must be non-empty list",
-        "hierarchy": "BrownPLT Html Syntax",
-        "module": "BrownPLT.Html.Syntax",
-        "name": "HtmlSeq",
-        "normalized": "HtmlSeq[Html a b]",
-        "package": "WebBits-Html",
-        "partial": "Html Seq",
-        "signature": "HtmlSeq[Html a sc]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:InlineScript",
-      "description": {
-        "fct-module": "BrownPLT.Html.Syntax",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "InlineScript sc a String",
-        "fct-source": "src/BrownPLT-Html-Syntax.html#Html",
-        "fct-type": "function",
-        "title": "InlineScript"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html Syntax",
-        "module": "BrownPLT.Html.Syntax",
-        "name": "InlineScript",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Inline Script",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:ProcessingInstruction",
-      "description": {
-        "fct-module": "BrownPLT.Html.Syntax",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "ProcessingInstruction String a",
-        "fct-source": "src/BrownPLT-Html-Syntax.html#Html",
-        "fct-type": "function",
-        "title": "ProcessingInstruction"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html Syntax",
-        "module": "BrownPLT.Html.Syntax",
-        "name": "ProcessingInstruction",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Processing Instruction",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:Script",
-      "description": {
-        "fct-module": "BrownPLT.Html.Syntax",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "Script sc a",
-        "fct-source": "src/BrownPLT-Html-Syntax.html#Html",
-        "fct-type": "function",
-        "title": "Script"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html Syntax",
-        "module": "BrownPLT.Html.Syntax",
-        "name": "Script",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Script",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:Text",
-      "description": {
-        "fct-module": "BrownPLT.Html.Syntax",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "Text String a",
-        "fct-source": "src/BrownPLT-Html-Syntax.html#Html",
-        "fct-type": "function",
-        "title": "Text"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html Syntax",
-        "module": "BrownPLT.Html.Syntax",
-        "name": "Text",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Text",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:attributeSet",
-      "description": {
-        "fct-module": "BrownPLT.Html.Syntax",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "HtmlId -\u003e String -\u003e [Attribute a s] -\u003e [Attribute a s]",
-        "fct-source": "src/BrownPLT-Html-Syntax.html#attributeSet",
-        "fct-type": "function",
-        "title": "attributeSet"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html Syntax",
-        "module": "BrownPLT.Html.Syntax",
-        "name": "attributeSet",
-        "normalized": "HtmlId-\u003eString-\u003e[Attribute a b]-\u003e[Attribute a b]",
-        "package": "WebBits-Html",
-        "partial": "Set",
-        "signature": "HtmlId-\u003eString-\u003e[Attribute a s]-\u003e[Attribute a s]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:attributeUpdate",
-      "description": {
-        "fct-module": "BrownPLT.Html.Syntax",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "HtmlId -\u003e (String -\u003e String) -\u003e [Attribute a s] -\u003e [Attribute a s]",
-        "fct-source": "src/BrownPLT-Html-Syntax.html#attributeUpdate",
-        "fct-type": "function",
-        "title": "attributeUpdate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html Syntax",
-        "module": "BrownPLT.Html.Syntax",
-        "name": "attributeUpdate",
-        "normalized": "HtmlId-\u003e(String-\u003eString)-\u003e[Attribute a b]-\u003e[Attribute a b]",
-        "package": "WebBits-Html",
-        "partial": "Update",
-        "signature": "HtmlId-\u003e(String-\u003eString)-\u003e[Attribute a s]-\u003e[Attribute a s]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:attributeValue",
-      "description": {
-        "fct-descr": "\u003cp\u003eReturns the value of the attribute in the list, or \u003ccode\u003e\u003ca\u003eNothing\u003c/a\u003e\u003c/code\u003e if it doesn't\n exist of the value is an inline-expression.\n\u003c/p\u003e",
-        "fct-module": "BrownPLT.Html.Syntax",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "HtmlId -\u003e [Attribute a s] -\u003e Maybe String",
-        "fct-source": "src/BrownPLT-Html-Syntax.html#attributeValue",
-        "fct-type": "function",
-        "title": "attributeValue"
-      },
-      "index": {
-        "description": "Returns the value of the attribute in the list or Nothing if it doesn exist of the value is an inline-expression",
-        "hierarchy": "BrownPLT Html Syntax",
-        "module": "BrownPLT.Html.Syntax",
-        "name": "attributeValue",
-        "normalized": "HtmlId-\u003e[Attribute a b]-\u003eMaybe String",
-        "package": "WebBits-Html",
-        "partial": "Value",
-        "signature": "HtmlId-\u003e[Attribute a s]-\u003eMaybe String"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:isAttributeExpr",
-      "description": {
-        "fct-module": "BrownPLT.Html.Syntax",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "Attribute t t1 -\u003e Bool",
-        "fct-source": "src/BrownPLT-Html-Syntax.html#isAttributeExpr",
-        "fct-type": "function",
-        "title": "isAttributeExpr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html Syntax",
-        "module": "BrownPLT.Html.Syntax",
-        "name": "isAttributeExpr",
-        "normalized": "Attribute a a-\u003eBool",
-        "package": "WebBits-Html",
-        "partial": "Attribute Expr",
-        "signature": "Attribute t t-\u003eBool"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:parseAttributeScript",
-      "description": {
-        "fct-module": "BrownPLT.Html.Syntax",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "Maybe (CharParser a t)",
-        "fct-source": "src/BrownPLT-Html-Syntax.html#parseAttributeScript",
-        "fct-type": "method",
-        "title": "parseAttributeScript"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html Syntax",
-        "module": "BrownPLT.Html.Syntax",
-        "name": "parseAttributeScript",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Attribute Script",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:parseInlineScript",
-      "description": {
-        "fct-module": "BrownPLT.Html.Syntax",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "Maybe (CharParser a t)",
-        "fct-source": "src/BrownPLT-Html-Syntax.html#parseInlineScript",
-        "fct-type": "method",
-        "title": "parseInlineScript"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html Syntax",
-        "module": "BrownPLT.Html.Syntax",
-        "name": "parseInlineScript",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Inline Script",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:parseScriptBlock",
-      "description": {
-        "fct-module": "BrownPLT.Html.Syntax",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "[Attribute SourcePos t] -\u003e CharParser a t",
-        "fct-source": "src/BrownPLT-Html-Syntax.html#parseScriptBlock",
-        "fct-type": "method",
-        "title": "parseScriptBlock"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html Syntax",
-        "module": "BrownPLT.Html.Syntax",
-        "name": "parseScriptBlock",
-        "normalized": "[Attribute SourcePos a]-\u003eCharParser b a",
-        "package": "WebBits-Html",
-        "partial": "Script Block",
-        "signature": "[Attribute SourcePos t]-\u003eCharParser a t"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html-Syntax.html#v:prettyPrintScript",
-      "description": {
-        "fct-module": "BrownPLT.Html.Syntax",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "t -\u003e Doc",
-        "fct-source": "src/BrownPLT-Html-Syntax.html#prettyPrintScript",
-        "fct-type": "method",
-        "title": "prettyPrintScript"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html Syntax",
-        "module": "BrownPLT.Html.Syntax",
-        "name": "prettyPrintScript",
-        "normalized": "a-\u003eDoc",
-        "package": "WebBits-Html",
-        "partial": "Print Script",
-        "signature": "t-\u003eDoc"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eRexports various modules of the HTML library.  It's best to use this in lieu\n of selectively importing the following libraries.\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "BrownPLT.Html",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "module",
-        "fct-source": "src/BrownPLT-Html.html",
-        "fct-type": "module",
-        "title": "Html"
-      },
-      "index": {
-        "description": "Rexports various modules of the HTML library It best to use this in lieu of selectively importing the following libraries",
-        "hierarchy": "BrownPLT Html",
-        "module": "BrownPLT.Html",
-        "name": "Html",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Html",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html.html#v:parseHtmlFromFile",
-      "description": {
-        "fct-module": "BrownPLT.Html",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "String -\u003e IO (Either ParseError (Html SourcePos s, [Warning]))",
-        "fct-source": "src/BrownPLT-Html-PermissiveParser.html#parseHtmlFromFile",
-        "fct-type": "function",
-        "title": "parseHtmlFromFile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html",
-        "module": "BrownPLT.Html",
-        "name": "parseHtmlFromFile",
-        "normalized": "String-\u003eIO(Either ParseError(Html SourcePos a,[Warning]))",
-        "package": "WebBits-Html",
-        "partial": "Html From File",
-        "signature": "String-\u003eIO(Either ParseError(Html SourcePos s,[Warning]))"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html.html#v:parseHtmlFromString",
-      "description": {
-        "fct-module": "BrownPLT.Html",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "String -\u003e String -\u003e Either ParseError (Html SourcePos s, [Warning])",
-        "fct-source": "src/BrownPLT-Html-PermissiveParser.html#parseHtmlFromString",
-        "fct-type": "function",
-        "title": "parseHtmlFromString"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html",
-        "module": "BrownPLT.Html",
-        "name": "parseHtmlFromString",
-        "normalized": "String-\u003eString-\u003eEither ParseError(Html SourcePos a,[Warning])",
-        "package": "WebBits-Html",
-        "partial": "Html From String",
-        "signature": "String-\u003eString-\u003eEither ParseError(Html SourcePos s,[Warning])"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-Html.html#v:renderHtml",
-      "description": {
-        "fct-module": "BrownPLT.Html",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "Html a s -\u003e String",
-        "fct-source": "src/BrownPLT-Html-PrettyPrint.html#renderHtml",
-        "fct-type": "function",
-        "title": "renderHtml"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT Html",
-        "module": "BrownPLT.Html",
-        "name": "renderHtml",
-        "normalized": "Html a b-\u003eString",
-        "package": "WebBits-Html",
-        "partial": "Html",
-        "signature": "Html a s-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-JavaScript-Crawl.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eCrawls an HTML page for JavaScript\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "BrownPLT.JavaScript.Crawl",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "module",
-        "fct-source": "src/BrownPLT-JavaScript-Crawl.html",
-        "fct-type": "module",
-        "title": "Crawl"
-      },
-      "index": {
-        "description": "Crawls an HTML page for JavaScript",
-        "hierarchy": "BrownPLT JavaScript Crawl",
-        "module": "BrownPLT.JavaScript.Crawl",
-        "name": "Crawl",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Crawl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-JavaScript-Crawl.html#v:getPageJavaScript",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.Crawl",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "ParsedJsHtml -\u003e IO [ParsedStatement]",
-        "fct-source": "src/BrownPLT-JavaScript-Crawl.html#getPageJavaScript",
-        "fct-type": "function",
-        "title": "getPageJavaScript"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript Crawl",
-        "module": "BrownPLT.JavaScript.Crawl",
-        "name": "getPageJavaScript",
-        "normalized": "ParsedJsHtml-\u003eIO[ParsedStatement]",
-        "package": "WebBits-Html",
-        "partial": "Page Java Script",
-        "signature": "ParsedJsHtml-\u003eIO[ParsedStatement]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-JavaScript-HtmlEmbedding.html#",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.HtmlEmbedding",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "module",
-        "fct-source": "src/BrownPLT-JavaScript-HtmlEmbedding.html",
-        "fct-type": "module",
-        "title": "HtmlEmbedding"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript HtmlEmbedding",
-        "module": "BrownPLT.JavaScript.HtmlEmbedding",
-        "name": "HtmlEmbedding",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Html Embedding",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-JavaScript-HtmlEmbedding.html#t:JsHtml",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.HtmlEmbedding",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "type",
-        "fct-source": "src/BrownPLT-JavaScript-HtmlEmbedding.html#JsHtml",
-        "fct-type": "type",
-        "title": "JsHtml"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript HtmlEmbedding",
-        "module": "BrownPLT.JavaScript.HtmlEmbedding",
-        "name": "JsHtml",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Js Html",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-JavaScript-HtmlEmbedding.html#t:ParsedJavaScript",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.HtmlEmbedding",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "type",
-        "fct-source": "src/BrownPLT-JavaScript-HtmlEmbedding.html#ParsedJavaScript",
-        "fct-type": "type",
-        "title": "ParsedJavaScript"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript HtmlEmbedding",
-        "module": "BrownPLT.JavaScript.HtmlEmbedding",
-        "name": "ParsedJavaScript",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Parsed Java Script",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-JavaScript-HtmlEmbedding.html#t:ParsedJsHtml",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.HtmlEmbedding",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "type",
-        "fct-source": "src/BrownPLT-JavaScript-HtmlEmbedding.html#ParsedJsHtml",
-        "fct-type": "type",
-        "title": "ParsedJsHtml"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript HtmlEmbedding",
-        "module": "BrownPLT.JavaScript.HtmlEmbedding",
-        "name": "ParsedJsHtml",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Parsed Js Html",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/WebBits-Html/docs/BrownPLT-JavaScript-HtmlEmbedding.html#t:ParsedStatement",
-      "description": {
-        "fct-module": "BrownPLT.JavaScript.HtmlEmbedding",
-        "fct-package": "WebBits-Html",
-        "fct-signature": "type",
-        "fct-source": "src/BrownPLT-JavaScript-HtmlEmbedding.html#ParsedStatement",
-        "fct-type": "type",
-        "title": "ParsedStatement"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "BrownPLT JavaScript HtmlEmbedding",
-        "module": "BrownPLT.JavaScript.HtmlEmbedding",
-        "name": "ParsedStatement",
-        "normalized": "",
-        "package": "WebBits-Html",
-        "partial": "Parsed Statement",
-        "signature": ""
-      }
-    }
-  }
+  ]
 ]

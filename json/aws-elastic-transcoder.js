@@ -1,10524 +1,10532 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreateJob.html#",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreateJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "module",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreateJob.html",
-        "fct-type": "module",
-        "title": "CreateJob"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreateJob",
-        "module": "Aws.ElasticTranscoder.Commands.CreateJob",
-        "name": "CreateJob",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Create Job",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreateJob.html#t:CreateJob",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreateJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreateJob.html#CreateJob",
-        "fct-type": "data",
-        "title": "CreateJob"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreateJob",
-        "module": "Aws.ElasticTranscoder.Commands.CreateJob",
-        "name": "CreateJob",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Create Job",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreateJob.html#t:CreateJobResponse",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreateJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreateJob.html#CreateJobResponse",
-        "fct-type": "data",
-        "title": "CreateJobResponse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreateJob",
-        "module": "Aws.ElasticTranscoder.Commands.CreateJob",
-        "name": "CreateJobResponse",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Create Job Response",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreateJob.html#v:CreateJob",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreateJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "CreateJob",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreateJob.html#CreateJob",
-        "fct-type": "function",
-        "title": "CreateJob"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreateJob",
-        "module": "Aws.ElasticTranscoder.Commands.CreateJob",
-        "name": "CreateJob",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Create Job",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreateJob.html#v:CreateJobResponse",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreateJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "CreateJobResponse",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreateJob.html#CreateJobResponse",
-        "fct-type": "function",
-        "title": "CreateJobResponse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreateJob",
-        "module": "Aws.ElasticTranscoder.Commands.CreateJob",
-        "name": "CreateJobResponse",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Create Job Response",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreateJob.html#v:cjInput",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreateJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "JSInput",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreateJob.html#CreateJob",
-        "fct-type": "function",
-        "title": "cjInput"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreateJob",
-        "module": "Aws.ElasticTranscoder.Commands.CreateJob",
-        "name": "cjInput",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Input",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreateJob.html#v:cjOutput",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreateJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "JSOutput",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreateJob.html#CreateJob",
-        "fct-type": "function",
-        "title": "cjOutput"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreateJob",
-        "module": "Aws.ElasticTranscoder.Commands.CreateJob",
-        "name": "cjOutput",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Output",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreateJob.html#v:cjPipelineId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreateJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineId",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreateJob.html#CreateJob",
-        "fct-type": "function",
-        "title": "cjPipelineId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreateJob",
-        "module": "Aws.ElasticTranscoder.Commands.CreateJob",
-        "name": "cjPipelineId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pipeline Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreateJob.html#v:cjrId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreateJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "JobId",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreateJob.html#CreateJobResponse",
-        "fct-type": "function",
-        "title": "cjrId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreateJob",
-        "module": "Aws.ElasticTranscoder.Commands.CreateJob",
-        "name": "cjrId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreateJob.html#v:cjrInput",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreateJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "JSInput",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreateJob.html#CreateJobResponse",
-        "fct-type": "function",
-        "title": "cjrInput"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreateJob",
-        "module": "Aws.ElasticTranscoder.Commands.CreateJob",
-        "name": "cjrInput",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Input",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreateJob.html#v:cjrOutput",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreateJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "JSOutputStatus",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreateJob.html#CreateJobResponse",
-        "fct-type": "function",
-        "title": "cjrOutput"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreateJob",
-        "module": "Aws.ElasticTranscoder.Commands.CreateJob",
-        "name": "cjrOutput",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Output",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreateJob.html#v:cjrPipelineId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreateJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineId",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreateJob.html#CreateJobResponse",
-        "fct-type": "function",
-        "title": "cjrPipelineId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreateJob",
-        "module": "Aws.ElasticTranscoder.Commands.CreateJob",
-        "name": "cjrPipelineId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pipeline Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreateJob.html#v:createJob",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreateJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "S3Object -\u003e S3Object -\u003e PresetId -\u003e PipelineId -\u003e CreateJob",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreateJob.html#createJob",
-        "fct-type": "function",
-        "title": "createJob"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreateJob",
-        "module": "Aws.ElasticTranscoder.Commands.CreateJob",
-        "name": "createJob",
-        "normalized": "S Object-\u003eS Object-\u003ePresetId-\u003ePipelineId-\u003eCreateJob",
-        "package": "aws-elastic-transcoder",
-        "partial": "Job",
-        "signature": "S Object-\u003eS Object-\u003ePresetId-\u003ePipelineId-\u003eCreateJob"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreateJob.html#v:defaultJSInput",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreateJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "S3Object -\u003e JSInput",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreateJob.html#defaultJSInput",
-        "fct-type": "function",
-        "title": "defaultJSInput"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreateJob",
-        "module": "Aws.ElasticTranscoder.Commands.CreateJob",
-        "name": "defaultJSInput",
-        "normalized": "S Object-\u003eJSInput",
-        "package": "aws-elastic-transcoder",
-        "partial": "JSInput",
-        "signature": "S Object-\u003eJSInput"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreateJob.html#v:defaultJSOutput",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreateJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "S3Object -\u003e PresetId -\u003e JSOutput",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreateJob.html#defaultJSOutput",
-        "fct-type": "function",
-        "title": "defaultJSOutput"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreateJob",
-        "module": "Aws.ElasticTranscoder.Commands.CreateJob",
-        "name": "defaultJSOutput",
-        "normalized": "S Object-\u003ePresetId-\u003eJSOutput",
-        "package": "aws-elastic-transcoder",
-        "partial": "JSOutput",
-        "signature": "S Object-\u003ePresetId-\u003eJSOutput"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "module",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html",
-        "fct-type": "module",
-        "title": "CreatePipeline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
-        "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "name": "CreatePipeline",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Create Pipeline",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#t:CreatePipeline",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipeline",
-        "fct-type": "data",
-        "title": "CreatePipeline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
-        "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "name": "CreatePipeline",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Create Pipeline",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#t:CreatePipelineResponse",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipelineResponse",
-        "fct-type": "data",
-        "title": "CreatePipelineResponse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
-        "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "name": "CreatePipelineResponse",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Create Pipeline Response",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#v:CreatePipeline",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "CreatePipeline",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipeline",
-        "fct-type": "function",
-        "title": "CreatePipeline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
-        "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "name": "CreatePipeline",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Create Pipeline",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#v:CreatePipelineResponse",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "CreatePipelineResponse",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipelineResponse",
-        "fct-type": "function",
-        "title": "CreatePipelineResponse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
-        "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "name": "CreatePipelineResponse",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Create Pipeline Response",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#v:cplInputBucket",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "S3Object",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipeline",
-        "fct-type": "function",
-        "title": "cplInputBucket"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
-        "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "name": "cplInputBucket",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Input Bucket",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#v:cplName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineName",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipeline",
-        "fct-type": "function",
-        "title": "cplName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
-        "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "name": "cplName",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#v:cplNotifications",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Notifications",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipeline",
-        "fct-type": "function",
-        "title": "cplNotifications"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
-        "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "name": "cplNotifications",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Notifications",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#v:cplOutputBucket",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "S3Object",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipeline",
-        "fct-type": "function",
-        "title": "cplOutputBucket"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
-        "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "name": "cplOutputBucket",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Output Bucket",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#v:cplRole",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "IAMRole",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipeline",
-        "fct-type": "function",
-        "title": "cplRole"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
-        "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "name": "cplRole",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Role",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#v:cprId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineId",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipelineResponse",
-        "fct-type": "function",
-        "title": "cprId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
-        "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "name": "cprId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#v:cprInputBucket",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "S3Object",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipelineResponse",
-        "fct-type": "function",
-        "title": "cprInputBucket"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
-        "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "name": "cprInputBucket",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Input Bucket",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#v:cprName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineName",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipelineResponse",
-        "fct-type": "function",
-        "title": "cprName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
-        "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "name": "cprName",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#v:cprNotifications",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Notifications",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipelineResponse",
-        "fct-type": "function",
-        "title": "cprNotifications"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
-        "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "name": "cprNotifications",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Notifications",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#v:cprOutputBucket",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "S3Object",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipelineResponse",
-        "fct-type": "function",
-        "title": "cprOutputBucket"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
-        "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "name": "cprOutputBucket",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Output Bucket",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#v:cprRole",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "IAMRole",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipelineResponse",
-        "fct-type": "function",
-        "title": "cprRole"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
-        "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "name": "cprRole",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Role",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#v:cprStatus",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineStatus",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipelineResponse",
-        "fct-type": "function",
-        "title": "cprStatus"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
-        "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
-        "name": "cprStatus",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Status",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-DeleteJob.html#",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.DeleteJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "module",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-DeleteJob.html",
-        "fct-type": "module",
-        "title": "DeleteJob"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands DeleteJob",
-        "module": "Aws.ElasticTranscoder.Commands.DeleteJob",
-        "name": "DeleteJob",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Delete Job",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-DeleteJob.html#t:DeleteJob",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.DeleteJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-DeleteJob.html#DeleteJob",
-        "fct-type": "data",
-        "title": "DeleteJob"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands DeleteJob",
-        "module": "Aws.ElasticTranscoder.Commands.DeleteJob",
-        "name": "DeleteJob",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Delete Job",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-DeleteJob.html#t:DeleteJobResponse",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.DeleteJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-DeleteJob.html#DeleteJobResponse",
-        "fct-type": "data",
-        "title": "DeleteJobResponse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands DeleteJob",
-        "module": "Aws.ElasticTranscoder.Commands.DeleteJob",
-        "name": "DeleteJobResponse",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Delete Job Response",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-DeleteJob.html#v:DeleteJob",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.DeleteJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "DeleteJob",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-DeleteJob.html#DeleteJob",
-        "fct-type": "function",
-        "title": "DeleteJob"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands DeleteJob",
-        "module": "Aws.ElasticTranscoder.Commands.DeleteJob",
-        "name": "DeleteJob",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Delete Job",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-DeleteJob.html#v:DeleteJobResponse",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.DeleteJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "DeleteJobResponse",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-DeleteJob.html#DeleteJobResponse",
-        "fct-type": "function",
-        "title": "DeleteJobResponse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands DeleteJob",
-        "module": "Aws.ElasticTranscoder.Commands.DeleteJob",
-        "name": "DeleteJobResponse",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Delete Job Response",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-DeleteJob.html#v:djJob",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.DeleteJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "JobId",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-DeleteJob.html#DeleteJob",
-        "fct-type": "function",
-        "title": "djJob"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands DeleteJob",
-        "module": "Aws.ElasticTranscoder.Commands.DeleteJob",
-        "name": "djJob",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Job",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-DeletePipeline.html#",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.DeletePipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "module",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-DeletePipeline.html",
-        "fct-type": "module",
-        "title": "DeletePipeline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands DeletePipeline",
-        "module": "Aws.ElasticTranscoder.Commands.DeletePipeline",
-        "name": "DeletePipeline",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Delete Pipeline",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-DeletePipeline.html#t:DeletePipeline",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.DeletePipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-DeletePipeline.html#DeletePipeline",
-        "fct-type": "data",
-        "title": "DeletePipeline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands DeletePipeline",
-        "module": "Aws.ElasticTranscoder.Commands.DeletePipeline",
-        "name": "DeletePipeline",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Delete Pipeline",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-DeletePipeline.html#t:DeletePipelineResponse",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.DeletePipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-DeletePipeline.html#DeletePipelineResponse",
-        "fct-type": "data",
-        "title": "DeletePipelineResponse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands DeletePipeline",
-        "module": "Aws.ElasticTranscoder.Commands.DeletePipeline",
-        "name": "DeletePipelineResponse",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Delete Pipeline Response",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-DeletePipeline.html#v:DeletePipeline",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.DeletePipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "DeletePipeline",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-DeletePipeline.html#DeletePipeline",
-        "fct-type": "function",
-        "title": "DeletePipeline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands DeletePipeline",
-        "module": "Aws.ElasticTranscoder.Commands.DeletePipeline",
-        "name": "DeletePipeline",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Delete Pipeline",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-DeletePipeline.html#v:DeletePipelineResponse",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.DeletePipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "DeletePipelineResponse",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-DeletePipeline.html#DeletePipelineResponse",
-        "fct-type": "function",
-        "title": "DeletePipelineResponse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands DeletePipeline",
-        "module": "Aws.ElasticTranscoder.Commands.DeletePipeline",
-        "name": "DeletePipelineResponse",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Delete Pipeline Response",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-DeletePipeline.html#v:dpId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.DeletePipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineId",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-DeletePipeline.html#DeletePipeline",
-        "fct-type": "function",
-        "title": "dpId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands DeletePipeline",
-        "module": "Aws.ElasticTranscoder.Commands.DeletePipeline",
-        "name": "dpId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetJob.html#",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.GetJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "module",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-GetJob.html",
-        "fct-type": "module",
-        "title": "GetJob"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands GetJob",
-        "module": "Aws.ElasticTranscoder.Commands.GetJob",
-        "name": "GetJob",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Get Job",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetJob.html#t:GetJob",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.GetJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-GetJob.html#GetJob",
-        "fct-type": "data",
-        "title": "GetJob"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands GetJob",
-        "module": "Aws.ElasticTranscoder.Commands.GetJob",
-        "name": "GetJob",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Get Job",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetJob.html#t:GetJobResponse",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.GetJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-GetJob.html#GetJobResponse",
-        "fct-type": "data",
-        "title": "GetJobResponse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands GetJob",
-        "module": "Aws.ElasticTranscoder.Commands.GetJob",
-        "name": "GetJobResponse",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Get Job Response",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetJob.html#v:GetJob",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.GetJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "GetJob",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-GetJob.html#GetJob",
-        "fct-type": "function",
-        "title": "GetJob"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands GetJob",
-        "module": "Aws.ElasticTranscoder.Commands.GetJob",
-        "name": "GetJob",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Get Job",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetJob.html#v:GetJobResponse",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.GetJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "GetJobResponse",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-GetJob.html#GetJobResponse",
-        "fct-type": "function",
-        "title": "GetJobResponse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands GetJob",
-        "module": "Aws.ElasticTranscoder.Commands.GetJob",
-        "name": "GetJobResponse",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Get Job Response",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetJob.html#v:gjJob",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.GetJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "JobId",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-GetJob.html#GetJob",
-        "fct-type": "function",
-        "title": "gjJob"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands GetJob",
-        "module": "Aws.ElasticTranscoder.Commands.GetJob",
-        "name": "gjJob",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Job",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetJob.html#v:gjrId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.GetJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "JobId",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-GetJob.html#GetJobResponse",
-        "fct-type": "function",
-        "title": "gjrId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands GetJob",
-        "module": "Aws.ElasticTranscoder.Commands.GetJob",
-        "name": "gjrId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetJob.html#v:gjrInput",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.GetJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "JSInput",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-GetJob.html#GetJobResponse",
-        "fct-type": "function",
-        "title": "gjrInput"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands GetJob",
-        "module": "Aws.ElasticTranscoder.Commands.GetJob",
-        "name": "gjrInput",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Input",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetJob.html#v:gjrOutput",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.GetJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "JSOutputStatus",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-GetJob.html#GetJobResponse",
-        "fct-type": "function",
-        "title": "gjrOutput"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands GetJob",
-        "module": "Aws.ElasticTranscoder.Commands.GetJob",
-        "name": "gjrOutput",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Output",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetJob.html#v:gjrPipelineId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.GetJob",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineId",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-GetJob.html#GetJobResponse",
-        "fct-type": "function",
-        "title": "gjrPipelineId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands GetJob",
-        "module": "Aws.ElasticTranscoder.Commands.GetJob",
-        "name": "gjrPipelineId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pipeline Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPipeline.html#",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.GetPipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "module",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-GetPipeline.html",
-        "fct-type": "module",
-        "title": "GetPipeline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands GetPipeline",
-        "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
-        "name": "GetPipeline",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Get Pipeline",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPipeline.html#t:GetPipeline",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.GetPipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-GetPipeline.html#GetPipeline",
-        "fct-type": "data",
-        "title": "GetPipeline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands GetPipeline",
-        "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
-        "name": "GetPipeline",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Get Pipeline",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPipeline.html#t:GetPipelineResponse",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.GetPipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-GetPipeline.html#GetPipelineResponse",
-        "fct-type": "data",
-        "title": "GetPipelineResponse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands GetPipeline",
-        "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
-        "name": "GetPipelineResponse",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Get Pipeline Response",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPipeline.html#v:GetPipeline",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.GetPipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "GetPipeline",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-GetPipeline.html#GetPipeline",
-        "fct-type": "function",
-        "title": "GetPipeline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands GetPipeline",
-        "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
-        "name": "GetPipeline",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Get Pipeline",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPipeline.html#v:GetPipelineResponse",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.GetPipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "GetPipelineResponse",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-GetPipeline.html#GetPipelineResponse",
-        "fct-type": "function",
-        "title": "GetPipelineResponse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands GetPipeline",
-        "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
-        "name": "GetPipelineResponse",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Get Pipeline Response",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPipeline.html#v:gplPipeline",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.GetPipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineId",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-GetPipeline.html#GetPipeline",
-        "fct-type": "function",
-        "title": "gplPipeline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands GetPipeline",
-        "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
-        "name": "gplPipeline",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pipeline",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPipeline.html#v:gprId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.GetPipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineId",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-GetPipeline.html#GetPipelineResponse",
-        "fct-type": "function",
-        "title": "gprId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands GetPipeline",
-        "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
-        "name": "gprId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPipeline.html#v:gprInputBucket",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.GetPipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "S3Object",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-GetPipeline.html#GetPipelineResponse",
-        "fct-type": "function",
-        "title": "gprInputBucket"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands GetPipeline",
-        "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
-        "name": "gprInputBucket",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Input Bucket",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPipeline.html#v:gprName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.GetPipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineName",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-GetPipeline.html#GetPipelineResponse",
-        "fct-type": "function",
-        "title": "gprName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands GetPipeline",
-        "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
-        "name": "gprName",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPipeline.html#v:gprNotifications",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.GetPipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Notifications",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-GetPipeline.html#GetPipelineResponse",
-        "fct-type": "function",
-        "title": "gprNotifications"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands GetPipeline",
-        "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
-        "name": "gprNotifications",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Notifications",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPipeline.html#v:gprOutputBucket",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.GetPipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "S3Object",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-GetPipeline.html#GetPipelineResponse",
-        "fct-type": "function",
-        "title": "gprOutputBucket"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands GetPipeline",
-        "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
-        "name": "gprOutputBucket",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Output Bucket",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPipeline.html#v:gprRole",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.GetPipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "IAMRole",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-GetPipeline.html#GetPipelineResponse",
-        "fct-type": "function",
-        "title": "gprRole"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands GetPipeline",
-        "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
-        "name": "gprRole",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Role",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPipeline.html#v:gprStatus",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.GetPipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineStatus",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-GetPipeline.html#GetPipelineResponse",
-        "fct-type": "function",
-        "title": "gprStatus"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands GetPipeline",
-        "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
-        "name": "gprStatus",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Status",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "module",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html",
-        "fct-type": "module",
-        "title": "ListJobsByPipeline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands ListJobsByPipeline",
-        "module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
-        "name": "ListJobsByPipeline",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "List Jobs By Pipeline",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#t:ListJobsByPipeline",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#ListJobsByPipeline",
-        "fct-type": "data",
-        "title": "ListJobsByPipeline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands ListJobsByPipeline",
-        "module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
-        "name": "ListJobsByPipeline",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "List Jobs By Pipeline",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#t:ListJobsByPipelineResponse",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#ListJobsByPipelineResponse",
-        "fct-type": "data",
-        "title": "ListJobsByPipelineResponse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands ListJobsByPipeline",
-        "module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
-        "name": "ListJobsByPipelineResponse",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "List Jobs By Pipeline Response",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#v:ListJobsByPipeline",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "ListJobsByPipeline",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#ListJobsByPipeline",
-        "fct-type": "function",
-        "title": "ListJobsByPipeline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands ListJobsByPipeline",
-        "module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
-        "name": "ListJobsByPipeline",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "List Jobs By Pipeline",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#v:ListJobsByPipelineResponse",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "ListJobsByPipelineResponse",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#ListJobsByPipelineResponse",
-        "fct-type": "function",
-        "title": "ListJobsByPipelineResponse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands ListJobsByPipeline",
-        "module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
-        "name": "ListJobsByPipelineResponse",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "List Jobs By Pipeline Response",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#v:ljpAscending",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Bool",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#ListJobsByPipeline",
-        "fct-type": "function",
-        "title": "ljpAscending"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands ListJobsByPipeline",
-        "module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
-        "name": "ljpAscending",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Ascending",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#v:ljpPageToken",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "TextOrNull",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#ListJobsByPipeline",
-        "fct-type": "function",
-        "title": "ljpPageToken"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands ListJobsByPipeline",
-        "module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
-        "name": "ljpPageToken",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Page Token",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#v:ljpPipelineId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineId",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#ListJobsByPipeline",
-        "fct-type": "function",
-        "title": "ljpPipelineId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands ListJobsByPipeline",
-        "module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
-        "name": "ljpPipelineId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pipeline Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#v:ljprJobs",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "[JobSpecId]",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#ListJobsByPipelineResponse",
-        "fct-type": "function",
-        "title": "ljprJobs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands ListJobsByPipeline",
-        "module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
-        "name": "ljprJobs",
-        "normalized": "[JobSpecId]",
-        "package": "aws-elastic-transcoder",
-        "partial": "Jobs",
-        "signature": "[JobSpecId]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#v:ljprNextPageToken",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "TextOrNull",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#ListJobsByPipelineResponse",
-        "fct-type": "function",
-        "title": "ljprNextPageToken"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands ListJobsByPipeline",
-        "module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
-        "name": "ljprNextPageToken",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Next Page Token",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "module",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html",
-        "fct-type": "module",
-        "title": "ListJobsByStatus"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands ListJobsByStatus",
-        "module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
-        "name": "ListJobsByStatus",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "List Jobs By Status",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#t:ListJobsByStatus",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#ListJobsByStatus",
-        "fct-type": "data",
-        "title": "ListJobsByStatus"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands ListJobsByStatus",
-        "module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
-        "name": "ListJobsByStatus",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "List Jobs By Status",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#t:ListJobsByStatusResponse",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#ListJobsByStatusResponse",
-        "fct-type": "data",
-        "title": "ListJobsByStatusResponse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands ListJobsByStatus",
-        "module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
-        "name": "ListJobsByStatusResponse",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "List Jobs By Status Response",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#v:ListJobsByStatus",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "ListJobsByStatus",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#ListJobsByStatus",
-        "fct-type": "function",
-        "title": "ListJobsByStatus"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands ListJobsByStatus",
-        "module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
-        "name": "ListJobsByStatus",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "List Jobs By Status",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#v:ListJobsByStatusResponse",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "ListJobsByStatusResponse",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#ListJobsByStatusResponse",
-        "fct-type": "function",
-        "title": "ListJobsByStatusResponse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands ListJobsByStatus",
-        "module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
-        "name": "ListJobsByStatusResponse",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "List Jobs By Status Response",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#v:ljsAscending",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Bool",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#ListJobsByStatus",
-        "fct-type": "function",
-        "title": "ljsAscending"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands ListJobsByStatus",
-        "module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
-        "name": "ljsAscending",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Ascending",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#v:ljsPageToken",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "TextOrNull",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#ListJobsByStatus",
-        "fct-type": "function",
-        "title": "ljsPageToken"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands ListJobsByStatus",
-        "module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
-        "name": "ljsPageToken",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Page Token",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#v:ljsStatus",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Status",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#ListJobsByStatus",
-        "fct-type": "function",
-        "title": "ljsStatus"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands ListJobsByStatus",
-        "module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
-        "name": "ljsStatus",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Status",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#v:ljsrJobs",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "[JobSpecId]",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#ListJobsByStatusResponse",
-        "fct-type": "function",
-        "title": "ljsrJobs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands ListJobsByStatus",
-        "module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
-        "name": "ljsrJobs",
-        "normalized": "[JobSpecId]",
-        "package": "aws-elastic-transcoder",
-        "partial": "Jobs",
-        "signature": "[JobSpecId]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#v:ljsrNextPageToken",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "TextOrNull",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#ListJobsByStatusResponse",
-        "fct-type": "function",
-        "title": "ljsrNextPageToken"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands ListJobsByStatus",
-        "module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
-        "name": "ljsrNextPageToken",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Next Page Token",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListPipelines.html#",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.ListPipelines",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "module",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-ListPipelines.html",
-        "fct-type": "module",
-        "title": "ListPipelines"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands ListPipelines",
-        "module": "Aws.ElasticTranscoder.Commands.ListPipelines",
-        "name": "ListPipelines",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "List Pipelines",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListPipelines.html#t:ListPipelines",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.ListPipelines",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-ListPipelines.html#ListPipelines",
-        "fct-type": "data",
-        "title": "ListPipelines"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands ListPipelines",
-        "module": "Aws.ElasticTranscoder.Commands.ListPipelines",
-        "name": "ListPipelines",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "List Pipelines",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListPipelines.html#t:ListPipelinesResponse",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.ListPipelines",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "newtype",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-ListPipelines.html#ListPipelinesResponse",
-        "fct-type": "newtype",
-        "title": "ListPipelinesResponse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands ListPipelines",
-        "module": "Aws.ElasticTranscoder.Commands.ListPipelines",
-        "name": "ListPipelinesResponse",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "List Pipelines Response",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListPipelines.html#v:ListPipelines",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.ListPipelines",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "ListPipelines",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-ListPipelines.html#ListPipelines",
-        "fct-type": "function",
-        "title": "ListPipelines"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands ListPipelines",
-        "module": "Aws.ElasticTranscoder.Commands.ListPipelines",
-        "name": "ListPipelines",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "List Pipelines",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListPipelines.html#v:ListPipelinesResponse",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.ListPipelines",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "ListPipelinesResponse",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-ListPipelines.html#ListPipelinesResponse",
-        "fct-type": "function",
-        "title": "ListPipelinesResponse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands ListPipelines",
-        "module": "Aws.ElasticTranscoder.Commands.ListPipelines",
-        "name": "ListPipelinesResponse",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "List Pipelines Response",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListPipelines.html#v:lprPipelines",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.ListPipelines",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "[PipelineIdStatus]",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-ListPipelines.html#ListPipelinesResponse",
-        "fct-type": "function",
-        "title": "lprPipelines"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands ListPipelines",
-        "module": "Aws.ElasticTranscoder.Commands.ListPipelines",
-        "name": "lprPipelines",
-        "normalized": "[PipelineIdStatus]",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pipelines",
-        "signature": "[PipelineIdStatus]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-TestRole.html#",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.TestRole",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "module",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-TestRole.html",
-        "fct-type": "module",
-        "title": "TestRole"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands TestRole",
-        "module": "Aws.ElasticTranscoder.Commands.TestRole",
-        "name": "TestRole",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Test Role",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-TestRole.html#t:TestRole",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.TestRole",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-TestRole.html#TestRole",
-        "fct-type": "data",
-        "title": "TestRole"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands TestRole",
-        "module": "Aws.ElasticTranscoder.Commands.TestRole",
-        "name": "TestRole",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Test Role",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-TestRole.html#t:TestRoleResponse",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.TestRole",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-TestRole.html#TestRoleResponse",
-        "fct-type": "data",
-        "title": "TestRoleResponse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands TestRole",
-        "module": "Aws.ElasticTranscoder.Commands.TestRole",
-        "name": "TestRoleResponse",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Test Role Response",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-TestRole.html#v:TestRole",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.TestRole",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "TestRole",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-TestRole.html#TestRole",
-        "fct-type": "function",
-        "title": "TestRole"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands TestRole",
-        "module": "Aws.ElasticTranscoder.Commands.TestRole",
-        "name": "TestRole",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Test Role",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-TestRole.html#v:TestRoleResponse",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.TestRole",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "TestRoleResponse",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-TestRole.html#TestRoleResponse",
-        "fct-type": "function",
-        "title": "TestRoleResponse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands TestRole",
-        "module": "Aws.ElasticTranscoder.Commands.TestRole",
-        "name": "TestRoleResponse",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Test Role Response",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-TestRole.html#v:trInputBucket",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.TestRole",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "S3Object",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-TestRole.html#TestRole",
-        "fct-type": "function",
-        "title": "trInputBucket"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands TestRole",
-        "module": "Aws.ElasticTranscoder.Commands.TestRole",
-        "name": "trInputBucket",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Input Bucket",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-TestRole.html#v:trOutputBucket",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.TestRole",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "S3Object",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-TestRole.html#TestRole",
-        "fct-type": "function",
-        "title": "trOutputBucket"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands TestRole",
-        "module": "Aws.ElasticTranscoder.Commands.TestRole",
-        "name": "trOutputBucket",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Output Bucket",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-TestRole.html#v:trRole",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.TestRole",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "IAMRole",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-TestRole.html#TestRole",
-        "fct-type": "function",
-        "title": "trRole"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands TestRole",
-        "module": "Aws.ElasticTranscoder.Commands.TestRole",
-        "name": "trRole",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Role",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-TestRole.html#v:trTopics",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.TestRole",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "[SNSTopic]",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-TestRole.html#TestRole",
-        "fct-type": "function",
-        "title": "trTopics"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands TestRole",
-        "module": "Aws.ElasticTranscoder.Commands.TestRole",
-        "name": "trTopics",
-        "normalized": "[SNSTopic]",
-        "package": "aws-elastic-transcoder",
-        "partial": "Topics",
-        "signature": "[SNSTopic]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-TestRole.html#v:trrMessages",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.TestRole",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "[Text]",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-TestRole.html#TestRoleResponse",
-        "fct-type": "function",
-        "title": "trrMessages"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands TestRole",
-        "module": "Aws.ElasticTranscoder.Commands.TestRole",
-        "name": "trrMessages",
-        "normalized": "[Text]",
-        "package": "aws-elastic-transcoder",
-        "partial": "Messages",
-        "signature": "[Text]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-TestRole.html#v:trrSuccess",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.TestRole",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Bool",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-TestRole.html#TestRoleResponse",
-        "fct-type": "function",
-        "title": "trrSuccess"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands TestRole",
-        "module": "Aws.ElasticTranscoder.Commands.TestRole",
-        "name": "trrSuccess",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Success",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-UpdatePipelineNotifications.html#",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.UpdatePipelineNotifications",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "module",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-UpdatePipelineNotifications.html",
-        "fct-type": "module",
-        "title": "UpdatePipelineNotifications"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands UpdatePipelineNotifications",
-        "module": "Aws.ElasticTranscoder.Commands.UpdatePipelineNotifications",
-        "name": "UpdatePipelineNotifications",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Update Pipeline Notifications",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-UpdatePipelineNotifications.html#t:UpdatePipelineNotifications",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.UpdatePipelineNotifications",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-UpdatePipelineNotifications.html#UpdatePipelineNotifications",
-        "fct-type": "data",
-        "title": "UpdatePipelineNotifications"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands UpdatePipelineNotifications",
-        "module": "Aws.ElasticTranscoder.Commands.UpdatePipelineNotifications",
-        "name": "UpdatePipelineNotifications",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Update Pipeline Notifications",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-UpdatePipelineNotifications.html#v:UpdatePipelineNotifications",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.UpdatePipelineNotifications",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "UpdatePipelineNotifications",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-UpdatePipelineNotifications.html#UpdatePipelineNotifications",
-        "fct-type": "function",
-        "title": "UpdatePipelineNotifications"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands UpdatePipelineNotifications",
-        "module": "Aws.ElasticTranscoder.Commands.UpdatePipelineNotifications",
-        "name": "UpdatePipelineNotifications",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Update Pipeline Notifications",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-UpdatePipelineNotifications.html#v:upnId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.UpdatePipelineNotifications",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineId",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-UpdatePipelineNotifications.html#UpdatePipelineNotifications",
-        "fct-type": "function",
-        "title": "upnId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands UpdatePipelineNotifications",
-        "module": "Aws.ElasticTranscoder.Commands.UpdatePipelineNotifications",
-        "name": "upnId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-UpdatePipelineNotifications.html#v:upnNotifications",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.UpdatePipelineNotifications",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Notifications",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-UpdatePipelineNotifications.html#UpdatePipelineNotifications",
-        "fct-type": "function",
-        "title": "upnNotifications"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands UpdatePipelineNotifications",
-        "module": "Aws.ElasticTranscoder.Commands.UpdatePipelineNotifications",
-        "name": "upnNotifications",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Notifications",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-UpdatePipelineStatus.html#",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.UpdatePipelineStatus",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "module",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-UpdatePipelineStatus.html",
-        "fct-type": "module",
-        "title": "UpdatePipelineStatus"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands UpdatePipelineStatus",
-        "module": "Aws.ElasticTranscoder.Commands.UpdatePipelineStatus",
-        "name": "UpdatePipelineStatus",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Update Pipeline Status",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-UpdatePipelineStatus.html#t:UpdatePipelineStatus",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.UpdatePipelineStatus",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-UpdatePipelineStatus.html#UpdatePipelineStatus",
-        "fct-type": "data",
-        "title": "UpdatePipelineStatus"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands UpdatePipelineStatus",
-        "module": "Aws.ElasticTranscoder.Commands.UpdatePipelineStatus",
-        "name": "UpdatePipelineStatus",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Update Pipeline Status",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-UpdatePipelineStatus.html#v:UpdatePipelineStatus",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands.UpdatePipelineStatus",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "UpdatePipelineStatus",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-UpdatePipelineStatus.html#UpdatePipelineStatus",
-        "fct-type": "function",
-        "title": "UpdatePipelineStatus"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands UpdatePipelineStatus",
-        "module": "Aws.ElasticTranscoder.Commands.UpdatePipelineStatus",
-        "name": "UpdatePipelineStatus",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Update Pipeline Status",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-UpdatePipelineStatus.html#v:upsId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.UpdatePipelineStatus",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineId",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-UpdatePipelineStatus.html#UpdatePipelineStatus",
-        "fct-type": "function",
-        "title": "upsId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands UpdatePipelineStatus",
-        "module": "Aws.ElasticTranscoder.Commands.UpdatePipelineStatus",
-        "name": "upsId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-UpdatePipelineStatus.html#v:upsStatus",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Commands.UpdatePipelineStatus",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineStatus",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands-UpdatePipelineStatus.html#UpdatePipelineStatus",
-        "fct-type": "function",
-        "title": "upsStatus"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands UpdatePipelineStatus",
-        "module": "Aws.ElasticTranscoder.Commands.UpdatePipelineStatus",
-        "name": "upsStatus",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Status",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands.html#",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Commands",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "module",
-        "fct-source": "src/Aws-ElasticTranscoder-Commands.html",
-        "fct-type": "module",
-        "title": "Commands"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Commands",
-        "module": "Aws.ElasticTranscoder.Commands",
-        "name": "Commands",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Commands",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "module",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html",
-        "fct-type": "module",
-        "title": "Core"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "Core",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Core",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#t:ETSEndpoint",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#ETSEndpoint",
-        "fct-type": "data",
-        "title": "ETSEndpoint"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "ETSEndpoint",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "ETSEndpoint",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#t:EtsConfiguration",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#EtsConfiguration",
-        "fct-type": "data",
-        "title": "EtsConfiguration"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "EtsConfiguration",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Ets Configuration",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#t:EtsError",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#EtsError",
-        "fct-type": "data",
-        "title": "EtsError"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "EtsError",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Ets Error",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#t:EtsMetadata",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#EtsMetadata",
-        "fct-type": "data",
-        "title": "EtsMetadata"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "EtsMetadata",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Ets Metadata",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#t:EtsQuery",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#EtsQuery",
-        "fct-type": "data",
-        "title": "EtsQuery"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "EtsQuery",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Ets Query",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:EtsConfiguration",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "EtsConfiguration",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#EtsConfiguration",
-        "fct-type": "function",
-        "title": "EtsConfiguration"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "EtsConfiguration",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Ets Configuration",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:EtsError",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "EtsError",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#EtsError",
-        "fct-type": "function",
-        "title": "EtsError"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "EtsError",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Ets Error",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:EtsMetadata",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "EtsMetadata",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#EtsMetadata",
-        "fct-type": "function",
-        "title": "EtsMetadata"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "EtsMetadata",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Ets Metadata",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:EtsQuery",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "EtsQuery",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#EtsQuery",
-        "fct-type": "function",
-        "title": "EtsQuery"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "EtsQuery",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Ets Query",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:endpoint",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "ETSEndpoint -\u003e ByteString",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#endpoint",
-        "fct-type": "function",
-        "title": "endpoint"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "endpoint",
-        "normalized": "ETSEndpoint-\u003eByteString",
-        "package": "aws-elastic-transcoder",
-        "partial": "",
-        "signature": "ETSEndpoint-\u003eByteString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsConfiguration",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Protocol -\u003e ETSEndpoint -\u003e EtsConfiguration qt",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#etsConfiguration",
-        "fct-type": "function",
-        "title": "etsConfiguration"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "etsConfiguration",
-        "normalized": "Protocol-\u003eETSEndpoint-\u003eEtsConfiguration a",
-        "package": "aws-elastic-transcoder",
-        "partial": "Configuration",
-        "signature": "Protocol-\u003eETSEndpoint-\u003eEtsConfiguration qt"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsDefaultExpiry",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "NominalDiffTime",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#EtsConfiguration",
-        "fct-type": "function",
-        "title": "etsDefaultExpiry"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "etsDefaultExpiry",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Default Expiry",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsEndpoint",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "ETSEndpoint",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#EtsConfiguration",
-        "fct-type": "function",
-        "title": "etsEndpoint"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "etsEndpoint",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Endpoint",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsEndpointApNorthEast",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "ETSEndpoint",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#etsEndpointApNorthEast",
-        "fct-type": "function",
-        "title": "etsEndpointApNorthEast"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "etsEndpointApNorthEast",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Endpoint Ap North East",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsEndpointApSouthEast",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "ETSEndpoint",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#etsEndpointApSouthEast",
-        "fct-type": "function",
-        "title": "etsEndpointApSouthEast"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "etsEndpointApSouthEast",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Endpoint Ap South East",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsEndpointEu",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "ETSEndpoint",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#etsEndpointEu",
-        "fct-type": "function",
-        "title": "etsEndpointEu"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "etsEndpointEu",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Endpoint Eu",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsEndpointUsEast",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "ETSEndpoint",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#etsEndpointUsEast",
-        "fct-type": "function",
-        "title": "etsEndpointUsEast"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "etsEndpointUsEast",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Endpoint Us East",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsEndpointUsWest",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "ETSEndpoint",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#etsEndpointUsWest",
-        "fct-type": "function",
-        "title": "etsEndpointUsWest"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "etsEndpointUsWest",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Endpoint Us West",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsEndpointUsWest2",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "ETSEndpoint",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#etsEndpointUsWest2",
-        "fct-type": "function",
-        "title": "etsEndpointUsWest2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "etsEndpointUsWest2",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Endpoint Us West",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsErrorMessage",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Text",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#EtsError",
-        "fct-type": "function",
-        "title": "etsErrorMessage"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "etsErrorMessage",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Error Message",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsMAmzId2",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Maybe Text",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#EtsMetadata",
-        "fct-type": "function",
-        "title": "etsMAmzId2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "etsMAmzId2",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "MAmz Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsMRequestId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Maybe Text",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#EtsMetadata",
-        "fct-type": "function",
-        "title": "etsMRequestId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "etsMRequestId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "MRequest Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsPort",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Int",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#EtsConfiguration",
-        "fct-type": "function",
-        "title": "etsPort"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "etsPort",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Port",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsProtocol",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Protocol",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#EtsConfiguration",
-        "fct-type": "function",
-        "title": "etsProtocol"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "etsProtocol",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Protocol",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsResponseConsumer",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "IORef EtsMetadata -\u003e HTTPResponseConsumer a -\u003e HTTPResponseConsumer a",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#etsResponseConsumer",
-        "fct-type": "function",
-        "title": "etsResponseConsumer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "etsResponseConsumer",
-        "normalized": "IORef EtsMetadata-\u003eHTTPResponseConsumer a-\u003eHTTPResponseConsumer a",
-        "package": "aws-elastic-transcoder",
-        "partial": "Response Consumer",
-        "signature": "IORef EtsMetadata-\u003eHTTPResponseConsumer a-\u003eHTTPResponseConsumer a"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsSignQuery",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "EtsQuery -\u003e EtsConfiguration qt -\u003e SignatureData -\u003e SignedQuery",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#etsSignQuery",
-        "fct-type": "function",
-        "title": "etsSignQuery"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "etsSignQuery",
-        "normalized": "EtsQuery-\u003eEtsConfiguration a-\u003eSignatureData-\u003eSignedQuery",
-        "package": "aws-elastic-transcoder",
-        "partial": "Sign Query",
-        "signature": "EtsQuery-\u003eEtsConfiguration qt-\u003eSignatureData-\u003eSignedQuery"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsStatusCode",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Status",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#EtsError",
-        "fct-type": "function",
-        "title": "etsStatusCode"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "etsStatusCode",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Status Code",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsqBody",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Maybe Value",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#EtsQuery",
-        "fct-type": "function",
-        "title": "etsqBody"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "etsqBody",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Body",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsqMethod",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Method",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#EtsQuery",
-        "fct-type": "function",
-        "title": "etsqMethod"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "etsqMethod",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Method",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsqQuery",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Query",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#EtsQuery",
-        "fct-type": "function",
-        "title": "etsqQuery"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "etsqQuery",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Query",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsqRequest",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Text",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#EtsQuery",
-        "fct-type": "function",
-        "title": "etsqRequest"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "etsqRequest",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Request",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:jsonConsumer",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "HTTPResponseConsumer a",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#jsonConsumer",
-        "fct-type": "function",
-        "title": "jsonConsumer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "jsonConsumer",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Consumer",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:region",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Core",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "ETSEndpoint -\u003e ByteString",
-        "fct-source": "src/Aws-ElasticTranscoder-Core.html#region",
-        "fct-type": "function",
-        "title": "region"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Core",
-        "module": "Aws.ElasticTranscoder.Core",
-        "name": "region",
-        "normalized": "ETSEndpoint-\u003eByteString",
-        "package": "aws-elastic-transcoder",
-        "partial": "",
-        "signature": "ETSEndpoint-\u003eByteString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "module",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html",
-        "fct-type": "module",
-        "title": "Types"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Types",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Types",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:AspectRatio",
-      "description": {
-        "fct-descr": "\u003cp\u003eInput Aspect Ratio\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#AspectRatio",
-        "fct-type": "data",
-        "title": "AspectRatio"
-      },
-      "index": {
-        "description": "Input Aspect Ratio",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "AspectRatio",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Aspect Ratio",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:Audio",
-      "description": {
-        "fct-descr": "\u003cp\u003eAudio\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Audio",
-        "fct-type": "data",
-        "title": "Audio"
-      },
-      "index": {
-        "description": "Audio",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Audio",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Audio",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:AudioCodec",
-      "description": {
-        "fct-descr": "\u003cp\u003eAudioCodec\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#AudioCodec",
-        "fct-type": "data",
-        "title": "AudioCodec"
-      },
-      "index": {
-        "description": "AudioCodec",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "AudioCodec",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Audio Codec",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:AutoBool",
-      "description": {
-        "fct-descr": "\u003cp\u003e\u003ccode\u003eauto\u003c/code\u003e, \u003ccode\u003etrue\u003c/code\u003e or \u003ccode\u003efalse\u003c/code\u003e\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#AutoBool",
-        "fct-type": "data",
-        "title": "AutoBool"
-      },
-      "index": {
-        "description": "auto true or false",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "AutoBool",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Auto Bool",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:BitRate",
-      "description": {
-        "fct-descr": "\u003cp\u003eBitRate\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "newtype",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#BitRate",
-        "fct-type": "newtype",
-        "title": "BitRate"
-      },
-      "index": {
-        "description": "BitRate",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "BitRate",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Bit Rate",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:Channels",
-      "description": {
-        "fct-descr": "\u003cp\u003eChannels\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Channels",
-        "fct-type": "data",
-        "title": "Channels"
-      },
-      "index": {
-        "description": "Channels",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Channels",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Channels",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:CodecOptions",
-      "description": {
-        "fct-descr": "\u003cp\u003eCodecOptions\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#CodecOptions",
-        "fct-type": "data",
-        "title": "CodecOptions"
-      },
-      "index": {
-        "description": "CodecOptions",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "CodecOptions",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Codec Options",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:Container",
-      "description": {
-        "fct-descr": "\u003cp\u003eInput Container Type\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
-        "fct-type": "data",
-        "title": "Container"
-      },
-      "index": {
-        "description": "Input Container Type",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Container",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Container",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:EtsServiceError",
-      "description": {
-        "fct-descr": "\u003cp\u003eEts error message\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "newtype",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#EtsServiceError",
-        "fct-type": "newtype",
-        "title": "EtsServiceError"
-      },
-      "index": {
-        "description": "Ets error message",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "EtsServiceError",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Ets Service Error",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:FixedGOP",
-      "description": {
-        "fct-descr": "\u003cp\u003eFixedGOP\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "newtype",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#FixedGOP",
-        "fct-type": "newtype",
-        "title": "FixedGOP"
-      },
-      "index": {
-        "description": "FixedGOP",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "FixedGOP",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Fixed GOP",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:FrameRate",
-      "description": {
-        "fct-descr": "\u003cp\u003eInput Frame Rate\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#FrameRate",
-        "fct-type": "data",
-        "title": "FrameRate"
-      },
-      "index": {
-        "description": "Input Frame Rate",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "FrameRate",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Frame Rate",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:IAMRole",
-      "description": {
-        "fct-descr": "\u003cp\u003eIAM Role represented by Yext\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "type",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#IAMRole",
-        "fct-type": "type",
-        "title": "IAMRole"
-      },
-      "index": {
-        "description": "IAM Role represented by Yext",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "IAMRole",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "IAMRole",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:Interval",
-      "description": {
-        "fct-descr": "\u003cp\u003eInterval\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "newtype",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Interval",
-        "fct-type": "newtype",
-        "title": "Interval"
-      },
-      "index": {
-        "description": "Interval",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Interval",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Interval",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:JSInput",
-      "description": {
-        "fct-descr": "\u003cp\u003eJob Input Parameters\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JSInput",
-        "fct-type": "data",
-        "title": "JSInput"
-      },
-      "index": {
-        "description": "Job Input Parameters",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "JSInput",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "JSInput",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:JSOutput",
-      "description": {
-        "fct-descr": "\u003cp\u003eJob Output Parameters\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JSOutput",
-        "fct-type": "data",
-        "title": "JSOutput"
-      },
-      "index": {
-        "description": "Job Output Parameters",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "JSOutput",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "JSOutput",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:JSOutputStatus",
-      "description": {
-        "fct-descr": "\u003cp\u003eJob Output Parameters with Status\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JSOutputStatus",
-        "fct-type": "data",
-        "title": "JSOutputStatus"
-      },
-      "index": {
-        "description": "Job Output Parameters with Status",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "JSOutputStatus",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "JSOutput Status",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:JobId",
-      "description": {
-        "fct-descr": "\u003cp\u003eJob Identifiers\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "newtype",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JobId",
-        "fct-type": "newtype",
-        "title": "JobId"
-      },
-      "index": {
-        "description": "Job Identifiers",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "JobId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Job Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:JobList",
-      "description": {
-        "fct-descr": "\u003cp\u003eJob List\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JobList",
-        "fct-type": "data",
-        "title": "JobList"
-      },
-      "index": {
-        "description": "Job List",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "JobList",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Job List",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:JobSingle",
-      "description": {
-        "fct-descr": "\u003cp\u003eJob Single\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "newtype",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JobSingle",
-        "fct-type": "newtype",
-        "title": "JobSingle"
-      },
-      "index": {
-        "description": "Job Single",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "JobSingle",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Job Single",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:JobSpec",
-      "description": {
-        "fct-descr": "\u003cp\u003eJob Specifications\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JobSpec",
-        "fct-type": "data",
-        "title": "JobSpec"
-      },
-      "index": {
-        "description": "Job Specifications",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "JobSpec",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Job Spec",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:JobSpecId",
-      "description": {
-        "fct-descr": "\u003cp\u003eJob Specifications with JobId & Status\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JobSpecId",
-        "fct-type": "data",
-        "title": "JobSpecId"
-      },
-      "index": {
-        "description": "Job Specifications with JobId Status",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "JobSpecId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Job Spec Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:KeyFrameRate",
-      "description": {
-        "fct-descr": "\u003cp\u003eKeyFrameRate\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "newtype",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#KeyFrameRate",
-        "fct-type": "newtype",
-        "title": "KeyFrameRate"
-      },
-      "index": {
-        "description": "KeyFrameRate",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "KeyFrameRate",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Key Frame Rate",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:Level",
-      "description": {
-        "fct-descr": "\u003cp\u003eLevel\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Level",
-        "fct-type": "data",
-        "title": "Level"
-      },
-      "index": {
-        "description": "Level",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Level",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Level",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:MessagesSuccess",
-      "description": {
-        "fct-descr": "\u003cp\u003eMessagesSuccess\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#MessagesSuccess",
-        "fct-type": "data",
-        "title": "MessagesSuccess"
-      },
-      "index": {
-        "description": "MessagesSuccess",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "MessagesSuccess",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Messages Success",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:Notifications",
-      "description": {
-        "fct-descr": "\u003cp\u003eNotifications\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Notifications",
-        "fct-type": "data",
-        "title": "Notifications"
-      },
-      "index": {
-        "description": "Notifications",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Notifications",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Notifications",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:PageToken",
-      "description": {
-        "fct-descr": "\u003cp\u003ePage Tokens\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "newtype",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PageToken",
-        "fct-type": "newtype",
-        "title": "PageToken"
-      },
-      "index": {
-        "description": "Page Tokens",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "PageToken",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Page Token",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:Pipeline",
-      "description": {
-        "fct-descr": "\u003cp\u003ePipeline\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Pipeline",
-        "fct-type": "data",
-        "title": "Pipeline"
-      },
-      "index": {
-        "description": "Pipeline",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Pipeline",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pipeline",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:PipelineId",
-      "description": {
-        "fct-descr": "\u003cp\u003ePipelineId\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "newtype",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineId",
-        "fct-type": "newtype",
-        "title": "PipelineId"
-      },
-      "index": {
-        "description": "PipelineId",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "PipelineId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pipeline Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:PipelineIdAndNotifications",
-      "description": {
-        "fct-descr": "\u003cp\u003ePipelineIdAndNotifications\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdAndNotifications",
-        "fct-type": "data",
-        "title": "PipelineIdAndNotifications"
-      },
-      "index": {
-        "description": "PipelineIdAndNotifications",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "PipelineIdAndNotifications",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pipeline Id And Notifications",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:PipelineIdAndStatus",
-      "description": {
-        "fct-descr": "\u003cp\u003ePipelineIdAndStatus\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdAndStatus",
-        "fct-type": "data",
-        "title": "PipelineIdAndStatus"
-      },
-      "index": {
-        "description": "PipelineIdAndStatus",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "PipelineIdAndStatus",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pipeline Id And Status",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:PipelineIdStatus",
-      "description": {
-        "fct-descr": "\u003cp\u003ePipelineIdStatus\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdStatus",
-        "fct-type": "data",
-        "title": "PipelineIdStatus"
-      },
-      "index": {
-        "description": "PipelineIdStatus",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "PipelineIdStatus",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pipeline Id Status",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:PipelineList",
-      "description": {
-        "fct-descr": "\u003cp\u003ePipeline List\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineList",
-        "fct-type": "data",
-        "title": "PipelineList"
-      },
-      "index": {
-        "description": "Pipeline List",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "PipelineList",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pipeline List",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:PipelineName",
-      "description": {
-        "fct-descr": "\u003cp\u003ePipelineName\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "newtype",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineName",
-        "fct-type": "newtype",
-        "title": "PipelineName"
-      },
-      "index": {
-        "description": "PipelineName",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "PipelineName",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pipeline Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:PipelineSingle",
-      "description": {
-        "fct-descr": "\u003cp\u003ePipeline Single\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "newtype",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineSingle",
-        "fct-type": "newtype",
-        "title": "PipelineSingle"
-      },
-      "index": {
-        "description": "Pipeline Single",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "PipelineSingle",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pipeline Single",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:PipelineStatus",
-      "description": {
-        "fct-descr": "\u003cp\u003ePipelineStatus\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "type",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineStatus",
-        "fct-type": "type",
-        "title": "PipelineStatus"
-      },
-      "index": {
-        "description": "PipelineStatus",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "PipelineStatus",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pipeline Status",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:Preset",
-      "description": {
-        "fct-descr": "\u003cp\u003ePreset\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Preset",
-        "fct-type": "data",
-        "title": "Preset"
-      },
-      "index": {
-        "description": "Preset",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Preset",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Preset",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:PresetId",
-      "description": {
-        "fct-descr": "\u003cp\u003ePreset Identifiers\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "newtype",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetId",
-        "fct-type": "newtype",
-        "title": "PresetId"
-      },
-      "index": {
-        "description": "Preset Identifiers",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "PresetId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Preset Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:PresetList",
-      "description": {
-        "fct-descr": "\u003cp\u003ePresetList\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetList",
-        "fct-type": "data",
-        "title": "PresetList"
-      },
-      "index": {
-        "description": "PresetList",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "PresetList",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Preset List",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:PresetName",
-      "description": {
-        "fct-descr": "\u003cp\u003ePresetName\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "newtype",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetName",
-        "fct-type": "newtype",
-        "title": "PresetName"
-      },
-      "index": {
-        "description": "PresetName",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "PresetName",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Preset Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:PresetResponse",
-      "description": {
-        "fct-descr": "\u003cp\u003ePresetResponse\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetResponse",
-        "fct-type": "data",
-        "title": "PresetResponse"
-      },
-      "index": {
-        "description": "PresetResponse",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "PresetResponse",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Preset Response",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:PresetSingle",
-      "description": {
-        "fct-descr": "\u003cp\u003ePresetSingle\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "newtype",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetSingle",
-        "fct-type": "newtype",
-        "title": "PresetSingle"
-      },
-      "index": {
-        "description": "PresetSingle",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "PresetSingle",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Preset Single",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:PresetType",
-      "description": {
-        "fct-descr": "\u003cp\u003ePresetType\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetType",
-        "fct-type": "data",
-        "title": "PresetType"
-      },
-      "index": {
-        "description": "PresetType",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "PresetType",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Preset Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:Profile",
-      "description": {
-        "fct-descr": "\u003cp\u003eProfile\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Profile",
-        "fct-type": "data",
-        "title": "Profile"
-      },
-      "index": {
-        "description": "Profile",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Profile",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Profile",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:Resolution",
-      "description": {
-        "fct-descr": "\u003cp\u003eInput Resolution\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Resolution",
-        "fct-type": "data",
-        "title": "Resolution"
-      },
-      "index": {
-        "description": "Input Resolution",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Resolution",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Resolution",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:RoleTest",
-      "description": {
-        "fct-descr": "\u003cp\u003eRoleTest\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#RoleTest",
-        "fct-type": "data",
-        "title": "RoleTest"
-      },
-      "index": {
-        "description": "RoleTest",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "RoleTest",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Role Test",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:Rotate",
-      "description": {
-        "fct-descr": "\u003cp\u003eOutput Rotation\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Rotate",
-        "fct-type": "data",
-        "title": "Rotate"
-      },
-      "index": {
-        "description": "Output Rotation",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Rotate",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Rotate",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:S3Object",
-      "description": {
-        "fct-descr": "\u003cp\u003eAws.S3 uses Text for object keys\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "type",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#S3Object",
-        "fct-type": "type",
-        "title": "S3Object"
-      },
-      "index": {
-        "description": "Aws.S3 uses Text for object keys",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "S3Object",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Object",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:SNSTopic",
-      "description": {
-        "fct-descr": "\u003cp\u003eSNS Topics represented by Text values\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "type",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#SNSTopic",
-        "fct-type": "type",
-        "title": "SNSTopic"
-      },
-      "index": {
-        "description": "SNS Topics represented by Text values",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "SNSTopic",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "SNSTopic",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:SUCCESS",
-      "description": {
-        "fct-descr": "\u003cp\u003e\u003ccode\u003esuccess\u003c/code\u003e\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "newtype",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#SUCCESS",
-        "fct-type": "newtype",
-        "title": "SUCCESS"
-      },
-      "index": {
-        "description": "success",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "SUCCESS",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "SUCCESS",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:SampleRate",
-      "description": {
-        "fct-descr": "\u003cp\u003eSampleRate\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#SampleRate",
-        "fct-type": "data",
-        "title": "SampleRate"
-      },
-      "index": {
-        "description": "SampleRate",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "SampleRate",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Sample Rate",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:Status",
-      "description": {
-        "fct-descr": "\u003cp\u003eJob Status\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Status",
-        "fct-type": "data",
-        "title": "Status"
-      },
-      "index": {
-        "description": "Job Status",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Status",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Status",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:TextOrNull",
-      "description": {
-        "fct-descr": "\u003cp\u003eText or Null\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#TextOrNull",
-        "fct-type": "data",
-        "title": "TextOrNull"
-      },
-      "index": {
-        "description": "Text or Null",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "TextOrNull",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Text Or Null",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:ThumbnailFormat",
-      "description": {
-        "fct-descr": "\u003cp\u003eThumbnailFormat\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#ThumbnailFormat",
-        "fct-type": "data",
-        "title": "ThumbnailFormat"
-      },
-      "index": {
-        "description": "ThumbnailFormat",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "ThumbnailFormat",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Thumbnail Format",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:Thumbnails",
-      "description": {
-        "fct-descr": "\u003cp\u003eThumbnails\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Thumbnails",
-        "fct-type": "data",
-        "title": "Thumbnails"
-      },
-      "index": {
-        "description": "Thumbnails",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Thumbnails",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Thumbnails",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:Video",
-      "description": {
-        "fct-descr": "\u003cp\u003eVideo\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Video",
-        "fct-type": "data",
-        "title": "Video"
-      },
-      "index": {
-        "description": "Video",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Video",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Video",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:VideoCodec",
-      "description": {
-        "fct-descr": "\u003cp\u003eVideoCodec\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "data",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#VideoCodec",
-        "fct-type": "data",
-        "title": "VideoCodec"
-      },
-      "index": {
-        "description": "VideoCodec",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "VideoCodec",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Video Codec",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:ABauto",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "ABauto",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#AutoBool",
-        "fct-type": "function",
-        "title": "ABauto"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "ABauto",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "ABauto",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:ABfalse",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "ABfalse",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#AutoBool",
-        "fct-type": "function",
-        "title": "ABfalse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "ABfalse",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "ABfalse",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:ABtrue",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "ABtrue",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#AutoBool",
-        "fct-type": "function",
-        "title": "ABtrue"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "ABtrue",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "ABtrue",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:AC_AAC",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "AC_AAC",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#AudioCodec",
-        "fct-type": "function",
-        "title": "AC_AAC"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "AC_AAC",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "AC AAC",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:AR16_9",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "AR16_9",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#AspectRatio",
-        "fct-type": "function",
-        "title": "AR16_9"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "AR16_9",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "AR",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:AR1_1",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "AR1_1",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#AspectRatio",
-        "fct-type": "function",
-        "title": "AR1_1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "AR1_1",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "AR",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:AR3_2",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "AR3_2",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#AspectRatio",
-        "fct-type": "function",
-        "title": "AR3_2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "AR3_2",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "AR",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:AR4_3",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "AR4_3",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#AspectRatio",
-        "fct-type": "function",
-        "title": "AR4_3"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "AR4_3",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "AR",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:ARauto",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "ARauto",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#AspectRatio",
-        "fct-type": "function",
-        "title": "ARauto"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "ARauto",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "ARauto",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Audio",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Audio",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Audio",
-        "fct-type": "function",
-        "title": "Audio"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Audio",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Audio",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:C3gp",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "C3gp",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
-        "fct-type": "function",
-        "title": "C3gp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "C3gp",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Casf",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Casf",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
-        "fct-type": "function",
-        "title": "Casf"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Casf",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Casf",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Cauto",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Cauto",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
-        "fct-type": "function",
-        "title": "Cauto"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Cauto",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Cauto",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Cavi",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Cavi",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
-        "fct-type": "function",
-        "title": "Cavi"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Cavi",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Cavi",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Cdivx",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Cdivx",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
-        "fct-type": "function",
-        "title": "Cdivx"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Cdivx",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Cdivx",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Cflv",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Cflv",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
-        "fct-type": "function",
-        "title": "Cflv"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Cflv",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Cflv",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Chs_0",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Chs_0",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Channels",
-        "fct-type": "function",
-        "title": "Chs_0"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Chs_0",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Chs",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Chs_1",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Chs_1",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Channels",
-        "fct-type": "function",
-        "title": "Chs_1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Chs_1",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Chs",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Chs_2",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Chs_2",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Channels",
-        "fct-type": "function",
-        "title": "Chs_2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Chs_2",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Chs",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Chs_auto",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Chs_auto",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Channels",
-        "fct-type": "function",
-        "title": "Chs_auto"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Chs_auto",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Chs",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Cmkv",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Cmkv",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
-        "fct-type": "function",
-        "title": "Cmkv"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Cmkv",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Cmkv",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Cmov",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Cmov",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
-        "fct-type": "function",
-        "title": "Cmov"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Cmov",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Cmov",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Cmp4",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Cmp4",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
-        "fct-type": "function",
-        "title": "Cmp4"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Cmp4",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Cmp",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Cmpeg",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Cmpeg",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
-        "fct-type": "function",
-        "title": "Cmpeg"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Cmpeg",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Cmpeg",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Cmpeg_ps",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Cmpeg_ps",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
-        "fct-type": "function",
-        "title": "Cmpeg_ps"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Cmpeg_ps",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Cmpeg",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Cmpeg_ts",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Cmpeg_ts",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
-        "fct-type": "function",
-        "title": "Cmpeg_ts"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Cmpeg_ts",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Cmpeg",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Cmxf",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Cmxf",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
-        "fct-type": "function",
-        "title": "Cmxf"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Cmxf",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Cmxf",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:CodecOptions",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "CodecOptions",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#CodecOptions",
-        "fct-type": "function",
-        "title": "CodecOptions"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "CodecOptions",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Codec Options",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Cogg",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Cogg",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
-        "fct-type": "function",
-        "title": "Cogg"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Cogg",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Cogg",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Cvob",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Cvob",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
-        "fct-type": "function",
-        "title": "Cvob"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Cvob",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Cvob",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Cwav",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Cwav",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
-        "fct-type": "function",
-        "title": "Cwav"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Cwav",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Cwav",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Cwebm",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Cwebm",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
-        "fct-type": "function",
-        "title": "Cwebm"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Cwebm",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Cwebm",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:ESE",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "ESE",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#EtsServiceError",
-        "fct-type": "function",
-        "title": "ESE"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "ESE",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "ESE",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:FR10",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "FR10",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#FrameRate",
-        "fct-type": "function",
-        "title": "FR10"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "FR10",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "FR",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:FR15",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "FR15",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#FrameRate",
-        "fct-type": "function",
-        "title": "FR15"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "FR15",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "FR",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:FR23_97",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "FR23_97",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#FrameRate",
-        "fct-type": "function",
-        "title": "FR23_97"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "FR23_97",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "FR",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:FR24",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "FR24",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#FrameRate",
-        "fct-type": "function",
-        "title": "FR24"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "FR24",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "FR",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:FR25",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "FR25",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#FrameRate",
-        "fct-type": "function",
-        "title": "FR25"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "FR25",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "FR",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:FR29_97",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "FR29_97",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#FrameRate",
-        "fct-type": "function",
-        "title": "FR29_97"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "FR29_97",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "FR",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:FR30",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "FR30",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#FrameRate",
-        "fct-type": "function",
-        "title": "FR30"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "FR30",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "FR",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:FR60",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "FR60",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#FrameRate",
-        "fct-type": "function",
-        "title": "FR60"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "FR60",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "FR",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:FRauto",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "FRauto",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#FrameRate",
-        "fct-type": "function",
-        "title": "FRauto"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "FRauto",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "FRauto",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:FixedGOP",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "FixedGOP",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#FixedGOP",
-        "fct-type": "function",
-        "title": "FixedGOP"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "FixedGOP",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Fixed GOP",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Interval",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Interval",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Interval",
-        "fct-type": "function",
-        "title": "Interval"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Interval",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Interval",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:JSInput",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "JSInput",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JSInput",
-        "fct-type": "function",
-        "title": "JSInput"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "JSInput",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "JSInput",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:JSOutput",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "JSOutput",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JSOutput",
-        "fct-type": "function",
-        "title": "JSOutput"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "JSOutput",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "JSOutput",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:JSOutputStatus",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "JSOutputStatus",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JSOutputStatus",
-        "fct-type": "function",
-        "title": "JSOutputStatus"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "JSOutputStatus",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "JSOutput Status",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:JobId",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "JobId",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JobId",
-        "fct-type": "function",
-        "title": "JobId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "JobId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Job Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:JobList",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "JobList",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JobList",
-        "fct-type": "function",
-        "title": "JobList"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "JobList",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Job List",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:JobSingle",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "JobSingle",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JobSingle",
-        "fct-type": "function",
-        "title": "JobSingle"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "JobSingle",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Job Single",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:JobSpec",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "JobSpec",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JobSpec",
-        "fct-type": "function",
-        "title": "JobSpec"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "JobSpec",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Job Spec",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:JobSpecId",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "JobSpecId",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JobSpecId",
-        "fct-type": "function",
-        "title": "JobSpecId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "JobSpecId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Job Spec Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:KbPerSec",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "KbPerSec",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#BitRate",
-        "fct-type": "function",
-        "title": "KbPerSec"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "KbPerSec",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Kb Per Sec",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:KeyFrameRate",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "KeyFrameRate",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#KeyFrameRate",
-        "fct-type": "function",
-        "title": "KeyFrameRate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "KeyFrameRate",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Key Frame Rate",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Lv_1",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Lv_1",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Level",
-        "fct-type": "function",
-        "title": "Lv_1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Lv_1",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Lv",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Lv_1_1",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Lv_1_1",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Level",
-        "fct-type": "function",
-        "title": "Lv_1_1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Lv_1_1",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Lv",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Lv_1_2",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Lv_1_2",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Level",
-        "fct-type": "function",
-        "title": "Lv_1_2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Lv_1_2",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Lv",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Lv_1_3",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Lv_1_3",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Level",
-        "fct-type": "function",
-        "title": "Lv_1_3"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Lv_1_3",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Lv",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Lv_1b",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Lv_1b",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Level",
-        "fct-type": "function",
-        "title": "Lv_1b"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Lv_1b",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Lv",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Lv_2",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Lv_2",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Level",
-        "fct-type": "function",
-        "title": "Lv_2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Lv_2",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Lv",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Lv_2_1",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Lv_2_1",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Level",
-        "fct-type": "function",
-        "title": "Lv_2_1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Lv_2_1",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Lv",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Lv_2_2",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Lv_2_2",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Level",
-        "fct-type": "function",
-        "title": "Lv_2_2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Lv_2_2",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Lv",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Lv_3",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Lv_3",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Level",
-        "fct-type": "function",
-        "title": "Lv_3"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Lv_3",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Lv",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Lv_3_1",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Lv_3_1",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Level",
-        "fct-type": "function",
-        "title": "Lv_3_1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Lv_3_1",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Lv",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Lv_3_2",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Lv_3_2",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Level",
-        "fct-type": "function",
-        "title": "Lv_3_2"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Lv_3_2",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Lv",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Lv_4",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Lv_4",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Level",
-        "fct-type": "function",
-        "title": "Lv_4"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Lv_4",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Lv",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Lv_4_1",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Lv_4_1",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Level",
-        "fct-type": "function",
-        "title": "Lv_4_1"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Lv_4_1",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Lv",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:MessagesSuccess",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "MessagesSuccess",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#MessagesSuccess",
-        "fct-type": "function",
-        "title": "MessagesSuccess"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "MessagesSuccess",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Messages Success",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Notifications",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Notifications",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Notifications",
-        "fct-type": "function",
-        "title": "Notifications"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Notifications",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Notifications",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:PTcustom",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PTcustom",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetType",
-        "fct-type": "function",
-        "title": "PTcustom"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "PTcustom",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "PTcustom",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:PTsystem",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PTsystem",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetType",
-        "fct-type": "function",
-        "title": "PTsystem"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "PTsystem",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "PTsystem",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:PageToken",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PageToken",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PageToken",
-        "fct-type": "function",
-        "title": "PageToken"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "PageToken",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Page Token",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Pipeline",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Pipeline",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Pipeline",
-        "fct-type": "function",
-        "title": "Pipeline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Pipeline",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pipeline",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:PipelineId",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineId",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineId",
-        "fct-type": "function",
-        "title": "PipelineId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "PipelineId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pipeline Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:PipelineIdAndNotifications",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineIdAndNotifications",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdAndNotifications",
-        "fct-type": "function",
-        "title": "PipelineIdAndNotifications"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "PipelineIdAndNotifications",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pipeline Id And Notifications",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:PipelineIdAndStatus",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineIdAndStatus",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdAndStatus",
-        "fct-type": "function",
-        "title": "PipelineIdAndStatus"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "PipelineIdAndStatus",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pipeline Id And Status",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:PipelineIdStatus",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineIdStatus",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdStatus",
-        "fct-type": "function",
-        "title": "PipelineIdStatus"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "PipelineIdStatus",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pipeline Id Status",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:PipelineList",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineList",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineList",
-        "fct-type": "function",
-        "title": "PipelineList"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "PipelineList",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pipeline List",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:PipelineName",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineName",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineName",
-        "fct-type": "function",
-        "title": "PipelineName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "PipelineName",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pipeline Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:PipelineSingle",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineSingle",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineSingle",
-        "fct-type": "function",
-        "title": "PipelineSingle"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "PipelineSingle",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pipeline Single",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Pr_baseline",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Pr_baseline",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Profile",
-        "fct-type": "function",
-        "title": "Pr_baseline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Pr_baseline",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Pr_high",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Pr_high",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Profile",
-        "fct-type": "function",
-        "title": "Pr_high"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Pr_high",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Pr_main",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Pr_main",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Profile",
-        "fct-type": "function",
-        "title": "Pr_main"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Pr_main",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Preset",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Preset",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Preset",
-        "fct-type": "function",
-        "title": "Preset"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Preset",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Preset",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:PresetId",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PresetId",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetId",
-        "fct-type": "function",
-        "title": "PresetId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "PresetId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Preset Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:PresetList",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PresetList",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetList",
-        "fct-type": "function",
-        "title": "PresetList"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "PresetList",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Preset List",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:PresetName",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PresetName",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetName",
-        "fct-type": "function",
-        "title": "PresetName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "PresetName",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Preset Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:PresetResponse",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PresetResponse",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetResponse",
-        "fct-type": "function",
-        "title": "PresetResponse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "PresetResponse",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Preset Response",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:PresetSingle",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PresetSingle",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetSingle",
-        "fct-type": "function",
-        "title": "PresetSingle"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "PresetSingle",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Preset Single",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:ROT0",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "ROT0",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Rotate",
-        "fct-type": "function",
-        "title": "ROT0"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "ROT0",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "ROT",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:ROT180",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "ROT180",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Rotate",
-        "fct-type": "function",
-        "title": "ROT180"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "ROT180",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "ROT",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:ROT270",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "ROT270",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Rotate",
-        "fct-type": "function",
-        "title": "ROT270"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "ROT270",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "ROT",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:ROT90",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "ROT90",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Rotate",
-        "fct-type": "function",
-        "title": "ROT90"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "ROT90",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "ROT",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:ROTauto",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "ROTauto",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Rotate",
-        "fct-type": "function",
-        "title": "ROTauto"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "ROTauto",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "ROTauto",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Rauto",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Rauto",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Resolution",
-        "fct-type": "function",
-        "title": "Rauto"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Rauto",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Rauto",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:RoleTest",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "RoleTest",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#RoleTest",
-        "fct-type": "function",
-        "title": "RoleTest"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "RoleTest",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Role Test",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Rpixels",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Rpixels (Int, Int)",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Resolution",
-        "fct-type": "function",
-        "title": "Rpixels"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Rpixels",
-        "normalized": "Rpixels(Int,Int)",
-        "package": "aws-elastic-transcoder",
-        "partial": "Rpixels",
-        "signature": "Rpixels(Int,Int)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:SR22050",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "SR22050",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#SampleRate",
-        "fct-type": "function",
-        "title": "SR22050"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "SR22050",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "SR",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:SR32050",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "SR32050",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#SampleRate",
-        "fct-type": "function",
-        "title": "SR32050"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "SR32050",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "SR",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:SR44100",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "SR44100",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#SampleRate",
-        "fct-type": "function",
-        "title": "SR44100"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "SR44100",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "SR",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:SR48000",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "SR48000",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#SampleRate",
-        "fct-type": "function",
-        "title": "SR48000"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "SR48000",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "SR",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:SR96000",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "SR96000",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#SampleRate",
-        "fct-type": "function",
-        "title": "SR96000"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "SR96000",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "SR",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:SRauto",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "SRauto",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#SampleRate",
-        "fct-type": "function",
-        "title": "SRauto"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "SRauto",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "SRauto",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:STSCancelled",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "STSCancelled",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Status",
-        "fct-type": "function",
-        "title": "STSCancelled"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "STSCancelled",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "STSCancelled",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:STSComplete",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "STSComplete",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Status",
-        "fct-type": "function",
-        "title": "STSComplete"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "STSComplete",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "STSComplete",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:STSError",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "STSError",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Status",
-        "fct-type": "function",
-        "title": "STSError"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "STSError",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "STSError",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:STSProgressing",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "STSProgressing",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Status",
-        "fct-type": "function",
-        "title": "STSProgressing"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "STSProgressing",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "STSProgressing",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:STSSubmitted",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "STSSubmitted",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Status",
-        "fct-type": "function",
-        "title": "STSSubmitted"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "STSSubmitted",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "STSSubmitted",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:SUCCESS",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "SUCCESS",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#SUCCESS",
-        "fct-type": "function",
-        "title": "SUCCESS"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "SUCCESS",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "SUCCESS",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:TF_png",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "TF_png",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#ThumbnailFormat",
-        "fct-type": "function",
-        "title": "TF_png"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "TF_png",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "TF",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:TNNull",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "TNNull",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#TextOrNull",
-        "fct-type": "function",
-        "title": "TNNull"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "TNNull",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "TNNull",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:TNText",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "TNText Text",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#TextOrNull",
-        "fct-type": "function",
-        "title": "TNText"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "TNText",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "TNText",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Thumbnails",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Thumbnails",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Thumbnails",
-        "fct-type": "function",
-        "title": "Thumbnails"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Thumbnails",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Thumbnails",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:VC_H_264",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "VC_H_264",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#VideoCodec",
-        "fct-type": "function",
-        "title": "VC_H_264"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "VC_H_264",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "VC",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Video",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Video",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Video",
-        "fct-type": "function",
-        "title": "Video"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "Video",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Video",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:_ESE",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Text",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#EtsServiceError",
-        "fct-type": "function",
-        "title": "_ESE"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "_ESE",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "ESE",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:_FixedGOP",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Bool",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#FixedGOP",
-        "fct-type": "function",
-        "title": "_FixedGOP"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "_FixedGOP",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Fixed GOP",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:_Interval",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Int",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Interval",
-        "fct-type": "function",
-        "title": "_Interval"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "_Interval",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Interval",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:_JobId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Text",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JobId",
-        "fct-type": "function",
-        "title": "_JobId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "_JobId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Job Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:_KbPerSec",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Int",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#BitRate",
-        "fct-type": "function",
-        "title": "_KbPerSec"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "_KbPerSec",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Kb Per Sec",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:_KeyFrameRate",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Int",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#KeyFrameRate",
-        "fct-type": "function",
-        "title": "_KeyFrameRate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "_KeyFrameRate",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Key Frame Rate",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:_PageToken",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Text",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PageToken",
-        "fct-type": "function",
-        "title": "_PageToken"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "_PageToken",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Page Token",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:_PipelineId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Text",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineId",
-        "fct-type": "function",
-        "title": "_PipelineId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "_PipelineId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pipeline Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:_PipelineName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Text",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineName",
-        "fct-type": "function",
-        "title": "_PipelineName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "_PipelineName",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pipeline Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:_PresetId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Text",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetId",
-        "fct-type": "function",
-        "title": "_PresetId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "_PresetId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Preset Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:_PresetName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Text",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetName",
-        "fct-type": "function",
-        "title": "_PresetName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "_PresetName",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Preset Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:_SUCCESS",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Bool",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#SUCCESS",
-        "fct-type": "function",
-        "title": "_SUCCESS"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "_SUCCESS",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "SUCCESS",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:auBitRate",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "BitRate",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Audio",
-        "fct-type": "function",
-        "title": "auBitRate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "auBitRate",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Bit Rate",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:auChannels",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Channels",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Audio",
-        "fct-type": "function",
-        "title": "auChannels"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "auChannels",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Channels",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:auCodec",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "AudioCodec",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Audio",
-        "fct-type": "function",
-        "title": "auCodec"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "auCodec",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Codec",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:auSampleRate",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "SampleRate",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Audio",
-        "fct-type": "function",
-        "title": "auSampleRate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "auSampleRate",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Sample Rate",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:bool_t",
-      "description": {
-        "fct-descr": "\u003cp\u003e\u003ccode\u003etrue\u003c/code\u003e, \u003ccode\u003efalse\u003c/code\u003e\n\u003c/p\u003e",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Bool -\u003e Text",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#bool_t",
-        "fct-type": "function",
-        "title": "bool_t"
-      },
-      "index": {
-        "description": "true false",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "bool_t",
-        "normalized": "Bool-\u003eText",
-        "package": "aws-elastic-transcoder",
-        "partial": "",
-        "signature": "Bool-\u003eText"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:coLevel",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Level",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#CodecOptions",
-        "fct-type": "function",
-        "title": "coLevel"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "coLevel",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Level",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:coMaxReferenceFrames",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "MaxReferenceFrames",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#CodecOptions",
-        "fct-type": "function",
-        "title": "coMaxReferenceFrames"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "coMaxReferenceFrames",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Max Reference Frames",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:coProfile",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Profile",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#CodecOptions",
-        "fct-type": "function",
-        "title": "coProfile"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "coProfile",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Profile",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:emptySNSTopic",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "SNSTopic",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#emptySNSTopic",
-        "fct-type": "function",
-        "title": "emptySNSTopic"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "emptySNSTopic",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "SNSTopic",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jlJobs",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "[JobSpecId]",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JobList",
-        "fct-type": "function",
-        "title": "jlJobs"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "jlJobs",
-        "normalized": "[JobSpecId]",
-        "package": "aws-elastic-transcoder",
-        "partial": "Jobs",
-        "signature": "[JobSpecId]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jlNextPageToken",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "TextOrNull",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JobList",
-        "fct-type": "function",
-        "title": "jlNextPageToken"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "jlNextPageToken",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Next Page Token",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsInput",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "JSInput",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JobSpec",
-        "fct-type": "function",
-        "title": "jsInput"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "jsInput",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Input",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsJob",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "JobSpecId",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JobSingle",
-        "fct-type": "function",
-        "title": "jsJob"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "jsJob",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Job",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsOutput",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "JSOutput",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JobSpec",
-        "fct-type": "function",
-        "title": "jsOutput"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "jsOutput",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Output",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsPipelineId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineId",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JobSpec",
-        "fct-type": "function",
-        "title": "jsPipelineId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "jsPipelineId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pipeline Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsiAspectRatio",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "AspectRatio",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JSInput",
-        "fct-type": "function",
-        "title": "jsiAspectRatio"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "jsiAspectRatio",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Aspect Ratio",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsiContainer",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Container",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JSInput",
-        "fct-type": "function",
-        "title": "jsiContainer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "jsiContainer",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Container",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsiFrameRate",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "FrameRate",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JSInput",
-        "fct-type": "function",
-        "title": "jsiFrameRate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "jsiFrameRate",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Frame Rate",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsiId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "JobId",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JobSpecId",
-        "fct-type": "function",
-        "title": "jsiId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "jsiId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsiInput",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "JSInput",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JobSpecId",
-        "fct-type": "function",
-        "title": "jsiInput"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "jsiInput",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Input",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsiInterlaced",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "AutoBool",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JSInput",
-        "fct-type": "function",
-        "title": "jsiInterlaced"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "jsiInterlaced",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Interlaced",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsiKey",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "S3Object",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JSInput",
-        "fct-type": "function",
-        "title": "jsiKey"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "jsiKey",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsiOutput",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "JSOutputStatus",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JobSpecId",
-        "fct-type": "function",
-        "title": "jsiOutput"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "jsiOutput",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Output",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsiPipelineId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineId",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JobSpecId",
-        "fct-type": "function",
-        "title": "jsiPipelineId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "jsiPipelineId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pipeline Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsiResolution",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Resolution",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JSInput",
-        "fct-type": "function",
-        "title": "jsiResolution"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "jsiResolution",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Resolution",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsoKey",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "S3Object",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JSOutput",
-        "fct-type": "function",
-        "title": "jsoKey"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "jsoKey",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsoPresetId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PresetId",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JSOutput",
-        "fct-type": "function",
-        "title": "jsoPresetId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "jsoPresetId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Preset Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsoRotate",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Rotate",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JSOutput",
-        "fct-type": "function",
-        "title": "jsoRotate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "jsoRotate",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Rotate",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsoThumbnailPattern",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Text",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JSOutput",
-        "fct-type": "function",
-        "title": "jsoThumbnailPattern"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "jsoThumbnailPattern",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Thumbnail Pattern",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsosKey",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "S3Object",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JSOutputStatus",
-        "fct-type": "function",
-        "title": "jsosKey"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "jsosKey",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsosPresetId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PresetId",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JSOutputStatus",
-        "fct-type": "function",
-        "title": "jsosPresetId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "jsosPresetId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Preset Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsosRotate",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Rotate",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JSOutputStatus",
-        "fct-type": "function",
-        "title": "jsosRotate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "jsosRotate",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Rotate",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsosStatus",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Status",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JSOutputStatus",
-        "fct-type": "function",
-        "title": "jsosStatus"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "jsosStatus",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Status",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsosStatusDetail",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "TextOrNull",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JSOutputStatus",
-        "fct-type": "function",
-        "title": "jsosStatusDetail"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "jsosStatusDetail",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Status Detail",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsosThumbnailPattern",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Maybe Text",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#JSOutputStatus",
-        "fct-type": "function",
-        "title": "jsosThumbnailPattern"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "jsosThumbnailPattern",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Thumbnail Pattern",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:msMessages",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "[Text]",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#MessagesSuccess",
-        "fct-type": "function",
-        "title": "msMessages"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "msMessages",
-        "normalized": "[Text]",
-        "package": "aws-elastic-transcoder",
-        "partial": "Messages",
-        "signature": "[Text]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:msSuccess",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Bool",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#MessagesSuccess",
-        "fct-type": "function",
-        "title": "msSuccess"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "msSuccess",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Success",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:ntfCompleted",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "SNSTopic",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Notifications",
-        "fct-type": "function",
-        "title": "ntfCompleted"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "ntfCompleted",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Completed",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:ntfError",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "SNSTopic",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Notifications",
-        "fct-type": "function",
-        "title": "ntfError"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "ntfError",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Error",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:ntfProgressing",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "SNSTopic",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Notifications",
-        "fct-type": "function",
-        "title": "ntfProgressing"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "ntfProgressing",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Progressing",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:ntfWarning",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "SNSTopic",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Notifications",
-        "fct-type": "function",
-        "title": "ntfWarning"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "ntfWarning",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Warning",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:panId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineId",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdAndNotifications",
-        "fct-type": "function",
-        "title": "panId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "panId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:panNotifications",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Notifications",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdAndNotifications",
-        "fct-type": "function",
-        "title": "panNotifications"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "panNotifications",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Notifications",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:pasId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineId",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdAndStatus",
-        "fct-type": "function",
-        "title": "pasId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "pasId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:pasStatus",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineStatus",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdAndStatus",
-        "fct-type": "function",
-        "title": "pasStatus"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "pasStatus",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Status",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:pipelineStatusActive",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineStatus",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#pipelineStatusActive",
-        "fct-type": "function",
-        "title": "pipelineStatusActive"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "pipelineStatusActive",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Status Active",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:pipelineStatusPaused",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineStatus",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#pipelineStatusPaused",
-        "fct-type": "function",
-        "title": "pipelineStatusPaused"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "pipelineStatusPaused",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Status Paused",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:pisId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineId",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdStatus",
-        "fct-type": "function",
-        "title": "pisId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "pisId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:pisInputBucket",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "S3Object",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdStatus",
-        "fct-type": "function",
-        "title": "pisInputBucket"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "pisInputBucket",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Input Bucket",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:pisName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineName",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdStatus",
-        "fct-type": "function",
-        "title": "pisName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "pisName",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:pisNotifications",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Notifications",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdStatus",
-        "fct-type": "function",
-        "title": "pisNotifications"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "pisNotifications",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Notifications",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:pisOutputBucket",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "S3Object",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdStatus",
-        "fct-type": "function",
-        "title": "pisOutputBucket"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "pisOutputBucket",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Output Bucket",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:pisRole",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "IAMRole",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdStatus",
-        "fct-type": "function",
-        "title": "pisRole"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "pisRole",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Role",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:pisStatus",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineStatus",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdStatus",
-        "fct-type": "function",
-        "title": "pisStatus"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "pisStatus",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Status",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:plPipelines",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "[PipelineIdStatus]",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineList",
-        "fct-type": "function",
-        "title": "plPipelines"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "plPipelines",
-        "normalized": "[PipelineIdStatus]",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pipelines",
-        "signature": "[PipelineIdStatus]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:plPresets",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "[PresetResponse]",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetList",
-        "fct-type": "function",
-        "title": "plPresets"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "plPresets",
-        "normalized": "[PresetResponse]",
-        "package": "aws-elastic-transcoder",
-        "partial": "Presets",
-        "signature": "[PresetResponse]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:plnInputBucket",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "S3Object",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Pipeline",
-        "fct-type": "function",
-        "title": "plnInputBucket"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "plnInputBucket",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Input Bucket",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:plnName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineName",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Pipeline",
-        "fct-type": "function",
-        "title": "plnName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "plnName",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:plnNotifications",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Notifications",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Pipeline",
-        "fct-type": "function",
-        "title": "plnNotifications"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "plnNotifications",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Notifications",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:plnOutputBucket",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "S3Object",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Pipeline",
-        "fct-type": "function",
-        "title": "plnOutputBucket"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "plnOutputBucket",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Output Bucket",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:plnRole",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "IAMRole",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Pipeline",
-        "fct-type": "function",
-        "title": "plnRole"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "plnRole",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Role",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:prAudio",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Audio",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Preset",
-        "fct-type": "function",
-        "title": "prAudio"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "prAudio",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Audio",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:prContainer",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Container",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Preset",
-        "fct-type": "function",
-        "title": "prContainer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "prContainer",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Container",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:prDescription",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Text",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Preset",
-        "fct-type": "function",
-        "title": "prDescription"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "prDescription",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Description",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:prName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PresetName",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Preset",
-        "fct-type": "function",
-        "title": "prName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "prName",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:prThumbnails",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Thumbnails",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Preset",
-        "fct-type": "function",
-        "title": "prThumbnails"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "prThumbnails",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Thumbnails",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:prVideo",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Video",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Preset",
-        "fct-type": "function",
-        "title": "prVideo"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "prVideo",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Video",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:prrAudio",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Audio",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetResponse",
-        "fct-type": "function",
-        "title": "prrAudio"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "prrAudio",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Audio",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:prrContainer",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Container",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetResponse",
-        "fct-type": "function",
-        "title": "prrContainer"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "prrContainer",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Container",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:prrDescription",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Text",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetResponse",
-        "fct-type": "function",
-        "title": "prrDescription"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "prrDescription",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Description",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:prrId",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PresetId",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetResponse",
-        "fct-type": "function",
-        "title": "prrId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "prrId",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:prrName",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PresetName",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetResponse",
-        "fct-type": "function",
-        "title": "prrName"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "prrName",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:prrThumbnails",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Thumbnails",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetResponse",
-        "fct-type": "function",
-        "title": "prrThumbnails"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "prrThumbnails",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Thumbnails",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:prrType",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PresetType",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetResponse",
-        "fct-type": "function",
-        "title": "prrType"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "prrType",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:prrVideo",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Video",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetResponse",
-        "fct-type": "function",
-        "title": "prrVideo"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "prrVideo",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Video",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:prrWarning",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Text",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetResponse",
-        "fct-type": "function",
-        "title": "prrWarning"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "prrWarning",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Warning",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:psPipeline",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PipelineIdStatus",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineSingle",
-        "fct-type": "function",
-        "title": "psPipeline"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "psPipeline",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Pipeline",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:psPreset",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "PresetResponse",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetSingle",
-        "fct-type": "function",
-        "title": "psPreset"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "psPreset",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Preset",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:rtInputBucket",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "S3Object",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#RoleTest",
-        "fct-type": "function",
-        "title": "rtInputBucket"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "rtInputBucket",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Input Bucket",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:rtOutputBucket",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "S3Object",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#RoleTest",
-        "fct-type": "function",
-        "title": "rtOutputBucket"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "rtOutputBucket",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Output Bucket",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:rtRole",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "IAMRole",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#RoleTest",
-        "fct-type": "function",
-        "title": "rtRole"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "rtRole",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Role",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:rtTopics",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "[SNSTopic]",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#RoleTest",
-        "fct-type": "function",
-        "title": "rtTopics"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "rtTopics",
-        "normalized": "[SNSTopic]",
-        "package": "aws-elastic-transcoder",
-        "partial": "Topics",
-        "signature": "[SNSTopic]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:status_t",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Status -\u003e Text",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#status_t",
-        "fct-type": "function",
-        "title": "status_t"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "status_t",
-        "normalized": "Status-\u003eText",
-        "package": "aws-elastic-transcoder",
-        "partial": "",
-        "signature": "Status-\u003eText"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:thAspectRatio",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "AspectRatio",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Thumbnails",
-        "fct-type": "function",
-        "title": "thAspectRatio"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "thAspectRatio",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Aspect Ratio",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:thFormat",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "ThumbnailFormat",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Thumbnails",
-        "fct-type": "function",
-        "title": "thFormat"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "thFormat",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Format",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:thInterval",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Interval",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Thumbnails",
-        "fct-type": "function",
-        "title": "thInterval"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "thInterval",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Interval",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:thResolution",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Resolution",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Thumbnails",
-        "fct-type": "function",
-        "title": "thResolution"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "thResolution",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Resolution",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:vdAspectRatio",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "AspectRatio",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Video",
-        "fct-type": "function",
-        "title": "vdAspectRatio"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "vdAspectRatio",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Aspect Ratio",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:vdBitRate",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "BitRate",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Video",
-        "fct-type": "function",
-        "title": "vdBitRate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "vdBitRate",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Bit Rate",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:vdCodec",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "VideoCodec",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Video",
-        "fct-type": "function",
-        "title": "vdCodec"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "vdCodec",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Codec",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:vdCodecOptions",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "CodecOptions",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Video",
-        "fct-type": "function",
-        "title": "vdCodecOptions"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "vdCodecOptions",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Codec Options",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:vdFixedGOP",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "FixedGOP",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Video",
-        "fct-type": "function",
-        "title": "vdFixedGOP"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "vdFixedGOP",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Fixed GOP",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:vdFrameRate",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "FrameRate",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Video",
-        "fct-type": "function",
-        "title": "vdFrameRate"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "vdFrameRate",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Frame Rate",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:vdKeyFrameRateDist",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "KeyFrameRate",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Video",
-        "fct-type": "function",
-        "title": "vdKeyFrameRateDist"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "vdKeyFrameRateDist",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Key Frame Rate Dist",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:vdResolution",
-      "description": {
-        "fct-descr": "&#160;",
-        "fct-module": "Aws.ElasticTranscoder.Json.Types",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "Resolution",
-        "fct-source": "src/Aws-ElasticTranscoder-Json-Types.html#Video",
-        "fct-type": "function",
-        "title": "vdResolution"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder Json Types",
-        "module": "Aws.ElasticTranscoder.Json.Types",
-        "name": "vdResolution",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Resolution",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder.html#",
-      "description": {
-        "fct-module": "Aws.ElasticTranscoder",
-        "fct-package": "aws-elastic-transcoder",
-        "fct-signature": "module",
-        "fct-source": "src/Aws-ElasticTranscoder.html",
-        "fct-type": "module",
-        "title": "ElasticTranscoder"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Aws ElasticTranscoder",
-        "module": "Aws.ElasticTranscoder",
-        "name": "ElasticTranscoder",
-        "normalized": "",
-        "package": "aws-elastic-transcoder",
-        "partial": "Elastic Transcoder",
-        "signature": ""
-      }
-    }
-  }
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "aws-elastic-transcoder"
+      },
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreateJob",
+          "name": "CreateJob",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreateJob.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreateJob",
+          "module": "Aws.ElasticTranscoder.Commands.CreateJob",
+          "name": "CreateJob",
+          "package": "aws-elastic-transcoder",
+          "partial": "Create Job",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreateJob.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreateJob",
+          "name": "CreateJob",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreateJob.html#CreateJob",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreateJob",
+          "module": "Aws.ElasticTranscoder.Commands.CreateJob",
+          "name": "CreateJob",
+          "package": "aws-elastic-transcoder",
+          "partial": "Create Job",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreateJob.html#t:CreateJob"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreateJob",
+          "name": "CreateJobResponse",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreateJob.html#CreateJobResponse",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreateJob",
+          "module": "Aws.ElasticTranscoder.Commands.CreateJob",
+          "name": "CreateJobResponse",
+          "package": "aws-elastic-transcoder",
+          "partial": "Create Job Response",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreateJob.html#t:CreateJobResponse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreateJob",
+          "name": "CreateJob",
+          "package": "aws-elastic-transcoder",
+          "signature": "CreateJob",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreateJob.html#CreateJob",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreateJob",
+          "module": "Aws.ElasticTranscoder.Commands.CreateJob",
+          "name": "CreateJob",
+          "package": "aws-elastic-transcoder",
+          "partial": "Create Job",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreateJob.html#v:CreateJob"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreateJob",
+          "name": "CreateJobResponse",
+          "package": "aws-elastic-transcoder",
+          "signature": "CreateJobResponse",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreateJob.html#CreateJobResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreateJob",
+          "module": "Aws.ElasticTranscoder.Commands.CreateJob",
+          "name": "CreateJobResponse",
+          "package": "aws-elastic-transcoder",
+          "partial": "Create Job Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreateJob.html#v:CreateJobResponse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreateJob",
+          "name": "cjInput",
+          "package": "aws-elastic-transcoder",
+          "signature": "JSInput",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreateJob.html#CreateJob",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreateJob",
+          "module": "Aws.ElasticTranscoder.Commands.CreateJob",
+          "name": "cjInput",
+          "package": "aws-elastic-transcoder",
+          "partial": "Input",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreateJob.html#v:cjInput"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreateJob",
+          "name": "cjOutput",
+          "package": "aws-elastic-transcoder",
+          "signature": "JSOutput",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreateJob.html#CreateJob",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreateJob",
+          "module": "Aws.ElasticTranscoder.Commands.CreateJob",
+          "name": "cjOutput",
+          "package": "aws-elastic-transcoder",
+          "partial": "Output",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreateJob.html#v:cjOutput"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreateJob",
+          "name": "cjPipelineId",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineId",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreateJob.html#CreateJob",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreateJob",
+          "module": "Aws.ElasticTranscoder.Commands.CreateJob",
+          "name": "cjPipelineId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pipeline Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreateJob.html#v:cjPipelineId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreateJob",
+          "name": "cjrId",
+          "package": "aws-elastic-transcoder",
+          "signature": "JobId",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreateJob.html#CreateJobResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreateJob",
+          "module": "Aws.ElasticTranscoder.Commands.CreateJob",
+          "name": "cjrId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreateJob.html#v:cjrId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreateJob",
+          "name": "cjrInput",
+          "package": "aws-elastic-transcoder",
+          "signature": "JSInput",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreateJob.html#CreateJobResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreateJob",
+          "module": "Aws.ElasticTranscoder.Commands.CreateJob",
+          "name": "cjrInput",
+          "package": "aws-elastic-transcoder",
+          "partial": "Input",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreateJob.html#v:cjrInput"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreateJob",
+          "name": "cjrOutput",
+          "package": "aws-elastic-transcoder",
+          "signature": "JSOutputStatus",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreateJob.html#CreateJobResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreateJob",
+          "module": "Aws.ElasticTranscoder.Commands.CreateJob",
+          "name": "cjrOutput",
+          "package": "aws-elastic-transcoder",
+          "partial": "Output",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreateJob.html#v:cjrOutput"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreateJob",
+          "name": "cjrPipelineId",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineId",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreateJob.html#CreateJobResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreateJob",
+          "module": "Aws.ElasticTranscoder.Commands.CreateJob",
+          "name": "cjrPipelineId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pipeline Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreateJob.html#v:cjrPipelineId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreateJob",
+          "name": "createJob",
+          "package": "aws-elastic-transcoder",
+          "signature": "S3Object -\u003e S3Object -\u003e PresetId -\u003e PipelineId -\u003e CreateJob",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreateJob.html#createJob",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreateJob",
+          "module": "Aws.ElasticTranscoder.Commands.CreateJob",
+          "name": "createJob",
+          "normalized": "S Object-\u003eS Object-\u003ePresetId-\u003ePipelineId-\u003eCreateJob",
+          "package": "aws-elastic-transcoder",
+          "partial": "Job",
+          "signature": "S Object-\u003eS Object-\u003ePresetId-\u003ePipelineId-\u003eCreateJob",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreateJob.html#v:createJob"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreateJob",
+          "name": "defaultJSInput",
+          "package": "aws-elastic-transcoder",
+          "signature": "S3Object -\u003e JSInput",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreateJob.html#defaultJSInput",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreateJob",
+          "module": "Aws.ElasticTranscoder.Commands.CreateJob",
+          "name": "defaultJSInput",
+          "normalized": "S Object-\u003eJSInput",
+          "package": "aws-elastic-transcoder",
+          "partial": "JSInput",
+          "signature": "S Object-\u003eJSInput",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreateJob.html#v:defaultJSInput"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreateJob",
+          "name": "defaultJSOutput",
+          "package": "aws-elastic-transcoder",
+          "signature": "S3Object -\u003e PresetId -\u003e JSOutput",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreateJob.html#defaultJSOutput",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreateJob",
+          "module": "Aws.ElasticTranscoder.Commands.CreateJob",
+          "name": "defaultJSOutput",
+          "normalized": "S Object-\u003ePresetId-\u003eJSOutput",
+          "package": "aws-elastic-transcoder",
+          "partial": "JSOutput",
+          "signature": "S Object-\u003ePresetId-\u003eJSOutput",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreateJob.html#v:defaultJSOutput"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "CreatePipeline",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "CreatePipeline",
+          "package": "aws-elastic-transcoder",
+          "partial": "Create Pipeline",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "CreatePipeline",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipeline",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "CreatePipeline",
+          "package": "aws-elastic-transcoder",
+          "partial": "Create Pipeline",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#t:CreatePipeline"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "CreatePipelineResponse",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipelineResponse",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "CreatePipelineResponse",
+          "package": "aws-elastic-transcoder",
+          "partial": "Create Pipeline Response",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#t:CreatePipelineResponse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "CreatePipeline",
+          "package": "aws-elastic-transcoder",
+          "signature": "CreatePipeline",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipeline",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "CreatePipeline",
+          "package": "aws-elastic-transcoder",
+          "partial": "Create Pipeline",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#v:CreatePipeline"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "CreatePipelineResponse",
+          "package": "aws-elastic-transcoder",
+          "signature": "CreatePipelineResponse",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipelineResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "CreatePipelineResponse",
+          "package": "aws-elastic-transcoder",
+          "partial": "Create Pipeline Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#v:CreatePipelineResponse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "cplInputBucket",
+          "package": "aws-elastic-transcoder",
+          "signature": "S3Object",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipeline",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "cplInputBucket",
+          "package": "aws-elastic-transcoder",
+          "partial": "Input Bucket",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#v:cplInputBucket"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "cplName",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineName",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipeline",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "cplName",
+          "package": "aws-elastic-transcoder",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#v:cplName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "cplNotifications",
+          "package": "aws-elastic-transcoder",
+          "signature": "Notifications",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipeline",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "cplNotifications",
+          "package": "aws-elastic-transcoder",
+          "partial": "Notifications",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#v:cplNotifications"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "cplOutputBucket",
+          "package": "aws-elastic-transcoder",
+          "signature": "S3Object",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipeline",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "cplOutputBucket",
+          "package": "aws-elastic-transcoder",
+          "partial": "Output Bucket",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#v:cplOutputBucket"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "cplRole",
+          "package": "aws-elastic-transcoder",
+          "signature": "IAMRole",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipeline",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "cplRole",
+          "package": "aws-elastic-transcoder",
+          "partial": "Role",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#v:cplRole"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "cprId",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineId",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipelineResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "cprId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#v:cprId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "cprInputBucket",
+          "package": "aws-elastic-transcoder",
+          "signature": "S3Object",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipelineResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "cprInputBucket",
+          "package": "aws-elastic-transcoder",
+          "partial": "Input Bucket",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#v:cprInputBucket"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "cprName",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineName",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipelineResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "cprName",
+          "package": "aws-elastic-transcoder",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#v:cprName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "cprNotifications",
+          "package": "aws-elastic-transcoder",
+          "signature": "Notifications",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipelineResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "cprNotifications",
+          "package": "aws-elastic-transcoder",
+          "partial": "Notifications",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#v:cprNotifications"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "cprOutputBucket",
+          "package": "aws-elastic-transcoder",
+          "signature": "S3Object",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipelineResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "cprOutputBucket",
+          "package": "aws-elastic-transcoder",
+          "partial": "Output Bucket",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#v:cprOutputBucket"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "cprRole",
+          "package": "aws-elastic-transcoder",
+          "signature": "IAMRole",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipelineResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "cprRole",
+          "package": "aws-elastic-transcoder",
+          "partial": "Role",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#v:cprRole"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "cprStatus",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineStatus",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePipeline.html#CreatePipelineResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePipeline",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePipeline",
+          "name": "cprStatus",
+          "package": "aws-elastic-transcoder",
+          "partial": "Status",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePipeline.html#v:cprStatus"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "CreatePreset",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePreset.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePreset",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "CreatePreset",
+          "package": "aws-elastic-transcoder",
+          "partial": "Create Preset",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePreset.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "CreatePreset",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePreset.html#CreatePreset",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePreset",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "CreatePreset",
+          "package": "aws-elastic-transcoder",
+          "partial": "Create Preset",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePreset.html#t:CreatePreset"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "CreatePresetResponse",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePreset.html#CreatePresetResponse",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePreset",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "CreatePresetResponse",
+          "package": "aws-elastic-transcoder",
+          "partial": "Create Preset Response",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePreset.html#t:CreatePresetResponse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "CreatePreset",
+          "package": "aws-elastic-transcoder",
+          "signature": "CreatePreset",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePreset.html#CreatePreset",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePreset",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "CreatePreset",
+          "package": "aws-elastic-transcoder",
+          "partial": "Create Preset",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePreset.html#v:CreatePreset"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "CreatePresetResponse",
+          "package": "aws-elastic-transcoder",
+          "signature": "CreatePresetResponse",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePreset.html#CreatePresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePreset",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "CreatePresetResponse",
+          "package": "aws-elastic-transcoder",
+          "partial": "Create Preset Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePreset.html#v:CreatePresetResponse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "cptAudio",
+          "package": "aws-elastic-transcoder",
+          "signature": "Audio",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePreset.html#CreatePreset",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePreset",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "cptAudio",
+          "package": "aws-elastic-transcoder",
+          "partial": "Audio",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePreset.html#v:cptAudio"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "cptContainer",
+          "package": "aws-elastic-transcoder",
+          "signature": "Container",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePreset.html#CreatePreset",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePreset",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "cptContainer",
+          "package": "aws-elastic-transcoder",
+          "partial": "Container",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePreset.html#v:cptContainer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "cptDescription",
+          "package": "aws-elastic-transcoder",
+          "signature": "Text",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePreset.html#CreatePreset",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePreset",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "cptDescription",
+          "package": "aws-elastic-transcoder",
+          "partial": "Description",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePreset.html#v:cptDescription"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "cptName",
+          "package": "aws-elastic-transcoder",
+          "signature": "PresetName",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePreset.html#CreatePreset",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePreset",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "cptName",
+          "package": "aws-elastic-transcoder",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePreset.html#v:cptName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "cptThumbnails",
+          "package": "aws-elastic-transcoder",
+          "signature": "Thumbnails",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePreset.html#CreatePreset",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePreset",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "cptThumbnails",
+          "package": "aws-elastic-transcoder",
+          "partial": "Thumbnails",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePreset.html#v:cptThumbnails"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "cptVideo",
+          "package": "aws-elastic-transcoder",
+          "signature": "Video",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePreset.html#CreatePreset",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePreset",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "cptVideo",
+          "package": "aws-elastic-transcoder",
+          "partial": "Video",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePreset.html#v:cptVideo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "cptrAudio",
+          "package": "aws-elastic-transcoder",
+          "signature": "Audio",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePreset.html#CreatePresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePreset",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "cptrAudio",
+          "package": "aws-elastic-transcoder",
+          "partial": "Audio",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePreset.html#v:cptrAudio"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "cptrContainer",
+          "package": "aws-elastic-transcoder",
+          "signature": "Container",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePreset.html#CreatePresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePreset",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "cptrContainer",
+          "package": "aws-elastic-transcoder",
+          "partial": "Container",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePreset.html#v:cptrContainer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "cptrDescription",
+          "package": "aws-elastic-transcoder",
+          "signature": "Text",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePreset.html#CreatePresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePreset",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "cptrDescription",
+          "package": "aws-elastic-transcoder",
+          "partial": "Description",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePreset.html#v:cptrDescription"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "cptrId",
+          "package": "aws-elastic-transcoder",
+          "signature": "PresetId",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePreset.html#CreatePresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePreset",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "cptrId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePreset.html#v:cptrId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "cptrName",
+          "package": "aws-elastic-transcoder",
+          "signature": "PresetName",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePreset.html#CreatePresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePreset",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "cptrName",
+          "package": "aws-elastic-transcoder",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePreset.html#v:cptrName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "cptrThumbnails",
+          "package": "aws-elastic-transcoder",
+          "signature": "Thumbnails",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePreset.html#CreatePresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePreset",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "cptrThumbnails",
+          "package": "aws-elastic-transcoder",
+          "partial": "Thumbnails",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePreset.html#v:cptrThumbnails"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "cptrType",
+          "package": "aws-elastic-transcoder",
+          "signature": "PresetType",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePreset.html#CreatePresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePreset",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "cptrType",
+          "package": "aws-elastic-transcoder",
+          "partial": "Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePreset.html#v:cptrType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "cptrVideo",
+          "package": "aws-elastic-transcoder",
+          "signature": "Video",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePreset.html#CreatePresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePreset",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "cptrVideo",
+          "package": "aws-elastic-transcoder",
+          "partial": "Video",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePreset.html#v:cptrVideo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "cptrWarning",
+          "package": "aws-elastic-transcoder",
+          "signature": "Text",
+          "source": "src/Aws-ElasticTranscoder-Commands-CreatePreset.html#CreatePresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands CreatePreset",
+          "module": "Aws.ElasticTranscoder.Commands.CreatePreset",
+          "name": "cptrWarning",
+          "package": "aws-elastic-transcoder",
+          "partial": "Warning",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-CreatePreset.html#v:cptrWarning"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.DeleteJob",
+          "name": "DeleteJob",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-DeleteJob.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands DeleteJob",
+          "module": "Aws.ElasticTranscoder.Commands.DeleteJob",
+          "name": "DeleteJob",
+          "package": "aws-elastic-transcoder",
+          "partial": "Delete Job",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-DeleteJob.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.DeleteJob",
+          "name": "DeleteJob",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-DeleteJob.html#DeleteJob",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands DeleteJob",
+          "module": "Aws.ElasticTranscoder.Commands.DeleteJob",
+          "name": "DeleteJob",
+          "package": "aws-elastic-transcoder",
+          "partial": "Delete Job",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-DeleteJob.html#t:DeleteJob"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.DeleteJob",
+          "name": "DeleteJobResponse",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-DeleteJob.html#DeleteJobResponse",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands DeleteJob",
+          "module": "Aws.ElasticTranscoder.Commands.DeleteJob",
+          "name": "DeleteJobResponse",
+          "package": "aws-elastic-transcoder",
+          "partial": "Delete Job Response",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-DeleteJob.html#t:DeleteJobResponse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.DeleteJob",
+          "name": "DeleteJob",
+          "package": "aws-elastic-transcoder",
+          "signature": "DeleteJob",
+          "source": "src/Aws-ElasticTranscoder-Commands-DeleteJob.html#DeleteJob",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands DeleteJob",
+          "module": "Aws.ElasticTranscoder.Commands.DeleteJob",
+          "name": "DeleteJob",
+          "package": "aws-elastic-transcoder",
+          "partial": "Delete Job",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-DeleteJob.html#v:DeleteJob"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.DeleteJob",
+          "name": "DeleteJobResponse",
+          "package": "aws-elastic-transcoder",
+          "signature": "DeleteJobResponse",
+          "source": "src/Aws-ElasticTranscoder-Commands-DeleteJob.html#DeleteJobResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands DeleteJob",
+          "module": "Aws.ElasticTranscoder.Commands.DeleteJob",
+          "name": "DeleteJobResponse",
+          "package": "aws-elastic-transcoder",
+          "partial": "Delete Job Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-DeleteJob.html#v:DeleteJobResponse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.DeleteJob",
+          "name": "djJob",
+          "package": "aws-elastic-transcoder",
+          "signature": "JobId",
+          "source": "src/Aws-ElasticTranscoder-Commands-DeleteJob.html#DeleteJob",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands DeleteJob",
+          "module": "Aws.ElasticTranscoder.Commands.DeleteJob",
+          "name": "djJob",
+          "package": "aws-elastic-transcoder",
+          "partial": "Job",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-DeleteJob.html#v:djJob"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.DeletePipeline",
+          "name": "DeletePipeline",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-DeletePipeline.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands DeletePipeline",
+          "module": "Aws.ElasticTranscoder.Commands.DeletePipeline",
+          "name": "DeletePipeline",
+          "package": "aws-elastic-transcoder",
+          "partial": "Delete Pipeline",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-DeletePipeline.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.DeletePipeline",
+          "name": "DeletePipeline",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-DeletePipeline.html#DeletePipeline",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands DeletePipeline",
+          "module": "Aws.ElasticTranscoder.Commands.DeletePipeline",
+          "name": "DeletePipeline",
+          "package": "aws-elastic-transcoder",
+          "partial": "Delete Pipeline",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-DeletePipeline.html#t:DeletePipeline"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.DeletePipeline",
+          "name": "DeletePipelineResponse",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-DeletePipeline.html#DeletePipelineResponse",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands DeletePipeline",
+          "module": "Aws.ElasticTranscoder.Commands.DeletePipeline",
+          "name": "DeletePipelineResponse",
+          "package": "aws-elastic-transcoder",
+          "partial": "Delete Pipeline Response",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-DeletePipeline.html#t:DeletePipelineResponse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.DeletePipeline",
+          "name": "DeletePipeline",
+          "package": "aws-elastic-transcoder",
+          "signature": "DeletePipeline",
+          "source": "src/Aws-ElasticTranscoder-Commands-DeletePipeline.html#DeletePipeline",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands DeletePipeline",
+          "module": "Aws.ElasticTranscoder.Commands.DeletePipeline",
+          "name": "DeletePipeline",
+          "package": "aws-elastic-transcoder",
+          "partial": "Delete Pipeline",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-DeletePipeline.html#v:DeletePipeline"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.DeletePipeline",
+          "name": "DeletePipelineResponse",
+          "package": "aws-elastic-transcoder",
+          "signature": "DeletePipelineResponse",
+          "source": "src/Aws-ElasticTranscoder-Commands-DeletePipeline.html#DeletePipelineResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands DeletePipeline",
+          "module": "Aws.ElasticTranscoder.Commands.DeletePipeline",
+          "name": "DeletePipelineResponse",
+          "package": "aws-elastic-transcoder",
+          "partial": "Delete Pipeline Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-DeletePipeline.html#v:DeletePipelineResponse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.DeletePipeline",
+          "name": "dpId",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineId",
+          "source": "src/Aws-ElasticTranscoder-Commands-DeletePipeline.html#DeletePipeline",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands DeletePipeline",
+          "module": "Aws.ElasticTranscoder.Commands.DeletePipeline",
+          "name": "dpId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-DeletePipeline.html#v:dpId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.DeletePreset",
+          "name": "DeletePreset",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-DeletePreset.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands DeletePreset",
+          "module": "Aws.ElasticTranscoder.Commands.DeletePreset",
+          "name": "DeletePreset",
+          "package": "aws-elastic-transcoder",
+          "partial": "Delete Preset",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-DeletePreset.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.DeletePreset",
+          "name": "DeletePreset",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-DeletePreset.html#DeletePreset",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands DeletePreset",
+          "module": "Aws.ElasticTranscoder.Commands.DeletePreset",
+          "name": "DeletePreset",
+          "package": "aws-elastic-transcoder",
+          "partial": "Delete Preset",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-DeletePreset.html#t:DeletePreset"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.DeletePreset",
+          "name": "DeletePresetResponse",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-DeletePreset.html#DeletePresetResponse",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands DeletePreset",
+          "module": "Aws.ElasticTranscoder.Commands.DeletePreset",
+          "name": "DeletePresetResponse",
+          "package": "aws-elastic-transcoder",
+          "partial": "Delete Preset Response",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-DeletePreset.html#t:DeletePresetResponse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.DeletePreset",
+          "name": "DeletePreset",
+          "package": "aws-elastic-transcoder",
+          "signature": "DeletePreset",
+          "source": "src/Aws-ElasticTranscoder-Commands-DeletePreset.html#DeletePreset",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands DeletePreset",
+          "module": "Aws.ElasticTranscoder.Commands.DeletePreset",
+          "name": "DeletePreset",
+          "package": "aws-elastic-transcoder",
+          "partial": "Delete Preset",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-DeletePreset.html#v:DeletePreset"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.DeletePreset",
+          "name": "DeletePresetResponse",
+          "package": "aws-elastic-transcoder",
+          "signature": "DeletePresetResponse",
+          "source": "src/Aws-ElasticTranscoder-Commands-DeletePreset.html#DeletePresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands DeletePreset",
+          "module": "Aws.ElasticTranscoder.Commands.DeletePreset",
+          "name": "DeletePresetResponse",
+          "package": "aws-elastic-transcoder",
+          "partial": "Delete Preset Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-DeletePreset.html#v:DeletePresetResponse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.DeletePreset",
+          "name": "dprId",
+          "package": "aws-elastic-transcoder",
+          "signature": "PresetId",
+          "source": "src/Aws-ElasticTranscoder-Commands-DeletePreset.html#DeletePreset",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands DeletePreset",
+          "module": "Aws.ElasticTranscoder.Commands.DeletePreset",
+          "name": "dprId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-DeletePreset.html#v:dprId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetJob",
+          "name": "GetJob",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetJob.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetJob",
+          "module": "Aws.ElasticTranscoder.Commands.GetJob",
+          "name": "GetJob",
+          "package": "aws-elastic-transcoder",
+          "partial": "Get Job",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetJob.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetJob",
+          "name": "GetJob",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetJob.html#GetJob",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetJob",
+          "module": "Aws.ElasticTranscoder.Commands.GetJob",
+          "name": "GetJob",
+          "package": "aws-elastic-transcoder",
+          "partial": "Get Job",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetJob.html#t:GetJob"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetJob",
+          "name": "GetJobResponse",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetJob.html#GetJobResponse",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetJob",
+          "module": "Aws.ElasticTranscoder.Commands.GetJob",
+          "name": "GetJobResponse",
+          "package": "aws-elastic-transcoder",
+          "partial": "Get Job Response",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetJob.html#t:GetJobResponse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetJob",
+          "name": "GetJob",
+          "package": "aws-elastic-transcoder",
+          "signature": "GetJob",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetJob.html#GetJob",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetJob",
+          "module": "Aws.ElasticTranscoder.Commands.GetJob",
+          "name": "GetJob",
+          "package": "aws-elastic-transcoder",
+          "partial": "Get Job",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetJob.html#v:GetJob"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetJob",
+          "name": "GetJobResponse",
+          "package": "aws-elastic-transcoder",
+          "signature": "GetJobResponse",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetJob.html#GetJobResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetJob",
+          "module": "Aws.ElasticTranscoder.Commands.GetJob",
+          "name": "GetJobResponse",
+          "package": "aws-elastic-transcoder",
+          "partial": "Get Job Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetJob.html#v:GetJobResponse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetJob",
+          "name": "gjJob",
+          "package": "aws-elastic-transcoder",
+          "signature": "JobId",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetJob.html#GetJob",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetJob",
+          "module": "Aws.ElasticTranscoder.Commands.GetJob",
+          "name": "gjJob",
+          "package": "aws-elastic-transcoder",
+          "partial": "Job",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetJob.html#v:gjJob"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetJob",
+          "name": "gjrId",
+          "package": "aws-elastic-transcoder",
+          "signature": "JobId",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetJob.html#GetJobResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetJob",
+          "module": "Aws.ElasticTranscoder.Commands.GetJob",
+          "name": "gjrId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetJob.html#v:gjrId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetJob",
+          "name": "gjrInput",
+          "package": "aws-elastic-transcoder",
+          "signature": "JSInput",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetJob.html#GetJobResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetJob",
+          "module": "Aws.ElasticTranscoder.Commands.GetJob",
+          "name": "gjrInput",
+          "package": "aws-elastic-transcoder",
+          "partial": "Input",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetJob.html#v:gjrInput"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetJob",
+          "name": "gjrOutput",
+          "package": "aws-elastic-transcoder",
+          "signature": "JSOutputStatus",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetJob.html#GetJobResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetJob",
+          "module": "Aws.ElasticTranscoder.Commands.GetJob",
+          "name": "gjrOutput",
+          "package": "aws-elastic-transcoder",
+          "partial": "Output",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetJob.html#v:gjrOutput"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetJob",
+          "name": "gjrPipelineId",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineId",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetJob.html#GetJobResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetJob",
+          "module": "Aws.ElasticTranscoder.Commands.GetJob",
+          "name": "gjrPipelineId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pipeline Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetJob.html#v:gjrPipelineId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
+          "name": "GetPipeline",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetPipeline.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetPipeline",
+          "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
+          "name": "GetPipeline",
+          "package": "aws-elastic-transcoder",
+          "partial": "Get Pipeline",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPipeline.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
+          "name": "GetPipeline",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetPipeline.html#GetPipeline",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetPipeline",
+          "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
+          "name": "GetPipeline",
+          "package": "aws-elastic-transcoder",
+          "partial": "Get Pipeline",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPipeline.html#t:GetPipeline"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
+          "name": "GetPipelineResponse",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetPipeline.html#GetPipelineResponse",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetPipeline",
+          "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
+          "name": "GetPipelineResponse",
+          "package": "aws-elastic-transcoder",
+          "partial": "Get Pipeline Response",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPipeline.html#t:GetPipelineResponse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
+          "name": "GetPipeline",
+          "package": "aws-elastic-transcoder",
+          "signature": "GetPipeline",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetPipeline.html#GetPipeline",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetPipeline",
+          "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
+          "name": "GetPipeline",
+          "package": "aws-elastic-transcoder",
+          "partial": "Get Pipeline",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPipeline.html#v:GetPipeline"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
+          "name": "GetPipelineResponse",
+          "package": "aws-elastic-transcoder",
+          "signature": "GetPipelineResponse",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetPipeline.html#GetPipelineResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetPipeline",
+          "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
+          "name": "GetPipelineResponse",
+          "package": "aws-elastic-transcoder",
+          "partial": "Get Pipeline Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPipeline.html#v:GetPipelineResponse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
+          "name": "gplPipeline",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineId",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetPipeline.html#GetPipeline",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetPipeline",
+          "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
+          "name": "gplPipeline",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pipeline",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPipeline.html#v:gplPipeline"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
+          "name": "gprId",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineId",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetPipeline.html#GetPipelineResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetPipeline",
+          "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
+          "name": "gprId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPipeline.html#v:gprId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
+          "name": "gprInputBucket",
+          "package": "aws-elastic-transcoder",
+          "signature": "S3Object",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetPipeline.html#GetPipelineResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetPipeline",
+          "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
+          "name": "gprInputBucket",
+          "package": "aws-elastic-transcoder",
+          "partial": "Input Bucket",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPipeline.html#v:gprInputBucket"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
+          "name": "gprName",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineName",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetPipeline.html#GetPipelineResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetPipeline",
+          "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
+          "name": "gprName",
+          "package": "aws-elastic-transcoder",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPipeline.html#v:gprName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
+          "name": "gprNotifications",
+          "package": "aws-elastic-transcoder",
+          "signature": "Notifications",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetPipeline.html#GetPipelineResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetPipeline",
+          "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
+          "name": "gprNotifications",
+          "package": "aws-elastic-transcoder",
+          "partial": "Notifications",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPipeline.html#v:gprNotifications"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
+          "name": "gprOutputBucket",
+          "package": "aws-elastic-transcoder",
+          "signature": "S3Object",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetPipeline.html#GetPipelineResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetPipeline",
+          "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
+          "name": "gprOutputBucket",
+          "package": "aws-elastic-transcoder",
+          "partial": "Output Bucket",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPipeline.html#v:gprOutputBucket"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
+          "name": "gprRole",
+          "package": "aws-elastic-transcoder",
+          "signature": "IAMRole",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetPipeline.html#GetPipelineResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetPipeline",
+          "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
+          "name": "gprRole",
+          "package": "aws-elastic-transcoder",
+          "partial": "Role",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPipeline.html#v:gprRole"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
+          "name": "gprStatus",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineStatus",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetPipeline.html#GetPipelineResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetPipeline",
+          "module": "Aws.ElasticTranscoder.Commands.GetPipeline",
+          "name": "gprStatus",
+          "package": "aws-elastic-transcoder",
+          "partial": "Status",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPipeline.html#v:gprStatus"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetPreset",
+          "name": "GetPreset",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetPreset.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetPreset",
+          "module": "Aws.ElasticTranscoder.Commands.GetPreset",
+          "name": "GetPreset",
+          "package": "aws-elastic-transcoder",
+          "partial": "Get Preset",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPreset.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetPreset",
+          "name": "GetPreset",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetPreset.html#GetPreset",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetPreset",
+          "module": "Aws.ElasticTranscoder.Commands.GetPreset",
+          "name": "GetPreset",
+          "package": "aws-elastic-transcoder",
+          "partial": "Get Preset",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPreset.html#t:GetPreset"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetPreset",
+          "name": "GetPresetResponse",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetPreset.html#GetPresetResponse",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetPreset",
+          "module": "Aws.ElasticTranscoder.Commands.GetPreset",
+          "name": "GetPresetResponse",
+          "package": "aws-elastic-transcoder",
+          "partial": "Get Preset Response",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPreset.html#t:GetPresetResponse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetPreset",
+          "name": "GetPreset",
+          "package": "aws-elastic-transcoder",
+          "signature": "GetPreset",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetPreset.html#GetPreset",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetPreset",
+          "module": "Aws.ElasticTranscoder.Commands.GetPreset",
+          "name": "GetPreset",
+          "package": "aws-elastic-transcoder",
+          "partial": "Get Preset",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPreset.html#v:GetPreset"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetPreset",
+          "name": "GetPresetResponse",
+          "package": "aws-elastic-transcoder",
+          "signature": "GetPresetResponse",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetPreset.html#GetPresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetPreset",
+          "module": "Aws.ElasticTranscoder.Commands.GetPreset",
+          "name": "GetPresetResponse",
+          "package": "aws-elastic-transcoder",
+          "partial": "Get Preset Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPreset.html#v:GetPresetResponse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetPreset",
+          "name": "gprPreset",
+          "package": "aws-elastic-transcoder",
+          "signature": "PresetId",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetPreset.html#GetPreset",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetPreset",
+          "module": "Aws.ElasticTranscoder.Commands.GetPreset",
+          "name": "gprPreset",
+          "package": "aws-elastic-transcoder",
+          "partial": "Preset",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPreset.html#v:gprPreset"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetPreset",
+          "name": "gprrAudio",
+          "package": "aws-elastic-transcoder",
+          "signature": "Audio",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetPreset.html#GetPresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetPreset",
+          "module": "Aws.ElasticTranscoder.Commands.GetPreset",
+          "name": "gprrAudio",
+          "package": "aws-elastic-transcoder",
+          "partial": "Audio",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPreset.html#v:gprrAudio"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetPreset",
+          "name": "gprrContainer",
+          "package": "aws-elastic-transcoder",
+          "signature": "Container",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetPreset.html#GetPresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetPreset",
+          "module": "Aws.ElasticTranscoder.Commands.GetPreset",
+          "name": "gprrContainer",
+          "package": "aws-elastic-transcoder",
+          "partial": "Container",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPreset.html#v:gprrContainer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetPreset",
+          "name": "gprrDescription",
+          "package": "aws-elastic-transcoder",
+          "signature": "Text",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetPreset.html#GetPresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetPreset",
+          "module": "Aws.ElasticTranscoder.Commands.GetPreset",
+          "name": "gprrDescription",
+          "package": "aws-elastic-transcoder",
+          "partial": "Description",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPreset.html#v:gprrDescription"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetPreset",
+          "name": "gprrId",
+          "package": "aws-elastic-transcoder",
+          "signature": "PresetId",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetPreset.html#GetPresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetPreset",
+          "module": "Aws.ElasticTranscoder.Commands.GetPreset",
+          "name": "gprrId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPreset.html#v:gprrId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetPreset",
+          "name": "gprrName",
+          "package": "aws-elastic-transcoder",
+          "signature": "PresetName",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetPreset.html#GetPresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetPreset",
+          "module": "Aws.ElasticTranscoder.Commands.GetPreset",
+          "name": "gprrName",
+          "package": "aws-elastic-transcoder",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPreset.html#v:gprrName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetPreset",
+          "name": "gprrThumbnails",
+          "package": "aws-elastic-transcoder",
+          "signature": "Thumbnails",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetPreset.html#GetPresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetPreset",
+          "module": "Aws.ElasticTranscoder.Commands.GetPreset",
+          "name": "gprrThumbnails",
+          "package": "aws-elastic-transcoder",
+          "partial": "Thumbnails",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPreset.html#v:gprrThumbnails"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetPreset",
+          "name": "gprrType",
+          "package": "aws-elastic-transcoder",
+          "signature": "PresetType",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetPreset.html#GetPresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetPreset",
+          "module": "Aws.ElasticTranscoder.Commands.GetPreset",
+          "name": "gprrType",
+          "package": "aws-elastic-transcoder",
+          "partial": "Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPreset.html#v:gprrType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetPreset",
+          "name": "gprrVideo",
+          "package": "aws-elastic-transcoder",
+          "signature": "Video",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetPreset.html#GetPresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetPreset",
+          "module": "Aws.ElasticTranscoder.Commands.GetPreset",
+          "name": "gprrVideo",
+          "package": "aws-elastic-transcoder",
+          "partial": "Video",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPreset.html#v:gprrVideo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.GetPreset",
+          "name": "gprrWarning",
+          "package": "aws-elastic-transcoder",
+          "signature": "Text",
+          "source": "src/Aws-ElasticTranscoder-Commands-GetPreset.html#GetPresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands GetPreset",
+          "module": "Aws.ElasticTranscoder.Commands.GetPreset",
+          "name": "gprrWarning",
+          "package": "aws-elastic-transcoder",
+          "partial": "Warning",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-GetPreset.html#v:gprrWarning"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
+          "name": "ListJobsByPipeline",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListJobsByPipeline",
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
+          "name": "ListJobsByPipeline",
+          "package": "aws-elastic-transcoder",
+          "partial": "List Jobs By Pipeline",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
+          "name": "ListJobsByPipeline",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#ListJobsByPipeline",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListJobsByPipeline",
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
+          "name": "ListJobsByPipeline",
+          "package": "aws-elastic-transcoder",
+          "partial": "List Jobs By Pipeline",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#t:ListJobsByPipeline"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
+          "name": "ListJobsByPipelineResponse",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#ListJobsByPipelineResponse",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListJobsByPipeline",
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
+          "name": "ListJobsByPipelineResponse",
+          "package": "aws-elastic-transcoder",
+          "partial": "List Jobs By Pipeline Response",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#t:ListJobsByPipelineResponse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
+          "name": "ListJobsByPipeline",
+          "package": "aws-elastic-transcoder",
+          "signature": "ListJobsByPipeline",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#ListJobsByPipeline",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListJobsByPipeline",
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
+          "name": "ListJobsByPipeline",
+          "package": "aws-elastic-transcoder",
+          "partial": "List Jobs By Pipeline",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#v:ListJobsByPipeline"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
+          "name": "ListJobsByPipelineResponse",
+          "package": "aws-elastic-transcoder",
+          "signature": "ListJobsByPipelineResponse",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#ListJobsByPipelineResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListJobsByPipeline",
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
+          "name": "ListJobsByPipelineResponse",
+          "package": "aws-elastic-transcoder",
+          "partial": "List Jobs By Pipeline Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#v:ListJobsByPipelineResponse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
+          "name": "ljpAscending",
+          "package": "aws-elastic-transcoder",
+          "signature": "Bool",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#ListJobsByPipeline",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListJobsByPipeline",
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
+          "name": "ljpAscending",
+          "package": "aws-elastic-transcoder",
+          "partial": "Ascending",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#v:ljpAscending"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
+          "name": "ljpPageToken",
+          "package": "aws-elastic-transcoder",
+          "signature": "TextOrNull",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#ListJobsByPipeline",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListJobsByPipeline",
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
+          "name": "ljpPageToken",
+          "package": "aws-elastic-transcoder",
+          "partial": "Page Token",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#v:ljpPageToken"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
+          "name": "ljpPipelineId",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineId",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#ListJobsByPipeline",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListJobsByPipeline",
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
+          "name": "ljpPipelineId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pipeline Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#v:ljpPipelineId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
+          "name": "ljprJobs",
+          "package": "aws-elastic-transcoder",
+          "signature": "[JobSpecId]",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#ListJobsByPipelineResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListJobsByPipeline",
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
+          "name": "ljprJobs",
+          "normalized": "[JobSpecId]",
+          "package": "aws-elastic-transcoder",
+          "partial": "Jobs",
+          "signature": "[JobSpecId]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#v:ljprJobs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
+          "name": "ljprNextPageToken",
+          "package": "aws-elastic-transcoder",
+          "signature": "TextOrNull",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#ListJobsByPipelineResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListJobsByPipeline",
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByPipeline",
+          "name": "ljprNextPageToken",
+          "package": "aws-elastic-transcoder",
+          "partial": "Next Page Token",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByPipeline.html#v:ljprNextPageToken"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
+          "name": "ListJobsByStatus",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListJobsByStatus",
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
+          "name": "ListJobsByStatus",
+          "package": "aws-elastic-transcoder",
+          "partial": "List Jobs By Status",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
+          "name": "ListJobsByStatus",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#ListJobsByStatus",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListJobsByStatus",
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
+          "name": "ListJobsByStatus",
+          "package": "aws-elastic-transcoder",
+          "partial": "List Jobs By Status",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#t:ListJobsByStatus"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
+          "name": "ListJobsByStatusResponse",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#ListJobsByStatusResponse",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListJobsByStatus",
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
+          "name": "ListJobsByStatusResponse",
+          "package": "aws-elastic-transcoder",
+          "partial": "List Jobs By Status Response",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#t:ListJobsByStatusResponse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
+          "name": "ListJobsByStatus",
+          "package": "aws-elastic-transcoder",
+          "signature": "ListJobsByStatus",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#ListJobsByStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListJobsByStatus",
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
+          "name": "ListJobsByStatus",
+          "package": "aws-elastic-transcoder",
+          "partial": "List Jobs By Status",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#v:ListJobsByStatus"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
+          "name": "ListJobsByStatusResponse",
+          "package": "aws-elastic-transcoder",
+          "signature": "ListJobsByStatusResponse",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#ListJobsByStatusResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListJobsByStatus",
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
+          "name": "ListJobsByStatusResponse",
+          "package": "aws-elastic-transcoder",
+          "partial": "List Jobs By Status Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#v:ListJobsByStatusResponse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
+          "name": "ljsAscending",
+          "package": "aws-elastic-transcoder",
+          "signature": "Bool",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#ListJobsByStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListJobsByStatus",
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
+          "name": "ljsAscending",
+          "package": "aws-elastic-transcoder",
+          "partial": "Ascending",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#v:ljsAscending"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
+          "name": "ljsPageToken",
+          "package": "aws-elastic-transcoder",
+          "signature": "TextOrNull",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#ListJobsByStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListJobsByStatus",
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
+          "name": "ljsPageToken",
+          "package": "aws-elastic-transcoder",
+          "partial": "Page Token",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#v:ljsPageToken"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
+          "name": "ljsStatus",
+          "package": "aws-elastic-transcoder",
+          "signature": "Status",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#ListJobsByStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListJobsByStatus",
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
+          "name": "ljsStatus",
+          "package": "aws-elastic-transcoder",
+          "partial": "Status",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#v:ljsStatus"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
+          "name": "ljsrJobs",
+          "package": "aws-elastic-transcoder",
+          "signature": "[JobSpecId]",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#ListJobsByStatusResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListJobsByStatus",
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
+          "name": "ljsrJobs",
+          "normalized": "[JobSpecId]",
+          "package": "aws-elastic-transcoder",
+          "partial": "Jobs",
+          "signature": "[JobSpecId]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#v:ljsrJobs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
+          "name": "ljsrNextPageToken",
+          "package": "aws-elastic-transcoder",
+          "signature": "TextOrNull",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#ListJobsByStatusResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListJobsByStatus",
+          "module": "Aws.ElasticTranscoder.Commands.ListJobsByStatus",
+          "name": "ljsrNextPageToken",
+          "package": "aws-elastic-transcoder",
+          "partial": "Next Page Token",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListJobsByStatus.html#v:ljsrNextPageToken"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListPipelines",
+          "name": "ListPipelines",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListPipelines.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListPipelines",
+          "module": "Aws.ElasticTranscoder.Commands.ListPipelines",
+          "name": "ListPipelines",
+          "package": "aws-elastic-transcoder",
+          "partial": "List Pipelines",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListPipelines.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListPipelines",
+          "name": "ListPipelines",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListPipelines.html#ListPipelines",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListPipelines",
+          "module": "Aws.ElasticTranscoder.Commands.ListPipelines",
+          "name": "ListPipelines",
+          "package": "aws-elastic-transcoder",
+          "partial": "List Pipelines",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListPipelines.html#t:ListPipelines"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListPipelines",
+          "name": "ListPipelinesResponse",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListPipelines.html#ListPipelinesResponse",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListPipelines",
+          "module": "Aws.ElasticTranscoder.Commands.ListPipelines",
+          "name": "ListPipelinesResponse",
+          "package": "aws-elastic-transcoder",
+          "partial": "List Pipelines Response",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListPipelines.html#t:ListPipelinesResponse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListPipelines",
+          "name": "ListPipelines",
+          "package": "aws-elastic-transcoder",
+          "signature": "ListPipelines",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListPipelines.html#ListPipelines",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListPipelines",
+          "module": "Aws.ElasticTranscoder.Commands.ListPipelines",
+          "name": "ListPipelines",
+          "package": "aws-elastic-transcoder",
+          "partial": "List Pipelines",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListPipelines.html#v:ListPipelines"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListPipelines",
+          "name": "ListPipelinesResponse",
+          "package": "aws-elastic-transcoder",
+          "signature": "ListPipelinesResponse",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListPipelines.html#ListPipelinesResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListPipelines",
+          "module": "Aws.ElasticTranscoder.Commands.ListPipelines",
+          "name": "ListPipelinesResponse",
+          "package": "aws-elastic-transcoder",
+          "partial": "List Pipelines Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListPipelines.html#v:ListPipelinesResponse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListPipelines",
+          "name": "lprPipelines",
+          "package": "aws-elastic-transcoder",
+          "signature": "[PipelineIdStatus]",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListPipelines.html#ListPipelinesResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListPipelines",
+          "module": "Aws.ElasticTranscoder.Commands.ListPipelines",
+          "name": "lprPipelines",
+          "normalized": "[PipelineIdStatus]",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pipelines",
+          "signature": "[PipelineIdStatus]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListPipelines.html#v:lprPipelines"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListPresets",
+          "name": "ListPresets",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListPresets.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListPresets",
+          "module": "Aws.ElasticTranscoder.Commands.ListPresets",
+          "name": "ListPresets",
+          "package": "aws-elastic-transcoder",
+          "partial": "List Presets",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListPresets.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListPresets",
+          "name": "ListPresets",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListPresets.html#ListPresets",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListPresets",
+          "module": "Aws.ElasticTranscoder.Commands.ListPresets",
+          "name": "ListPresets",
+          "package": "aws-elastic-transcoder",
+          "partial": "List Presets",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListPresets.html#t:ListPresets"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListPresets",
+          "name": "ListPresetsResponse",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListPresets.html#ListPresetsResponse",
+          "type": "newtype"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListPresets",
+          "module": "Aws.ElasticTranscoder.Commands.ListPresets",
+          "name": "ListPresetsResponse",
+          "package": "aws-elastic-transcoder",
+          "partial": "List Presets Response",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListPresets.html#t:ListPresetsResponse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListPresets",
+          "name": "ListPresets",
+          "package": "aws-elastic-transcoder",
+          "signature": "ListPresets",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListPresets.html#ListPresets",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListPresets",
+          "module": "Aws.ElasticTranscoder.Commands.ListPresets",
+          "name": "ListPresets",
+          "package": "aws-elastic-transcoder",
+          "partial": "List Presets",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListPresets.html#v:ListPresets"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListPresets",
+          "name": "ListPresetsResponse",
+          "package": "aws-elastic-transcoder",
+          "signature": "ListPresetsResponse",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListPresets.html#ListPresetsResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListPresets",
+          "module": "Aws.ElasticTranscoder.Commands.ListPresets",
+          "name": "ListPresetsResponse",
+          "package": "aws-elastic-transcoder",
+          "partial": "List Presets Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListPresets.html#v:ListPresetsResponse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.ListPresets",
+          "name": "lprPresets",
+          "package": "aws-elastic-transcoder",
+          "signature": "[PresetResponse]",
+          "source": "src/Aws-ElasticTranscoder-Commands-ListPresets.html#ListPresetsResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands ListPresets",
+          "module": "Aws.ElasticTranscoder.Commands.ListPresets",
+          "name": "lprPresets",
+          "normalized": "[PresetResponse]",
+          "package": "aws-elastic-transcoder",
+          "partial": "Presets",
+          "signature": "[PresetResponse]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-ListPresets.html#v:lprPresets"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.TestRole",
+          "name": "TestRole",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-TestRole.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands TestRole",
+          "module": "Aws.ElasticTranscoder.Commands.TestRole",
+          "name": "TestRole",
+          "package": "aws-elastic-transcoder",
+          "partial": "Test Role",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-TestRole.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.TestRole",
+          "name": "TestRole",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-TestRole.html#TestRole",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands TestRole",
+          "module": "Aws.ElasticTranscoder.Commands.TestRole",
+          "name": "TestRole",
+          "package": "aws-elastic-transcoder",
+          "partial": "Test Role",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-TestRole.html#t:TestRole"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.TestRole",
+          "name": "TestRoleResponse",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-TestRole.html#TestRoleResponse",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands TestRole",
+          "module": "Aws.ElasticTranscoder.Commands.TestRole",
+          "name": "TestRoleResponse",
+          "package": "aws-elastic-transcoder",
+          "partial": "Test Role Response",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-TestRole.html#t:TestRoleResponse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.TestRole",
+          "name": "TestRole",
+          "package": "aws-elastic-transcoder",
+          "signature": "TestRole",
+          "source": "src/Aws-ElasticTranscoder-Commands-TestRole.html#TestRole",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands TestRole",
+          "module": "Aws.ElasticTranscoder.Commands.TestRole",
+          "name": "TestRole",
+          "package": "aws-elastic-transcoder",
+          "partial": "Test Role",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-TestRole.html#v:TestRole"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.TestRole",
+          "name": "TestRoleResponse",
+          "package": "aws-elastic-transcoder",
+          "signature": "TestRoleResponse",
+          "source": "src/Aws-ElasticTranscoder-Commands-TestRole.html#TestRoleResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands TestRole",
+          "module": "Aws.ElasticTranscoder.Commands.TestRole",
+          "name": "TestRoleResponse",
+          "package": "aws-elastic-transcoder",
+          "partial": "Test Role Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-TestRole.html#v:TestRoleResponse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.TestRole",
+          "name": "trInputBucket",
+          "package": "aws-elastic-transcoder",
+          "signature": "S3Object",
+          "source": "src/Aws-ElasticTranscoder-Commands-TestRole.html#TestRole",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands TestRole",
+          "module": "Aws.ElasticTranscoder.Commands.TestRole",
+          "name": "trInputBucket",
+          "package": "aws-elastic-transcoder",
+          "partial": "Input Bucket",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-TestRole.html#v:trInputBucket"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.TestRole",
+          "name": "trOutputBucket",
+          "package": "aws-elastic-transcoder",
+          "signature": "S3Object",
+          "source": "src/Aws-ElasticTranscoder-Commands-TestRole.html#TestRole",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands TestRole",
+          "module": "Aws.ElasticTranscoder.Commands.TestRole",
+          "name": "trOutputBucket",
+          "package": "aws-elastic-transcoder",
+          "partial": "Output Bucket",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-TestRole.html#v:trOutputBucket"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.TestRole",
+          "name": "trRole",
+          "package": "aws-elastic-transcoder",
+          "signature": "IAMRole",
+          "source": "src/Aws-ElasticTranscoder-Commands-TestRole.html#TestRole",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands TestRole",
+          "module": "Aws.ElasticTranscoder.Commands.TestRole",
+          "name": "trRole",
+          "package": "aws-elastic-transcoder",
+          "partial": "Role",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-TestRole.html#v:trRole"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.TestRole",
+          "name": "trTopics",
+          "package": "aws-elastic-transcoder",
+          "signature": "[SNSTopic]",
+          "source": "src/Aws-ElasticTranscoder-Commands-TestRole.html#TestRole",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands TestRole",
+          "module": "Aws.ElasticTranscoder.Commands.TestRole",
+          "name": "trTopics",
+          "normalized": "[SNSTopic]",
+          "package": "aws-elastic-transcoder",
+          "partial": "Topics",
+          "signature": "[SNSTopic]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-TestRole.html#v:trTopics"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.TestRole",
+          "name": "trrMessages",
+          "package": "aws-elastic-transcoder",
+          "signature": "[Text]",
+          "source": "src/Aws-ElasticTranscoder-Commands-TestRole.html#TestRoleResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands TestRole",
+          "module": "Aws.ElasticTranscoder.Commands.TestRole",
+          "name": "trrMessages",
+          "normalized": "[Text]",
+          "package": "aws-elastic-transcoder",
+          "partial": "Messages",
+          "signature": "[Text]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-TestRole.html#v:trrMessages"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.TestRole",
+          "name": "trrSuccess",
+          "package": "aws-elastic-transcoder",
+          "signature": "Bool",
+          "source": "src/Aws-ElasticTranscoder-Commands-TestRole.html#TestRoleResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands TestRole",
+          "module": "Aws.ElasticTranscoder.Commands.TestRole",
+          "name": "trrSuccess",
+          "package": "aws-elastic-transcoder",
+          "partial": "Success",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-TestRole.html#v:trrSuccess"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.UpdatePipelineNotifications",
+          "name": "UpdatePipelineNotifications",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-UpdatePipelineNotifications.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands UpdatePipelineNotifications",
+          "module": "Aws.ElasticTranscoder.Commands.UpdatePipelineNotifications",
+          "name": "UpdatePipelineNotifications",
+          "package": "aws-elastic-transcoder",
+          "partial": "Update Pipeline Notifications",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-UpdatePipelineNotifications.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.UpdatePipelineNotifications",
+          "name": "UpdatePipelineNotifications",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-UpdatePipelineNotifications.html#UpdatePipelineNotifications",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands UpdatePipelineNotifications",
+          "module": "Aws.ElasticTranscoder.Commands.UpdatePipelineNotifications",
+          "name": "UpdatePipelineNotifications",
+          "package": "aws-elastic-transcoder",
+          "partial": "Update Pipeline Notifications",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-UpdatePipelineNotifications.html#t:UpdatePipelineNotifications"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.UpdatePipelineNotifications",
+          "name": "UpdatePipelineNotifications",
+          "package": "aws-elastic-transcoder",
+          "signature": "UpdatePipelineNotifications",
+          "source": "src/Aws-ElasticTranscoder-Commands-UpdatePipelineNotifications.html#UpdatePipelineNotifications",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands UpdatePipelineNotifications",
+          "module": "Aws.ElasticTranscoder.Commands.UpdatePipelineNotifications",
+          "name": "UpdatePipelineNotifications",
+          "package": "aws-elastic-transcoder",
+          "partial": "Update Pipeline Notifications",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-UpdatePipelineNotifications.html#v:UpdatePipelineNotifications"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.UpdatePipelineNotifications",
+          "name": "upnId",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineId",
+          "source": "src/Aws-ElasticTranscoder-Commands-UpdatePipelineNotifications.html#UpdatePipelineNotifications",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands UpdatePipelineNotifications",
+          "module": "Aws.ElasticTranscoder.Commands.UpdatePipelineNotifications",
+          "name": "upnId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-UpdatePipelineNotifications.html#v:upnId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.UpdatePipelineNotifications",
+          "name": "upnNotifications",
+          "package": "aws-elastic-transcoder",
+          "signature": "Notifications",
+          "source": "src/Aws-ElasticTranscoder-Commands-UpdatePipelineNotifications.html#UpdatePipelineNotifications",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands UpdatePipelineNotifications",
+          "module": "Aws.ElasticTranscoder.Commands.UpdatePipelineNotifications",
+          "name": "upnNotifications",
+          "package": "aws-elastic-transcoder",
+          "partial": "Notifications",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-UpdatePipelineNotifications.html#v:upnNotifications"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.UpdatePipelineStatus",
+          "name": "UpdatePipelineStatus",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-UpdatePipelineStatus.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands UpdatePipelineStatus",
+          "module": "Aws.ElasticTranscoder.Commands.UpdatePipelineStatus",
+          "name": "UpdatePipelineStatus",
+          "package": "aws-elastic-transcoder",
+          "partial": "Update Pipeline Status",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-UpdatePipelineStatus.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.UpdatePipelineStatus",
+          "name": "UpdatePipelineStatus",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands-UpdatePipelineStatus.html#UpdatePipelineStatus",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands UpdatePipelineStatus",
+          "module": "Aws.ElasticTranscoder.Commands.UpdatePipelineStatus",
+          "name": "UpdatePipelineStatus",
+          "package": "aws-elastic-transcoder",
+          "partial": "Update Pipeline Status",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-UpdatePipelineStatus.html#t:UpdatePipelineStatus"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.UpdatePipelineStatus",
+          "name": "UpdatePipelineStatus",
+          "package": "aws-elastic-transcoder",
+          "signature": "UpdatePipelineStatus",
+          "source": "src/Aws-ElasticTranscoder-Commands-UpdatePipelineStatus.html#UpdatePipelineStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands UpdatePipelineStatus",
+          "module": "Aws.ElasticTranscoder.Commands.UpdatePipelineStatus",
+          "name": "UpdatePipelineStatus",
+          "package": "aws-elastic-transcoder",
+          "partial": "Update Pipeline Status",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-UpdatePipelineStatus.html#v:UpdatePipelineStatus"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.UpdatePipelineStatus",
+          "name": "upsId",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineId",
+          "source": "src/Aws-ElasticTranscoder-Commands-UpdatePipelineStatus.html#UpdatePipelineStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands UpdatePipelineStatus",
+          "module": "Aws.ElasticTranscoder.Commands.UpdatePipelineStatus",
+          "name": "upsId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-UpdatePipelineStatus.html#v:upsId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands.UpdatePipelineStatus",
+          "name": "upsStatus",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineStatus",
+          "source": "src/Aws-ElasticTranscoder-Commands-UpdatePipelineStatus.html#UpdatePipelineStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands UpdatePipelineStatus",
+          "module": "Aws.ElasticTranscoder.Commands.UpdatePipelineStatus",
+          "name": "upsStatus",
+          "package": "aws-elastic-transcoder",
+          "partial": "Status",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands-UpdatePipelineStatus.html#v:upsStatus"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Commands",
+          "name": "Commands",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Commands.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Commands",
+          "module": "Aws.ElasticTranscoder.Commands",
+          "name": "Commands",
+          "package": "aws-elastic-transcoder",
+          "partial": "Commands",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Commands.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "Core",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Core.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "Core",
+          "package": "aws-elastic-transcoder",
+          "partial": "Core",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "ETSEndpoint",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Core.html#ETSEndpoint",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "ETSEndpoint",
+          "package": "aws-elastic-transcoder",
+          "partial": "ETSEndpoint",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#t:ETSEndpoint"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "EtsConfiguration",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Core.html#EtsConfiguration",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "EtsConfiguration",
+          "package": "aws-elastic-transcoder",
+          "partial": "Ets Configuration",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#t:EtsConfiguration"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "EtsError",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Core.html#EtsError",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "EtsError",
+          "package": "aws-elastic-transcoder",
+          "partial": "Ets Error",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#t:EtsError"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "EtsMetadata",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Core.html#EtsMetadata",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "EtsMetadata",
+          "package": "aws-elastic-transcoder",
+          "partial": "Ets Metadata",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#t:EtsMetadata"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "EtsQuery",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Core.html#EtsQuery",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "EtsQuery",
+          "package": "aws-elastic-transcoder",
+          "partial": "Ets Query",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#t:EtsQuery"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "EtsConfiguration",
+          "package": "aws-elastic-transcoder",
+          "signature": "EtsConfiguration",
+          "source": "src/Aws-ElasticTranscoder-Core.html#EtsConfiguration",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "EtsConfiguration",
+          "package": "aws-elastic-transcoder",
+          "partial": "Ets Configuration",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:EtsConfiguration"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "EtsError",
+          "package": "aws-elastic-transcoder",
+          "signature": "EtsError",
+          "source": "src/Aws-ElasticTranscoder-Core.html#EtsError",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "EtsError",
+          "package": "aws-elastic-transcoder",
+          "partial": "Ets Error",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:EtsError"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "EtsMetadata",
+          "package": "aws-elastic-transcoder",
+          "signature": "EtsMetadata",
+          "source": "src/Aws-ElasticTranscoder-Core.html#EtsMetadata",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "EtsMetadata",
+          "package": "aws-elastic-transcoder",
+          "partial": "Ets Metadata",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:EtsMetadata"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "EtsQuery",
+          "package": "aws-elastic-transcoder",
+          "signature": "EtsQuery",
+          "source": "src/Aws-ElasticTranscoder-Core.html#EtsQuery",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "EtsQuery",
+          "package": "aws-elastic-transcoder",
+          "partial": "Ets Query",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:EtsQuery"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "endpoint",
+          "package": "aws-elastic-transcoder",
+          "signature": "ETSEndpoint -\u003e ByteString",
+          "source": "src/Aws-ElasticTranscoder-Core.html#endpoint",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "endpoint",
+          "normalized": "ETSEndpoint-\u003eByteString",
+          "package": "aws-elastic-transcoder",
+          "signature": "ETSEndpoint-\u003eByteString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:endpoint"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsConfiguration",
+          "package": "aws-elastic-transcoder",
+          "signature": "Protocol -\u003e ETSEndpoint -\u003e EtsConfiguration qt",
+          "source": "src/Aws-ElasticTranscoder-Core.html#etsConfiguration",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsConfiguration",
+          "normalized": "Protocol-\u003eETSEndpoint-\u003eEtsConfiguration a",
+          "package": "aws-elastic-transcoder",
+          "partial": "Configuration",
+          "signature": "Protocol-\u003eETSEndpoint-\u003eEtsConfiguration qt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsConfiguration"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsDefaultExpiry",
+          "package": "aws-elastic-transcoder",
+          "signature": "NominalDiffTime",
+          "source": "src/Aws-ElasticTranscoder-Core.html#EtsConfiguration",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsDefaultExpiry",
+          "package": "aws-elastic-transcoder",
+          "partial": "Default Expiry",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsDefaultExpiry"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsEndpoint",
+          "package": "aws-elastic-transcoder",
+          "signature": "ETSEndpoint",
+          "source": "src/Aws-ElasticTranscoder-Core.html#EtsConfiguration",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsEndpoint",
+          "package": "aws-elastic-transcoder",
+          "partial": "Endpoint",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsEndpoint"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsEndpointApNorthEast",
+          "package": "aws-elastic-transcoder",
+          "signature": "ETSEndpoint",
+          "source": "src/Aws-ElasticTranscoder-Core.html#etsEndpointApNorthEast",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsEndpointApNorthEast",
+          "package": "aws-elastic-transcoder",
+          "partial": "Endpoint Ap North East",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsEndpointApNorthEast"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsEndpointApSouthEast",
+          "package": "aws-elastic-transcoder",
+          "signature": "ETSEndpoint",
+          "source": "src/Aws-ElasticTranscoder-Core.html#etsEndpointApSouthEast",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsEndpointApSouthEast",
+          "package": "aws-elastic-transcoder",
+          "partial": "Endpoint Ap South East",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsEndpointApSouthEast"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsEndpointEu",
+          "package": "aws-elastic-transcoder",
+          "signature": "ETSEndpoint",
+          "source": "src/Aws-ElasticTranscoder-Core.html#etsEndpointEu",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsEndpointEu",
+          "package": "aws-elastic-transcoder",
+          "partial": "Endpoint Eu",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsEndpointEu"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsEndpointUsEast",
+          "package": "aws-elastic-transcoder",
+          "signature": "ETSEndpoint",
+          "source": "src/Aws-ElasticTranscoder-Core.html#etsEndpointUsEast",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsEndpointUsEast",
+          "package": "aws-elastic-transcoder",
+          "partial": "Endpoint Us East",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsEndpointUsEast"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsEndpointUsWest",
+          "package": "aws-elastic-transcoder",
+          "signature": "ETSEndpoint",
+          "source": "src/Aws-ElasticTranscoder-Core.html#etsEndpointUsWest",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsEndpointUsWest",
+          "package": "aws-elastic-transcoder",
+          "partial": "Endpoint Us West",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsEndpointUsWest"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsEndpointUsWest2",
+          "package": "aws-elastic-transcoder",
+          "signature": "ETSEndpoint",
+          "source": "src/Aws-ElasticTranscoder-Core.html#etsEndpointUsWest2",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsEndpointUsWest2",
+          "package": "aws-elastic-transcoder",
+          "partial": "Endpoint Us West",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsEndpointUsWest2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsErrorMessage",
+          "package": "aws-elastic-transcoder",
+          "signature": "Text",
+          "source": "src/Aws-ElasticTranscoder-Core.html#EtsError",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsErrorMessage",
+          "package": "aws-elastic-transcoder",
+          "partial": "Error Message",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsErrorMessage"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsMAmzId2",
+          "package": "aws-elastic-transcoder",
+          "signature": "Maybe Text",
+          "source": "src/Aws-ElasticTranscoder-Core.html#EtsMetadata",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsMAmzId2",
+          "package": "aws-elastic-transcoder",
+          "partial": "MAmz Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsMAmzId2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsMRequestId",
+          "package": "aws-elastic-transcoder",
+          "signature": "Maybe Text",
+          "source": "src/Aws-ElasticTranscoder-Core.html#EtsMetadata",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsMRequestId",
+          "package": "aws-elastic-transcoder",
+          "partial": "MRequest Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsMRequestId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsPort",
+          "package": "aws-elastic-transcoder",
+          "signature": "Int",
+          "source": "src/Aws-ElasticTranscoder-Core.html#EtsConfiguration",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsPort",
+          "package": "aws-elastic-transcoder",
+          "partial": "Port",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsPort"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsProtocol",
+          "package": "aws-elastic-transcoder",
+          "signature": "Protocol",
+          "source": "src/Aws-ElasticTranscoder-Core.html#EtsConfiguration",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsProtocol",
+          "package": "aws-elastic-transcoder",
+          "partial": "Protocol",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsProtocol"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsResponseConsumer",
+          "package": "aws-elastic-transcoder",
+          "signature": "IORef EtsMetadata -\u003e HTTPResponseConsumer a -\u003e HTTPResponseConsumer a",
+          "source": "src/Aws-ElasticTranscoder-Core.html#etsResponseConsumer",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsResponseConsumer",
+          "normalized": "IORef EtsMetadata-\u003eHTTPResponseConsumer a-\u003eHTTPResponseConsumer a",
+          "package": "aws-elastic-transcoder",
+          "partial": "Response Consumer",
+          "signature": "IORef EtsMetadata-\u003eHTTPResponseConsumer a-\u003eHTTPResponseConsumer a",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsResponseConsumer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsSignQuery",
+          "package": "aws-elastic-transcoder",
+          "signature": "EtsQuery -\u003e EtsConfiguration qt -\u003e SignatureData -\u003e SignedQuery",
+          "source": "src/Aws-ElasticTranscoder-Core.html#etsSignQuery",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsSignQuery",
+          "normalized": "EtsQuery-\u003eEtsConfiguration a-\u003eSignatureData-\u003eSignedQuery",
+          "package": "aws-elastic-transcoder",
+          "partial": "Sign Query",
+          "signature": "EtsQuery-\u003eEtsConfiguration qt-\u003eSignatureData-\u003eSignedQuery",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsSignQuery"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsStatusCode",
+          "package": "aws-elastic-transcoder",
+          "signature": "Status",
+          "source": "src/Aws-ElasticTranscoder-Core.html#EtsError",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsStatusCode",
+          "package": "aws-elastic-transcoder",
+          "partial": "Status Code",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsStatusCode"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsqBody",
+          "package": "aws-elastic-transcoder",
+          "signature": "Maybe Value",
+          "source": "src/Aws-ElasticTranscoder-Core.html#EtsQuery",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsqBody",
+          "package": "aws-elastic-transcoder",
+          "partial": "Body",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsqBody"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsqMethod",
+          "package": "aws-elastic-transcoder",
+          "signature": "Method",
+          "source": "src/Aws-ElasticTranscoder-Core.html#EtsQuery",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsqMethod",
+          "package": "aws-elastic-transcoder",
+          "partial": "Method",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsqMethod"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsqQuery",
+          "package": "aws-elastic-transcoder",
+          "signature": "Query",
+          "source": "src/Aws-ElasticTranscoder-Core.html#EtsQuery",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsqQuery",
+          "package": "aws-elastic-transcoder",
+          "partial": "Query",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsqQuery"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsqRequest",
+          "package": "aws-elastic-transcoder",
+          "signature": "Text",
+          "source": "src/Aws-ElasticTranscoder-Core.html#EtsQuery",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "etsqRequest",
+          "package": "aws-elastic-transcoder",
+          "partial": "Request",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:etsqRequest"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "jsonConsumer",
+          "package": "aws-elastic-transcoder",
+          "signature": "HTTPResponseConsumer a",
+          "source": "src/Aws-ElasticTranscoder-Core.html#jsonConsumer",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "jsonConsumer",
+          "package": "aws-elastic-transcoder",
+          "partial": "Consumer",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:jsonConsumer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "region",
+          "package": "aws-elastic-transcoder",
+          "signature": "ETSEndpoint -\u003e ByteString",
+          "source": "src/Aws-ElasticTranscoder-Core.html#region",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Core",
+          "module": "Aws.ElasticTranscoder.Core",
+          "name": "region",
+          "normalized": "ETSEndpoint-\u003eByteString",
+          "package": "aws-elastic-transcoder",
+          "signature": "ETSEndpoint-\u003eByteString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Core.html#v:region"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Types",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Types",
+          "package": "aws-elastic-transcoder",
+          "partial": "Types",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInput Aspect Ratio\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "AspectRatio",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#AspectRatio",
+          "type": "data"
+        },
+        "index": {
+          "description": "Input Aspect Ratio",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "AspectRatio",
+          "package": "aws-elastic-transcoder",
+          "partial": "Aspect Ratio",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:AspectRatio"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eAudio\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Audio",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Audio",
+          "type": "data"
+        },
+        "index": {
+          "description": "Audio",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Audio",
+          "package": "aws-elastic-transcoder",
+          "partial": "Audio",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:Audio"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eAudioCodec\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "AudioCodec",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#AudioCodec",
+          "type": "data"
+        },
+        "index": {
+          "description": "AudioCodec",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "AudioCodec",
+          "package": "aws-elastic-transcoder",
+          "partial": "Audio Codec",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:AudioCodec"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003e\u003ccode\u003eauto\u003c/code\u003e, \u003ccode\u003etrue\u003c/code\u003e or \u003ccode\u003efalse\u003c/code\u003e\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "AutoBool",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#AutoBool",
+          "type": "data"
+        },
+        "index": {
+          "description": "auto true or false",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "AutoBool",
+          "package": "aws-elastic-transcoder",
+          "partial": "Auto Bool",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:AutoBool"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eBitRate\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "BitRate",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#BitRate",
+          "type": "newtype"
+        },
+        "index": {
+          "description": "BitRate",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "BitRate",
+          "package": "aws-elastic-transcoder",
+          "partial": "Bit Rate",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:BitRate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eChannels\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Channels",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Channels",
+          "type": "data"
+        },
+        "index": {
+          "description": "Channels",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Channels",
+          "package": "aws-elastic-transcoder",
+          "partial": "Channels",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:Channels"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eCodecOptions\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "CodecOptions",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#CodecOptions",
+          "type": "data"
+        },
+        "index": {
+          "description": "CodecOptions",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "CodecOptions",
+          "package": "aws-elastic-transcoder",
+          "partial": "Codec Options",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:CodecOptions"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInput Container Type\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Container",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
+          "type": "data"
+        },
+        "index": {
+          "description": "Input Container Type",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Container",
+          "package": "aws-elastic-transcoder",
+          "partial": "Container",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:Container"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eEts error message\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "EtsServiceError",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#EtsServiceError",
+          "type": "newtype"
+        },
+        "index": {
+          "description": "Ets error message",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "EtsServiceError",
+          "package": "aws-elastic-transcoder",
+          "partial": "Ets Service Error",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:EtsServiceError"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eFixedGOP\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "FixedGOP",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#FixedGOP",
+          "type": "newtype"
+        },
+        "index": {
+          "description": "FixedGOP",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "FixedGOP",
+          "package": "aws-elastic-transcoder",
+          "partial": "Fixed GOP",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:FixedGOP"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInput Frame Rate\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "FrameRate",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#FrameRate",
+          "type": "data"
+        },
+        "index": {
+          "description": "Input Frame Rate",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "FrameRate",
+          "package": "aws-elastic-transcoder",
+          "partial": "Frame Rate",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:FrameRate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eIAM Role represented by Yext\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "IAMRole",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#IAMRole",
+          "type": "type"
+        },
+        "index": {
+          "description": "IAM Role represented by Yext",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "IAMRole",
+          "package": "aws-elastic-transcoder",
+          "partial": "IAMRole",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:IAMRole"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInterval\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Interval",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Interval",
+          "type": "newtype"
+        },
+        "index": {
+          "description": "Interval",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Interval",
+          "package": "aws-elastic-transcoder",
+          "partial": "Interval",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:Interval"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eJob Input Parameters\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JSInput",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JSInput",
+          "type": "data"
+        },
+        "index": {
+          "description": "Job Input Parameters",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JSInput",
+          "package": "aws-elastic-transcoder",
+          "partial": "JSInput",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:JSInput"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eJob Output Parameters\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JSOutput",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JSOutput",
+          "type": "data"
+        },
+        "index": {
+          "description": "Job Output Parameters",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JSOutput",
+          "package": "aws-elastic-transcoder",
+          "partial": "JSOutput",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:JSOutput"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eJob Output Parameters with Status\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JSOutputStatus",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JSOutputStatus",
+          "type": "data"
+        },
+        "index": {
+          "description": "Job Output Parameters with Status",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JSOutputStatus",
+          "package": "aws-elastic-transcoder",
+          "partial": "JSOutput Status",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:JSOutputStatus"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eJob Identifiers\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JobId",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JobId",
+          "type": "newtype"
+        },
+        "index": {
+          "description": "Job Identifiers",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JobId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Job Id",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:JobId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eJob List\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JobList",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JobList",
+          "type": "data"
+        },
+        "index": {
+          "description": "Job List",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JobList",
+          "package": "aws-elastic-transcoder",
+          "partial": "Job List",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:JobList"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eJob Single\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JobSingle",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JobSingle",
+          "type": "newtype"
+        },
+        "index": {
+          "description": "Job Single",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JobSingle",
+          "package": "aws-elastic-transcoder",
+          "partial": "Job Single",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:JobSingle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eJob Specifications\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JobSpec",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JobSpec",
+          "type": "data"
+        },
+        "index": {
+          "description": "Job Specifications",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JobSpec",
+          "package": "aws-elastic-transcoder",
+          "partial": "Job Spec",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:JobSpec"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eJob Specifications with JobId & Status\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JobSpecId",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JobSpecId",
+          "type": "data"
+        },
+        "index": {
+          "description": "Job Specifications with JobId Status",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JobSpecId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Job Spec Id",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:JobSpecId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eKeyFrameRate\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "KeyFrameRate",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#KeyFrameRate",
+          "type": "newtype"
+        },
+        "index": {
+          "description": "KeyFrameRate",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "KeyFrameRate",
+          "package": "aws-elastic-transcoder",
+          "partial": "Key Frame Rate",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:KeyFrameRate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eLevel\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Level",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Level",
+          "type": "data"
+        },
+        "index": {
+          "description": "Level",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Level",
+          "package": "aws-elastic-transcoder",
+          "partial": "Level",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:Level"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eMessagesSuccess\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "MessagesSuccess",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#MessagesSuccess",
+          "type": "data"
+        },
+        "index": {
+          "description": "MessagesSuccess",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "MessagesSuccess",
+          "package": "aws-elastic-transcoder",
+          "partial": "Messages Success",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:MessagesSuccess"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eNotifications\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Notifications",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Notifications",
+          "type": "data"
+        },
+        "index": {
+          "description": "Notifications",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Notifications",
+          "package": "aws-elastic-transcoder",
+          "partial": "Notifications",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:Notifications"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ePage Tokens\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PageToken",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PageToken",
+          "type": "newtype"
+        },
+        "index": {
+          "description": "Page Tokens",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PageToken",
+          "package": "aws-elastic-transcoder",
+          "partial": "Page Token",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:PageToken"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ePipeline\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Pipeline",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Pipeline",
+          "type": "data"
+        },
+        "index": {
+          "description": "Pipeline",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Pipeline",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pipeline",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:Pipeline"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ePipelineId\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PipelineId",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineId",
+          "type": "newtype"
+        },
+        "index": {
+          "description": "PipelineId",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PipelineId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pipeline Id",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:PipelineId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ePipelineIdAndNotifications\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PipelineIdAndNotifications",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdAndNotifications",
+          "type": "data"
+        },
+        "index": {
+          "description": "PipelineIdAndNotifications",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PipelineIdAndNotifications",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pipeline Id And Notifications",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:PipelineIdAndNotifications"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ePipelineIdAndStatus\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PipelineIdAndStatus",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdAndStatus",
+          "type": "data"
+        },
+        "index": {
+          "description": "PipelineIdAndStatus",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PipelineIdAndStatus",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pipeline Id And Status",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:PipelineIdAndStatus"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ePipelineIdStatus\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PipelineIdStatus",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdStatus",
+          "type": "data"
+        },
+        "index": {
+          "description": "PipelineIdStatus",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PipelineIdStatus",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pipeline Id Status",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:PipelineIdStatus"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ePipeline List\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PipelineList",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineList",
+          "type": "data"
+        },
+        "index": {
+          "description": "Pipeline List",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PipelineList",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pipeline List",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:PipelineList"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ePipelineName\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PipelineName",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineName",
+          "type": "newtype"
+        },
+        "index": {
+          "description": "PipelineName",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PipelineName",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pipeline Name",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:PipelineName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ePipeline Single\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PipelineSingle",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineSingle",
+          "type": "newtype"
+        },
+        "index": {
+          "description": "Pipeline Single",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PipelineSingle",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pipeline Single",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:PipelineSingle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ePipelineStatus\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PipelineStatus",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineStatus",
+          "type": "type"
+        },
+        "index": {
+          "description": "PipelineStatus",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PipelineStatus",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pipeline Status",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:PipelineStatus"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ePreset\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Preset",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Preset",
+          "type": "data"
+        },
+        "index": {
+          "description": "Preset",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Preset",
+          "package": "aws-elastic-transcoder",
+          "partial": "Preset",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:Preset"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ePreset Identifiers\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PresetId",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetId",
+          "type": "newtype"
+        },
+        "index": {
+          "description": "Preset Identifiers",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PresetId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Preset Id",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:PresetId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ePresetList\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PresetList",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetList",
+          "type": "data"
+        },
+        "index": {
+          "description": "PresetList",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PresetList",
+          "package": "aws-elastic-transcoder",
+          "partial": "Preset List",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:PresetList"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ePresetName\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PresetName",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetName",
+          "type": "newtype"
+        },
+        "index": {
+          "description": "PresetName",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PresetName",
+          "package": "aws-elastic-transcoder",
+          "partial": "Preset Name",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:PresetName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ePresetResponse\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PresetResponse",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetResponse",
+          "type": "data"
+        },
+        "index": {
+          "description": "PresetResponse",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PresetResponse",
+          "package": "aws-elastic-transcoder",
+          "partial": "Preset Response",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:PresetResponse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ePresetSingle\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PresetSingle",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetSingle",
+          "type": "newtype"
+        },
+        "index": {
+          "description": "PresetSingle",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PresetSingle",
+          "package": "aws-elastic-transcoder",
+          "partial": "Preset Single",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:PresetSingle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ePresetType\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PresetType",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetType",
+          "type": "data"
+        },
+        "index": {
+          "description": "PresetType",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PresetType",
+          "package": "aws-elastic-transcoder",
+          "partial": "Preset Type",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:PresetType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eProfile\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Profile",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Profile",
+          "type": "data"
+        },
+        "index": {
+          "description": "Profile",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Profile",
+          "package": "aws-elastic-transcoder",
+          "partial": "Profile",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:Profile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInput Resolution\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Resolution",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Resolution",
+          "type": "data"
+        },
+        "index": {
+          "description": "Input Resolution",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Resolution",
+          "package": "aws-elastic-transcoder",
+          "partial": "Resolution",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:Resolution"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eRoleTest\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "RoleTest",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#RoleTest",
+          "type": "data"
+        },
+        "index": {
+          "description": "RoleTest",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "RoleTest",
+          "package": "aws-elastic-transcoder",
+          "partial": "Role Test",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:RoleTest"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eOutput Rotation\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Rotate",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Rotate",
+          "type": "data"
+        },
+        "index": {
+          "description": "Output Rotation",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Rotate",
+          "package": "aws-elastic-transcoder",
+          "partial": "Rotate",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:Rotate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eAws.S3 uses Text for object keys\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "S3Object",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#S3Object",
+          "type": "type"
+        },
+        "index": {
+          "description": "Aws.S3 uses Text for object keys",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "S3Object",
+          "package": "aws-elastic-transcoder",
+          "partial": "Object",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:S3Object"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eSNS Topics represented by Text values\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "SNSTopic",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#SNSTopic",
+          "type": "type"
+        },
+        "index": {
+          "description": "SNS Topics represented by Text values",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "SNSTopic",
+          "package": "aws-elastic-transcoder",
+          "partial": "SNSTopic",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:SNSTopic"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003e\u003ccode\u003esuccess\u003c/code\u003e\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "SUCCESS",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#SUCCESS",
+          "type": "newtype"
+        },
+        "index": {
+          "description": "success",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "SUCCESS",
+          "package": "aws-elastic-transcoder",
+          "partial": "SUCCESS",
+          "type": "newtype"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:SUCCESS"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eSampleRate\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "SampleRate",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#SampleRate",
+          "type": "data"
+        },
+        "index": {
+          "description": "SampleRate",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "SampleRate",
+          "package": "aws-elastic-transcoder",
+          "partial": "Sample Rate",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:SampleRate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eJob Status\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Status",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Status",
+          "type": "data"
+        },
+        "index": {
+          "description": "Job Status",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Status",
+          "package": "aws-elastic-transcoder",
+          "partial": "Status",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:Status"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eText or Null\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "TextOrNull",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#TextOrNull",
+          "type": "data"
+        },
+        "index": {
+          "description": "Text or Null",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "TextOrNull",
+          "package": "aws-elastic-transcoder",
+          "partial": "Text Or Null",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:TextOrNull"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eThumbnailFormat\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "ThumbnailFormat",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#ThumbnailFormat",
+          "type": "data"
+        },
+        "index": {
+          "description": "ThumbnailFormat",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "ThumbnailFormat",
+          "package": "aws-elastic-transcoder",
+          "partial": "Thumbnail Format",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:ThumbnailFormat"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eThumbnails\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Thumbnails",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Thumbnails",
+          "type": "data"
+        },
+        "index": {
+          "description": "Thumbnails",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Thumbnails",
+          "package": "aws-elastic-transcoder",
+          "partial": "Thumbnails",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:Thumbnails"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eVideo\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Video",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Video",
+          "type": "data"
+        },
+        "index": {
+          "description": "Video",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Video",
+          "package": "aws-elastic-transcoder",
+          "partial": "Video",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:Video"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eVideoCodec\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "VideoCodec",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#VideoCodec",
+          "type": "data"
+        },
+        "index": {
+          "description": "VideoCodec",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "VideoCodec",
+          "package": "aws-elastic-transcoder",
+          "partial": "Video Codec",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#t:VideoCodec"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "ABauto",
+          "package": "aws-elastic-transcoder",
+          "signature": "ABauto",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#AutoBool",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "ABauto",
+          "package": "aws-elastic-transcoder",
+          "partial": "ABauto",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:ABauto"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "ABfalse",
+          "package": "aws-elastic-transcoder",
+          "signature": "ABfalse",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#AutoBool",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "ABfalse",
+          "package": "aws-elastic-transcoder",
+          "partial": "ABfalse",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:ABfalse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "ABtrue",
+          "package": "aws-elastic-transcoder",
+          "signature": "ABtrue",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#AutoBool",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "ABtrue",
+          "package": "aws-elastic-transcoder",
+          "partial": "ABtrue",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:ABtrue"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "AC_AAC",
+          "package": "aws-elastic-transcoder",
+          "signature": "AC_AAC",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#AudioCodec",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "AC_AAC",
+          "package": "aws-elastic-transcoder",
+          "partial": "AC AAC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:AC_AAC"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "AR16_9",
+          "package": "aws-elastic-transcoder",
+          "signature": "AR16_9",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#AspectRatio",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "AR16_9",
+          "package": "aws-elastic-transcoder",
+          "partial": "AR",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:AR16_9"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "AR1_1",
+          "package": "aws-elastic-transcoder",
+          "signature": "AR1_1",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#AspectRatio",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "AR1_1",
+          "package": "aws-elastic-transcoder",
+          "partial": "AR",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:AR1_1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "AR3_2",
+          "package": "aws-elastic-transcoder",
+          "signature": "AR3_2",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#AspectRatio",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "AR3_2",
+          "package": "aws-elastic-transcoder",
+          "partial": "AR",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:AR3_2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "AR4_3",
+          "package": "aws-elastic-transcoder",
+          "signature": "AR4_3",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#AspectRatio",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "AR4_3",
+          "package": "aws-elastic-transcoder",
+          "partial": "AR",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:AR4_3"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "ARauto",
+          "package": "aws-elastic-transcoder",
+          "signature": "ARauto",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#AspectRatio",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "ARauto",
+          "package": "aws-elastic-transcoder",
+          "partial": "ARauto",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:ARauto"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Audio",
+          "package": "aws-elastic-transcoder",
+          "signature": "Audio",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Audio",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Audio",
+          "package": "aws-elastic-transcoder",
+          "partial": "Audio",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Audio"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "C3gp",
+          "package": "aws-elastic-transcoder",
+          "signature": "C3gp",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "C3gp",
+          "package": "aws-elastic-transcoder",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:C3gp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Casf",
+          "package": "aws-elastic-transcoder",
+          "signature": "Casf",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Casf",
+          "package": "aws-elastic-transcoder",
+          "partial": "Casf",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Casf"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Cauto",
+          "package": "aws-elastic-transcoder",
+          "signature": "Cauto",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Cauto",
+          "package": "aws-elastic-transcoder",
+          "partial": "Cauto",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Cauto"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Cavi",
+          "package": "aws-elastic-transcoder",
+          "signature": "Cavi",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Cavi",
+          "package": "aws-elastic-transcoder",
+          "partial": "Cavi",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Cavi"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Cdivx",
+          "package": "aws-elastic-transcoder",
+          "signature": "Cdivx",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Cdivx",
+          "package": "aws-elastic-transcoder",
+          "partial": "Cdivx",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Cdivx"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Cflv",
+          "package": "aws-elastic-transcoder",
+          "signature": "Cflv",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Cflv",
+          "package": "aws-elastic-transcoder",
+          "partial": "Cflv",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Cflv"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Chs_0",
+          "package": "aws-elastic-transcoder",
+          "signature": "Chs_0",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Channels",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Chs_0",
+          "package": "aws-elastic-transcoder",
+          "partial": "Chs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Chs_0"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Chs_1",
+          "package": "aws-elastic-transcoder",
+          "signature": "Chs_1",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Channels",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Chs_1",
+          "package": "aws-elastic-transcoder",
+          "partial": "Chs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Chs_1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Chs_2",
+          "package": "aws-elastic-transcoder",
+          "signature": "Chs_2",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Channels",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Chs_2",
+          "package": "aws-elastic-transcoder",
+          "partial": "Chs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Chs_2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Chs_auto",
+          "package": "aws-elastic-transcoder",
+          "signature": "Chs_auto",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Channels",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Chs_auto",
+          "package": "aws-elastic-transcoder",
+          "partial": "Chs",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Chs_auto"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Cmkv",
+          "package": "aws-elastic-transcoder",
+          "signature": "Cmkv",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Cmkv",
+          "package": "aws-elastic-transcoder",
+          "partial": "Cmkv",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Cmkv"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Cmov",
+          "package": "aws-elastic-transcoder",
+          "signature": "Cmov",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Cmov",
+          "package": "aws-elastic-transcoder",
+          "partial": "Cmov",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Cmov"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Cmp4",
+          "package": "aws-elastic-transcoder",
+          "signature": "Cmp4",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Cmp4",
+          "package": "aws-elastic-transcoder",
+          "partial": "Cmp",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Cmp4"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Cmpeg",
+          "package": "aws-elastic-transcoder",
+          "signature": "Cmpeg",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Cmpeg",
+          "package": "aws-elastic-transcoder",
+          "partial": "Cmpeg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Cmpeg"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Cmpeg_ps",
+          "package": "aws-elastic-transcoder",
+          "signature": "Cmpeg_ps",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Cmpeg_ps",
+          "package": "aws-elastic-transcoder",
+          "partial": "Cmpeg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Cmpeg_ps"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Cmpeg_ts",
+          "package": "aws-elastic-transcoder",
+          "signature": "Cmpeg_ts",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Cmpeg_ts",
+          "package": "aws-elastic-transcoder",
+          "partial": "Cmpeg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Cmpeg_ts"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Cmxf",
+          "package": "aws-elastic-transcoder",
+          "signature": "Cmxf",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Cmxf",
+          "package": "aws-elastic-transcoder",
+          "partial": "Cmxf",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Cmxf"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "CodecOptions",
+          "package": "aws-elastic-transcoder",
+          "signature": "CodecOptions",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#CodecOptions",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "CodecOptions",
+          "package": "aws-elastic-transcoder",
+          "partial": "Codec Options",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:CodecOptions"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Cogg",
+          "package": "aws-elastic-transcoder",
+          "signature": "Cogg",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Cogg",
+          "package": "aws-elastic-transcoder",
+          "partial": "Cogg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Cogg"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Cvob",
+          "package": "aws-elastic-transcoder",
+          "signature": "Cvob",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Cvob",
+          "package": "aws-elastic-transcoder",
+          "partial": "Cvob",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Cvob"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Cwav",
+          "package": "aws-elastic-transcoder",
+          "signature": "Cwav",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Cwav",
+          "package": "aws-elastic-transcoder",
+          "partial": "Cwav",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Cwav"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Cwebm",
+          "package": "aws-elastic-transcoder",
+          "signature": "Cwebm",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Container",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Cwebm",
+          "package": "aws-elastic-transcoder",
+          "partial": "Cwebm",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Cwebm"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "ESE",
+          "package": "aws-elastic-transcoder",
+          "signature": "ESE",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#EtsServiceError",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "ESE",
+          "package": "aws-elastic-transcoder",
+          "partial": "ESE",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:ESE"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "FR10",
+          "package": "aws-elastic-transcoder",
+          "signature": "FR10",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#FrameRate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "FR10",
+          "package": "aws-elastic-transcoder",
+          "partial": "FR",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:FR10"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "FR15",
+          "package": "aws-elastic-transcoder",
+          "signature": "FR15",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#FrameRate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "FR15",
+          "package": "aws-elastic-transcoder",
+          "partial": "FR",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:FR15"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "FR23_97",
+          "package": "aws-elastic-transcoder",
+          "signature": "FR23_97",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#FrameRate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "FR23_97",
+          "package": "aws-elastic-transcoder",
+          "partial": "FR",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:FR23_97"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "FR24",
+          "package": "aws-elastic-transcoder",
+          "signature": "FR24",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#FrameRate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "FR24",
+          "package": "aws-elastic-transcoder",
+          "partial": "FR",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:FR24"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "FR25",
+          "package": "aws-elastic-transcoder",
+          "signature": "FR25",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#FrameRate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "FR25",
+          "package": "aws-elastic-transcoder",
+          "partial": "FR",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:FR25"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "FR29_97",
+          "package": "aws-elastic-transcoder",
+          "signature": "FR29_97",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#FrameRate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "FR29_97",
+          "package": "aws-elastic-transcoder",
+          "partial": "FR",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:FR29_97"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "FR30",
+          "package": "aws-elastic-transcoder",
+          "signature": "FR30",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#FrameRate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "FR30",
+          "package": "aws-elastic-transcoder",
+          "partial": "FR",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:FR30"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "FR60",
+          "package": "aws-elastic-transcoder",
+          "signature": "FR60",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#FrameRate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "FR60",
+          "package": "aws-elastic-transcoder",
+          "partial": "FR",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:FR60"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "FRauto",
+          "package": "aws-elastic-transcoder",
+          "signature": "FRauto",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#FrameRate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "FRauto",
+          "package": "aws-elastic-transcoder",
+          "partial": "FRauto",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:FRauto"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "FixedGOP",
+          "package": "aws-elastic-transcoder",
+          "signature": "FixedGOP",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#FixedGOP",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "FixedGOP",
+          "package": "aws-elastic-transcoder",
+          "partial": "Fixed GOP",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:FixedGOP"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Interval",
+          "package": "aws-elastic-transcoder",
+          "signature": "Interval",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Interval",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Interval",
+          "package": "aws-elastic-transcoder",
+          "partial": "Interval",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Interval"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JSInput",
+          "package": "aws-elastic-transcoder",
+          "signature": "JSInput",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JSInput",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JSInput",
+          "package": "aws-elastic-transcoder",
+          "partial": "JSInput",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:JSInput"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JSOutput",
+          "package": "aws-elastic-transcoder",
+          "signature": "JSOutput",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JSOutput",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JSOutput",
+          "package": "aws-elastic-transcoder",
+          "partial": "JSOutput",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:JSOutput"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JSOutputStatus",
+          "package": "aws-elastic-transcoder",
+          "signature": "JSOutputStatus",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JSOutputStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JSOutputStatus",
+          "package": "aws-elastic-transcoder",
+          "partial": "JSOutput Status",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:JSOutputStatus"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JobId",
+          "package": "aws-elastic-transcoder",
+          "signature": "JobId",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JobId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JobId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Job Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:JobId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JobList",
+          "package": "aws-elastic-transcoder",
+          "signature": "JobList",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JobList",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JobList",
+          "package": "aws-elastic-transcoder",
+          "partial": "Job List",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:JobList"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JobSingle",
+          "package": "aws-elastic-transcoder",
+          "signature": "JobSingle",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JobSingle",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JobSingle",
+          "package": "aws-elastic-transcoder",
+          "partial": "Job Single",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:JobSingle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JobSpec",
+          "package": "aws-elastic-transcoder",
+          "signature": "JobSpec",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JobSpec",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JobSpec",
+          "package": "aws-elastic-transcoder",
+          "partial": "Job Spec",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:JobSpec"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JobSpecId",
+          "package": "aws-elastic-transcoder",
+          "signature": "JobSpecId",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JobSpecId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "JobSpecId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Job Spec Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:JobSpecId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "KbPerSec",
+          "package": "aws-elastic-transcoder",
+          "signature": "KbPerSec",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#BitRate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "KbPerSec",
+          "package": "aws-elastic-transcoder",
+          "partial": "Kb Per Sec",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:KbPerSec"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "KeyFrameRate",
+          "package": "aws-elastic-transcoder",
+          "signature": "KeyFrameRate",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#KeyFrameRate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "KeyFrameRate",
+          "package": "aws-elastic-transcoder",
+          "partial": "Key Frame Rate",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:KeyFrameRate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Lv_1",
+          "package": "aws-elastic-transcoder",
+          "signature": "Lv_1",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Level",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Lv_1",
+          "package": "aws-elastic-transcoder",
+          "partial": "Lv",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Lv_1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Lv_1_1",
+          "package": "aws-elastic-transcoder",
+          "signature": "Lv_1_1",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Level",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Lv_1_1",
+          "package": "aws-elastic-transcoder",
+          "partial": "Lv",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Lv_1_1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Lv_1_2",
+          "package": "aws-elastic-transcoder",
+          "signature": "Lv_1_2",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Level",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Lv_1_2",
+          "package": "aws-elastic-transcoder",
+          "partial": "Lv",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Lv_1_2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Lv_1_3",
+          "package": "aws-elastic-transcoder",
+          "signature": "Lv_1_3",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Level",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Lv_1_3",
+          "package": "aws-elastic-transcoder",
+          "partial": "Lv",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Lv_1_3"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Lv_1b",
+          "package": "aws-elastic-transcoder",
+          "signature": "Lv_1b",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Level",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Lv_1b",
+          "package": "aws-elastic-transcoder",
+          "partial": "Lv",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Lv_1b"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Lv_2",
+          "package": "aws-elastic-transcoder",
+          "signature": "Lv_2",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Level",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Lv_2",
+          "package": "aws-elastic-transcoder",
+          "partial": "Lv",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Lv_2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Lv_2_1",
+          "package": "aws-elastic-transcoder",
+          "signature": "Lv_2_1",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Level",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Lv_2_1",
+          "package": "aws-elastic-transcoder",
+          "partial": "Lv",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Lv_2_1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Lv_2_2",
+          "package": "aws-elastic-transcoder",
+          "signature": "Lv_2_2",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Level",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Lv_2_2",
+          "package": "aws-elastic-transcoder",
+          "partial": "Lv",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Lv_2_2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Lv_3",
+          "package": "aws-elastic-transcoder",
+          "signature": "Lv_3",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Level",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Lv_3",
+          "package": "aws-elastic-transcoder",
+          "partial": "Lv",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Lv_3"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Lv_3_1",
+          "package": "aws-elastic-transcoder",
+          "signature": "Lv_3_1",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Level",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Lv_3_1",
+          "package": "aws-elastic-transcoder",
+          "partial": "Lv",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Lv_3_1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Lv_3_2",
+          "package": "aws-elastic-transcoder",
+          "signature": "Lv_3_2",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Level",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Lv_3_2",
+          "package": "aws-elastic-transcoder",
+          "partial": "Lv",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Lv_3_2"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Lv_4",
+          "package": "aws-elastic-transcoder",
+          "signature": "Lv_4",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Level",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Lv_4",
+          "package": "aws-elastic-transcoder",
+          "partial": "Lv",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Lv_4"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Lv_4_1",
+          "package": "aws-elastic-transcoder",
+          "signature": "Lv_4_1",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Level",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Lv_4_1",
+          "package": "aws-elastic-transcoder",
+          "partial": "Lv",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Lv_4_1"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "MessagesSuccess",
+          "package": "aws-elastic-transcoder",
+          "signature": "MessagesSuccess",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#MessagesSuccess",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "MessagesSuccess",
+          "package": "aws-elastic-transcoder",
+          "partial": "Messages Success",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:MessagesSuccess"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Notifications",
+          "package": "aws-elastic-transcoder",
+          "signature": "Notifications",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Notifications",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Notifications",
+          "package": "aws-elastic-transcoder",
+          "partial": "Notifications",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Notifications"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PTcustom",
+          "package": "aws-elastic-transcoder",
+          "signature": "PTcustom",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PTcustom",
+          "package": "aws-elastic-transcoder",
+          "partial": "PTcustom",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:PTcustom"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PTsystem",
+          "package": "aws-elastic-transcoder",
+          "signature": "PTsystem",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetType",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PTsystem",
+          "package": "aws-elastic-transcoder",
+          "partial": "PTsystem",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:PTsystem"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PageToken",
+          "package": "aws-elastic-transcoder",
+          "signature": "PageToken",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PageToken",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PageToken",
+          "package": "aws-elastic-transcoder",
+          "partial": "Page Token",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:PageToken"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Pipeline",
+          "package": "aws-elastic-transcoder",
+          "signature": "Pipeline",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Pipeline",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Pipeline",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pipeline",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Pipeline"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PipelineId",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineId",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PipelineId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pipeline Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:PipelineId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PipelineIdAndNotifications",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineIdAndNotifications",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdAndNotifications",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PipelineIdAndNotifications",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pipeline Id And Notifications",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:PipelineIdAndNotifications"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PipelineIdAndStatus",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineIdAndStatus",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdAndStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PipelineIdAndStatus",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pipeline Id And Status",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:PipelineIdAndStatus"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PipelineIdStatus",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineIdStatus",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PipelineIdStatus",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pipeline Id Status",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:PipelineIdStatus"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PipelineList",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineList",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineList",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PipelineList",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pipeline List",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:PipelineList"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PipelineName",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineName",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineName",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PipelineName",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pipeline Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:PipelineName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PipelineSingle",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineSingle",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineSingle",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PipelineSingle",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pipeline Single",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:PipelineSingle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Pr_baseline",
+          "package": "aws-elastic-transcoder",
+          "signature": "Pr_baseline",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Profile",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Pr_baseline",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Pr_baseline"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Pr_high",
+          "package": "aws-elastic-transcoder",
+          "signature": "Pr_high",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Profile",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Pr_high",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Pr_high"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Pr_main",
+          "package": "aws-elastic-transcoder",
+          "signature": "Pr_main",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Profile",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Pr_main",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Pr_main"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Preset",
+          "package": "aws-elastic-transcoder",
+          "signature": "Preset",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Preset",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Preset",
+          "package": "aws-elastic-transcoder",
+          "partial": "Preset",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Preset"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PresetId",
+          "package": "aws-elastic-transcoder",
+          "signature": "PresetId",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PresetId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Preset Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:PresetId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PresetList",
+          "package": "aws-elastic-transcoder",
+          "signature": "PresetList",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetList",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PresetList",
+          "package": "aws-elastic-transcoder",
+          "partial": "Preset List",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:PresetList"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PresetName",
+          "package": "aws-elastic-transcoder",
+          "signature": "PresetName",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetName",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PresetName",
+          "package": "aws-elastic-transcoder",
+          "partial": "Preset Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:PresetName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PresetResponse",
+          "package": "aws-elastic-transcoder",
+          "signature": "PresetResponse",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PresetResponse",
+          "package": "aws-elastic-transcoder",
+          "partial": "Preset Response",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:PresetResponse"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PresetSingle",
+          "package": "aws-elastic-transcoder",
+          "signature": "PresetSingle",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetSingle",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "PresetSingle",
+          "package": "aws-elastic-transcoder",
+          "partial": "Preset Single",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:PresetSingle"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "ROT0",
+          "package": "aws-elastic-transcoder",
+          "signature": "ROT0",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Rotate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "ROT0",
+          "package": "aws-elastic-transcoder",
+          "partial": "ROT",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:ROT0"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "ROT180",
+          "package": "aws-elastic-transcoder",
+          "signature": "ROT180",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Rotate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "ROT180",
+          "package": "aws-elastic-transcoder",
+          "partial": "ROT",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:ROT180"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "ROT270",
+          "package": "aws-elastic-transcoder",
+          "signature": "ROT270",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Rotate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "ROT270",
+          "package": "aws-elastic-transcoder",
+          "partial": "ROT",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:ROT270"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "ROT90",
+          "package": "aws-elastic-transcoder",
+          "signature": "ROT90",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Rotate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "ROT90",
+          "package": "aws-elastic-transcoder",
+          "partial": "ROT",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:ROT90"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "ROTauto",
+          "package": "aws-elastic-transcoder",
+          "signature": "ROTauto",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Rotate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "ROTauto",
+          "package": "aws-elastic-transcoder",
+          "partial": "ROTauto",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:ROTauto"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Rauto",
+          "package": "aws-elastic-transcoder",
+          "signature": "Rauto",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Resolution",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Rauto",
+          "package": "aws-elastic-transcoder",
+          "partial": "Rauto",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Rauto"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "RoleTest",
+          "package": "aws-elastic-transcoder",
+          "signature": "RoleTest",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#RoleTest",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "RoleTest",
+          "package": "aws-elastic-transcoder",
+          "partial": "Role Test",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:RoleTest"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Rpixels",
+          "package": "aws-elastic-transcoder",
+          "signature": "Rpixels (Int, Int)",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Resolution",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Rpixels",
+          "normalized": "Rpixels(Int,Int)",
+          "package": "aws-elastic-transcoder",
+          "partial": "Rpixels",
+          "signature": "Rpixels(Int,Int)",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Rpixels"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "SR22050",
+          "package": "aws-elastic-transcoder",
+          "signature": "SR22050",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#SampleRate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "SR22050",
+          "package": "aws-elastic-transcoder",
+          "partial": "SR",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:SR22050"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "SR32050",
+          "package": "aws-elastic-transcoder",
+          "signature": "SR32050",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#SampleRate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "SR32050",
+          "package": "aws-elastic-transcoder",
+          "partial": "SR",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:SR32050"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "SR44100",
+          "package": "aws-elastic-transcoder",
+          "signature": "SR44100",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#SampleRate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "SR44100",
+          "package": "aws-elastic-transcoder",
+          "partial": "SR",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:SR44100"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "SR48000",
+          "package": "aws-elastic-transcoder",
+          "signature": "SR48000",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#SampleRate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "SR48000",
+          "package": "aws-elastic-transcoder",
+          "partial": "SR",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:SR48000"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "SR96000",
+          "package": "aws-elastic-transcoder",
+          "signature": "SR96000",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#SampleRate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "SR96000",
+          "package": "aws-elastic-transcoder",
+          "partial": "SR",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:SR96000"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "SRauto",
+          "package": "aws-elastic-transcoder",
+          "signature": "SRauto",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#SampleRate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "SRauto",
+          "package": "aws-elastic-transcoder",
+          "partial": "SRauto",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:SRauto"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "STSCancelled",
+          "package": "aws-elastic-transcoder",
+          "signature": "STSCancelled",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Status",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "STSCancelled",
+          "package": "aws-elastic-transcoder",
+          "partial": "STSCancelled",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:STSCancelled"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "STSComplete",
+          "package": "aws-elastic-transcoder",
+          "signature": "STSComplete",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Status",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "STSComplete",
+          "package": "aws-elastic-transcoder",
+          "partial": "STSComplete",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:STSComplete"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "STSError",
+          "package": "aws-elastic-transcoder",
+          "signature": "STSError",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Status",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "STSError",
+          "package": "aws-elastic-transcoder",
+          "partial": "STSError",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:STSError"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "STSProgressing",
+          "package": "aws-elastic-transcoder",
+          "signature": "STSProgressing",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Status",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "STSProgressing",
+          "package": "aws-elastic-transcoder",
+          "partial": "STSProgressing",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:STSProgressing"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "STSSubmitted",
+          "package": "aws-elastic-transcoder",
+          "signature": "STSSubmitted",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Status",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "STSSubmitted",
+          "package": "aws-elastic-transcoder",
+          "partial": "STSSubmitted",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:STSSubmitted"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "SUCCESS",
+          "package": "aws-elastic-transcoder",
+          "signature": "SUCCESS",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#SUCCESS",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "SUCCESS",
+          "package": "aws-elastic-transcoder",
+          "partial": "SUCCESS",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:SUCCESS"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "TF_png",
+          "package": "aws-elastic-transcoder",
+          "signature": "TF_png",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#ThumbnailFormat",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "TF_png",
+          "package": "aws-elastic-transcoder",
+          "partial": "TF",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:TF_png"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "TNNull",
+          "package": "aws-elastic-transcoder",
+          "signature": "TNNull",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#TextOrNull",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "TNNull",
+          "package": "aws-elastic-transcoder",
+          "partial": "TNNull",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:TNNull"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "TNText",
+          "package": "aws-elastic-transcoder",
+          "signature": "TNText Text",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#TextOrNull",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "TNText",
+          "package": "aws-elastic-transcoder",
+          "partial": "TNText",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:TNText"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Thumbnails",
+          "package": "aws-elastic-transcoder",
+          "signature": "Thumbnails",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Thumbnails",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Thumbnails",
+          "package": "aws-elastic-transcoder",
+          "partial": "Thumbnails",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Thumbnails"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "VC_H_264",
+          "package": "aws-elastic-transcoder",
+          "signature": "VC_H_264",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#VideoCodec",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "VC_H_264",
+          "package": "aws-elastic-transcoder",
+          "partial": "VC",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:VC_H_264"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Video",
+          "package": "aws-elastic-transcoder",
+          "signature": "Video",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Video",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "Video",
+          "package": "aws-elastic-transcoder",
+          "partial": "Video",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:Video"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "_ESE",
+          "package": "aws-elastic-transcoder",
+          "signature": "Text",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#EtsServiceError",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "_ESE",
+          "package": "aws-elastic-transcoder",
+          "partial": "ESE",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:_ESE"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "_FixedGOP",
+          "package": "aws-elastic-transcoder",
+          "signature": "Bool",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#FixedGOP",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "_FixedGOP",
+          "package": "aws-elastic-transcoder",
+          "partial": "Fixed GOP",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:_FixedGOP"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "_Interval",
+          "package": "aws-elastic-transcoder",
+          "signature": "Int",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Interval",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "_Interval",
+          "package": "aws-elastic-transcoder",
+          "partial": "Interval",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:_Interval"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "_JobId",
+          "package": "aws-elastic-transcoder",
+          "signature": "Text",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JobId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "_JobId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Job Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:_JobId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "_KbPerSec",
+          "package": "aws-elastic-transcoder",
+          "signature": "Int",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#BitRate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "_KbPerSec",
+          "package": "aws-elastic-transcoder",
+          "partial": "Kb Per Sec",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:_KbPerSec"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "_KeyFrameRate",
+          "package": "aws-elastic-transcoder",
+          "signature": "Int",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#KeyFrameRate",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "_KeyFrameRate",
+          "package": "aws-elastic-transcoder",
+          "partial": "Key Frame Rate",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:_KeyFrameRate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "_PageToken",
+          "package": "aws-elastic-transcoder",
+          "signature": "Text",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PageToken",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "_PageToken",
+          "package": "aws-elastic-transcoder",
+          "partial": "Page Token",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:_PageToken"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "_PipelineId",
+          "package": "aws-elastic-transcoder",
+          "signature": "Text",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "_PipelineId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pipeline Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:_PipelineId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "_PipelineName",
+          "package": "aws-elastic-transcoder",
+          "signature": "Text",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineName",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "_PipelineName",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pipeline Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:_PipelineName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "_PresetId",
+          "package": "aws-elastic-transcoder",
+          "signature": "Text",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "_PresetId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Preset Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:_PresetId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "_PresetName",
+          "package": "aws-elastic-transcoder",
+          "signature": "Text",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetName",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "_PresetName",
+          "package": "aws-elastic-transcoder",
+          "partial": "Preset Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:_PresetName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "_SUCCESS",
+          "package": "aws-elastic-transcoder",
+          "signature": "Bool",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#SUCCESS",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "_SUCCESS",
+          "package": "aws-elastic-transcoder",
+          "partial": "SUCCESS",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:_SUCCESS"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "auBitRate",
+          "package": "aws-elastic-transcoder",
+          "signature": "BitRate",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Audio",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "auBitRate",
+          "package": "aws-elastic-transcoder",
+          "partial": "Bit Rate",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:auBitRate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "auChannels",
+          "package": "aws-elastic-transcoder",
+          "signature": "Channels",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Audio",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "auChannels",
+          "package": "aws-elastic-transcoder",
+          "partial": "Channels",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:auChannels"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "auCodec",
+          "package": "aws-elastic-transcoder",
+          "signature": "AudioCodec",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Audio",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "auCodec",
+          "package": "aws-elastic-transcoder",
+          "partial": "Codec",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:auCodec"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "auSampleRate",
+          "package": "aws-elastic-transcoder",
+          "signature": "SampleRate",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Audio",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "auSampleRate",
+          "package": "aws-elastic-transcoder",
+          "partial": "Sample Rate",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:auSampleRate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003e\u003ccode\u003etrue\u003c/code\u003e, \u003ccode\u003efalse\u003c/code\u003e\n\u003c/p\u003e",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "bool_t",
+          "package": "aws-elastic-transcoder",
+          "signature": "Bool -\u003e Text",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#bool_t",
+          "type": "function"
+        },
+        "index": {
+          "description": "true false",
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "bool_t",
+          "normalized": "Bool-\u003eText",
+          "package": "aws-elastic-transcoder",
+          "signature": "Bool-\u003eText",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:bool_t"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "coLevel",
+          "package": "aws-elastic-transcoder",
+          "signature": "Level",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#CodecOptions",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "coLevel",
+          "package": "aws-elastic-transcoder",
+          "partial": "Level",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:coLevel"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "coMaxReferenceFrames",
+          "package": "aws-elastic-transcoder",
+          "signature": "MaxReferenceFrames",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#CodecOptions",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "coMaxReferenceFrames",
+          "package": "aws-elastic-transcoder",
+          "partial": "Max Reference Frames",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:coMaxReferenceFrames"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "coProfile",
+          "package": "aws-elastic-transcoder",
+          "signature": "Profile",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#CodecOptions",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "coProfile",
+          "package": "aws-elastic-transcoder",
+          "partial": "Profile",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:coProfile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "emptySNSTopic",
+          "package": "aws-elastic-transcoder",
+          "signature": "SNSTopic",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#emptySNSTopic",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "emptySNSTopic",
+          "package": "aws-elastic-transcoder",
+          "partial": "SNSTopic",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:emptySNSTopic"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jlJobs",
+          "package": "aws-elastic-transcoder",
+          "signature": "[JobSpecId]",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JobList",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jlJobs",
+          "normalized": "[JobSpecId]",
+          "package": "aws-elastic-transcoder",
+          "partial": "Jobs",
+          "signature": "[JobSpecId]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jlJobs"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jlNextPageToken",
+          "package": "aws-elastic-transcoder",
+          "signature": "TextOrNull",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JobList",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jlNextPageToken",
+          "package": "aws-elastic-transcoder",
+          "partial": "Next Page Token",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jlNextPageToken"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsInput",
+          "package": "aws-elastic-transcoder",
+          "signature": "JSInput",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JobSpec",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsInput",
+          "package": "aws-elastic-transcoder",
+          "partial": "Input",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsInput"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsJob",
+          "package": "aws-elastic-transcoder",
+          "signature": "JobSpecId",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JobSingle",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsJob",
+          "package": "aws-elastic-transcoder",
+          "partial": "Job",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsJob"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsOutput",
+          "package": "aws-elastic-transcoder",
+          "signature": "JSOutput",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JobSpec",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsOutput",
+          "package": "aws-elastic-transcoder",
+          "partial": "Output",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsOutput"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsPipelineId",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineId",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JobSpec",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsPipelineId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pipeline Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsPipelineId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsiAspectRatio",
+          "package": "aws-elastic-transcoder",
+          "signature": "AspectRatio",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JSInput",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsiAspectRatio",
+          "package": "aws-elastic-transcoder",
+          "partial": "Aspect Ratio",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsiAspectRatio"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsiContainer",
+          "package": "aws-elastic-transcoder",
+          "signature": "Container",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JSInput",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsiContainer",
+          "package": "aws-elastic-transcoder",
+          "partial": "Container",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsiContainer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsiFrameRate",
+          "package": "aws-elastic-transcoder",
+          "signature": "FrameRate",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JSInput",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsiFrameRate",
+          "package": "aws-elastic-transcoder",
+          "partial": "Frame Rate",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsiFrameRate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsiId",
+          "package": "aws-elastic-transcoder",
+          "signature": "JobId",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JobSpecId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsiId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsiId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsiInput",
+          "package": "aws-elastic-transcoder",
+          "signature": "JSInput",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JobSpecId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsiInput",
+          "package": "aws-elastic-transcoder",
+          "partial": "Input",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsiInput"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsiInterlaced",
+          "package": "aws-elastic-transcoder",
+          "signature": "AutoBool",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JSInput",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsiInterlaced",
+          "package": "aws-elastic-transcoder",
+          "partial": "Interlaced",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsiInterlaced"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsiKey",
+          "package": "aws-elastic-transcoder",
+          "signature": "S3Object",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JSInput",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsiKey",
+          "package": "aws-elastic-transcoder",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsiKey"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsiOutput",
+          "package": "aws-elastic-transcoder",
+          "signature": "JSOutputStatus",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JobSpecId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsiOutput",
+          "package": "aws-elastic-transcoder",
+          "partial": "Output",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsiOutput"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsiPipelineId",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineId",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JobSpecId",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsiPipelineId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pipeline Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsiPipelineId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsiResolution",
+          "package": "aws-elastic-transcoder",
+          "signature": "Resolution",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JSInput",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsiResolution",
+          "package": "aws-elastic-transcoder",
+          "partial": "Resolution",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsiResolution"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsoKey",
+          "package": "aws-elastic-transcoder",
+          "signature": "S3Object",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JSOutput",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsoKey",
+          "package": "aws-elastic-transcoder",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsoKey"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsoPresetId",
+          "package": "aws-elastic-transcoder",
+          "signature": "PresetId",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JSOutput",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsoPresetId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Preset Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsoPresetId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsoRotate",
+          "package": "aws-elastic-transcoder",
+          "signature": "Rotate",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JSOutput",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsoRotate",
+          "package": "aws-elastic-transcoder",
+          "partial": "Rotate",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsoRotate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsoThumbnailPattern",
+          "package": "aws-elastic-transcoder",
+          "signature": "Text",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JSOutput",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsoThumbnailPattern",
+          "package": "aws-elastic-transcoder",
+          "partial": "Thumbnail Pattern",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsoThumbnailPattern"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsosKey",
+          "package": "aws-elastic-transcoder",
+          "signature": "S3Object",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JSOutputStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsosKey",
+          "package": "aws-elastic-transcoder",
+          "partial": "Key",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsosKey"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsosPresetId",
+          "package": "aws-elastic-transcoder",
+          "signature": "PresetId",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JSOutputStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsosPresetId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Preset Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsosPresetId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsosRotate",
+          "package": "aws-elastic-transcoder",
+          "signature": "Rotate",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JSOutputStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsosRotate",
+          "package": "aws-elastic-transcoder",
+          "partial": "Rotate",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsosRotate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsosStatus",
+          "package": "aws-elastic-transcoder",
+          "signature": "Status",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JSOutputStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsosStatus",
+          "package": "aws-elastic-transcoder",
+          "partial": "Status",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsosStatus"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsosStatusDetail",
+          "package": "aws-elastic-transcoder",
+          "signature": "TextOrNull",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JSOutputStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsosStatusDetail",
+          "package": "aws-elastic-transcoder",
+          "partial": "Status Detail",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsosStatusDetail"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsosThumbnailPattern",
+          "package": "aws-elastic-transcoder",
+          "signature": "Maybe Text",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#JSOutputStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "jsosThumbnailPattern",
+          "package": "aws-elastic-transcoder",
+          "partial": "Thumbnail Pattern",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:jsosThumbnailPattern"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "msMessages",
+          "package": "aws-elastic-transcoder",
+          "signature": "[Text]",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#MessagesSuccess",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "msMessages",
+          "normalized": "[Text]",
+          "package": "aws-elastic-transcoder",
+          "partial": "Messages",
+          "signature": "[Text]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:msMessages"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "msSuccess",
+          "package": "aws-elastic-transcoder",
+          "signature": "Bool",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#MessagesSuccess",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "msSuccess",
+          "package": "aws-elastic-transcoder",
+          "partial": "Success",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:msSuccess"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "ntfCompleted",
+          "package": "aws-elastic-transcoder",
+          "signature": "SNSTopic",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Notifications",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "ntfCompleted",
+          "package": "aws-elastic-transcoder",
+          "partial": "Completed",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:ntfCompleted"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "ntfError",
+          "package": "aws-elastic-transcoder",
+          "signature": "SNSTopic",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Notifications",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "ntfError",
+          "package": "aws-elastic-transcoder",
+          "partial": "Error",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:ntfError"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "ntfProgressing",
+          "package": "aws-elastic-transcoder",
+          "signature": "SNSTopic",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Notifications",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "ntfProgressing",
+          "package": "aws-elastic-transcoder",
+          "partial": "Progressing",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:ntfProgressing"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "ntfWarning",
+          "package": "aws-elastic-transcoder",
+          "signature": "SNSTopic",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Notifications",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "ntfWarning",
+          "package": "aws-elastic-transcoder",
+          "partial": "Warning",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:ntfWarning"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "panId",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineId",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdAndNotifications",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "panId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:panId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "panNotifications",
+          "package": "aws-elastic-transcoder",
+          "signature": "Notifications",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdAndNotifications",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "panNotifications",
+          "package": "aws-elastic-transcoder",
+          "partial": "Notifications",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:panNotifications"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "pasId",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineId",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdAndStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "pasId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:pasId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "pasStatus",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineStatus",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdAndStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "pasStatus",
+          "package": "aws-elastic-transcoder",
+          "partial": "Status",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:pasStatus"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "pipelineStatusActive",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineStatus",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#pipelineStatusActive",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "pipelineStatusActive",
+          "package": "aws-elastic-transcoder",
+          "partial": "Status Active",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:pipelineStatusActive"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "pipelineStatusPaused",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineStatus",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#pipelineStatusPaused",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "pipelineStatusPaused",
+          "package": "aws-elastic-transcoder",
+          "partial": "Status Paused",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:pipelineStatusPaused"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "pisId",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineId",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "pisId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:pisId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "pisInputBucket",
+          "package": "aws-elastic-transcoder",
+          "signature": "S3Object",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "pisInputBucket",
+          "package": "aws-elastic-transcoder",
+          "partial": "Input Bucket",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:pisInputBucket"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "pisName",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineName",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "pisName",
+          "package": "aws-elastic-transcoder",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:pisName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "pisNotifications",
+          "package": "aws-elastic-transcoder",
+          "signature": "Notifications",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "pisNotifications",
+          "package": "aws-elastic-transcoder",
+          "partial": "Notifications",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:pisNotifications"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "pisOutputBucket",
+          "package": "aws-elastic-transcoder",
+          "signature": "S3Object",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "pisOutputBucket",
+          "package": "aws-elastic-transcoder",
+          "partial": "Output Bucket",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:pisOutputBucket"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "pisRole",
+          "package": "aws-elastic-transcoder",
+          "signature": "IAMRole",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "pisRole",
+          "package": "aws-elastic-transcoder",
+          "partial": "Role",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:pisRole"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "pisStatus",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineStatus",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineIdStatus",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "pisStatus",
+          "package": "aws-elastic-transcoder",
+          "partial": "Status",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:pisStatus"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "plPipelines",
+          "package": "aws-elastic-transcoder",
+          "signature": "[PipelineIdStatus]",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineList",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "plPipelines",
+          "normalized": "[PipelineIdStatus]",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pipelines",
+          "signature": "[PipelineIdStatus]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:plPipelines"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "plPresets",
+          "package": "aws-elastic-transcoder",
+          "signature": "[PresetResponse]",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetList",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "plPresets",
+          "normalized": "[PresetResponse]",
+          "package": "aws-elastic-transcoder",
+          "partial": "Presets",
+          "signature": "[PresetResponse]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:plPresets"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "plnInputBucket",
+          "package": "aws-elastic-transcoder",
+          "signature": "S3Object",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Pipeline",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "plnInputBucket",
+          "package": "aws-elastic-transcoder",
+          "partial": "Input Bucket",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:plnInputBucket"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "plnName",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineName",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Pipeline",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "plnName",
+          "package": "aws-elastic-transcoder",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:plnName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "plnNotifications",
+          "package": "aws-elastic-transcoder",
+          "signature": "Notifications",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Pipeline",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "plnNotifications",
+          "package": "aws-elastic-transcoder",
+          "partial": "Notifications",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:plnNotifications"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "plnOutputBucket",
+          "package": "aws-elastic-transcoder",
+          "signature": "S3Object",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Pipeline",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "plnOutputBucket",
+          "package": "aws-elastic-transcoder",
+          "partial": "Output Bucket",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:plnOutputBucket"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "plnRole",
+          "package": "aws-elastic-transcoder",
+          "signature": "IAMRole",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Pipeline",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "plnRole",
+          "package": "aws-elastic-transcoder",
+          "partial": "Role",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:plnRole"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "prAudio",
+          "package": "aws-elastic-transcoder",
+          "signature": "Audio",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Preset",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "prAudio",
+          "package": "aws-elastic-transcoder",
+          "partial": "Audio",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:prAudio"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "prContainer",
+          "package": "aws-elastic-transcoder",
+          "signature": "Container",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Preset",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "prContainer",
+          "package": "aws-elastic-transcoder",
+          "partial": "Container",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:prContainer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "prDescription",
+          "package": "aws-elastic-transcoder",
+          "signature": "Text",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Preset",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "prDescription",
+          "package": "aws-elastic-transcoder",
+          "partial": "Description",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:prDescription"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "prName",
+          "package": "aws-elastic-transcoder",
+          "signature": "PresetName",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Preset",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "prName",
+          "package": "aws-elastic-transcoder",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:prName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "prThumbnails",
+          "package": "aws-elastic-transcoder",
+          "signature": "Thumbnails",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Preset",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "prThumbnails",
+          "package": "aws-elastic-transcoder",
+          "partial": "Thumbnails",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:prThumbnails"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "prVideo",
+          "package": "aws-elastic-transcoder",
+          "signature": "Video",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Preset",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "prVideo",
+          "package": "aws-elastic-transcoder",
+          "partial": "Video",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:prVideo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "prrAudio",
+          "package": "aws-elastic-transcoder",
+          "signature": "Audio",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "prrAudio",
+          "package": "aws-elastic-transcoder",
+          "partial": "Audio",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:prrAudio"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "prrContainer",
+          "package": "aws-elastic-transcoder",
+          "signature": "Container",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "prrContainer",
+          "package": "aws-elastic-transcoder",
+          "partial": "Container",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:prrContainer"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "prrDescription",
+          "package": "aws-elastic-transcoder",
+          "signature": "Text",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "prrDescription",
+          "package": "aws-elastic-transcoder",
+          "partial": "Description",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:prrDescription"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "prrId",
+          "package": "aws-elastic-transcoder",
+          "signature": "PresetId",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "prrId",
+          "package": "aws-elastic-transcoder",
+          "partial": "Id",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:prrId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "prrName",
+          "package": "aws-elastic-transcoder",
+          "signature": "PresetName",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "prrName",
+          "package": "aws-elastic-transcoder",
+          "partial": "Name",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:prrName"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "prrThumbnails",
+          "package": "aws-elastic-transcoder",
+          "signature": "Thumbnails",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "prrThumbnails",
+          "package": "aws-elastic-transcoder",
+          "partial": "Thumbnails",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:prrThumbnails"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "prrType",
+          "package": "aws-elastic-transcoder",
+          "signature": "PresetType",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "prrType",
+          "package": "aws-elastic-transcoder",
+          "partial": "Type",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:prrType"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "prrVideo",
+          "package": "aws-elastic-transcoder",
+          "signature": "Video",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "prrVideo",
+          "package": "aws-elastic-transcoder",
+          "partial": "Video",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:prrVideo"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "prrWarning",
+          "package": "aws-elastic-transcoder",
+          "signature": "Text",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetResponse",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "prrWarning",
+          "package": "aws-elastic-transcoder",
+          "partial": "Warning",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:prrWarning"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "psPipeline",
+          "package": "aws-elastic-transcoder",
+          "signature": "PipelineIdStatus",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PipelineSingle",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "psPipeline",
+          "package": "aws-elastic-transcoder",
+          "partial": "Pipeline",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:psPipeline"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "psPreset",
+          "package": "aws-elastic-transcoder",
+          "signature": "PresetResponse",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#PresetSingle",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "psPreset",
+          "package": "aws-elastic-transcoder",
+          "partial": "Preset",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:psPreset"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "rtInputBucket",
+          "package": "aws-elastic-transcoder",
+          "signature": "S3Object",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#RoleTest",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "rtInputBucket",
+          "package": "aws-elastic-transcoder",
+          "partial": "Input Bucket",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:rtInputBucket"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "rtOutputBucket",
+          "package": "aws-elastic-transcoder",
+          "signature": "S3Object",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#RoleTest",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "rtOutputBucket",
+          "package": "aws-elastic-transcoder",
+          "partial": "Output Bucket",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:rtOutputBucket"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "rtRole",
+          "package": "aws-elastic-transcoder",
+          "signature": "IAMRole",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#RoleTest",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "rtRole",
+          "package": "aws-elastic-transcoder",
+          "partial": "Role",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:rtRole"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "rtTopics",
+          "package": "aws-elastic-transcoder",
+          "signature": "[SNSTopic]",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#RoleTest",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "rtTopics",
+          "normalized": "[SNSTopic]",
+          "package": "aws-elastic-transcoder",
+          "partial": "Topics",
+          "signature": "[SNSTopic]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:rtTopics"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "status_t",
+          "package": "aws-elastic-transcoder",
+          "signature": "Status -\u003e Text",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#status_t",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "status_t",
+          "normalized": "Status-\u003eText",
+          "package": "aws-elastic-transcoder",
+          "signature": "Status-\u003eText",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:status_t"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "thAspectRatio",
+          "package": "aws-elastic-transcoder",
+          "signature": "AspectRatio",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Thumbnails",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "thAspectRatio",
+          "package": "aws-elastic-transcoder",
+          "partial": "Aspect Ratio",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:thAspectRatio"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "thFormat",
+          "package": "aws-elastic-transcoder",
+          "signature": "ThumbnailFormat",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Thumbnails",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "thFormat",
+          "package": "aws-elastic-transcoder",
+          "partial": "Format",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:thFormat"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "thInterval",
+          "package": "aws-elastic-transcoder",
+          "signature": "Interval",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Thumbnails",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "thInterval",
+          "package": "aws-elastic-transcoder",
+          "partial": "Interval",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:thInterval"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "thResolution",
+          "package": "aws-elastic-transcoder",
+          "signature": "Resolution",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Thumbnails",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "thResolution",
+          "package": "aws-elastic-transcoder",
+          "partial": "Resolution",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:thResolution"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "vdAspectRatio",
+          "package": "aws-elastic-transcoder",
+          "signature": "AspectRatio",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Video",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "vdAspectRatio",
+          "package": "aws-elastic-transcoder",
+          "partial": "Aspect Ratio",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:vdAspectRatio"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "vdBitRate",
+          "package": "aws-elastic-transcoder",
+          "signature": "BitRate",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Video",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "vdBitRate",
+          "package": "aws-elastic-transcoder",
+          "partial": "Bit Rate",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:vdBitRate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "vdCodec",
+          "package": "aws-elastic-transcoder",
+          "signature": "VideoCodec",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Video",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "vdCodec",
+          "package": "aws-elastic-transcoder",
+          "partial": "Codec",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:vdCodec"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "vdCodecOptions",
+          "package": "aws-elastic-transcoder",
+          "signature": "CodecOptions",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Video",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "vdCodecOptions",
+          "package": "aws-elastic-transcoder",
+          "partial": "Codec Options",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:vdCodecOptions"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "vdFixedGOP",
+          "package": "aws-elastic-transcoder",
+          "signature": "FixedGOP",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Video",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "vdFixedGOP",
+          "package": "aws-elastic-transcoder",
+          "partial": "Fixed GOP",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:vdFixedGOP"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "vdFrameRate",
+          "package": "aws-elastic-transcoder",
+          "signature": "FrameRate",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Video",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "vdFrameRate",
+          "package": "aws-elastic-transcoder",
+          "partial": "Frame Rate",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:vdFrameRate"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "vdKeyFrameRateDist",
+          "package": "aws-elastic-transcoder",
+          "signature": "KeyFrameRate",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Video",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "vdKeyFrameRateDist",
+          "package": "aws-elastic-transcoder",
+          "partial": "Key Frame Rate Dist",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:vdKeyFrameRateDist"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "vdResolution",
+          "package": "aws-elastic-transcoder",
+          "signature": "Resolution",
+          "source": "src/Aws-ElasticTranscoder-Json-Types.html#Video",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder Json Types",
+          "module": "Aws.ElasticTranscoder.Json.Types",
+          "name": "vdResolution",
+          "package": "aws-elastic-transcoder",
+          "partial": "Resolution",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder-Json-Types.html#v:vdResolution"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Aws.ElasticTranscoder",
+          "name": "ElasticTranscoder",
+          "package": "aws-elastic-transcoder",
+          "source": "src/Aws-ElasticTranscoder.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Aws ElasticTranscoder",
+          "module": "Aws.ElasticTranscoder",
+          "name": "ElasticTranscoder",
+          "package": "aws-elastic-transcoder",
+          "partial": "Elastic Transcoder",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/aws-elastic-transcoder/docs/Aws-ElasticTranscoder.html#"
+      }
+    }
+  ]
 ]

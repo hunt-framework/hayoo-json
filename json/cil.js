@@ -1,2301 +1,2160 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Parse.html#",
-      "description": {
-        "fct-module": "Language.CIL.Parse",
-        "fct-package": "cil",
-        "fct-signature": "module",
-        "fct-source": "src/Language-CIL-Parse.html",
-        "fct-type": "module",
-        "title": "Parse"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Parse",
-        "module": "Language.CIL.Parse",
-        "name": "Parse",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Parse",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Parse.html#v:parseCIL",
-      "description": {
-        "fct-descr": "\u003cp\u003eParses a merged CIL program, given a file name and contents.\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Parse",
-        "fct-package": "cil",
-        "fct-signature": "String -\u003e ByteString -\u003e Stmt",
-        "fct-source": "src/Language-CIL-Parse.html#parseCIL",
-        "fct-type": "function",
-        "title": "parseCIL"
-      },
-      "index": {
-        "description": "Parses merged CIL program given file name and contents",
-        "hierarchy": "Language CIL Parse",
-        "module": "Language.CIL.Parse",
-        "name": "parseCIL",
-        "normalized": "String-\u003eByteString-\u003eStmt",
-        "package": "cil",
-        "partial": "CIL",
-        "signature": "String-\u003eByteString-\u003eStmt"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Parse.html#v:position",
-      "description": {
-        "fct-descr": "\u003cp\u003eFormat the file position of something with ties to the orignial source, like a \u003ccode\u003e\u003ca\u003eStmt\u003c/a\u003e\u003c/code\u003e or \u003ccode\u003e\u003ca\u003eExpr\u003c/a\u003e\u003c/code\u003e.\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Parse",
-        "fct-package": "cil",
-        "fct-signature": "a -\u003e String",
-        "fct-source": "src/Language-CIL-Parse.html#position",
-        "fct-type": "function",
-        "title": "position"
-      },
-      "index": {
-        "description": "Format the file position of something with ties to the orignial source like Stmt or Expr",
-        "hierarchy": "Language CIL Parse",
-        "module": "Language.CIL.Parse",
-        "name": "position",
-        "normalized": "a-\u003eString",
-        "package": "cil",
-        "partial": "",
-        "signature": "a-\u003eString"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#",
-      "description": {
-        "fct-module": "Language.CIL.StmtCore",
-        "fct-package": "cil",
-        "fct-signature": "module",
-        "fct-source": "src/Language-CIL-StmtCore.html",
-        "fct-type": "module",
-        "title": "StmtCore"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL StmtCore",
-        "module": "Language.CIL.StmtCore",
-        "name": "StmtCore",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Stmt Core",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#t:Stmt",
-      "description": {
-        "fct-descr": "\u003cp\u003eStatements.\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.StmtCore",
-        "fct-package": "cil",
-        "fct-signature": "data",
-        "fct-source": "src/Language-CIL-StmtCore.html#Stmt",
-        "fct-type": "data",
-        "title": "Stmt"
-      },
-      "index": {
-        "description": "Statements",
-        "hierarchy": "Language CIL StmtCore",
-        "module": "Language.CIL.StmtCore",
-        "name": "Stmt",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Stmt",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:AssignApply",
-      "description": {
-        "fct-module": "Language.CIL.StmtCore",
-        "fct-package": "cil",
-        "fct-signature": "AssignApply Expr Apply Position",
-        "fct-source": "src/Language-CIL-StmtCore.html#Stmt",
-        "fct-type": "function",
-        "title": "AssignApply"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL StmtCore",
-        "module": "Language.CIL.StmtCore",
-        "name": "AssignApply",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Assign Apply",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:AssignExpr",
-      "description": {
-        "fct-module": "Language.CIL.StmtCore",
-        "fct-package": "cil",
-        "fct-signature": "AssignExpr Expr Expr Position",
-        "fct-source": "src/Language-CIL-StmtCore.html#Stmt",
-        "fct-type": "function",
-        "title": "AssignExpr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL StmtCore",
-        "module": "Language.CIL.StmtCore",
-        "name": "AssignExpr",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Assign Expr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:Break",
-      "description": {
-        "fct-module": "Language.CIL.StmtCore",
-        "fct-package": "cil",
-        "fct-signature": "Break Position",
-        "fct-source": "src/Language-CIL-StmtCore.html#Stmt",
-        "fct-type": "function",
-        "title": "Break"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL StmtCore",
-        "module": "Language.CIL.StmtCore",
-        "name": "Break",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Break",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:Case",
-      "description": {
-        "fct-module": "Language.CIL.StmtCore",
-        "fct-package": "cil",
-        "fct-signature": "Case Expr Stmt Position",
-        "fct-source": "src/Language-CIL-StmtCore.html#Stmt",
-        "fct-type": "function",
-        "title": "Case"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL StmtCore",
-        "module": "Language.CIL.StmtCore",
-        "name": "Case",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Case",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:Compound",
-      "description": {
-        "fct-module": "Language.CIL.StmtCore",
-        "fct-package": "cil",
-        "fct-signature": "Compound [Name] [Stmt] Position",
-        "fct-source": "src/Language-CIL-StmtCore.html#Stmt",
-        "fct-type": "function",
-        "title": "Compound"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL StmtCore",
-        "module": "Language.CIL.StmtCore",
-        "name": "Compound",
-        "normalized": "Compound[Name][Stmt]Position",
-        "package": "cil",
-        "partial": "Compound",
-        "signature": "Compound[Name][Stmt]Position"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:Default",
-      "description": {
-        "fct-module": "Language.CIL.StmtCore",
-        "fct-package": "cil",
-        "fct-signature": "Default Stmt Position",
-        "fct-source": "src/Language-CIL-StmtCore.html#Stmt",
-        "fct-type": "function",
-        "title": "Default"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL StmtCore",
-        "module": "Language.CIL.StmtCore",
-        "name": "Default",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Default",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:FunctionDef",
-      "description": {
-        "fct-module": "Language.CIL.StmtCore",
-        "fct-package": "cil",
-        "fct-signature": "FunctionDef Name Type [(Name, Type)] Stmt Position",
-        "fct-source": "src/Language-CIL-StmtCore.html#Stmt",
-        "fct-type": "function",
-        "title": "FunctionDef"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL StmtCore",
-        "module": "Language.CIL.StmtCore",
-        "name": "FunctionDef",
-        "normalized": "FunctionDef Name Type[(Name,Type)]Stmt Position",
-        "package": "cil",
-        "partial": "Function Def",
-        "signature": "FunctionDef Name Type[(Name,Type)]Stmt Position"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:Goto",
-      "description": {
-        "fct-module": "Language.CIL.StmtCore",
-        "fct-package": "cil",
-        "fct-signature": "Goto Name Position",
-        "fct-source": "src/Language-CIL-StmtCore.html#Stmt",
-        "fct-type": "function",
-        "title": "Goto"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL StmtCore",
-        "module": "Language.CIL.StmtCore",
-        "name": "Goto",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Goto",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:If",
-      "description": {
-        "fct-module": "Language.CIL.StmtCore",
-        "fct-package": "cil",
-        "fct-signature": "If Expr Stmt Stmt Position",
-        "fct-source": "src/Language-CIL-StmtCore.html#Stmt",
-        "fct-type": "function",
-        "title": "If"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL StmtCore",
-        "module": "Language.CIL.StmtCore",
-        "name": "If",
-        "normalized": "",
-        "package": "cil",
-        "partial": "If",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:Null",
-      "description": {
-        "fct-module": "Language.CIL.StmtCore",
-        "fct-package": "cil",
-        "fct-signature": "Null",
-        "fct-source": "src/Language-CIL-StmtCore.html#Stmt",
-        "fct-type": "function",
-        "title": "Null"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL StmtCore",
-        "module": "Language.CIL.StmtCore",
-        "name": "Null",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Null",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:Return",
-      "description": {
-        "fct-module": "Language.CIL.StmtCore",
-        "fct-package": "cil",
-        "fct-signature": "Return (Maybe Expr) Position",
-        "fct-source": "src/Language-CIL-StmtCore.html#Stmt",
-        "fct-type": "function",
-        "title": "Return"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL StmtCore",
-        "module": "Language.CIL.StmtCore",
-        "name": "Return",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Return",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:StmtApply",
-      "description": {
-        "fct-module": "Language.CIL.StmtCore",
-        "fct-package": "cil",
-        "fct-signature": "StmtApply Apply Position",
-        "fct-source": "src/Language-CIL-StmtCore.html#Stmt",
-        "fct-type": "function",
-        "title": "StmtApply"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL StmtCore",
-        "module": "Language.CIL.StmtCore",
-        "name": "StmtApply",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Stmt Apply",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:Switch",
-      "description": {
-        "fct-module": "Language.CIL.StmtCore",
-        "fct-package": "cil",
-        "fct-signature": "Switch Expr Stmt Position",
-        "fct-source": "src/Language-CIL-StmtCore.html#Stmt",
-        "fct-type": "function",
-        "title": "Switch"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL StmtCore",
-        "module": "Language.CIL.StmtCore",
-        "name": "Switch",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Switch",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:TypeDecl",
-      "description": {
-        "fct-module": "Language.CIL.StmtCore",
-        "fct-package": "cil",
-        "fct-signature": "TypeDecl Name Type Position",
-        "fct-source": "src/Language-CIL-StmtCore.html#Stmt",
-        "fct-type": "function",
-        "title": "TypeDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL StmtCore",
-        "module": "Language.CIL.StmtCore",
-        "name": "TypeDecl",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Type Decl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:VariableDef",
-      "description": {
-        "fct-module": "Language.CIL.StmtCore",
-        "fct-package": "cil",
-        "fct-signature": "VariableDef Name Type (Maybe Init) Position",
-        "fct-source": "src/Language-CIL-StmtCore.html#Stmt",
-        "fct-type": "function",
-        "title": "VariableDef"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL StmtCore",
-        "module": "Language.CIL.StmtCore",
-        "name": "VariableDef",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Variable Def",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:While",
-      "description": {
-        "fct-module": "Language.CIL.StmtCore",
-        "fct-package": "cil",
-        "fct-signature": "While Expr Stmt Position",
-        "fct-source": "src/Language-CIL-StmtCore.html#Stmt",
-        "fct-type": "function",
-        "title": "While"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL StmtCore",
-        "module": "Language.CIL.StmtCore",
-        "name": "While",
-        "normalized": "",
-        "package": "cil",
-        "partial": "While",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtGoto.html#",
-      "description": {
-        "fct-module": "Language.CIL.StmtGoto",
-        "fct-package": "cil",
-        "fct-signature": "module",
-        "fct-source": "src/Language-CIL-StmtGoto.html",
-        "fct-type": "module",
-        "title": "StmtGoto"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL StmtGoto",
-        "module": "Language.CIL.StmtGoto",
-        "name": "StmtGoto",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Stmt Goto",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtGoto.html#t:Stmt",
-      "description": {
-        "fct-descr": "\u003cp\u003eStatements.\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.StmtGoto",
-        "fct-package": "cil",
-        "fct-signature": "data",
-        "fct-source": "src/Language-CIL-StmtGoto.html#Stmt",
-        "fct-type": "data",
-        "title": "Stmt"
-      },
-      "index": {
-        "description": "Statements",
-        "hierarchy": "Language CIL StmtGoto",
-        "module": "Language.CIL.StmtGoto",
-        "name": "Stmt",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Stmt",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtGoto.html#v:AssignExpr",
-      "description": {
-        "fct-module": "Language.CIL.StmtGoto",
-        "fct-package": "cil",
-        "fct-signature": "AssignExpr Expr Expr Position",
-        "fct-source": "src/Language-CIL-StmtGoto.html#Stmt",
-        "fct-type": "function",
-        "title": "AssignExpr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL StmtGoto",
-        "module": "Language.CIL.StmtGoto",
-        "name": "AssignExpr",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Assign Expr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtGoto.html#v:Compound",
-      "description": {
-        "fct-module": "Language.CIL.StmtGoto",
-        "fct-package": "cil",
-        "fct-signature": "Compound [Name] [Stmt] Position",
-        "fct-source": "src/Language-CIL-StmtGoto.html#Stmt",
-        "fct-type": "function",
-        "title": "Compound"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL StmtGoto",
-        "module": "Language.CIL.StmtGoto",
-        "name": "Compound",
-        "normalized": "Compound[Name][Stmt]Position",
-        "package": "cil",
-        "partial": "Compound",
-        "signature": "Compound[Name][Stmt]Position"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtGoto.html#v:Goto",
-      "description": {
-        "fct-module": "Language.CIL.StmtGoto",
-        "fct-package": "cil",
-        "fct-signature": "Goto Name Position",
-        "fct-source": "src/Language-CIL-StmtGoto.html#Stmt",
-        "fct-type": "function",
-        "title": "Goto"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL StmtGoto",
-        "module": "Language.CIL.StmtGoto",
-        "name": "Goto",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Goto",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtGoto.html#v:If",
-      "description": {
-        "fct-module": "Language.CIL.StmtGoto",
-        "fct-package": "cil",
-        "fct-signature": "If Expr Stmt Stmt Position",
-        "fct-source": "src/Language-CIL-StmtGoto.html#Stmt",
-        "fct-type": "function",
-        "title": "If"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL StmtGoto",
-        "module": "Language.CIL.StmtGoto",
-        "name": "If",
-        "normalized": "",
-        "package": "cil",
-        "partial": "If",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtGoto.html#v:Null",
-      "description": {
-        "fct-module": "Language.CIL.StmtGoto",
-        "fct-package": "cil",
-        "fct-signature": "Null",
-        "fct-source": "src/Language-CIL-StmtGoto.html#Stmt",
-        "fct-type": "function",
-        "title": "Null"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL StmtGoto",
-        "module": "Language.CIL.StmtGoto",
-        "name": "Null",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Null",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtGoto.html#v:TypeDecl",
-      "description": {
-        "fct-module": "Language.CIL.StmtGoto",
-        "fct-package": "cil",
-        "fct-signature": "TypeDecl Name Type Position",
-        "fct-source": "src/Language-CIL-StmtGoto.html#Stmt",
-        "fct-type": "function",
-        "title": "TypeDecl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL StmtGoto",
-        "module": "Language.CIL.StmtGoto",
-        "name": "TypeDecl",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Type Decl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtGoto.html#v:VariableDef",
-      "description": {
-        "fct-module": "Language.CIL.StmtGoto",
-        "fct-package": "cil",
-        "fct-signature": "VariableDef Name Type (Maybe Init) Position",
-        "fct-source": "src/Language-CIL-StmtGoto.html#Stmt",
-        "fct-type": "function",
-        "title": "VariableDef"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL StmtGoto",
-        "module": "Language.CIL.StmtGoto",
-        "name": "VariableDef",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Variable Def",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#",
-      "description": {
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "module",
-        "fct-source": "src/Language-CIL-Types.html",
-        "fct-type": "module",
-        "title": "Types"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Types",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Types",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#t:Apply",
-      "description": {
-        "fct-descr": "\u003cp\u003eFunction application.\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "data",
-        "fct-source": "src/Language-CIL-Types.html#Apply",
-        "fct-type": "data",
-        "title": "Apply"
-      },
-      "index": {
-        "description": "Function application",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Apply",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Apply",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#t:Expr",
-      "description": {
-        "fct-descr": "\u003cp\u003eExpressions.\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "data",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "data",
-        "title": "Expr"
-      },
-      "index": {
-        "description": "Expressions",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Expr",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Expr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#t:Init",
-      "description": {
-        "fct-descr": "\u003cp\u003eInitialization expressions.\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "data",
-        "fct-source": "src/Language-CIL-Types.html#Init",
-        "fct-type": "data",
-        "title": "Init"
-      },
-      "index": {
-        "description": "Initialization expressions",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Init",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Init",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#t:Name",
-      "description": {
-        "fct-descr": "\u003cp\u003eIdentifiers.\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "type",
-        "fct-source": "src/Language-CIL-Types.html#Name",
-        "fct-type": "type",
-        "title": "Name"
-      },
-      "index": {
-        "description": "Identifiers",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Name",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Name",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#t:Type",
-      "description": {
-        "fct-descr": "\u003cp\u003eTypes.\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "data",
-        "fct-source": "src/Language-CIL-Types.html#Type",
-        "fct-type": "data",
-        "title": "Type"
-      },
-      "index": {
-        "description": "Types",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Type",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Type",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Add",
-      "description": {
-        "fct-descr": "\u003cp\u003ea + b\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Add Expr Expr Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Add"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Add",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Add",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Adr",
-      "description": {
-        "fct-descr": "\u003cp\u003e&a\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Adr Expr Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Adr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Adr",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Adr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:And",
-      "description": {
-        "fct-descr": "\u003cp\u003ea & b\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "And Expr Expr Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "And"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "And",
-        "normalized": "",
-        "package": "cil",
-        "partial": "And",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Apply",
-      "description": {
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Apply Expr [Expr]",
-        "fct-source": "src/Language-CIL-Types.html#Apply",
-        "fct-type": "function",
-        "title": "Apply"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Apply",
-        "normalized": "Apply Expr[Expr]",
-        "package": "cil",
-        "partial": "Apply",
-        "signature": "Apply Expr[Expr]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Array",
-      "description": {
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Array Int Type",
-        "fct-source": "src/Language-CIL-Types.html#Type",
-        "fct-type": "function",
-        "title": "Array"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Array",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Array",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:BitField",
-      "description": {
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "BitField Type [(Name, Int)]",
-        "fct-source": "src/Language-CIL-Types.html#Type",
-        "fct-type": "function",
-        "title": "BitField"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "BitField",
-        "normalized": "BitField Type[(Name,Int)]",
-        "package": "cil",
-        "partial": "Bit Field",
-        "signature": "BitField Type[(Name,Int)]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Cast",
-      "description": {
-        "fct-descr": "\u003cp\u003e(...) a\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Cast Type Expr Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Cast"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Cast",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Cast",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Comp",
-      "description": {
-        "fct-descr": "\u003cp\u003e~a\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Comp Expr Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Comp"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Comp",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Comp",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:ConstChar",
-      "description": {
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "ConstChar Char Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "ConstChar"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "ConstChar",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Const Char",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:ConstFloat",
-      "description": {
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "ConstFloat Double Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "ConstFloat"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "ConstFloat",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Const Float",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:ConstInt",
-      "description": {
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "ConstInt Int Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "ConstInt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "ConstInt",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Const Int",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:ConstString",
-      "description": {
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "ConstString String Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "ConstString"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "ConstString",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Const String",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Div",
-      "description": {
-        "fct-descr": "\u003cp\u003ea / b\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Div Expr Expr Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Div"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Div",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Div",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Double",
-      "description": {
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Double",
-        "fct-source": "src/Language-CIL-Types.html#Type",
-        "fct-type": "function",
-        "title": "Double"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Double",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Double",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Enum",
-      "description": {
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Enum [(Name, Int)]",
-        "fct-source": "src/Language-CIL-Types.html#Type",
-        "fct-type": "function",
-        "title": "Enum"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Enum",
-        "normalized": "Enum[(Name,Int)]",
-        "package": "cil",
-        "partial": "Enum",
-        "signature": "Enum[(Name,Int)]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:EnumRef",
-      "description": {
-        "fct-descr": "\u003cp\u003eReference to an enum type.\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "EnumRef Name",
-        "fct-source": "src/Language-CIL-Types.html#Type",
-        "fct-type": "function",
-        "title": "EnumRef"
-      },
-      "index": {
-        "description": "Reference to an enum type",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "EnumRef",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Enum Ref",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Eq",
-      "description": {
-        "fct-descr": "\u003cp\u003ea == b\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Eq Expr Expr Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Eq"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Eq",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Eq",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Float",
-      "description": {
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Float",
-        "fct-source": "src/Language-CIL-Types.html#Type",
-        "fct-type": "function",
-        "title": "Float"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Float",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Float",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Function",
-      "description": {
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Function Type [Type]",
-        "fct-source": "src/Language-CIL-Types.html#Type",
-        "fct-type": "function",
-        "title": "Function"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Function",
-        "normalized": "Function Type[Type]",
-        "package": "cil",
-        "partial": "Function",
-        "signature": "Function Type[Type]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Ge",
-      "description": {
-        "fct-descr": "\u003cp\u003ea \u003e= b\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Ge Expr Expr Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Ge"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Ge",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Ge",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Gt",
-      "description": {
-        "fct-descr": "\u003cp\u003ea \u003e b\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Gt Expr Expr Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Gt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Gt",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Gt",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Ind",
-      "description": {
-        "fct-descr": "\u003cp\u003e*a\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Ind Expr Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Ind"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Ind",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Ind",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Index",
-      "description": {
-        "fct-descr": "\u003cp\u003ea[b]\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Index Expr Expr Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Index"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Index",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Index",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Init",
-      "description": {
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Init Expr",
-        "fct-source": "src/Language-CIL-Types.html#Init",
-        "fct-type": "function",
-        "title": "Init"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Init",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Init",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:InitList",
-      "description": {
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "InitList [Init]",
-        "fct-source": "src/Language-CIL-Types.html#Init",
-        "fct-type": "function",
-        "title": "InitList"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "InitList",
-        "normalized": "InitList[Init]",
-        "package": "cil",
-        "partial": "Init List",
-        "signature": "InitList[Init]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Int16",
-      "description": {
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Int16",
-        "fct-source": "src/Language-CIL-Types.html#Type",
-        "fct-type": "function",
-        "title": "Int16"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Int16",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Int",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Int32",
-      "description": {
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Int32",
-        "fct-source": "src/Language-CIL-Types.html#Type",
-        "fct-type": "function",
-        "title": "Int32"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Int32",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Int",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Int8",
-      "description": {
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Int8",
-        "fct-source": "src/Language-CIL-Types.html#Type",
-        "fct-type": "function",
-        "title": "Int8"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Int8",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Int",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Le",
-      "description": {
-        "fct-descr": "\u003cp\u003ea \u003c= b\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Le Expr Expr Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Le"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Le",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Le",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Lt",
-      "description": {
-        "fct-descr": "\u003cp\u003ea \u003c b\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Lt Expr Expr Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Lt"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Lt",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Lt",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Mem",
-      "description": {
-        "fct-descr": "\u003cp\u003ea.name\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Mem Expr Name Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Mem"
-      },
-      "index": {
-        "description": "a.name",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Mem",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Mem",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:MemInd",
-      "description": {
-        "fct-descr": "\u003cp\u003ea-\u003ename\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "MemInd Expr Name Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "MemInd"
-      },
-      "index": {
-        "description": "name",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "MemInd",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Mem Ind",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Minus",
-      "description": {
-        "fct-descr": "\u003cp\u003e-a\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Minus Expr Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Minus"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Minus",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Minus",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Mul",
-      "description": {
-        "fct-descr": "\u003cp\u003ea * b\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Mul Expr Expr Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Mul"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Mul",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Mul",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Neg",
-      "description": {
-        "fct-descr": "\u003cp\u003e!a\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Neg Expr Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Neg"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Neg",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Neg",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Neq",
-      "description": {
-        "fct-descr": "\u003cp\u003ea != b\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Neq Expr Expr Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Neq"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Neq",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Neq",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Or",
-      "description": {
-        "fct-descr": "\u003cp\u003ea | b\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Or Expr Expr Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Or"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Or",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Or",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Ptr",
-      "description": {
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Ptr Type",
-        "fct-source": "src/Language-CIL-Types.html#Type",
-        "fct-type": "function",
-        "title": "Ptr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Ptr",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Ptr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Rmd",
-      "description": {
-        "fct-descr": "\u003cp\u003ea % b\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Rmd Expr Expr Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Rmd"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Rmd",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Rmd",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Shl",
-      "description": {
-        "fct-descr": "\u003cp\u003ea \u003c\u003c b\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Shl Expr Expr Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Shl"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Shl",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Shl",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Shr",
-      "description": {
-        "fct-descr": "\u003cp\u003ea \u003e\u003e b\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Shr Expr Expr Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Shr"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Shr",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Shr",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:SizeE",
-      "description": {
-        "fct-descr": "\u003cp\u003esizeof(expr)\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "SizeE Expr Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "SizeE"
-      },
-      "index": {
-        "description": "sizeof expr",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "SizeE",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Size",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:SizeT",
-      "description": {
-        "fct-descr": "\u003cp\u003esizeof(type)\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "SizeT Type Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "SizeT"
-      },
-      "index": {
-        "description": "sizeof type",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "SizeT",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Size",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Struct",
-      "description": {
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Struct [(Name, Type)]",
-        "fct-source": "src/Language-CIL-Types.html#Type",
-        "fct-type": "function",
-        "title": "Struct"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Struct",
-        "normalized": "Struct[(Name,Type)]",
-        "package": "cil",
-        "partial": "Struct",
-        "signature": "Struct[(Name,Type)]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:StructRef",
-      "description": {
-        "fct-descr": "\u003cp\u003eReference to a struct type.\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "StructRef Name",
-        "fct-source": "src/Language-CIL-Types.html#Type",
-        "fct-type": "function",
-        "title": "StructRef"
-      },
-      "index": {
-        "description": "Reference to struct type",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "StructRef",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Struct Ref",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Sub",
-      "description": {
-        "fct-descr": "\u003cp\u003ea - b\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Sub Expr Expr Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Sub"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Sub",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Sub",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Typedef",
-      "description": {
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Typedef Type",
-        "fct-source": "src/Language-CIL-Types.html#Type",
-        "fct-type": "function",
-        "title": "Typedef"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Typedef",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Typedef",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:TypedefRef",
-      "description": {
-        "fct-descr": "\u003cp\u003eReference to a previously defined typedef.\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "TypedefRef Name",
-        "fct-source": "src/Language-CIL-Types.html#Type",
-        "fct-type": "function",
-        "title": "TypedefRef"
-      },
-      "index": {
-        "description": "Reference to previously defined typedef",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "TypedefRef",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Typedef Ref",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Union",
-      "description": {
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Union [(Name, Type)]",
-        "fct-source": "src/Language-CIL-Types.html#Type",
-        "fct-type": "function",
-        "title": "Union"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Union",
-        "normalized": "Union[(Name,Type)]",
-        "package": "cil",
-        "partial": "Union",
-        "signature": "Union[(Name,Type)]"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:UnionRef",
-      "description": {
-        "fct-descr": "\u003cp\u003eReference to a union type.\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "UnionRef Name",
-        "fct-source": "src/Language-CIL-Types.html#Type",
-        "fct-type": "function",
-        "title": "UnionRef"
-      },
-      "index": {
-        "description": "Reference to union type",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "UnionRef",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Union Ref",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Var",
-      "description": {
-        "fct-descr": "\u003cp\u003eVariable reference.\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Var Name Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Var"
-      },
-      "index": {
-        "description": "Variable reference",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Var",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Var",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Void",
-      "description": {
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Void",
-        "fct-source": "src/Language-CIL-Types.html#Type",
-        "fct-type": "function",
-        "title": "Void"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Void",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Void",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Volatile",
-      "description": {
-        "fct-descr": "\u003cp\u003eA volatile qualified type.\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Volatile Type",
-        "fct-source": "src/Language-CIL-Types.html#Type",
-        "fct-type": "function",
-        "title": "Volatile"
-      },
-      "index": {
-        "description": "volatile qualified type",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Volatile",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Volatile",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Word16",
-      "description": {
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Word16",
-        "fct-source": "src/Language-CIL-Types.html#Type",
-        "fct-type": "function",
-        "title": "Word16"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Word16",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Word",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Word32",
-      "description": {
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Word32",
-        "fct-source": "src/Language-CIL-Types.html#Type",
-        "fct-type": "function",
-        "title": "Word32"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Word32",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Word",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Word8",
-      "description": {
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Word8",
-        "fct-source": "src/Language-CIL-Types.html#Type",
-        "fct-type": "function",
-        "title": "Word8"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Word8",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Word",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Xor",
-      "description": {
-        "fct-descr": "\u003cp\u003ea ^ b\n\u003c/p\u003e",
-        "fct-module": "Language.CIL.Types",
-        "fct-package": "cil",
-        "fct-signature": "Xor Expr Expr Position",
-        "fct-source": "src/Language-CIL-Types.html#Expr",
-        "fct-type": "function",
-        "title": "Xor"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language CIL Types",
-        "module": "Language.CIL.Types",
-        "name": "Xor",
-        "normalized": "",
-        "package": "cil",
-        "partial": "Xor",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eParsing the C Intermediate Language (CIL).\n   CIL provides a manageable means to analyze and compile C code.\n\u003c/p\u003e\u003cp\u003eThe common method to reduce C to CIL is to use the cilly driver:\n\u003c/p\u003e\u003cpre\u003e cilly --merge --keepmerged { c-files-and-options }\n\u003c/pre\u003e\u003cp\u003e\u003ca\u003ehttp://cil.sourceforge.net/\u003c/a\u003e\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Language.CIL",
-        "fct-package": "cil",
-        "fct-signature": "module",
-        "fct-source": "src/Language-CIL.html",
-        "fct-type": "module",
-        "title": "CIL"
-      },
-      "index": {
-        "description": "Parsing the Intermediate Language CIL CIL provides manageable means to analyze and compile code The common method to reduce to CIL is to use the cilly driver cilly merge keepmerged c-files-and-options http cil.sourceforge.net",
-        "hierarchy": "Language CIL",
-        "module": "Language.CIL",
-        "name": "CIL",
-        "normalized": "",
-        "package": "cil",
-        "partial": "CIL",
-        "signature": ""
-      }
-    }
-  }
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "cil"
+      },
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.Parse",
+          "name": "Parse",
+          "package": "cil",
+          "source": "src/Language-CIL-Parse.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language CIL Parse",
+          "module": "Language.CIL.Parse",
+          "name": "Parse",
+          "package": "cil",
+          "partial": "Parse",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Parse.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eParses a merged CIL program, given a file name and contents.\n\u003c/p\u003e",
+          "module": "Language.CIL.Parse",
+          "name": "parseCIL",
+          "package": "cil",
+          "signature": "String -\u003e ByteString -\u003e Stmt",
+          "source": "src/Language-CIL-Parse.html#parseCIL",
+          "type": "function"
+        },
+        "index": {
+          "description": "Parses merged CIL program given file name and contents",
+          "hierarchy": "Language CIL Parse",
+          "module": "Language.CIL.Parse",
+          "name": "parseCIL",
+          "normalized": "String-\u003eByteString-\u003eStmt",
+          "package": "cil",
+          "partial": "CIL",
+          "signature": "String-\u003eByteString-\u003eStmt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Parse.html#v:parseCIL"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eFormat the file position of something with ties to the orignial source, like a \u003ccode\u003e\u003ca\u003eStmt\u003c/a\u003e\u003c/code\u003e or \u003ccode\u003e\u003ca\u003eExpr\u003c/a\u003e\u003c/code\u003e.\n\u003c/p\u003e",
+          "module": "Language.CIL.Parse",
+          "name": "position",
+          "package": "cil",
+          "signature": "a -\u003e String",
+          "source": "src/Language-CIL-Parse.html#position",
+          "type": "function"
+        },
+        "index": {
+          "description": "Format the file position of something with ties to the orignial source like Stmt or Expr",
+          "hierarchy": "Language CIL Parse",
+          "module": "Language.CIL.Parse",
+          "name": "position",
+          "normalized": "a-\u003eString",
+          "package": "cil",
+          "signature": "a-\u003eString",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Parse.html#v:position"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.StmtCore",
+          "name": "StmtCore",
+          "package": "cil",
+          "source": "src/Language-CIL-StmtCore.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language CIL StmtCore",
+          "module": "Language.CIL.StmtCore",
+          "name": "StmtCore",
+          "package": "cil",
+          "partial": "Stmt Core",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eStatements.\n\u003c/p\u003e",
+          "module": "Language.CIL.StmtCore",
+          "name": "Stmt",
+          "package": "cil",
+          "source": "src/Language-CIL-StmtCore.html#Stmt",
+          "type": "data"
+        },
+        "index": {
+          "description": "Statements",
+          "hierarchy": "Language CIL StmtCore",
+          "module": "Language.CIL.StmtCore",
+          "name": "Stmt",
+          "package": "cil",
+          "partial": "Stmt",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#t:Stmt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.StmtCore",
+          "name": "AssignApply",
+          "package": "cil",
+          "signature": "AssignApply Expr Apply Position",
+          "source": "src/Language-CIL-StmtCore.html#Stmt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL StmtCore",
+          "module": "Language.CIL.StmtCore",
+          "name": "AssignApply",
+          "package": "cil",
+          "partial": "Assign Apply",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:AssignApply"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.StmtCore",
+          "name": "AssignExpr",
+          "package": "cil",
+          "signature": "AssignExpr Expr Expr Position",
+          "source": "src/Language-CIL-StmtCore.html#Stmt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL StmtCore",
+          "module": "Language.CIL.StmtCore",
+          "name": "AssignExpr",
+          "package": "cil",
+          "partial": "Assign Expr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:AssignExpr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.StmtCore",
+          "name": "Break",
+          "package": "cil",
+          "signature": "Break Position",
+          "source": "src/Language-CIL-StmtCore.html#Stmt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL StmtCore",
+          "module": "Language.CIL.StmtCore",
+          "name": "Break",
+          "package": "cil",
+          "partial": "Break",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:Break"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.StmtCore",
+          "name": "Case",
+          "package": "cil",
+          "signature": "Case Expr Stmt Position",
+          "source": "src/Language-CIL-StmtCore.html#Stmt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL StmtCore",
+          "module": "Language.CIL.StmtCore",
+          "name": "Case",
+          "package": "cil",
+          "partial": "Case",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:Case"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.StmtCore",
+          "name": "Compound",
+          "package": "cil",
+          "signature": "Compound [Name] [Stmt] Position",
+          "source": "src/Language-CIL-StmtCore.html#Stmt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL StmtCore",
+          "module": "Language.CIL.StmtCore",
+          "name": "Compound",
+          "normalized": "Compound[Name][Stmt]Position",
+          "package": "cil",
+          "partial": "Compound",
+          "signature": "Compound[Name][Stmt]Position",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:Compound"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.StmtCore",
+          "name": "Default",
+          "package": "cil",
+          "signature": "Default Stmt Position",
+          "source": "src/Language-CIL-StmtCore.html#Stmt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL StmtCore",
+          "module": "Language.CIL.StmtCore",
+          "name": "Default",
+          "package": "cil",
+          "partial": "Default",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:Default"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.StmtCore",
+          "name": "FunctionDef",
+          "package": "cil",
+          "signature": "FunctionDef Name Type [(Name, Type)] Stmt Position",
+          "source": "src/Language-CIL-StmtCore.html#Stmt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL StmtCore",
+          "module": "Language.CIL.StmtCore",
+          "name": "FunctionDef",
+          "normalized": "FunctionDef Name Type[(Name,Type)]Stmt Position",
+          "package": "cil",
+          "partial": "Function Def",
+          "signature": "FunctionDef Name Type[(Name,Type)]Stmt Position",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:FunctionDef"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.StmtCore",
+          "name": "Goto",
+          "package": "cil",
+          "signature": "Goto Name Position",
+          "source": "src/Language-CIL-StmtCore.html#Stmt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL StmtCore",
+          "module": "Language.CIL.StmtCore",
+          "name": "Goto",
+          "package": "cil",
+          "partial": "Goto",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:Goto"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.StmtCore",
+          "name": "If",
+          "package": "cil",
+          "signature": "If Expr Stmt Stmt Position",
+          "source": "src/Language-CIL-StmtCore.html#Stmt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL StmtCore",
+          "module": "Language.CIL.StmtCore",
+          "name": "If",
+          "package": "cil",
+          "partial": "If",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:If"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.StmtCore",
+          "name": "Null",
+          "package": "cil",
+          "signature": "Null",
+          "source": "src/Language-CIL-StmtCore.html#Stmt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL StmtCore",
+          "module": "Language.CIL.StmtCore",
+          "name": "Null",
+          "package": "cil",
+          "partial": "Null",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:Null"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.StmtCore",
+          "name": "Return",
+          "package": "cil",
+          "signature": "Return (Maybe Expr) Position",
+          "source": "src/Language-CIL-StmtCore.html#Stmt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL StmtCore",
+          "module": "Language.CIL.StmtCore",
+          "name": "Return",
+          "package": "cil",
+          "partial": "Return",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:Return"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.StmtCore",
+          "name": "StmtApply",
+          "package": "cil",
+          "signature": "StmtApply Apply Position",
+          "source": "src/Language-CIL-StmtCore.html#Stmt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL StmtCore",
+          "module": "Language.CIL.StmtCore",
+          "name": "StmtApply",
+          "package": "cil",
+          "partial": "Stmt Apply",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:StmtApply"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.StmtCore",
+          "name": "Switch",
+          "package": "cil",
+          "signature": "Switch Expr Stmt Position",
+          "source": "src/Language-CIL-StmtCore.html#Stmt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL StmtCore",
+          "module": "Language.CIL.StmtCore",
+          "name": "Switch",
+          "package": "cil",
+          "partial": "Switch",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:Switch"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.StmtCore",
+          "name": "TypeDecl",
+          "package": "cil",
+          "signature": "TypeDecl Name Type Position",
+          "source": "src/Language-CIL-StmtCore.html#Stmt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL StmtCore",
+          "module": "Language.CIL.StmtCore",
+          "name": "TypeDecl",
+          "package": "cil",
+          "partial": "Type Decl",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:TypeDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.StmtCore",
+          "name": "VariableDef",
+          "package": "cil",
+          "signature": "VariableDef Name Type (Maybe Init) Position",
+          "source": "src/Language-CIL-StmtCore.html#Stmt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL StmtCore",
+          "module": "Language.CIL.StmtCore",
+          "name": "VariableDef",
+          "package": "cil",
+          "partial": "Variable Def",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:VariableDef"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.StmtCore",
+          "name": "While",
+          "package": "cil",
+          "signature": "While Expr Stmt Position",
+          "source": "src/Language-CIL-StmtCore.html#Stmt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL StmtCore",
+          "module": "Language.CIL.StmtCore",
+          "name": "While",
+          "package": "cil",
+          "partial": "While",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtCore.html#v:While"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.StmtGoto",
+          "name": "StmtGoto",
+          "package": "cil",
+          "source": "src/Language-CIL-StmtGoto.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language CIL StmtGoto",
+          "module": "Language.CIL.StmtGoto",
+          "name": "StmtGoto",
+          "package": "cil",
+          "partial": "Stmt Goto",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtGoto.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eStatements.\n\u003c/p\u003e",
+          "module": "Language.CIL.StmtGoto",
+          "name": "Stmt",
+          "package": "cil",
+          "source": "src/Language-CIL-StmtGoto.html#Stmt",
+          "type": "data"
+        },
+        "index": {
+          "description": "Statements",
+          "hierarchy": "Language CIL StmtGoto",
+          "module": "Language.CIL.StmtGoto",
+          "name": "Stmt",
+          "package": "cil",
+          "partial": "Stmt",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtGoto.html#t:Stmt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.StmtGoto",
+          "name": "AssignExpr",
+          "package": "cil",
+          "signature": "AssignExpr Expr Expr Position",
+          "source": "src/Language-CIL-StmtGoto.html#Stmt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL StmtGoto",
+          "module": "Language.CIL.StmtGoto",
+          "name": "AssignExpr",
+          "package": "cil",
+          "partial": "Assign Expr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtGoto.html#v:AssignExpr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.StmtGoto",
+          "name": "Compound",
+          "package": "cil",
+          "signature": "Compound [Name] [Stmt] Position",
+          "source": "src/Language-CIL-StmtGoto.html#Stmt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL StmtGoto",
+          "module": "Language.CIL.StmtGoto",
+          "name": "Compound",
+          "normalized": "Compound[Name][Stmt]Position",
+          "package": "cil",
+          "partial": "Compound",
+          "signature": "Compound[Name][Stmt]Position",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtGoto.html#v:Compound"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.StmtGoto",
+          "name": "Goto",
+          "package": "cil",
+          "signature": "Goto Name Position",
+          "source": "src/Language-CIL-StmtGoto.html#Stmt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL StmtGoto",
+          "module": "Language.CIL.StmtGoto",
+          "name": "Goto",
+          "package": "cil",
+          "partial": "Goto",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtGoto.html#v:Goto"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.StmtGoto",
+          "name": "If",
+          "package": "cil",
+          "signature": "If Expr Stmt Stmt Position",
+          "source": "src/Language-CIL-StmtGoto.html#Stmt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL StmtGoto",
+          "module": "Language.CIL.StmtGoto",
+          "name": "If",
+          "package": "cil",
+          "partial": "If",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtGoto.html#v:If"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.StmtGoto",
+          "name": "Null",
+          "package": "cil",
+          "signature": "Null",
+          "source": "src/Language-CIL-StmtGoto.html#Stmt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL StmtGoto",
+          "module": "Language.CIL.StmtGoto",
+          "name": "Null",
+          "package": "cil",
+          "partial": "Null",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtGoto.html#v:Null"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.StmtGoto",
+          "name": "TypeDecl",
+          "package": "cil",
+          "signature": "TypeDecl Name Type Position",
+          "source": "src/Language-CIL-StmtGoto.html#Stmt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL StmtGoto",
+          "module": "Language.CIL.StmtGoto",
+          "name": "TypeDecl",
+          "package": "cil",
+          "partial": "Type Decl",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtGoto.html#v:TypeDecl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.StmtGoto",
+          "name": "VariableDef",
+          "package": "cil",
+          "signature": "VariableDef Name Type (Maybe Init) Position",
+          "source": "src/Language-CIL-StmtGoto.html#Stmt",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL StmtGoto",
+          "module": "Language.CIL.StmtGoto",
+          "name": "VariableDef",
+          "package": "cil",
+          "partial": "Variable Def",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-StmtGoto.html#v:VariableDef"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.Types",
+          "name": "Types",
+          "package": "cil",
+          "source": "src/Language-CIL-Types.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Types",
+          "package": "cil",
+          "partial": "Types",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eFunction application.\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "Apply",
+          "package": "cil",
+          "source": "src/Language-CIL-Types.html#Apply",
+          "type": "data"
+        },
+        "index": {
+          "description": "Function application",
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Apply",
+          "package": "cil",
+          "partial": "Apply",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#t:Apply"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eExpressions.\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "Expr",
+          "package": "cil",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "data"
+        },
+        "index": {
+          "description": "Expressions",
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Expr",
+          "package": "cil",
+          "partial": "Expr",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#t:Expr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eInitialization expressions.\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "Init",
+          "package": "cil",
+          "source": "src/Language-CIL-Types.html#Init",
+          "type": "data"
+        },
+        "index": {
+          "description": "Initialization expressions",
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Init",
+          "package": "cil",
+          "partial": "Init",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#t:Init"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eIdentifiers.\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "Name",
+          "package": "cil",
+          "source": "src/Language-CIL-Types.html#Name",
+          "type": "type"
+        },
+        "index": {
+          "description": "Identifiers",
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Name",
+          "package": "cil",
+          "partial": "Name",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#t:Name"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eTypes.\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "Type",
+          "package": "cil",
+          "source": "src/Language-CIL-Types.html#Type",
+          "type": "data"
+        },
+        "index": {
+          "description": "Types",
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Type",
+          "package": "cil",
+          "partial": "Type",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#t:Type"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ea + b\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "Add",
+          "package": "cil",
+          "signature": "Add Expr Expr Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Add",
+          "package": "cil",
+          "partial": "Add",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Add"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003e&a\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "Adr",
+          "package": "cil",
+          "signature": "Adr Expr Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Adr",
+          "package": "cil",
+          "partial": "Adr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Adr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ea & b\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "And",
+          "package": "cil",
+          "signature": "And Expr Expr Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "And",
+          "package": "cil",
+          "partial": "And",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:And"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.Types",
+          "name": "Apply",
+          "package": "cil",
+          "signature": "Apply Expr [Expr]",
+          "source": "src/Language-CIL-Types.html#Apply",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Apply",
+          "normalized": "Apply Expr[Expr]",
+          "package": "cil",
+          "partial": "Apply",
+          "signature": "Apply Expr[Expr]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Apply"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.Types",
+          "name": "Array",
+          "package": "cil",
+          "signature": "Array Int Type",
+          "source": "src/Language-CIL-Types.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Array",
+          "package": "cil",
+          "partial": "Array",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Array"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.Types",
+          "name": "BitField",
+          "package": "cil",
+          "signature": "BitField Type [(Name, Int)]",
+          "source": "src/Language-CIL-Types.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "BitField",
+          "normalized": "BitField Type[(Name,Int)]",
+          "package": "cil",
+          "partial": "Bit Field",
+          "signature": "BitField Type[(Name,Int)]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:BitField"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003e(...) a\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "Cast",
+          "package": "cil",
+          "signature": "Cast Type Expr Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Cast",
+          "package": "cil",
+          "partial": "Cast",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Cast"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003e~a\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "Comp",
+          "package": "cil",
+          "signature": "Comp Expr Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Comp",
+          "package": "cil",
+          "partial": "Comp",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Comp"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.Types",
+          "name": "ConstChar",
+          "package": "cil",
+          "signature": "ConstChar Char Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "ConstChar",
+          "package": "cil",
+          "partial": "Const Char",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:ConstChar"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.Types",
+          "name": "ConstFloat",
+          "package": "cil",
+          "signature": "ConstFloat Double Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "ConstFloat",
+          "package": "cil",
+          "partial": "Const Float",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:ConstFloat"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.Types",
+          "name": "ConstInt",
+          "package": "cil",
+          "signature": "ConstInt Int Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "ConstInt",
+          "package": "cil",
+          "partial": "Const Int",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:ConstInt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.Types",
+          "name": "ConstString",
+          "package": "cil",
+          "signature": "ConstString String Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "ConstString",
+          "package": "cil",
+          "partial": "Const String",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:ConstString"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ea / b\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "Div",
+          "package": "cil",
+          "signature": "Div Expr Expr Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Div",
+          "package": "cil",
+          "partial": "Div",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Div"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.Types",
+          "name": "Double",
+          "package": "cil",
+          "signature": "Double",
+          "source": "src/Language-CIL-Types.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Double",
+          "package": "cil",
+          "partial": "Double",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Double"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.Types",
+          "name": "Enum",
+          "package": "cil",
+          "signature": "Enum [(Name, Int)]",
+          "source": "src/Language-CIL-Types.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Enum",
+          "normalized": "Enum[(Name,Int)]",
+          "package": "cil",
+          "partial": "Enum",
+          "signature": "Enum[(Name,Int)]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Enum"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eReference to an enum type.\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "EnumRef",
+          "package": "cil",
+          "signature": "EnumRef Name",
+          "source": "src/Language-CIL-Types.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "description": "Reference to an enum type",
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "EnumRef",
+          "package": "cil",
+          "partial": "Enum Ref",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:EnumRef"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ea == b\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "Eq",
+          "package": "cil",
+          "signature": "Eq Expr Expr Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Eq",
+          "package": "cil",
+          "partial": "Eq",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Eq"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.Types",
+          "name": "Float",
+          "package": "cil",
+          "signature": "Float",
+          "source": "src/Language-CIL-Types.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Float",
+          "package": "cil",
+          "partial": "Float",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Float"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.Types",
+          "name": "Function",
+          "package": "cil",
+          "signature": "Function Type [Type]",
+          "source": "src/Language-CIL-Types.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Function",
+          "normalized": "Function Type[Type]",
+          "package": "cil",
+          "partial": "Function",
+          "signature": "Function Type[Type]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Function"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ea \u003e= b\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "Ge",
+          "package": "cil",
+          "signature": "Ge Expr Expr Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Ge",
+          "package": "cil",
+          "partial": "Ge",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Ge"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ea \u003e b\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "Gt",
+          "package": "cil",
+          "signature": "Gt Expr Expr Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Gt",
+          "package": "cil",
+          "partial": "Gt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Gt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003e*a\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "Ind",
+          "package": "cil",
+          "signature": "Ind Expr Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Ind",
+          "package": "cil",
+          "partial": "Ind",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Ind"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ea[b]\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "Index",
+          "package": "cil",
+          "signature": "Index Expr Expr Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Index",
+          "package": "cil",
+          "partial": "Index",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Index"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.Types",
+          "name": "Init",
+          "package": "cil",
+          "signature": "Init Expr",
+          "source": "src/Language-CIL-Types.html#Init",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Init",
+          "package": "cil",
+          "partial": "Init",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Init"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.Types",
+          "name": "InitList",
+          "package": "cil",
+          "signature": "InitList [Init]",
+          "source": "src/Language-CIL-Types.html#Init",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "InitList",
+          "normalized": "InitList[Init]",
+          "package": "cil",
+          "partial": "Init List",
+          "signature": "InitList[Init]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:InitList"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.Types",
+          "name": "Int16",
+          "package": "cil",
+          "signature": "Int16",
+          "source": "src/Language-CIL-Types.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Int16",
+          "package": "cil",
+          "partial": "Int",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Int16"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.Types",
+          "name": "Int32",
+          "package": "cil",
+          "signature": "Int32",
+          "source": "src/Language-CIL-Types.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Int32",
+          "package": "cil",
+          "partial": "Int",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Int32"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.Types",
+          "name": "Int8",
+          "package": "cil",
+          "signature": "Int8",
+          "source": "src/Language-CIL-Types.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Int8",
+          "package": "cil",
+          "partial": "Int",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Int8"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ea \u003c= b\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "Le",
+          "package": "cil",
+          "signature": "Le Expr Expr Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Le",
+          "package": "cil",
+          "partial": "Le",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Le"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ea \u003c b\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "Lt",
+          "package": "cil",
+          "signature": "Lt Expr Expr Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Lt",
+          "package": "cil",
+          "partial": "Lt",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Lt"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ea.name\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "Mem",
+          "package": "cil",
+          "signature": "Mem Expr Name Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "description": "a.name",
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Mem",
+          "package": "cil",
+          "partial": "Mem",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Mem"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ea-\u003ename\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "MemInd",
+          "package": "cil",
+          "signature": "MemInd Expr Name Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "description": "name",
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "MemInd",
+          "package": "cil",
+          "partial": "Mem Ind",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:MemInd"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003e-a\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "Minus",
+          "package": "cil",
+          "signature": "Minus Expr Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Minus",
+          "package": "cil",
+          "partial": "Minus",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Minus"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ea * b\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "Mul",
+          "package": "cil",
+          "signature": "Mul Expr Expr Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Mul",
+          "package": "cil",
+          "partial": "Mul",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Mul"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003e!a\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "Neg",
+          "package": "cil",
+          "signature": "Neg Expr Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Neg",
+          "package": "cil",
+          "partial": "Neg",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Neg"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ea != b\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "Neq",
+          "package": "cil",
+          "signature": "Neq Expr Expr Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Neq",
+          "package": "cil",
+          "partial": "Neq",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Neq"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ea | b\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "Or",
+          "package": "cil",
+          "signature": "Or Expr Expr Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Or",
+          "package": "cil",
+          "partial": "Or",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Or"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.Types",
+          "name": "Ptr",
+          "package": "cil",
+          "signature": "Ptr Type",
+          "source": "src/Language-CIL-Types.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Ptr",
+          "package": "cil",
+          "partial": "Ptr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Ptr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ea % b\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "Rmd",
+          "package": "cil",
+          "signature": "Rmd Expr Expr Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Rmd",
+          "package": "cil",
+          "partial": "Rmd",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Rmd"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ea \u003c\u003c b\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "Shl",
+          "package": "cil",
+          "signature": "Shl Expr Expr Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Shl",
+          "package": "cil",
+          "partial": "Shl",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Shl"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ea \u003e\u003e b\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "Shr",
+          "package": "cil",
+          "signature": "Shr Expr Expr Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Shr",
+          "package": "cil",
+          "partial": "Shr",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Shr"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003esizeof(expr)\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "SizeE",
+          "package": "cil",
+          "signature": "SizeE Expr Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "description": "sizeof expr",
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "SizeE",
+          "package": "cil",
+          "partial": "Size",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:SizeE"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003esizeof(type)\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "SizeT",
+          "package": "cil",
+          "signature": "SizeT Type Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "description": "sizeof type",
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "SizeT",
+          "package": "cil",
+          "partial": "Size",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:SizeT"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.Types",
+          "name": "Struct",
+          "package": "cil",
+          "signature": "Struct [(Name, Type)]",
+          "source": "src/Language-CIL-Types.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Struct",
+          "normalized": "Struct[(Name,Type)]",
+          "package": "cil",
+          "partial": "Struct",
+          "signature": "Struct[(Name,Type)]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Struct"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eReference to a struct type.\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "StructRef",
+          "package": "cil",
+          "signature": "StructRef Name",
+          "source": "src/Language-CIL-Types.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "description": "Reference to struct type",
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "StructRef",
+          "package": "cil",
+          "partial": "Struct Ref",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:StructRef"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ea - b\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "Sub",
+          "package": "cil",
+          "signature": "Sub Expr Expr Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Sub",
+          "package": "cil",
+          "partial": "Sub",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Sub"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.Types",
+          "name": "Typedef",
+          "package": "cil",
+          "signature": "Typedef Type",
+          "source": "src/Language-CIL-Types.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Typedef",
+          "package": "cil",
+          "partial": "Typedef",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Typedef"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eReference to a previously defined typedef.\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "TypedefRef",
+          "package": "cil",
+          "signature": "TypedefRef Name",
+          "source": "src/Language-CIL-Types.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "description": "Reference to previously defined typedef",
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "TypedefRef",
+          "package": "cil",
+          "partial": "Typedef Ref",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:TypedefRef"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.Types",
+          "name": "Union",
+          "package": "cil",
+          "signature": "Union [(Name, Type)]",
+          "source": "src/Language-CIL-Types.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Union",
+          "normalized": "Union[(Name,Type)]",
+          "package": "cil",
+          "partial": "Union",
+          "signature": "Union[(Name,Type)]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Union"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eReference to a union type.\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "UnionRef",
+          "package": "cil",
+          "signature": "UnionRef Name",
+          "source": "src/Language-CIL-Types.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "description": "Reference to union type",
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "UnionRef",
+          "package": "cil",
+          "partial": "Union Ref",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:UnionRef"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eVariable reference.\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "Var",
+          "package": "cil",
+          "signature": "Var Name Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "description": "Variable reference",
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Var",
+          "package": "cil",
+          "partial": "Var",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Var"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.Types",
+          "name": "Void",
+          "package": "cil",
+          "signature": "Void",
+          "source": "src/Language-CIL-Types.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Void",
+          "package": "cil",
+          "partial": "Void",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Void"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eA volatile qualified type.\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "Volatile",
+          "package": "cil",
+          "signature": "Volatile Type",
+          "source": "src/Language-CIL-Types.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "description": "volatile qualified type",
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Volatile",
+          "package": "cil",
+          "partial": "Volatile",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Volatile"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.Types",
+          "name": "Word16",
+          "package": "cil",
+          "signature": "Word16",
+          "source": "src/Language-CIL-Types.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Word16",
+          "package": "cil",
+          "partial": "Word",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Word16"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.Types",
+          "name": "Word32",
+          "package": "cil",
+          "signature": "Word32",
+          "source": "src/Language-CIL-Types.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Word32",
+          "package": "cil",
+          "partial": "Word",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Word32"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.CIL.Types",
+          "name": "Word8",
+          "package": "cil",
+          "signature": "Word8",
+          "source": "src/Language-CIL-Types.html#Type",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Word8",
+          "package": "cil",
+          "partial": "Word",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Word8"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003ea ^ b\n\u003c/p\u003e",
+          "module": "Language.CIL.Types",
+          "name": "Xor",
+          "package": "cil",
+          "signature": "Xor Expr Expr Position",
+          "source": "src/Language-CIL-Types.html#Expr",
+          "type": "function"
+        },
+        "index": {
+          "hierarchy": "Language CIL Types",
+          "module": "Language.CIL.Types",
+          "name": "Xor",
+          "package": "cil",
+          "partial": "Xor",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL-Types.html#v:Xor"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eParsing the C Intermediate Language (CIL).\n   CIL provides a manageable means to analyze and compile C code.\n\u003c/p\u003e\u003cp\u003eThe common method to reduce C to CIL is to use the cilly driver:\n\u003c/p\u003e\u003cpre\u003e cilly --merge --keepmerged { c-files-and-options }\n\u003c/pre\u003e\u003cp\u003e\u003ca\u003ehttp://cil.sourceforge.net/\u003c/a\u003e\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Language.CIL",
+          "name": "CIL",
+          "package": "cil",
+          "source": "src/Language-CIL.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "Parsing the Intermediate Language CIL CIL provides manageable means to analyze and compile code The common method to reduce to CIL is to use the cilly driver cilly merge keepmerged c-files-and-options http cil.sourceforge.net",
+          "hierarchy": "Language CIL",
+          "module": "Language.CIL",
+          "name": "CIL",
+          "package": "cil",
+          "partial": "CIL",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/cil/docs/Language-CIL.html#"
+      }
+    }
+  ]
 ]

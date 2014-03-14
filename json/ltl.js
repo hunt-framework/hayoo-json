@@ -1,273 +1,264 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ltl/docs/Language-LTL.html#",
-      "description": {
-        "fct-descr": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eUsing linear temporal logic (LTL) to verify embedded software and hardware.\n\u003c/p\u003e\u003c/div\u003e",
-        "fct-module": "Language.LTL",
-        "fct-package": "ltl",
-        "fct-signature": "module",
-        "fct-source": "src/Language-LTL.html",
-        "fct-type": "module",
-        "title": "LTL"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "ltl"
       },
-      "index": {
-        "description": "Using linear temporal logic LTL to verify embedded software and hardware",
-        "hierarchy": "Language LTL",
-        "module": "Language.LTL",
-        "name": "LTL",
-        "normalized": "",
-        "package": "ltl",
-        "partial": "LTL",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ltl/docs/Language-LTL.html#t:B",
-      "description": {
-        "fct-module": "Language.LTL",
-        "fct-package": "ltl",
-        "fct-signature": "data",
-        "fct-source": "src/Language-LTL.html#B",
-        "fct-type": "data",
-        "title": "B"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language LTL",
-        "module": "Language.LTL",
-        "name": "B",
-        "normalized": "",
-        "package": "ltl",
-        "partial": "",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cdiv class=\"doc\"\u003e\u003cp\u003eUsing linear temporal logic (LTL) to verify embedded software and hardware.\n\u003c/p\u003e\u003c/div\u003e",
+          "module": "Language.LTL",
+          "name": "LTL",
+          "package": "ltl",
+          "source": "src/Language-LTL.html",
+          "type": "module"
+        },
+        "index": {
+          "description": "Using linear temporal logic LTL to verify embedded software and hardware",
+          "hierarchy": "Language LTL",
+          "module": "Language.LTL",
+          "name": "LTL",
+          "package": "ltl",
+          "partial": "LTL",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/ltl/docs/Language-LTL.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.LTL",
+          "name": "B",
+          "package": "ltl",
+          "source": "src/Language-LTL.html#B",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language LTL",
+          "module": "Language.LTL",
+          "name": "B",
+          "package": "ltl",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/ltl/docs/Language-LTL.html#t:B"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eVerification directives.\n\u003c/p\u003e",
+          "module": "Language.LTL",
+          "name": "Directive",
+          "package": "ltl",
+          "source": "src/Language-LTL.html#Directive",
+          "type": "data"
+        },
+        "index": {
+          "description": "Verification directives",
+          "hierarchy": "Language LTL",
+          "module": "Language.LTL",
+          "name": "Directive",
+          "package": "ltl",
+          "partial": "Directive",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/ltl/docs/Language-LTL.html#t:Directive"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eLTL (and other) expressions.\n\u003c/p\u003e",
+          "module": "Language.LTL",
+          "name": "E",
+          "package": "ltl",
+          "source": "src/Language-LTL.html#E",
+          "type": "data"
+        },
+        "index": {
+          "description": "LTL and other expressions",
+          "hierarchy": "Language LTL",
+          "module": "Language.LTL",
+          "name": "E",
+          "package": "ltl",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/ltl/docs/Language-LTL.html#t:E"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.LTL",
+          "name": "F",
+          "package": "ltl",
+          "source": "src/Language-LTL.html#F",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language LTL",
+          "module": "Language.LTL",
+          "name": "F",
+          "package": "ltl",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/ltl/docs/Language-LTL.html#t:F"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.LTL",
+          "name": "N",
+          "package": "ltl",
+          "source": "src/Language-LTL.html#N",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language LTL",
+          "module": "Language.LTL",
+          "name": "N",
+          "package": "ltl",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/ltl/docs/Language-LTL.html#t:N"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Language.LTL",
+          "name": "R",
+          "package": "ltl",
+          "source": "src/Language-LTL.html#R",
+          "type": "data"
+        },
+        "index": {
+          "hierarchy": "Language LTL",
+          "module": "Language.LTL",
+          "name": "R",
+          "package": "ltl",
+          "type": "data"
+        },
+        "uri": "http://hackage.haskell.org/package/ltl/docs/Language-LTL.html#t:R"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eProperty must be true.\n\u003c/p\u003e",
+          "module": "Language.LTL",
+          "name": "Assert",
+          "package": "ltl",
+          "signature": "Assert String (E F)",
+          "source": "src/Language-LTL.html#Directive",
+          "type": "function"
+        },
+        "index": {
+          "description": "Property must be true",
+          "hierarchy": "Language LTL",
+          "module": "Language.LTL",
+          "name": "Assert",
+          "package": "ltl",
+          "partial": "Assert",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ltl/docs/Language-LTL.html#v:Assert"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eProperty is assumed to be true.  Becomes an assertion in simulation.\n\u003c/p\u003e",
+          "module": "Language.LTL",
+          "name": "Assume",
+          "package": "ltl",
+          "signature": "Assume String (E F)",
+          "source": "src/Language-LTL.html#Directive",
+          "type": "function"
+        },
+        "index": {
+          "description": "Property is assumed to be true Becomes an assertion in simulation",
+          "hierarchy": "Language LTL",
+          "module": "Language.LTL",
+          "name": "Assume",
+          "package": "ltl",
+          "partial": "Assume",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ltl/docs/Language-LTL.html#v:Assume"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eSequence must be excited.\n\u003c/p\u003e",
+          "module": "Language.LTL",
+          "name": "Cover",
+          "package": "ltl",
+          "signature": "Cover String (E R)",
+          "source": "src/Language-LTL.html#Directive",
+          "type": "function"
+        },
+        "index": {
+          "description": "Sequence must be excited",
+          "hierarchy": "Language LTL",
+          "module": "Language.LTL",
+          "name": "Cover",
+          "package": "ltl",
+          "partial": "Cover",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ltl/docs/Language-LTL.html#v:Cover"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "description": "\u003cp\u003eCheck VCD data against a set of verification directives.  Returns a list of violations with time of failure (Just: safety violation, Nothing: liveness violation).\n\u003c/p\u003e",
+          "module": "Language.LTL",
+          "name": "checkVCD",
+          "package": "ltl",
+          "signature": "String -\u003e Int -\u003e [Directive] -\u003e [(Directive, Maybe Int)]",
+          "source": "src/Language-LTL.html#checkVCD",
+          "type": "function"
+        },
+        "index": {
+          "description": "Check VCD data against set of verification directives Returns list of violations with time of failure Just safety violation Nothing liveness violation",
+          "hierarchy": "Language LTL",
+          "module": "Language.LTL",
+          "name": "checkVCD",
+          "normalized": "String-\u003eInt-\u003e[Directive]-\u003e[(Directive,Maybe Int)]",
+          "package": "ltl",
+          "partial": "VCD",
+          "signature": "String-\u003eInt-\u003e[Directive]-\u003e[(Directive,Maybe Int)]",
+          "type": "function"
+        },
+        "uri": "http://hackage.haskell.org/package/ltl/docs/Language-LTL.html#v:checkVCD"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ltl/docs/Language-LTL.html#t:Directive",
-      "description": {
-        "fct-descr": "\u003cp\u003eVerification directives.\n\u003c/p\u003e",
-        "fct-module": "Language.LTL",
-        "fct-package": "ltl",
-        "fct-signature": "data",
-        "fct-source": "src/Language-LTL.html#Directive",
-        "fct-type": "data",
-        "title": "Directive"
-      },
-      "index": {
-        "description": "Verification directives",
-        "hierarchy": "Language LTL",
-        "module": "Language.LTL",
-        "name": "Directive",
-        "normalized": "",
-        "package": "ltl",
-        "partial": "Directive",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ltl/docs/Language-LTL.html#t:E",
-      "description": {
-        "fct-descr": "\u003cp\u003eLTL (and other) expressions.\n\u003c/p\u003e",
-        "fct-module": "Language.LTL",
-        "fct-package": "ltl",
-        "fct-signature": "data",
-        "fct-source": "src/Language-LTL.html#E",
-        "fct-type": "data",
-        "title": "E"
-      },
-      "index": {
-        "description": "LTL and other expressions",
-        "hierarchy": "Language LTL",
-        "module": "Language.LTL",
-        "name": "E",
-        "normalized": "",
-        "package": "ltl",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ltl/docs/Language-LTL.html#t:F",
-      "description": {
-        "fct-module": "Language.LTL",
-        "fct-package": "ltl",
-        "fct-signature": "data",
-        "fct-source": "src/Language-LTL.html#F",
-        "fct-type": "data",
-        "title": "F"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language LTL",
-        "module": "Language.LTL",
-        "name": "F",
-        "normalized": "",
-        "package": "ltl",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ltl/docs/Language-LTL.html#t:N",
-      "description": {
-        "fct-module": "Language.LTL",
-        "fct-package": "ltl",
-        "fct-signature": "data",
-        "fct-source": "src/Language-LTL.html#N",
-        "fct-type": "data",
-        "title": "N"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language LTL",
-        "module": "Language.LTL",
-        "name": "N",
-        "normalized": "",
-        "package": "ltl",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ltl/docs/Language-LTL.html#t:R",
-      "description": {
-        "fct-module": "Language.LTL",
-        "fct-package": "ltl",
-        "fct-signature": "data",
-        "fct-source": "src/Language-LTL.html#R",
-        "fct-type": "data",
-        "title": "R"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "Language LTL",
-        "module": "Language.LTL",
-        "name": "R",
-        "normalized": "",
-        "package": "ltl",
-        "partial": "",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ltl/docs/Language-LTL.html#v:Assert",
-      "description": {
-        "fct-descr": "\u003cp\u003eProperty must be true.\n\u003c/p\u003e",
-        "fct-module": "Language.LTL",
-        "fct-package": "ltl",
-        "fct-signature": "Assert String (E F)",
-        "fct-source": "src/Language-LTL.html#Directive",
-        "fct-type": "function",
-        "title": "Assert"
-      },
-      "index": {
-        "description": "Property must be true",
-        "hierarchy": "Language LTL",
-        "module": "Language.LTL",
-        "name": "Assert",
-        "normalized": "",
-        "package": "ltl",
-        "partial": "Assert",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ltl/docs/Language-LTL.html#v:Assume",
-      "description": {
-        "fct-descr": "\u003cp\u003eProperty is assumed to be true.  Becomes an assertion in simulation.\n\u003c/p\u003e",
-        "fct-module": "Language.LTL",
-        "fct-package": "ltl",
-        "fct-signature": "Assume String (E F)",
-        "fct-source": "src/Language-LTL.html#Directive",
-        "fct-type": "function",
-        "title": "Assume"
-      },
-      "index": {
-        "description": "Property is assumed to be true Becomes an assertion in simulation",
-        "hierarchy": "Language LTL",
-        "module": "Language.LTL",
-        "name": "Assume",
-        "normalized": "",
-        "package": "ltl",
-        "partial": "Assume",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ltl/docs/Language-LTL.html#v:Cover",
-      "description": {
-        "fct-descr": "\u003cp\u003eSequence must be excited.\n\u003c/p\u003e",
-        "fct-module": "Language.LTL",
-        "fct-package": "ltl",
-        "fct-signature": "Cover String (E R)",
-        "fct-source": "src/Language-LTL.html#Directive",
-        "fct-type": "function",
-        "title": "Cover"
-      },
-      "index": {
-        "description": "Sequence must be excited",
-        "hierarchy": "Language LTL",
-        "module": "Language.LTL",
-        "name": "Cover",
-        "normalized": "",
-        "package": "ltl",
-        "partial": "Cover",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/ltl/docs/Language-LTL.html#v:checkVCD",
-      "description": {
-        "fct-descr": "\u003cp\u003eCheck VCD data against a set of verification directives.  Returns a list of violations with time of failure (Just: safety violation, Nothing: liveness violation).\n\u003c/p\u003e",
-        "fct-module": "Language.LTL",
-        "fct-package": "ltl",
-        "fct-signature": "String -\u003e Int -\u003e [Directive] -\u003e [(Directive, Maybe Int)]",
-        "fct-source": "src/Language-LTL.html#checkVCD",
-        "fct-type": "function",
-        "title": "checkVCD"
-      },
-      "index": {
-        "description": "Check VCD data against set of verification directives Returns list of violations with time of failure Just safety violation Nothing liveness violation",
-        "hierarchy": "Language LTL",
-        "module": "Language.LTL",
-        "name": "checkVCD",
-        "normalized": "String-\u003eInt-\u003e[Directive]-\u003e[(Directive,Maybe Int)]",
-        "package": "ltl",
-        "partial": "VCD",
-        "signature": "String-\u003eInt-\u003e[Directive]-\u003e[(Directive,Maybe Int)]"
-      }
-    }
-  }
+  ]
 ]

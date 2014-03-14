@@ -1,362 +1,354 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hspr-sh/docs/HSPR-SessionHandler.html#",
-      "description": {
-        "fct-module": "HSPR.SessionHandler",
-        "fct-package": "hspr-sh",
-        "fct-signature": "module",
-        "fct-source": "src/HSPR-SessionHandler.html",
-        "fct-type": "module",
-        "title": "SessionHandler"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "hspr-sh"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "HSPR SessionHandler",
-        "module": "HSPR.SessionHandler",
-        "name": "SessionHandler",
-        "normalized": "",
-        "package": "hspr-sh",
-        "partial": "Session Handler",
-        "signature": ""
-      }
+      "type": "context"
     }
   },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hspr-sh/docs/HSPR-SessionHandler.html#t:Expires",
-      "description": {
-        "fct-module": "HSPR.SessionHandler",
-        "fct-package": "hspr-sh",
-        "fct-signature": "type",
-        "fct-source": "src/HSPR-SessionHandler.html#Expires",
-        "fct-type": "type",
-        "title": "Expires"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HSPR SessionHandler",
-        "module": "HSPR.SessionHandler",
-        "name": "Expires",
-        "normalized": "",
-        "package": "hspr-sh",
-        "partial": "Expires",
-        "signature": ""
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HSPR.SessionHandler",
+          "name": "SessionHandler",
+          "package": "hspr-sh",
+          "source": "src/HSPR-SessionHandler.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "HSPR SessionHandler",
+          "module": "HSPR.SessionHandler",
+          "name": "SessionHandler",
+          "package": "hspr-sh",
+          "partial": "Session Handler",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/hspr-sh/docs/HSPR-SessionHandler.html#"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HSPR.SessionHandler",
+          "name": "Expires",
+          "package": "hspr-sh",
+          "source": "src/HSPR-SessionHandler.html#Expires",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "HSPR SessionHandler",
+          "module": "HSPR.SessionHandler",
+          "name": "Expires",
+          "package": "hspr-sh",
+          "partial": "Expires",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/hspr-sh/docs/HSPR-SessionHandler.html#t:Expires"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HSPR.SessionHandler",
+          "name": "Key",
+          "package": "hspr-sh",
+          "source": "src/HSPR-SessionHandler.html#Key",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "HSPR SessionHandler",
+          "module": "HSPR.SessionHandler",
+          "name": "Key",
+          "package": "hspr-sh",
+          "partial": "Key",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/hspr-sh/docs/HSPR-SessionHandler.html#t:Key"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HSPR.SessionHandler",
+          "name": "SessionData",
+          "package": "hspr-sh",
+          "source": "src/HSPR-SessionHandler.html#SessionData",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "HSPR SessionHandler",
+          "module": "HSPR.SessionHandler",
+          "name": "SessionData",
+          "package": "hspr-sh",
+          "partial": "Session Data",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/hspr-sh/docs/HSPR-SessionHandler.html#t:SessionData"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HSPR.SessionHandler",
+          "name": "SessionHandler",
+          "package": "hspr-sh",
+          "source": "src/HSPR-SessionHandler.html#SessionHandler",
+          "type": "class"
+        },
+        "index": {
+          "hierarchy": "HSPR SessionHandler",
+          "module": "HSPR.SessionHandler",
+          "name": "SessionHandler",
+          "package": "hspr-sh",
+          "partial": "Session Handler",
+          "type": "class"
+        },
+        "uri": "http://hackage.haskell.org/package/hspr-sh/docs/HSPR-SessionHandler.html#t:SessionHandler"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HSPR.SessionHandler",
+          "name": "SessionId",
+          "package": "hspr-sh",
+          "source": "src/HSPR-SessionHandler.html#SessionId",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "HSPR SessionHandler",
+          "module": "HSPR.SessionHandler",
+          "name": "SessionId",
+          "package": "hspr-sh",
+          "partial": "Session Id",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/hspr-sh/docs/HSPR-SessionHandler.html#t:SessionId"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HSPR.SessionHandler",
+          "name": "SessionItem",
+          "package": "hspr-sh",
+          "source": "src/HSPR-SessionHandler.html#SessionItem",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "HSPR SessionHandler",
+          "module": "HSPR.SessionHandler",
+          "name": "SessionItem",
+          "package": "hspr-sh",
+          "partial": "Session Item",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/hspr-sh/docs/HSPR-SessionHandler.html#t:SessionItem"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HSPR.SessionHandler",
+          "name": "Value",
+          "package": "hspr-sh",
+          "source": "src/HSPR-SessionHandler.html#Value",
+          "type": "type"
+        },
+        "index": {
+          "hierarchy": "HSPR SessionHandler",
+          "module": "HSPR.SessionHandler",
+          "name": "Value",
+          "package": "hspr-sh",
+          "partial": "Value",
+          "type": "type"
+        },
+        "uri": "http://hackage.haskell.org/package/hspr-sh/docs/HSPR-SessionHandler.html#t:Value"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HSPR.SessionHandler",
+          "name": "deleteData",
+          "package": "hspr-sh",
+          "signature": "sh -\u003e SessionId -\u003e Key -\u003e IO ()",
+          "source": "src/HSPR-SessionHandler.html#deleteData",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "HSPR SessionHandler",
+          "module": "HSPR.SessionHandler",
+          "name": "deleteData",
+          "normalized": "a-\u003eSessionId-\u003eKey-\u003eIO()",
+          "package": "hspr-sh",
+          "partial": "Data",
+          "signature": "sh-\u003eSessionId-\u003eKey-\u003eIO()",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/hspr-sh/docs/HSPR-SessionHandler.html#v:deleteData"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HSPR.SessionHandler",
+          "name": "deleteSession",
+          "package": "hspr-sh",
+          "signature": "sh -\u003e SessionId -\u003e IO ()",
+          "source": "src/HSPR-SessionHandler.html#deleteSession",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "HSPR SessionHandler",
+          "module": "HSPR.SessionHandler",
+          "name": "deleteSession",
+          "normalized": "a-\u003eSessionId-\u003eIO()",
+          "package": "hspr-sh",
+          "partial": "Session",
+          "signature": "sh-\u003eSessionId-\u003eIO()",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/hspr-sh/docs/HSPR-SessionHandler.html#v:deleteSession"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HSPR.SessionHandler",
+          "name": "insertNew",
+          "package": "hspr-sh",
+          "signature": "sh -\u003e SessionId -\u003e Expires -\u003e IO ()",
+          "source": "src/HSPR-SessionHandler.html#insertNew",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "HSPR SessionHandler",
+          "module": "HSPR.SessionHandler",
+          "name": "insertNew",
+          "normalized": "a-\u003eSessionId-\u003eExpires-\u003eIO()",
+          "package": "hspr-sh",
+          "partial": "New",
+          "signature": "sh-\u003eSessionId-\u003eExpires-\u003eIO()",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/hspr-sh/docs/HSPR-SessionHandler.html#v:insertNew"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HSPR.SessionHandler",
+          "name": "insertNewData",
+          "package": "hspr-sh",
+          "signature": "sh -\u003e SessionId -\u003e SessionItem -\u003e IO ()",
+          "source": "src/HSPR-SessionHandler.html#insertNewData",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "HSPR SessionHandler",
+          "module": "HSPR.SessionHandler",
+          "name": "insertNewData",
+          "normalized": "a-\u003eSessionId-\u003eSessionItem-\u003eIO()",
+          "package": "hspr-sh",
+          "partial": "New Data",
+          "signature": "sh-\u003eSessionId-\u003eSessionItem-\u003eIO()",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/hspr-sh/docs/HSPR-SessionHandler.html#v:insertNewData"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HSPR.SessionHandler",
+          "name": "lookupData",
+          "package": "hspr-sh",
+          "signature": "sh -\u003e SessionId -\u003e IO (Maybe SessionData)",
+          "source": "src/HSPR-SessionHandler.html#lookupData",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "HSPR SessionHandler",
+          "module": "HSPR.SessionHandler",
+          "name": "lookupData",
+          "normalized": "a-\u003eSessionId-\u003eIO(Maybe SessionData)",
+          "package": "hspr-sh",
+          "partial": "Data",
+          "signature": "sh-\u003eSessionId-\u003eIO(Maybe SessionData)",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/hspr-sh/docs/HSPR-SessionHandler.html#v:lookupData"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HSPR.SessionHandler",
+          "name": "updateData",
+          "package": "hspr-sh",
+          "signature": "sh -\u003e SessionId -\u003e SessionItem -\u003e IO ()",
+          "source": "src/HSPR-SessionHandler.html#updateData",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "HSPR SessionHandler",
+          "module": "HSPR.SessionHandler",
+          "name": "updateData",
+          "normalized": "a-\u003eSessionId-\u003eSessionItem-\u003eIO()",
+          "package": "hspr-sh",
+          "partial": "Data",
+          "signature": "sh-\u003eSessionId-\u003eSessionItem-\u003eIO()",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/hspr-sh/docs/HSPR-SessionHandler.html#v:updateData"
+      }
+    },
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "HSPR.SessionHandler",
+          "name": "updateExpires",
+          "package": "hspr-sh",
+          "signature": "sh -\u003e SessionId -\u003e Expires -\u003e IO ()",
+          "source": "src/HSPR-SessionHandler.html#updateExpires",
+          "type": "method"
+        },
+        "index": {
+          "hierarchy": "HSPR SessionHandler",
+          "module": "HSPR.SessionHandler",
+          "name": "updateExpires",
+          "normalized": "a-\u003eSessionId-\u003eExpires-\u003eIO()",
+          "package": "hspr-sh",
+          "partial": "Expires",
+          "signature": "sh-\u003eSessionId-\u003eExpires-\u003eIO()",
+          "type": "method"
+        },
+        "uri": "http://hackage.haskell.org/package/hspr-sh/docs/HSPR-SessionHandler.html#v:updateExpires"
       }
     }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hspr-sh/docs/HSPR-SessionHandler.html#t:Key",
-      "description": {
-        "fct-module": "HSPR.SessionHandler",
-        "fct-package": "hspr-sh",
-        "fct-signature": "type",
-        "fct-source": "src/HSPR-SessionHandler.html#Key",
-        "fct-type": "type",
-        "title": "Key"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HSPR SessionHandler",
-        "module": "HSPR.SessionHandler",
-        "name": "Key",
-        "normalized": "",
-        "package": "hspr-sh",
-        "partial": "Key",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hspr-sh/docs/HSPR-SessionHandler.html#t:SessionData",
-      "description": {
-        "fct-module": "HSPR.SessionHandler",
-        "fct-package": "hspr-sh",
-        "fct-signature": "type",
-        "fct-source": "src/HSPR-SessionHandler.html#SessionData",
-        "fct-type": "type",
-        "title": "SessionData"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HSPR SessionHandler",
-        "module": "HSPR.SessionHandler",
-        "name": "SessionData",
-        "normalized": "",
-        "package": "hspr-sh",
-        "partial": "Session Data",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hspr-sh/docs/HSPR-SessionHandler.html#t:SessionHandler",
-      "description": {
-        "fct-module": "HSPR.SessionHandler",
-        "fct-package": "hspr-sh",
-        "fct-signature": "class",
-        "fct-source": "src/HSPR-SessionHandler.html#SessionHandler",
-        "fct-type": "class",
-        "title": "SessionHandler"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HSPR SessionHandler",
-        "module": "HSPR.SessionHandler",
-        "name": "SessionHandler",
-        "normalized": "",
-        "package": "hspr-sh",
-        "partial": "Session Handler",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hspr-sh/docs/HSPR-SessionHandler.html#t:SessionId",
-      "description": {
-        "fct-module": "HSPR.SessionHandler",
-        "fct-package": "hspr-sh",
-        "fct-signature": "type",
-        "fct-source": "src/HSPR-SessionHandler.html#SessionId",
-        "fct-type": "type",
-        "title": "SessionId"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HSPR SessionHandler",
-        "module": "HSPR.SessionHandler",
-        "name": "SessionId",
-        "normalized": "",
-        "package": "hspr-sh",
-        "partial": "Session Id",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hspr-sh/docs/HSPR-SessionHandler.html#t:SessionItem",
-      "description": {
-        "fct-module": "HSPR.SessionHandler",
-        "fct-package": "hspr-sh",
-        "fct-signature": "type",
-        "fct-source": "src/HSPR-SessionHandler.html#SessionItem",
-        "fct-type": "type",
-        "title": "SessionItem"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HSPR SessionHandler",
-        "module": "HSPR.SessionHandler",
-        "name": "SessionItem",
-        "normalized": "",
-        "package": "hspr-sh",
-        "partial": "Session Item",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hspr-sh/docs/HSPR-SessionHandler.html#t:Value",
-      "description": {
-        "fct-module": "HSPR.SessionHandler",
-        "fct-package": "hspr-sh",
-        "fct-signature": "type",
-        "fct-source": "src/HSPR-SessionHandler.html#Value",
-        "fct-type": "type",
-        "title": "Value"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HSPR SessionHandler",
-        "module": "HSPR.SessionHandler",
-        "name": "Value",
-        "normalized": "",
-        "package": "hspr-sh",
-        "partial": "Value",
-        "signature": ""
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hspr-sh/docs/HSPR-SessionHandler.html#v:deleteData",
-      "description": {
-        "fct-module": "HSPR.SessionHandler",
-        "fct-package": "hspr-sh",
-        "fct-signature": "sh -\u003e SessionId -\u003e Key -\u003e IO ()",
-        "fct-source": "src/HSPR-SessionHandler.html#deleteData",
-        "fct-type": "method",
-        "title": "deleteData"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HSPR SessionHandler",
-        "module": "HSPR.SessionHandler",
-        "name": "deleteData",
-        "normalized": "a-\u003eSessionId-\u003eKey-\u003eIO()",
-        "package": "hspr-sh",
-        "partial": "Data",
-        "signature": "sh-\u003eSessionId-\u003eKey-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hspr-sh/docs/HSPR-SessionHandler.html#v:deleteSession",
-      "description": {
-        "fct-module": "HSPR.SessionHandler",
-        "fct-package": "hspr-sh",
-        "fct-signature": "sh -\u003e SessionId -\u003e IO ()",
-        "fct-source": "src/HSPR-SessionHandler.html#deleteSession",
-        "fct-type": "method",
-        "title": "deleteSession"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HSPR SessionHandler",
-        "module": "HSPR.SessionHandler",
-        "name": "deleteSession",
-        "normalized": "a-\u003eSessionId-\u003eIO()",
-        "package": "hspr-sh",
-        "partial": "Session",
-        "signature": "sh-\u003eSessionId-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hspr-sh/docs/HSPR-SessionHandler.html#v:insertNew",
-      "description": {
-        "fct-module": "HSPR.SessionHandler",
-        "fct-package": "hspr-sh",
-        "fct-signature": "sh -\u003e SessionId -\u003e Expires -\u003e IO ()",
-        "fct-source": "src/HSPR-SessionHandler.html#insertNew",
-        "fct-type": "method",
-        "title": "insertNew"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HSPR SessionHandler",
-        "module": "HSPR.SessionHandler",
-        "name": "insertNew",
-        "normalized": "a-\u003eSessionId-\u003eExpires-\u003eIO()",
-        "package": "hspr-sh",
-        "partial": "New",
-        "signature": "sh-\u003eSessionId-\u003eExpires-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hspr-sh/docs/HSPR-SessionHandler.html#v:insertNewData",
-      "description": {
-        "fct-module": "HSPR.SessionHandler",
-        "fct-package": "hspr-sh",
-        "fct-signature": "sh -\u003e SessionId -\u003e SessionItem -\u003e IO ()",
-        "fct-source": "src/HSPR-SessionHandler.html#insertNewData",
-        "fct-type": "method",
-        "title": "insertNewData"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HSPR SessionHandler",
-        "module": "HSPR.SessionHandler",
-        "name": "insertNewData",
-        "normalized": "a-\u003eSessionId-\u003eSessionItem-\u003eIO()",
-        "package": "hspr-sh",
-        "partial": "New Data",
-        "signature": "sh-\u003eSessionId-\u003eSessionItem-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hspr-sh/docs/HSPR-SessionHandler.html#v:lookupData",
-      "description": {
-        "fct-module": "HSPR.SessionHandler",
-        "fct-package": "hspr-sh",
-        "fct-signature": "sh -\u003e SessionId -\u003e IO (Maybe SessionData)",
-        "fct-source": "src/HSPR-SessionHandler.html#lookupData",
-        "fct-type": "method",
-        "title": "lookupData"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HSPR SessionHandler",
-        "module": "HSPR.SessionHandler",
-        "name": "lookupData",
-        "normalized": "a-\u003eSessionId-\u003eIO(Maybe SessionData)",
-        "package": "hspr-sh",
-        "partial": "Data",
-        "signature": "sh-\u003eSessionId-\u003eIO(Maybe SessionData)"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hspr-sh/docs/HSPR-SessionHandler.html#v:updateData",
-      "description": {
-        "fct-module": "HSPR.SessionHandler",
-        "fct-package": "hspr-sh",
-        "fct-signature": "sh -\u003e SessionId -\u003e SessionItem -\u003e IO ()",
-        "fct-source": "src/HSPR-SessionHandler.html#updateData",
-        "fct-type": "method",
-        "title": "updateData"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HSPR SessionHandler",
-        "module": "HSPR.SessionHandler",
-        "name": "updateData",
-        "normalized": "a-\u003eSessionId-\u003eSessionItem-\u003eIO()",
-        "package": "hspr-sh",
-        "partial": "Data",
-        "signature": "sh-\u003eSessionId-\u003eSessionItem-\u003eIO()"
-      }
-    }
-  },
-  {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/hspr-sh/docs/HSPR-SessionHandler.html#v:updateExpires",
-      "description": {
-        "fct-module": "HSPR.SessionHandler",
-        "fct-package": "hspr-sh",
-        "fct-signature": "sh -\u003e SessionId -\u003e Expires -\u003e IO ()",
-        "fct-source": "src/HSPR-SessionHandler.html#updateExpires",
-        "fct-type": "method",
-        "title": "updateExpires"
-      },
-      "index": {
-        "description": "",
-        "hierarchy": "HSPR SessionHandler",
-        "module": "HSPR.SessionHandler",
-        "name": "updateExpires",
-        "normalized": "a-\u003eSessionId-\u003eExpires-\u003eIO()",
-        "package": "hspr-sh",
-        "partial": "Expires",
-        "signature": "sh-\u003eSessionId-\u003eExpires-\u003eIO()"
-      }
-    }
-  }
+  ]
 ]

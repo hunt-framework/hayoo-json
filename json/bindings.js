@@ -1,26 +1,39 @@
 [
   {
-    "cmd": "update",
-    "document": {
-      "uri": "http://hackage.haskell.org/package/bindings/docs/Bindings-Deprecated.html#",
-      "description": {
-        "fct-module": "Bindings.Deprecated",
-        "fct-package": "bindings",
-        "fct-signature": "module",
-        "fct-source": "src/Bindings-Deprecated.html",
-        "fct-type": "module",
-        "title": "Deprecated"
+    "cmd": "delete-by-query",
+    "query": {
+      "contexts": [
+        "package"
+      ],
+      "query": {
+        "op": "case",
+        "type": "word",
+        "word": "bindings"
       },
-      "index": {
-        "description": "",
-        "hierarchy": "Bindings Deprecated",
-        "module": "Bindings.Deprecated",
-        "name": "Deprecated",
-        "normalized": "",
-        "package": "bindings",
-        "partial": "Deprecated",
-        "signature": ""
+      "type": "context"
+    }
+  },
+  [
+    {
+      "cmd": "insert",
+      "document": {
+        "description": {
+          "module": "Bindings.Deprecated",
+          "name": "Deprecated",
+          "package": "bindings",
+          "source": "src/Bindings-Deprecated.html",
+          "type": "module"
+        },
+        "index": {
+          "hierarchy": "Bindings Deprecated",
+          "module": "Bindings.Deprecated",
+          "name": "Deprecated",
+          "package": "bindings",
+          "partial": "Deprecated",
+          "type": "module"
+        },
+        "uri": "http://hackage.haskell.org/package/bindings/docs/Bindings-Deprecated.html#"
       }
     }
-  }
+  ]
 ]
