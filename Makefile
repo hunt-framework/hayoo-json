@@ -45,5 +45,19 @@ insert-packed: hayooContexts.js
 		i=$$(($$i+1)); \
 	done
 
+## insert complete hayoo index and save index
+
+JHOST	  = $(SERVER)
+JSONFILES = $(shell find json -name '*.js.bz2' -print | sort)
+
+insert-json:
+	i=1; \
+	for file in $(JSONFILES); do \
+		echo -n "\n$$i - $$(date) - $$file "; \
+		bzcat $$file    > xxx.js ; \
+		curl -X POST -d @"xxx.js" $(JHOST)/eval; \
+		i=$$(($$i+1)); \
+	done ; \
+        curl $(JHOST)/binary/save/hayoo-ix.$$(date +%FT%T)
 
 
