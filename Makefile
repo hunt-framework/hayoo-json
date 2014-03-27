@@ -56,6 +56,7 @@ insert-json:
 		echo -n "\n$$i - $$(date) - $$file "; \
 		bzcat $$file    > xxx.js ; \
 		curl -X POST -d @"xxx.js" $(JHOST)/eval; \
+		rm -f xxx.js ; \
 		i=$$(($$i+1)); \
 	done ; \
         curl $(JHOST)/binary/save/hayoo-ix.$$(date +%FT%T)
